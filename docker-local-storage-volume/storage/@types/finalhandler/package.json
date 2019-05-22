@@ -1,0 +1,840 @@
+{
+	"name": "@types/finalhandler",
+	"versions": {
+		"0.0.32": {
+			"name": "@types/finalhandler",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for finalhandler",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "64116fe11a5d003f610dbce14fa37a2aef23bd66609217d771a1168e91d23212",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/finalhandler@0.0.32",
+			"dist": {
+				"shasum": "85b56721e6a34028690e436ae3a2cd32df2f4d0a",
+				"size": 1676,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/finalhandler-0.0.32.tgz_1501006320922_0.2538903730455786"
+			},
+			"directories": {},
+			"publish_time": 1501006321090,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501006321090
+		},
+		"0.0.31": {
+			"name": "@types/finalhandler",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for finalhandler",
+			"license": "MIT",
+			"author": "Ilya Mochalov <https://github.com/chrootsu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "7185311341dac20a65247c3c56c1b9ebce5215ef5460a42ec623e251a6b663a5",
+			"_id": "@types/finalhandler@0.0.31",
+			"dist": {
+				"shasum": "ecf32f3a9bb43a6fb4045750ea1e552582d35dc3",
+				"size": 1185,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.31.tgz_1479848413137_0.4349940442480147"
+			},
+			"directories": {},
+			"publish_time": 1479848415002,
+			"_cnpm_publish_time": 1479848415002,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/finalhandler",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for finalhandler",
+			"license": "MIT",
+			"author": "Ilya Mochalov <https://github.com/chrootsu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "db0d00c905aa99dd7ed485a65e604eadb0503497781acbfb9b2c94cc3901101a",
+			"_id": "@types/finalhandler@0.0.30",
+			"dist": {
+				"shasum": "9a030f70297a4c1d2dde3ce0ce77ab157d4ec017",
+				"size": 1188,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.30.tgz_1477509940382_0.9558368481229991"
+			},
+			"directories": {},
+			"publish_time": 1477509940604,
+			"_cnpm_publish_time": 1477509940604,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/finalhandler",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for finalhandler",
+			"license": "MIT",
+			"author": "Ilya Mochalov <https://github.com/chrootsu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "27a40870972ae343c7e5051108b507c22890af65538b9de3e82739afb068125b",
+			"_id": "@types/finalhandler@0.0.29",
+			"dist": {
+				"shasum": "44f6bc241b8084e0a9d628fba6a7b3944b269e41",
+				"size": 1172,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.29.tgz_1474306332852_0.03365842578932643"
+			},
+			"directories": {},
+			"publish_time": 1474306333082,
+			"_cnpm_publish_time": 1474306333082,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/finalhandler",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for finalhandler",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/finalhandler@0.0.28",
+			"_shasum": "b69001f074cb923156f392b28125907235df4859",
+			"_from": "output\\finalhandler",
+			"_resolved": "file:output\\finalhandler",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b69001f074cb923156f392b28125907235df4859",
+				"size": 1154,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.28.tgz_1468506997909_0.9211694148834795"
+			},
+			"directories": {},
+			"publish_time": 1468507000007,
+			"_cnpm_publish_time": 1468507000007,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/finalhandler",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for finalhandler",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/finalhandler@0.0.27-alpha",
+			"_shasum": "2497f2b4a6bd6b924e0abb41c1e1c21c4b7d09c3",
+			"_from": "output\\finalhandler",
+			"_resolved": "file:output\\finalhandler",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2497f2b4a6bd6b924e0abb41c1e1c21c4b7d09c3",
+				"size": 1154,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.27-alpha.tgz_1468008413857_0.7752913939766586"
+			},
+			"directories": {},
+			"publish_time": 1468008414355,
+			"_cnpm_publish_time": 1468008414355,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/finalhandler",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for finalhandler",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/finalhandler@0.0.26-alpha",
+			"_shasum": "e984121bc0662c2f8417554eb0334a7243cc705e",
+			"_from": "output\\finalhandler",
+			"_resolved": "file:output\\finalhandler",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e984121bc0662c2f8417554eb0334a7243cc705e",
+				"size": 1156,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.26-alpha.tgz_1467591058703_0.3273079509381205"
+			},
+			"directories": {},
+			"publish_time": 1467591062371,
+			"_cnpm_publish_time": 1467591062371,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/finalhandler",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for finalhandler",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/finalhandler@0.0.25-alpha",
+			"_shasum": "716db79c3bea5c5156ca47570bcc6a28a1489aa5",
+			"_from": "output\\finalhandler",
+			"_resolved": "file:output\\finalhandler",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "716db79c3bea5c5156ca47570bcc6a28a1489aa5",
+				"size": 1156,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.25-alpha.tgz_1467425996585_0.02280075545422733"
+			},
+			"directories": {},
+			"publish_time": 1467426000051,
+			"_cnpm_publish_time": 1467426000051,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/finalhandler",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for finalhandler",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha"
+			},
+			"_id": "@types/finalhandler@0.0.24-alpha",
+			"_shasum": "3b51c6d47e88197540670424abd98afa7867bc0d",
+			"_from": "output\\finalhandler",
+			"_resolved": "file:output\\finalhandler",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3b51c6d47e88197540670424abd98afa7867bc0d",
+				"size": 1157,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.24-alpha.tgz_1467412867002_0.2587699352297932"
+			},
+			"directories": {},
+			"publish_time": 1467412869077,
+			"_cnpm_publish_time": 1467412869077,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/finalhandler",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for finalhandler",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/finalhandler@0.0.23-alpha",
+			"_shasum": "1458959a29a8b0bc646a2d28adb76cee2dd3162a",
+			"_from": "output\\finalhandler",
+			"_resolved": "file:output\\finalhandler",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1458959a29a8b0bc646a2d28adb76cee2dd3162a",
+				"size": 1150,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.23-alpha.tgz_1467401017641_0.1760848737321794"
+			},
+			"directories": {},
+			"publish_time": 1467401019742,
+			"_cnpm_publish_time": 1467401019742,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/finalhandler",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for finalhandler",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/finalhandler@0.0.22-alpha",
+			"_shasum": "2c43a19fe2bfc86614f182f8e0c1b79275419b94",
+			"_from": "output\\finalhandler",
+			"_resolved": "file:output\\finalhandler",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2c43a19fe2bfc86614f182f8e0c1b79275419b94",
+				"size": 1126,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.22-alpha.tgz_1464152062366_0.0962835787795484"
+			},
+			"directories": {},
+			"publish_time": 1464152065099,
+			"_cnpm_publish_time": 1464152065099,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/finalhandler",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for finalhandler",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/finalhandler@0.0.21-alpha",
+			"_shasum": "95cc2a3918a81dbc975b031f84c99d795db61c10",
+			"_from": "output\\finalhandler",
+			"_resolved": "file:output\\finalhandler",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "95cc2a3918a81dbc975b031f84c99d795db61c10",
+				"size": 1126,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.21-alpha.tgz_1463772964786_0.5147511314135045"
+			},
+			"directories": {},
+			"publish_time": 1463772967067,
+			"_cnpm_publish_time": 1463772967067,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/finalhandler",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for finalhandler from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"http": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/finalhandler@0.0.16-alpha",
+			"_shasum": "d331d6c27c2b5e606f67619cb79082059e17db51",
+			"_from": "output\\finalhandler",
+			"_resolved": "file:output\\finalhandler",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d331d6c27c2b5e606f67619cb79082059e17db51",
+				"size": 1139,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.16-alpha.tgz_1463691212847_0.9555100661236793"
+			},
+			"directories": {},
+			"publish_time": 1463691216300,
+			"_cnpm_publish_time": 1463691216300,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/finalhandler",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for finalhandler from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"http": "*"
+			},
+			"_id": "@types/finalhandler@0.0.15-alpha",
+			"_shasum": "9dc2fd665ff1475f4eb8f06e888a1ad6e7034938",
+			"_from": "output\\finalhandler",
+			"_resolved": "file:output\\finalhandler",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9dc2fd665ff1475f4eb8f06e888a1ad6e7034938",
+				"size": 1117,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/finalhandler-0.0.15-alpha.tgz_1463460992472_0.11968437465839088"
+			},
+			"directories": {},
+			"publish_time": 1463460993098,
+			"_cnpm_publish_time": 1463460993098,
+			"_hasShrinkwrap": false
+		},
+		"0.0.33": {
+			"name": "@types/finalhandler",
+			"version": "0.0.33",
+			"description": "TypeScript definitions for finalhandler",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "960a534c665959c6506cf3e7f8c1a19a41692082b05ecee22f33a1ac158b0b8f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/finalhandler@0.0.33",
+			"dist": {
+				"shasum": "517a6d6159072b3c2a8da40b3876cf10167b8380",
+				"size": 1679,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/finalhandler_0.0.33_1538052191587_0.796754777797666"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538052191677,
+			"_cnpm_publish_time": 1538052191677
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.33",
+		"ts2.0": "0.0.33",
+		"ts2.1": "0.0.33",
+		"ts2.2": "0.0.33",
+		"ts2.3": "0.0.33",
+		"ts2.4": "0.0.33",
+		"ts2.5": "0.0.33",
+		"ts2.6": "0.0.33",
+		"ts2.7": "0.0.33",
+		"ts2.8": "0.0.33",
+		"ts2.9": "0.0.33",
+		"ts3.0": "0.0.33",
+		"ts3.1": "0.0.33",
+		"ts3.2": "0.0.33"
+	},
+	"time": {
+		"modified": "2018-09-27T12:43:26.000Z",
+		"created": "2016-05-17T04:56:33.098Z",
+		"0.0.33": "2018-09-27T12:43:11.677Z",
+		"0.0.32": "2017-07-25T18:12:01.090Z",
+		"0.0.31": "2016-11-22T21:00:15.002Z",
+		"0.0.30": "2016-10-26T19:25:40.604Z",
+		"0.0.29": "2016-09-19T17:32:13.082Z",
+		"0.0.28": "2016-07-14T14:36:40.007Z",
+		"0.0.27-alpha": "2016-07-08T20:06:54.355Z",
+		"0.0.26-alpha": "2016-07-04T00:11:02.371Z",
+		"0.0.25-alpha": "2016-07-02T02:20:00.051Z",
+		"0.0.24-alpha": "2016-07-01T22:41:09.077Z",
+		"0.0.23-alpha": "2016-07-01T19:23:39.742Z",
+		"0.0.22-alpha": "2016-05-25T04:54:25.099Z",
+		"0.0.21-alpha": "2016-05-20T19:36:07.067Z",
+		"0.0.16-alpha": "2016-05-19T20:53:36.300Z",
+		"0.0.15-alpha": "2016-05-17T04:56:33.098Z"
+	},
+	"_distfiles": {
+		"finalhandler-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.32.tgz",
+			"sha": "85b56721e6a34028690e436ae3a2cd32df2f4d0a",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.31.tgz",
+			"sha": "ecf32f3a9bb43a6fb4045750ea1e552582d35dc3",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.30.tgz",
+			"sha": "9a030f70297a4c1d2dde3ce0ce77ab157d4ec017",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.29.tgz",
+			"sha": "44f6bc241b8084e0a9d628fba6a7b3944b269e41",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.28.tgz",
+			"sha": "b69001f074cb923156f392b28125907235df4859",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.27-alpha.tgz",
+			"sha": "2497f2b4a6bd6b924e0abb41c1e1c21c4b7d09c3",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.26-alpha.tgz",
+			"sha": "e984121bc0662c2f8417554eb0334a7243cc705e",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.25-alpha.tgz",
+			"sha": "716db79c3bea5c5156ca47570bcc6a28a1489aa5",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.24-alpha.tgz",
+			"sha": "3b51c6d47e88197540670424abd98afa7867bc0d",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.23-alpha.tgz",
+			"sha": "1458959a29a8b0bc646a2d28adb76cee2dd3162a",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.22-alpha.tgz",
+			"sha": "2c43a19fe2bfc86614f182f8e0c1b79275419b94",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.21-alpha.tgz",
+			"sha": "95cc2a3918a81dbc975b031f84c99d795db61c10",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.16-alpha.tgz",
+			"sha": "d331d6c27c2b5e606f67619cb79082059e17db51",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.15-alpha.tgz",
+			"sha": "9dc2fd665ff1475f4eb8f06e888a1ad6e7034938",
+			"registry": "cnpmjs"
+		},
+		"finalhandler-0.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/finalhandler/download/@types/finalhandler-0.0.33.tgz",
+			"sha": "517a6d6159072b3c2a8da40b3876cf10167b8380",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"4a31-F2J4OR0zYHYS2iU/2/W6KIQse5A\"",
+			"fetched": 1541833455668
+		}
+	},
+	"_rev": "2-a8de3eabe20e3677",
+	"readme": "# Installation\r\n> `npm install --save @types/finalhandler`\r\n\r\n# Summary\r\nThis package contains type definitions for finalhandler (https://github.com/pillarjs/finalhandler).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/finalhandler\r\n\r\nAdditional Details\r\n * Last updated: Thu, 27 Sep 2018 12:34:18 GMT\r\n * Dependencies: http, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Ilya Mochalov <https://github.com/chrootsu>."
+}

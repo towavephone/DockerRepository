@@ -1,0 +1,118 @@
+{
+	"name": "react-pdd-tab",
+	"versions": {
+		"0.0.1-security": {
+			"name": "react-pdd-tab",
+			"version": "0.0.1-security",
+			"description": "This package name is not currently in use, but was formerly occupied by another package. To avoid malicious use, npm is hanging on to the package name, but loosely, and we'll probably give it to you if you want it.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/security-holder.git"
+			},
+			"keywords": [],
+			"author": "",
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/npm/security-holder/issues"
+			},
+			"homepage": "https://github.com/npm/security-holder#readme",
+			"gitHead": "9ef10011153183d323ed420df5bb17eaf08ab730",
+			"_id": "react-pdd-tab@0.0.1-security",
+			"_shasum": "e954515560eabf89a56d70dff4b925549b24ea74",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "kmanion",
+				"email": "kiera@npmjs.com"
+			},
+			"dist": {
+				"shasum": "e954515560eabf89a56d70dff4b925549b24ea74",
+				"size": 580,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-pdd-tab/download/react-pdd-tab-0.0.1-security.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "npm",
+					"email": "npm@npmjs.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-pdd-tab-0.0.1-security.tgz_1486679627708_0.3306152140721679"
+			},
+			"directories": {},
+			"publish_time": 1486679629491,
+			"_cnpm_publish_time": 1486679629491,
+			"_hasShrinkwrap": false
+		},
+		"1.0.6": {
+			"name": "react-pdd-tab",
+			"version": "1.0.6",
+			"description": "Tab切换组件",
+			"main": "src/index.jsx",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"Tab",
+				"Tab切换"
+			],
+			"author": {
+				"name": "邃宇"
+			},
+			"license": "ISC",
+			"dependencies": {},
+			"directories": {
+				"test": "test"
+			},
+			"repository": {
+				"type": "git"
+			},
+			"_id": "react-pdd-tab@1.0.6",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "9.2.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-lK5JxfWuu4o256J4lXkJaUaZYB03odksneJdcm88Ms7g06LDCunqWuPM1YyZCEgIpaXoZG5AKR+ZPD/vCPfJFQ==",
+				"shasum": "c87717f2f621cd5ed6417f031c5614a51e71894e",
+				"tarball": "http://npmjs.towavephone.com/react-pdd-tab/-/react-pdd-tab-1.0.6.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.6"
+	},
+	"time": {
+		"modified": "2018-05-31T05:22:08.339Z",
+		"created": "2017-02-09T22:33:49.491Z",
+		"0.0.1-security": "2017-02-09T22:33:49.491Z",
+		"1.0.6": "2018-05-31T05:22:08.339Z"
+	},
+	"_distfiles": {
+		"react-pdd-tab-0.0.1-security.tgz": {
+			"url": "https://registry.npm.taobao.org/react-pdd-tab/download/react-pdd-tab-0.0.1-security.tgz",
+			"sha": "e954515560eabf89a56d70dff4b925549b24ea74",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {
+		"react-pdd-tab-1.0.6.tgz": {
+			"shasum": "c87717f2f621cd5ed6417f031c5614a51e71894e",
+			"version": "1.0.6"
+		}
+	},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"9e3-UI3TvrFE6D/qcxH5JoDlkCAQd5g\"",
+			"fetched": 1527747699011
+		}
+	},
+	"_rev": "17-37330ee6fe0bc4d7",
+	"readme": "ERROR: No README data found!"
+}

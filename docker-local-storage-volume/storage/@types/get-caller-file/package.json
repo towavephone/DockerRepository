@@ -1,0 +1,89 @@
+{
+	"name": "@types/get-caller-file",
+	"versions": {
+		"1.0.0": {
+			"name": "@types/get-caller-file",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for get-caller-file",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Klaus Meinhardt",
+					"url": "https://github.com/ajafff",
+					"githubUsername": "ajafff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "85b0bc5dc895cf819464f71e637461d4626150c30fe0fa5a727986674acb5a7d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/get-caller-file@1.0.0",
+			"dist": {
+				"shasum": "50805a80bed3bcd3d58f2cc2046c2f3c5d6bc91c",
+				"size": 1511,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/get-caller-file/download/@types/get-caller-file-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/get-caller-file_1.0.0_1518722090074_0.6687217378017145"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518722090121,
+			"_cnpm_publish_time": 1518722090121
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0",
+		"ts2.0": "1.0.0",
+		"ts2.1": "1.0.0",
+		"ts2.2": "1.0.0",
+		"ts2.3": "1.0.0",
+		"ts2.4": "1.0.0",
+		"ts2.5": "1.0.0",
+		"ts2.6": "1.0.0",
+		"ts2.7": "1.0.0",
+		"ts2.8": "1.0.0",
+		"ts2.9": "1.0.0",
+		"ts3.0": "1.0.0",
+		"ts3.1": "1.0.0",
+		"ts3.2": "1.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:12:36.000Z",
+		"created": "2018-02-15T19:14:50.121Z",
+		"1.0.0": "2018-02-15T19:14:50.121Z"
+	},
+	"_distfiles": {
+		"get-caller-file-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/get-caller-file/download/@types/get-caller-file-1.0.0.tgz",
+			"sha": "50805a80bed3bcd3d58f2cc2046c2f3c5d6bc91c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"963-V6xxIfM3+qpEc56iOXG2WKgUYcY\"",
+			"fetched": 1541833455761
+		}
+	},
+	"_rev": "2-f8ac33d2f97ee26a",
+	"readme": "# Installation\r\n> `npm install --save @types/get-caller-file`\r\n\r\n# Summary\r\nThis package contains type definitions for get-caller-file (https://github.com/stefanpenner/get-caller-file#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/get-caller-file\r\n\r\nAdditional Details\r\n * Last updated: Thu, 15 Feb 2018 19:14:38 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Klaus Meinhardt <https://github.com/ajafff>."
+}

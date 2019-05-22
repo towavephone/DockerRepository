@@ -1,0 +1,88 @@
+{
+	"name": "@types/cli-table",
+	"versions": {
+		"0.3.0": {
+			"name": "@types/cli-table",
+			"version": "0.3.0",
+			"description": "TypeScript definitions for cli-table",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "AryloYeung",
+					"url": "https://github.com/arylo",
+					"githubUsername": "arylo"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "f5971d2a4935796746e42f74aefd3a9e6cb9108fad0b160816b622b52853b215",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/cli-table@0.3.0",
+			"dist": {
+				"shasum": "f1857156bf5fd115c6a2db260ba0be1f8fc5671c",
+				"size": 1751,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cli-table/download/@types/cli-table-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cli-table_0.3.0_1526689158362_0.11125205862399046"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526689158433,
+			"_cnpm_publish_time": 1526689158433
+		}
+	},
+	"dist-tags": {
+		"latest": "0.3.0",
+		"ts2.1": "0.3.0",
+		"ts2.2": "0.3.0",
+		"ts2.3": "0.3.0",
+		"ts2.4": "0.3.0",
+		"ts2.5": "0.3.0",
+		"ts2.6": "0.3.0",
+		"ts2.7": "0.3.0",
+		"ts2.8": "0.3.0",
+		"ts2.9": "0.3.0",
+		"ts3.0": "0.3.0",
+		"ts3.1": "0.3.0",
+		"ts3.2": "0.3.0"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:41.000Z",
+		"created": "2018-05-19T00:19:18.433Z",
+		"0.3.0": "2018-05-19T00:19:18.433Z"
+	},
+	"_distfiles": {
+		"cli-table-0.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cli-table/download/@types/cli-table-0.3.0.tgz",
+			"sha": "f1857156bf5fd115c6a2db260ba0be1f8fc5671c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"8f0-9qKVF5F9UWlqFSqL9759xCBSBEw\"",
+			"fetched": 1541833453145
+		}
+	},
+	"_rev": "2-97ee7e2086ad9ca1",
+	"readme": "# Installation\r\n> `npm install --save @types/cli-table`\r\n\r\n# Summary\r\nThis package contains type definitions for cli-table (https://github.com/Automattic/cli-table).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped.git/tree/master/types/cli-table\r\n\r\nAdditional Details\r\n * Last updated: Sat, 19 May 2018 00:15:19 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by AryloYeung <https://github.com/arylo>."
+}

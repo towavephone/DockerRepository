@@ -1,0 +1,88 @@
+{
+	"name": "@types/ansi-regex",
+	"versions": {
+		"3.0.0": {
+			"name": "@types/ansi-regex",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for ansi-regex",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Manish Vachharajani",
+					"url": "https://github.com/mvachhar",
+					"githubUsername": "mvachhar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "a47596e8107276a1e75c6c407bc27586af76026505f550048cce56ed83fd4be6",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ansi-regex@3.0.0",
+			"dist": {
+				"shasum": "9ccce6d4a1eacf24b518ade9e9a953e2de6d6498",
+				"size": 1477,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-regex/download/@types/ansi-regex-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ansi-regex-3.0.0.tgz_1511917827718_0.641075907740742"
+			},
+			"directories": {},
+			"publish_time": 1511917827871,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511917827871
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.0",
+		"ts2.0": "3.0.0",
+		"ts2.1": "3.0.0",
+		"ts2.2": "3.0.0",
+		"ts2.3": "3.0.0",
+		"ts2.4": "3.0.0",
+		"ts2.5": "3.0.0",
+		"ts2.6": "3.0.0",
+		"ts2.7": "3.0.0",
+		"ts2.8": "3.0.0",
+		"ts2.9": "3.0.0",
+		"ts3.0": "3.0.0",
+		"ts3.1": "3.0.0",
+		"ts3.2": "3.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T19:53:36.000Z",
+		"created": "2017-11-29T01:10:27.871Z",
+		"3.0.0": "2017-11-29T01:10:27.871Z"
+	},
+	"_distfiles": {
+		"ansi-regex-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-regex/download/@types/ansi-regex-3.0.0.tgz",
+			"sha": "9ccce6d4a1eacf24b518ade9e9a953e2de6d6498",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833444599
+		}
+	},
+	"_rev": "2-adaeafd7e4dac736",
+	"readme": "# Installation\r\n> `npm install --save @types/ansi-regex`\r\n\r\n# Summary\r\nThis package contains type definitions for ansi-regex (https://github.com/chalk/ansi-regex#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ansi-regex\r\n\r\nAdditional Details\r\n * Last updated: Wed, 29 Nov 2017 01:09:44 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Manish Vachharajani <https://github.com/mvachhar>."
+}

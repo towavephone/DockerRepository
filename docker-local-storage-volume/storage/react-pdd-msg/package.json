@@ -1,0 +1,118 @@
+{
+	"name": "react-pdd-msg",
+	"versions": {
+		"0.0.1-security": {
+			"name": "react-pdd-msg",
+			"version": "0.0.1-security",
+			"description": "This package name is not currently in use, but was formerly occupied by another package. To avoid malicious use, npm is hanging on to the package name, but loosely, and we'll probably give it to you if you want it.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/security-holder.git"
+			},
+			"keywords": [],
+			"author": "",
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/npm/security-holder/issues"
+			},
+			"homepage": "https://github.com/npm/security-holder#readme",
+			"gitHead": "9ef10011153183d323ed420df5bb17eaf08ab730",
+			"_id": "react-pdd-msg@0.0.1-security",
+			"_shasum": "8a9ee99e25a3d51a854632d99a91fe94a9daa46c",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "kmanion",
+				"email": "kiera@npmjs.com"
+			},
+			"dist": {
+				"shasum": "8a9ee99e25a3d51a854632d99a91fe94a9daa46c",
+				"size": 579,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-pdd-msg/download/react-pdd-msg-0.0.1-security.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "npm",
+					"email": "npm@npmjs.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-pdd-msg-0.0.1-security.tgz_1486679559159_0.6301639112643898"
+			},
+			"directories": {},
+			"publish_time": 1486679559393,
+			"_cnpm_publish_time": 1486679559393,
+			"_hasShrinkwrap": false
+		},
+		"1.0.7": {
+			"name": "react-pdd-msg",
+			"version": "1.0.7",
+			"description": "弹出提示框组件",
+			"main": "src/index.jsx",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"弹出提示框",
+				"confirm"
+			],
+			"author": {
+				"name": "邃宇"
+			},
+			"license": "ISC",
+			"dependencies": {},
+			"directories": {
+				"test": "test"
+			},
+			"repository": {
+				"type": "git"
+			},
+			"_id": "react-pdd-msg@1.0.7",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "9.2.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-SthRBMt2EXCSSBwQgTVf864uvwlXsuspe40a1PpdvcHI1J+I+C6rMi2kAiMS8T4ZXm4+9VENTJfoc770XWILrQ==",
+				"shasum": "e7fcbfdf918f277be7d55f0fc38c088f51be3345",
+				"tarball": "http://npmjs.towavephone.com/react-pdd-msg/-/react-pdd-msg-1.0.7.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.7"
+	},
+	"time": {
+		"modified": "2018-05-31T05:21:50.345Z",
+		"created": "2017-02-09T22:32:39.393Z",
+		"0.0.1-security": "2017-02-09T22:32:39.393Z",
+		"1.0.7": "2018-05-31T05:21:50.345Z"
+	},
+	"_distfiles": {
+		"react-pdd-msg-0.0.1-security.tgz": {
+			"url": "https://registry.npm.taobao.org/react-pdd-msg/download/react-pdd-msg-0.0.1-security.tgz",
+			"sha": "8a9ee99e25a3d51a854632d99a91fe94a9daa46c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {
+		"react-pdd-msg-1.0.7.tgz": {
+			"shasum": "e7fcbfdf918f277be7d55f0fc38c088f51be3345",
+			"version": "1.0.7"
+		}
+	},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"9e3-JOM+IfZ2Kiy3UzPTzYoioe7YH+4\"",
+			"fetched": 1527747701872
+		}
+	},
+	"_rev": "16-2e558044407a5807",
+	"readme": "ERROR: No README data found!"
+}

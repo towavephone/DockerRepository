@@ -1,0 +1,325 @@
+{
+	"name": "@types/lodash.throttle",
+	"versions": {
+		"4.1.3": {
+			"name": "@types/lodash.throttle",
+			"version": "4.1.3",
+			"description": "TypeScript definitions for lodash.throttle",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d035b784091c03dc67774dc6ed6769e9654367918a26e1ebffb48fc8edd3cad8",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.throttle@4.1.3",
+			"dist": {
+				"shasum": "8bfa4fec519d09ebce56c815bcbff3e55c604db9",
+				"size": 1591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.throttle/download/@types/lodash.throttle-4.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.throttle-4.1.3.tgz_1502229121583_0.5491874059662223"
+			},
+			"directories": {},
+			"publish_time": 1502229121719,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502229121719
+		},
+		"4.1.2": {
+			"name": "@types/lodash.throttle",
+			"version": "4.1.2",
+			"description": "TypeScript definitions for lodash.throttle",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "eae5122c1d42c755bc8ba8445bf3279133d9c266feefb290cc0cc8b5189a0307",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.throttle@4.1.2",
+			"dist": {
+				"shasum": "52356fa3fa52b0327e73e92763d607f76f9ced5b",
+				"size": 872,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.throttle/download/@types/lodash.throttle-4.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.throttle-4.1.2.tgz_1490212868956_0.730879760812968"
+			},
+			"directories": {},
+			"publish_time": 1490212870794,
+			"_cnpm_publish_time": 1490212870794,
+			"_hasShrinkwrap": false
+		},
+		"4.1.1": {
+			"name": "@types/lodash.throttle",
+			"version": "4.1.1",
+			"description": "TypeScript definitions for lodash.throttle",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "60a185448487b51d10b20020262023e97c72d53ae5da9f40a1592ed0418ace88",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.throttle@4.1.1",
+			"dist": {
+				"shasum": "2c6e2746acd9ac1879f98c682ce772bacefc0994",
+				"size": 1042,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.throttle/download/@types/lodash.throttle-4.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.throttle-4.1.1.tgz_1485553851218_0.5601567805279046"
+			},
+			"directories": {},
+			"publish_time": 1485553853205,
+			"_cnpm_publish_time": 1485553853205,
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "@types/lodash.throttle",
+			"version": "4.1.0",
+			"description": "TypeScript definitions for lodash.throttle",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "386af006e54eef2f6e5088ebf7c5e8ed46702203d05a85fab111964d5743662a",
+			"_id": "@types/lodash.throttle@4.1.0",
+			"dist": {
+				"shasum": "dd40f58fd20f2f5cef456f78e210f8bfcbe54eaf",
+				"size": 1019,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.throttle/download/@types/lodash.throttle-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.throttle-4.1.0.tgz_1480973713841_0.9641260819043964"
+			},
+			"directories": {},
+			"publish_time": 1480973715787,
+			"_cnpm_publish_time": 1480973715787,
+			"_hasShrinkwrap": false
+		},
+		"4.1.4": {
+			"name": "@types/lodash.throttle",
+			"version": "4.1.4",
+			"description": "TypeScript definitions for lodash.throttle",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "5fefb40755967867e92832a88d0ae616abb1660e569b3dab24cb6e3c487cb420",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.throttle@4.1.4",
+			"dist": {
+				"shasum": "db210627eb05ef68af99344669818c5baad24039",
+				"size": 1594,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.throttle/download/@types/lodash.throttle-4.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.throttle_4.1.4_1532393707741_0.5261033104574702"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532393707817,
+			"_cnpm_publish_time": 1532393707817
+		}
+	},
+	"dist-tags": {
+		"latest": "4.1.4",
+		"ts2.0": "4.1.0",
+		"ts2.1": "4.1.1",
+		"ts2.2": "4.1.3",
+		"ts2.3": "4.1.3",
+		"ts2.4": "4.1.3",
+		"ts2.5": "4.1.3",
+		"ts2.6": "4.1.4",
+		"ts2.7": "4.1.4",
+		"ts2.8": "4.1.4",
+		"ts2.9": "4.1.4",
+		"ts3.0": "4.1.4",
+		"ts3.1": "4.1.4",
+		"ts3.2": "4.1.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:17:21.000Z",
+		"created": "2016-12-05T21:35:15.787Z",
+		"4.1.4": "2018-07-24T00:55:07.817Z",
+		"4.1.3": "2017-08-08T21:52:01.719Z",
+		"4.1.2": "2017-03-22T20:01:10.794Z",
+		"4.1.1": "2017-01-27T21:50:53.205Z",
+		"4.1.0": "2016-12-05T21:35:15.787Z"
+	},
+	"_distfiles": {
+		"lodash.throttle-4.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.throttle/download/@types/lodash.throttle-4.1.3.tgz",
+			"sha": "8bfa4fec519d09ebce56c815bcbff3e55c604db9",
+			"registry": "cnpmjs"
+		},
+		"lodash.throttle-4.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.throttle/download/@types/lodash.throttle-4.1.2.tgz",
+			"sha": "52356fa3fa52b0327e73e92763d607f76f9ced5b",
+			"registry": "cnpmjs"
+		},
+		"lodash.throttle-4.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.throttle/download/@types/lodash.throttle-4.1.1.tgz",
+			"sha": "2c6e2746acd9ac1879f98c682ce772bacefc0994",
+			"registry": "cnpmjs"
+		},
+		"lodash.throttle-4.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.throttle/download/@types/lodash.throttle-4.1.0.tgz",
+			"sha": "dd40f58fd20f2f5cef456f78e210f8bfcbe54eaf",
+			"registry": "cnpmjs"
+		},
+		"lodash.throttle-4.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.throttle/download/@types/lodash.throttle-4.1.4.tgz",
+			"sha": "db210627eb05ef68af99344669818c5baad24039",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833485067
+		}
+	},
+	"_rev": "2-a071994c7505eda6",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.throttle`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.throttle (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.throttle\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:12 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

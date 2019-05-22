@@ -1,0 +1,928 @@
+{
+	"name": "@types/loglevel",
+	"versions": {
+		"1.5.3": {
+			"name": "@types/loglevel",
+			"version": "1.5.3",
+			"description": "TypeScript definitions for loglevel",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stefan Profanter",
+					"url": "https://github.com/Pro",
+					"githubUsername": "Pro"
+				},
+				{
+					"name": "Gabor Szmetanko",
+					"url": "https://github.com/szmeti",
+					"githubUsername": "szmeti"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver",
+					"githubUsername": "screendriver"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "fb4530a64cd47c829b17812e4ed892f95cb8460e9acb130fba9d23aefd139e61",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/loglevel@1.5.3",
+			"dist": {
+				"shasum": "adfce55383edc5998a2170ad581b3e23d6adb5b8",
+				"size": 3871,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.5.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loglevel-1.5.3.tgz_1508356737680_0.9942384588066489"
+			},
+			"directories": {},
+			"publish_time": 1508356737764,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508356737764
+		},
+		"1.5.2": {
+			"name": "@types/loglevel",
+			"version": "1.5.2",
+			"description": "TypeScript definitions for loglevel",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stefan Profanter",
+					"url": "https://github.com/Pro",
+					"githubUsername": "Pro"
+				},
+				{
+					"name": "Gabor Szmetanko",
+					"url": "https://github.com/szmeti",
+					"githubUsername": "szmeti"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver",
+					"githubUsername": "screendriver"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e9771c9fdfe042c26737e7418138845638236eb56c663b00469bbb45908acf1c",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/loglevel@1.5.2",
+			"dist": {
+				"shasum": "5438a1058817e1dbf20042182b73e405bd49f6e0",
+				"size": 3867,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.5.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loglevel-1.5.2.tgz_1508255642441_0.032329027308151126"
+			},
+			"directories": {},
+			"publish_time": 1508255642516,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508255642516
+		},
+		"1.5.1": {
+			"name": "@types/loglevel",
+			"version": "1.5.1",
+			"description": "TypeScript definitions for loglevel",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stefan Profanter",
+					"url": "https://github.com/Pro",
+					"githubUsername": "Pro"
+				},
+				{
+					"name": "Florian Wagner",
+					"url": "https://github.com/flqw",
+					"githubUsername": "flqw"
+				},
+				{
+					"name": "Gabor Szmetanko",
+					"url": "https://github.com/szmeti",
+					"githubUsername": "szmeti"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver",
+					"githubUsername": "screendriver"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "dc0a08de420dd472731d3adaceb221b91b6e5d1c89463243c588a47c783df961",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/loglevel@1.5.1",
+			"dist": {
+				"shasum": "634be32ed33f273d42e9e27f8d1b038207d2e72e",
+				"size": 3911,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loglevel-1.5.1.tgz_1506585352952_0.8004401924554259"
+			},
+			"directories": {},
+			"publish_time": 1506585353028,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506585353028
+		},
+		"1.5.0": {
+			"name": "@types/loglevel",
+			"version": "1.5.0",
+			"description": "TypeScript definitions for loglevel",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stefan Profanter",
+					"url": "https://github.com/Pro",
+					"githubUsername": "Pro"
+				},
+				{
+					"name": "Florian Wagner",
+					"url": "https://github.com/flqw",
+					"githubUsername": "flqw"
+				},
+				{
+					"name": "Gabor Szmetanko",
+					"url": "https://github.com/szmeti",
+					"githubUsername": "szmeti"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver",
+					"githubUsername": "screendriver"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "40484869039644d6c9ccb5ed02439e4cc4d622276ed1f56a83999cd36aac35e4",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/loglevel@1.5.0",
+			"dist": {
+				"shasum": "23776112059a00e06845c9fda7369007a1e09183",
+				"size": 3868,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loglevel-1.5.0.tgz_1506466894653_0.37444677646271884"
+			},
+			"directories": {},
+			"publish_time": 1506466894722,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506466894722
+		},
+		"1.4.30": {
+			"name": "@types/loglevel",
+			"version": "1.4.30",
+			"description": "TypeScript definitions for loglevel",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stefan Profanter",
+					"url": "https://github.com/Pro"
+				},
+				{
+					"name": "Florian Wagner",
+					"url": "https://github.com/flqw"
+				},
+				{
+					"name": "Gabor Szmetanko",
+					"url": "https://github.com/szmeti"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "05f6533759cbc5b48725e44eede44ab9aae58a8a6af1a6d1739b0947d2f60dfc",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/loglevel@1.4.30",
+			"dist": {
+				"shasum": "31390d25abc1bdd6fede2f4c50029d2bd3c3ed60",
+				"size": 3697,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/loglevel-1.4.30.tgz_1503352680421_0.6493764440529048"
+			},
+			"directories": {},
+			"publish_time": 1503352680489,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352680489
+		},
+		"1.4.29": {
+			"name": "@types/loglevel",
+			"version": "1.4.29",
+			"description": "TypeScript definitions for loglevel 1.4.0",
+			"license": "MIT",
+			"author": "Stefan Profanter <https://github.com/Pro/>, Florian Wagner <https://github.com/flqw/>, Gabor Szmetanko <https://github.com/szmeti/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "ec2b0072e8d8b62b39d2f8fc7ff8a85a595ba4d4dbaebf64507686b7543db6a9",
+			"_id": "@types/loglevel@1.4.29",
+			"dist": {
+				"shasum": "4d1eaf46fb5cd245b647e58ff6907e5c077dfa23",
+				"size": 3187,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.29.tgz_1474307539232_0.9075675222557038"
+			},
+			"directories": {},
+			"publish_time": 1474307542345,
+			"_cnpm_publish_time": 1474307542345,
+			"_hasShrinkwrap": false
+		},
+		"1.4.28": {
+			"name": "@types/loglevel",
+			"version": "1.4.28",
+			"description": "TypeScript definitions for loglevel 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Profanter",
+				"email": "https://github.com/Pro/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/loglevel@1.4.28",
+			"_shasum": "be8480dd7ab7240f0cdf9726fac108ddbb29a519",
+			"_from": "output\\loglevel",
+			"_resolved": "file:output\\loglevel",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "be8480dd7ab7240f0cdf9726fac108ddbb29a519",
+				"size": 3180,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.28.tgz_1468509589186_0.22030786331743002"
+			},
+			"directories": {},
+			"publish_time": 1468509589719,
+			"_cnpm_publish_time": 1468509589719,
+			"_hasShrinkwrap": false
+		},
+		"1.4.27-alpha": {
+			"name": "@types/loglevel",
+			"version": "1.4.27-alpha",
+			"description": "TypeScript definitions for loglevel 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Profanter",
+				"email": "https://github.com/Pro/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/loglevel@1.4.27-alpha",
+			"_shasum": "a8ed59d29756d08d20093ad36d88e342d3887010",
+			"_from": "output\\loglevel",
+			"_resolved": "file:output\\loglevel",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a8ed59d29756d08d20093ad36d88e342d3887010",
+				"size": 3185,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.27-alpha.tgz_1468010768474_0.3887264223303646"
+			},
+			"directories": {},
+			"publish_time": 1468010771215,
+			"_cnpm_publish_time": 1468010771215,
+			"_hasShrinkwrap": false
+		},
+		"1.4.26-alpha": {
+			"name": "@types/loglevel",
+			"version": "1.4.26-alpha",
+			"description": "TypeScript definitions for loglevel 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Profanter",
+				"email": "https://github.com/Pro/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/loglevel@1.4.26-alpha",
+			"_shasum": "7de463379309b26bbdf9dc0ec429792ca5447b56",
+			"_from": "output\\loglevel",
+			"_resolved": "file:output\\loglevel",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7de463379309b26bbdf9dc0ec429792ca5447b56",
+				"size": 3184,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.26-alpha.tgz_1467593033078_0.5231226261239499"
+			},
+			"directories": {},
+			"publish_time": 1467593033595,
+			"_cnpm_publish_time": 1467593033595,
+			"_hasShrinkwrap": false
+		},
+		"1.4.25-alpha": {
+			"name": "@types/loglevel",
+			"version": "1.4.25-alpha",
+			"description": "TypeScript definitions for loglevel 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Profanter",
+				"email": "https://github.com/Pro/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/loglevel@1.4.25-alpha",
+			"_shasum": "516847f391be501bbeb1326c4a8e08e1ab708eec",
+			"_from": "output\\loglevel",
+			"_resolved": "file:output\\loglevel",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "516847f391be501bbeb1326c4a8e08e1ab708eec",
+				"size": 3182,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.25-alpha.tgz_1467427976302_0.8388571126852185"
+			},
+			"directories": {},
+			"publish_time": 1467427976890,
+			"_cnpm_publish_time": 1467427976890,
+			"_hasShrinkwrap": false
+		},
+		"1.4.24-alpha": {
+			"name": "@types/loglevel",
+			"version": "1.4.24-alpha",
+			"description": "TypeScript definitions for loglevel 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Profanter",
+				"email": "https://github.com/Pro/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/loglevel@1.4.24-alpha",
+			"_shasum": "91285280c89875b3b91550ab24e77bd5e681dfb7",
+			"_from": "output\\loglevel",
+			"_resolved": "file:output\\loglevel",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "91285280c89875b3b91550ab24e77bd5e681dfb7",
+				"size": 3182,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.24-alpha.tgz_1467415141365_0.25815117033198476"
+			},
+			"directories": {},
+			"publish_time": 1467415141999,
+			"_cnpm_publish_time": 1467415141999,
+			"_hasShrinkwrap": false
+		},
+		"1.4.23-alpha": {
+			"name": "@types/loglevel",
+			"version": "1.4.23-alpha",
+			"description": "TypeScript definitions for loglevel 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Profanter",
+				"email": "https://github.com/Pro/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/loglevel@1.4.23-alpha",
+			"_shasum": "aa01592ec9f67cdfa211ad7c22a74846e11cd7c3",
+			"_from": "output\\loglevel",
+			"_resolved": "file:output\\loglevel",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "aa01592ec9f67cdfa211ad7c22a74846e11cd7c3",
+				"size": 3171,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.23-alpha.tgz_1467403193397_0.284531612880528"
+			},
+			"directories": {},
+			"publish_time": 1467403196723,
+			"_cnpm_publish_time": 1467403196723,
+			"_hasShrinkwrap": false
+		},
+		"1.4.22-alpha": {
+			"name": "@types/loglevel",
+			"version": "1.4.22-alpha",
+			"description": "TypeScript definitions for loglevel 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Profanter",
+				"email": "https://github.com/Pro/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/loglevel@1.4.22-alpha",
+			"_shasum": "ba5a5bc76936ed931ea07cba962c13f87d0fac01",
+			"_from": "output\\loglevel",
+			"_resolved": "file:output\\loglevel",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ba5a5bc76936ed931ea07cba962c13f87d0fac01",
+				"size": 3152,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.22-alpha.tgz_1464153870435_0.005253535695374012"
+			},
+			"directories": {},
+			"publish_time": 1464153872827,
+			"_cnpm_publish_time": 1464153872827,
+			"_hasShrinkwrap": false
+		},
+		"1.4.21-alpha": {
+			"name": "@types/loglevel",
+			"version": "1.4.21-alpha",
+			"description": "TypeScript definitions for loglevel 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Profanter",
+				"email": "https://github.com/Pro/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/loglevel@1.4.21-alpha",
+			"_shasum": "f02b279527e49c94bbd1a2690a0f7f1bd735d6b2",
+			"_from": "output\\loglevel",
+			"_resolved": "file:output\\loglevel",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f02b279527e49c94bbd1a2690a0f7f1bd735d6b2",
+				"size": 3150,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.21-alpha.tgz_1463774785006_0.8364121753256768"
+			},
+			"directories": {},
+			"publish_time": 1463774787303,
+			"_cnpm_publish_time": 1463774787303,
+			"_hasShrinkwrap": false
+		},
+		"1.4.16-alpha": {
+			"name": "@types/loglevel",
+			"version": "1.4.16-alpha",
+			"description": "Type definitions for loglevel 1.4.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Profanter",
+				"email": "https://github.com/Pro/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/loglevel@1.4.16-alpha",
+			"_shasum": "99520783137c14a3e512ac457f840b9345fbd66b",
+			"_from": "output\\loglevel",
+			"_resolved": "file:output\\loglevel",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "99520783137c14a3e512ac457f840b9345fbd66b",
+				"size": 3165,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.16-alpha.tgz_1463693863548_0.39169140765443444"
+			},
+			"directories": {},
+			"publish_time": 1463693866885,
+			"_cnpm_publish_time": 1463693866885,
+			"_hasShrinkwrap": false
+		},
+		"1.4.15-alpha": {
+			"name": "@types/loglevel",
+			"version": "1.4.15-alpha",
+			"description": "Type definitions for loglevel 1.4.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Profanter",
+				"email": "https://github.com/Pro/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/loglevel@1.4.15-alpha",
+			"_shasum": "3524eea0ab2cf229e4f4990de5cc95dbd8593a2f",
+			"_from": "output\\loglevel",
+			"_resolved": "file:output\\loglevel",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3524eea0ab2cf229e4f4990de5cc95dbd8593a2f",
+				"size": 3150,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/loglevel-1.4.15-alpha.tgz_1463463168299_0.577107532415539"
+			},
+			"directories": {},
+			"publish_time": 1463463168850,
+			"_cnpm_publish_time": 1463463168850,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.5.3",
+		"ts2.0": "1.4.30",
+		"ts2.1": "1.5.3",
+		"ts2.2": "1.5.3",
+		"ts2.3": "1.5.3",
+		"ts2.4": "1.5.3",
+		"ts2.5": "1.5.3",
+		"ts2.6": "1.5.3",
+		"ts2.7": "1.5.3",
+		"ts2.8": "1.5.3",
+		"ts2.9": "1.5.3",
+		"ts3.0": "1.5.3",
+		"ts3.1": "1.5.3",
+		"ts3.2": "1.5.3"
+	},
+	"time": {
+		"modified": "2018-10-10T20:17:46.000Z",
+		"created": "2016-05-17T05:32:48.850Z",
+		"1.5.3": "2017-10-18T19:58:57.764Z",
+		"1.5.2": "2017-10-17T15:54:02.516Z",
+		"1.5.1": "2017-09-28T07:55:53.028Z",
+		"1.5.0": "2017-09-26T23:01:34.722Z",
+		"1.4.30": "2017-08-21T21:58:00.489Z",
+		"1.4.29": "2016-09-19T17:52:22.345Z",
+		"1.4.28": "2016-07-14T15:19:49.719Z",
+		"1.4.27-alpha": "2016-07-08T20:46:11.215Z",
+		"1.4.26-alpha": "2016-07-04T00:43:53.595Z",
+		"1.4.25-alpha": "2016-07-02T02:52:56.890Z",
+		"1.4.24-alpha": "2016-07-01T23:19:01.999Z",
+		"1.4.23-alpha": "2016-07-01T19:59:56.723Z",
+		"1.4.22-alpha": "2016-05-25T05:24:32.827Z",
+		"1.4.21-alpha": "2016-05-20T20:06:27.303Z",
+		"1.4.16-alpha": "2016-05-19T21:37:46.885Z",
+		"1.4.15-alpha": "2016-05-17T05:32:48.850Z"
+	},
+	"_distfiles": {
+		"loglevel-1.5.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.5.3.tgz",
+			"sha": "adfce55383edc5998a2170ad581b3e23d6adb5b8",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.5.2.tgz",
+			"sha": "5438a1058817e1dbf20042182b73e405bd49f6e0",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.5.1.tgz",
+			"sha": "634be32ed33f273d42e9e27f8d1b038207d2e72e",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.5.0.tgz",
+			"sha": "23776112059a00e06845c9fda7369007a1e09183",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.30.tgz",
+			"sha": "31390d25abc1bdd6fede2f4c50029d2bd3c3ed60",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.29.tgz",
+			"sha": "4d1eaf46fb5cd245b647e58ff6907e5c077dfa23",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.28.tgz",
+			"sha": "be8480dd7ab7240f0cdf9726fac108ddbb29a519",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.27-alpha.tgz",
+			"sha": "a8ed59d29756d08d20093ad36d88e342d3887010",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.26-alpha.tgz",
+			"sha": "7de463379309b26bbdf9dc0ec429792ca5447b56",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.25-alpha.tgz",
+			"sha": "516847f391be501bbeb1326c4a8e08e1ab708eec",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.24-alpha.tgz",
+			"sha": "91285280c89875b3b91550ab24e77bd5e681dfb7",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.23-alpha.tgz",
+			"sha": "aa01592ec9f67cdfa211ad7c22a74846e11cd7c3",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.22-alpha.tgz",
+			"sha": "ba5a5bc76936ed931ea07cba962c13f87d0fac01",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.21-alpha.tgz",
+			"sha": "f02b279527e49c94bbd1a2690a0f7f1bd735d6b2",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.16-alpha.tgz",
+			"sha": "99520783137c14a3e512ac457f840b9345fbd66b",
+			"registry": "cnpmjs"
+		},
+		"loglevel-1.4.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/loglevel/download/@types/loglevel-1.4.15-alpha.tgz",
+			"sha": "3524eea0ab2cf229e4f4990de5cc95dbd8593a2f",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833302759
+		}
+	},
+	"_rev": "2-b2def145c4f1920c",
+	"readme": "# Installation\r\n> `npm install --save @types/loglevel`\r\n\r\n# Summary\r\nThis package contains type definitions for loglevel (https://github.com/pimterry/loglevel).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/loglevel\r\n\r\nAdditional Details\r\n * Last updated: Wed, 18 Oct 2017 19:58:06 GMT\r\n * Dependencies: none\r\n * Global values: log\r\n\r\n# Credits\r\nThese definitions were written by Stefan Profanter <https://github.com/Pro>, Gabor Szmetanko <https://github.com/szmeti>, Christian Rackerseder <https://github.com/screendriver>."
+}

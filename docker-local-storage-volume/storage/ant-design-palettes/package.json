@@ -1,0 +1,302 @@
+{
+	"name": "ant-design-palettes",
+	"versions": {
+		"1.1.2": {
+			"name": "ant-design-palettes",
+			"version": "1.1.2",
+			"description": "Color palettes calculator of Ant Design",
+			"main": "lib/index.js",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/ant-design/ant-design-palettes.git"
+			},
+			"bugs": {
+				"url": "https://github.com/ant-design/ant-design-palettes/issues"
+			},
+			"scripts": {
+				"compile": "babel src --out-dir lib",
+				"prepublish": "npm run compile",
+				"test": "jest"
+			},
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"tinycolor2": "^1.4.1"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.26.0",
+				"babel-core": "^6.26.0",
+				"babel-jest": "^22.4.1",
+				"babel-preset-env": "^1.6.1",
+				"jest": "^22.4.2",
+				"regenerator-runtime": "^0.11.1"
+			},
+			"gitHead": "b1d45a027c1839a6423f9afa936bac9697250b4e",
+			"homepage": "https://github.com/ant-design/ant-design-palettes#readme",
+			"_id": "ant-design-palettes@1.1.2",
+			"_npmVersion": "5.7.1",
+			"_nodeVersion": "8.9.4",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "2df229fb8079cfb77dfcc2ba17ca7d9a2e3040de",
+				"size": 2864,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/ant-design-palettes/download/ant-design-palettes-1.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ant-design-palettes_1.1.2_1523288914486_0.2863001326223489"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523288914611,
+			"_cnpm_publish_time": 1523288914611
+		},
+		"1.1.1": {
+			"name": "ant-design-palettes",
+			"version": "1.1.1",
+			"description": "Color palettes calculator of Ant Design",
+			"main": "lib/index.js",
+			"module": "src/index.js",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/ant-design/ant-design-palettes.git"
+			},
+			"bugs": {
+				"url": "https://github.com/ant-design/ant-design-palettes/issues"
+			},
+			"scripts": {
+				"compile": "babel src --out-dir lib",
+				"prepublish": "npm run compile",
+				"test": "jest"
+			},
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"tinycolor2": "^1.4.1"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.26.0",
+				"babel-core": "^6.26.0",
+				"babel-jest": "^22.4.1",
+				"babel-preset-env": "^1.6.1",
+				"jest": "^22.4.2",
+				"regenerator-runtime": "^0.11.1"
+			},
+			"gitHead": "838df14b64940dd239e92e523b96941706c3feb8",
+			"homepage": "https://github.com/ant-design/ant-design-palettes#readme",
+			"_id": "ant-design-palettes@1.1.1",
+			"_npmVersion": "5.7.1",
+			"_nodeVersion": "8.9.4",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "e2712fc0b05fbdd705853f82426a1ff98bbc8a12",
+				"size": 2767,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/ant-design-palettes/download/ant-design-palettes-1.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ant-design-palettes_1.1.1_1520847404931_0.1646179718579377"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520847404989,
+			"_cnpm_publish_time": 1520847404989
+		},
+		"1.1.0": {
+			"name": "ant-design-palettes",
+			"version": "1.1.0",
+			"description": "Color palettes calculator of Ant Design",
+			"main": "lib/index.js",
+			"module": "es/index.js",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/ant-design/ant-design-palettes.git"
+			},
+			"bugs": {
+				"url": "https://github.com/ant-design/ant-design-palettes/issues"
+			},
+			"scripts": {
+				"compile": "babel src --out-dir lib",
+				"prepublish": "npm run compile",
+				"test": "jest"
+			},
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"tinycolor2": "^1.4.1"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.26.0",
+				"babel-core": "^6.26.0",
+				"babel-jest": "^22.4.1",
+				"babel-preset-env": "^1.6.1",
+				"jest": "^22.4.2",
+				"regenerator-runtime": "^0.11.1"
+			},
+			"gitHead": "677459ff37dccc74edec80e8df9872d626c6cc0e",
+			"homepage": "https://github.com/ant-design/ant-design-palettes#readme",
+			"_id": "ant-design-palettes@1.1.0",
+			"_npmVersion": "5.7.1",
+			"_nodeVersion": "8.9.4",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "f6c553792956ca8755347605ac0f8b46b7703d8a",
+				"size": 2766,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/ant-design-palettes/download/ant-design-palettes-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ant-design-palettes_1.1.0_1520847360452_0.2518091556989821"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520847360581,
+			"_cnpm_publish_time": 1520847360581
+		},
+		"1.0.0": {
+			"name": "ant-design-palettes",
+			"version": "1.0.0",
+			"description": "Color palettes calculator of Ant Design",
+			"main": "lib/index.js",
+			"module": "es/index.js",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/ant-design/ant-design-palettes.git"
+			},
+			"bugs": {
+				"url": "https://github.com/ant-design/ant-design-palettes/issues"
+			},
+			"scripts": {
+				"compile": "babel src --out-dir lib",
+				"prepublish": "npm run compile",
+				"test": "jest"
+			},
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"dependencies": {
+				"color": "^3.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.26.0",
+				"babel-core": "^6.26.0",
+				"babel-jest": "^22.4.1",
+				"babel-preset-env": "^1.6.1",
+				"jest": "^22.4.2",
+				"regenerator-runtime": "^0.11.1"
+			},
+			"gitHead": "938903f46bfb5edd343c4e68d40fad95468b02f8",
+			"homepage": "https://github.com/ant-design/ant-design-palettes#readme",
+			"_id": "ant-design-palettes@1.0.0",
+			"_npmVersion": "5.7.1",
+			"_nodeVersion": "8.9.4",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "9d0dc7ef50e1f361fcb7f6642cc192b563b7a5ec",
+				"size": 2730,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/ant-design-palettes/download/ant-design-palettes-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ant-design-palettes_1.0.0_1520844258163_0.10584423182192904"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520844258259,
+			"_cnpm_publish_time": 1520844258259
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.2"
+	},
+	"time": {
+		"modified": "2018-04-09T15:48:42.000Z",
+		"created": "2018-03-12T08:44:18.259Z",
+		"1.1.2": "2018-04-09T15:48:34.611Z",
+		"1.1.1": "2018-03-12T09:36:44.989Z",
+		"1.1.0": "2018-03-12T09:36:00.581Z",
+		"1.0.0": "2018-03-12T08:44:18.259Z"
+	},
+	"_distfiles": {
+		"ant-design-palettes-1.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/ant-design-palettes/download/ant-design-palettes-1.1.2.tgz",
+			"sha": "2df229fb8079cfb77dfcc2ba17ca7d9a2e3040de",
+			"registry": "cnpmjs"
+		},
+		"ant-design-palettes-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/ant-design-palettes/download/ant-design-palettes-1.1.1.tgz",
+			"sha": "e2712fc0b05fbdd705853f82426a1ff98bbc8a12",
+			"registry": "cnpmjs"
+		},
+		"ant-design-palettes-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/ant-design-palettes/download/ant-design-palettes-1.1.0.tgz",
+			"sha": "f6c553792956ca8755347605ac0f8b46b7703d8a",
+			"registry": "cnpmjs"
+		},
+		"ant-design-palettes-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/ant-design-palettes/download/ant-design-palettes-1.0.0.tgz",
+			"sha": "9d0dc7ef50e1f361fcb7f6642cc192b563b7a5ec",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1ea2-LeJaKbxGBkfEeIONo8lzJQvhbtc\"",
+			"fetched": 1528451141346
+		}
+	},
+	"_rev": "1-93c9e615dcb2dce1",
+	"readme": "# Ant Design Palettes\n\n[![](https://img.shields.io/travis/ant-design/ant-design-palettes/master.svg?style=flat-square)](https://travis-ci.org/ant-design/ant-design-palettes)\n[![npm package](https://img.shields.io/npm/v/ant-design-palettes.svg?style=flat-square)](https://www.npmjs.org/package/ant-design-palettes)\n\n:art: Color palettes calculator of [Ant Design](https://ant.design/docs/spec/colors).\n\n![](https://gw.alipayobjects.com/zos/rmsportal/cYDwIQtKOZRavAqKqfNq.png)\n\n## Usage\n\n```bash\n$ npm install ant-design-palettes --save\n```\n\n```js\nimport { generate, presetPalettes } from 'ant-design-palettes';\n\n// Generate color palettes by a given color\nconst colors = generate('#1890ff');\nconsole.log(colors); // ['#E6F7FF', '#BAE7FF', '#91D5FF', ''#69C0FF', '#40A9FF', '#1890FF', '#096DD9', '#0050B3', '#003A8C', '#002766']\n\nconsole.log(presetPalettes);\n/*\n{\n  red: [...],\n  volcano: [...],\n  orange: [...],\n  gold: [...],\n  yellow: [...],\n  lime: [...],\n  green: [...],\n  cyan: [...],\n  blue: [...],\n  geekblue: [...],\n  purple: [...],\n  magenta: [...],\n}\n*/\n```\n\n## Articles\n\n- [Ant Design Colors](https://ant.design/docs/spec/colors)\n- [Ant Design 色板生成算法演进之路](https://zhuanlan.zhihu.com/p/32422584)"
+}

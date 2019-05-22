@@ -1,0 +1,87 @@
+{
+	"name": "@types/intl",
+	"versions": {
+		"1.2.0": {
+			"name": "@types/intl",
+			"version": "1.2.0",
+			"description": "TypeScript definitions for intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Muhammad Ragib Hasin",
+					"url": "https://github.com/RagibHasin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b515d7f460f8d0e20a6c18264a00a955e5940ef9e8a95d0ac6a905d260ce3ff4",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/intl@1.2.0",
+			"dist": {
+				"shasum": "1245511f13064402087979f498764611a3c758fc",
+				"size": 1443,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/intl/download/@types/intl-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/intl-1.2.0.tgz_1502921243639_0.23100093309767544"
+			},
+			"directories": {},
+			"publish_time": 1502921243717,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502921243717
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.0",
+		"ts2.0": "1.2.0",
+		"ts2.1": "1.2.0",
+		"ts2.2": "1.2.0",
+		"ts2.3": "1.2.0",
+		"ts2.4": "1.2.0",
+		"ts2.5": "1.2.0",
+		"ts2.6": "1.2.0",
+		"ts2.7": "1.2.0",
+		"ts2.8": "1.2.0",
+		"ts2.9": "1.2.0",
+		"ts3.0": "1.2.0",
+		"ts3.1": "1.2.0",
+		"ts3.2": "1.2.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:56.000Z",
+		"created": "2017-08-16T22:07:23.717Z",
+		"1.2.0": "2017-08-16T22:07:23.717Z"
+	},
+	"_distfiles": {
+		"intl-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/intl/download/@types/intl-1.2.0.tgz",
+			"sha": "1245511f13064402087979f498764611a3c758fc",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541835897197
+		}
+	},
+	"_rev": "2-e233a7164eee9ed9",
+	"readme": "# Installation\r\n> `npm install --save @types/intl`\r\n\r\n# Summary\r\nThis package contains type definitions for intl (https://github.com/andyearnshaw/Intl.js).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/intl\r\n\r\nAdditional Details\r\n * Last updated: Wed, 16 Aug 2017 22:06:59 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Muhammad Ragib Hasin <https://github.com/RagibHasin>."
+}

@@ -1,0 +1,6279 @@
+{
+	"name": "gulp",
+	"versions": {
+		"4.0.0": {
+			"name": "gulp",
+			"version": "4.0.0",
+			"description": "The streaming build system.",
+			"homepage": "http://gulpjs.com",
+			"author": {
+				"name": "Gulp Team",
+				"email": "team@gulpjs.com",
+				"url": "http://gulpjs.com/"
+			},
+			"contributors": [
+				{
+					"name": "Eric Schoffstall",
+					"email": "yo@contra.io"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/gulpjs/gulp.git"
+			},
+			"license": "MIT",
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"main": "index.js",
+			"files": [
+				"LICENSE",
+				"index.js",
+				"bin"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"scripts": {
+				"lint": "eslint . && jscs index.js bin/ test/",
+				"pretest": "npm run lint",
+				"test": "mocha --async-only",
+				"cover": "istanbul cover _mocha --report lcovonly",
+				"coveralls": "npm run cover && istanbul-coveralls"
+			},
+			"dependencies": {
+				"glob-watcher": "^5.0.0",
+				"gulp-cli": "^2.0.0",
+				"undertaker": "^1.0.0",
+				"vinyl-fs": "^3.0.0"
+			},
+			"devDependencies": {
+				"eslint": "^1.7.3",
+				"eslint-config-gulp": "^2.0.0",
+				"expect": "^1.20.2",
+				"istanbul": "^0.4.3",
+				"istanbul-coveralls": "^1.0.3",
+				"jscs": "^2.3.5",
+				"jscs-preset-gulp": "^1.0.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.0.0",
+				"rimraf": "^2.2.5"
+			},
+			"keywords": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline",
+				"series",
+				"parallel",
+				"streaming"
+			],
+			"gitHead": "55eb23a268dcc7340bb40808600fd4802848c06f",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@4.0.0",
+			"_shasum": "95766c601dade4a77ed3e7b2b6dc03881b596366",
+			"_from": ".",
+			"_npmVersion": "2.15.1",
+			"_nodeVersion": "0.10.48",
+			"_npmUser": {
+				"name": "phated",
+				"email": "blaine.bublitz@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "95766c601dade4a77ed3e7b2b6dc03881b596366",
+				"size": 8333,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-4.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-4.0.0.tgz_1514770146014_0.5232551209628582"
+			},
+			"directories": {},
+			"publish_time": 1514770146863,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514770146863
+		},
+		"3.9.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.9.1",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/gulpjs/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion",
+				"gulp.1"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^1.0.0",
+				"chalk": "^1.0.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^3.0.0",
+				"interpret": "^1.0.0",
+				"liftoff": "^2.1.0",
+				"minimist": "^1.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^1.0.0",
+				"semver": "^4.1.0",
+				"tildify": "^1.0.0",
+				"v8flags": "^2.0.2",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"eslint": "^1.7.3",
+				"eslint-config-gulp": "^2.0.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.3.0",
+				"jscs": "^2.3.5",
+				"jscs-preset-gulp": "^1.0.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^2.0.1",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^5.0.1"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "eslint . && jscs *.js bin/ lib/ test/",
+				"pretest": "npm run lint",
+				"test": "mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"license": "MIT",
+			"gitHead": "9c14e3a13a73a32e424f144d62566671b2fcdbed",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.9.1",
+			"_shasum": "571ce45928dd40af6514fc4011866016c13845b4",
+			"_from": ".",
+			"_npmVersion": "2.14.14",
+			"_nodeVersion": "0.10.41",
+			"_npmUser": {
+				"name": "phated",
+				"email": "blaine@iceddev.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "571ce45928dd40af6514fc4011866016c13845b4",
+				"size": 10441,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.9.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-6-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-3.9.1.tgz_1454957415500_0.15343931876122952"
+			},
+			"directories": {},
+			"publish_time": 1454957416472,
+			"_cnpm_publish_time": 1454957416472,
+			"_hasShrinkwrap": false
+		},
+		"3.9.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.9.0",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/gulpjs/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^1.0.0",
+				"chalk": "^1.0.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^3.0.0",
+				"interpret": "^0.6.2",
+				"liftoff": "^2.1.0",
+				"minimist": "^1.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^1.0.0",
+				"semver": "^4.1.0",
+				"tildify": "^1.0.0",
+				"v8flags": "^2.0.2",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.3.0",
+				"jscs": "~1.12.0",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^1.0.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^2.0.1",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^5.0.1"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin test index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules && jscs lib bin test index.js",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"license": "MIT",
+			"gitHead": "657213a52d5e9c19b85df6a42f76341a98c08ae8",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.9.0",
+			"_shasum": "cf1fba4cb558bb8c6ae6c9613f583ae2620d214a",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.10.36",
+			"_npmUser": {
+				"name": "phated",
+				"email": "blaine@iceddev.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "cf1fba4cb558bb8c6ae6c9613f583ae2620d214a",
+				"size": 9480,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.9.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1433195447221,
+			"_cnpm_publish_time": 1433195447221,
+			"_hasShrinkwrap": false
+		},
+		"3.8.11": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.11",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^1.0.0",
+				"chalk": "^0.5.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^3.0.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^2.0.1",
+				"minimist": "^1.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^4.1.0",
+				"tildify": "^1.0.0",
+				"v8flags": "^2.0.2",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.3.0",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^1.0.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^2.0.1",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "84df40b0faabc2b61d576154fd1145e2146377ca",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.11",
+			"_shasum": "d557e0a7283eb4136491969b0497767972f1d28a",
+			"_from": ".",
+			"_npmVersion": "2.5.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "phated",
+				"email": "blaine@iceddev.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "d557e0a7283eb4136491969b0497767972f1d28a",
+				"size": 9227,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.11.tgz"
+			},
+			"directories": {},
+			"publish_time": 1423514566150,
+			"_cnpm_publish_time": 1423514566150,
+			"_hasShrinkwrap": false
+		},
+		"3.8.10": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.10",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^1.0.0",
+				"chalk": "^0.5.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^3.0.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.13.2",
+				"minimist": "^1.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^4.1.0",
+				"tildify": "^1.0.0",
+				"v8flags": "^1.0.1",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.3.0",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^1.0.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^2.0.1",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "0203bccdc7397991da68ea3e51fef7b2df75a46f",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.10",
+			"_shasum": "bfb8fc156be97820f02a7f8b3af61a86666f9e31",
+			"_from": ".",
+			"_npmVersion": "2.1.6",
+			"_nodeVersion": "0.10.33",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "bfb8fc156be97820f02a7f8b3af61a86666f9e31",
+				"size": 9165,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.10.tgz"
+			},
+			"directories": {},
+			"publish_time": 1415059978042,
+			"_cnpm_publish_time": 1415059978042,
+			"_hasShrinkwrap": false
+		},
+		"3.8.9": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.9",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.5.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^3.0.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.13.2",
+				"minimist": "^1.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^3.0.1",
+				"tildify": "^1.0.0",
+				"v8flags": "^1.0.1",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.3.0",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^0.4.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "b7486d8850f172f3533406c529510c7649a3a04f",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.9",
+			"_shasum": "90773dc79cb0b3087e5443c695b0f5a21548ccce",
+			"_from": ".",
+			"_npmVersion": "2.1.4",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "90773dc79cb0b3087e5443c695b0f5a21548ccce",
+				"size": 6613,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.9.tgz"
+			},
+			"directories": {},
+			"publish_time": 1413960981557,
+			"_cnpm_publish_time": 1413960981557,
+			"_hasShrinkwrap": false
+		},
+		"3.8.8": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.8",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.5.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^3.0.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.12.0",
+				"minimist": "^1.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^3.0.1",
+				"tildify": "^1.0.0",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.3.0",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^0.4.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "8f505c92c2066ab1ccd3011c1c7d81c4d2aa958e",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.8",
+			"_shasum": "0b0473e7cdfd04c785184513938397d4552cfe96",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "0b0473e7cdfd04c785184513938397d4552cfe96",
+				"size": 6355,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.8.tgz"
+			},
+			"directories": {},
+			"publish_time": 1410121103611,
+			"_cnpm_publish_time": 1410121103611,
+			"_hasShrinkwrap": false
+		},
+		"3.8.7": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.7",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.5.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^3.0.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.12.0",
+				"minimist": "^0.2.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^3.0.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.3.0",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^0.4.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "edcf732456409b7b8df9861b1108acbf866e5a39",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.7",
+			"_shasum": "187e5316d65aa5188de447b41b3c0ee9bf322be1",
+			"_from": ".",
+			"_npmVersion": "1.5.0-alpha-1",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "187e5316d65aa5188de447b41b3c0ee9bf322be1",
+				"size": 6368,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.7.tgz"
+			},
+			"directories": {},
+			"publish_time": 1406955435074,
+			"_cnpm_publish_time": 1406955435074,
+			"_hasShrinkwrap": false
+		},
+		"3.8.6": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.6",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.5.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^2.2.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.12.0",
+				"minimist": "^0.2.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^2.2.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.3.0",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^0.3.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "4dad0dd9750710effea9f2f52ef0bfeadcf9336d",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.6",
+			"_shasum": "ea5af86a434bee4c0a942ff06437837f093e2fc2",
+			"_from": ".",
+			"_npmVersion": "1.5.0-alpha-1",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ea5af86a434bee4c0a942ff06437837f093e2fc2",
+				"size": 6294,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.6.tgz"
+			},
+			"directories": {},
+			"publish_time": 1404943573290,
+			"_cnpm_publish_time": 1404943573290,
+			"_hasShrinkwrap": false
+		},
+		"3.8.5": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.5",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.4.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^2.2.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.11.0",
+				"minimist": "^0.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^2.2.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.2.3",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^0.2.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "d1481ec8e5eb75a50c8b5e795842f60ecf33dd75",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.5",
+			"_shasum": "45eb05481b94c6e2c414cd9e152fa4de87e83667",
+			"_from": ".",
+			"_npmVersion": "1.4.16",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "45eb05481b94c6e2c414cd9e152fa4de87e83667",
+				"size": 6307,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.5.tgz"
+			},
+			"directories": {},
+			"publish_time": 1403852010273,
+			"_cnpm_publish_time": 1403852010273,
+			"_hasShrinkwrap": false
+		},
+		"3.8.4": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.4",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.4.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^2.2.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.11.0",
+				"minimist": "^0.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^2.2.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.2.3",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^0.2.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "8e1eac3bb0c51d02ac74a2cc664b416f81cda88c",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.4",
+			"_shasum": "894a9cb239fb58ae072489adc65d0e09c9720122",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "894a9cb239fb58ae072489adc65d0e09c9720122",
+				"size": 6320,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.4.tgz"
+			},
+			"directories": {},
+			"publish_time": 1403851098223,
+			"_cnpm_publish_time": 1403851098223,
+			"_hasShrinkwrap": false
+		},
+		"3.8.3": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.3",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.4.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^2.2.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.11.0",
+				"minimist": "^0.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^2.2.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.2.3",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^0.2.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "ae627bc1e474cf78b8fa47c5557f435498485fa6",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.3",
+			"_shasum": "f9d89c3e868e2a77d85f4b1fd376e7ebc8a900c8",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "f9d89c3e868e2a77d85f4b1fd376e7ebc8a900c8",
+				"size": 6273,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1403817447774,
+			"_cnpm_publish_time": 1403817447774,
+			"_hasShrinkwrap": false
+		},
+		"3.8.2": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.2",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"man": [
+				"gulp.1"
+			],
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.4.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^2.2.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.11.0",
+				"minimist": "^0.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^2.2.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.2.3",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^0.2.0",
+				"marked-man": "^0.1.3",
+				"mkdirp": "^0.5.0",
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"prepublish": "marked-man --name gulp docs/CLI.md > gulp.1",
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "e96a804cd889eb63380ccb778f23ad15d9fd6705",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.2",
+			"_shasum": "a628cec5cd22da922a070fc9d2a0ab8b162390ef",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "a628cec5cd22da922a070fc9d2a0ab8b162390ef",
+				"size": 6241,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1403643176265,
+			"_cnpm_publish_time": 1403643176265,
+			"_hasShrinkwrap": false
+		},
+		"3.8.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.1",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.4.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^2.2.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.11.0",
+				"minimist": "^0.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^2.2.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.2.3",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^0.2.0",
+				"mkdirp": "^0.5.0",
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "94728501d9253ee03c67940845c8f1a341b84b79",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.1",
+			"_shasum": "4c4902f6684b6b6235217eec72cc8c78c276d35c",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "4c4902f6684b6b6235217eec72cc8c78c276d35c",
+				"size": 6163,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1403054767757,
+			"_cnpm_publish_time": 1403054767757,
+			"_hasShrinkwrap": false
+		},
+		"3.8.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.8.0",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.4.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^2.2.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.11.0",
+				"minimist": "^0.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^2.2.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.3.0"
+			},
+			"devDependencies": {
+				"coveralls": "^2.7.0",
+				"graceful-fs": "^3.0.0",
+				"istanbul": "^0.2.3",
+				"jshint": "^2.5.0",
+				"jshint-stylish": "^0.2.0",
+				"mkdirp": "^0.5.0",
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"q": "^1.0.0",
+				"rimraf": "^2.2.5",
+				"should": "^4.0.0"
+			},
+			"scripts": {
+				"lint": "jshint lib bin index.js --reporter node_modules/jshint-stylish/stylish.js --exclude node_modules",
+				"test": "npm run-script lint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "58460d234e6f90660a7a5e28a52e2498c3fbd3af",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.8.0",
+			"_shasum": "ceb5566bb5f932b882b95f0343af4542d46de11a",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ceb5566bb5f932b882b95f0343af4542d46de11a",
+				"size": 6108,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.8.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1402387091652,
+			"_cnpm_publish_time": 1402387091652,
+			"_hasShrinkwrap": false
+		},
+		"3.7.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.7.0",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.4.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^2.2.0",
+				"interpret": "^0.3.2",
+				"liftoff": "^0.11.0",
+				"minimist": "^0.1.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^2.2.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.2.0"
+			},
+			"devDependencies": {
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"coveralls": "^2.7.0",
+				"istanbul": "^0.2.3",
+				"should": "^4.0.0",
+				"rimraf": "^2.2.5",
+				"q": "^1.0.0",
+				"jshint": "^2.5.0",
+				"graceful-fs": "^2.0.1",
+				"mkdirp": "^0.5.0"
+			},
+			"scripts": {
+				"test": "jshint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.githubusercontent.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"gitHead": "2ae97419ad69c279b3e98533992aa9b9f3e6853e",
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.7.0",
+			"_shasum": "6f728d6ab2da8cadd1c58838cea48cb2dbd949e1",
+			"_from": ".",
+			"_npmVersion": "1.4.13",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "6f728d6ab2da8cadd1c58838cea48cb2dbd949e1",
+				"size": 5895,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.7.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1401591098788,
+			"_cnpm_publish_time": 1401591098788,
+			"_hasShrinkwrap": false
+		},
+		"3.6.2": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.6.2",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.4.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^2.2.0",
+				"liftoff": "^0.9.3",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^2.2.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.1.3"
+			},
+			"devDependencies": {
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"coveralls": "^2.7.0",
+				"istanbul": "^0.2.3",
+				"should": "^3.1.0",
+				"rimraf": "^2.2.5",
+				"q": "^1.0.0",
+				"jshint": "^2.5.0",
+				"graceful-fs": "^2.0.1",
+				"mkdirp": "^0.3.5"
+			},
+			"scripts": {
+				"test": "jshint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.github.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.6.2",
+			"_shasum": "ea6b33d768db4a22294fa6339afb61842f5e6fb5",
+			"_from": ".",
+			"_npmVersion": "1.4.7",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ea6b33d768db4a22294fa6339afb61842f5e6fb5",
+				"size": 4707,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.6.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1398302951712,
+			"_cnpm_publish_time": 1398302951712,
+			"_hasShrinkwrap": false
+		},
+		"3.6.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.6.1",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"archy": "^0.0.2",
+				"chalk": "^0.4.0",
+				"deprecated": "^0.0.1",
+				"gulp-util": "^2.2.0",
+				"liftoff": "^0.9.3",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"semver": "^2.2.1",
+				"tildify": "^0.2.0",
+				"vinyl-fs": "^0.1.3"
+			},
+			"devDependencies": {
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"coveralls": "^2.7.0",
+				"istanbul": "^0.2.3",
+				"should": "^3.1.0",
+				"rimraf": "^2.2.5",
+				"q": "^1.0.0",
+				"jshint": "^2.5.0",
+				"graceful-fs": "^2.0.1",
+				"mkdirp": "^0.3.5"
+			},
+			"scripts": {
+				"test": "jshint && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.github.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.6.1",
+			"dist": {
+				"shasum": "25e86b09866db1fed215debce1a5efef2b44c359",
+				"size": 4637,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.6.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.4",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1397698789691,
+			"_cnpm_publish_time": 1397698789691,
+			"_hasShrinkwrap": false
+		},
+		"3.6.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.6.0",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"gulp-util": "^2.2.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"vinyl-fs": "^0.1.0",
+				"semver": "^2.2.1",
+				"archy": "^0.0.2",
+				"deprecated": "^0.0.1",
+				"liftoff": "^0.9.3",
+				"chalk": "^0.4.0"
+			},
+			"devDependencies": {
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"coveralls": "^2.7.0",
+				"istanbul": "^0.2.3",
+				"should": "^3.1.0",
+				"rimraf": "^2.2.5",
+				"q": "^1.0.0",
+				"jshint": "^2.4.1",
+				"graceful-fs": "^2.0.1",
+				"gulp-jshint": "^1.4.0",
+				"mkdirp": "^0.3.5"
+			},
+			"scripts": {
+				"test": "node gulpfile.js && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.github.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.6.0",
+			"dist": {
+				"shasum": "d1e7256c50091f23678d34d343ab348536af3d73",
+				"size": 4635,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.6.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.4",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1395985477460,
+			"_cnpm_publish_time": 1395985477460,
+			"_hasShrinkwrap": false
+		},
+		"3.5.6": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.5.6",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin",
+				"completion"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"gulp-util": "^2.2.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"vinyl-fs": "^0.1.0",
+				"semver": "^2.2.1",
+				"archy": "^0.0.2",
+				"deprecated": "^0.0.1",
+				"liftoff": "^0.9.3",
+				"chalk": "^0.4.0"
+			},
+			"devDependencies": {
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"coveralls": "^2.7.0",
+				"istanbul": "^0.2.3",
+				"should": "^3.1.0",
+				"rimraf": "^2.2.5",
+				"q": "^1.0.0",
+				"jshint": "^2.4.1",
+				"graceful-fs": "^2.0.1",
+				"gulp-jshint": "^1.4.0",
+				"mkdirp": "^0.3.5"
+			},
+			"scripts": {
+				"test": "node gulpfile.js && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.github.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.5.6",
+			"dist": {
+				"shasum": "bbb9acb596c8dbf1783cc5f182ebc0f82a82489e",
+				"size": 4599,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.5.6.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.4",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1394744692312,
+			"_cnpm_publish_time": 1394744692312,
+			"_hasShrinkwrap": false
+		},
+		"3.5.5": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.5.5",
+			"homepage": "http://gulpjs.com",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/gulpjs/gulp"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"tags": [
+				"build",
+				"stream",
+				"system",
+				"make",
+				"tool",
+				"asset",
+				"pipeline"
+			],
+			"files": [
+				"index.js",
+				"lib",
+				"bin"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"gulp-util": "^2.2.0",
+				"orchestrator": "^0.3.0",
+				"pretty-hrtime": "^0.2.0",
+				"vinyl-fs": "^0.1.0",
+				"semver": "^2.2.1",
+				"archy": "^0.0.2",
+				"deprecated": "^0.0.1",
+				"liftoff": "^0.9.3",
+				"chalk": "^0.4.0"
+			},
+			"devDependencies": {
+				"mocha": "^1.17.0",
+				"mocha-lcov-reporter": "^0.0.1",
+				"coveralls": "^2.7.0",
+				"istanbul": "^0.2.3",
+				"should": "^3.1.0",
+				"rimraf": "^2.2.5",
+				"q": "^1.0.0",
+				"jshint": "^2.4.1",
+				"graceful-fs": "^2.0.1",
+				"gulp-jshint": "^1.4.0",
+				"mkdirp": "^0.3.5"
+			},
+			"scripts": {
+				"test": "node gulpfile.js && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://raw.github.com/gulpjs/gulp/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/gulpjs/gulp/issues"
+			},
+			"_id": "gulp@3.5.5",
+			"dist": {
+				"shasum": "dbf0a3e00333f19527c2d977f069e8fad5cbc53a",
+				"size": 3893,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.5.5.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.4",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1393711375746,
+			"_cnpm_publish_time": 1393711375746,
+			"_hasShrinkwrap": false
+		},
+		"3.5.2": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.5.2",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"vinyl-fs": "~0.0.2",
+				"semver": "~2.2.1",
+				"archy": "~0.0.2",
+				"deprecated": "~0.0.1",
+				"minimist": "~0.0.5"
+			},
+			"devDependencies": {
+				"mocha": "~1.17.0",
+				"mocha-lcov-reporter": "~0.0.1",
+				"coveralls": "~2.7.0",
+				"istanbul": "~0.2.3",
+				"should": "~3.1.0",
+				"rimraf": "~2.2.5",
+				"q": "~1.0.0",
+				"jshint": "~2.4.1",
+				"graceful-fs": "~2.0.1",
+				"gulp-jshint": "~1.3.4",
+				"mkdirp": "~0.3.5"
+			},
+			"scripts": {
+				"test": "node gulpfile.js && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.5.2",
+			"dist": {
+				"shasum": "efdbcf8fa2aa1f686a094d3e57c9221965abbf76",
+				"size": 22847,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.5.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1391651549345,
+			"_cnpm_publish_time": 1391651549345,
+			"_hasShrinkwrap": false
+		},
+		"3.5.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.5.1",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"vinyl-fs": "~0.0.2",
+				"semver": "~2.2.1",
+				"archy": "~0.0.2",
+				"deprecated": "~0.0.1",
+				"minimist": "~0.0.5"
+			},
+			"devDependencies": {
+				"mocha": "~1.17.0",
+				"mocha-lcov-reporter": "~0.0.1",
+				"coveralls": "~2.7.0",
+				"istanbul": "~0.2.3",
+				"should": "~3.1.0",
+				"rimraf": "~2.2.5",
+				"q": "~1.0.0",
+				"jshint": "~2.4.1",
+				"graceful-fs": "~2.0.1",
+				"gulp-jshint": "~1.3.4",
+				"mkdirp": "~0.3.5"
+			},
+			"scripts": {
+				"test": "node gulpfile.js && mocha --reporter spec",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.5.1",
+			"dist": {
+				"shasum": "7d32c667e2b5a154f205861a646fdf7f3830b8fe",
+				"size": 22408,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.5.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1391381125936,
+			"_cnpm_publish_time": 1391381125936,
+			"_hasShrinkwrap": false
+		},
+		"3.5.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.5.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"vinyl-fs": "~0.0.2",
+				"semver": "~2.2.1",
+				"archy": "~0.0.2",
+				"deprecated": "0.0.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.17.0",
+				"mocha-lcov-reporter": "~0.0.1",
+				"coveralls": "~2.6.1",
+				"istanbul": "~0.2.3",
+				"should": "~3.1.0",
+				"rimraf": "~2.2.5",
+				"q": "~1.0.0",
+				"jshint": "~2.4.1",
+				"graceful-fs": "~2.0.1",
+				"gulp-mocha": "~0.4.1",
+				"gulp-jshint": "~1.3.4",
+				"mkdirp": "~0.3.5"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint ./*.js && jshint ./bin/*.js && jshint ./lib/*.js && jshint ./test/*.js",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.5.0",
+			"dist": {
+				"shasum": "066991787fabb2b1c03dca7a9246e28575e526d1",
+				"size": 22561,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.5.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.24",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1390610794360,
+			"_cnpm_publish_time": 1390610794360,
+			"_hasShrinkwrap": false
+		},
+		"3.4.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.4.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"vinyl-fs": "0.0.1",
+				"semver": "~2.2.1",
+				"archy": "0.0.2"
+			},
+			"devDependencies": {
+				"mocha": "~1.17.0",
+				"mocha-lcov-reporter": "0.0.1",
+				"coveralls": "~2.6.1",
+				"istanbul": "~0.2.3",
+				"should": "~2.1.1",
+				"rimraf": "~2.2.5",
+				"q": "~1.0.0",
+				"jshint": "~2.4.1",
+				"graceful-fs": "~2.0.1",
+				"gulp-mocha": "~0.3.0",
+				"gulp-jshint": "~1.3.4"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint ./*.js && jshint ./bin/*.js && jshint ./lib/*.js && jshint ./test/*.js",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.4.0",
+			"dist": {
+				"shasum": "ad7b17e3a026812bfa50f2a341c4bed9d7d4af16",
+				"size": 20438,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.4.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.23",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1389954643066,
+			"_cnpm_publish_time": 1389954643066,
+			"_hasShrinkwrap": false
+		},
+		"3.3.4": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.3.4",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"glob-stream": "~3.1.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"glob-watcher": "~0.0.1",
+				"graceful-fs": "~2.0.1",
+				"through": "~2.3.4",
+				"map-stream": "~0.1.0",
+				"semver": "~2.2.1"
+			},
+			"devDependencies": {
+				"mocha": "~1.17.0",
+				"mocha-lcov-reporter": "0.0.1",
+				"coveralls": "~2.6.1",
+				"istanbul": "~0.2.3",
+				"should": "~2.1.1",
+				"rimraf": "~2.2.5",
+				"q": "~1.0.0",
+				"jshint": "~2.4.1"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.3.4",
+			"dist": {
+				"shasum": "826f514bf6235d632464b8f1f0e7de19ed07e162",
+				"size": 20794,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.3.4.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.23",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1389746394699,
+			"_cnpm_publish_time": 1389746394699,
+			"_hasShrinkwrap": false
+		},
+		"3.3.2": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.3.2",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"glob-stream": "~3.1.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"glob-watcher": "0.0.1",
+				"graceful-fs": "~2.0.1",
+				"through": "~2.3.4",
+				"map-stream": "0.0.4",
+				"semver": "~2.2.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"mocha-lcov-reporter": "*",
+				"coveralls": "*",
+				"istanbul": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.3.2",
+			"dist": {
+				"shasum": "1a13a51a1376365a55abf69c342ce3884a84b2e3",
+				"size": 20325,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.3.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.23",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1389633280783,
+			"_cnpm_publish_time": 1389633280783,
+			"_hasShrinkwrap": false
+		},
+		"3.3.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.3.1",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"glob-stream": "~3.1.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"glob-watcher": "0.0.1",
+				"graceful-fs": "~2.0.1",
+				"through": "~2.3.4",
+				"map-stream": "0.0.4",
+				"semver": "~2.2.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"mocha-lcov-reporter": "*",
+				"coveralls": "*",
+				"istanbul": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint",
+				"coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.3.1",
+			"dist": {
+				"shasum": "83750fb40328732bbbb554a31e18a20145da9160",
+				"size": 19795,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.3.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.23",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1389466719963,
+			"_cnpm_publish_time": 1389466719963,
+			"_hasShrinkwrap": false
+		},
+		"3.3.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.3.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"glob-stream": "~3.1.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"glob-watcher": "0.0.1",
+				"graceful-fs": "~2.0.1",
+				"through": "~2.3.4",
+				"map-stream": "0.0.4"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.3.0",
+			"dist": {
+				"shasum": "f1ca8e82a014b41d51f94c43b64fdc349266414d",
+				"size": 19106,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.3.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.23",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1389255483636,
+			"_cnpm_publish_time": 1389255483636,
+			"_hasShrinkwrap": false
+		},
+		"3.2.5": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.2.5",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"glob-stream": "~3.1.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"glob-watcher": "0.0.1",
+				"graceful-fs": "~2.0.1",
+				"through": "~2.3.4",
+				"map-stream": "0.0.4"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.2.5",
+			"dist": {
+				"shasum": "e56bda138d202de4f7e61f3664db5d74aced334f",
+				"size": 19126,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.2.5.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.23",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1389248748880,
+			"_cnpm_publish_time": 1389248748880,
+			"_hasShrinkwrap": false
+		},
+		"3.2.4": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.2.4",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.20",
+				"glob-stream": "~3.1.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"glob-watcher": "0.0.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.2.4",
+			"dist": {
+				"shasum": "156d4492790864ee81914f993eb5d7a9ebd129b8",
+				"size": 11478,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.2.4.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1388960797338,
+			"_cnpm_publish_time": 1388960797338,
+			"_hasShrinkwrap": false
+		},
+		"3.2.3": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.2.3",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.20",
+				"glob-stream": "~3.1.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"glob-watcher": "0.0.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.2.3",
+			"dist": {
+				"shasum": "f9024c572c6d1d4bdbd62be6f48b781ff3cda185",
+				"size": 11474,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.2.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1388909306499,
+			"_cnpm_publish_time": 1388909306499,
+			"_hasShrinkwrap": false
+		},
+		"3.2.2": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.2.2",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.16",
+				"glob-stream": "~3.1.0",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"glob-watcher": "0.0.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.2.2",
+			"dist": {
+				"shasum": "1a2967d7cfd99be98cde4d1af59ae530ea21f2b7",
+				"size": 10540,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.2.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1388431107371,
+			"_cnpm_publish_time": 1388431107371,
+			"_hasShrinkwrap": false
+		},
+		"3.2.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.2.1",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.16",
+				"glob-stream": "~3.0.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.3.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"glob-watcher": "0.0.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.2.1",
+			"dist": {
+				"shasum": "22c31edf636a26a310df2248586e61e680b8f0ff",
+				"size": 10534,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.2.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1387788872383,
+			"_cnpm_publish_time": 1387788872383,
+			"_hasShrinkwrap": false
+		},
+		"3.2.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.2.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.16",
+				"glob-stream": "~3.0.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.2.0",
+				"orchestrator": "~0.2.1",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0",
+				"glob-watcher": "0.0.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha --reporter spec && jshint"
+			},
+			"engines": {
+				"node": ">= 0.9"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.2.0",
+			"dist": {
+				"shasum": "352cdf2885a4174ece695ecde454f3cb5d0d4dd6",
+				"size": 10344,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1387598751950,
+			"_cnpm_publish_time": 1387598751950,
+			"_hasShrinkwrap": false
+		},
+		"3.1.4": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.1.4",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.16",
+				"glob-stream": "~3.0.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.1.0",
+				"gaze": "~0.4.3",
+				"orchestrator": "~0.2.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.7"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.1.4",
+			"dist": {
+				"shasum": "7a3e1448ad43957c4fc1d87bf5b9a6b904760dde",
+				"size": 10337,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.1.4.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386981364467,
+			"_cnpm_publish_time": 1386981364467,
+			"_hasShrinkwrap": false
+		},
+		"3.1.3": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.1.3",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.16",
+				"glob-stream": "~3.0.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.1.0",
+				"gaze": "~0.4.3",
+				"orchestrator": "~0.2.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.7"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.1.3",
+			"dist": {
+				"shasum": "1d33d2fe4e390940283a47e41f3b4f59ef8f3d7b",
+				"size": 9857,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.1.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386832879263,
+			"_cnpm_publish_time": 1386832879263,
+			"_hasShrinkwrap": false
+		},
+		"3.1.2": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.1.2",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.16",
+				"glob-stream": "~3.0.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~2.0.0",
+				"gaze": "~0.4.3",
+				"orchestrator": "~0.2.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.7"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.1.2",
+			"dist": {
+				"shasum": "e4092c26a21d825c84d8f9a1f3bdaf5e12dbd6ce",
+				"size": 10590,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.1.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386739717892,
+			"_cnpm_publish_time": 1386739717892,
+			"_hasShrinkwrap": false
+		},
+		"3.1.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.1.1",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.16",
+				"glob-stream": "~3.0.2",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~1.2.0",
+				"gaze": "~0.4.3",
+				"orchestrator": "~0.2.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2",
+				"pretty-hrtime": "~0.2.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.7"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.1.1",
+			"dist": {
+				"shasum": "7f4221c8afe12a2e4f5eb5df2fe0e745c0f05ba5",
+				"size": 10550,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.1.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386627843728,
+			"_cnpm_publish_time": 1386627843728,
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "3.0.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.16",
+				"glob-stream": "~3.0.0",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~1.1.1",
+				"gaze": "~0.4.3",
+				"orchestrator": "~0.1.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.7"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@3.0.0",
+			"dist": {
+				"shasum": "2facf11dfdfd8ca22d3069522403742c1712162f",
+				"size": 10584,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-3.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386465327359,
+			"_cnpm_publish_time": 1386465327359,
+			"_hasShrinkwrap": false
+		},
+		"2.7.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "2.7.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.16",
+				"glob-stream": "~0.1.0",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~1.1.1",
+				"gaze": "~0.4.3",
+				"orchestrator": "~0.1.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.7"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@2.7.0",
+			"dist": {
+				"shasum": "75735d97fa43d82a0e2a9d6ae140e60099af8ac8",
+				"size": 10282,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-2.7.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386190024547,
+			"_cnpm_publish_time": 1386190024547,
+			"_hasShrinkwrap": false
+		},
+		"2.6.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "2.6.1",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "~3.0.16",
+				"glob-stream": "~0.1.0",
+				"mkdirp": "~0.3.5",
+				"optimist": "~0.6.0",
+				"gulp-util": "~1.1.1",
+				"gaze": "~0.4.3",
+				"orchestrator": "~0.1.0",
+				"resolve": "~0.6.1",
+				"semver": "~2.2.1",
+				"findup-sync": "~0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.7"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@2.6.1",
+			"dist": {
+				"shasum": "80a793bd7e5d0fdcc76bdb6b4a44600ea4cee7d2",
+				"size": 9998,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-2.6.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386120770013,
+			"_cnpm_publish_time": 1386120770013,
+			"_hasShrinkwrap": false
+		},
+		"2.6.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "2.6.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "3.0.x",
+				"glob-stream": "0.1.x",
+				"mkdirp": "0.3.x",
+				"optimist": "0.6.x",
+				"gulp-util": "1.0.x",
+				"gaze": "0.4.x",
+				"orchestrator": "0.1.x",
+				"chalk": "0.3.x",
+				"resolve": "0.6.x",
+				"semver": "2.2.x",
+				"findup-sync": "0.1.x"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.7"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@2.6.0",
+			"dist": {
+				"shasum": "bcfc8a3103e8889ef1b058548854b8bbea2a0e3f",
+				"size": 9691,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-2.6.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.14",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1385789489639,
+			"_cnpm_publish_time": 1385789489639,
+			"_hasShrinkwrap": false
+		},
+		"2.4.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "2.4.1",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.1.0",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.3",
+				"orchestrator": "0.0.8",
+				"chalk": "0.3.0",
+				"resolve": "0.5.1",
+				"semver": "2.2.1",
+				"findup-sync": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.7"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@2.4.1",
+			"dist": {
+				"shasum": "d311199d13aeba1870bbb93349076d5fd4bd9fda",
+				"size": 8978,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-2.4.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.14",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1384316894460,
+			"_cnpm_publish_time": 1384316894460,
+			"_hasShrinkwrap": false
+		},
+		"2.4.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "2.4.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"tags": [
+				"build",
+				"stream",
+				"system"
+			],
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.1.0",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.2",
+				"orchestrator": "0.0.8",
+				"chalk": "0.3.0",
+				"resolve": "0.5.1",
+				"semver": "2.2.1",
+				"findup-sync": "0.1.2"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.7"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@2.4.0",
+			"dist": {
+				"shasum": "57822ea067e18103d313dcb6668ec3bdeb5c18ed",
+				"size": 8976,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-2.4.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.14",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1384313915294,
+			"_cnpm_publish_time": 1384313915294,
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "2.3.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.1.0",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.2",
+				"orchestrator": "0.0.8",
+				"chalk": "0.3.0",
+				"resolve": "0.5.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@2.3.0",
+			"dist": {
+				"shasum": "8d860312b2f321c84639dfc3d6bc93d90f6e7cf0",
+				"size": 8494,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-2.3.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1384196464619,
+			"_cnpm_publish_time": 1384196464619,
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "2.2.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.1.0",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.2",
+				"orchestrator": "0.0.6",
+				"chalk": "0.3.0",
+				"resolve": "0.5.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@2.2.0",
+			"dist": {
+				"shasum": "cf8112398f11dad2f8df977de0b156bd97ac40e0",
+				"size": 8171,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-2.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.11",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1383201725708,
+			"_cnpm_publish_time": 1383201725708,
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "2.1.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp.js"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.1.0",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.2",
+				"orchestrator": "0.0.6",
+				"chalk": "0.3.0",
+				"resolve": "0.5.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*",
+				"jshint": "*"
+			},
+			"scripts": {
+				"test": "mocha && jshint"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@2.1.0",
+			"dist": {
+				"shasum": "84ea2f783e1218c7b31824038410a70917a8f760",
+				"size": 8167,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-2.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.13",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1383188047494,
+			"_cnpm_publish_time": 1383188047494,
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "2.0.1",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.1.0",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.2",
+				"orchestrator": "0.0.6",
+				"chalk": "0.3.0",
+				"resolve": "0.5.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"_id": "gulp@2.0.1",
+			"dist": {
+				"shasum": "5a2d02ca3f0281f381aade952fd85ae463ae1327",
+				"size": 8123,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-2.0.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.18",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1383183871385,
+			"_cnpm_publish_time": 1383183871385,
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "2.0.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.1.0",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.2",
+				"orchestrator": "0.0.6",
+				"chalk": "0.3.0",
+				"resolve": "0.5.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"_id": "gulp@2.0.0",
+			"dist": {
+				"shasum": "25f5cec312ef3d51ffd84dd12d54bf9ec2fda9a4",
+				"size": 8103,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-2.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.18",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1383183561243,
+			"_cnpm_publish_time": 1383183561243,
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "1.2.1",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.1.0",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.2",
+				"orchestrator": "0.0.6"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@1.2.1",
+			"dist": {
+				"shasum": "c61df18c75b76bd7a461a6ce39a0fd2023c49a4c",
+				"size": 7173,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-1.2.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.8",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1383171797060,
+			"_cnpm_publish_time": 1383171797060,
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "1.2.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.1.0",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.2",
+				"orchestrator": "0.0.6"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@1.2.0",
+			"dist": {
+				"shasum": "d99dc02e10a77b9101530bea712169a4760f9ed5",
+				"size": 7122,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-1.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.8",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1383002816342,
+			"_cnpm_publish_time": 1383002816342,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "1.1.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.1.0",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.2",
+				"orchestrator": "0.0.5"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*",
+				"q": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@1.1.0",
+			"dist": {
+				"shasum": "fc410b6200eb0858f2167c390e472ed12aa3e2bd",
+				"size": 6628,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-1.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.8",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1382672265478,
+			"_cnpm_publish_time": 1382672265478,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "gulp",
+			"description": "The streaming build system",
+			"version": "1.0.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.0.3",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "1.0.0",
+				"gaze": "0.4.2"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"rimraf": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@1.0.0",
+			"dist": {
+				"shasum": "402480c6cbdc5aa56932130753a812b0fd4a2957",
+				"size": 6008,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-1.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1380234663177,
+			"_cnpm_publish_time": 1380234663177,
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "gulp",
+			"description": "Simple stream-y build helper",
+			"version": "0.2.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.16",
+				"glob-stream": "0.0.3",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "*",
+				"gaze": "0.4.1"
+			},
+			"devDependencies": {
+				"mocha": "1.12.0",
+				"should": "1.2.2",
+				"rimraf": "2.2.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@0.2.0",
+			"dist": {
+				"shasum": "e1c633c9704d0ba1f990b06bf216cab82c36f057",
+				"size": 5936,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-0.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1375836748468,
+			"_cnpm_publish_time": 1375836748468,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "gulp",
+			"description": "Simple stream-y build helper",
+			"version": "0.1.0",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.15",
+				"glob-stream": "0.0.3",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "*",
+				"gaze": "0.4.0"
+			},
+			"devDependencies": {
+				"mocha": "1.12.0",
+				"should": "1.2.2",
+				"rimraf": "2.2.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@0.1.0",
+			"dist": {
+				"shasum": "85cb3437e277a9e9398bbc10c41da4cbf5df9b6a",
+				"size": 6108,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-0.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.32",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1374188936575,
+			"_cnpm_publish_time": 1374188936575,
+			"_hasShrinkwrap": false
+		},
+		"0.0.9": {
+			"name": "gulp",
+			"description": "Simple stream-y build helper",
+			"version": "0.0.9",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.15",
+				"glob-stream": "0.0.3",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "*",
+				"gaze": "*"
+			},
+			"devDependencies": {
+				"mocha": "1.12.0",
+				"should": "1.2.2",
+				"rimraf": "2.2.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@0.0.9",
+			"dist": {
+				"shasum": "18a593af9406fc76f359e42e32b5f0fdf59790f2",
+				"size": 5794,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-0.0.9.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.32",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1373139119843,
+			"_cnpm_publish_time": 1373139119843,
+			"_hasShrinkwrap": false
+		},
+		"0.0.8": {
+			"name": "gulp",
+			"description": "Simple stream-y build helper",
+			"version": "0.0.8",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.15",
+				"glob-stream": "0.0.3",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0",
+				"gulp-util": "*"
+			},
+			"devDependencies": {
+				"mocha": "1.12.0",
+				"should": "1.2.2",
+				"rimraf": "2.2.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@0.0.8",
+			"dist": {
+				"shasum": "7daddb39af3bd756b5539b2fb2e18a63be7e91db",
+				"size": 4930,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-0.0.8.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1373096354454,
+			"_cnpm_publish_time": 1373096354454,
+			"_hasShrinkwrap": false
+		},
+		"0.0.7": {
+			"name": "gulp",
+			"description": "Simple stream-y build helper",
+			"version": "0.0.7",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"event-stream": "3.0.15",
+				"glob-stream": "0.0.3",
+				"mkdirp": "0.3.5",
+				"optimist": "0.6.0"
+			},
+			"devDependencies": {
+				"mocha": "1.12.0",
+				"should": "1.2.2",
+				"rimraf": "2.2.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@0.0.7",
+			"dist": {
+				"shasum": "24d7b2535b69f159c5e27dd9ee7b2d213c0dd303",
+				"size": 4989,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-0.0.7.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1373083309000,
+			"_cnpm_publish_time": 1373083309000,
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "gulp",
+			"description": "Simple stream-y build helper",
+			"version": "0.0.5",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"async": "*",
+				"event-stream": "*",
+				"glob-stream": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@0.0.5",
+			"dist": {
+				"shasum": "6bda657a8c2e0cffb15a673b3d196814c31eaa73",
+				"size": 4103,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-0.0.5.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1373007928831,
+			"_cnpm_publish_time": 1373007928831,
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "gulp",
+			"description": "Simple stream-y build helper",
+			"version": "0.0.4",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"async": "*",
+				"event-stream": "*",
+				"glob-stream": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@0.0.4",
+			"dist": {
+				"shasum": "e5ee89b0be4eadae40fb089d707c698d77a006ed",
+				"size": 4090,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-0.0.4.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1372996409878,
+			"_cnpm_publish_time": 1372996409878,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "gulp",
+			"description": "Simple stream-y build helper",
+			"version": "0.0.3",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"async": "*",
+				"event-stream": "*",
+				"glob-stream": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@0.0.3",
+			"dist": {
+				"shasum": "2b612b771c19f8825058e4ff330e67e6ddb46f19",
+				"size": 4114,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-0.0.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1372988243410,
+			"_cnpm_publish_time": 1372988243410,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "gulp",
+			"description": "Simple stream-y build helper",
+			"version": "0.0.2",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"coffee-script": "*",
+				"async": "*",
+				"glob": "*",
+				"event-stream": "*",
+				"glob-stream": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha --compilers coffee:coffee-script"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@0.0.2",
+			"dist": {
+				"shasum": "ec4ae8ea9aa2592e516e3852068a92a6663a5c09",
+				"size": 4091,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-0.0.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1372984611366,
+			"_cnpm_publish_time": 1372984611366,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "gulp",
+			"description": "Simple stream-y build helper",
+			"version": "0.0.1",
+			"homepage": "http://github.com/wearefractal/gulp",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"preferGlobal": true,
+			"bin": {
+				"gulp": "./bin/gulp"
+			},
+			"dependencies": {
+				"coffee-script": "*",
+				"async": "*",
+				"glob": "*",
+				"event-stream": "*",
+				"glob-stream": "*",
+				"colors": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha --compilers coffee:coffee-script"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp/issues"
+			},
+			"_id": "gulp@0.0.1",
+			"dist": {
+				"shasum": "b55f6ecb969bc015c443cd99516b755e60b13503",
+				"size": 3971,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp/download/gulp-0.0.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "phated",
+					"email": "blaine.bublitz@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1372980429247,
+			"_cnpm_publish_time": 1372980429247,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "3.9.1",
+		"next": "4.0.0"
+	},
+	"time": {
+		"modified": "2018-01-01T01:29:19.000Z",
+		"created": "2013-07-04T23:27:09.247Z",
+		"4.0.0": "2018-01-01T01:29:06.863Z",
+		"3.9.1": "2016-02-08T18:50:16.472Z",
+		"3.9.0": "2015-06-01T21:50:47.221Z",
+		"3.8.11": "2015-02-09T20:42:46.150Z",
+		"3.8.10": "2014-11-04T00:12:58.042Z",
+		"3.8.9": "2014-10-22T06:56:21.557Z",
+		"3.8.8": "2014-09-07T20:18:23.611Z",
+		"3.8.7": "2014-08-02T04:57:15.074Z",
+		"3.8.6": "2014-07-09T22:06:13.290Z",
+		"3.8.5": "2014-06-27T06:53:30.273Z",
+		"3.8.4": "2014-06-27T06:38:18.223Z",
+		"3.8.3": "2014-06-26T21:17:27.774Z",
+		"3.8.2": "2014-06-24T20:52:56.265Z",
+		"3.8.1": "2014-06-18T01:26:07.757Z",
+		"3.8.0": "2014-06-10T07:58:11.652Z",
+		"3.7.0": "2014-06-01T02:51:38.788Z",
+		"3.6.2": "2014-04-24T01:29:11.712Z",
+		"3.6.1": "2014-04-17T01:39:49.691Z",
+		"3.6.0": "2014-03-28T05:44:37.460Z",
+		"3.5.6": "2014-03-13T21:04:52.312Z",
+		"3.5.5": "2014-03-01T22:02:55.746Z",
+		"3.5.2": "2014-02-06T01:52:29.345Z",
+		"3.5.1": "2014-02-02T22:45:25.936Z",
+		"3.5.0": "2014-01-25T00:46:34.360Z",
+		"3.4.0": "2014-01-17T10:30:43.066Z",
+		"3.3.4": "2014-01-15T00:39:54.699Z",
+		"3.3.2": "2014-01-13T17:14:40.783Z",
+		"3.3.1": "2014-01-11T18:58:39.963Z",
+		"3.3.0": "2014-01-09T08:18:03.636Z",
+		"3.2.5": "2014-01-09T06:25:48.880Z",
+		"3.2.4": "2014-01-05T22:26:37.338Z",
+		"3.2.3": "2014-01-05T08:08:26.499Z",
+		"3.2.2": "2013-12-30T19:18:27.371Z",
+		"3.2.1": "2013-12-23T08:54:32.383Z",
+		"3.2.0": "2013-12-21T04:05:51.950Z",
+		"3.1.4": "2013-12-14T00:36:04.467Z",
+		"3.1.3": "2013-12-12T07:21:19.263Z",
+		"3.1.2": "2013-12-11T05:28:37.892Z",
+		"3.1.1": "2013-12-09T22:24:03.728Z",
+		"3.0.0": "2013-12-08T01:15:27.359Z",
+		"2.7.0": "2013-12-04T20:47:04.547Z",
+		"2.6.1": "2013-12-04T01:32:50.013Z",
+		"2.6.0": "2013-11-30T05:31:29.639Z",
+		"2.4.1": "2013-11-13T04:28:14.460Z",
+		"2.4.0": "2013-11-13T03:38:35.294Z",
+		"2.3.0": "2013-11-11T19:01:04.619Z",
+		"2.2.0": "2013-10-31T06:42:05.708Z",
+		"2.1.0": "2013-10-31T02:54:07.494Z",
+		"2.0.1": "2013-10-31T01:44:31.385Z",
+		"2.0.0": "2013-10-31T01:39:21.243Z",
+		"1.2.1": "2013-10-30T22:23:17.060Z",
+		"1.2.0": "2013-10-28T23:26:56.342Z",
+		"1.1.0": "2013-10-25T03:37:45.478Z",
+		"1.0.0": "2013-09-26T22:31:03.177Z",
+		"0.2.0": "2013-08-07T00:52:28.468Z",
+		"0.1.0": "2013-07-18T23:08:56.575Z",
+		"0.0.9": "2013-07-06T19:31:59.843Z",
+		"0.0.8": "2013-07-06T07:39:14.454Z",
+		"0.0.7": "2013-07-06T04:01:49.000Z",
+		"0.0.5": "2013-07-05T07:05:28.831Z",
+		"0.0.4": "2013-07-05T03:53:29.878Z",
+		"0.0.3": "2013-07-05T01:37:23.410Z",
+		"0.0.2": "2013-07-05T00:36:51.366Z",
+		"0.0.1": "2013-07-04T23:27:09.247Z"
+	},
+	"_distfiles": {
+		"gulp-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-4.0.0.tgz",
+			"sha": "95766c601dade4a77ed3e7b2b6dc03881b596366",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.9.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.9.1.tgz",
+			"sha": "571ce45928dd40af6514fc4011866016c13845b4",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.9.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.9.0.tgz",
+			"sha": "cf1fba4cb558bb8c6ae6c9613f583ae2620d214a",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.11.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.11.tgz",
+			"sha": "d557e0a7283eb4136491969b0497767972f1d28a",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.10.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.10.tgz",
+			"sha": "bfb8fc156be97820f02a7f8b3af61a86666f9e31",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.9.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.9.tgz",
+			"sha": "90773dc79cb0b3087e5443c695b0f5a21548ccce",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.8.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.8.tgz",
+			"sha": "0b0473e7cdfd04c785184513938397d4552cfe96",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.7.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.7.tgz",
+			"sha": "187e5316d65aa5188de447b41b3c0ee9bf322be1",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.6.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.6.tgz",
+			"sha": "ea5af86a434bee4c0a942ff06437837f093e2fc2",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.5.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.5.tgz",
+			"sha": "45eb05481b94c6e2c414cd9e152fa4de87e83667",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.4.tgz",
+			"sha": "894a9cb239fb58ae072489adc65d0e09c9720122",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.3.tgz",
+			"sha": "f9d89c3e868e2a77d85f4b1fd376e7ebc8a900c8",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.2.tgz",
+			"sha": "a628cec5cd22da922a070fc9d2a0ab8b162390ef",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.1.tgz",
+			"sha": "4c4902f6684b6b6235217eec72cc8c78c276d35c",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.8.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.8.0.tgz",
+			"sha": "ceb5566bb5f932b882b95f0343af4542d46de11a",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.7.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.7.0.tgz",
+			"sha": "6f728d6ab2da8cadd1c58838cea48cb2dbd949e1",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.6.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.6.2.tgz",
+			"sha": "ea6b33d768db4a22294fa6339afb61842f5e6fb5",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.6.1.tgz",
+			"sha": "25e86b09866db1fed215debce1a5efef2b44c359",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.6.0.tgz",
+			"sha": "d1e7256c50091f23678d34d343ab348536af3d73",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.5.6.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.5.6.tgz",
+			"sha": "bbb9acb596c8dbf1783cc5f182ebc0f82a82489e",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.5.5.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.5.5.tgz",
+			"sha": "dbf0a3e00333f19527c2d977f069e8fad5cbc53a",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.5.2.tgz",
+			"sha": "efdbcf8fa2aa1f686a094d3e57c9221965abbf76",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.5.1.tgz",
+			"sha": "7d32c667e2b5a154f205861a646fdf7f3830b8fe",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.5.0.tgz",
+			"sha": "066991787fabb2b1c03dca7a9246e28575e526d1",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.4.0.tgz",
+			"sha": "ad7b17e3a026812bfa50f2a341c4bed9d7d4af16",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.3.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.3.4.tgz",
+			"sha": "826f514bf6235d632464b8f1f0e7de19ed07e162",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.3.2.tgz",
+			"sha": "1a13a51a1376365a55abf69c342ce3884a84b2e3",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.3.1.tgz",
+			"sha": "83750fb40328732bbbb554a31e18a20145da9160",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.3.0.tgz",
+			"sha": "f1ca8e82a014b41d51f94c43b64fdc349266414d",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.2.5.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.2.5.tgz",
+			"sha": "e56bda138d202de4f7e61f3664db5d74aced334f",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.2.4.tgz",
+			"sha": "156d4492790864ee81914f993eb5d7a9ebd129b8",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.2.3.tgz",
+			"sha": "f9024c572c6d1d4bdbd62be6f48b781ff3cda185",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.2.2.tgz",
+			"sha": "1a2967d7cfd99be98cde4d1af59ae530ea21f2b7",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.2.1.tgz",
+			"sha": "22c31edf636a26a310df2248586e61e680b8f0ff",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.2.0.tgz",
+			"sha": "352cdf2885a4174ece695ecde454f3cb5d0d4dd6",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.1.4.tgz",
+			"sha": "7a3e1448ad43957c4fc1d87bf5b9a6b904760dde",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.1.3.tgz",
+			"sha": "1d33d2fe4e390940283a47e41f3b4f59ef8f3d7b",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.1.2.tgz",
+			"sha": "e4092c26a21d825c84d8f9a1f3bdaf5e12dbd6ce",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.1.1.tgz",
+			"sha": "7f4221c8afe12a2e4f5eb5df2fe0e745c0f05ba5",
+			"registry": "cnpmjs"
+		},
+		"gulp-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-3.0.0.tgz",
+			"sha": "2facf11dfdfd8ca22d3069522403742c1712162f",
+			"registry": "cnpmjs"
+		},
+		"gulp-2.7.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-2.7.0.tgz",
+			"sha": "75735d97fa43d82a0e2a9d6ae140e60099af8ac8",
+			"registry": "cnpmjs"
+		},
+		"gulp-2.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-2.6.1.tgz",
+			"sha": "80a793bd7e5d0fdcc76bdb6b4a44600ea4cee7d2",
+			"registry": "cnpmjs"
+		},
+		"gulp-2.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-2.6.0.tgz",
+			"sha": "bcfc8a3103e8889ef1b058548854b8bbea2a0e3f",
+			"registry": "cnpmjs"
+		},
+		"gulp-2.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-2.4.1.tgz",
+			"sha": "d311199d13aeba1870bbb93349076d5fd4bd9fda",
+			"registry": "cnpmjs"
+		},
+		"gulp-2.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-2.4.0.tgz",
+			"sha": "57822ea067e18103d313dcb6668ec3bdeb5c18ed",
+			"registry": "cnpmjs"
+		},
+		"gulp-2.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-2.3.0.tgz",
+			"sha": "8d860312b2f321c84639dfc3d6bc93d90f6e7cf0",
+			"registry": "cnpmjs"
+		},
+		"gulp-2.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-2.2.0.tgz",
+			"sha": "cf8112398f11dad2f8df977de0b156bd97ac40e0",
+			"registry": "cnpmjs"
+		},
+		"gulp-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-2.1.0.tgz",
+			"sha": "84ea2f783e1218c7b31824038410a70917a8f760",
+			"registry": "cnpmjs"
+		},
+		"gulp-2.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-2.0.1.tgz",
+			"sha": "5a2d02ca3f0281f381aade952fd85ae463ae1327",
+			"registry": "cnpmjs"
+		},
+		"gulp-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-2.0.0.tgz",
+			"sha": "25f5cec312ef3d51ffd84dd12d54bf9ec2fda9a4",
+			"registry": "cnpmjs"
+		},
+		"gulp-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-1.2.1.tgz",
+			"sha": "c61df18c75b76bd7a461a6ce39a0fd2023c49a4c",
+			"registry": "cnpmjs"
+		},
+		"gulp-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-1.2.0.tgz",
+			"sha": "d99dc02e10a77b9101530bea712169a4760f9ed5",
+			"registry": "cnpmjs"
+		},
+		"gulp-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-1.1.0.tgz",
+			"sha": "fc410b6200eb0858f2167c390e472ed12aa3e2bd",
+			"registry": "cnpmjs"
+		},
+		"gulp-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-1.0.0.tgz",
+			"sha": "402480c6cbdc5aa56932130753a812b0fd4a2957",
+			"registry": "cnpmjs"
+		},
+		"gulp-0.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-0.2.0.tgz",
+			"sha": "e1c633c9704d0ba1f990b06bf216cab82c36f057",
+			"registry": "cnpmjs"
+		},
+		"gulp-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-0.1.0.tgz",
+			"sha": "85cb3437e277a9e9398bbc10c41da4cbf5df9b6a",
+			"registry": "cnpmjs"
+		},
+		"gulp-0.0.9.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-0.0.9.tgz",
+			"sha": "18a593af9406fc76f359e42e32b5f0fdf59790f2",
+			"registry": "cnpmjs"
+		},
+		"gulp-0.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-0.0.8.tgz",
+			"sha": "7daddb39af3bd756b5539b2fb2e18a63be7e91db",
+			"registry": "cnpmjs"
+		},
+		"gulp-0.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-0.0.7.tgz",
+			"sha": "24d7b2535b69f159c5e27dd9ee7b2d213c0dd303",
+			"registry": "cnpmjs"
+		},
+		"gulp-0.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-0.0.5.tgz",
+			"sha": "6bda657a8c2e0cffb15a673b3d196814c31eaa73",
+			"registry": "cnpmjs"
+		},
+		"gulp-0.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-0.0.4.tgz",
+			"sha": "e5ee89b0be4eadae40fb089d707c698d77a006ed",
+			"registry": "cnpmjs"
+		},
+		"gulp-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-0.0.3.tgz",
+			"sha": "2b612b771c19f8825058e4ff330e67e6ddb46f19",
+			"registry": "cnpmjs"
+		},
+		"gulp-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-0.0.2.tgz",
+			"sha": "ec4ae8ea9aa2592e516e3852068a92a6663a5c09",
+			"registry": "cnpmjs"
+		},
+		"gulp-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp/download/gulp-0.0.1.tgz",
+			"sha": "b55f6ecb969bc015c443cd99516b755e60b13503",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"218dc-0jM9XB5knFiAgImGh6EPB1Mav+o\"",
+			"fetched": 1527747698051
+		}
+	},
+	"_rev": "13-ed67ab6f36f3518c",
+	"readme": "<p align=\"center\">\n  <a href=\"http://gulpjs.com\">\n    <img height=\"257\" width=\"114\" src=\"https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png\">\n  </a>\n  <p align=\"center\">The streaming build system</p>\n</p>\n\n[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url] [![Gitter chat][gitter-image]][gitter-url]\n\n## What is gulp?\n\n- **Automation** - gulp is a toolkit that helps you automate painful or time-consuming tasks in your development workflow.\n- **Platform-agnostic** - Integrations are built into all major IDEs and people are using gulp with PHP, .NET, Node.js, Java, and other platforms.\n- **Strong Ecosystem** - Use npm modules to do anything you want + over 2000 curated plugins for streaming file transformations\n- **Simple** - By providing only a minimal API surface, gulp is easy to learn and simple to use\n\n## Documentation\n\nFor a Getting started guide, API docs, recipes, making a plugin, etc. check out or docs!\n\n- Need something reliable? Check out the [documentation for the current release](/docs/README.md)!\n- Want to help us test the latest and greatest? Check out the [documentation for the next release](https://github.com/gulpjs/gulp/tree/4.0)!\n\n## Sample `gulpfile.js`\n\nThis file will give you a taste of what gulp does.\n\n```js\nvar gulp = require('gulp');\nvar coffee = require('gulp-coffee');\nvar concat = require('gulp-concat');\nvar uglify = require('gulp-uglify');\nvar imagemin = require('gulp-imagemin');\nvar sourcemaps = require('gulp-sourcemaps');\nvar del = require('del');\n\nvar paths = {\n  scripts: ['client/js/**/*.coffee', '!client/external/**/*.coffee'],\n  images: 'client/img/**/*'\n};\n\n// Not all tasks need to use streams\n// A gulpfile is just another node program and you can use any package available on npm\ngulp.task('clean', function() {\n  // You can use multiple globbing patterns as you would with `gulp.src`\n  return del(['build']);\n});\n\ngulp.task('scripts', ['clean'], function() {\n  // Minify and copy all JavaScript (except vendor scripts)\n  // with sourcemaps all the way down\n  return gulp.src(paths.scripts)\n    .pipe(sourcemaps.init())\n      .pipe(coffee())\n      .pipe(uglify())\n      .pipe(concat('all.min.js'))\n    .pipe(sourcemaps.write())\n    .pipe(gulp.dest('build/js'));\n});\n\n// Copy all static images\ngulp.task('images', ['clean'], function() {\n  return gulp.src(paths.images)\n    // Pass in options to the task\n    .pipe(imagemin({optimizationLevel: 5}))\n    .pipe(gulp.dest('build/img'));\n});\n\n// Rerun the task when a file changes\ngulp.task('watch', function() {\n  gulp.watch(paths.scripts, ['scripts']);\n  gulp.watch(paths.images, ['images']);\n});\n\n// The default task (called when you run `gulp` from cli)\ngulp.task('default', ['watch', 'scripts', 'images']);\n```\n\n## Incremental Builds\n\nWe recommend these plugins:\n\n- [gulp-changed](https://github.com/sindresorhus/gulp-changed) - only pass through changed files\n- [gulp-cached](https://github.com/contra/gulp-cached) - in-memory file cache, not for operation on sets of files\n- [gulp-remember](https://github.com/ahaurw01/gulp-remember) - pairs nicely with gulp-cached\n- [gulp-newer](https://github.com/tschaub/gulp-newer) - pass through newer source files only, supports many:1 source:dest\n\n## Want to contribute?\n\nAnyone can help make this project better - check out our [Contributing guide](/CONTRIBUTING.md)!\n\n[downloads-image]: https://img.shields.io/npm/dm/gulp.svg\n[npm-url]: https://www.npmjs.com/package/gulp\n[npm-image]: https://img.shields.io/npm/v/gulp.svg\n\n[travis-url]: https://travis-ci.org/gulpjs/gulp\n[travis-image]: https://img.shields.io/travis/gulpjs/gulp.svg\n\n[coveralls-url]: https://coveralls.io/r/gulpjs/gulp\n[coveralls-image]: https://img.shields.io/coveralls/gulpjs/gulp/master.svg\n\n[gitter-url]: https://gitter.im/gulpjs/gulp\n[gitter-image]: https://badges.gitter.im/gulpjs/gulp.png"
+}

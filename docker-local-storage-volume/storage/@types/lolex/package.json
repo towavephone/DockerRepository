@@ -1,0 +1,1013 @@
+{
+	"name": "@types/lolex",
+	"versions": {
+		"2.1.2": {
+			"name": "@types/lolex",
+			"version": "2.1.2",
+			"description": "TypeScript definitions for lolex",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Wim Looman",
+					"url": "https://github.com/Nemo157",
+					"githubUsername": "Nemo157"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Rogier Schouten",
+					"url": "https://github.com/rogierschouten",
+					"githubUsername": "rogierschouten"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "74a901ae154cca92b3c194646e0b58082a26a3be8f1aa9bed45f7f8ad7fb5334",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/lolex@2.1.2",
+			"dist": {
+				"shasum": "40fb763baf260ed5de0685a6257ba98c1286e173",
+				"size": 3407,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-2.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lolex_2.1.2_1521741241185_0.5327151874071019"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521741241280,
+			"_cnpm_publish_time": 1521741241280
+		},
+		"2.1.1": {
+			"name": "@types/lolex",
+			"version": "2.1.1",
+			"description": "TypeScript definitions for lolex",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Wim Looman",
+					"url": "https://github.com/Nemo157",
+					"githubUsername": "Nemo157"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Rogier Schouten",
+					"url": "https://github.com/rogierschouten",
+					"githubUsername": "rogierschouten"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "60cb0ef637f31391eb66b9625cef7d9db9d2270b3e67da623a1965de57c4cf0c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/lolex@2.1.1",
+			"dist": {
+				"shasum": "751bbad838366b3e9a0f7a81e30232ff56eb73dd",
+				"size": 3398,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-2.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lolex-2.1.1.tgz_1512078388602_0.8365293566603214"
+			},
+			"directories": {},
+			"publish_time": 1512078388661,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1512078388661
+		},
+		"2.1.0": {
+			"name": "@types/lolex",
+			"version": "2.1.0",
+			"description": "TypeScript definitions for lolex",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Wim Looman",
+					"url": "https://github.com/Nemo157",
+					"githubUsername": "Nemo157"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Rogier Schouten",
+					"url": "https://github.com/rogierschouten",
+					"githubUsername": "rogierschouten"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "77e3ccf2c3ba0334d8674653f4b08839d51f8fdb0685e9e1ac454af478d59376",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/lolex@2.1.0",
+			"dist": {
+				"shasum": "7a53611a6c970574173a7d92ce9a0da000652725",
+				"size": 3403,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-2.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lolex-2.1.0.tgz_1511830719471_0.418420321540907"
+			},
+			"directories": {},
+			"publish_time": 1511830719535,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511830719535
+		},
+		"1.5.32": {
+			"name": "@types/lolex",
+			"version": "1.5.32",
+			"description": "TypeScript definitions for lolex",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Wim Looman",
+					"url": "https://github.com/Nemo157",
+					"githubUsername": "Nemo157"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "52d5b7224065b7194484f21dc38b7bbbff3f37097911547fcba936092ec92ffa",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/lolex@1.5.32",
+			"dist": {
+				"shasum": "a9d84d69543c0331d6b53f25bb041ba8f1efdad4",
+				"size": 3048,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.5.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lolex-1.5.32.tgz_1509044006477_0.04931786912493408"
+			},
+			"directories": {},
+			"publish_time": 1509044006574,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509044006574
+		},
+		"1.5.31": {
+			"name": "@types/lolex",
+			"version": "1.5.31",
+			"description": "TypeScript definitions for lolex",
+			"license": "MIT",
+			"author": "Wim Looman <https://github.com/Nemo157>, Josh Goldberg <https://github.com/joshuakgoldberg>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3f8e81efe4e05f7486354185144a6b12b9b88e609768daf90e8b146136c098f7",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/lolex@1.5.31",
+			"dist": {
+				"shasum": "b9e054e26e20a987cf2f49399bdebeec8a03c593",
+				"size": 2479,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.5.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.5.31.tgz_1484634480442_0.38054643338546157"
+			},
+			"directories": {},
+			"publish_time": 1484634480702,
+			"_cnpm_publish_time": 1484634480702,
+			"_hasShrinkwrap": false
+		},
+		"1.5.30": {
+			"name": "@types/lolex",
+			"version": "1.5.30",
+			"description": "TypeScript definitions for lolex 1.5.1",
+			"license": "MIT",
+			"author": "Wim Looman <https://github.com/Nemo157>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "64fd82d44f961534cb88f4f8be502b529cda8a1b76ae7529a91beb0d50338dc2",
+			"_id": "@types/lolex@1.5.30",
+			"dist": {
+				"shasum": "86e8706fb761c2d892da46c450791728194fa6e6",
+				"size": 1158,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.5.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.5.30.tgz_1475772261680_0.5059085679240525"
+			},
+			"directories": {},
+			"publish_time": 1475772265149,
+			"_cnpm_publish_time": 1475772265149,
+			"_hasShrinkwrap": false
+		},
+		"1.2.29": {
+			"name": "@types/lolex",
+			"version": "1.2.29",
+			"description": "TypeScript definitions for lolex 1.2.1",
+			"license": "MIT",
+			"author": "Wim Looman <https://github.com/Nemo157>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "8d64bf924dcc087577ace69e144204ee3846783ea20a1f9e8a6ee2bc5c5adfed",
+			"_id": "@types/lolex@1.2.29",
+			"dist": {
+				"shasum": "e53154d8351aa208da7057517c6e8d16c53c6189",
+				"size": 1123,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.29.tgz_1474307384890_0.5621211132965982"
+			},
+			"directories": {},
+			"publish_time": 1474307385132,
+			"_cnpm_publish_time": 1474307385132,
+			"_hasShrinkwrap": false
+		},
+		"1.2.28": {
+			"name": "@types/lolex",
+			"version": "1.2.28",
+			"description": "TypeScript definitions for lolex 1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Wim Looman",
+				"email": "https://github.com/Nemo157"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lolex@1.2.28",
+			"_shasum": "010dbb92b7d75650ee8dc4f1e9843463bb2c9301",
+			"_from": "output\\lolex",
+			"_resolved": "file:output\\lolex",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "010dbb92b7d75650ee8dc4f1e9843463bb2c9301",
+				"size": 1106,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.28.tgz_1468509596744_0.6642686456907541"
+			},
+			"directories": {},
+			"publish_time": 1468509598539,
+			"_cnpm_publish_time": 1468509598539,
+			"_hasShrinkwrap": false
+		},
+		"1.2.27-alpha": {
+			"name": "@types/lolex",
+			"version": "1.2.27-alpha",
+			"description": "TypeScript definitions for lolex 1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Wim Looman",
+				"email": "https://github.com/Nemo157"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lolex@1.2.27-alpha",
+			"_shasum": "8e1abad21d76e4c572ba8dfa3834b400a126711f",
+			"_from": "output\\lolex",
+			"_resolved": "file:output\\lolex",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8e1abad21d76e4c572ba8dfa3834b400a126711f",
+				"size": 1111,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.27-alpha.tgz_1468010902317_0.7504227410536259"
+			},
+			"directories": {},
+			"publish_time": 1468010903732,
+			"_cnpm_publish_time": 1468010903732,
+			"_hasShrinkwrap": false
+		},
+		"1.2.26-alpha": {
+			"name": "@types/lolex",
+			"version": "1.2.26-alpha",
+			"description": "TypeScript definitions for lolex 1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Wim Looman",
+				"email": "https://github.com/Nemo157"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lolex@1.2.26-alpha",
+			"_shasum": "9410803fcab7f8d746b0b0e479e39762f869eab9",
+			"_from": "output\\lolex",
+			"_resolved": "file:output\\lolex",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9410803fcab7f8d746b0b0e479e39762f869eab9",
+				"size": 1115,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.26-alpha.tgz_1467593210210_0.31386961066164076"
+			},
+			"directories": {},
+			"publish_time": 1467593213731,
+			"_cnpm_publish_time": 1467593213731,
+			"_hasShrinkwrap": false
+		},
+		"1.2.25-alpha": {
+			"name": "@types/lolex",
+			"version": "1.2.25-alpha",
+			"description": "TypeScript definitions for lolex 1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Wim Looman",
+				"email": "https://github.com/Nemo157"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lolex@1.2.25-alpha",
+			"_shasum": "6624fd7e80fd6b2fdf9dc71c2e15e2d095fd21c9",
+			"_from": "output\\lolex",
+			"_resolved": "file:output\\lolex",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6624fd7e80fd6b2fdf9dc71c2e15e2d095fd21c9",
+				"size": 1111,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.25-alpha.tgz_1467428091352_0.7172303486149758"
+			},
+			"directories": {},
+			"publish_time": 1467428094607,
+			"_cnpm_publish_time": 1467428094607,
+			"_hasShrinkwrap": false
+		},
+		"1.2.24-alpha": {
+			"name": "@types/lolex",
+			"version": "1.2.24-alpha",
+			"description": "TypeScript definitions for lolex 1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Wim Looman",
+				"email": "https://github.com/Nemo157"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lolex@1.2.24-alpha",
+			"_shasum": "27efd0e85b8028f8417d2e2d8400ae9719d204ac",
+			"_from": "output\\lolex",
+			"_resolved": "file:output\\lolex",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "27efd0e85b8028f8417d2e2d8400ae9719d204ac",
+				"size": 1113,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.24-alpha.tgz_1467415343289_0.7708047409541905"
+			},
+			"directories": {},
+			"publish_time": 1467415344007,
+			"_cnpm_publish_time": 1467415344007,
+			"_hasShrinkwrap": false
+		},
+		"1.2.23-alpha": {
+			"name": "@types/lolex",
+			"version": "1.2.23-alpha",
+			"description": "TypeScript definitions for lolex 1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Wim Looman",
+				"email": "https://github.com/Nemo157"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lolex@1.2.23-alpha",
+			"_shasum": "1beb4f9e234e2d7d1e8319a82927f31aa23e982b",
+			"_from": "output\\lolex",
+			"_resolved": "file:output\\lolex",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1beb4f9e234e2d7d1e8319a82927f31aa23e982b",
+				"size": 1107,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.23-alpha.tgz_1467403359042_0.37128243246115744"
+			},
+			"directories": {},
+			"publish_time": 1467403359534,
+			"_cnpm_publish_time": 1467403359534,
+			"_hasShrinkwrap": false
+		},
+		"1.2.22-alpha": {
+			"name": "@types/lolex",
+			"version": "1.2.22-alpha",
+			"description": "TypeScript definitions for lolex 1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Wim Looman",
+				"email": "https://github.com/Nemo157"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lolex@1.2.22-alpha",
+			"_shasum": "a8090ce657b2b0b26a7f277e52b108a0fa04395d",
+			"_from": "output\\lolex",
+			"_resolved": "file:output\\lolex",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a8090ce657b2b0b26a7f277e52b108a0fa04395d",
+				"size": 1083,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.22-alpha.tgz_1464153882388_0.9815469500608742"
+			},
+			"directories": {},
+			"publish_time": 1464153884771,
+			"_cnpm_publish_time": 1464153884771,
+			"_hasShrinkwrap": false
+		},
+		"1.2.21-alpha": {
+			"name": "@types/lolex",
+			"version": "1.2.21-alpha",
+			"description": "TypeScript definitions for lolex 1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Wim Looman",
+				"email": "https://github.com/Nemo157"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lolex@1.2.21-alpha",
+			"_shasum": "65d81cadf3d047ffdee0ddd4391f2e4bb9727580",
+			"_from": "output\\lolex",
+			"_resolved": "file:output\\lolex",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "65d81cadf3d047ffdee0ddd4391f2e4bb9727580",
+				"size": 1082,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.21-alpha.tgz_1463774796675_0.9425330827943981"
+			},
+			"directories": {},
+			"publish_time": 1463774798854,
+			"_cnpm_publish_time": 1463774798854,
+			"_hasShrinkwrap": false
+		},
+		"1.2.16-alpha": {
+			"name": "@types/lolex",
+			"version": "1.2.16-alpha",
+			"description": "Type definitions for lolex 1.2.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Wim Looman",
+				"email": "https://github.com/Nemo157"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lolex@1.2.16-alpha",
+			"_shasum": "582b958cb129ab1875645724e328eaa941b70062",
+			"_from": "output\\lolex",
+			"_resolved": "file:output\\lolex",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "582b958cb129ab1875645724e328eaa941b70062",
+				"size": 1086,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.16-alpha.tgz_1463693883757_0.9539685153868049"
+			},
+			"directories": {},
+			"publish_time": 1463693888099,
+			"_cnpm_publish_time": 1463693888099,
+			"_hasShrinkwrap": false
+		},
+		"1.2.15-alpha": {
+			"name": "@types/lolex",
+			"version": "1.2.15-alpha",
+			"description": "Type definitions for lolex 1.2.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Wim Looman",
+				"email": "https://github.com/Nemo157"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lolex@1.2.15-alpha",
+			"_shasum": "1a929418d90de0193be97d2da4bec14ac2166160",
+			"_from": "output\\lolex",
+			"_resolved": "file:output\\lolex",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1a929418d90de0193be97d2da4bec14ac2166160",
+				"size": 1078,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lolex-1.2.15-alpha.tgz_1463463177438_0.8302874215878546"
+			},
+			"directories": {},
+			"publish_time": 1463463177998,
+			"_cnpm_publish_time": 1463463177998,
+			"_hasShrinkwrap": false
+		},
+		"2.1.3": {
+			"name": "@types/lolex",
+			"version": "2.1.3",
+			"description": "TypeScript definitions for lolex",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Wim Looman",
+					"url": "https://github.com/Nemo157",
+					"githubUsername": "Nemo157"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Rogier Schouten",
+					"url": "https://github.com/rogierschouten",
+					"githubUsername": "rogierschouten"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "de7c68003685927ac234694d4cdc5063ad7f7420eb4dd1a4c4e01c9313ea6a80",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/lolex@2.1.3",
+			"dist": {
+				"shasum": "793557c9b8ad319b4c8e4c6548b90893f4aa5f69",
+				"size": 3408,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lolex/download/@types/lolex-2.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lolex_2.1.3_1531530377087_0.9937313585416321"
+			},
+			"publish_time": 1531530377194,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1531530377194
+		}
+	},
+	"dist-tags": {
+		"latest": "2.1.3",
+		"ts2.0": "2.1.3",
+		"ts2.1": "2.1.3",
+		"ts2.2": "2.1.3",
+		"ts2.3": "2.1.3",
+		"ts2.4": "2.1.3",
+		"ts2.5": "2.1.3",
+		"ts2.6": "2.1.3",
+		"ts2.7": "2.1.3",
+		"ts2.8": "2.1.3",
+		"ts2.9": "2.1.3",
+		"ts3.0": "2.1.3",
+		"ts3.1": "2.1.3",
+		"ts3.2": "2.1.3"
+	},
+	"time": {
+		"modified": "2018-10-10T20:17:43.000Z",
+		"created": "2016-05-17T05:32:57.998Z",
+		"2.1.3": "2018-07-14T01:06:17.194Z",
+		"2.1.2": "2018-03-22T17:54:01.280Z",
+		"2.1.1": "2017-11-30T21:46:28.661Z",
+		"2.1.0": "2017-11-28T00:58:39.535Z",
+		"1.5.32": "2017-10-26T18:53:26.574Z",
+		"1.5.31": "2017-01-17T06:28:00.702Z",
+		"1.5.30": "2016-10-06T16:44:25.149Z",
+		"1.2.29": "2016-09-19T17:49:45.132Z",
+		"1.2.28": "2016-07-14T15:19:58.539Z",
+		"1.2.27-alpha": "2016-07-08T20:48:23.732Z",
+		"1.2.26-alpha": "2016-07-04T00:46:53.731Z",
+		"1.2.25-alpha": "2016-07-02T02:54:54.607Z",
+		"1.2.24-alpha": "2016-07-01T23:22:24.007Z",
+		"1.2.23-alpha": "2016-07-01T20:02:39.534Z",
+		"1.2.22-alpha": "2016-05-25T05:24:44.771Z",
+		"1.2.21-alpha": "2016-05-20T20:06:38.854Z",
+		"1.2.16-alpha": "2016-05-19T21:38:08.099Z",
+		"1.2.15-alpha": "2016-05-17T05:32:57.998Z"
+	},
+	"_distfiles": {
+		"lolex-2.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-2.1.2.tgz",
+			"sha": "40fb763baf260ed5de0685a6257ba98c1286e173",
+			"registry": "cnpmjs"
+		},
+		"lolex-2.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-2.1.1.tgz",
+			"sha": "751bbad838366b3e9a0f7a81e30232ff56eb73dd",
+			"registry": "cnpmjs"
+		},
+		"lolex-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-2.1.0.tgz",
+			"sha": "7a53611a6c970574173a7d92ce9a0da000652725",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.5.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.5.32.tgz",
+			"sha": "a9d84d69543c0331d6b53f25bb041ba8f1efdad4",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.5.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.5.31.tgz",
+			"sha": "b9e054e26e20a987cf2f49399bdebeec8a03c593",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.5.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.5.30.tgz",
+			"sha": "86e8706fb761c2d892da46c450791728194fa6e6",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.29.tgz",
+			"sha": "e53154d8351aa208da7057517c6e8d16c53c6189",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.28.tgz",
+			"sha": "010dbb92b7d75650ee8dc4f1e9843463bb2c9301",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.27-alpha.tgz",
+			"sha": "8e1abad21d76e4c572ba8dfa3834b400a126711f",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.26-alpha.tgz",
+			"sha": "9410803fcab7f8d746b0b0e479e39762f869eab9",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.25-alpha.tgz",
+			"sha": "6624fd7e80fd6b2fdf9dc71c2e15e2d095fd21c9",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.24-alpha.tgz",
+			"sha": "27efd0e85b8028f8417d2e2d8400ae9719d204ac",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.23-alpha.tgz",
+			"sha": "1beb4f9e234e2d7d1e8319a82927f31aa23e982b",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.22-alpha.tgz",
+			"sha": "a8090ce657b2b0b26a7f277e52b108a0fa04395d",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.21-alpha.tgz",
+			"sha": "65d81cadf3d047ffdee0ddd4391f2e4bb9727580",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.16-alpha.tgz",
+			"sha": "582b958cb129ab1875645724e328eaa941b70062",
+			"registry": "cnpmjs"
+		},
+		"lolex-1.2.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-1.2.15-alpha.tgz",
+			"sha": "1a929418d90de0193be97d2da4bec14ac2166160",
+			"registry": "cnpmjs"
+		},
+		"lolex-2.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lolex/download/@types/lolex-2.1.3.tgz",
+			"sha": "793557c9b8ad319b4c8e4c6548b90893f4aa5f69",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"569f-D9PlarwhU+nC8ZeKYH74HAQ4pUQ\"",
+			"fetched": 1541833485148
+		}
+	},
+	"_rev": "2-68d1712393c83783",
+	"readme": "# Installation\r\n> `npm install --save @types/lolex`\r\n\r\n# Summary\r\nThis package contains type definitions for lolex (https://github.com/sinonjs/lolex).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lolex\r\n\r\nAdditional Details\r\n * Last updated: Sat, 14 Jul 2018 01:02:00 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Wim Looman <https://github.com/Nemo157>, Josh Goldberg <https://github.com/joshuakgoldberg>, Rogier Schouten <https://github.com/rogierschouten>."
+}

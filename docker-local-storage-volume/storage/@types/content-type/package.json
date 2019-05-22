@@ -1,0 +1,962 @@
+{
+	"name": "@types/content-type",
+	"versions": {
+		"1.1.2": {
+			"name": "@types/content-type",
+			"version": "1.1.2",
+			"description": "TypeScript definitions for content-type",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Hiroki Horiuchi",
+					"url": "https://github.com/horiuchi",
+					"githubUsername": "horiuchi"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "a1db0c854c4da29920a2673be19a42da6994db2c46c340b527749edeafd8c507",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/content-type@1.1.2",
+			"dist": {
+				"shasum": "bff0a1b7aa5bd48516c8ed7a6efefb1e85813245",
+				"size": 1668,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/content-type-1.1.2.tgz_1510679772522_0.45088572590611875"
+			},
+			"directories": {},
+			"publish_time": 1510679773250,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510679773250
+		},
+		"1.1.1": {
+			"name": "@types/content-type",
+			"version": "1.1.1",
+			"description": "TypeScript definitions for content-type",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Hiroki Horiuchi",
+					"url": "https://github.com/horiuchi"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "407ac3980dc8219b0b2359447369513418092b40344071ce54882fb7c08cf058",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/content-type@1.1.1",
+			"dist": {
+				"shasum": "3bf6a613cd3cc400699f30a62d602757f7898c97",
+				"size": 1660,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/content-type-1.1.1.tgz_1503001733163_0.07271075434982777"
+			},
+			"directories": {},
+			"publish_time": 1503001733228,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503001733228
+		},
+		"1.1.0": {
+			"name": "@types/content-type",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for content-type",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Hiroki Horiuchi",
+					"url": "https://github.com/horiuchi"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d38a492f03c7b0e3c8340a4fc992032dd04c46676f4e9f7db402bbe8c7be0dae",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/content-type@1.1.0",
+			"dist": {
+				"shasum": "9486218059c5ad6470007bd3df2e0e3a71bf2e24",
+				"size": 1619,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/content-type-1.1.0.tgz_1498226614353_0.11547131463885307"
+			},
+			"directories": {},
+			"publish_time": 1498226615543,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498226615543
+		},
+		"1.0.33": {
+			"name": "@types/content-type",
+			"version": "1.0.33",
+			"description": "TypeScript definitions for content-type v1.0.1",
+			"license": "MIT",
+			"author": "Hiroki Horiuchi <https://github.com/horiuchi>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "3f37bffdab54a261b348c146a965b1f628ea5aae499ea42c79408f4eb2592ee7",
+			"_id": "@types/content-type@1.0.33",
+			"dist": {
+				"shasum": "171849e4652dcd589c3e4ab72b81f26e87915758",
+				"size": 1127,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/content-type-1.0.33.tgz_1477552919470_0.301332883303985"
+			},
+			"directories": {},
+			"publish_time": 1477552919716,
+			"_cnpm_publish_time": 1477552919716,
+			"_hasShrinkwrap": false
+		},
+		"1.0.32": {
+			"name": "@types/content-type",
+			"version": "1.0.32",
+			"description": "TypeScript definitions for content-type v1.0.1",
+			"license": "MIT",
+			"author": "Hiroki Horiuchi <https://github.com/horiuchi>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b5cdabf657e0c7e761822ab829e064f9eae30c72a0fa360907c220f755325972",
+			"_id": "@types/content-type@1.0.32",
+			"dist": {
+				"shasum": "ab585c3c621f64753c6ab671d230df47c9873c3b",
+				"size": 1121,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/content-type-1.0.32.tgz_1474302626654_0.5281310731079429"
+			},
+			"directories": {},
+			"publish_time": 1474302628443,
+			"_cnpm_publish_time": 1474302628443,
+			"_hasShrinkwrap": false
+		},
+		"1.0.31": {
+			"name": "@types/content-type",
+			"version": "1.0.31",
+			"description": "TypeScript definitions for content-type v1.0.1",
+			"license": "MIT",
+			"author": "Hiroki Horiuchi <https://github.com/horiuchi>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/content-type@1.0.31",
+			"dist": {
+				"shasum": "793809d60c7bb8e98ba650516f787879c81d92ab",
+				"size": 1112,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/content-type-1.0.31.tgz_1472150248898_0.9231595264282078"
+			},
+			"directories": {},
+			"publish_time": 1472150249508,
+			"_cnpm_publish_time": 1472150249508,
+			"_hasShrinkwrap": false
+		},
+		"1.0.30": {
+			"name": "@types/content-type",
+			"version": "1.0.30",
+			"description": "TypeScript definitions for content-type v1.0.1",
+			"license": "MIT",
+			"author": "Hiroki Horiuchi <https://github.com/horiuchi>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/content-type@1.0.30",
+			"dist": {
+				"shasum": "68836bff667a4c06ac2195cdf81b0379374693f0",
+				"size": 1109,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/content-type-1.0.30.tgz_1471620166708_0.4482272337190807"
+			},
+			"directories": {},
+			"publish_time": 1471620167957,
+			"_cnpm_publish_time": 1471620167957,
+			"_hasShrinkwrap": false
+		},
+		"1.0.29": {
+			"name": "@types/content-type",
+			"version": "1.0.29",
+			"description": "TypeScript definitions for content-type v1.0.1",
+			"license": "MIT",
+			"author": "Hiroki Horiuchi <https://github.com/horiuchi>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/content-type@1.0.29",
+			"dist": {
+				"shasum": "a8ba350a111d894277ea1cc901adca152e512383",
+				"size": 6656,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/content-type-1.0.29.tgz_1470152987561_0.016765147913247347"
+			},
+			"directories": {},
+			"publish_time": 1470152989358,
+			"_cnpm_publish_time": 1470152989358,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/content-type",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for content-type v0.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/content-type@0.0.28",
+			"_shasum": "196a8e1bfaeb8bdb43240555ec3c13094f8ab3a4",
+			"_from": "output\\content-type",
+			"_resolved": "file:output\\content-type",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "196a8e1bfaeb8bdb43240555ec3c13094f8ab3a4",
+				"size": 1188,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/content-type-0.0.28.tgz_1468505978770_0.02973165549337864"
+			},
+			"directories": {},
+			"publish_time": 1468505981241,
+			"_cnpm_publish_time": 1468505981241,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/content-type",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for content-type v0.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/content-type@0.0.27-alpha",
+			"_shasum": "a9a500a7f67e4d7f9479776a4a300163971e4f60",
+			"_from": "output\\content-type",
+			"_resolved": "file:output\\content-type",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a9a500a7f67e4d7f9479776a4a300163971e4f60",
+				"size": 1195,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/content-type-0.0.27-alpha.tgz_1468007160216_0.18041154532693326"
+			},
+			"directories": {},
+			"publish_time": 1468007160687,
+			"_cnpm_publish_time": 1468007160687,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/content-type",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for content-type v0.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/content-type@0.0.26-alpha",
+			"_shasum": "3d479e17f3d4e4fa70db74d013f838be3cf6d1f8",
+			"_from": "output\\content-type",
+			"_resolved": "file:output\\content-type",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3d479e17f3d4e4fa70db74d013f838be3cf6d1f8",
+				"size": 1194,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/content-type-0.0.26-alpha.tgz_1467590429351_0.953267065808177"
+			},
+			"directories": {},
+			"publish_time": 1467590429879,
+			"_cnpm_publish_time": 1467590429879,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/content-type",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for content-type v0.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/content-type@0.0.25-alpha",
+			"_shasum": "b583fe84d1c77672428182e2fc311ac1f7e2c3db",
+			"_from": "output\\content-type",
+			"_resolved": "file:output\\content-type",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b583fe84d1c77672428182e2fc311ac1f7e2c3db",
+				"size": 1195,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/content-type-0.0.25-alpha.tgz_1467425448970_0.7282586779911071"
+			},
+			"directories": {},
+			"publish_time": 1467425452499,
+			"_cnpm_publish_time": 1467425452499,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/content-type",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for content-type v0.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/content-type@0.0.24-alpha",
+			"_shasum": "f641ea6d30282293ef48b379c1046496c405c12f",
+			"_from": "output\\content-type",
+			"_resolved": "file:output\\content-type",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f641ea6d30282293ef48b379c1046496c405c12f",
+				"size": 1195,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/content-type-0.0.24-alpha.tgz_1467412110883_0.8920401888899505"
+			},
+			"directories": {},
+			"publish_time": 1467412111403,
+			"_cnpm_publish_time": 1467412111403,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/content-type",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for content-type v0.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/content-type@0.0.23-alpha",
+			"_shasum": "b380d71a6600e052408902dd43613d0be6acde2c",
+			"_from": "output\\content-type",
+			"_resolved": "file:output\\content-type",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b380d71a6600e052408902dd43613d0be6acde2c",
+				"size": 1185,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/content-type-0.0.23-alpha.tgz_1467400171162_0.07232402008958161"
+			},
+			"directories": {},
+			"publish_time": 1467400174479,
+			"_cnpm_publish_time": 1467400174479,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/content-type",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for content-type v0.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/content-type@0.0.22-alpha",
+			"_shasum": "676fb74d266078afefd17830d51fd1f5572d0b2a",
+			"_from": "output\\content-type",
+			"_resolved": "file:output\\content-type",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "676fb74d266078afefd17830d51fd1f5572d0b2a",
+				"size": 1174,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/content-type-0.0.22-alpha.tgz_1464151207301_0.9871666664257646"
+			},
+			"directories": {},
+			"publish_time": 1464151207779,
+			"_cnpm_publish_time": 1464151207779,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/content-type",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for content-type v0.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/content-type@0.0.21-alpha",
+			"_shasum": "a08cdeb504a180670535e33c300b25f496918abe",
+			"_from": "output\\content-type",
+			"_resolved": "file:output\\content-type",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a08cdeb504a180670535e33c300b25f496918abe",
+				"size": 1172,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/content-type-0.0.21-alpha.tgz_1463772128361_0.8200051179155707"
+			},
+			"directories": {},
+			"publish_time": 1463772130610,
+			"_cnpm_publish_time": 1463772130610,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/content-type",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for content-type v0.0.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/content-type@0.0.16-alpha",
+			"_shasum": "01aa26642a666a30160d21fc62d5e355b5983a6f",
+			"_from": "output\\content-type",
+			"_resolved": "file:output\\content-type",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "01aa26642a666a30160d21fc62d5e355b5983a6f",
+				"size": 1187,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/content-type-0.0.16-alpha.tgz_1463689959850_0.2828286506701261"
+			},
+			"directories": {},
+			"publish_time": 1463689963123,
+			"_cnpm_publish_time": 1463689963123,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/content-type",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for content-type v0.0.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/content-type@0.0.15-alpha",
+			"_shasum": "255fbb265e46f2dbd031c3f58ab54fb9b7274dc6",
+			"_from": "output\\content-type",
+			"_resolved": "file:output\\content-type",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "255fbb265e46f2dbd031c3f58ab54fb9b7274dc6",
+				"size": 1171,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/content-type-0.0.15-alpha.tgz_1463460028429_0.6779792329762131"
+			},
+			"directories": {},
+			"publish_time": 1463460032198,
+			"_cnpm_publish_time": 1463460032198,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.2",
+		"ts2.0": "1.1.2",
+		"ts2.1": "1.1.2",
+		"ts2.2": "1.1.2",
+		"ts2.3": "1.1.2",
+		"ts2.4": "1.1.2",
+		"ts2.5": "1.1.2",
+		"ts2.6": "1.1.2",
+		"ts2.7": "1.1.2",
+		"ts2.8": "1.1.2",
+		"ts2.9": "1.1.2",
+		"ts3.0": "1.1.2",
+		"ts3.1": "1.1.2",
+		"ts3.2": "1.1.2"
+	},
+	"time": {
+		"modified": "2018-10-10T19:58:08.000Z",
+		"created": "2016-05-17T04:40:32.198Z",
+		"1.1.2": "2017-11-14T17:16:13.250Z",
+		"1.1.1": "2017-08-17T20:28:53.228Z",
+		"1.1.0": "2017-06-23T14:03:35.543Z",
+		"1.0.33": "2016-10-27T07:21:59.716Z",
+		"1.0.32": "2016-09-19T16:30:28.443Z",
+		"1.0.31": "2016-08-25T18:37:29.508Z",
+		"1.0.30": "2016-08-19T15:22:47.957Z",
+		"1.0.29": "2016-08-02T15:49:49.358Z",
+		"0.0.28": "2016-07-14T14:19:41.241Z",
+		"0.0.27-alpha": "2016-07-08T19:46:00.687Z",
+		"0.0.26-alpha": "2016-07-04T00:00:29.879Z",
+		"0.0.25-alpha": "2016-07-02T02:10:52.499Z",
+		"0.0.24-alpha": "2016-07-01T22:28:31.403Z",
+		"0.0.23-alpha": "2016-07-01T19:09:34.479Z",
+		"0.0.22-alpha": "2016-05-25T04:40:07.779Z",
+		"0.0.21-alpha": "2016-05-20T19:22:10.610Z",
+		"0.0.16-alpha": "2016-05-19T20:32:43.123Z",
+		"0.0.15-alpha": "2016-05-17T04:40:32.198Z"
+	},
+	"_distfiles": {
+		"content-type-1.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.1.2.tgz",
+			"sha": "bff0a1b7aa5bd48516c8ed7a6efefb1e85813245",
+			"registry": "cnpmjs"
+		},
+		"content-type-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.1.1.tgz",
+			"sha": "3bf6a613cd3cc400699f30a62d602757f7898c97",
+			"registry": "cnpmjs"
+		},
+		"content-type-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.1.0.tgz",
+			"sha": "9486218059c5ad6470007bd3df2e0e3a71bf2e24",
+			"registry": "cnpmjs"
+		},
+		"content-type-1.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.0.33.tgz",
+			"sha": "171849e4652dcd589c3e4ab72b81f26e87915758",
+			"registry": "cnpmjs"
+		},
+		"content-type-1.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.0.32.tgz",
+			"sha": "ab585c3c621f64753c6ab671d230df47c9873c3b",
+			"registry": "cnpmjs"
+		},
+		"content-type-1.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.0.31.tgz",
+			"sha": "793809d60c7bb8e98ba650516f787879c81d92ab",
+			"registry": "cnpmjs"
+		},
+		"content-type-1.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.0.30.tgz",
+			"sha": "68836bff667a4c06ac2195cdf81b0379374693f0",
+			"registry": "cnpmjs"
+		},
+		"content-type-1.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-1.0.29.tgz",
+			"sha": "a8ba350a111d894277ea1cc901adca152e512383",
+			"registry": "cnpmjs"
+		},
+		"content-type-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.28.tgz",
+			"sha": "196a8e1bfaeb8bdb43240555ec3c13094f8ab3a4",
+			"registry": "cnpmjs"
+		},
+		"content-type-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.27-alpha.tgz",
+			"sha": "a9a500a7f67e4d7f9479776a4a300163971e4f60",
+			"registry": "cnpmjs"
+		},
+		"content-type-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.26-alpha.tgz",
+			"sha": "3d479e17f3d4e4fa70db74d013f838be3cf6d1f8",
+			"registry": "cnpmjs"
+		},
+		"content-type-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.25-alpha.tgz",
+			"sha": "b583fe84d1c77672428182e2fc311ac1f7e2c3db",
+			"registry": "cnpmjs"
+		},
+		"content-type-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.24-alpha.tgz",
+			"sha": "f641ea6d30282293ef48b379c1046496c405c12f",
+			"registry": "cnpmjs"
+		},
+		"content-type-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.23-alpha.tgz",
+			"sha": "b380d71a6600e052408902dd43613d0be6acde2c",
+			"registry": "cnpmjs"
+		},
+		"content-type-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.22-alpha.tgz",
+			"sha": "676fb74d266078afefd17830d51fd1f5572d0b2a",
+			"registry": "cnpmjs"
+		},
+		"content-type-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.21-alpha.tgz",
+			"sha": "a08cdeb504a180670535e33c300b25f496918abe",
+			"registry": "cnpmjs"
+		},
+		"content-type-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.16-alpha.tgz",
+			"sha": "01aa26642a666a30160d21fc62d5e355b5983a6f",
+			"registry": "cnpmjs"
+		},
+		"content-type-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-type/download/@types/content-type-0.0.15-alpha.tgz",
+			"sha": "255fbb265e46f2dbd031c3f58ab54fb9b7274dc6",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"55d3-uHRqPBOdlX9sMPW8kpTubRhEhGY\"",
+			"fetched": 1541833453392
+		}
+	},
+	"_rev": "2-744c9b6fc0612f44",
+	"readme": "# Installation\r\n> `npm install --save @types/content-type`\r\n\r\n# Summary\r\nThis package contains type definitions for content-type (https://www.npmjs.com/package/content-type).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/content-type\r\n\r\nAdditional Details\r\n * Last updated: Tue, 14 Nov 2017 17:15:27 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Hiroki Horiuchi <https://github.com/horiuchi>, BendingBender <https://github.com/BendingBender>."
+}

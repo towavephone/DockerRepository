@@ -1,0 +1,1136 @@
+{
+	"name": "@types/glob",
+	"versions": {
+		"5.0.35": {
+			"name": "@types/glob",
+			"version": "5.0.35",
+			"description": "TypeScript definitions for Glob",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame",
+					"githubUsername": "vvakame"
+				},
+				{
+					"name": "voy",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/minimatch": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "42323e062a8446e6944dca28db363f8464acd6d2b04408df8173b4697a413e85",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/glob@5.0.35",
+			"dist": {
+				"shasum": "1ae151c802cece940443b5ac246925c85189f32a",
+				"size": 2258,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/glob-5.0.35.tgz_1516737973043_0.20321329892612994"
+			},
+			"directories": {},
+			"publish_time": 1516737973149,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1516737973149
+		},
+		"5.0.34": {
+			"name": "@types/glob",
+			"version": "5.0.34",
+			"description": "TypeScript definitions for Glob",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame",
+					"githubUsername": "vvakame"
+				},
+				{
+					"name": "voy",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/minimatch": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "56900e2c5f1f06dd0be7553516efaec9abb4262e91ee787e2a3a1f71a6b437a4",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/glob@5.0.34",
+			"dist": {
+				"shasum": "ee626c9be3da877d717911c6101eee0a9871bbf4",
+				"size": 2230,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/glob-5.0.34.tgz_1513098894690_0.3784917686134577"
+			},
+			"directories": {},
+			"publish_time": 1513098894741,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513098894741
+		},
+		"5.0.33": {
+			"name": "@types/glob",
+			"version": "5.0.33",
+			"description": "TypeScript definitions for Glob",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame",
+					"githubUsername": "vvakame"
+				},
+				{
+					"name": "voy",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimatch": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "3b61088a270ca9ff3767ea76660338bea395245f257ab39701a3b645852c80aa",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/glob@5.0.33",
+			"dist": {
+				"shasum": "3dff7c6ce09d65abe919c7961dc3dee016f36ad7",
+				"size": 2236,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/glob-5.0.33.tgz_1507124261575_0.537655736785382"
+			},
+			"directories": {},
+			"publish_time": 1507124261661,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507124261661
+		},
+		"5.0.32": {
+			"name": "@types/glob",
+			"version": "5.0.32",
+			"description": "TypeScript definitions for Glob",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame"
+				},
+				{
+					"name": "voy",
+					"url": "https://github.com/voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimatch": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "4645ba54f571f547180f74d880c42c4f0a06839f5d0b19dc9a1e5027aa1f8947",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/glob@5.0.32",
+			"dist": {
+				"shasum": "aec5cfe987c72f099fdb1184452986aa506d5e8f",
+				"size": 2218,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/glob-5.0.32.tgz_1503352356175_0.2661672660615295"
+			},
+			"directories": {},
+			"publish_time": 1503352356265,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352356265
+		},
+		"5.0.31": {
+			"name": "@types/glob",
+			"version": "5.0.31",
+			"description": "TypeScript definitions for Glob",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame/"
+				},
+				{
+					"name": "voy",
+					"url": "https://github.com/voy/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimatch": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d5132bcab580a95ec4db422c769a8e515e43a4ddd79f86cea96a1c6d951df220",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/glob@5.0.31",
+			"dist": {
+				"shasum": "6cb8500bd170750c1948f785cc5828e9cff0c36a",
+				"size": 2224,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/glob-5.0.31.tgz_1502820706548_0.05811617011204362"
+			},
+			"directories": {},
+			"publish_time": 1502820706616,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502820706616
+		},
+		"5.0.30": {
+			"name": "@types/glob",
+			"version": "5.0.30",
+			"description": "TypeScript definitions for Glob 5.0.10",
+			"license": "MIT",
+			"author": "vvakame <https://github.com/vvakame/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimatch": "*",
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "8c143641642f0e205786502b11aa75903aa26780b026607ed34de6e0836fe815",
+			"_id": "@types/glob@5.0.30",
+			"dist": {
+				"shasum": "1026409c5625a8689074602808d082b2867b8a51",
+				"size": 1715,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.30.tgz_1474306440344_0.5621657641604543"
+			},
+			"directories": {},
+			"publish_time": 1474306440587,
+			"_cnpm_publish_time": 1474306440587,
+			"_hasShrinkwrap": false
+		},
+		"5.0.29": {
+			"name": "@types/glob",
+			"version": "5.0.29",
+			"description": "TypeScript definitions for Glob 5.0.10",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/minimatch": "2.0.*",
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/glob@5.0.29",
+			"_shasum": "2a7940179f1e066d575579dc6e8309eb5cfe2d1a",
+			"_from": "output\\glob",
+			"_resolved": "file:output\\glob",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2a7940179f1e066d575579dc6e8309eb5cfe2d1a",
+				"size": 1689,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.29.tgz_1468507312972_0.6603656003717333"
+			},
+			"directories": {},
+			"publish_time": 1468507315064,
+			"_cnpm_publish_time": 1468507315064,
+			"_hasShrinkwrap": false
+		},
+		"5.0.28-alpha": {
+			"name": "@types/glob",
+			"version": "5.0.28-alpha",
+			"description": "TypeScript definitions for Glob 5.0.10",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/minimatch": "2.0.27-alpha",
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/glob@5.0.28-alpha",
+			"_shasum": "d46f326ee3e9207e5b426f2dbd27436bda82fd13",
+			"_from": "output\\glob",
+			"_resolved": "file:output\\glob",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d46f326ee3e9207e5b426f2dbd27436bda82fd13",
+				"size": 1695,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.28-alpha.tgz_1468008722502_0.4580145035870373"
+			},
+			"directories": {},
+			"publish_time": 1468008722968,
+			"_cnpm_publish_time": 1468008722968,
+			"_hasShrinkwrap": false
+		},
+		"5.0.26-alpha": {
+			"name": "@types/glob",
+			"version": "5.0.26-alpha",
+			"description": "TypeScript definitions for Glob 5.0.10",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/glob@5.0.26-alpha",
+			"_shasum": "b2f5dc078fe88a7f7c5728c0230c80cff6540841",
+			"_from": "output\\glob",
+			"_resolved": "file:output\\glob",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b2f5dc078fe88a7f7c5728c0230c80cff6540841",
+				"size": 1680,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.26-alpha.tgz_1467591429355_0.9813095876015723"
+			},
+			"directories": {},
+			"publish_time": 1467591432891,
+			"_cnpm_publish_time": 1467591432891,
+			"_hasShrinkwrap": false
+		},
+		"5.0.25-alpha": {
+			"name": "@types/glob",
+			"version": "5.0.25-alpha",
+			"description": "TypeScript definitions for Glob 5.0.10",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/glob@5.0.25-alpha",
+			"_shasum": "a539932beb2d1d0d75287846c43e7ec7eaeddb89",
+			"_from": "output\\glob",
+			"_resolved": "file:output\\glob",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a539932beb2d1d0d75287846c43e7ec7eaeddb89",
+				"size": 1684,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.25-alpha.tgz_1467426577295_0.7639074916951358"
+			},
+			"directories": {},
+			"publish_time": 1467426577779,
+			"_cnpm_publish_time": 1467426577779,
+			"_hasShrinkwrap": false
+		},
+		"5.0.24-alpha": {
+			"name": "@types/glob",
+			"version": "5.0.24-alpha",
+			"description": "TypeScript definitions for Glob 5.0.10",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha"
+			},
+			"_id": "@types/glob@5.0.24-alpha",
+			"_shasum": "dff53edbc3f0946e28be64fed8144e6081354cbd",
+			"_from": "output\\glob",
+			"_resolved": "file:output\\glob",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dff53edbc3f0946e28be64fed8144e6081354cbd",
+				"size": 1685,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.24-alpha.tgz_1467413234463_0.21665450395084918"
+			},
+			"directories": {},
+			"publish_time": 1467413235047,
+			"_cnpm_publish_time": 1467413235047,
+			"_hasShrinkwrap": false
+		},
+		"5.0.23-alpha": {
+			"name": "@types/glob",
+			"version": "5.0.23-alpha",
+			"description": "TypeScript definitions for Glob 5.0.10",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/glob@5.0.23-alpha",
+			"_shasum": "a772ff78f6d087563830752b578b89877863d7c1",
+			"_from": "output\\glob",
+			"_resolved": "file:output\\glob",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a772ff78f6d087563830752b578b89877863d7c1",
+				"size": 1678,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.23-alpha.tgz_1467401152251_0.9246603916399181"
+			},
+			"directories": {},
+			"publish_time": 1467401154297,
+			"_cnpm_publish_time": 1467401154297,
+			"_hasShrinkwrap": false
+		},
+		"5.0.22-alpha": {
+			"name": "@types/glob",
+			"version": "5.0.22-alpha",
+			"description": "TypeScript definitions for Glob 5.0.10",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/glob@5.0.22-alpha",
+			"_shasum": "0c275df676c4ba7a1c92a9df440f1a9d43e32c78",
+			"_from": "output\\glob",
+			"_resolved": "file:output\\glob",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0c275df676c4ba7a1c92a9df440f1a9d43e32c78",
+				"size": 1651,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.22-alpha.tgz_1464152316741_0.8522203208412975"
+			},
+			"directories": {},
+			"publish_time": 1464152319192,
+			"_cnpm_publish_time": 1464152319192,
+			"_hasShrinkwrap": false
+		},
+		"5.0.21-alpha": {
+			"name": "@types/glob",
+			"version": "5.0.21-alpha",
+			"description": "TypeScript definitions for Glob 5.0.10",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/glob@5.0.21-alpha",
+			"_shasum": "fbdfd766c739d804f76fa54a4dee8fef3ab8588a",
+			"_from": "output\\glob",
+			"_resolved": "file:output\\glob",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fbdfd766c739d804f76fa54a4dee8fef3ab8588a",
+				"size": 1650,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.21-alpha.tgz_1463773229175_0.4415250865276903"
+			},
+			"directories": {},
+			"publish_time": 1463773231262,
+			"_cnpm_publish_time": 1463773231262,
+			"_hasShrinkwrap": false
+		},
+		"5.0.16-alpha": {
+			"name": "@types/glob",
+			"version": "5.0.16-alpha",
+			"description": "Type definitions for Glob 5.0.10 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"events\"": "*",
+				"equire('fs'": "*",
+				"equire(\"../minimatch\"": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/glob@5.0.16-alpha",
+			"_shasum": "e759041f67b0e500a91fa10a1516230323d2a23c",
+			"_from": "output\\glob",
+			"_resolved": "file:output\\glob",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e759041f67b0e500a91fa10a1516230323d2a23c",
+				"size": 1683,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.16-alpha.tgz_1463691569370_0.8603634051978588"
+			},
+			"directories": {},
+			"publish_time": 1463691569954,
+			"_cnpm_publish_time": 1463691569954,
+			"_hasShrinkwrap": false
+		},
+		"5.0.15-alpha": {
+			"name": "@types/glob",
+			"version": "5.0.15-alpha",
+			"description": "Type definitions for Glob 5.0.10 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"events\"": "*",
+				"equire('fs'": "*",
+				"equire(\"../minimatch\"": "*"
+			},
+			"_id": "@types/glob@5.0.15-alpha",
+			"_shasum": "ab78a059faef97381a7bcb55e33e5488bd3d7915",
+			"_from": "output\\glob",
+			"_resolved": "file:output\\glob",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ab78a059faef97381a7bcb55e33e5488bd3d7915",
+				"size": 1666,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-5.0.15-alpha.tgz_1463461309064_0.8073523284401745"
+			},
+			"directories": {},
+			"publish_time": 1463461309638,
+			"_cnpm_publish_time": 1463461309638,
+			"_hasShrinkwrap": false
+		},
+		"7.1.1": {
+			"name": "@types/glob",
+			"version": "7.1.1",
+			"description": "TypeScript definitions for Glob",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame",
+					"githubUsername": "vvakame"
+				},
+				{
+					"name": "voy",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				},
+				{
+					"name": "Klaus Meinhardt",
+					"url": "https://github.com/ajafff",
+					"githubUsername": "ajafff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/minimatch": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "43019f2af91c7a4ca3453c4b806a01c521ca3008ffe1bfefd37c5f9d6135660e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/glob@7.1.1",
+			"dist": {
+				"shasum": "aa59a1c6e3fbc421e07ccd31a944c30eba521575",
+				"size": 2199,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-7.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/glob_7.1.1_1538052249169_0.21540510590741557"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538052249250,
+			"_cnpm_publish_time": 1538052249250
+		},
+		"7.1.0": {
+			"name": "@types/glob",
+			"version": "7.1.0",
+			"description": "TypeScript definitions for Glob",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame",
+					"githubUsername": "vvakame"
+				},
+				{
+					"name": "voy",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				},
+				{
+					"name": "Klaus Meinhardt",
+					"url": "https://github.com/ajafff",
+					"githubUsername": "ajafff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/minimatch": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "78d17496a0474ac16e1a7cea259c6ae5ba276f2f354ca1d09a7164612ac64835",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/glob@7.1.0",
+			"dist": {
+				"shasum": "55ff6b216e9100b22eccec2cfe2e251ccb09a6ab",
+				"size": 2191,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-7.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/glob_7.1.0_1537371090326_0.519892322086219"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1537371090446,
+			"_cnpm_publish_time": 1537371090446
+		},
+		"5.0.36": {
+			"name": "@types/glob",
+			"version": "5.0.36",
+			"description": "TypeScript definitions for Glob",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame",
+					"githubUsername": "vvakame"
+				},
+				{
+					"name": "voy",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/minimatch": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "be647ff0f41782a60bcc1124f52138f4550638a512860e925c1aefc40942a201",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/glob@5.0.36",
+			"dist": {
+				"shasum": "0c80a9c8664fc7d19781de229f287077fd622cb2",
+				"size": 2263,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/glob_5.0.36_1537371081339_0.1376341826648253"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1537371081510,
+			"_cnpm_publish_time": 1537371081510
+		}
+	},
+	"dist-tags": {
+		"latest": "7.1.1",
+		"ts2.0": "7.1.1",
+		"ts2.1": "7.1.1",
+		"ts2.2": "7.1.1",
+		"ts2.3": "7.1.1",
+		"ts2.4": "7.1.1",
+		"ts2.5": "7.1.1",
+		"ts2.6": "7.1.1",
+		"ts2.7": "7.1.1",
+		"ts2.8": "7.1.1",
+		"ts2.9": "7.1.1",
+		"ts3.0": "7.1.1",
+		"ts3.1": "7.1.1",
+		"ts3.2": "7.1.1"
+	},
+	"time": {
+		"modified": "2018-09-27T12:44:24.000Z",
+		"created": "2016-05-17T05:01:49.638Z",
+		"7.1.1": "2018-09-27T12:44:09.250Z",
+		"7.1.0": "2018-09-19T15:31:30.446Z",
+		"5.0.36": "2018-09-19T15:31:21.510Z",
+		"5.0.35": "2018-01-23T20:06:13.149Z",
+		"5.0.34": "2017-12-12T17:14:54.741Z",
+		"5.0.33": "2017-10-04T13:37:41.661Z",
+		"5.0.32": "2017-08-21T21:52:36.265Z",
+		"5.0.31": "2017-08-15T18:11:46.616Z",
+		"5.0.30": "2016-09-19T17:34:00.587Z",
+		"5.0.29": "2016-07-14T14:41:55.064Z",
+		"5.0.28-alpha": "2016-07-08T20:12:02.968Z",
+		"5.0.26-alpha": "2016-07-04T00:17:12.891Z",
+		"5.0.25-alpha": "2016-07-02T02:29:37.779Z",
+		"5.0.24-alpha": "2016-07-01T22:47:15.047Z",
+		"5.0.23-alpha": "2016-07-01T19:25:54.297Z",
+		"5.0.22-alpha": "2016-05-25T04:58:39.192Z",
+		"5.0.21-alpha": "2016-05-20T19:40:31.262Z",
+		"5.0.16-alpha": "2016-05-19T20:59:29.954Z",
+		"5.0.15-alpha": "2016-05-17T05:01:49.638Z"
+	},
+	"_distfiles": {
+		"glob-5.0.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.35.tgz",
+			"sha": "1ae151c802cece940443b5ac246925c85189f32a",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.34.tgz",
+			"sha": "ee626c9be3da877d717911c6101eee0a9871bbf4",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.33.tgz",
+			"sha": "3dff7c6ce09d65abe919c7961dc3dee016f36ad7",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.32.tgz",
+			"sha": "aec5cfe987c72f099fdb1184452986aa506d5e8f",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.31.tgz",
+			"sha": "6cb8500bd170750c1948f785cc5828e9cff0c36a",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.30.tgz",
+			"sha": "1026409c5625a8689074602808d082b2867b8a51",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.29.tgz",
+			"sha": "2a7940179f1e066d575579dc6e8309eb5cfe2d1a",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.28-alpha.tgz",
+			"sha": "d46f326ee3e9207e5b426f2dbd27436bda82fd13",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.26-alpha.tgz",
+			"sha": "b2f5dc078fe88a7f7c5728c0230c80cff6540841",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.25-alpha.tgz",
+			"sha": "a539932beb2d1d0d75287846c43e7ec7eaeddb89",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.24-alpha.tgz",
+			"sha": "dff53edbc3f0946e28be64fed8144e6081354cbd",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.23-alpha.tgz",
+			"sha": "a772ff78f6d087563830752b578b89877863d7c1",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.22-alpha.tgz",
+			"sha": "0c275df676c4ba7a1c92a9df440f1a9d43e32c78",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.21-alpha.tgz",
+			"sha": "fbdfd766c739d804f76fa54a4dee8fef3ab8588a",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.16-alpha.tgz",
+			"sha": "e759041f67b0e500a91fa10a1516230323d2a23c",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.15-alpha.tgz",
+			"sha": "ab78a059faef97381a7bcb55e33e5488bd3d7915",
+			"registry": "cnpmjs"
+		},
+		"glob-7.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-7.1.1.tgz",
+			"sha": "aa59a1c6e3fbc421e07ccd31a944c30eba521575",
+			"registry": "cnpmjs"
+		},
+		"glob-7.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-7.1.0.tgz",
+			"sha": "55ff6b216e9100b22eccec2cfe2e251ccb09a6ab",
+			"registry": "cnpmjs"
+		},
+		"glob-5.0.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob/download/@types/glob-5.0.36.tgz",
+			"sha": "0c80a9c8664fc7d19781de229f287077fd622cb2",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833455858
+		}
+	},
+	"_rev": "3-3a9cbf9a2e7269f9",
+	"readme": "# Installation\r\n> `npm install --save @types/glob`\r\n\r\n# Summary\r\nThis package contains type definitions for Glob (https://github.com/isaacs/node-glob).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/glob\r\n\r\nAdditional Details\r\n * Last updated: Thu, 27 Sep 2018 12:34:19 GMT\r\n * Dependencies: events, minimatch, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by vvakame <https://github.com/vvakame>, voy <https://github.com/voy>, Klaus Meinhardt <https://github.com/ajafff>."
+}

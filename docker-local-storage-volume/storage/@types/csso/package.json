@@ -1,0 +1,83 @@
+{
+	"name": "@types/csso",
+	"versions": {
+		"3.5.0": {
+			"name": "@types/csso",
+			"version": "3.5.0",
+			"description": "TypeScript definitions for csso",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver",
+					"githubUsername": "screendriver"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "1f629d9c073651fc6e3c1915c0d0ba30f880df8951abc08031be976c69b8421c",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/csso@3.5.0",
+			"dist": {
+				"shasum": "1acf756d8b04cbe528000a67838af361ed8933ad",
+				"size": 2375,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/csso/download/@types/csso-3.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/csso_3.5.0_1529540227248_0.053988112302529645"
+			},
+			"publish_time": 1529540227345,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1529540227345
+		}
+	},
+	"dist-tags": {
+		"latest": "3.5.0",
+		"ts2.6": "3.5.0",
+		"ts2.7": "3.5.0",
+		"ts2.8": "3.5.0",
+		"ts2.9": "3.5.0",
+		"ts3.0": "3.5.0",
+		"ts3.1": "3.5.0",
+		"ts3.2": "3.5.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:07:21.000Z",
+		"created": "2018-06-21T00:17:07.345Z",
+		"3.5.0": "2018-06-21T00:17:07.345Z"
+	},
+	"_distfiles": {
+		"csso-3.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/csso/download/@types/csso-3.5.0.tgz",
+			"sha": "1acf756d8b04cbe528000a67838af361ed8933ad",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"878-/SYkqycSl8vWjzON5NmJrK4RyLU\"",
+			"fetched": 1541833453622
+		}
+	},
+	"_rev": "1-92d089ffc4d51d19",
+	"readme": "# Installation\r\n> `npm install --save @types/csso`\r\n\r\n# Summary\r\nThis package contains type definitions for csso (https://github.com/css/csso).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/csso\r\n\r\nAdditional Details\r\n * Last updated: Thu, 21 Jun 2018 00:15:27 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Christian Rackerseder <https://github.com/screendriver>."
+}

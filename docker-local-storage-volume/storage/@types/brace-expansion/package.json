@@ -1,0 +1,89 @@
+{
+	"name": "@types/brace-expansion",
+	"versions": {
+		"1.1.0": {
+			"name": "@types/brace-expansion",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for brace-expansion",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "8e9785196f1d50c91b75d436b5ff9e343fe41144fe50102eab44247d926e646d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/brace-expansion@1.1.0",
+			"dist": {
+				"shasum": "fbce69132b7277e35e4d4bfc13a69c0d1ab6ebf8",
+				"size": 1486,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brace-expansion/download/@types/brace-expansion-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/brace-expansion-1.1.0.tgz_1502736255444_0.5918121128343046"
+			},
+			"directories": {},
+			"publish_time": 1502736255525,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502736255525
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.0",
+		"ts2.0": "1.1.0",
+		"ts2.1": "1.1.0",
+		"ts2.2": "1.1.0",
+		"ts2.3": "1.1.0",
+		"ts2.4": "1.1.0",
+		"ts2.5": "1.1.0",
+		"ts2.6": "1.1.0",
+		"ts2.7": "1.1.0",
+		"ts2.8": "1.1.0",
+		"ts2.9": "1.1.0",
+		"ts3.0": "1.1.0",
+		"ts3.1": "1.1.0",
+		"ts3.2": "1.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:06.000Z",
+		"created": "2017-08-14T18:44:15.525Z",
+		"1.1.0": "2017-08-14T18:44:15.525Z"
+	},
+	"_distfiles": {
+		"brace-expansion-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brace-expansion/download/@types/brace-expansion-1.1.0.tgz",
+			"sha": "fbce69132b7277e35e4d4bfc13a69c0d1ab6ebf8",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"965-0wPu8dxNXpZJve/HuKOSBJl2FeA\"",
+			"fetched": 1541833452877
+		}
+	},
+	"_rev": "2-97ca052d93a6de4e",
+	"readme": "# Installation\r\n> `npm install --save @types/brace-expansion`\r\n\r\n# Summary\r\nThis package contains type definitions for brace-expansion (https://github.com/juliangruber/brace-expansion).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/brace-expansion\r\n\r\nAdditional Details\r\n * Last updated: Mon, 14 Aug 2017 18:44:00 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by BendingBender <https://github.com/BendingBender>."
+}

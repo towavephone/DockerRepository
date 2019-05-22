@@ -1,0 +1,468 @@
+{
+	"name": "@types/react-side-effect",
+	"versions": {
+		"1.0.6": {
+			"name": "@types/react-side-effect",
+			"version": "1.0.6",
+			"description": "TypeScript definitions for react-side-effect",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Remo H. Jansen",
+					"url": "https://github.com/remojansen",
+					"githubUsername": "remojansen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "0ce062be5253405dde0729fc2d676a00bac08debb900c746654b6fea3f7fe62c",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-side-effect@1.0.6",
+			"dist": {
+				"shasum": "33ed4cf69207164711bce0786527b5f7e56dc48d",
+				"size": 1719,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-side-effect_1.0.6_1518469665985_0.49770794745808145"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518469666030,
+			"_cnpm_publish_time": 1518469666030
+		},
+		"1.0.5": {
+			"name": "@types/react-side-effect",
+			"version": "1.0.5",
+			"description": "TypeScript definitions for react-side-effect",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Remo H. Jansen",
+					"url": "https://github.com/remojansen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "6b25c2ce8bdd79dc5758724928a4328bb6969de8caca6dd50af8b08ff22773e1",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-side-effect@1.0.5",
+			"dist": {
+				"shasum": "60760404b5d9b6291630be3afa1b90c88b86a70e",
+				"size": 1707,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-side-effect-1.0.5.tgz_1503352954118_0.2471056692302227"
+			},
+			"directories": {},
+			"publish_time": 1503352954267,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352954267
+		},
+		"1.0.4": {
+			"name": "@types/react-side-effect",
+			"version": "1.0.4",
+			"description": "TypeScript definitions for react-side-effect",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Remo H. Jansen",
+					"url": "https://github.com/remojansen/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f844cf84366a7b3a276071f4891183af57a6a4baec1d9b981a069192716339e9",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-side-effect@1.0.4",
+			"dist": {
+				"shasum": "82b6ab9d2ad7bbae4052a69e458871af1e9a55bd",
+				"size": 1715,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-side-effect-1.0.4.tgz_1498239492283_0.3388384699355811"
+			},
+			"directories": {},
+			"publish_time": 1498239492356,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498239492356
+		},
+		"1.0.3": {
+			"name": "@types/react-side-effect",
+			"version": "1.0.3",
+			"description": "TypeScript definitions for react-side-effect",
+			"license": "MIT",
+			"author": "Remo H. Jansen <https://github.com/remojansen/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "33ecb5f3b0d47a3138b9021dd8b8e5bea6d24a49b50affc9fe30d2ee1c74092b",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-side-effect@1.0.3",
+			"dist": {
+				"shasum": "8289db1076fe6a970f5365184183376f103cb982",
+				"size": 1228,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-side-effect-1.0.3.tgz_1485207331595_0.8361328383907676"
+			},
+			"directories": {},
+			"publish_time": 1485207331823,
+			"_cnpm_publish_time": 1485207331823,
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "@types/react-side-effect",
+			"version": "1.0.2",
+			"description": "TypeScript definitions for react-side-effect v1.0.2",
+			"license": "MIT",
+			"author": "Remo H. Jansen <https://github.com/remojansen/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "665b1331bbd7c1401ccb2528862ce2705ca4fc35155ff37c211fd4789bf4382d",
+			"_id": "@types/react-side-effect@1.0.2",
+			"dist": {
+				"shasum": "ae027514df1ead37ef93dd7f4b56504b0f08674c",
+				"size": 1243,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-side-effect-1.0.2.tgz_1478301591480_0.3212000217754394"
+			},
+			"directories": {},
+			"publish_time": 1478301593141,
+			"_cnpm_publish_time": 1478301593141,
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "@types/react-side-effect",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for react-side-effect v1.0.2",
+			"license": "MIT",
+			"author": "Remo H. Jansen <https://github.com/remojansen/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "react-side-effect.d.ts",
+			"typesPublisherContentHash": "c1f2b34dc4d4884d1e57a848cbb3614c79ff5e19a3bfbd5366e04aa0be12deae",
+			"_id": "@types/react-side-effect@1.0.1",
+			"dist": {
+				"shasum": "09b524bd14554c568d34d202990ddda9e65e65b5",
+				"size": 1242,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-side-effect-1.0.1.tgz_1477510082050_0.8645129827782512"
+			},
+			"directories": {},
+			"publish_time": 1477510082286,
+			"_cnpm_publish_time": 1477510082286,
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "@types/react-side-effect",
+			"version": "1.1.1",
+			"description": "TypeScript definitions for react-side-effect",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Remo H. Jansen",
+					"url": "https://github.com/remojansen",
+					"githubUsername": "remojansen"
+				},
+				{
+					"name": "Martin Charles",
+					"url": "https://github.com/0xcaff",
+					"githubUsername": "0xcaff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "2737dba837aef60b998dbb16b7364c5b95756b82e58302461ba6d275c4562ee7",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-side-effect@1.1.1",
+			"dist": {
+				"shasum": "c38ab896c609aa242dae2adf9cd7a53457e9c324",
+				"size": 1824,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-side-effect_1.1.1_1533594784524_0.32347658430011994"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533594784627,
+			"_cnpm_publish_time": 1533594784627
+		},
+		"1.1.0": {
+			"name": "@types/react-side-effect",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for react-side-effect",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Remo H. Jansen",
+					"url": "https://github.com/remojansen",
+					"githubUsername": "remojansen"
+				},
+				{
+					"name": "Martin Charles",
+					"url": "https://github.com/0xcaff",
+					"githubUsername": "0xcaff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "5a4083b7203790d5592241943199dff100ce94703bf72c225fc53850cff742c4",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-side-effect@1.1.0",
+			"dist": {
+				"shasum": "753c08ba75d39aabfd935c9d59460cce9477f826",
+				"size": 1824,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-side-effect_1.1.0_1532394086769_0.3569211315463161"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532394086832,
+			"_cnpm_publish_time": 1532394086832
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.1",
+		"ts2.0": "1.0.2",
+		"ts2.1": "1.0.3",
+		"ts2.2": "1.0.3",
+		"ts2.3": "1.0.5",
+		"ts2.4": "1.0.5",
+		"ts2.5": "1.0.5",
+		"ts2.6": "1.1.0",
+		"ts2.7": "1.1.0",
+		"ts2.8": "1.1.1",
+		"ts2.9": "1.1.1",
+		"ts3.0": "1.1.1",
+		"ts3.1": "1.1.1",
+		"ts3.2": "1.1.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:27:33.000Z",
+		"created": "2016-10-26T19:28:02.286Z",
+		"1.1.1": "2018-08-06T22:33:04.627Z",
+		"1.1.0": "2018-07-24T01:01:26.832Z",
+		"1.0.6": "2018-02-12T21:07:46.030Z",
+		"1.0.5": "2017-08-21T22:02:34.267Z",
+		"1.0.4": "2017-06-23T17:38:12.356Z",
+		"1.0.3": "2017-01-23T21:35:31.823Z",
+		"1.0.2": "2016-11-04T23:19:53.141Z",
+		"1.0.1": "2016-10-26T19:28:02.286Z"
+	},
+	"_distfiles": {
+		"react-side-effect-1.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.6.tgz",
+			"sha": "33ed4cf69207164711bce0786527b5f7e56dc48d",
+			"registry": "cnpmjs"
+		},
+		"react-side-effect-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.5.tgz",
+			"sha": "60760404b5d9b6291630be3afa1b90c88b86a70e",
+			"registry": "cnpmjs"
+		},
+		"react-side-effect-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.4.tgz",
+			"sha": "82b6ab9d2ad7bbae4052a69e458871af1e9a55bd",
+			"registry": "cnpmjs"
+		},
+		"react-side-effect-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.3.tgz",
+			"sha": "8289db1076fe6a970f5365184183376f103cb982",
+			"registry": "cnpmjs"
+		},
+		"react-side-effect-1.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.2.tgz",
+			"sha": "ae027514df1ead37ef93dd7f4b56504b0f08674c",
+			"registry": "cnpmjs"
+		},
+		"react-side-effect-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.0.1.tgz",
+			"sha": "09b524bd14554c568d34d202990ddda9e65e65b5",
+			"registry": "cnpmjs"
+		},
+		"react-side-effect-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.1.1.tgz",
+			"sha": "c38ab896c609aa242dae2adf9cd7a53457e9c324",
+			"registry": "cnpmjs"
+		},
+		"react-side-effect-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-side-effect/download/@types/react-side-effect-1.1.0.tgz",
+			"sha": "753c08ba75d39aabfd935c9d59460cce9477f826",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"2a39-8syrN34+knkvkIixE1PdTUOUoLg\"",
+			"fetched": 1541833487745
+		}
+	},
+	"_rev": "2-fef78b641f998f8e",
+	"readme": "# Installation\r\n> `npm install --save @types/react-side-effect`\r\n\r\n# Summary\r\nThis package contains type definitions for react-side-effect (https://github.com/gaearon/react-side-effect).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-side-effect\r\n\r\nAdditional Details\r\n * Last updated: Mon, 06 Aug 2018 21:55:29 GMT\r\n * Dependencies: react\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Remo H. Jansen <https://github.com/remojansen>, Martin Charles <https://github.com/0xcaff>."
+}

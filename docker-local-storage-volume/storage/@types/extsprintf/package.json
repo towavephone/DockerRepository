@@ -1,0 +1,89 @@
+{
+	"name": "@types/extsprintf",
+	"versions": {
+		"1.4.0": {
+			"name": "@types/extsprintf",
+			"version": "1.4.0",
+			"description": "TypeScript definitions for extsprintf",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Hankins",
+					"url": "https://github.com/AlexHankins",
+					"githubUsername": "AlexHankins"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "9184de21c701443b532d848fe4f0b784242715c9babc4581455c32e981ef7ea9",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/extsprintf@1.4.0",
+			"dist": {
+				"shasum": "da654bd13c17207ce2077d708d0fbb1c8927dbac",
+				"size": 1540,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extsprintf/download/@types/extsprintf-1.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/extsprintf_1.4.0_1533592612418_0.33324258703901055"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533592612565,
+			"_cnpm_publish_time": 1533592612565
+		}
+	},
+	"dist-tags": {
+		"latest": "1.4.0",
+		"ts2.0": "1.4.0",
+		"ts2.1": "1.4.0",
+		"ts2.2": "1.4.0",
+		"ts2.3": "1.4.0",
+		"ts2.4": "1.4.0",
+		"ts2.5": "1.4.0",
+		"ts2.6": "1.4.0",
+		"ts2.7": "1.4.0",
+		"ts2.8": "1.4.0",
+		"ts2.9": "1.4.0",
+		"ts3.0": "1.4.0",
+		"ts3.1": "1.4.0",
+		"ts3.2": "1.4.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:11:06.000Z",
+		"created": "2018-08-06T21:56:52.565Z",
+		"1.4.0": "2018-08-06T21:56:52.565Z"
+	},
+	"_distfiles": {
+		"extsprintf-1.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extsprintf/download/@types/extsprintf-1.4.0.tgz",
+			"sha": "da654bd13c17207ce2077d708d0fbb1c8927dbac",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"91f-xSsyVnf2VBPoVZfutoEXMjrNBE8\"",
+			"fetched": 1541833455162
+		}
+	},
+	"_rev": "1-16fc4bd37018deb4",
+	"readme": "# Installation\r\n> `npm install --save @types/extsprintf`\r\n\r\n# Summary\r\nThis package contains type definitions for extsprintf (https://github.com/joyent/node-extsprintf#readme).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/extsprintf\r\n\r\nAdditional Details\r\n * Last updated: Mon, 06 Aug 2018 21:55:24 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Alex Hankins <https://github.com/AlexHankins>."
+}

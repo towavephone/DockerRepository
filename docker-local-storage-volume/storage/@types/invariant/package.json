@@ -1,0 +1,658 @@
+{
+	"name": "@types/invariant",
+	"versions": {
+		"2.2.29": {
+			"name": "@types/invariant",
+			"version": "2.2.29",
+			"description": "TypeScript definitions for invariant",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "MichaelBennett",
+					"url": "https://github.com/bennett000"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e50d46481801da247a6086077db25b5dab8870791e10a815884c4d397e0af631",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/invariant@2.2.29",
+			"dist": {
+				"shasum": "aa845204cd0a289f65d47e0de63a6a815e30cc66",
+				"size": 1540,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/invariant-2.2.29.tgz_1503352552066_0.38044943986460567"
+			},
+			"directories": {},
+			"publish_time": 1503352552167,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352552167
+		},
+		"2.2.28": {
+			"name": "@types/invariant",
+			"version": "2.2.28",
+			"description": "TypeScript definitions for invariant 2.2.0",
+			"license": "MIT",
+			"author": "MichaelBennett <https://github.com/bennett000/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "0923f46305a65bce4f6c6f9cf667cfae3661d328de93b6526063f1e4d47b4852",
+			"_id": "@types/invariant@2.2.28",
+			"dist": {
+				"shasum": "ad721b5c0168db3aaffe551d4acfb8a5b4386e30",
+				"size": 1062,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.28.tgz_1474306823935_0.3758580721914768"
+			},
+			"directories": {},
+			"publish_time": 1474306824187,
+			"_cnpm_publish_time": 1474306824187,
+			"_hasShrinkwrap": false
+		},
+		"2.2.27": {
+			"name": "@types/invariant",
+			"version": "2.2.27",
+			"description": "TypeScript definitions for invariant 2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MichaelBennett",
+				"email": "https://github.com/bennett000/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/invariant@2.2.27",
+			"_shasum": "5acad9c1685cac25ff5b31260a6f1596b31328bc",
+			"_from": "output\\invariant",
+			"_resolved": "file:output\\invariant",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5acad9c1685cac25ff5b31260a6f1596b31328bc",
+				"size": 1033,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.27.tgz_1468508156603_0.18084109015762806"
+			},
+			"directories": {},
+			"publish_time": 1468508159258,
+			"_cnpm_publish_time": 1468508159258,
+			"_hasShrinkwrap": false
+		},
+		"2.2.26-alpha": {
+			"name": "@types/invariant",
+			"version": "2.2.26-alpha",
+			"description": "TypeScript definitions for invariant 2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MichaelBennett",
+				"email": "https://github.com/bennett000/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/invariant@2.2.26-alpha",
+			"_shasum": "880208f6fe8218f6a73907dad9b7d9ae4c941835",
+			"_from": "output\\invariant",
+			"_resolved": "file:output\\invariant",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "880208f6fe8218f6a73907dad9b7d9ae4c941835",
+				"size": 1036,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.26-alpha.tgz_1468009980260_0.6585358646698296"
+			},
+			"directories": {},
+			"publish_time": 1468009981665,
+			"_cnpm_publish_time": 1468009981665,
+			"_hasShrinkwrap": false
+		},
+		"2.2.25-alpha": {
+			"name": "@types/invariant",
+			"version": "2.2.25-alpha",
+			"description": "TypeScript definitions for invariant 2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MichaelBennett",
+				"email": "https://github.com/bennett000/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/invariant@2.2.25-alpha",
+			"_shasum": "76795fcc1d1bd172d81863ef5968083a434ca8c5",
+			"_from": "output\\invariant",
+			"_resolved": "file:output\\invariant",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "76795fcc1d1bd172d81863ef5968083a434ca8c5",
+				"size": 1038,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.25-alpha.tgz_1467592338573_0.6960588414222002"
+			},
+			"directories": {},
+			"publish_time": 1467592342011,
+			"_cnpm_publish_time": 1467592342011,
+			"_hasShrinkwrap": false
+		},
+		"2.2.24-alpha": {
+			"name": "@types/invariant",
+			"version": "2.2.24-alpha",
+			"description": "TypeScript definitions for invariant 2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MichaelBennett",
+				"email": "https://github.com/bennett000/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/invariant@2.2.24-alpha",
+			"_shasum": "ecabefea8726c9c93ece3d2fb94c44cabca2b97d",
+			"_from": "output\\invariant",
+			"_resolved": "file:output\\invariant",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ecabefea8726c9c93ece3d2fb94c44cabca2b97d",
+				"size": 1036,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.24-alpha.tgz_1467427116639_0.363314077956602"
+			},
+			"directories": {},
+			"publish_time": 1467427117162,
+			"_cnpm_publish_time": 1467427117162,
+			"_hasShrinkwrap": false
+		},
+		"2.2.23-alpha": {
+			"name": "@types/invariant",
+			"version": "2.2.23-alpha",
+			"description": "TypeScript definitions for invariant 2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MichaelBennett",
+				"email": "https://github.com/bennett000/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/invariant@2.2.23-alpha",
+			"_shasum": "b8ac3ff5956b06254cde8052de3158fe9cd918b1",
+			"_from": "output\\invariant",
+			"_resolved": "file:output\\invariant",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b8ac3ff5956b06254cde8052de3158fe9cd918b1",
+				"size": 1036,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.23-alpha.tgz_1467414113145_0.6634091718588024"
+			},
+			"directories": {},
+			"publish_time": 1467414115559,
+			"_cnpm_publish_time": 1467414115559,
+			"_hasShrinkwrap": false
+		},
+		"2.2.22-alpha": {
+			"name": "@types/invariant",
+			"version": "2.2.22-alpha",
+			"description": "TypeScript definitions for invariant 2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MichaelBennett",
+				"email": "https://github.com/bennett000/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/invariant@2.2.22-alpha",
+			"_shasum": "f451702a97f32eed6d50abded4117665e4e7b7c5",
+			"_from": "output\\invariant",
+			"_resolved": "file:output\\invariant",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f451702a97f32eed6d50abded4117665e4e7b7c5",
+				"size": 1031,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.22-alpha.tgz_1467401935790_0.12260910565964878"
+			},
+			"directories": {},
+			"publish_time": 1467401937905,
+			"_cnpm_publish_time": 1467401937905,
+			"_hasShrinkwrap": false
+		},
+		"2.2.21-alpha": {
+			"name": "@types/invariant",
+			"version": "2.2.21-alpha",
+			"description": "TypeScript definitions for invariant 2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MichaelBennett",
+				"email": "https://github.com/bennett000/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/invariant@2.2.21-alpha",
+			"_shasum": "eb1976e27a3a8f2f71d15a956ec860fd9d84e48d",
+			"_from": "output\\invariant",
+			"_resolved": "file:output\\invariant",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "eb1976e27a3a8f2f71d15a956ec860fd9d84e48d",
+				"size": 1006,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.21-alpha.tgz_1464152887186_0.18175481911748648"
+			},
+			"directories": {},
+			"publish_time": 1464152887667,
+			"_cnpm_publish_time": 1464152887667,
+			"_hasShrinkwrap": false
+		},
+		"2.2.20-alpha": {
+			"name": "@types/invariant",
+			"version": "2.2.20-alpha",
+			"description": "TypeScript definitions for invariant 2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MichaelBennett",
+				"email": "https://github.com/bennett000/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/invariant@2.2.20-alpha",
+			"_shasum": "e2ded4321b90aa72396a4e7ae372083ad1509cc2",
+			"_from": "output\\invariant",
+			"_resolved": "file:output\\invariant",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e2ded4321b90aa72396a4e7ae372083ad1509cc2",
+				"size": 1008,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.20-alpha.tgz_1463773779187_0.5717981921043247"
+			},
+			"directories": {},
+			"publish_time": 1463773779618,
+			"_cnpm_publish_time": 1463773779618,
+			"_hasShrinkwrap": false
+		},
+		"2.2.15-alpha": {
+			"name": "@types/invariant",
+			"version": "2.2.15-alpha",
+			"description": "Type definitions for invariant 2.2.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MichaelBennett",
+				"email": "https://github.com/bennett000/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/invariant@2.2.15-alpha",
+			"_shasum": "1b80ddc40a2ad64dd2a2288a5f4cbf513b259e33",
+			"_from": "output\\invariant",
+			"_resolved": "file:output\\invariant",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1b80ddc40a2ad64dd2a2288a5f4cbf513b259e33",
+				"size": 1016,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.15-alpha.tgz_1463692426577_0.5687834073323756"
+			},
+			"directories": {},
+			"publish_time": 1463692429708,
+			"_cnpm_publish_time": 1463692429708,
+			"_hasShrinkwrap": false
+		},
+		"2.2.14-alpha": {
+			"name": "@types/invariant",
+			"version": "2.2.14-alpha",
+			"description": "Type definitions for invariant 2.2.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MichaelBennett",
+				"email": "https://github.com/bennett000/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/invariant@2.2.14-alpha",
+			"_shasum": "5f42ed239d6f0df9f5ae63853ca32ec91c3dd2e9",
+			"_from": "output\\invariant",
+			"_resolved": "file:output\\invariant",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5f42ed239d6f0df9f5ae63853ca32ec91c3dd2e9",
+				"size": 1007,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/invariant-2.2.14-alpha.tgz_1463462009669_0.13271534419618547"
+			},
+			"directories": {},
+			"publish_time": 1463462010268,
+			"_cnpm_publish_time": 1463462010268,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.2.29",
+		"ts2.0": "2.2.29",
+		"ts2.1": "2.2.29",
+		"ts2.2": "2.2.29",
+		"ts2.3": "2.2.29",
+		"ts2.4": "2.2.29",
+		"ts2.5": "2.2.29",
+		"ts2.6": "2.2.29",
+		"ts2.7": "2.2.29",
+		"ts2.8": "2.2.29",
+		"ts2.9": "2.2.29",
+		"ts3.0": "2.2.29",
+		"ts3.1": "2.2.29",
+		"ts3.2": "2.2.29"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:56.000Z",
+		"created": "2016-05-17T05:13:30.268Z",
+		"2.2.29": "2017-08-21T21:55:52.167Z",
+		"2.2.28": "2016-09-19T17:40:24.187Z",
+		"2.2.27": "2016-07-14T14:55:59.258Z",
+		"2.2.26-alpha": "2016-07-08T20:33:01.665Z",
+		"2.2.25-alpha": "2016-07-04T00:32:22.011Z",
+		"2.2.24-alpha": "2016-07-02T02:38:37.162Z",
+		"2.2.23-alpha": "2016-07-01T23:01:55.559Z",
+		"2.2.22-alpha": "2016-07-01T19:38:57.905Z",
+		"2.2.21-alpha": "2016-05-25T05:08:07.667Z",
+		"2.2.20-alpha": "2016-05-20T19:49:39.618Z",
+		"2.2.15-alpha": "2016-05-19T21:13:49.708Z",
+		"2.2.14-alpha": "2016-05-17T05:13:30.268Z"
+	},
+	"_distfiles": {
+		"invariant-2.2.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.29.tgz",
+			"sha": "aa845204cd0a289f65d47e0de63a6a815e30cc66",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.28.tgz",
+			"sha": "ad721b5c0168db3aaffe551d4acfb8a5b4386e30",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.27.tgz",
+			"sha": "5acad9c1685cac25ff5b31260a6f1596b31328bc",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.26-alpha.tgz",
+			"sha": "880208f6fe8218f6a73907dad9b7d9ae4c941835",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.25-alpha.tgz",
+			"sha": "76795fcc1d1bd172d81863ef5968083a434ca8c5",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.24-alpha.tgz",
+			"sha": "ecabefea8726c9c93ece3d2fb94c44cabca2b97d",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.23-alpha.tgz",
+			"sha": "b8ac3ff5956b06254cde8052de3158fe9cd918b1",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.22-alpha.tgz",
+			"sha": "f451702a97f32eed6d50abded4117665e4e7b7c5",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.21-alpha.tgz",
+			"sha": "eb1976e27a3a8f2f71d15a956ec860fd9d84e48d",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.20-alpha.tgz",
+			"sha": "e2ded4321b90aa72396a4e7ae372083ad1509cc2",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.15-alpha.tgz",
+			"sha": "1b80ddc40a2ad64dd2a2288a5f4cbf513b259e33",
+			"registry": "cnpmjs"
+		},
+		"invariant-2.2.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/invariant/download/@types/invariant-2.2.14-alpha.tgz",
+			"sha": "5f42ed239d6f0df9f5ae63853ca32ec91c3dd2e9",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833275724
+		}
+	},
+	"_rev": "2-d579743e4c1db505",
+	"readme": "# Installation\r\n> `npm install --save @types/invariant`\r\n\r\n# Summary\r\nThis package contains type definitions for invariant (https://github.com/zertosh/invariant).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/invariant\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 21:55:03 GMT\r\n * Dependencies: none\r\n * Global values: invariant\r\n\r\n# Credits\r\nThese definitions were written by MichaelBennett <https://github.com/bennett000>."
+}

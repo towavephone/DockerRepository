@@ -1,0 +1,505 @@
+{
+	"name": "@types/http-proxy",
+	"versions": {
+		"1.16.2": {
+			"name": "@types/http-proxy",
+			"version": "1.16.2",
+			"description": "TypeScript definitions for node-http-proxy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Maxime LUCE",
+					"url": "https://github.com/SomaticIT",
+					"githubUsername": "SomaticIT"
+				},
+				{
+					"name": "Florian Oellerich",
+					"url": "https://github.com/Raigen",
+					"githubUsername": "Raigen"
+				},
+				{
+					"name": "Daniel Schmidt",
+					"url": "https://github.com/DanielMSchmidt",
+					"githubUsername": "DanielMSchmidt"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "3faf75bff73b2aa0d4cb9e44592ed15d3403bda10d797afdec6f0cb86d4285ce",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-proxy@1.16.2",
+			"dist": {
+				"shasum": "16cb373b52fff2aa2f389d23d940ed4a642349e5",
+				"size": 3290,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.16.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/http-proxy_1.16.2_1527870572372_0.9249066044898897"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527870573700,
+			"_cnpm_publish_time": 1527870573700
+		},
+		"1.16.1": {
+			"name": "@types/http-proxy",
+			"version": "1.16.1",
+			"description": "TypeScript definitions for node-http-proxy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Maxime LUCE",
+					"url": "https://github.com/SomaticIT",
+					"githubUsername": "SomaticIT"
+				},
+				{
+					"name": "Florian Oellerich",
+					"url": "https://github.com/Raigen",
+					"githubUsername": "Raigen"
+				},
+				{
+					"name": "Daniel Schmidt",
+					"url": "https://github.com/DanielMSchmidt",
+					"githubUsername": "DanielMSchmidt"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "e3845113259167ebad64f437003bf398adb4f1ef960c5c54ca79d34d18d7b640",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-proxy@1.16.1",
+			"dist": {
+				"shasum": "158022756547605d644e202cd56b99691279b101",
+				"size": 3196,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.16.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/http-proxy_1.16.1_1525478284930_0.3317661460580803"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525478285024,
+			"_cnpm_publish_time": 1525478285024
+		},
+		"1.16.0": {
+			"name": "@types/http-proxy",
+			"version": "1.16.0",
+			"description": "TypeScript definitions for node-http-proxy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Maxime LUCE",
+					"url": "https://github.com/SomaticIT",
+					"githubUsername": "SomaticIT"
+				},
+				{
+					"name": "Florian Oellerich",
+					"url": "https://github.com/Raigen",
+					"githubUsername": "Raigen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "56a8c397f590a44dbd745999577d2478978459fd17da94bf913ba6b50dfc7b0c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-proxy@1.16.0",
+			"dist": {
+				"shasum": "83819d7c6345ccc5957aa5815daece38afbe7df0",
+				"size": 3145,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.16.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/http-proxy_1.16.0_1518729972761_0.9883348846952076"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518729972810,
+			"_cnpm_publish_time": 1518729972810
+		},
+		"1.12.4": {
+			"name": "@types/http-proxy",
+			"version": "1.12.4",
+			"description": "TypeScript definitions for node-http-proxy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Maxime LUCE",
+					"url": "https://github.com/SomaticIT",
+					"githubUsername": "SomaticIT"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "ffe6908eac1eaa7045d4a22c77288cc796d9bdf3e97fa9e812e8528939d6b6c0",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-proxy@1.12.4",
+			"dist": {
+				"shasum": "b13d8c1f6829e307de09286da0618d1141547d52",
+				"size": 2987,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.12.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/http-proxy-1.12.4.tgz_1517260811730_0.6248060553334653"
+			},
+			"directories": {},
+			"publish_time": 1517260811815,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1517260811815
+		},
+		"1.12.3": {
+			"name": "@types/http-proxy",
+			"version": "1.12.3",
+			"description": "TypeScript definitions for node-http-proxy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Maxime LUCE",
+					"url": "https://github.com/SomaticIT",
+					"githubUsername": "SomaticIT"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "b1a79a08ef3d9b289726e96c7217c08d191e04cbde706b59be32fdaac846c0bf",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-proxy@1.12.3",
+			"dist": {
+				"shasum": "5898d99d68572cf06552ce47ae8d423fdf6f1c2b",
+				"size": 2925,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.12.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/http-proxy-1.12.3.tgz_1515003997668_0.53169787931256"
+			},
+			"directories": {},
+			"publish_time": 1515003997760,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515003997760
+		},
+		"1.12.2": {
+			"name": "@types/http-proxy",
+			"version": "1.12.2",
+			"description": "TypeScript definitions for node-http-proxy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Maxime LUCE",
+					"url": "https://github.com/SomaticIT",
+					"githubUsername": "SomaticIT"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "af83f7ea67400cf40aabc926c2134160326dec64a429317786ed79f7f37ca976",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-proxy@1.12.2",
+			"dist": {
+				"shasum": "aef03f2f5bd1230fa1298224f0bc48f239320b09",
+				"size": 2888,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.12.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/http-proxy-1.12.2.tgz_1508893517032_0.37216178397648036"
+			},
+			"directories": {},
+			"publish_time": 1508893517683,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508893517683
+		},
+		"1.12.1": {
+			"name": "@types/http-proxy",
+			"version": "1.12.1",
+			"description": "TypeScript definitions for node-http-proxy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Maxime LUCE",
+					"url": "https://github.com/SomaticIT"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "38c4288ab11c0a8bc3281074e365cbe724220eacc08ed1f1a399a868219d71f7",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-proxy@1.12.1",
+			"dist": {
+				"shasum": "51f4d2145d2aef862d26ec16fbf006d8aacda04e",
+				"size": 2878,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.12.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/http-proxy-1.12.1.tgz_1503352531139_0.896242979215458"
+			},
+			"directories": {},
+			"publish_time": 1503352531724,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352531724
+		},
+		"1.12.0": {
+			"name": "@types/http-proxy",
+			"version": "1.12.0",
+			"description": "TypeScript definitions for node-http-proxy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Maxime LUCE",
+					"url": "https://github.com/SomaticIT/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "960561a50304c6aeaa9c10b8d9e790fbedebd31424fb71f69bceb7258dcc0417",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-proxy@1.12.0",
+			"dist": {
+				"shasum": "4c635e37f2ccaa508e8e15b09e044a51bef3ee75",
+				"size": 2889,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.12.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/http-proxy-1.12.0.tgz_1500041679486_0.4455776931717992"
+			},
+			"directories": {},
+			"publish_time": 1500041679582,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500041679582
+		}
+	},
+	"dist-tags": {
+		"latest": "1.16.2",
+		"ts2.0": "1.16.2",
+		"ts2.1": "1.16.2",
+		"ts2.2": "1.16.2",
+		"ts2.3": "1.16.2",
+		"ts2.4": "1.16.2",
+		"ts2.5": "1.16.2",
+		"ts2.6": "1.16.2",
+		"ts2.7": "1.16.2",
+		"ts2.8": "1.16.2",
+		"ts2.9": "1.16.2",
+		"ts3.0": "1.16.2",
+		"ts3.1": "1.16.2",
+		"ts3.2": "1.16.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:41.000Z",
+		"created": "2017-07-14T14:14:39.582Z",
+		"1.16.2": "2018-06-01T16:29:33.700Z",
+		"1.16.1": "2018-05-04T23:58:05.024Z",
+		"1.16.0": "2018-02-15T21:26:12.810Z",
+		"1.12.4": "2018-01-29T21:20:11.815Z",
+		"1.12.3": "2018-01-03T18:26:37.760Z",
+		"1.12.2": "2017-10-25T01:05:17.683Z",
+		"1.12.1": "2017-08-21T21:55:31.724Z",
+		"1.12.0": "2017-07-14T14:14:39.582Z"
+	},
+	"_distfiles": {
+		"http-proxy-1.16.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.16.2.tgz",
+			"sha": "16cb373b52fff2aa2f389d23d940ed4a642349e5",
+			"registry": "cnpmjs"
+		},
+		"http-proxy-1.16.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.16.1.tgz",
+			"sha": "158022756547605d644e202cd56b99691279b101",
+			"registry": "cnpmjs"
+		},
+		"http-proxy-1.16.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.16.0.tgz",
+			"sha": "83819d7c6345ccc5957aa5815daece38afbe7df0",
+			"registry": "cnpmjs"
+		},
+		"http-proxy-1.12.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.12.4.tgz",
+			"sha": "b13d8c1f6829e307de09286da0618d1141547d52",
+			"registry": "cnpmjs"
+		},
+		"http-proxy-1.12.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.12.3.tgz",
+			"sha": "5898d99d68572cf06552ce47ae8d423fdf6f1c2b",
+			"registry": "cnpmjs"
+		},
+		"http-proxy-1.12.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.12.2.tgz",
+			"sha": "aef03f2f5bd1230fa1298224f0bc48f239320b09",
+			"registry": "cnpmjs"
+		},
+		"http-proxy-1.12.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.12.1.tgz",
+			"sha": "51f4d2145d2aef862d26ec16fbf006d8aacda04e",
+			"registry": "cnpmjs"
+		},
+		"http-proxy-1.12.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-proxy/download/@types/http-proxy-1.12.0.tgz",
+			"sha": "4c635e37f2ccaa508e8e15b09e044a51bef3ee75",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"2b26-n7mQ+tpuQcfrJKp2XAIOUqbaj4w\"",
+			"fetched": 1541833456572
+		}
+	},
+	"_rev": "3-0d869589abb23ef6",
+	"readme": "# Installation\r\n> `npm install --save @types/http-proxy`\r\n\r\n# Summary\r\nThis package contains type definitions for node-http-proxy (https://github.com/nodejitsu/node-http-proxy).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/http-proxy\r\n\r\nAdditional Details\r\n * Last updated: Fri, 01 Jun 2018 16:26:34 GMT\r\n * Dependencies: net, http, https, events, url, stream, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Maxime LUCE <https://github.com/SomaticIT>, Florian Oellerich <https://github.com/Raigen>, Daniel Schmidt <https://github.com/DanielMSchmidt>."
+}

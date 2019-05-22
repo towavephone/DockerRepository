@@ -1,0 +1,663 @@
+{
+	"name": "@types/once",
+	"versions": {
+		"1.4.0": {
+			"name": "@types/once",
+			"version": "1.4.0",
+			"description": "TypeScript definitions for once",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Denis Sokolov",
+					"url": "https://github.com/denis-sokolov"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d625df2647a0579b72beef3f72a60e5bd0c5ac1533f6d7d415883a0f8ad3280c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/once@1.4.0",
+			"dist": {
+				"shasum": "7bfe3d99a0951f3141bac2617c9827525788b8f5",
+				"size": 1876,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/once-1.4.0.tgz_1503510881117_0.08207744732499123"
+			},
+			"directories": {},
+			"publish_time": 1503510881197,
+			"_cnpm_publish_time": 1503510881197,
+			"_hasShrinkwrap": false
+		},
+		"1.3.28": {
+			"name": "@types/once",
+			"version": "1.3.28",
+			"description": "TypeScript definitions for once v1.3.3",
+			"license": "MIT",
+			"author": "Denis Sokolov <https://github.com/denis-sokolov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b6d029e74ea33fad3a2139a521647e110c5200b185011e94c7c21b8e57a877cb",
+			"_id": "@types/once@1.3.28",
+			"dist": {
+				"shasum": "2e2a70e8473ce1576161b1d0cf6f2dae6972cc40",
+				"size": 1076,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.28.tgz_1474307870364_0.7246629777364433"
+			},
+			"directories": {},
+			"publish_time": 1474307870592,
+			"_cnpm_publish_time": 1474307870592,
+			"_hasShrinkwrap": false
+		},
+		"1.3.27": {
+			"name": "@types/once",
+			"version": "1.3.27",
+			"description": "TypeScript definitions for once v1.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Sokolov",
+				"email": "https://github.com/denis-sokolov"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/once@1.3.27",
+			"_shasum": "d31df324cb5e220f9b27c56172a49772a0925915",
+			"_from": "output\\once",
+			"_resolved": "file:output\\once",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d31df324cb5e220f9b27c56172a49772a0925915",
+				"size": 1054,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.27.tgz_1468510630671_0.3579498443286866"
+			},
+			"directories": {},
+			"publish_time": 1468510632889,
+			"_cnpm_publish_time": 1468510632889,
+			"_hasShrinkwrap": false
+		},
+		"1.3.26-alpha": {
+			"name": "@types/once",
+			"version": "1.3.26-alpha",
+			"description": "TypeScript definitions for once v1.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Sokolov",
+				"email": "https://github.com/denis-sokolov"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/once@1.3.26-alpha",
+			"_shasum": "c4dda9167246613151e72ea4799fe8c7e9c4a6c0",
+			"_from": "output\\once",
+			"_resolved": "file:output\\once",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c4dda9167246613151e72ea4799fe8c7e9c4a6c0",
+				"size": 1064,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.26-alpha.tgz_1468011583829_0.046211588429287076"
+			},
+			"directories": {},
+			"publish_time": 1468011585233,
+			"_cnpm_publish_time": 1468011585233,
+			"_hasShrinkwrap": false
+		},
+		"1.3.25-alpha": {
+			"name": "@types/once",
+			"version": "1.3.25-alpha",
+			"description": "TypeScript definitions for once v1.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Sokolov",
+				"email": "https://github.com/denis-sokolov"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/once@1.3.25-alpha",
+			"_shasum": "6a9e126561ee6fbf4ae304b457f6b5a7c62a5ab1",
+			"_from": "output\\once",
+			"_resolved": "file:output\\once",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6a9e126561ee6fbf4ae304b457f6b5a7c62a5ab1",
+				"size": 1065,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.25-alpha.tgz_1467593999181_0.7260776271577924"
+			},
+			"directories": {},
+			"publish_time": 1467594002934,
+			"_cnpm_publish_time": 1467594002934,
+			"_hasShrinkwrap": false
+		},
+		"1.3.24-alpha": {
+			"name": "@types/once",
+			"version": "1.3.24-alpha",
+			"description": "TypeScript definitions for once v1.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Sokolov",
+				"email": "https://github.com/denis-sokolov"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/once@1.3.24-alpha",
+			"_shasum": "d0a0f1792305f5c958718e54615d25936fc08a48",
+			"_from": "output\\once",
+			"_resolved": "file:output\\once",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d0a0f1792305f5c958718e54615d25936fc08a48",
+				"size": 1062,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.24-alpha.tgz_1467428923237_0.642504857853055"
+			},
+			"directories": {},
+			"publish_time": 1467428926731,
+			"_cnpm_publish_time": 1467428926731,
+			"_hasShrinkwrap": false
+		},
+		"1.3.23-alpha": {
+			"name": "@types/once",
+			"version": "1.3.23-alpha",
+			"description": "TypeScript definitions for once v1.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Sokolov",
+				"email": "https://github.com/denis-sokolov"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/once@1.3.23-alpha",
+			"_shasum": "3ef7c4da3c7d4d4d523b7758d56ce05c2d26b1f8",
+			"_from": "output\\once",
+			"_resolved": "file:output\\once",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3ef7c4da3c7d4d4d523b7758d56ce05c2d26b1f8",
+				"size": 1063,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.23-alpha.tgz_1467415991212_0.4453865948598832"
+			},
+			"directories": {},
+			"publish_time": 1467415994726,
+			"_cnpm_publish_time": 1467415994726,
+			"_hasShrinkwrap": false
+		},
+		"1.3.22-alpha": {
+			"name": "@types/once",
+			"version": "1.3.22-alpha",
+			"description": "TypeScript definitions for once v1.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Sokolov",
+				"email": "https://github.com/denis-sokolov"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/once@1.3.22-alpha",
+			"_shasum": "4a447ba948d885f8644df86d1df3a68c024db78a",
+			"_from": "output\\once",
+			"_resolved": "file:output\\once",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4a447ba948d885f8644df86d1df3a68c024db78a",
+				"size": 1058,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.22-alpha.tgz_1467404173669_0.4753382282797247"
+			},
+			"directories": {},
+			"publish_time": 1467404177655,
+			"_cnpm_publish_time": 1467404177655,
+			"_hasShrinkwrap": false
+		},
+		"1.3.21-alpha": {
+			"name": "@types/once",
+			"version": "1.3.21-alpha",
+			"description": "TypeScript definitions for once v1.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Sokolov",
+				"email": "https://github.com/denis-sokolov"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/once@1.3.21-alpha",
+			"_shasum": "62cad43e1c439402220dd3b5b54fe9a91ef95972",
+			"_from": "output\\once",
+			"_resolved": "file:output\\once",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "62cad43e1c439402220dd3b5b54fe9a91ef95972",
+				"size": 1029,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.21-alpha.tgz_1464154631261_0.3149498822167516"
+			},
+			"directories": {},
+			"publish_time": 1464154631711,
+			"_cnpm_publish_time": 1464154631711,
+			"_hasShrinkwrap": false
+		},
+		"1.3.20-alpha": {
+			"name": "@types/once",
+			"version": "1.3.20-alpha",
+			"description": "TypeScript definitions for once v1.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Sokolov",
+				"email": "https://github.com/denis-sokolov"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/once@1.3.20-alpha",
+			"_shasum": "edbde93e78c8dedbce40bf51d2e55af032ab8349",
+			"_from": "output\\once",
+			"_resolved": "file:output\\once",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "edbde93e78c8dedbce40bf51d2e55af032ab8349",
+				"size": 1030,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.20-alpha.tgz_1463775657656_0.4989157256204635"
+			},
+			"directories": {},
+			"publish_time": 1463775660006,
+			"_cnpm_publish_time": 1463775660006,
+			"_hasShrinkwrap": false
+		},
+		"1.3.15-alpha": {
+			"name": "@types/once",
+			"version": "1.3.15-alpha",
+			"description": "Type definitions for once v1.3.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Sokolov",
+				"email": "https://github.com/denis-sokolov"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/once@1.3.15-alpha",
+			"_shasum": "1c42d9bde866b0d28cbb1bafe79e96c366e876b9",
+			"_from": "output\\once",
+			"_resolved": "file:output\\once",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1c42d9bde866b0d28cbb1bafe79e96c366e876b9",
+				"size": 1038,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.15-alpha.tgz_1463694911327_0.017369455192238092"
+			},
+			"directories": {},
+			"publish_time": 1463694912010,
+			"_cnpm_publish_time": 1463694912010,
+			"_hasShrinkwrap": false
+		},
+		"1.3.14-alpha": {
+			"name": "@types/once",
+			"version": "1.3.14-alpha",
+			"description": "Type definitions for once v1.3.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Sokolov",
+				"email": "https://github.com/denis-sokolov"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/once@1.3.14-alpha",
+			"_shasum": "76f4cbfe257ca58e6d4565b27645a22c078461a0",
+			"_from": "output\\once",
+			"_resolved": "file:output\\once",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "76f4cbfe257ca58e6d4565b27645a22c078461a0",
+				"size": 1028,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/once/download/@types/once-1.3.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/once-1.3.14-alpha.tgz_1463509890809_0.5940070715732872"
+			},
+			"directories": {},
+			"publish_time": 1463509894494,
+			"_cnpm_publish_time": 1463509894494,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.4.0",
+		"ts2.0": "1.4.0",
+		"ts2.1": "1.4.0",
+		"ts2.2": "1.4.0",
+		"ts2.3": "1.4.0",
+		"ts2.4": "1.4.0",
+		"ts2.5": "1.4.0",
+		"ts2.6": "1.4.0",
+		"ts2.7": "1.4.0",
+		"ts2.8": "1.4.0",
+		"ts2.9": "1.4.0",
+		"ts3.0": "1.4.0",
+		"ts3.1": "1.4.0",
+		"ts3.2": "1.4.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:23:11.000Z",
+		"created": "2016-05-17T18:31:34.494Z",
+		"1.4.0": "2017-08-23T17:54:41.197Z",
+		"1.3.28": "2016-09-19T17:57:50.592Z",
+		"1.3.27": "2016-07-14T15:37:12.889Z",
+		"1.3.26-alpha": "2016-07-08T20:59:45.233Z",
+		"1.3.25-alpha": "2016-07-04T01:00:02.934Z",
+		"1.3.24-alpha": "2016-07-02T03:08:46.731Z",
+		"1.3.23-alpha": "2016-07-01T23:33:14.726Z",
+		"1.3.22-alpha": "2016-07-01T20:16:17.655Z",
+		"1.3.21-alpha": "2016-05-25T05:37:11.711Z",
+		"1.3.20-alpha": "2016-05-20T20:21:00.006Z",
+		"1.3.15-alpha": "2016-05-19T21:55:12.010Z",
+		"1.3.14-alpha": "2016-05-17T18:31:34.494Z"
+	},
+	"_distfiles": {
+		"once-1.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.4.0.tgz",
+			"sha": "7bfe3d99a0951f3141bac2617c9827525788b8f5",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.28.tgz",
+			"sha": "2e2a70e8473ce1576161b1d0cf6f2dae6972cc40",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.27.tgz",
+			"sha": "d31df324cb5e220f9b27c56172a49772a0925915",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.26-alpha.tgz",
+			"sha": "c4dda9167246613151e72ea4799fe8c7e9c4a6c0",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.25-alpha.tgz",
+			"sha": "6a9e126561ee6fbf4ae304b457f6b5a7c62a5ab1",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.24-alpha.tgz",
+			"sha": "d0a0f1792305f5c958718e54615d25936fc08a48",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.23-alpha.tgz",
+			"sha": "3ef7c4da3c7d4d4d523b7758d56ce05c2d26b1f8",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.22-alpha.tgz",
+			"sha": "4a447ba948d885f8644df86d1df3a68c024db78a",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.21-alpha.tgz",
+			"sha": "62cad43e1c439402220dd3b5b54fe9a91ef95972",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.20-alpha.tgz",
+			"sha": "edbde93e78c8dedbce40bf51d2e55af032ab8349",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.15-alpha.tgz",
+			"sha": "1c42d9bde866b0d28cbb1bafe79e96c366e876b9",
+			"registry": "cnpmjs"
+		},
+		"once-1.3.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/once/download/@types/once-1.3.14-alpha.tgz",
+			"sha": "76f4cbfe257ca58e6d4565b27645a22c078461a0",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"39a7-1ahwa4RDnNarK4r1X4kV33HBEQw\"",
+			"fetched": 1541833486133
+		}
+	},
+	"_rev": "2-a54292d9cf50561e",
+	"readme": "# Installation\r\n> `npm install --save @types/once`\r\n\r\n# Summary\r\nThis package contains type definitions for once (https://github.com/isaacs/once).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/once\r\n\r\nAdditional Details\r\n * Last updated: Wed, 23 Aug 2017 17:50:59 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Denis Sokolov <https://github.com/denis-sokolov>, BendingBender <https://github.com/BendingBender>."
+}

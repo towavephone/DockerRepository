@@ -1,0 +1,907 @@
+{
+	"name": "@types/ejs",
+	"versions": {
+		"2.6.0": {
+			"name": "@types/ejs",
+			"version": "2.6.0",
+			"description": "TypeScript definitions for ejs.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ben Liddicott",
+					"url": "https://github.com/benliddicott",
+					"githubUsername": "benliddicott"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "04b2aaf30b5ebfb0a35b41c051086f6fae29c7b60a9550f7b6edbdf71d2ca52b",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/ejs@2.6.0",
+			"dist": {
+				"shasum": "56502bca6e2e1b4cf9351918ca76cdaa93fe3b6c",
+				"size": 3109,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ejs_2.6.0_1528133846810_0.6501799950447542"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1528133846860,
+			"_cnpm_publish_time": 1528133846860
+		},
+		"2.5.1": {
+			"name": "@types/ejs",
+			"version": "2.5.1",
+			"description": "TypeScript definitions for ejs.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ben Liddicott",
+					"url": "https://github.com/benliddicott",
+					"githubUsername": "benliddicott"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "aebb7c434599b23f4ec49d00209c4fb89c2ee7df448c818aac0e8b8d5bcf898b",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/ejs@2.5.1",
+			"dist": {
+				"shasum": "cd9a5392c00ebba94cb6fe85022c5621e50b4dec",
+				"size": 3020,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ejs_2.5.1_1523295333994_0.35624756572602667"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523295334103,
+			"_cnpm_publish_time": 1523295334103
+		},
+		"2.5.0": {
+			"name": "@types/ejs",
+			"version": "2.5.0",
+			"description": "TypeScript definitions for ejs.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ben Liddicott",
+					"url": "https://github.com/benliddicott",
+					"githubUsername": "benliddicott"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "84a0e65e6b8c5a66eea99bffd905ced0b922bf84b634e1b8d5186eb3f3263eeb",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/ejs@2.5.0",
+			"dist": {
+				"shasum": "e8f76bef977666f3d71730208bcb6bbcc172a080",
+				"size": 3004,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ejs-2.5.0.tgz_1513035258158_0.42262276029214263"
+			},
+			"directories": {},
+			"publish_time": 1513035258227,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513035258227
+		},
+		"2.3.33": {
+			"name": "@types/ejs",
+			"version": "2.3.33",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"license": "MIT",
+			"author": "Ben Liddicott <https://github.com/benliddicott/DefinitelyTyped>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "5ad978b70168ff92c65ec82eec0fc695aea5f6e2acb587bb5d23338ae78a96d6",
+			"_id": "@types/ejs@2.3.33",
+			"dist": {
+				"shasum": "0a4e0a7aeee09944154b06ce5a2ac6a118f92b00",
+				"size": 1757,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.33.tgz_1478004462288_0.8509146112482995"
+			},
+			"directories": {},
+			"publish_time": 1478004463863,
+			"_cnpm_publish_time": 1478004463863,
+			"_hasShrinkwrap": false
+		},
+		"2.3.32": {
+			"name": "@types/ejs",
+			"version": "2.3.32",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"license": "MIT",
+			"author": "Ben Liddicott <https://github.com/benliddicott/DefinitelyTyped>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b3e1acbb48153f311a860152c169c8a2d177a6e1927969c054a756546d747178",
+			"_id": "@types/ejs@2.3.32",
+			"dist": {
+				"shasum": "9ceaa5b10bcb06e05e978f52c4e6afa2652a063d",
+				"size": 1725,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.32.tgz_1476465916673_0.2760645367670804"
+			},
+			"directories": {},
+			"publish_time": 1476465916893,
+			"_cnpm_publish_time": 1476465916893,
+			"_hasShrinkwrap": false
+		},
+		"2.3.31": {
+			"name": "@types/ejs",
+			"version": "2.3.31",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"license": "MIT",
+			"author": "Ben Liddicott <https://github.com/benliddicott/DefinitelyTyped>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "6372faaeb91df50e9a41e7f2896441429e774263f806cd2d6ac587760252071c",
+			"_id": "@types/ejs@2.3.31",
+			"dist": {
+				"shasum": "8dbeef2787f2a95d789638c9c48eb17b7d7fa934",
+				"size": 1733,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.31.tgz_1475700994636_0.48418281273916364"
+			},
+			"directories": {},
+			"publish_time": 1475700994890,
+			"_cnpm_publish_time": 1475700994890,
+			"_hasShrinkwrap": false
+		},
+		"2.3.30": {
+			"name": "@types/ejs",
+			"version": "2.3.30",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"license": "MIT",
+			"author": "Ben Liddicott <https://github.com/benliddicott/DefinitelyTyped>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "9ced06fa1ca052ffd81089e4b976d482b6628431c639058a1afbc30356b6b36e",
+			"_id": "@types/ejs@2.3.30",
+			"dist": {
+				"shasum": "e77d717d62fb876291cb82c20c853d0b43d10d81",
+				"size": 1728,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.30.tgz_1474306024463_0.5294194873422384"
+			},
+			"directories": {},
+			"publish_time": 1474306027503,
+			"_cnpm_publish_time": 1474306027503,
+			"_hasShrinkwrap": false
+		},
+		"2.3.29": {
+			"name": "@types/ejs",
+			"version": "2.3.29",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ben Liddicott",
+				"email": "https://github.com/benliddicott/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ejs@2.3.29",
+			"_shasum": "b0410e724caf9d7cd5dc307c51ea5cb6bde31f47",
+			"_from": "output\\ejs",
+			"_resolved": "file:output\\ejs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b0410e724caf9d7cd5dc307c51ea5cb6bde31f47",
+				"size": 1718,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.29.tgz_1468506547835_0.5495613608509302"
+			},
+			"directories": {},
+			"publish_time": 1468506548315,
+			"_cnpm_publish_time": 1468506548315,
+			"_hasShrinkwrap": false
+		},
+		"2.3.28-alpha": {
+			"name": "@types/ejs",
+			"version": "2.3.28-alpha",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ben Liddicott",
+				"email": "https://github.com/benliddicott/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ejs@2.3.28-alpha",
+			"_shasum": "0da3ef6828018852d41c33e38aacffe0baf46fa1",
+			"_from": "output\\ejs",
+			"_resolved": "file:output\\ejs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0da3ef6828018852d41c33e38aacffe0baf46fa1",
+				"size": 1718,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.28-alpha.tgz_1468008200167_0.20031948876567185"
+			},
+			"directories": {},
+			"publish_time": 1468008201577,
+			"_cnpm_publish_time": 1468008201577,
+			"_hasShrinkwrap": false
+		},
+		"2.3.27-alpha": {
+			"name": "@types/ejs",
+			"version": "2.3.27-alpha",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ben Liddicott",
+				"email": "https://github.com/benliddicott/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ejs@2.3.27-alpha",
+			"_shasum": "2f28aa91ff6ec9eac2b00e58647e838e2ee8d6eb",
+			"_from": "output\\ejs",
+			"_resolved": "file:output\\ejs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2f28aa91ff6ec9eac2b00e58647e838e2ee8d6eb",
+				"size": 1720,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.27-alpha.tgz_1467590888972_0.6401386361103505"
+			},
+			"directories": {},
+			"publish_time": 1467590892495,
+			"_cnpm_publish_time": 1467590892495,
+			"_hasShrinkwrap": false
+		},
+		"2.3.26-alpha": {
+			"name": "@types/ejs",
+			"version": "2.3.26-alpha",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ben Liddicott",
+				"email": "https://github.com/benliddicott/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ejs@2.3.26-alpha",
+			"_shasum": "7cadee859ed85e10f21c744f8a5a7f051dcbd22e",
+			"_from": "output\\ejs",
+			"_resolved": "file:output\\ejs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7cadee859ed85e10f21c744f8a5a7f051dcbd22e",
+				"size": 1723,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.26-alpha.tgz_1467426079088_0.6034056229982525"
+			},
+			"directories": {},
+			"publish_time": 1467426079747,
+			"_cnpm_publish_time": 1467426079747,
+			"_hasShrinkwrap": false
+		},
+		"2.3.25-alpha": {
+			"name": "@types/ejs",
+			"version": "2.3.25-alpha",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ben Liddicott",
+				"email": "https://github.com/benliddicott/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ejs@2.3.25-alpha",
+			"_shasum": "0af33bcd8f64d235524e6fe175f53fd86c7d99ac",
+			"_from": "output\\ejs",
+			"_resolved": "file:output\\ejs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0af33bcd8f64d235524e6fe175f53fd86c7d99ac",
+				"size": 1719,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.25-alpha.tgz_1467412694977_0.14590502995997667"
+			},
+			"directories": {},
+			"publish_time": 1467412697591,
+			"_cnpm_publish_time": 1467412697591,
+			"_hasShrinkwrap": false
+		},
+		"2.3.24-alpha": {
+			"name": "@types/ejs",
+			"version": "2.3.24-alpha",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ben Liddicott",
+				"email": "https://github.com/benliddicott/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ejs@2.3.24-alpha",
+			"_shasum": "bcf166e3b27b50b26ba59ce11164a2c77e5e5faa",
+			"_from": "output\\ejs",
+			"_resolved": "file:output\\ejs",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bcf166e3b27b50b26ba59ce11164a2c77e5e5faa",
+				"size": 1710,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.24-alpha.tgz_1467400759617_0.3234575323294848"
+			},
+			"directories": {},
+			"publish_time": 1467400760234,
+			"_cnpm_publish_time": 1467400760234,
+			"_hasShrinkwrap": false
+		},
+		"2.3.23-alpha": {
+			"name": "@types/ejs",
+			"version": "2.3.23-alpha",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ben Liddicott",
+				"email": "https://github.com/benliddicott/DefinitelyTyped"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ejs@2.3.23-alpha",
+			"_shasum": "6a4be13368c314f2a25844b047bc5df7a1264b83",
+			"_from": "output\\ejs",
+			"_resolved": "file:output\\ejs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6a4be13368c314f2a25844b047bc5df7a1264b83",
+				"size": 1688,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.23-alpha.tgz_1464151714112_0.9997779685072601"
+			},
+			"directories": {},
+			"publish_time": 1464151716599,
+			"_cnpm_publish_time": 1464151716599,
+			"_hasShrinkwrap": false
+		},
+		"2.3.22-alpha": {
+			"name": "@types/ejs",
+			"version": "2.3.22-alpha",
+			"description": "TypeScript definitions for ejs.js v2.3.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ben Liddicott",
+				"email": "https://github.com/benliddicott/DefinitelyTyped"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ejs@2.3.22-alpha",
+			"_shasum": "0bb35c130bd1dc43c804832d58860e806e8e142c",
+			"_from": "output\\ejs",
+			"_resolved": "file:output\\ejs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0bb35c130bd1dc43c804832d58860e806e8e142c",
+				"size": 1691,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.22-alpha.tgz_1463772611764_0.2619198008906096"
+			},
+			"directories": {},
+			"publish_time": 1463772613928,
+			"_cnpm_publish_time": 1463772613928,
+			"_hasShrinkwrap": false
+		},
+		"2.3.17-alpha": {
+			"name": "@types/ejs",
+			"version": "2.3.17-alpha",
+			"description": "Type definitions for ejs.js v2.3.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ben Liddicott",
+				"email": "https://github.com/benliddicott/DefinitelyTyped"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ejs@2.3.17-alpha",
+			"_shasum": "59234351e2e8edaa137823f20bc88f85a7240a0c",
+			"_from": "output\\ejs",
+			"_resolved": "file:output\\ejs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "59234351e2e8edaa137823f20bc88f85a7240a0c",
+				"size": 1700,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.17-alpha.tgz_1463690676642_0.6265250705182552"
+			},
+			"directories": {},
+			"publish_time": 1463690677394,
+			"_cnpm_publish_time": 1463690677394,
+			"_hasShrinkwrap": false
+		},
+		"2.3.16-alpha": {
+			"name": "@types/ejs",
+			"version": "2.3.16-alpha",
+			"description": "Type definitions for ejs.js v2.3.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ben Liddicott",
+				"email": "https://github.com/benliddicott/DefinitelyTyped"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ejs@2.3.16-alpha",
+			"_shasum": "d053f074422eed3e7a40a7e279a4111a6d01beb2",
+			"_from": "output\\ejs",
+			"_resolved": "file:output\\ejs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d053f074422eed3e7a40a7e279a4111a6d01beb2",
+				"size": 1691,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ejs-2.3.16-alpha.tgz_1463460582441_0.21675343229435384"
+			},
+			"directories": {},
+			"publish_time": 1463460582954,
+			"_cnpm_publish_time": 1463460582954,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.6.0",
+		"ts2.0": "2.3.33",
+		"ts2.1": "2.3.33",
+		"ts2.2": "2.3.33",
+		"ts2.3": "2.3.33",
+		"ts2.4": "2.6.0",
+		"ts2.5": "2.6.0",
+		"ts2.6": "2.6.0",
+		"ts2.7": "2.6.0",
+		"ts2.8": "2.6.0",
+		"ts2.9": "2.6.0",
+		"ts3.0": "2.6.0"
+	},
+	"time": {
+		"modified": "2018-06-04T17:37:34.000Z",
+		"created": "2016-05-17T04:49:42.954Z",
+		"2.6.0": "2018-06-04T17:37:26.860Z",
+		"2.5.1": "2018-04-09T17:35:34.103Z",
+		"2.5.0": "2017-12-11T23:34:18.227Z",
+		"2.3.33": "2016-11-01T12:47:43.863Z",
+		"2.3.32": "2016-10-14T17:25:16.893Z",
+		"2.3.31": "2016-10-05T20:56:34.890Z",
+		"2.3.30": "2016-09-19T17:27:07.503Z",
+		"2.3.29": "2016-07-14T14:29:08.315Z",
+		"2.3.28-alpha": "2016-07-08T20:03:21.577Z",
+		"2.3.27-alpha": "2016-07-04T00:08:12.495Z",
+		"2.3.26-alpha": "2016-07-02T02:21:19.747Z",
+		"2.3.25-alpha": "2016-07-01T22:38:17.591Z",
+		"2.3.24-alpha": "2016-07-01T19:19:20.234Z",
+		"2.3.23-alpha": "2016-05-25T04:48:36.599Z",
+		"2.3.22-alpha": "2016-05-20T19:30:13.928Z",
+		"2.3.17-alpha": "2016-05-19T20:44:37.394Z",
+		"2.3.16-alpha": "2016-05-17T04:49:42.954Z"
+	},
+	"_distfiles": {
+		"ejs-2.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.6.0.tgz",
+			"sha": "56502bca6e2e1b4cf9351918ca76cdaa93fe3b6c",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.5.1.tgz",
+			"sha": "cd9a5392c00ebba94cb6fe85022c5621e50b4dec",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.5.0.tgz",
+			"sha": "e8f76bef977666f3d71730208bcb6bbcc172a080",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.33.tgz",
+			"sha": "0a4e0a7aeee09944154b06ce5a2ac6a118f92b00",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.32.tgz",
+			"sha": "9ceaa5b10bcb06e05e978f52c4e6afa2652a063d",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.31.tgz",
+			"sha": "8dbeef2787f2a95d789638c9c48eb17b7d7fa934",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.30.tgz",
+			"sha": "e77d717d62fb876291cb82c20c853d0b43d10d81",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.29.tgz",
+			"sha": "b0410e724caf9d7cd5dc307c51ea5cb6bde31f47",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.28-alpha.tgz",
+			"sha": "0da3ef6828018852d41c33e38aacffe0baf46fa1",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.27-alpha.tgz",
+			"sha": "2f28aa91ff6ec9eac2b00e58647e838e2ee8d6eb",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.26-alpha.tgz",
+			"sha": "7cadee859ed85e10f21c744f8a5a7f051dcbd22e",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.25-alpha.tgz",
+			"sha": "0af33bcd8f64d235524e6fe175f53fd86c7d99ac",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.24-alpha.tgz",
+			"sha": "bcf166e3b27b50b26ba59ce11164a2c77e5e5faa",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.23-alpha.tgz",
+			"sha": "6a4be13368c314f2a25844b047bc5df7a1264b83",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.22-alpha.tgz",
+			"sha": "0bb35c130bd1dc43c804832d58860e806e8e142c",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.17-alpha.tgz",
+			"sha": "59234351e2e8edaa137823f20bc88f85a7240a0c",
+			"registry": "cnpmjs"
+		},
+		"ejs-2.3.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-2.3.16-alpha.tgz",
+			"sha": "d053f074422eed3e7a40a7e279a4111a6d01beb2",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1528445518186
+		}
+	},
+	"_rev": "1-5ceb33512f46bb38",
+	"readme": "# Installation\r\n> `npm install --save @types/ejs`\r\n\r\n# Summary\r\nThis package contains type definitions for ejs.js (http://ejs.co/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ejs\r\n\r\nAdditional Details\r\n * Last updated: Mon, 04 Jun 2018 17:36:55 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Ben Liddicott <https://github.com/benliddicott>."
+}

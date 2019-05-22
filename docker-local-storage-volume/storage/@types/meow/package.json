@@ -1,0 +1,380 @@
+{
+	"name": "@types/meow",
+	"versions": {
+		"4.0.1": {
+			"name": "@types/meow",
+			"version": "4.0.1",
+			"description": "TypeScript definitions for meow",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "KnisterPeter",
+					"url": "https://github.com/KnisterPeter",
+					"githubUsername": "KnisterPeter"
+				},
+				{
+					"name": "Lindsey Smith",
+					"url": "https://github.com/praxxis",
+					"githubUsername": "praxxis"
+				},
+				{
+					"name": "Jason Dreyzehner",
+					"url": "https://github.com/bitjson",
+					"githubUsername": "bitjson"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimist-options": "*"
+			},
+			"typesPublisherContentHash": "1c966b4a9782ed42bf5ef2c79f1776fe03ffdbc8512062721c4487c5ff4b0f9d",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/meow@4.0.1",
+			"dist": {
+				"shasum": "cb80b9f0b8695df7ac15f0165585bcd2d0a6d94f",
+				"size": 1839,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/meow/download/@types/meow-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/meow_4.0.1_1520551673937_0.6047319544693119"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520551673990,
+			"_cnpm_publish_time": 1520551673990
+		},
+		"4.0.0": {
+			"name": "@types/meow",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for meow",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "KnisterPeter",
+					"url": "https://github.com/KnisterPeter",
+					"githubUsername": "KnisterPeter"
+				},
+				{
+					"name": "Lindsey Smith",
+					"url": "https://github.com/praxxis",
+					"githubUsername": "praxxis"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimist-options": "*"
+			},
+			"typesPublisherContentHash": "4c22a65761e748fa8ac0737aa347ccf49333001ccd112f819281020cb2beb88b",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/meow@4.0.0",
+			"dist": {
+				"shasum": "3fe859c984774734fad4009b123b7a0a9c27523f",
+				"size": 1773,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/meow/download/@types/meow-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/meow-4.0.0.tgz_1517523997863_0.2798097119666636"
+			},
+			"directories": {},
+			"publish_time": 1517523997938,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1517523997938
+		},
+		"3.6.2": {
+			"name": "@types/meow",
+			"version": "3.6.2",
+			"description": "TypeScript definitions for meow",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "KnisterPeter",
+					"url": "https://github.com/KnisterPeter"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimist": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "285b0ae37f4268c4bd1fb2d415304fad0f58b586cd30de2db4f7c349ccc7a7e4",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/meow@3.6.2",
+			"dist": {
+				"shasum": "d13867f97d8b258200e14f59c6ed07f08b34280e",
+				"size": 981,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/meow/download/@types/meow-3.6.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/meow-3.6.2.tgz_1490371281492_0.8450290465261787"
+			},
+			"directories": {},
+			"publish_time": 1490371281771,
+			"_cnpm_publish_time": 1490371281771,
+			"_hasShrinkwrap": false
+		},
+		"3.6.1": {
+			"name": "@types/meow",
+			"version": "3.6.1",
+			"description": "TypeScript definitions for meow",
+			"license": "MIT",
+			"author": "KnisterPeter <https://github.com/KnisterPeter>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimist": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "59cf832f7cde4d5bce28a0acb4769545d1355b0ea171de0bd632ae7f028a7933",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/meow@3.6.1",
+			"dist": {
+				"shasum": "24fe87385fd24b0dd559641814aa9c5e0f601760",
+				"size": 1154,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/meow/download/@types/meow-3.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/meow-3.6.1.tgz_1483466517036_0.716549122473225"
+			},
+			"directories": {},
+			"publish_time": 1483466517277,
+			"_cnpm_publish_time": 1483466517277,
+			"_hasShrinkwrap": false
+		},
+		"3.6.0": {
+			"name": "@types/meow",
+			"version": "3.6.0",
+			"description": "TypeScript definitions for meow",
+			"license": "MIT",
+			"author": "KnisterPeter <https://github.com/KnisterPeter>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimist": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "89fa6e409f1d3150019b44106a5e92b40d07d58b6490e0db90aa7ffa0e8e40ef",
+			"_id": "@types/meow@3.6.0",
+			"dist": {
+				"shasum": "53da5c5b1b5995e8912666757fac3381e24991fd",
+				"size": 1140,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/meow/download/@types/meow-3.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/meow-3.6.0.tgz_1481477577399_0.16229416895657778"
+			},
+			"directories": {},
+			"publish_time": 1481477577637,
+			"_cnpm_publish_time": 1481477577637,
+			"_hasShrinkwrap": false
+		},
+		"5.0.0": {
+			"name": "@types/meow",
+			"version": "5.0.0",
+			"description": "TypeScript definitions for meow",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "KnisterPeter",
+					"url": "https://github.com/KnisterPeter",
+					"githubUsername": "KnisterPeter"
+				},
+				{
+					"name": "Lindsey Smith",
+					"url": "https://github.com/praxxis",
+					"githubUsername": "praxxis"
+				},
+				{
+					"name": "Jason Dreyzehner",
+					"url": "https://github.com/bitjson",
+					"githubUsername": "bitjson"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimist-options": "*"
+			},
+			"typesPublisherContentHash": "caa5716889ed4c8879a6c72b061594257de6b80a533e2ac19f05a6e80a4b8b90",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/meow@5.0.0",
+			"dist": {
+				"shasum": "60653cc3c3f91d6af3a131bd82614acf9b530357",
+				"size": 1919,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/meow/download/@types/meow-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/meow_5.0.0_1539118737624_0.3892269605504657"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539118737722,
+			"_cnpm_publish_time": 1539118737722
+		}
+	},
+	"dist-tags": {
+		"latest": "5.0.0",
+		"ts2.0": "3.6.2",
+		"ts2.1": "3.6.2",
+		"ts2.2": "5.0.0",
+		"ts2.3": "5.0.0",
+		"ts2.4": "5.0.0",
+		"ts2.5": "5.0.0",
+		"ts2.6": "5.0.0",
+		"ts2.7": "5.0.0",
+		"ts2.8": "5.0.0",
+		"ts2.9": "5.0.0",
+		"ts3.0": "5.0.0",
+		"ts3.1": "5.0.0",
+		"ts3.2": "5.0.0"
+	},
+	"time": {
+		"modified": "2018-10-09T21:00:35.000Z",
+		"created": "2016-12-11T17:32:57.637Z",
+		"5.0.0": "2018-10-09T20:58:57.722Z",
+		"4.0.1": "2018-03-08T23:27:53.990Z",
+		"4.0.0": "2018-02-01T22:26:37.938Z",
+		"3.6.2": "2017-03-24T16:01:21.771Z",
+		"3.6.1": "2017-01-03T18:01:57.277Z",
+		"3.6.0": "2016-12-11T17:32:57.637Z"
+	},
+	"_distfiles": {
+		"meow-4.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/meow/download/@types/meow-4.0.1.tgz",
+			"sha": "cb80b9f0b8695df7ac15f0165585bcd2d0a6d94f",
+			"registry": "cnpmjs"
+		},
+		"meow-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/meow/download/@types/meow-4.0.0.tgz",
+			"sha": "3fe859c984774734fad4009b123b7a0a9c27523f",
+			"registry": "cnpmjs"
+		},
+		"meow-3.6.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/meow/download/@types/meow-3.6.2.tgz",
+			"sha": "d13867f97d8b258200e14f59c6ed07f08b34280e",
+			"registry": "cnpmjs"
+		},
+		"meow-3.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/meow/download/@types/meow-3.6.1.tgz",
+			"sha": "24fe87385fd24b0dd559641814aa9c5e0f601760",
+			"registry": "cnpmjs"
+		},
+		"meow-3.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/meow/download/@types/meow-3.6.0.tgz",
+			"sha": "53da5c5b1b5995e8912666757fac3381e24991fd",
+			"registry": "cnpmjs"
+		},
+		"meow-5.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/meow/download/@types/meow-5.0.0.tgz",
+			"sha": "60653cc3c3f91d6af3a131bd82614acf9b530357",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"206e-PYPAQdk/CiHJ1ev+MkkRCeGKpxM\"",
+			"fetched": 1541833485309
+		}
+	},
+	"_rev": "2-0e0e7f2b8cc118e5",
+	"readme": "# Installation\r\n> `npm install --save @types/meow`\r\n\r\n# Summary\r\nThis package contains type definitions for meow (https://github.com/sindresorhus/meow).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/meow\r\n\r\nAdditional Details\r\n * Last updated: Tue, 09 Oct 2018 20:58:19 GMT\r\n * Dependencies: minimist-options\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by KnisterPeter <https://github.com/KnisterPeter>, Lindsey Smith <https://github.com/praxxis>, Jason Dreyzehner <https://github.com/bitjson>."
+}

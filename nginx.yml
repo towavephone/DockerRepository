@@ -1,0 +1,14 @@
+nginx:
+    image: nginx
+    container_name: nginx
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+      - /home/towavephone/project/nginx/cert:/etc/nginx/cert:ro
+      - /home/towavephone/project/nginx/mime.types:/etc/nginx/mime.types:ro
+      - /home/towavephone/project/nginx/conf.d:/etc/nginx/conf.d:ro
+      - /srv/gitlab-runner/config:/tmp:ro
+      

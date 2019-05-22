@@ -1,0 +1,655 @@
+{
+	"name": "@types/prelude-ls",
+	"versions": {
+		"1.1.29": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.29",
+			"description": "TypeScript definitions for prelude.ls 1.1.1",
+			"license": "MIT",
+			"author": "Aya Morisawa <https://github.com/AyaMorisawa>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "5d74e5e51443d9467bc419f76c2c8a87af234315b5f1c4df66373badab1689e9",
+			"_id": "@types/prelude-ls@1.1.29",
+			"dist": {
+				"shasum": "4d9913c94baeef309457d670d5ddeff96fc6b5a8",
+				"size": 3177,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.29.tgz_1478005084730_0.02238337858580053"
+			},
+			"directories": {},
+			"publish_time": 1478005086443,
+			"_cnpm_publish_time": 1478005086443,
+			"_hasShrinkwrap": false
+		},
+		"1.1.28": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.28",
+			"description": "TypeScript definitions for prelude.ls 1.1.1",
+			"license": "MIT",
+			"author": "Aya Morisawa <https://github.com/AyaMorisawa>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "50f5162a4c6d4b50bd16fd30642d7fb63603ba7cf43d0ba6539c4d74a1a0e18d",
+			"_id": "@types/prelude-ls@1.1.28",
+			"dist": {
+				"shasum": "350a12d770a96dd75a5c0761a08070a65acadc47",
+				"size": 3155,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.28.tgz_1474308174864_0.9013398613315076"
+			},
+			"directories": {},
+			"publish_time": 1474308177887,
+			"_cnpm_publish_time": 1474308177887,
+			"_hasShrinkwrap": false
+		},
+		"1.1.27": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.27",
+			"description": "TypeScript definitions for prelude.ls 1.1.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/prelude-ls@1.1.27",
+			"_shasum": "448511f6feae7ba655a211d24b0f85399f816a7b",
+			"_from": "output\\prelude-ls",
+			"_resolved": "file:output\\prelude-ls",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "448511f6feae7ba655a211d24b0f85399f816a7b",
+				"size": 3142,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.27.tgz_1468511147331_0.197121889796108"
+			},
+			"directories": {},
+			"publish_time": 1468511149912,
+			"_cnpm_publish_time": 1468511149912,
+			"_hasShrinkwrap": false
+		},
+		"1.1.26-alpha": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.26-alpha",
+			"description": "TypeScript definitions for prelude.ls 1.1.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/prelude-ls@1.1.26-alpha",
+			"_shasum": "9889a2cf75758a87f9e6ff69cd352e87697d974b",
+			"_from": "output\\prelude-ls",
+			"_resolved": "file:output\\prelude-ls",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9889a2cf75758a87f9e6ff69cd352e87697d974b",
+				"size": 3144,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.26-alpha.tgz_1468012052837_0.7677982409950346"
+			},
+			"directories": {},
+			"publish_time": 1468012055116,
+			"_cnpm_publish_time": 1468012055116,
+			"_hasShrinkwrap": false
+		},
+		"1.1.25-alpha": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.25-alpha",
+			"description": "TypeScript definitions for prelude.ls 1.1.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/prelude-ls@1.1.25-alpha",
+			"_shasum": "1f21939d5e2925897537e6e40513977b814da6fd",
+			"_from": "output\\prelude-ls",
+			"_resolved": "file:output\\prelude-ls",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1f21939d5e2925897537e6e40513977b814da6fd",
+				"size": 3144,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.25-alpha.tgz_1467594413724_0.16271953261457384"
+			},
+			"directories": {},
+			"publish_time": 1467594414182,
+			"_cnpm_publish_time": 1467594414182,
+			"_hasShrinkwrap": false
+		},
+		"1.1.24-alpha": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.24-alpha",
+			"description": "TypeScript definitions for prelude.ls 1.1.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/prelude-ls@1.1.24-alpha",
+			"_shasum": "18bbe4c6f57ccc27701685424a5e85c53b93a6ab",
+			"_from": "output\\prelude-ls",
+			"_resolved": "file:output\\prelude-ls",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "18bbe4c6f57ccc27701685424a5e85c53b93a6ab",
+				"size": 3145,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.24-alpha.tgz_1467429134961_0.6346502762753516"
+			},
+			"directories": {},
+			"publish_time": 1467429138539,
+			"_cnpm_publish_time": 1467429138539,
+			"_hasShrinkwrap": false
+		},
+		"1.1.23-alpha": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.23-alpha",
+			"description": "TypeScript definitions for prelude.ls 1.1.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/prelude-ls@1.1.23-alpha",
+			"_shasum": "a2e5d92c88596e82af55bd0f4c39edac27b8b2fa",
+			"_from": "output\\prelude-ls",
+			"_resolved": "file:output\\prelude-ls",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a2e5d92c88596e82af55bd0f4c39edac27b8b2fa",
+				"size": 3145,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.23-alpha.tgz_1467416583693_0.49607163364998996"
+			},
+			"directories": {},
+			"publish_time": 1467416585747,
+			"_cnpm_publish_time": 1467416585747,
+			"_hasShrinkwrap": false
+		},
+		"1.1.22-alpha": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.22-alpha",
+			"description": "TypeScript definitions for prelude.ls 1.1.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/prelude-ls@1.1.22-alpha",
+			"_shasum": "82445f0c74ff17bde07e359b8e72ed84e9fb951b",
+			"_from": "output\\prelude-ls",
+			"_resolved": "file:output\\prelude-ls",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "82445f0c74ff17bde07e359b8e72ed84e9fb951b",
+				"size": 3133,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.22-alpha.tgz_1467404458034_0.9304137697909027"
+			},
+			"directories": {},
+			"publish_time": 1467404461336,
+			"_cnpm_publish_time": 1467404461336,
+			"_hasShrinkwrap": false
+		},
+		"1.1.21-alpha": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.21-alpha",
+			"description": "TypeScript definitions for prelude.ls 1.1.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/prelude-ls@1.1.21-alpha",
+			"_shasum": "033cd1b5bcf11a0e12afc599802fb15c85f8befa",
+			"_from": "output\\prelude-ls",
+			"_resolved": "file:output\\prelude-ls",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "033cd1b5bcf11a0e12afc599802fb15c85f8befa",
+				"size": 3114,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.21-alpha.tgz_1464154994010_0.6063636497128755"
+			},
+			"directories": {},
+			"publish_time": 1464154996387,
+			"_cnpm_publish_time": 1464154996387,
+			"_hasShrinkwrap": false
+		},
+		"1.1.20-alpha": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.20-alpha",
+			"description": "TypeScript definitions for prelude.ls 1.1.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/prelude-ls@1.1.20-alpha",
+			"_shasum": "ae996c14c56bde9402a61d0ea3d328ca860c92d9",
+			"_from": "output\\prelude-ls",
+			"_resolved": "file:output\\prelude-ls",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ae996c14c56bde9402a61d0ea3d328ca860c92d9",
+				"size": 3114,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.20-alpha.tgz_1463776031188_0.45717348996549845"
+			},
+			"directories": {},
+			"publish_time": 1463776031631,
+			"_cnpm_publish_time": 1463776031631,
+			"_hasShrinkwrap": false
+		},
+		"1.1.15-alpha": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.15-alpha",
+			"description": "Type definitions for prelude.ls 1.1.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/prelude-ls@1.1.15-alpha",
+			"_shasum": "957909717e2d6bed07ba55e64b87497b40243d9e",
+			"_from": "output\\prelude-ls",
+			"_resolved": "file:output\\prelude-ls",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "957909717e2d6bed07ba55e64b87497b40243d9e",
+				"size": 3124,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.15-alpha.tgz_1463695421896_0.5575246778316796"
+			},
+			"directories": {},
+			"publish_time": 1463695422594,
+			"_cnpm_publish_time": 1463695422594,
+			"_hasShrinkwrap": false
+		},
+		"1.1.14-alpha": {
+			"name": "@types/prelude-ls",
+			"version": "1.1.14-alpha",
+			"description": "Type definitions for prelude.ls 1.1.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/prelude-ls@1.1.14-alpha",
+			"_shasum": "2bd1b8e3a1e674138a1b13e1a2fd5bebce4787dc",
+			"_from": "output\\prelude-ls",
+			"_resolved": "file:output\\prelude-ls",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2bd1b8e3a1e674138a1b13e1a2fd5bebce4787dc",
+				"size": 3114,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/prelude-ls-1.1.14-alpha.tgz_1463510364762_0.7442882454488426"
+			},
+			"directories": {},
+			"publish_time": 1463510368870,
+			"_cnpm_publish_time": 1463510368870,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.29",
+		"ts2.0": "1.1.29",
+		"ts2.1": "1.1.29",
+		"ts2.2": "1.1.29",
+		"ts2.3": "1.1.29",
+		"ts2.4": "1.1.29",
+		"ts2.5": "1.1.29",
+		"ts2.6": "1.1.29",
+		"ts2.7": "1.1.29",
+		"ts2.8": "1.1.29",
+		"ts2.9": "1.1.29",
+		"ts3.0": "1.1.29",
+		"ts3.1": "1.1.29",
+		"ts3.2": "1.1.29"
+	},
+	"time": {
+		"modified": "2018-10-10T20:25:26.000Z",
+		"created": "2016-05-17T18:39:28.870Z",
+		"1.1.29": "2016-11-01T12:58:06.443Z",
+		"1.1.28": "2016-09-19T18:02:57.887Z",
+		"1.1.27": "2016-07-14T15:45:49.912Z",
+		"1.1.26-alpha": "2016-07-08T21:07:35.116Z",
+		"1.1.25-alpha": "2016-07-04T01:06:54.182Z",
+		"1.1.24-alpha": "2016-07-02T03:12:18.539Z",
+		"1.1.23-alpha": "2016-07-01T23:43:05.747Z",
+		"1.1.22-alpha": "2016-07-01T20:21:01.336Z",
+		"1.1.21-alpha": "2016-05-25T05:43:16.387Z",
+		"1.1.20-alpha": "2016-05-20T20:27:11.631Z",
+		"1.1.15-alpha": "2016-05-19T22:03:42.594Z",
+		"1.1.14-alpha": "2016-05-17T18:39:28.870Z"
+	},
+	"_distfiles": {
+		"prelude-ls-1.1.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.29.tgz",
+			"sha": "4d9913c94baeef309457d670d5ddeff96fc6b5a8",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.28.tgz",
+			"sha": "350a12d770a96dd75a5c0761a08070a65acadc47",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.27.tgz",
+			"sha": "448511f6feae7ba655a211d24b0f85399f816a7b",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.26-alpha.tgz",
+			"sha": "9889a2cf75758a87f9e6ff69cd352e87697d974b",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.25-alpha.tgz",
+			"sha": "1f21939d5e2925897537e6e40513977b814da6fd",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.24-alpha.tgz",
+			"sha": "18bbe4c6f57ccc27701685424a5e85c53b93a6ab",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.23-alpha.tgz",
+			"sha": "a2e5d92c88596e82af55bd0f4c39edac27b8b2fa",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.22-alpha.tgz",
+			"sha": "82445f0c74ff17bde07e359b8e72ed84e9fb951b",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.21-alpha.tgz",
+			"sha": "033cd1b5bcf11a0e12afc599802fb15c85f8befa",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.20-alpha.tgz",
+			"sha": "ae996c14c56bde9402a61d0ea3d328ca860c92d9",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.15-alpha.tgz",
+			"sha": "957909717e2d6bed07ba55e64b87497b40243d9e",
+			"registry": "cnpmjs"
+		},
+		"prelude-ls-1.1.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/prelude-ls/download/@types/prelude-ls-1.1.14-alpha.tgz",
+			"sha": "2bd1b8e3a1e674138a1b13e1a2fd5bebce4787dc",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3bf7-6y4agdtW6Q9UQUQ2/BDwn5s0Zgc\"",
+			"fetched": 1541833487141
+		}
+	},
+	"_rev": "2-7ea761f8944eba47",
+	"readme": "# Installation\r\n> `npm install --save @types/prelude-ls`\r\n\r\n# Summary\r\nThis package contains type definitions for prelude.ls 1.1.1 (http://www.preludels.com).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/prelude-ls\r\n\r\nAdditional Details\r\n * Last updated: Tue, 01 Nov 2016 12:57:26 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: PreludeLS\r\n\r\n# Credits\r\nThese definitions were written by Aya Morisawa <https://github.com/AyaMorisawa>."
+}

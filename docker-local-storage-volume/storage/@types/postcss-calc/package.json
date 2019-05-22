@@ -1,0 +1,90 @@
+{
+	"name": "@types/postcss-calc",
+	"versions": {
+		"7.0.0": {
+			"name": "@types/postcss-calc",
+			"version": "7.0.0",
+			"description": "TypeScript definitions for postcss-calc",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jeow Li Huan",
+					"url": "https://github.com/huan086",
+					"githubUsername": "huan086"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"postcss": "7.x.x"
+			},
+			"typesPublisherContentHash": "9e11c78defbd7f6208067a73901eaf74040cdf4eb3c40f40685778fc356ac6b5",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/postcss-calc@7.0.0",
+			"dist": {
+				"shasum": "831100871b828e7c984f39b0f250d68fc0b3d367",
+				"size": 1627,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/postcss-calc/download/@types/postcss-calc-7.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/postcss-calc_7.0.0_1541113907024_0.008143391066798955"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1541113907220,
+			"_cnpm_publish_time": 1541113907220
+		}
+	},
+	"dist-tags": {
+		"latest": "7.0.0",
+		"ts2.2": "7.0.0",
+		"ts2.3": "7.0.0",
+		"ts2.4": "7.0.0",
+		"ts2.5": "7.0.0",
+		"ts2.6": "7.0.0",
+		"ts2.7": "7.0.0",
+		"ts2.8": "7.0.0",
+		"ts2.9": "7.0.0",
+		"ts3.0": "7.0.0",
+		"ts3.1": "7.0.0",
+		"ts3.2": "7.0.0"
+	},
+	"time": {
+		"modified": "2018-11-01T23:12:00.000Z",
+		"created": "2018-11-01T23:11:47.220Z",
+		"7.0.0": "2018-11-01T23:11:47.220Z"
+	},
+	"_distfiles": {
+		"postcss-calc-7.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/postcss-calc/download/@types/postcss-calc-7.0.0.tgz",
+			"sha": "831100871b828e7c984f39b0f250d68fc0b3d367",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"922-A9xSTfp1vd3k3jDODfDbLxmiluY\"",
+			"fetched": 1541833279002
+		}
+	},
+	"_rev": "1-8c4e4abe224ace42",
+	"readme": "# Installation\r\n> `npm install --save @types/postcss-calc`\r\n\r\n# Summary\r\nThis package contains type definitions for postcss-calc (https://github.com/postcss/postcss-calc).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/postcss-calc\r\n\r\nAdditional Details\r\n * Last updated: Thu, 01 Nov 2018 23:10:57 GMT\r\n * Dependencies: postcss\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Jeow Li Huan <https://github.com/huan086>."
+}

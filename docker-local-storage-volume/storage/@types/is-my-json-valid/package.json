@@ -1,0 +1,658 @@
+{
+	"name": "@types/is-my-json-valid",
+	"versions": {
+		"0.0.20": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.20",
+			"description": "TypeScript definitions for is-my-json-valid",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "kruncher",
+					"url": "https://github.com/kruncher"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "07536596ab27f7e94feb473a2ea7758a5b067084835086bc2838d45ef94784e1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/is-my-json-valid@0.0.20",
+			"dist": {
+				"shasum": "602ba9feae73c0c9e9ebdd1c54377c488d91be26",
+				"size": 1590,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.20.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/is-my-json-valid-0.0.20.tgz_1503352558077_0.47332250815816224"
+			},
+			"directories": {},
+			"publish_time": 1503352559162,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352559162
+		},
+		"0.0.19": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.19",
+			"description": "TypeScript definitions for is-my-json-valid",
+			"license": "MIT",
+			"author": "kruncher <https://github.com/kruncher/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "5aa7cc762e2c8348d29e13d0ae09c29850b6a39705263c4683e2ab386e067a65",
+			"_id": "@types/is-my-json-valid@0.0.19",
+			"dist": {
+				"shasum": "8981f574f39e315a3e69f77f27a692723ecff70e",
+				"size": 1107,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.19.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.19.tgz_1474306911374_0.22271604766137898"
+			},
+			"directories": {},
+			"publish_time": 1474306911597,
+			"_cnpm_publish_time": 1474306911597,
+			"_hasShrinkwrap": false
+		},
+		"0.0.18": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.18",
+			"description": "TypeScript definitions for is-my-json-valid",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-my-json-valid@0.0.18",
+			"_shasum": "3642613dfa4973d4dc7fec858feaedc42642c675",
+			"_from": "output\\is-my-json-valid",
+			"_resolved": "file:output\\is-my-json-valid",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3642613dfa4973d4dc7fec858feaedc42642c675",
+				"size": 1086,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.18.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.18.tgz_1468508196531_0.07095835939981043"
+			},
+			"directories": {},
+			"publish_time": 1468508198598,
+			"_cnpm_publish_time": 1468508198598,
+			"_hasShrinkwrap": false
+		},
+		"0.0.17-alpha": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.17-alpha",
+			"description": "TypeScript definitions for is-my-json-valid",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-my-json-valid@0.0.17-alpha",
+			"_shasum": "76dd2d6a66ccbdc7365f0a54c373158160badd36",
+			"_from": "output\\is-my-json-valid",
+			"_resolved": "file:output\\is-my-json-valid",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "76dd2d6a66ccbdc7365f0a54c373158160badd36",
+				"size": 1081,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.17-alpha.tgz_1468009939747_0.7435458863619715"
+			},
+			"directories": {},
+			"publish_time": 1468009942444,
+			"_cnpm_publish_time": 1468009942444,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.16-alpha",
+			"description": "TypeScript definitions for is-my-json-valid",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-my-json-valid@0.0.16-alpha",
+			"_shasum": "b273d3c1e58df8b1179769096db477ef9d19d44e",
+			"_from": "output\\is-my-json-valid",
+			"_resolved": "file:output\\is-my-json-valid",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b273d3c1e58df8b1179769096db477ef9d19d44e",
+				"size": 1082,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.16-alpha.tgz_1467592238957_0.24813544237986207"
+			},
+			"directories": {},
+			"publish_time": 1467592239423,
+			"_cnpm_publish_time": 1467592239423,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.15-alpha",
+			"description": "TypeScript definitions for is-my-json-valid",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-my-json-valid@0.0.15-alpha",
+			"_shasum": "f28ba42605e8ddedc7ca68eb009ea0e15eb47e6f",
+			"_from": "output\\is-my-json-valid",
+			"_resolved": "file:output\\is-my-json-valid",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f28ba42605e8ddedc7ca68eb009ea0e15eb47e6f",
+				"size": 1082,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.15-alpha.tgz_1467427094179_0.37444205046631396"
+			},
+			"directories": {},
+			"publish_time": 1467427097695,
+			"_cnpm_publish_time": 1467427097695,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.14-alpha",
+			"description": "TypeScript definitions for is-my-json-valid",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-my-json-valid@0.0.14-alpha",
+			"_shasum": "b5afe90745852b3cd7bfea673457554dbd8324e9",
+			"_from": "output\\is-my-json-valid",
+			"_resolved": "file:output\\is-my-json-valid",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b5afe90745852b3cd7bfea673457554dbd8324e9",
+				"size": 1083,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.14-alpha.tgz_1467414476074_0.305471601895988"
+			},
+			"directories": {},
+			"publish_time": 1467414478141,
+			"_cnpm_publish_time": 1467414478141,
+			"_hasShrinkwrap": false
+		},
+		"0.0.13-alpha": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.13-alpha",
+			"description": "TypeScript definitions for is-my-json-valid",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-my-json-valid@0.0.13-alpha",
+			"_shasum": "e3164a7945a0786b8366fc80f86397efd2fa20d1",
+			"_from": "output\\is-my-json-valid",
+			"_resolved": "file:output\\is-my-json-valid",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e3164a7945a0786b8366fc80f86397efd2fa20d1",
+				"size": 1077,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.13-alpha.tgz_1467402228695_0.8896884932182729"
+			},
+			"directories": {},
+			"publish_time": 1467402231057,
+			"_cnpm_publish_time": 1467402231057,
+			"_hasShrinkwrap": false
+		},
+		"0.0.12-alpha": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.12-alpha",
+			"description": "TypeScript definitions for is-my-json-valid",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-my-json-valid@0.0.12-alpha",
+			"_shasum": "9436c341f75917ef4408ac67b1d9b9c2b8cefc12",
+			"_from": "output\\is-my-json-valid",
+			"_resolved": "file:output\\is-my-json-valid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9436c341f75917ef4408ac67b1d9b9c2b8cefc12",
+				"size": 1052,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.12-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.12-alpha.tgz_1464152919891_0.5136806026566774"
+			},
+			"directories": {},
+			"publish_time": 1464152922543,
+			"_cnpm_publish_time": 1464152922543,
+			"_hasShrinkwrap": false
+		},
+		"0.0.11-alpha": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.11-alpha",
+			"description": "TypeScript definitions for is-my-json-valid",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-my-json-valid@0.0.11-alpha",
+			"_shasum": "0a37db0b80e1c8cfc3c4e26a2d480fc5f66177bb",
+			"_from": "output\\is-my-json-valid",
+			"_resolved": "file:output\\is-my-json-valid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0a37db0b80e1c8cfc3c4e26a2d480fc5f66177bb",
+				"size": 1053,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.11-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.11-alpha.tgz_1463773817477_0.16578246769495308"
+			},
+			"directories": {},
+			"publish_time": 1463773818422,
+			"_cnpm_publish_time": 1463773818422,
+			"_hasShrinkwrap": false
+		},
+		"0.0.6-alpha": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.6-alpha",
+			"description": "Type definitions for is-my-json-valid from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-my-json-valid@0.0.6-alpha",
+			"_shasum": "f4c4aad941d7f0306b20be82edb217c9b7521655",
+			"_from": "output\\is-my-json-valid",
+			"_resolved": "file:output\\is-my-json-valid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f4c4aad941d7f0306b20be82edb217c9b7521655",
+				"size": 1062,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.6-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.6-alpha.tgz_1463692475092_0.3512275102548301"
+			},
+			"directories": {},
+			"publish_time": 1463692477543,
+			"_cnpm_publish_time": 1463692477543,
+			"_hasShrinkwrap": false
+		},
+		"0.0.5-alpha": {
+			"name": "@types/is-my-json-valid",
+			"version": "0.0.5-alpha",
+			"description": "Type definitions for is-my-json-valid from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-my-json-valid@0.0.5-alpha",
+			"_shasum": "448816a0fe7fde6737e306bbc063de113576c7b0",
+			"_from": "output\\is-my-json-valid",
+			"_resolved": "file:output\\is-my-json-valid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "448816a0fe7fde6737e306bbc063de113576c7b0",
+				"size": 1058,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.5-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-my-json-valid-0.0.5-alpha.tgz_1463462039934_0.8019444877281785"
+			},
+			"directories": {},
+			"publish_time": 1463462043543,
+			"_cnpm_publish_time": 1463462043543,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.20",
+		"ts2.0": "0.0.20",
+		"ts2.1": "0.0.20",
+		"ts2.2": "0.0.20",
+		"ts2.3": "0.0.20",
+		"ts2.4": "0.0.20",
+		"ts2.5": "0.0.20",
+		"ts2.6": "0.0.20",
+		"ts2.7": "0.0.20",
+		"ts2.8": "0.0.20",
+		"ts2.9": "0.0.20",
+		"ts3.0": "0.0.20",
+		"ts3.1": "0.0.20",
+		"ts3.2": "0.0.20"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:01.000Z",
+		"created": "2016-05-17T05:14:03.543Z",
+		"0.0.20": "2017-08-21T21:55:59.162Z",
+		"0.0.19": "2016-09-19T17:41:51.597Z",
+		"0.0.18": "2016-07-14T14:56:38.598Z",
+		"0.0.17-alpha": "2016-07-08T20:32:22.444Z",
+		"0.0.16-alpha": "2016-07-04T00:30:39.423Z",
+		"0.0.15-alpha": "2016-07-02T02:38:17.695Z",
+		"0.0.14-alpha": "2016-07-01T23:07:58.141Z",
+		"0.0.13-alpha": "2016-07-01T19:43:51.057Z",
+		"0.0.12-alpha": "2016-05-25T05:08:42.543Z",
+		"0.0.11-alpha": "2016-05-20T19:50:18.422Z",
+		"0.0.6-alpha": "2016-05-19T21:14:37.543Z",
+		"0.0.5-alpha": "2016-05-17T05:14:03.543Z"
+	},
+	"_distfiles": {
+		"is-my-json-valid-0.0.20.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.20.tgz",
+			"sha": "602ba9feae73c0c9e9ebdd1c54377c488d91be26",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.19.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.19.tgz",
+			"sha": "8981f574f39e315a3e69f77f27a692723ecff70e",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.18.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.18.tgz",
+			"sha": "3642613dfa4973d4dc7fec858feaedc42642c675",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.17-alpha.tgz",
+			"sha": "76dd2d6a66ccbdc7365f0a54c373158160badd36",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.16-alpha.tgz",
+			"sha": "b273d3c1e58df8b1179769096db477ef9d19d44e",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.15-alpha.tgz",
+			"sha": "f28ba42605e8ddedc7ca68eb009ea0e15eb47e6f",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.14-alpha.tgz",
+			"sha": "b5afe90745852b3cd7bfea673457554dbd8324e9",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.13-alpha.tgz",
+			"sha": "e3164a7945a0786b8366fc80f86397efd2fa20d1",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.12-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.12-alpha.tgz",
+			"sha": "9436c341f75917ef4408ac67b1d9b9c2b8cefc12",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.11-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.11-alpha.tgz",
+			"sha": "0a37db0b80e1c8cfc3c4e26a2d480fc5f66177bb",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.6-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.6-alpha.tgz",
+			"sha": "f4c4aad941d7f0306b20be82edb217c9b7521655",
+			"registry": "cnpmjs"
+		},
+		"is-my-json-valid-0.0.5-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-my-json-valid/download/@types/is-my-json-valid-0.0.5-alpha.tgz",
+			"sha": "448816a0fe7fde6737e306bbc063de113576c7b0",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833457165
+		}
+	},
+	"_rev": "2-5d50131002dcb1cc",
+	"readme": "# Installation\r\n> `npm install --save @types/is-my-json-valid`\r\n\r\n# Summary\r\nThis package contains type definitions for is-my-json-valid (https://github.com/mafintosh/is-my-json-valid).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/is-my-json-valid\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 21:55:03 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by kruncher <https://github.com/kruncher>."
+}

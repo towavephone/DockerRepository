@@ -1,0 +1,227 @@
+{
+	"name": "@types/is-promise",
+	"versions": {
+		"2.1.0": {
+			"name": "@types/is-promise",
+			"version": "2.1.0",
+			"description": "TypeScript definitions for is-promise",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Daniel Rosenwasser",
+					"url": "https://github.com/DanielRosenwasser"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fbf3be805fc4f6034e545c48406892d0777263564e5cd2681c0f4a302a2a169f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/is-promise@2.1.0",
+			"dist": {
+				"shasum": "86b0eee11aa2ae9ec317d8afc82c87b88a8972dc",
+				"size": 1483,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-promise/download/@types/is-promise-2.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/is-promise-2.1.0.tgz_1502736270877_0.786169006023556"
+			},
+			"directories": {},
+			"publish_time": 1502736270956,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502736270956
+		},
+		"0.0.3": {
+			"name": "@types/is-promise",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for is-promise",
+			"license": "MIT",
+			"author": "Daniel Rosenwasser <https://github.com/DanielRosenwasser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "0dc66e1e8aef74bc2901711948a52cf7a8489b20c9c6839695c6a345d1d8372c",
+			"_id": "@types/is-promise@0.0.3",
+			"dist": {
+				"shasum": "54a2fdb5c353a67667427482cf8952c7a65f06d1",
+				"size": 1000,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-promise/download/@types/is-promise-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-promise-0.0.3.tgz_1474306760377_0.7324145007878542"
+			},
+			"directories": {},
+			"publish_time": 1474306760606,
+			"_cnpm_publish_time": 1474306760606,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/is-promise",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for is-promise",
+			"license": "MIT",
+			"author": "Daniel Rosenwasser <https://github.com/DanielRosenwasser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/is-promise@0.0.2",
+			"dist": {
+				"shasum": "abb95edaf1cc3b0292669c81a6f921c1f0ce675e",
+				"size": 984,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-promise/download/@types/is-promise-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-promise-0.0.2.tgz_1472150727789_0.21231720969080925"
+			},
+			"directories": {},
+			"publish_time": 1472150728374,
+			"_cnpm_publish_time": 1472150728374,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/is-promise",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for is-promise",
+			"license": "MIT",
+			"author": "Daniel Rosenwasser <https://github.com/DanielRosenwasser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/is-promise@0.0.1",
+			"dist": {
+				"shasum": "9569c0786add3b61cde9e265a8c9903db2946670",
+				"size": 986,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-promise/download/@types/is-promise-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-promise-0.0.1.tgz_1471888690788_0.15392327797599137"
+			},
+			"directories": {},
+			"publish_time": 1471888691001,
+			"_cnpm_publish_time": 1471888691001,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.1.0",
+		"ts2.0": "2.1.0",
+		"ts2.1": "2.1.0",
+		"ts2.2": "2.1.0",
+		"ts2.3": "2.1.0",
+		"ts2.4": "2.1.0",
+		"ts2.5": "2.1.0",
+		"ts2.6": "2.1.0",
+		"ts2.7": "2.1.0",
+		"ts2.8": "2.1.0",
+		"ts2.9": "2.1.0",
+		"ts3.0": "2.1.0",
+		"ts3.1": "2.1.0",
+		"ts3.2": "2.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:01.000Z",
+		"created": "2016-08-22T17:58:11.001Z",
+		"2.1.0": "2017-08-14T18:44:30.956Z",
+		"0.0.3": "2016-09-19T17:39:20.606Z",
+		"0.0.2": "2016-08-25T18:45:28.374Z",
+		"0.0.1": "2016-08-22T17:58:11.001Z"
+	},
+	"_distfiles": {
+		"is-promise-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-promise/download/@types/is-promise-2.1.0.tgz",
+			"sha": "86b0eee11aa2ae9ec317d8afc82c87b88a8972dc",
+			"registry": "cnpmjs"
+		},
+		"is-promise-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-promise/download/@types/is-promise-0.0.3.tgz",
+			"sha": "54a2fdb5c353a67667427482cf8952c7a65f06d1",
+			"registry": "cnpmjs"
+		},
+		"is-promise-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-promise/download/@types/is-promise-0.0.2.tgz",
+			"sha": "abb95edaf1cc3b0292669c81a6f921c1f0ce675e",
+			"registry": "cnpmjs"
+		},
+		"is-promise-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-promise/download/@types/is-promise-0.0.1.tgz",
+			"sha": "9569c0786add3b61cde9e265a8c9903db2946670",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833457298
+		}
+	},
+	"_rev": "2-aae4ee68282f12c8",
+	"readme": "# Installation\r\n> `npm install --save @types/is-promise`\r\n\r\n# Summary\r\nThis package contains type definitions for is-promise (https://github.com/then/is-promise).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/is-promise\r\n\r\nAdditional Details\r\n * Last updated: Mon, 14 Aug 2017 18:44:00 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Daniel Rosenwasser <https://github.com/DanielRosenwasser>."
+}

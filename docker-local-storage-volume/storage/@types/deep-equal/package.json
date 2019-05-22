@@ -1,0 +1,719 @@
+{
+	"name": "@types/deep-equal",
+	"versions": {
+		"1.0.1": {
+			"name": "@types/deep-equal",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for deep-equal",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "remojansen",
+					"url": "https://github.com/remojansen"
+				},
+				{
+					"name": "Jay Anslow",
+					"url": "https://github.com/janslow"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7452062e2836659799063e55a9d9f4b72ead0bab29e4e011d2dc3a7a94e4b233",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/deep-equal@1.0.1",
+			"dist": {
+				"shasum": "71cfabb247c22bcc16d536111f50c0ed12476b03",
+				"size": 1556,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/deep-equal-1.0.1.tgz_1503352241120_0.7438781126402318"
+			},
+			"directories": {},
+			"publish_time": 1503352242069,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352242069
+		},
+		"1.0.0": {
+			"name": "@types/deep-equal",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for deep-equal",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "remojansen",
+					"url": "https://github.com/remojansen"
+				},
+				{
+					"name": "Jay Anslow",
+					"url": "http://github.com/janslow"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "48036d2850eae265f829c63b992c473a1e1c4aaf75adb0f326f5266afa7b10b0",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/deep-equal@1.0.0",
+			"dist": {
+				"shasum": "9ebeaa73d1fc4791f038a5f1440e0449ea968495",
+				"size": 879,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-1.0.0.tgz_1488917634230_0.213198077166453"
+			},
+			"directories": {},
+			"publish_time": 1488917635876,
+			"_cnpm_publish_time": 1488917635876,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/deep-equal",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for deep-equal",
+			"license": "MIT",
+			"author": "remojansen <https://github.com/remojansen>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "766911c3e0d28930127da0e0235cffcf8888447d42a440b3e98de9c9c8c2cab3",
+			"_id": "@types/deep-equal@0.0.30",
+			"dist": {
+				"shasum": "c14df825c9201a1804980e7ebc3ef30e137bb64c",
+				"size": 1046,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.30.tgz_1474303420455_0.15064236288890243"
+			},
+			"directories": {},
+			"publish_time": 1474303422479,
+			"_cnpm_publish_time": 1474303422479,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/deep-equal",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for deep-equal",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "remojansen",
+				"email": "https://github.com/remojansen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-equal@0.0.29",
+			"_shasum": "69134e262c04d142051bdfb08946dff73425a6c0",
+			"_from": "output\\deep-equal",
+			"_resolved": "file:output\\deep-equal",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "69134e262c04d142051bdfb08946dff73425a6c0",
+				"size": 1018,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.29.tgz_1468506257086_0.6206052030902356"
+			},
+			"directories": {},
+			"publish_time": 1468506259853,
+			"_cnpm_publish_time": 1468506259853,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28-alpha": {
+			"name": "@types/deep-equal",
+			"version": "0.0.28-alpha",
+			"description": "TypeScript definitions for deep-equal",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "remojansen",
+				"email": "https://github.com/remojansen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-equal@0.0.28-alpha",
+			"_shasum": "048b3c5242b23fcf303941c1efe3a119580fe036",
+			"_from": "output\\deep-equal",
+			"_resolved": "file:output\\deep-equal",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "048b3c5242b23fcf303941c1efe3a119580fe036",
+				"size": 1016,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.28-alpha.tgz_1468007733138_0.13069307012483478"
+			},
+			"directories": {},
+			"publish_time": 1468007736011,
+			"_cnpm_publish_time": 1468007736011,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/deep-equal",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for deep-equal",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "remojansen",
+				"email": "https://github.com/remojansen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-equal@0.0.27-alpha",
+			"_shasum": "95d7ef02902c56a520646234f6f9ccda74815fb2",
+			"_from": "output\\deep-equal",
+			"_resolved": "file:output\\deep-equal",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "95d7ef02902c56a520646234f6f9ccda74815fb2",
+				"size": 1014,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.27-alpha.tgz_1467590822570_0.1914927673060447"
+			},
+			"directories": {},
+			"publish_time": 1467590825999,
+			"_cnpm_publish_time": 1467590825999,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/deep-equal",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for deep-equal",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "remojansen",
+				"email": "https://github.com/remojansen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-equal@0.0.26-alpha",
+			"_shasum": "ab3082678a5175069585dc43c06eab8f1889411c",
+			"_from": "output\\deep-equal",
+			"_resolved": "file:output\\deep-equal",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ab3082678a5175069585dc43c06eab8f1889411c",
+				"size": 1015,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.26-alpha.tgz_1467425891893_0.18418864742852747"
+			},
+			"directories": {},
+			"publish_time": 1467425895423,
+			"_cnpm_publish_time": 1467425895423,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/deep-equal",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for deep-equal",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "remojansen",
+				"email": "https://github.com/remojansen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-equal@0.0.25-alpha",
+			"_shasum": "32023482a13e54eedb9a8c21177bb02c070b2bd2",
+			"_from": "output\\deep-equal",
+			"_resolved": "file:output\\deep-equal",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "32023482a13e54eedb9a8c21177bb02c070b2bd2",
+				"size": 1015,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.25-alpha.tgz_1467412353336_0.18740409496240318"
+			},
+			"directories": {},
+			"publish_time": 1467412353982,
+			"_cnpm_publish_time": 1467412353982,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/deep-equal",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for deep-equal",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "remojansen",
+				"email": "https://github.com/remojansen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-equal@0.0.24-alpha",
+			"_shasum": "44ef778018c9149aaecd54e3e91b3db7a6d70fc8",
+			"_from": "output\\deep-equal",
+			"_resolved": "file:output\\deep-equal",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "44ef778018c9149aaecd54e3e91b3db7a6d70fc8",
+				"size": 1016,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.24-alpha.tgz_1467400569265_0.4682280709967017"
+			},
+			"directories": {},
+			"publish_time": 1467400571567,
+			"_cnpm_publish_time": 1467400571567,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/deep-equal",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for deep-equal",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "remojansen",
+				"email": "https://github.com/remojansen"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-equal@0.0.23-alpha",
+			"_shasum": "83d78a12593fca862cef100be3aa8418f31109cc",
+			"_from": "output\\deep-equal",
+			"_resolved": "file:output\\deep-equal",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "83d78a12593fca862cef100be3aa8418f31109cc",
+				"size": 988,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.23-alpha.tgz_1464151482743_0.3699603236746043"
+			},
+			"directories": {},
+			"publish_time": 1464151483218,
+			"_cnpm_publish_time": 1464151483218,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/deep-equal",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for deep-equal",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "remojansen",
+				"email": "https://github.com/remojansen"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-equal@0.0.22-alpha",
+			"_shasum": "a936b927cbae9c6718d8fdb25ff8e418323e268e",
+			"_from": "output\\deep-equal",
+			"_resolved": "file:output\\deep-equal",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a936b927cbae9c6718d8fdb25ff8e418323e268e",
+				"size": 987,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.22-alpha.tgz_1463772366578_0.22667599539272487"
+			},
+			"directories": {},
+			"publish_time": 1463772368674,
+			"_cnpm_publish_time": 1463772368674,
+			"_hasShrinkwrap": false
+		},
+		"0.0.17-alpha": {
+			"name": "@types/deep-equal",
+			"version": "0.0.17-alpha",
+			"description": "Type definitions for deep-equal from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "remojansen",
+				"email": "https://github.com/remojansen"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-equal@0.0.17-alpha",
+			"_shasum": "e6238c8da445bb5c16510804af9a1f10a6242f55",
+			"_from": "output\\deep-equal",
+			"_resolved": "file:output\\deep-equal",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e6238c8da445bb5c16510804af9a1f10a6242f55",
+				"size": 999,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.17-alpha.tgz_1463690339191_0.4007316497154534"
+			},
+			"directories": {},
+			"publish_time": 1463690341441,
+			"_cnpm_publish_time": 1463690341441,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/deep-equal",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for deep-equal from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "remojansen",
+				"email": "https://github.com/remojansen"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-equal@0.0.16-alpha",
+			"_shasum": "4a83a862510a24d4f44ae19203d73b0008d57f1b",
+			"_from": "output\\deep-equal",
+			"_resolved": "file:output\\deep-equal",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4a83a862510a24d4f44ae19203d73b0008d57f1b",
+				"size": 987,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-equal-0.0.16-alpha.tgz_1463460300393_0.9453617085237056"
+			},
+			"directories": {},
+			"publish_time": 1463460304026,
+			"_cnpm_publish_time": 1463460304026,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.1",
+		"ts2.0": "1.0.1",
+		"ts2.1": "1.0.1",
+		"ts2.2": "1.0.1",
+		"ts2.3": "1.0.1",
+		"ts2.4": "1.0.1",
+		"ts2.5": "1.0.1",
+		"ts2.6": "1.0.1",
+		"ts2.7": "1.0.1",
+		"ts2.8": "1.0.1",
+		"ts2.9": "1.0.1",
+		"ts3.0": "1.0.1",
+		"ts3.1": "1.0.1",
+		"ts3.2": "1.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:09:36.000Z",
+		"created": "2016-05-17T04:45:04.026Z",
+		"1.0.1": "2017-08-21T21:50:42.069Z",
+		"1.0.0": "2017-03-07T20:13:55.876Z",
+		"0.0.30": "2016-09-19T16:43:42.479Z",
+		"0.0.29": "2016-07-14T14:24:19.853Z",
+		"0.0.28-alpha": "2016-07-08T19:55:36.011Z",
+		"0.0.27-alpha": "2016-07-04T00:07:05.999Z",
+		"0.0.26-alpha": "2016-07-02T02:18:15.423Z",
+		"0.0.25-alpha": "2016-07-01T22:32:33.982Z",
+		"0.0.24-alpha": "2016-07-01T19:16:11.567Z",
+		"0.0.23-alpha": "2016-05-25T04:44:43.218Z",
+		"0.0.22-alpha": "2016-05-20T19:26:08.674Z",
+		"0.0.17-alpha": "2016-05-19T20:39:01.441Z",
+		"0.0.16-alpha": "2016-05-17T04:45:04.026Z"
+	},
+	"_distfiles": {
+		"deep-equal-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-1.0.1.tgz",
+			"sha": "71cfabb247c22bcc16d536111f50c0ed12476b03",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-1.0.0.tgz",
+			"sha": "9ebeaa73d1fc4791f038a5f1440e0449ea968495",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.30.tgz",
+			"sha": "c14df825c9201a1804980e7ebc3ef30e137bb64c",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.29.tgz",
+			"sha": "69134e262c04d142051bdfb08946dff73425a6c0",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.28-alpha.tgz",
+			"sha": "048b3c5242b23fcf303941c1efe3a119580fe036",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.27-alpha.tgz",
+			"sha": "95d7ef02902c56a520646234f6f9ccda74815fb2",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.26-alpha.tgz",
+			"sha": "ab3082678a5175069585dc43c06eab8f1889411c",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.25-alpha.tgz",
+			"sha": "32023482a13e54eedb9a8c21177bb02c070b2bd2",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.24-alpha.tgz",
+			"sha": "44ef778018c9149aaecd54e3e91b3db7a6d70fc8",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.23-alpha.tgz",
+			"sha": "83d78a12593fca862cef100be3aa8418f31109cc",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.22-alpha.tgz",
+			"sha": "a936b927cbae9c6718d8fdb25ff8e418323e268e",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.17-alpha.tgz",
+			"sha": "e6238c8da445bb5c16510804af9a1f10a6242f55",
+			"registry": "cnpmjs"
+		},
+		"deep-equal-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-equal/download/@types/deep-equal-0.0.16-alpha.tgz",
+			"sha": "4a83a862510a24d4f44ae19203d73b0008d57f1b",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833454252
+		}
+	},
+	"_rev": "2-92ebc1c586839f94",
+	"readme": "# Installation\r\n> `npm install --save @types/deep-equal`\r\n\r\n# Summary\r\nThis package contains type definitions for deep-equal (https://github.com/substack/node-deep-equal).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/deep-equal\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 21:49:18 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by remojansen <https://github.com/remojansen>, Jay Anslow <https://github.com/janslow>."
+}

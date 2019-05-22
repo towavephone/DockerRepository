@@ -1,0 +1,1163 @@
+{
+	"name": "@types/uglify-js",
+	"versions": {
+		"3.0.2": {
+			"name": "@types/uglify-js",
+			"version": "3.0.2",
+			"description": "TypeScript definitions for UglifyJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alan Agius",
+					"url": "https://github.com/alan-agius4",
+					"githubUsername": "alan-agius4"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"source-map": "^0.6.1"
+			},
+			"typesPublisherContentHash": "fa8d9a8afe8afd4716a541a645acb55a452dc591e9fcaa884425e667ec44676c",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uglify-js@3.0.2",
+			"dist": {
+				"shasum": "f30c75458d18e8ee885c792c04adcb78a13bc286",
+				"size": 4857,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-3.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uglify-js_3.0.2_1523304485556_0.5311615093636322"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523304485609,
+			"_cnpm_publish_time": 1523304485609
+		},
+		"3.0.1": {
+			"name": "@types/uglify-js",
+			"version": "3.0.1",
+			"description": "TypeScript definitions for UglifyJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alan Agius",
+					"url": "https://github.com/alan-agius4",
+					"githubUsername": "alan-agius4"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"source-map": "^0.6.1"
+			},
+			"typesPublisherContentHash": "cad4898dd64c3f006a18ff47ccea45f35829f1bb7bbd0353502d00bdf86a13a8",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uglify-js@3.0.1",
+			"dist": {
+				"shasum": "67ac6c68de963bc1540f0f191e87b67d85742fd8",
+				"size": 4848,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-3.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uglify-js_3.0.1_1522423222295_0.5666413299589645"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522423222382,
+			"_cnpm_publish_time": 1522423222382
+		},
+		"3.0.0": {
+			"name": "@types/uglify-js",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for UglifyJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alan Agius",
+					"url": "https://github.com/alan-agius4",
+					"githubUsername": "alan-agius4"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"source-map": "^0.6.1"
+			},
+			"typesPublisherContentHash": "54954746d05254374a08bf54c41f1112bace6a570f8483b29a52570e8b3687a4",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uglify-js@3.0.0",
+			"dist": {
+				"shasum": "b765cf23abdc6ab2a67f2b72a9e94a1d43c6432e",
+				"size": 4840,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uglify-js_3.0.0_1521754446752_0.11119154903625494"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521754447124,
+			"_cnpm_publish_time": 1521754447124
+		},
+		"2.6.31": {
+			"name": "@types/uglify-js",
+			"version": "2.6.31",
+			"description": "TypeScript definitions for UglifyJS 2",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"source-map": "^0.6.1"
+			},
+			"typesPublisherContentHash": "c97cda88d1df9a62a7d78eb819931b80d4147bb1d8878a45082c25f4319cce2b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/uglify-js@2.6.31",
+			"dist": {
+				"shasum": "c694755eeb6a1bb9f8f321f3ec37cc22ca4c4f6b",
+				"size": 6046,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.6.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uglify-js_2.6.31_1521754316040_0.9951966770957685"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521754316137,
+			"_cnpm_publish_time": 1521754316137
+		},
+		"2.6.30": {
+			"name": "@types/uglify-js",
+			"version": "2.6.30",
+			"description": "TypeScript definitions for UglifyJS 2",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"source-map": "^0.6.1"
+			},
+			"typesPublisherContentHash": "3c020eddbdb1813972e32fe1fa0789edf760292ea43749df81ad726ced17bc4f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/uglify-js@2.6.30",
+			"dist": {
+				"shasum": "257d2b6dd86673d60da476680fba90f2e30c6eef",
+				"size": 6049,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.6.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uglify-js-2.6.30.tgz_1514918816448_0.3754333215765655"
+			},
+			"directories": {},
+			"publish_time": 1514918816514,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514918816514
+		},
+		"2.6.29": {
+			"name": "@types/uglify-js",
+			"version": "2.6.29",
+			"description": "TypeScript definitions for UglifyJS 2",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/source-map": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "dbcde0e5ff247473ce94ba4591a3e5f10a28d10e5044a09529b79b648dbc3795",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/uglify-js@2.6.29",
+			"dist": {
+				"shasum": "521347f69e20201d218f5991ae66e10878afcf1a",
+				"size": 6035,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.6.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uglify-js-2.6.29.tgz_1496692772286_0.4204104703385383"
+			},
+			"directories": {},
+			"publish_time": 1496692772382,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496692772382
+		},
+		"2.6.28": {
+			"name": "@types/uglify-js",
+			"version": "2.6.28",
+			"description": "TypeScript definitions for UglifyJS 2 v2.6.1",
+			"license": "MIT",
+			"author": "Tanguy Krotoff <https://github.com/tkrotoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/source-map": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "de6c890ecdc58c43e2d5a06e7802d67b37c8bc1a736b7aa29fc905abdb80a678",
+			"_id": "@types/uglify-js@2.6.28",
+			"dist": {
+				"shasum": "1499b48ca3a44132250b318cdde25b8f45f0c616",
+				"size": 5544,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.6.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.6.28.tgz_1474308987585_0.0846729080658406"
+			},
+			"directories": {},
+			"publish_time": 1474308990843,
+			"_cnpm_publish_time": 1474308990843,
+			"_hasShrinkwrap": false
+		},
+		"2.0.27": {
+			"name": "@types/uglify-js",
+			"version": "2.0.27",
+			"description": "TypeScript definitions for UglifyJS 2 v2.6.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/source-map": "0.1.*"
+			},
+			"_id": "@types/uglify-js@2.0.27",
+			"_shasum": "c4bc105b56c8edec10493fcd92f295e834aad142",
+			"_from": "output\\uglify-js",
+			"_resolved": "file:output\\uglify-js",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c4bc105b56c8edec10493fcd92f295e834aad142",
+				"size": 5539,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.0.27.tgz_1468513014689_0.7917944877408445"
+			},
+			"directories": {},
+			"publish_time": 1468513018523,
+			"_cnpm_publish_time": 1468513018523,
+			"_hasShrinkwrap": false
+		},
+		"2.0.26-alpha": {
+			"name": "@types/uglify-js",
+			"version": "2.0.26-alpha",
+			"description": "TypeScript definitions for UglifyJS 2 v2.6.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/source-map": "0.1.25-alpha"
+			},
+			"_id": "@types/uglify-js@2.0.26-alpha",
+			"_shasum": "95235eb985a49b26d9c08a89ba8127b244bb2c87",
+			"_from": "output\\uglify-js",
+			"_resolved": "file:output\\uglify-js",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "95235eb985a49b26d9c08a89ba8127b244bb2c87",
+				"size": 5542,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.0.26-alpha.tgz_1468014332689_0.051955465925857425"
+			},
+			"directories": {},
+			"publish_time": 1468014334024,
+			"_cnpm_publish_time": 1468014334024,
+			"_hasShrinkwrap": false
+		},
+		"2.0.25-alpha": {
+			"name": "@types/uglify-js",
+			"version": "2.0.25-alpha",
+			"description": "TypeScript definitions for UglifyJS 2 v2.6.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/source-map": "0.1.24-alpha"
+			},
+			"_id": "@types/uglify-js@2.0.25-alpha",
+			"_shasum": "6ce767ae5caf9372af7b0d58aad726a53c928f34",
+			"_from": "output\\uglify-js",
+			"_resolved": "file:output\\uglify-js",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6ce767ae5caf9372af7b0d58aad726a53c928f34",
+				"size": 5542,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.0.25-alpha.tgz_1467595815775_0.05988792167045176"
+			},
+			"directories": {},
+			"publish_time": 1467595819447,
+			"_cnpm_publish_time": 1467595819447,
+			"_hasShrinkwrap": false
+		},
+		"2.0.24-alpha": {
+			"name": "@types/uglify-js",
+			"version": "2.0.24-alpha",
+			"description": "TypeScript definitions for UglifyJS 2 v2.6.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/source-map": "0.1.23-alpha"
+			},
+			"_id": "@types/uglify-js@2.0.24-alpha",
+			"_shasum": "423054590bd16139b3053ed219bac4e176fb8883",
+			"_from": "output\\uglify-js",
+			"_resolved": "file:output\\uglify-js",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "423054590bd16139b3053ed219bac4e176fb8883",
+				"size": 5542,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.0.24-alpha.tgz_1467430655604_0.1315778244752437"
+			},
+			"directories": {},
+			"publish_time": 1467430659051,
+			"_cnpm_publish_time": 1467430659051,
+			"_hasShrinkwrap": false
+		},
+		"2.0.23-alpha": {
+			"name": "@types/uglify-js",
+			"version": "2.0.23-alpha",
+			"description": "TypeScript definitions for UglifyJS 2 v2.6.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/source-map": "0.1.22-alpha"
+			},
+			"_id": "@types/uglify-js@2.0.23-alpha",
+			"_shasum": "61f460200c65f65276563e09bbecea86089e3970",
+			"_from": "output\\uglify-js",
+			"_resolved": "file:output\\uglify-js",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "61f460200c65f65276563e09bbecea86089e3970",
+				"size": 5544,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.0.23-alpha.tgz_1467418436281_0.6379949753172696"
+			},
+			"directories": {},
+			"publish_time": 1467418438379,
+			"_cnpm_publish_time": 1467418438379,
+			"_hasShrinkwrap": false
+		},
+		"2.0.22-alpha": {
+			"name": "@types/uglify-js",
+			"version": "2.0.22-alpha",
+			"description": "TypeScript definitions for UglifyJS 2 v2.6.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/source-map": "0.1.*"
+			},
+			"_id": "@types/uglify-js@2.0.22-alpha",
+			"_shasum": "142c752a42805980612bc68ff337e481b5398eee",
+			"_from": "output\\uglify-js",
+			"_resolved": "file:output\\uglify-js",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "142c752a42805980612bc68ff337e481b5398eee",
+				"size": 5521,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.0.22-alpha.tgz_1467406346912_0.9431614659260958"
+			},
+			"directories": {},
+			"publish_time": 1467406349054,
+			"_cnpm_publish_time": 1467406349054,
+			"_hasShrinkwrap": false
+		},
+		"2.0.21-alpha": {
+			"name": "@types/uglify-js",
+			"version": "2.0.21-alpha",
+			"description": "TypeScript definitions for UglifyJS 2 v2.6.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/source-map": "*"
+			},
+			"_id": "@types/uglify-js@2.0.21-alpha",
+			"_shasum": "35eb1707c1295c4c00cc6fcf043f6b3ea9e92233",
+			"_from": "output\\uglify-js",
+			"_resolved": "file:output\\uglify-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "35eb1707c1295c4c00cc6fcf043f6b3ea9e92233",
+				"size": 5508,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.0.21-alpha.tgz_1464156359428_0.09963282872922719"
+			},
+			"directories": {},
+			"publish_time": 1464156361918,
+			"_cnpm_publish_time": 1464156361918,
+			"_hasShrinkwrap": false
+		},
+		"2.0.20-alpha": {
+			"name": "@types/uglify-js",
+			"version": "2.0.20-alpha",
+			"description": "TypeScript definitions for UglifyJS 2 v2.6.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/source-map": "*"
+			},
+			"_id": "@types/uglify-js@2.0.20-alpha",
+			"_shasum": "b20a9f77665d3607e76410b52a59ace8f6f34bec",
+			"_from": "output\\uglify-js",
+			"_resolved": "file:output\\uglify-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b20a9f77665d3607e76410b52a59ace8f6f34bec",
+				"size": 5508,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.0.20-alpha.tgz_1463777450770_0.3113800336141139"
+			},
+			"directories": {},
+			"publish_time": 1463777453062,
+			"_cnpm_publish_time": 1463777453062,
+			"_hasShrinkwrap": false
+		},
+		"2.0.15-alpha": {
+			"name": "@types/uglify-js",
+			"version": "2.0.15-alpha",
+			"description": "Type definitions for UglifyJS 2 v2.6.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"source-map": "*",
+				"@types/source-map": "*"
+			},
+			"_id": "@types/uglify-js@2.0.15-alpha",
+			"_shasum": "636a4697b527ccf5b0a138f852b4e3bc8b36a1e0",
+			"_from": "output\\uglify-js",
+			"_resolved": "file:output\\uglify-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "636a4697b527ccf5b0a138f852b4e3bc8b36a1e0",
+				"size": 5520,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.0.15-alpha.tgz_1463697417381_0.4495499737095088"
+			},
+			"directories": {},
+			"publish_time": 1463697418098,
+			"_cnpm_publish_time": 1463697418098,
+			"_hasShrinkwrap": false
+		},
+		"2.0.14-alpha": {
+			"name": "@types/uglify-js",
+			"version": "2.0.14-alpha",
+			"description": "Type definitions for UglifyJS 2 v2.6.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"source-map": "*",
+				"@types/source-map": "*"
+			},
+			"_id": "@types/uglify-js@2.0.14-alpha",
+			"_shasum": "ab589becc278181e5dbefe55c6b611ac560d9df3",
+			"_from": "output\\uglify-js",
+			"_resolved": "file:output\\uglify-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ab589becc278181e5dbefe55c6b611ac560d9df3",
+				"size": 5504,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uglify-js-2.0.14-alpha.tgz_1463512121890_0.9470034129917622"
+			},
+			"directories": {},
+			"publish_time": 1463512126099,
+			"_cnpm_publish_time": 1463512126099,
+			"_hasShrinkwrap": false
+		},
+		"3.0.4": {
+			"name": "@types/uglify-js",
+			"version": "3.0.4",
+			"description": "TypeScript definitions for UglifyJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alan Agius",
+					"url": "https://github.com/alan-agius4",
+					"githubUsername": "alan-agius4"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				},
+				{
+					"name": "John Reilly",
+					"url": "https://github.com/johnnyreilly",
+					"githubUsername": "johnnyreilly"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"source-map": "^0.6.1"
+			},
+			"typesPublisherContentHash": "981479abad73c634cb98f4f02450ad0f32ea13c5ec2ebde9a6d01d4daa3bcd6e",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uglify-js@3.0.4",
+			"dist": {
+				"shasum": "96beae23df6f561862a830b4288a49e86baac082",
+				"size": 4894,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-3.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uglify-js_3.0.4_1539624227357_0.9980424715465064"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539624227474,
+			"_cnpm_publish_time": 1539624227474
+		},
+		"2.6.32": {
+			"name": "@types/uglify-js",
+			"version": "2.6.32",
+			"description": "TypeScript definitions for UglifyJS 2",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"source-map": "^0.6.1"
+			},
+			"typesPublisherContentHash": "2648448e7f7b93e3700ab7c8a36a5b37da09040535cf678535cbc825544fbb59",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/uglify-js@2.6.32",
+			"dist": {
+				"shasum": "1b60906946fcf6ee4ceafa812d2b86f1358da904",
+				"size": 6048,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.6.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uglify-js_2.6.32_1539624221802_0.8982018416793816"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539624221901,
+			"_cnpm_publish_time": 1539624221901
+		},
+		"3.0.3": {
+			"name": "@types/uglify-js",
+			"version": "3.0.3",
+			"description": "TypeScript definitions for UglifyJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alan Agius",
+					"url": "https://github.com/alan-agius4",
+					"githubUsername": "alan-agius4"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				},
+				{
+					"name": "John Reilly",
+					"url": "https://github.com/johnnyreilly",
+					"githubUsername": "johnnyreilly"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"source-map": "^0.6.1"
+			},
+			"typesPublisherContentHash": "1e48b07c8913482ab04d25a42a0d1de69d0f541ef98378524f192784bf976521",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uglify-js@3.0.3",
+			"dist": {
+				"shasum": "801a5ca1dc642861f47c46d14b700ed2d610840b",
+				"size": 4899,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-3.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uglify-js_3.0.3_1531531010305_0.33857899457918217"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1531531010388,
+			"_cnpm_publish_time": 1531531010388
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.4",
+		"ts2.0": "2.6.30",
+		"ts2.1": "2.6.30",
+		"ts2.2": "3.0.4",
+		"ts2.3": "3.0.4",
+		"ts2.4": "3.0.4",
+		"ts2.5": "3.0.4",
+		"ts2.6": "3.0.4",
+		"ts2.7": "3.0.4",
+		"ts2.8": "3.0.4",
+		"ts2.9": "3.0.4",
+		"ts3.0": "3.0.4",
+		"ts3.1": "3.0.4",
+		"ts3.2": "3.0.4"
+	},
+	"time": {
+		"modified": "2018-10-15T17:24:24.000Z",
+		"created": "2016-05-17T19:08:46.099Z",
+		"3.0.4": "2018-10-15T17:23:47.474Z",
+		"2.6.32": "2018-10-15T17:23:41.901Z",
+		"3.0.3": "2018-07-14T01:16:50.388Z",
+		"3.0.2": "2018-04-09T20:08:05.609Z",
+		"3.0.1": "2018-03-30T15:20:22.382Z",
+		"3.0.0": "2018-03-22T21:34:07.124Z",
+		"2.6.31": "2018-03-22T21:31:56.137Z",
+		"2.6.30": "2018-01-02T18:46:56.514Z",
+		"2.6.29": "2017-06-05T19:59:32.382Z",
+		"2.6.28": "2016-09-19T18:16:30.843Z",
+		"2.0.27": "2016-07-14T16:16:58.523Z",
+		"2.0.26-alpha": "2016-07-08T21:45:34.024Z",
+		"2.0.25-alpha": "2016-07-04T01:30:19.447Z",
+		"2.0.24-alpha": "2016-07-02T03:37:39.051Z",
+		"2.0.23-alpha": "2016-07-02T00:13:58.379Z",
+		"2.0.22-alpha": "2016-07-01T20:52:29.054Z",
+		"2.0.21-alpha": "2016-05-25T06:06:01.918Z",
+		"2.0.20-alpha": "2016-05-20T20:50:53.062Z",
+		"2.0.15-alpha": "2016-05-19T22:36:58.098Z",
+		"2.0.14-alpha": "2016-05-17T19:08:46.099Z"
+	},
+	"_distfiles": {
+		"uglify-js-3.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-3.0.2.tgz",
+			"sha": "f30c75458d18e8ee885c792c04adcb78a13bc286",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-3.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-3.0.1.tgz",
+			"sha": "67ac6c68de963bc1540f0f191e87b67d85742fd8",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-3.0.0.tgz",
+			"sha": "b765cf23abdc6ab2a67f2b72a9e94a1d43c6432e",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.6.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.6.31.tgz",
+			"sha": "c694755eeb6a1bb9f8f321f3ec37cc22ca4c4f6b",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.6.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.6.30.tgz",
+			"sha": "257d2b6dd86673d60da476680fba90f2e30c6eef",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.6.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.6.29.tgz",
+			"sha": "521347f69e20201d218f5991ae66e10878afcf1a",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.6.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.6.28.tgz",
+			"sha": "1499b48ca3a44132250b318cdde25b8f45f0c616",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.27.tgz",
+			"sha": "c4bc105b56c8edec10493fcd92f295e834aad142",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.26-alpha.tgz",
+			"sha": "95235eb985a49b26d9c08a89ba8127b244bb2c87",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.25-alpha.tgz",
+			"sha": "6ce767ae5caf9372af7b0d58aad726a53c928f34",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.24-alpha.tgz",
+			"sha": "423054590bd16139b3053ed219bac4e176fb8883",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.23-alpha.tgz",
+			"sha": "61f460200c65f65276563e09bbecea86089e3970",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.22-alpha.tgz",
+			"sha": "142c752a42805980612bc68ff337e481b5398eee",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.21-alpha.tgz",
+			"sha": "35eb1707c1295c4c00cc6fcf043f6b3ea9e92233",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.20-alpha.tgz",
+			"sha": "b20a9f77665d3607e76410b52a59ace8f6f34bec",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.15-alpha.tgz",
+			"sha": "636a4697b527ccf5b0a138f852b4e3bc8b36a1e0",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.0.14-alpha.tgz",
+			"sha": "ab589becc278181e5dbefe55c6b611ac560d9df3",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-3.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-3.0.4.tgz",
+			"sha": "96beae23df6f561862a830b4288a49e86baac082",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-2.6.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-2.6.32.tgz",
+			"sha": "1b60906946fcf6ee4ceafa812d2b86f1358da904",
+			"registry": "cnpmjs"
+		},
+		"uglify-js-3.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uglify-js/download/@types/uglify-js-3.0.3.tgz",
+			"sha": "801a5ca1dc642861f47c46d14b700ed2d610840b",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"62c5-lGcRibMNB42eQ1OCZss2h4t+okY\"",
+			"fetched": 1541833489575
+		}
+	},
+	"_rev": "4-668f8ae2d8d62b9f",
+	"readme": "# Installation\r\n> `npm install --save @types/uglify-js`\r\n\r\n# Summary\r\nThis package contains type definitions for UglifyJS (https://github.com/mishoo/UglifyJS2).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/uglify-js\r\n\r\nAdditional Details\r\n * Last updated: Mon, 15 Oct 2018 17:21:49 GMT\r\n * Dependencies: source-map\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Alan Agius <https://github.com/alan-agius4>, Tanguy Krotoff <https://github.com/tkrotoff>, John Reilly <https://github.com/johnnyreilly>."
+}

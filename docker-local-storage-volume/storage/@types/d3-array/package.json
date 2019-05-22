@@ -1,0 +1,991 @@
+{
+	"name": "@types/d3-array",
+	"versions": {
+		"1.2.4": {
+			"name": "@types/d3-array",
+			"version": "1.2.4",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "denisname",
+					"url": "https://github.com/denisname",
+					"githubUsername": "denisname"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "aac0e44d5abb52584530cc0fe567a70dcd0587d084bed2cee92ef8a81cd9bf9b",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/d3-array@1.2.4",
+			"dist": {
+				"shasum": "7088445c8717ba1fba416a1df7bbd11cc72a3763",
+				"size": 5522,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-array_1.2.4_1539643734750_0.25302677913727445"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539643734864,
+			"_cnpm_publish_time": 1539643734864
+		},
+		"1.2.3": {
+			"name": "@types/d3-array",
+			"version": "1.2.3",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "denisname",
+					"url": "https://github.com/denisname",
+					"githubUsername": "denisname"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e45e908a3dae0d07d704946fb66eca5c91a77a665ca6b6470dd7f2d850e39370",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/d3-array@1.2.3",
+			"dist": {
+				"shasum": "dd141e3ba311485fffbf0792a1b01a7f2ec12dc1",
+				"size": 5340,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-array_1.2.3_1539013213045_0.03711751481179393"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539013213242,
+			"_cnpm_publish_time": 1539013213242
+		},
+		"1.2.2": {
+			"name": "@types/d3-array",
+			"version": "1.2.2",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "3940b29cf2318578365d54435a06a402af92d2f696d540ffec7e757f4c3ea62a",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/d3-array@1.2.2",
+			"dist": {
+				"shasum": "29edf3e2001e5f4e33e899fcda52ee2387401792",
+				"size": 4999,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-array_1.2.2_1538051850647_0.6498373975845124"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538051850859,
+			"_cnpm_publish_time": 1538051850859
+		},
+		"1.2.1": {
+			"name": "@types/d3-array",
+			"version": "1.2.1",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				},
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "58954151e1383f2fe7ca687c16d2b0351ae510beeaad3f21cfe6bd81714c27e7",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-array@1.2.1",
+			"dist": {
+				"shasum": "e489605208d46a1c9d980d2e5772fa9c75d9ec65",
+				"size": 4972,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-array-1.2.1.tgz_1501768695338_0.7100864090025425"
+			},
+			"directories": {},
+			"publish_time": 1501768696364,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501768696364
+		},
+		"1.2.0": {
+			"name": "@types/d3-array",
+			"version": "1.2.0",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				},
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "916bf1a6e2d159a476b512da31604b55d86e4f5ef702a5dc0b45eb32055f0385",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-array@1.2.0",
+			"dist": {
+				"shasum": "9b1fc3202fc1a9f7da0f2873bd38b443137a9d34",
+				"size": 4853,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-array-1.2.0.tgz_1493138934906_0.3422219958156347"
+			},
+			"directories": {},
+			"publish_time": 1493138936735,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493138936735
+		},
+		"1.1.3": {
+			"name": "@types/d3-array",
+			"version": "1.1.3",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				},
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1257bf0c82c9fa755741188377be1b7b6d305a016f5de374c9b766cde9e3c0ca",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-array@1.1.3",
+			"dist": {
+				"shasum": "9195398b8bfc6189b2bdc9c4b13050591c52cb0b",
+				"size": 4299,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-array-1.1.3.tgz_1492451724808_0.8788218619301915"
+			},
+			"directories": {},
+			"publish_time": 1492451725033,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492451725033
+		},
+		"1.1.2": {
+			"name": "@types/d3-array",
+			"version": "1.1.2",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				},
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e16ea69dc9d817cfefd3f7c0632ed4da0f5b9c7b95f7c17ab541de428cfa9def",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-array@1.1.2",
+			"dist": {
+				"shasum": "f4e572488c09780f95b4dab33a880c3e56d4390a",
+				"size": 3603,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-array-1.1.2.tgz_1490909422802_0.8055909909307957"
+			},
+			"directories": {},
+			"publish_time": 1490909427639,
+			"_cnpm_publish_time": 1490909427639,
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "@types/d3-array",
+			"version": "1.1.1",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				},
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f2c2822eb98ff0b2773c9049b2d9d513496cee2a32447614a1f68a1ebf94686b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-array@1.1.1",
+			"dist": {
+				"shasum": "11845239ae973849857a031530af77b970b9ff09",
+				"size": 3613,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-array-1.1.1.tgz_1490370109335_0.30787236616015434"
+			},
+			"directories": {},
+			"publish_time": 1490370109617,
+			"_cnpm_publish_time": 1490370109617,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "@types/d3-array",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				},
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "37fecaca0a42dccd30cf6e96d78892716deece25f620e6296fd2fe5a1edcca75",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-array@1.1.0",
+			"dist": {
+				"shasum": "4005d3d66df307c4f1d253b15a24fc6efc3bfbc8",
+				"size": 3614,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-array-1.1.0.tgz_1489018834670_0.38035027612932026"
+			},
+			"directories": {},
+			"publish_time": 1489018836648,
+			"_cnpm_publish_time": 1489018836648,
+			"_hasShrinkwrap": false
+		},
+		"1.0.8": {
+			"name": "@types/d3-array",
+			"version": "1.0.8",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				},
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e4e37d13e0f28ec6970b761c95aa651254aea597d8d858c0171b45f972603a61",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-array@1.0.8",
+			"dist": {
+				"shasum": "51e8a5d2971737b248095d6620892787f4a932ca",
+				"size": 3596,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-array-1.0.8.tgz_1487577190148_0.4050968252122402"
+			},
+			"directories": {},
+			"publish_time": 1487577191884,
+			"_cnpm_publish_time": 1487577191884,
+			"_hasShrinkwrap": false
+		},
+		"1.0.7": {
+			"name": "@types/d3-array",
+			"version": "1.0.7",
+			"description": "TypeScript definitions for D3JS d3-array module",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "76a78e5e4fac796658a5e3b03b8be648a41fbf8740ac303cc3a1ec90db4213ce",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-array@1.0.7",
+			"dist": {
+				"shasum": "eb5a4ffaa249ea077812321af63c51c432ccfc10",
+				"size": 3502,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-array-1.0.7.tgz_1484932685080_0.2617230999749154"
+			},
+			"directories": {},
+			"publish_time": 1484932685323,
+			"_cnpm_publish_time": 1484932685323,
+			"_hasShrinkwrap": false
+		},
+		"1.0.6": {
+			"name": "@types/d3-array",
+			"version": "1.0.6",
+			"description": "TypeScript definitions for D3JS d3-array module v1.0.1",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "a48d2b1abd6ce20f690a7433e5018da22b383ceb3a673f1debeea87d231995a4",
+			"_id": "@types/d3-array@1.0.6",
+			"dist": {
+				"shasum": "f3c02ed26f2921fd018ad7c1f8cb4ba841557c89",
+				"size": 3514,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-array-1.0.6.tgz_1478005074457_0.35006124805659056"
+			},
+			"directories": {},
+			"publish_time": 1478005076024,
+			"_cnpm_publish_time": 1478005076024,
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "@types/d3-array",
+			"version": "1.0.5",
+			"description": "TypeScript definitions for D3JS d3-array module v1.0.1",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "684453380f95838423b015a2c5f755cc8f168a2810039255262b1225b7f7fc35",
+			"_id": "@types/d3-array@1.0.5",
+			"dist": {
+				"shasum": "f9bf57a9e67cb2b694da04ec86f199cceb973e42",
+				"size": 3513,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-array-1.0.5.tgz_1473880822803_0.2950540359597653"
+			},
+			"directories": {},
+			"publish_time": 1473880825004,
+			"_cnpm_publish_time": 1473880825004,
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "@types/d3-array",
+			"version": "1.0.4",
+			"description": "TypeScript definitions for D3JS d3-array module v1.0.1",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "684453380f95838423b015a2c5f755cc8f168a2810039255262b1225b7f7fc35",
+			"_id": "@types/d3-array@1.0.4",
+			"dist": {
+				"shasum": "7ca54fdee7ea3442a0f83aa99907bf6eba81cbdb",
+				"size": 3513,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-array-1.0.4.tgz_1473706827485_0.22863508225418627"
+			},
+			"directories": {},
+			"publish_time": 1473706830504,
+			"_cnpm_publish_time": 1473706830504,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/d3-array",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for D3JS d3-array module 1.0.0",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-array@0.0.3",
+			"dist": {
+				"shasum": "6e3f7d636ccb63a7acf4dc504fa390ce2ec7d5f3",
+				"size": 3495,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-array-0.0.3.tgz_1472150288420_0.43066225410439074"
+			},
+			"directories": {},
+			"publish_time": 1472150290165,
+			"_cnpm_publish_time": 1472150290165,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/d3-array",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for D3JS d3-array module 1.0.0",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-array@0.0.2",
+			"dist": {
+				"shasum": "96f109a8e48a1de4143ca9be874d3cc2f4d9192a",
+				"size": 3494,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-array-0.0.2.tgz_1471888605090_0.49877895205281675"
+			},
+			"directories": {},
+			"publish_time": 1471888608416,
+			"_cnpm_publish_time": 1471888608416,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/d3-array",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for D3JS d3-array module 1.0.0",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-array@0.0.1",
+			"dist": {
+				"shasum": "e6053b2410add18497433353e12a93b131ffbb28",
+				"size": 3503,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-array-0.0.1.tgz_1470688505831_0.14031249354593456"
+			},
+			"directories": {},
+			"publish_time": 1470688506072,
+			"_cnpm_publish_time": 1470688506072,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.4",
+		"ts2.0": "1.2.1",
+		"ts2.1": "1.2.1",
+		"ts2.2": "1.2.1",
+		"ts2.3": "1.2.4",
+		"ts2.4": "1.2.4",
+		"ts2.5": "1.2.4",
+		"ts2.6": "1.2.4",
+		"ts2.7": "1.2.4",
+		"ts2.8": "1.2.4",
+		"ts2.9": "1.2.4",
+		"ts3.0": "1.2.4",
+		"ts3.1": "1.2.4",
+		"ts3.2": "1.2.4"
+	},
+	"time": {
+		"modified": "2018-10-15T22:49:08.000Z",
+		"created": "2016-08-08T20:35:06.072Z",
+		"1.2.4": "2018-10-15T22:48:54.864Z",
+		"1.2.3": "2018-10-08T15:40:13.242Z",
+		"1.2.2": "2018-09-27T12:37:30.859Z",
+		"1.2.1": "2017-08-03T13:58:16.364Z",
+		"1.2.0": "2017-04-25T16:48:56.735Z",
+		"1.1.3": "2017-04-17T17:55:25.033Z",
+		"1.1.2": "2017-03-30T21:30:27.639Z",
+		"1.1.1": "2017-03-24T15:41:49.617Z",
+		"1.1.0": "2017-03-09T00:20:36.648Z",
+		"1.0.8": "2017-02-20T07:53:11.884Z",
+		"1.0.7": "2017-01-20T17:18:05.323Z",
+		"1.0.6": "2016-11-01T12:57:56.024Z",
+		"1.0.5": "2016-09-14T19:20:25.004Z",
+		"1.0.4": "2016-09-12T19:00:30.504Z",
+		"0.0.3": "2016-08-25T18:38:10.165Z",
+		"0.0.2": "2016-08-22T17:56:48.416Z",
+		"0.0.1": "2016-08-08T20:35:06.072Z"
+	},
+	"_distfiles": {
+		"d3-array-1.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.2.4.tgz",
+			"sha": "7088445c8717ba1fba416a1df7bbd11cc72a3763",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.2.3.tgz",
+			"sha": "dd141e3ba311485fffbf0792a1b01a7f2ec12dc1",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.2.2.tgz",
+			"sha": "29edf3e2001e5f4e33e899fcda52ee2387401792",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.2.1.tgz",
+			"sha": "e489605208d46a1c9d980d2e5772fa9c75d9ec65",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.2.0.tgz",
+			"sha": "9b1fc3202fc1a9f7da0f2873bd38b443137a9d34",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.1.3.tgz",
+			"sha": "9195398b8bfc6189b2bdc9c4b13050591c52cb0b",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.1.2.tgz",
+			"sha": "f4e572488c09780f95b4dab33a880c3e56d4390a",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.1.1.tgz",
+			"sha": "11845239ae973849857a031530af77b970b9ff09",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.1.0.tgz",
+			"sha": "4005d3d66df307c4f1d253b15a24fc6efc3bfbc8",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.0.8.tgz",
+			"sha": "51e8a5d2971737b248095d6620892787f4a932ca",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.0.7.tgz",
+			"sha": "eb5a4ffaa249ea077812321af63c51c432ccfc10",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.0.6.tgz",
+			"sha": "f3c02ed26f2921fd018ad7c1f8cb4ba841557c89",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.0.5.tgz",
+			"sha": "f9bf57a9e67cb2b694da04ec86f199cceb973e42",
+			"registry": "cnpmjs"
+		},
+		"d3-array-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-1.0.4.tgz",
+			"sha": "7ca54fdee7ea3442a0f83aa99907bf6eba81cbdb",
+			"registry": "cnpmjs"
+		},
+		"d3-array-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-0.0.3.tgz",
+			"sha": "6e3f7d636ccb63a7acf4dc504fa390ce2ec7d5f3",
+			"registry": "cnpmjs"
+		},
+		"d3-array-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-0.0.2.tgz",
+			"sha": "96f109a8e48a1de4143ca9be874d3cc2f4d9192a",
+			"registry": "cnpmjs"
+		},
+		"d3-array-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-array/download/@types/d3-array-0.0.1.tgz",
+			"sha": "e6053b2410add18497433353e12a93b131ffbb28",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"564a-W9JhP/UVqLfkrcnYq3Pk8cDi5X8\"",
+			"fetched": 1541833453663
+		}
+	},
+	"_rev": "1-f89a9347ba398440",
+	"readme": "# Installation\r\n> `npm install --save @types/d3-array`\r\n\r\n# Summary\r\nThis package contains type definitions for D3JS d3-array module (https://github.com/d3/d3-array).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/d3-array\r\n\r\nAdditional Details\r\n * Last updated: Mon, 15 Oct 2018 22:47:50 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>, denisname <https://github.com/denisname>."
+}

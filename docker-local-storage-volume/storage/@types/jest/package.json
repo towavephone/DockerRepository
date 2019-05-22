@@ -1,0 +1,7026 @@
+{
+	"name": "@types/jest",
+	"versions": {
+		"23.0.0": {
+			"name": "@types/jest",
+			"version": "23.0.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Bradley Ayers",
+					"url": "https://github.com/bradleyayers",
+					"githubUsername": "bradleyayers"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "9265f5b6ff4eeb9651a71bfa04ff40c371ef6ee05bce75482b4f49f15724a0b0",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.0.0",
+			"dist": {
+				"shasum": "760cac74f00bb9c3075587716d2b3b4435663bc0",
+				"size": 11228,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.0.0_1527890578211_0.27265301266406916"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527890578294,
+			"_cnpm_publish_time": 1527890578294
+		},
+		"22.2.3": {
+			"name": "@types/jest",
+			"version": "22.2.3",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Bradley Ayers",
+					"url": "https://github.com/bradleyayers",
+					"githubUsername": "bradleyayers"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "8ed1cbaa1a14bef2fdb2514bb3d972a6d9b6dc2d477846e158196fa69830576b",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.2.3",
+			"dist": {
+				"shasum": "0157c0316dc3722c43a7b71de3fdf3acbccef10d",
+				"size": 11268,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_22.2.3_1523473984042_0.7171078343767503"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523473984094,
+			"_cnpm_publish_time": 1523473984094
+		},
+		"22.2.2": {
+			"name": "@types/jest",
+			"version": "22.2.2",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Bradley Ayers",
+					"url": "https://github.com/bradleyayers",
+					"githubUsername": "bradleyayers"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "bfda160e165e33443f1a455f183129ea57b5935829170976d7f70205c7abff3d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.2.2",
+			"dist": {
+				"shasum": "afe5dacbd00d65325f52da0ed3e76e259629ac9d",
+				"size": 11245,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_22.2.2_1521754191380_0.4606291008808465"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521754191447,
+			"_cnpm_publish_time": 1521754191447
+		},
+		"22.2.1": {
+			"name": "@types/jest",
+			"version": "22.2.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "0cf5810c7a9bfb0e63ccd315fcb4ffc8ac81727f530795c69f1fb097b5976aa6",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.2.1",
+			"dist": {
+				"shasum": "fe798757afc13880e03e3644a3448d7b3dd878d8",
+				"size": 11195,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_22.2.1_1521741213832_0.6651921280867028"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521741213951,
+			"_cnpm_publish_time": 1521741213951
+		},
+		"22.2.0": {
+			"name": "@types/jest",
+			"version": "22.2.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "45a26fd8b0de46bebd520b76b56c22c046b48cacf497f729c8679f05278b1d53",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.2.0",
+			"dist": {
+				"shasum": "55ce83139f7ad1b48b414c3927746614c6963c0f",
+				"size": 11126,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_22.2.0_1520294890461_0.5524472067324437"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520294890547,
+			"_cnpm_publish_time": 1520294890547
+		},
+		"22.1.4": {
+			"name": "@types/jest",
+			"version": "22.1.4",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d06111e50163da08765a236159de00773de2237f9c0eb77eac25e6607e04b28c",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.1.4",
+			"dist": {
+				"shasum": "5c0c06a9bb495c67e0a78002a952f151e2ae58a1",
+				"size": 11090,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_22.1.4_1519849876216_0.7582191896362385"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1519849876313,
+			"_cnpm_publish_time": 1519849876313
+		},
+		"22.1.3": {
+			"name": "@types/jest",
+			"version": "22.1.3",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d3c1fd78985e49c0af3194ddc351bf0f5b782d7eea5e35ba805e3e585fbf3abd",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.1.3",
+			"dist": {
+				"shasum": "25da391935e6fac537551456f077ce03144ec168",
+				"size": 11076,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_22.1.3_1518834770348_0.8716817348539065"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518834770411,
+			"_cnpm_publish_time": 1518834770411
+		},
+		"22.1.2": {
+			"name": "@types/jest",
+			"version": "22.1.2",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7532ccb4a2b04cd1421ecffa291693da444a936dab3d414d04ee685a9b82c7ca",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.1.2",
+			"dist": {
+				"shasum": "813a79ec98221633845627636dbc606f31220dbc",
+				"size": 11105,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_22.1.2_1518190150938_0.8374654650418256"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518190151032,
+			"_cnpm_publish_time": 1518190151032
+		},
+		"22.1.1": {
+			"name": "@types/jest",
+			"version": "22.1.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "f3ee5956063fbccc0d5fdfc87fdec0f916393cb0ccf4113243558ac815e0981e",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.1.1",
+			"dist": {
+				"shasum": "231d7c60ed130200af9e96c82469ed25b59a7ea2",
+				"size": 10951,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-22.1.1.tgz_1517260812980_0.1674102784600109"
+			},
+			"directories": {},
+			"publish_time": 1517260813631,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1517260813631
+		},
+		"22.1.0": {
+			"name": "@types/jest",
+			"version": "22.1.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7532ccb4a2b04cd1421ecffa291693da444a936dab3d414d04ee685a9b82c7ca",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.1.0",
+			"dist": {
+				"shasum": "c1de03bbac66fac4cc741f7a69cb73bc01a1707c",
+				"size": 11076,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-22.1.0.tgz_1516737979912_0.5719583393074572"
+			},
+			"directories": {},
+			"publish_time": 1516737980478,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1516737980478
+		},
+		"22.0.1": {
+			"name": "@types/jest",
+			"version": "22.0.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7079cbae4e26980c99ddae2c429f0055915d1af8fd338a49aa5cd0cfaef79e3f",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.0.1",
+			"dist": {
+				"shasum": "6370a6d60cce3845e4cd5d00bf65f654264685bc",
+				"size": 11034,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-22.0.1.tgz_1515108398484_0.24103096406906843"
+			},
+			"directories": {},
+			"publish_time": 1515108398571,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515108398571
+		},
+		"22.0.0": {
+			"name": "@types/jest",
+			"version": "22.0.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "fa224b273b30717a3ad793d8be8134ae027b60d2ae81f579d613522ea3d551a2",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@22.0.0",
+			"dist": {
+				"shasum": "23009941178aad7979a9591e026f7a96054d7bc0",
+				"size": 11018,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-22.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-22.0.0.tgz_1514505533028_0.39732726546935737"
+			},
+			"directories": {},
+			"publish_time": 1514505533118,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514505533118
+		},
+		"21.1.10": {
+			"name": "@types/jest",
+			"version": "21.1.10",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "4272a9b4836d288c1bf50d72bc38a852d6039b32fd106c1986aec0ddb1ec8e6e",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@21.1.10",
+			"dist": {
+				"shasum": "dcacb5217ddf997a090cc822bba219b4b2fd7984",
+				"size": 10910,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.10.tgz_1514427892737_0.2905606240965426"
+			},
+			"directories": {},
+			"publish_time": 1514427892850,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514427892850
+		},
+		"16.0.8": {
+			"name": "@types/jest",
+			"version": "16.0.8",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "5305db1114c86e55bb791f387ba85fe55be47487f60d1b51190f89e0cd30ad47",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/jest@16.0.8",
+			"dist": {
+				"shasum": "ce661d12bc446e3b823394ddc9b4675f4318139c",
+				"size": 4950,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-16.0.8.tgz_1514427676308_0.061923212837427855"
+			},
+			"directories": {},
+			"publish_time": 1514427676383,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514427676383
+		},
+		"21.1.9": {
+			"name": "@types/jest",
+			"version": "21.1.9",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "79c335f378fa4688a0dc80c88530d2cb724fe0bc77d0a1de7b82c3cae176409e",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@21.1.9",
+			"dist": {
+				"shasum": "a913d6224e9d8a1f24908af536f65b5bf4d489bc",
+				"size": 10929,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.9.tgz_1513781463937_0.30865088338032365"
+			},
+			"directories": {},
+			"publish_time": 1513781464013,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513781464013
+		},
+		"21.1.8": {
+			"name": "@types/jest",
+			"version": "21.1.8",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7b6bb1f9a8f8bea89e575667422d05fa207fa3cb83a806c700fa9d0200987056",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@21.1.8",
+			"dist": {
+				"shasum": "d497213725684f1e5a37900b17a47c9c018f1a97",
+				"size": 10884,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.8.tgz_1511403029318_0.7452900735661387"
+			},
+			"directories": {},
+			"publish_time": 1511403029414,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511403029414
+		},
+		"21.1.7": {
+			"name": "@types/jest",
+			"version": "21.1.7",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "677b2b407e372ff4d325b650fe09a513b8306dcbd64372d3588d78b4e47bf89d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@21.1.7",
+			"dist": {
+				"shasum": "af148f4fd2cb54e3fceba7b9f2162122ca2bfb28",
+				"size": 10777,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.7.tgz_1511289788444_0.1733952695503831"
+			},
+			"directories": {},
+			"publish_time": 1511289788567,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511289788567
+		},
+		"21.1.6": {
+			"name": "@types/jest",
+			"version": "21.1.6",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b861c43b3ec116a08da01175458cc4640978a73b782068bf6917e7bd33e0ae99",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@21.1.6",
+			"dist": {
+				"shasum": "9467945ce33261e4fdd14276576951aa130515aa",
+				"size": 10774,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.6.tgz_1510375909701_0.7666098501067609"
+			},
+			"directories": {},
+			"publish_time": 1510375909763,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510375909763
+		},
+		"21.1.5": {
+			"name": "@types/jest",
+			"version": "21.1.5",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "dde4cb678e102a2e2ff0a30f12935fe59ab52016243423ba2831fd1492c8d188",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@21.1.5",
+			"dist": {
+				"shasum": "3db93d069d12602ca115d3604550e15131d8eb7a",
+				"size": 10736,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.5.tgz_1508893537808_0.5252784434705973"
+			},
+			"directories": {},
+			"publish_time": 1508893537961,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508893537961
+		},
+		"21.1.4": {
+			"name": "@types/jest",
+			"version": "21.1.4",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "784214dead9f5ee5a92281c7e94f0130d0d2ab503d8f5665adda560332d80dc0",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@21.1.4",
+			"dist": {
+				"shasum": "83c5c474dd6dee5bef9d014ff36787edfd4ab5a7",
+				"size": 10744,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.4.tgz_1508260892160_0.3870256629306823"
+			},
+			"directories": {},
+			"publish_time": 1508260892329,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508260892329
+		},
+		"21.1.3": {
+			"name": "@types/jest",
+			"version": "21.1.3",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "1127511992aaa13f24b52e0691d04e57892c82721fee0e7c8facc63591fa9a4e",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@21.1.3",
+			"dist": {
+				"shasum": "158d13cc3fa6b2f34d78118677af77754fe5b3fe",
+				"size": 10650,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.3.tgz_1508199304803_0.5108299048151821"
+			},
+			"directories": {},
+			"publish_time": 1508199304865,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508199304865
+		},
+		"21.1.2": {
+			"name": "@types/jest",
+			"version": "21.1.2",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "24a5e54a64fcc986b95d9ed1da15588c0fe80a86d50154e85ffe27a2d56b44f2",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jest@21.1.2",
+			"dist": {
+				"shasum": "05ebfa64817b626694ced56745a7949281981048",
+				"size": 10672,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.2.tgz_1507039354225_0.037029918283224106"
+			},
+			"directories": {},
+			"publish_time": 1507039354328,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507039354328
+		},
+		"21.1.1": {
+			"name": "@types/jest",
+			"version": "21.1.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d74714d13685ea7b7999cd671c031738a56dcec91c0d86609a5951cf93a71d12",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jest@21.1.1",
+			"dist": {
+				"shasum": "70008ecce439774a45c7d0b543d879ec58a1b332",
+				"size": 10604,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.1.tgz_1506384765406_0.04239167459309101"
+			},
+			"directories": {},
+			"publish_time": 1506384765498,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506384765498
+		},
+		"21.1.0": {
+			"name": "@types/jest",
+			"version": "21.1.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "248296d2e9945b43f48448dd29d4b1944ee6ccb3d36d8cd79c154686a0adf6f8",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jest@21.1.0",
+			"dist": {
+				"shasum": "cacaa3822b548d8faa7130cf847b6f5417c32ddf",
+				"size": 10586,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-21.1.0.tgz_1506088583218_0.5837899597827345"
+			},
+			"directories": {},
+			"publish_time": 1506088583336,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506088583336
+		},
+		"20.0.8": {
+			"name": "@types/jest",
+			"version": "20.0.8",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e9213f5dd589b752cd171a3394b69cb7fd931d3727a0a953662273c482bc946d",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jest@20.0.8",
+			"dist": {
+				"shasum": "7f8c97f73d20d3bf5448fbe33661a342002b5954",
+				"size": 10431,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-20.0.8.tgz_1503510871083_0.758186909602955"
+			},
+			"directories": {},
+			"publish_time": 1503510871230,
+			"_cnpm_publish_time": 1503510871230,
+			"_hasShrinkwrap": false
+		},
+		"20.0.7": {
+			"name": "@types/jest",
+			"version": "20.0.7",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "8979fe1402cf9773467b9cef8e3a04219cb724473d37172daa7fa9266520f37a",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jest@20.0.7",
+			"dist": {
+				"shasum": "39cd215db8bda03928dceb933a1e63eb2cbd210e",
+				"size": 10433,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-20.0.7.tgz_1502736271687_0.5059291366487741"
+			},
+			"directories": {},
+			"publish_time": 1502736271786,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502736271786
+		},
+		"20.0.6": {
+			"name": "@types/jest",
+			"version": "20.0.6",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "31ed2ed8ba2eb1b43d8596b423aacfde92b0b8b552607a4cc4035bb98db9f19a",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jest@20.0.6",
+			"dist": {
+				"shasum": "7e0ba76ddfacb42ee9bb0d8833e5208cf0680431",
+				"size": 10455,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-20.0.6.tgz_1501768803570_0.7126138345338404"
+			},
+			"directories": {},
+			"publish_time": 1501768803650,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501768803650
+		},
+		"20.0.5": {
+			"name": "@types/jest",
+			"version": "20.0.5",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "4764631e1b1bb5c5e457fa5930cec7deaacc7d35a658f64b0529d691b8be7b4b",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jest@20.0.5",
+			"dist": {
+				"shasum": "f463e58b2de6e801f40e33b05db894babdbad98c",
+				"size": 10431,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-20.0.5.tgz_1501006329792_0.5129842385649681"
+			},
+			"directories": {},
+			"publish_time": 1501006329884,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501006329884
+		},
+		"20.0.4": {
+			"name": "@types/jest",
+			"version": "20.0.4",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "18205a870c42c57871e31db090a4999c2c57ca2c64dea83d16032dbe629c6fc3",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jest@20.0.4",
+			"dist": {
+				"shasum": "91e2c76fbe90b3a719b5d689958f0495f005beb9",
+				"size": 10428,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-20.0.4.tgz_1500319638474_0.40332360472530127"
+			},
+			"directories": {},
+			"publish_time": 1500319638653,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500319638653
+		},
+		"20.0.3": {
+			"name": "@types/jest",
+			"version": "20.0.3",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1e7d1097f469cec448692899d573d5f18bddcff0ed355f4d7393bfd922ef62fb",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@20.0.3",
+			"dist": {
+				"shasum": "2b7d14d534061e32653509d747d2fc70154306dd",
+				"size": 7607,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-20.0.3.tgz_1500310109386_0.4465895623434335"
+			},
+			"directories": {},
+			"publish_time": 1500310109491,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500310109491
+		},
+		"20.0.2": {
+			"name": "@types/jest",
+			"version": "20.0.2",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f303cca03e8b1b7f612effe8d1099160c7218e7177685049895971fd804e2d59",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@20.0.2",
+			"dist": {
+				"shasum": "86c751121fb53dbd39bb1a08c45083da13f2dc67",
+				"size": 7623,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-20.0.2.tgz_1498226631453_0.040862848749384284"
+			},
+			"directories": {},
+			"publish_time": 1498226631551,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498226631551
+		},
+		"20.0.1": {
+			"name": "@types/jest",
+			"version": "20.0.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "561e4ef7fc94fad9148ec3884fc866fd41f2b8e29abfa170a643fb8e6c77a7ee",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@20.0.1",
+			"dist": {
+				"shasum": "8643a195d925a00f7bdee5257d12c3aac743f3b4",
+				"size": 7558,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-20.0.1.tgz_1497882074077_0.241499598370865"
+			},
+			"directories": {},
+			"publish_time": 1497882074159,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497882074159
+		},
+		"20.0.0": {
+			"name": "@types/jest",
+			"version": "20.0.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "45747aefd247da23247f4ec4c71ff2c95df07f0eb19118649b26ffab9982b7fa",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@20.0.0",
+			"dist": {
+				"shasum": "f7119f92891e150b33d67505cdd6d95585156133",
+				"size": 7551,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-20.0.0.tgz_1497631208479_0.7192936951760203"
+			},
+			"directories": {},
+			"publish_time": 1497631209519,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497631209519
+		},
+		"19.2.4": {
+			"name": "@types/jest",
+			"version": "19.2.4",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bb8abf46f42b0b1b4cfcbd584c7dcdf201d9643f76f9454fcc34d3b0515cc763",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@19.2.4",
+			"dist": {
+				"shasum": "543651712535962b7dc615e18e4a381fc2687442",
+				"size": 7429,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-19.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-19.2.4.tgz_1496367344977_0.3966916478239"
+			},
+			"directories": {},
+			"publish_time": 1496367345086,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496367345086
+		},
+		"19.2.3": {
+			"name": "@types/jest",
+			"version": "19.2.3",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bc85e2db1bdfa51e8da0daa41235b85e8e7ced0a6cf142817056bd4d6e939b56",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@19.2.3",
+			"dist": {
+				"shasum": "61748040e8589a891dfc2ec1d16a2dd74482980e",
+				"size": 7045,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-19.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/jest-19.2.3.tgz_1493925411133_0.8169767048675567"
+			},
+			"directories": {},
+			"publish_time": 1493925413109,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493925413109
+		},
+		"19.2.2": {
+			"name": "@types/jest",
+			"version": "19.2.2",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "48f37ffe5a5e211dfb4b7b74e24de1bc9f5c8a53e30b7f397eff0a043c797030",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@19.2.2",
+			"dist": {
+				"shasum": "71f428be2fa6eb9f15bb0abc3cade67905f94839",
+				"size": 6317,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-19.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-19.2.2.tgz_1489424994990_0.3526138754095882"
+			},
+			"directories": {},
+			"publish_time": 1489424995249,
+			"_cnpm_publish_time": 1489424995249,
+			"_hasShrinkwrap": false
+		},
+		"19.2.1": {
+			"name": "@types/jest",
+			"version": "19.2.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a4769cd503e84b71894c604b1b408dc655aede99e7430f10654b41c0c474b282",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@19.2.1",
+			"dist": {
+				"shasum": "57db82d71c1b8ca1523bfdfbb00a4d848dfcc5fe",
+				"size": 6205,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-19.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-19.2.1.tgz_1489196201244_0.634048143401742"
+			},
+			"directories": {},
+			"publish_time": 1489196201469,
+			"_cnpm_publish_time": 1489196201469,
+			"_hasShrinkwrap": false
+		},
+		"19.2.0": {
+			"name": "@types/jest",
+			"version": "19.2.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "05fff843c501f44841b6c3de7be76af3414db7efcf67adf8dc99992af1673316",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@19.2.0",
+			"dist": {
+				"shasum": "253ed874ba134647acde4ad7d7d2c6716609b5f8",
+				"size": 6195,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-19.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-19.2.0.tgz_1489025563632_0.6652937377803028"
+			},
+			"directories": {},
+			"publish_time": 1489025563897,
+			"_cnpm_publish_time": 1489025563897,
+			"_hasShrinkwrap": false
+		},
+		"16.0.7": {
+			"name": "@types/jest",
+			"version": "16.0.7",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "9853b56159f78671ad7f54a4677fb20a6ca2d9b6ad0f8faebb3452ed10fd064c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/jest@16.0.7",
+			"dist": {
+				"shasum": "67238c1856996a8273bc6c04a2b466521e021ce9",
+				"size": 4250,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/jest-16.0.7.tgz_1488291870730_0.26327722263522446"
+			},
+			"directories": {},
+			"publish_time": 1488291872525,
+			"_cnpm_publish_time": 1488291872525,
+			"_hasShrinkwrap": false
+		},
+		"18.1.1": {
+			"name": "@types/jest",
+			"version": "18.1.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>, Alexey Svetliakov <https://github.com/asvetliakov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ff5fa37a2e4391662d8fd203d8cbfc2eed516fd9d99965f48c27bb3970522219",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@18.1.1",
+			"dist": {
+				"shasum": "6f63488c64726900885ab9cd5697bb7fa1b416cc",
+				"size": 6423,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-18.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-18.1.1.tgz_1485936691474_0.27490636403672397"
+			},
+			"directories": {},
+			"publish_time": 1485936691711,
+			"_cnpm_publish_time": 1485936691711,
+			"_hasShrinkwrap": false
+		},
+		"18.1.0": {
+			"name": "@types/jest",
+			"version": "18.1.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>, Alexey Svetliakov <https://github.com/asvetliakov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "511043d6cc56ea42f2dabb0213723997bc1b5032f84db39237a6cf961cab4250",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@18.1.0",
+			"dist": {
+				"shasum": "ed18f4c75b3d76de966f543fb6e3bad77d3caa17",
+				"size": 6417,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-18.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-18.1.0.tgz_1485808915555_0.8835003292188048"
+			},
+			"directories": {},
+			"publish_time": 1485808915796,
+			"_cnpm_publish_time": 1485808915796,
+			"_hasShrinkwrap": false
+		},
+		"16.0.6": {
+			"name": "@types/jest",
+			"version": "16.0.6",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "71171e9a0a6caf932896cd74aa6eb44c38144daaaf48f422bd5b15c6d94356a1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/jest@16.0.6",
+			"dist": {
+				"shasum": "a0073704e600c3ac4800d16a8296b34d45a60b2a",
+				"size": 4482,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/jest-16.0.6.tgz_1485801958777_0.302713266806677"
+			},
+			"directories": {},
+			"publish_time": 1485801960562,
+			"_cnpm_publish_time": 1485801960562,
+			"_hasShrinkwrap": false
+		},
+		"18.0.0": {
+			"name": "@types/jest",
+			"version": "18.0.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>, Alexey Svetliakov <https://github.com/asvetliakov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ff94b42c05c15cde837e101519d49f021c11f2823a9c247555a02c6b3f4c74fe",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/jest@18.0.0",
+			"dist": {
+				"shasum": "c0cfc76c426b4ef5cdad464870cd9b4b081eea29",
+				"size": 5161,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-18.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-18.0.0.tgz_1485801957634_0.8139507521409541"
+			},
+			"directories": {},
+			"publish_time": 1485801957865,
+			"_cnpm_publish_time": 1485801957865,
+			"_hasShrinkwrap": false
+		},
+		"16.0.5": {
+			"name": "@types/jest",
+			"version": "16.0.5",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "197c9924f2fdb5ae88a96b610a88e02c23d269a38a1c8adc9b0cf68f20b8cd4f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/jest@16.0.5",
+			"dist": {
+				"shasum": "bad01154df405180ba6e195eb80454c70666b1a7",
+				"size": 4478,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/jest-16.0.5.tgz_1485756695998_0.8019582931883633"
+			},
+			"directories": {},
+			"publish_time": 1485756697919,
+			"_cnpm_publish_time": 1485756697919,
+			"_hasShrinkwrap": false
+		},
+		"16.0.4": {
+			"name": "@types/jest",
+			"version": "16.0.4",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "71171e9a0a6caf932896cd74aa6eb44c38144daaaf48f422bd5b15c6d94356a1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/jest@16.0.4",
+			"dist": {
+				"shasum": "31bdd13e2bdfa71498b022494ba04d407f9f8230",
+				"size": 4481,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-16.0.4.tgz_1484243322933_0.9821583784651011"
+			},
+			"directories": {},
+			"publish_time": 1484243323164,
+			"_cnpm_publish_time": 1484243323164,
+			"_hasShrinkwrap": false
+		},
+		"16.0.3": {
+			"name": "@types/jest",
+			"version": "16.0.3",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bf56b10c2c14143c4960d193545af1a7d4efdcc19f9dafc49354e7bcfde048fe",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/jest@16.0.3",
+			"dist": {
+				"shasum": "28a465586cd37d2638043ebcca91010ed89fc284",
+				"size": 4452,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-16.0.3.tgz_1483120180256_0.852283928077668"
+			},
+			"directories": {},
+			"publish_time": 1483120180494,
+			"_cnpm_publish_time": 1483120180494,
+			"_hasShrinkwrap": false
+		},
+		"16.0.2": {
+			"name": "@types/jest",
+			"version": "16.0.2",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "debf65fcd19807aed29a8483b835c4f6e0b7819dbb00529921c57163216a6d76",
+			"_id": "@types/jest@16.0.2",
+			"dist": {
+				"shasum": "77dd322d5c59119ccc41480c57b98e4f735c1c01",
+				"size": 4425,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/jest-16.0.2.tgz_1482236351380_0.2171912374906242"
+			},
+			"directories": {},
+			"publish_time": 1482236353329,
+			"_cnpm_publish_time": 1482236353329,
+			"_hasShrinkwrap": false
+		},
+		"16.0.1": {
+			"name": "@types/jest",
+			"version": "16.0.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3cce037bfad39376d90445263b298d319c9d679d6bbb4264e0d18df03e3bfa26",
+			"_id": "@types/jest@16.0.1",
+			"dist": {
+				"shasum": "c7820ab2bedefe121d0e5ffaa8d0b22f44793f24",
+				"size": 4449,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/jest-16.0.1.tgz_1480544786790_0.7514739783946425"
+			},
+			"directories": {},
+			"publish_time": 1480544788995,
+			"_cnpm_publish_time": 1480544788995,
+			"_hasShrinkwrap": false
+		},
+		"16.0.0": {
+			"name": "@types/jest",
+			"version": "16.0.0",
+			"description": "TypeScript definitions for Jest 16.0.0",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "f8ed97da943e045270318ddc5c97326414e93d083449e2cdfb078f5415a3340a",
+			"_id": "@types/jest@16.0.0",
+			"dist": {
+				"shasum": "5fe49adee6db194357a52438c0d80695b59a45e9",
+				"size": 4466,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-16.0.0.tgz_1479152174515_0.8418883751146495"
+			},
+			"directories": {},
+			"publish_time": 1479152174737,
+			"_cnpm_publish_time": 1479152174737,
+			"_hasShrinkwrap": false
+		},
+		"15.1.32": {
+			"name": "@types/jest",
+			"version": "15.1.32",
+			"description": "TypeScript definitions for Jest 15.1.1",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "a9b6ffd31b389cdb17f14d94e68c1b88467acaaf8e600fcd3f6a2cdf3534fb93",
+			"_id": "@types/jest@15.1.32",
+			"dist": {
+				"shasum": "199632df1bfdb0a9a4f0f44d6aacf7c3018ae153",
+				"size": 4340,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-15.1.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-15.1.32.tgz_1474489638011_0.9377060749102384"
+			},
+			"directories": {},
+			"publish_time": 1474489638227,
+			"_cnpm_publish_time": 1474489638227,
+			"_hasShrinkwrap": false
+		},
+		"0.9.31": {
+			"name": "@types/jest",
+			"version": "0.9.31",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "ad32e6cec56fa262641a48560cd14bd6946c1190f6d080227650cf6d3d0dcba9",
+			"_id": "@types/jest@0.9.31",
+			"dist": {
+				"shasum": "a62794c5ee04bef668c16a173778624ef69acd2b",
+				"size": 2107,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.31.tgz_1473700484662_0.3576857759617269"
+			},
+			"directories": {},
+			"publish_time": 1473700484921,
+			"_cnpm_publish_time": 1473700484921,
+			"_hasShrinkwrap": false
+		},
+		"0.9.30": {
+			"name": "@types/jest",
+			"version": "0.9.30",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/jest@0.9.30",
+			"dist": {
+				"shasum": "26ab70ca45fd017f6e5129d7855137f99baee760",
+				"size": 2092,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.30.tgz_1472150749551_0.6157764098607004"
+			},
+			"directories": {},
+			"publish_time": 1472150751560,
+			"_cnpm_publish_time": 1472150751560,
+			"_hasShrinkwrap": false
+		},
+		"0.9.29": {
+			"name": "@types/jest",
+			"version": "0.9.29",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/jest@0.9.29",
+			"dist": {
+				"shasum": "ffeeb2ec6cae64764857467adb98f28053401c1d",
+				"size": 2093,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.29.tgz_1471620557685_0.28784291516058147"
+			},
+			"directories": {},
+			"publish_time": 1471620558900,
+			"_cnpm_publish_time": 1471620558900,
+			"_hasShrinkwrap": false
+		},
+		"0.9.28": {
+			"name": "@types/jest",
+			"version": "0.9.28",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/jest@0.9.28",
+			"dist": {
+				"shasum": "814bbacf5502c3f0e3e73aecf2025d770749a97a",
+				"size": 10752,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.28.tgz_1470153345580_0.6362456528004259"
+			},
+			"directories": {},
+			"publish_time": 1470153347213,
+			"_cnpm_publish_time": 1470153347213,
+			"_hasShrinkwrap": false
+		},
+		"0.9.27": {
+			"name": "@types/jest",
+			"version": "0.9.27",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/jest@0.9.27",
+			"_shasum": "18f77c90a0af2bf5c4d5c144e32b102cf0154b6c",
+			"_from": "output\\jest",
+			"_resolved": "file:output\\jest",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "18f77c90a0af2bf5c4d5c144e32b102cf0154b6c",
+				"size": 2066,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.27.tgz_1468508365061_0.5236972514539957"
+			},
+			"directories": {},
+			"publish_time": 1468508367327,
+			"_cnpm_publish_time": 1468508367327,
+			"_hasShrinkwrap": false
+		},
+		"0.9.26-alpha": {
+			"name": "@types/jest",
+			"version": "0.9.26-alpha",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/jest@0.9.26-alpha",
+			"_shasum": "75dc33f51f79690f557df0dfb9edcb25eee1c3bd",
+			"_from": "output\\jest",
+			"_resolved": "file:output\\jest",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "75dc33f51f79690f557df0dfb9edcb25eee1c3bd",
+				"size": 2075,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.26-alpha.tgz_1468009881058_0.727305700769648"
+			},
+			"directories": {},
+			"publish_time": 1468009882601,
+			"_cnpm_publish_time": 1468009882601,
+			"_hasShrinkwrap": false
+		},
+		"0.9.25-alpha": {
+			"name": "@types/jest",
+			"version": "0.9.25-alpha",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/jest@0.9.25-alpha",
+			"_shasum": "4dbd0a06404f6a0b936d1362f77321a825458991",
+			"_from": "output\\jest",
+			"_resolved": "file:output\\jest",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4dbd0a06404f6a0b936d1362f77321a825458991",
+				"size": 2075,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.25-alpha.tgz_1467592269658_0.5385004894342273"
+			},
+			"directories": {},
+			"publish_time": 1467592270242,
+			"_cnpm_publish_time": 1467592270242,
+			"_hasShrinkwrap": false
+		},
+		"0.9.24-alpha": {
+			"name": "@types/jest",
+			"version": "0.9.24-alpha",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/jest@0.9.24-alpha",
+			"_shasum": "214abc6701823101517a55f96074e0ac2daf2d1e",
+			"_from": "output\\jest",
+			"_resolved": "file:output\\jest",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "214abc6701823101517a55f96074e0ac2daf2d1e",
+				"size": 2072,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.24-alpha.tgz_1467427340137_0.8450414421968162"
+			},
+			"directories": {},
+			"publish_time": 1467427343478,
+			"_cnpm_publish_time": 1467427343478,
+			"_hasShrinkwrap": false
+		},
+		"0.9.23-alpha": {
+			"name": "@types/jest",
+			"version": "0.9.23-alpha",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha"
+			},
+			"_id": "@types/jest@0.9.23-alpha",
+			"_shasum": "51e551f2982134cdfd0db2cb741e5ddca5ced85c",
+			"_from": "output\\jest",
+			"_resolved": "file:output\\jest",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "51e551f2982134cdfd0db2cb741e5ddca5ced85c",
+				"size": 2074,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.23-alpha.tgz_1467414260651_0.2716370322741568"
+			},
+			"directories": {},
+			"publish_time": 1467414261151,
+			"_cnpm_publish_time": 1467414261151,
+			"_hasShrinkwrap": false
+		},
+		"0.9.22-alpha": {
+			"name": "@types/jest",
+			"version": "0.9.22-alpha",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/jest@0.9.22-alpha",
+			"_shasum": "2791f34e9a5deee07e3210dac7d46be9ae752599",
+			"_from": "output\\jest",
+			"_resolved": "file:output\\jest",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2791f34e9a5deee07e3210dac7d46be9ae752599",
+				"size": 2052,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.22-alpha.tgz_1467402297286_0.48892577877268195"
+			},
+			"directories": {},
+			"publish_time": 1467402300714,
+			"_cnpm_publish_time": 1467402300714,
+			"_hasShrinkwrap": false
+		},
+		"0.9.21-alpha": {
+			"name": "@types/jest",
+			"version": "0.9.21-alpha",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/jest@0.9.21-alpha",
+			"_shasum": "84bc1593b7fa38319d5f74bc23a1e82dd696364e",
+			"_from": "output\\jest",
+			"_resolved": "file:output\\jest",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "84bc1593b7fa38319d5f74bc23a1e82dd696364e",
+				"size": 2041,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.21-alpha.tgz_1464153025938_0.9374957031104714"
+			},
+			"directories": {},
+			"publish_time": 1464153026394,
+			"_cnpm_publish_time": 1464153026394,
+			"_hasShrinkwrap": false
+		},
+		"0.9.20-alpha": {
+			"name": "@types/jest",
+			"version": "0.9.20-alpha",
+			"description": "TypeScript definitions for Jest 0.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/jest@0.9.20-alpha",
+			"_shasum": "bd5bd50793a7d8ea359ed25bf6191fbd4dd2ec28",
+			"_from": "output\\jest",
+			"_resolved": "file:output\\jest",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bd5bd50793a7d8ea359ed25bf6191fbd4dd2ec28",
+				"size": 2040,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.20-alpha.tgz_1463773923394_0.8116577859036624"
+			},
+			"directories": {},
+			"publish_time": 1463773925629,
+			"_cnpm_publish_time": 1463773925629,
+			"_hasShrinkwrap": false
+		},
+		"0.9.15-alpha": {
+			"name": "@types/jest",
+			"version": "0.9.15-alpha",
+			"description": "Type definitions for Jest 0.9.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/jest@0.9.15-alpha",
+			"_shasum": "5a9ebc2c50b0c58a0624a014cfc7eccf4d1c6e46",
+			"_from": "output\\jest",
+			"_resolved": "file:output\\jest",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5a9ebc2c50b0c58a0624a014cfc7eccf4d1c6e46",
+				"size": 2053,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.15-alpha.tgz_1463692596719_0.8628976328764111"
+			},
+			"directories": {},
+			"publish_time": 1463692601323,
+			"_cnpm_publish_time": 1463692601323,
+			"_hasShrinkwrap": false
+		},
+		"0.9.14-alpha": {
+			"name": "@types/jest",
+			"version": "0.9.14-alpha",
+			"description": "Type definitions for Jest 0.9.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jest@0.9.14-alpha",
+			"_shasum": "749a81b2a56eae86087a91c984ad369db53154bd",
+			"_from": "output\\jest",
+			"_resolved": "file:output\\jest",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "749a81b2a56eae86087a91c984ad369db53154bd",
+				"size": 2027,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jest-0.9.14-alpha.tgz_1463462154693_0.9315133548807353"
+			},
+			"directories": {},
+			"publish_time": 1463462155334,
+			"_cnpm_publish_time": 1463462155334,
+			"_hasShrinkwrap": false
+		},
+		"23.3.9": {
+			"name": "@types/jest",
+			"version": "23.3.9",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				},
+				{
+					"name": "Andy",
+					"url": "https://github.com/andys8",
+					"githubUsername": "andys8"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "2a73e53a5a9288b2fe6ecb3cbcbb004845e2699df62745c22834ff34ce4a0b0c",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.3.9",
+			"dist": {
+				"shasum": "c16b55186ee73ae65e001fbee69d392c51337ad1",
+				"size": 15475,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.3.9_1540929206154_0.5147698635244229"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1540929206549,
+			"_cnpm_publish_time": 1540929206549
+		},
+		"23.3.8": {
+			"name": "@types/jest",
+			"version": "23.3.8",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				},
+				{
+					"name": "Andy",
+					"url": "https://github.com/andys8",
+					"githubUsername": "andys8"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "c966675871f63c538b7a5f177cefeb8e42a3b9a136873a531cb10c3b186a3c5a",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.3.8",
+			"dist": {
+				"shasum": "56b07c0c3d7c8a6c47abb4f785cab648c6eafd01",
+				"size": 15234,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.3.8_1540676923723_0.9537094834892741"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1540676923873,
+			"_cnpm_publish_time": 1540676923873
+		},
+		"23.3.7": {
+			"name": "@types/jest",
+			"version": "23.3.7",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				},
+				{
+					"name": "Andy",
+					"url": "https://github.com/andys8",
+					"githubUsername": "andys8"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "474445184c90b41e58082d5485baebe2ccb1aab71f270c7bbf7c5f1443b36fb5",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.3.7",
+			"dist": {
+				"shasum": "77f9a4332ccf8db680a31818ade3ee454c831a79",
+				"size": 15226,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.3.7_1540236808211_0.13398722979756483"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1540236808433,
+			"_cnpm_publish_time": 1540236808433
+		},
+		"23.3.6": {
+			"name": "@types/jest",
+			"version": "23.3.6",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "9d7ca3785c2d8783547d731316ba9dc40bf80fd579f691078fc773d806b5d01c",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.3.6",
+			"dist": {
+				"shasum": "4cfe62743e7fd56de2321d02bb73f87a13b91e06",
+				"size": 15197,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.3.6_1539202097053_0.5821212381671255"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539202097152,
+			"_cnpm_publish_time": 1539202097152
+		},
+		"23.3.5": {
+			"name": "@types/jest",
+			"version": "23.3.5",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d46a64c2f01136af11becbb3c520f5091ab90415999170dd8087835fc3cc2b84",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.3.5",
+			"dist": {
+				"shasum": "870a1434208b60603745bfd214fc3fc675142364",
+				"size": 15206,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.3.5_1539109011149_0.7537329148755669"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539109011395,
+			"_cnpm_publish_time": 1539109011395
+		},
+		"23.3.4": {
+			"name": "@types/jest",
+			"version": "23.3.4",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "4dc8803ec28f61732734800c8b34d81eeb36056be8f1e140b2cbc60cb8a514b9",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.3.4",
+			"dist": {
+				"shasum": "cc43ae176a91dcb1504839b0b9d6659386cf0af5",
+				"size": 15201,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.3.4_1539020558764_0.2906763330742801"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539020558942,
+			"_cnpm_publish_time": 1539020558942
+		},
+		"23.3.3": {
+			"name": "@types/jest",
+			"version": "23.3.3",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "80f93ad45640e9ceafdab2d0c0b9e675e407bc9dea027b34092b977631b57434",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.3.3",
+			"dist": {
+				"shasum": "246ebcc52771d2327bb8e37aa971b412d9dc4237",
+				"size": 15198,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.3.3_1538589556973_0.06187623848111712"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538589557172,
+			"_cnpm_publish_time": 1538589557172
+		},
+		"23.3.2": {
+			"name": "@types/jest",
+			"version": "23.3.2",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "6697a48e53476de8b74fc1f4ecccd784040be0fe9fd47a51a546c4cd4991cd8a",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.3.2",
+			"dist": {
+				"shasum": "07b90f6adf75d42c34230c026a2529e56c249dbb",
+				"size": 15065,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.3.2_1536369775097_0.9284685438371687"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536369775228,
+			"_cnpm_publish_time": 1536369775228
+		},
+		"23.3.1": {
+			"name": "@types/jest",
+			"version": "23.3.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "02019b6ba566ae67bc2aa93e7d374ee5ad3a50db0e66dd13da13b228cf1e6f29",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.3.1",
+			"dist": {
+				"shasum": "a4319aedb071d478e6f407d1c4578ec8156829cf",
+				"size": 15051,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.3.1_1532648887544_0.2712398003097303"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532648887589,
+			"_cnpm_publish_time": 1532648887589
+		},
+		"23.3.0": {
+			"name": "@types/jest",
+			"version": "23.3.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "a7ec5816d1bb359c856054e63f3fa705264d14b28d49a97c586276a1fe321d47",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.3.0",
+			"dist": {
+				"shasum": "5dd70033b616a6228042244ebd992f6426808810",
+				"size": 15051,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.3.0_1531761067033_0.865459711166594"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1531761067117,
+			"_cnpm_publish_time": 1531761067117
+		},
+		"23.1.6": {
+			"name": "@types/jest",
+			"version": "23.1.6",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "a4f8f81afd199cd69ee258dffd76181d902bdf38d7b526e7b1d19dba63e7f02b",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.1.6",
+			"dist": {
+				"shasum": "11c88f738f5b57d1a9dd4970c576a6639b8f0f37",
+				"size": 14911,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.1.6_1531530304676_0.8929203477793404"
+			},
+			"publish_time": 1531530304750,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1531530304750
+		},
+		"23.1.5": {
+			"name": "@types/jest",
+			"version": "23.1.5",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "29564b6ab0456a9069b9efe5e75b02a05cb5a26eb50b2d9e53d01ed4014694d1",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.1.5",
+			"dist": {
+				"shasum": "e31be003956e1fa8c860124d99bea9ae327ae37b",
+				"size": 14852,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.1.5_1531168376596_0.7335306985866674"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1531168376666,
+			"_cnpm_publish_time": 1531168376666
+		},
+		"23.1.4": {
+			"name": "@types/jest",
+			"version": "23.1.4",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "ab009718aa7d984907c52771ee31f2e28d09a416283c393cb7f62f8f2601cbad",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.1.4",
+			"dist": {
+				"shasum": "71e1e2d08b1db742f479ee2795536ebc999a2419",
+				"size": 14854,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.1.4_1530564547995_0.2272154766389023"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1530564548056,
+			"_cnpm_publish_time": 1530564548056
+		},
+		"23.1.3": {
+			"name": "@types/jest",
+			"version": "23.1.3",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b41a91409265fef1b6fb464acd247cbd15bbc1cf45ab6c7451917088ed6e4b21",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.1.3",
+			"dist": {
+				"shasum": "4db19b2e7627dc254bbed5781b5609c621b5ad8e",
+				"size": 12739,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.1.3_1530144835092_0.7242468898691787"
+			},
+			"publish_time": 1530144835347,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1530144835347
+		},
+		"23.1.2": {
+			"name": "@types/jest",
+			"version": "23.1.2",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "575e5ef637aebe80ed0481aee220a027201021d80899a54da8c5bcbb1329d6cf",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.1.2",
+			"dist": {
+				"shasum": "a6cd37deb9110a8c63dc1435d6ee2518b3bd8e54",
+				"size": 12688,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.1.2_1529975556668_0.5147115482098212"
+			},
+			"publish_time": 1529975556788,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1529975556788
+		},
+		"23.1.1": {
+			"name": "@types/jest",
+			"version": "23.1.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "78d7c9fc44b96aaf168c47f89d300a9af5348d2d9f20d71721943f25dfce57a5",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.1.1",
+			"dist": {
+				"shasum": "c54ab1a5f41aa693c0957222dd10414416d0c87b",
+				"size": 12681,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.1.1_1529362220805_0.5942224539967813"
+			},
+			"publish_time": 1529362221165,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1529362221165
+		},
+		"23.1.0": {
+			"name": "@types/jest",
+			"version": "23.1.0",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "43db37f780da00ecfada28b99ef7bbae09183013c7b6a85ba702e3fa5fac09b2",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.1.0",
+			"dist": {
+				"shasum": "8054dd838ba23dc331794d26456b86c7e50bf0f6",
+				"size": 12605,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.1.0_1528917717649_0.535761682743759"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1528917717727,
+			"_cnpm_publish_time": 1528917717727
+		},
+		"23.0.2": {
+			"name": "@types/jest",
+			"version": "23.0.2",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/ahnpnl",
+					"githubUsername": "ahnpnl"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Bradley Ayers",
+					"url": "https://github.com/bradleyayers",
+					"githubUsername": "bradleyayers"
+				},
+				{
+					"name": "Jeff Lau",
+					"url": "https://github.com/UselessPickles",
+					"githubUsername": "UselessPickles"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "bb0c847e96d3d50c22a51738007a017831700c69d399a06ed19b6724cedce025",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.0.2",
+			"dist": {
+				"shasum": "f03f9e6dd2206cc2a2e8fd033161b0b7cf905db6",
+				"size": 11849,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.0.2_1528774765116_0.22281932086148126"
+			},
+			"publish_time": 1528774765205,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1528774765205
+		},
+		"23.0.1": {
+			"name": "@types/jest",
+			"version": "23.0.1",
+			"description": "TypeScript definitions for Jest",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "Alexey Svetliakov",
+					"url": "https://github.com/asvetliakov",
+					"githubUsername": "asvetliakov"
+				},
+				{
+					"name": "Alex Jover Morales",
+					"url": "https://github.com/alexjoverm",
+					"githubUsername": "alexjoverm"
+				},
+				{
+					"name": "Allan Lukwago",
+					"url": "https://github.com/epicallan",
+					"githubUsername": "epicallan"
+				},
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "Waseem Dahman",
+					"url": "https://github.com/wsmd",
+					"githubUsername": "wsmd"
+				},
+				{
+					"name": "Jamie Mason",
+					"url": "https://github.com/JamieMason",
+					"githubUsername": "JamieMason"
+				},
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "Ahn",
+					"url": "https://github.com/AhnpGit",
+					"githubUsername": "AhnpGit"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Bradley Ayers",
+					"url": "https://github.com/bradleyayers",
+					"githubUsername": "bradleyayers"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "2f4dd0eff4a73d29fe3e654d8b3fc5d36a3d02a97a5c201ae888664a37f0db6d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest@23.0.1",
+			"dist": {
+				"shasum": "c60dbed0bac210343d5dd0413744d6c8d0afac47",
+				"size": 11294,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest/download/@types/jest-23.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest_23.0.1_1528748726347_0.91647170639893"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1528748726571,
+			"_cnpm_publish_time": 1528748726571
+		}
+	},
+	"dist-tags": {
+		"latest": "23.3.9",
+		"ts2.0": "16.0.5",
+		"ts2.1": "20.0.3",
+		"ts2.2": "21.1.2",
+		"ts2.3": "23.3.9",
+		"ts2.4": "23.3.9",
+		"ts2.5": "23.3.9",
+		"ts2.6": "23.3.9",
+		"ts2.7": "23.3.9",
+		"ts2.8": "23.3.9",
+		"ts2.9": "23.3.9",
+		"ts3.0": "23.3.9",
+		"ts3.1": "23.3.9",
+		"ts3.2": "23.3.9"
+	},
+	"time": {
+		"modified": "2018-10-30T19:53:42.000Z",
+		"created": "2016-05-17T05:15:55.334Z",
+		"23.3.9": "2018-10-30T19:53:26.549Z",
+		"23.3.8": "2018-10-27T21:48:43.873Z",
+		"23.3.7": "2018-10-22T19:33:28.433Z",
+		"23.3.6": "2018-10-10T20:08:17.152Z",
+		"23.3.5": "2018-10-09T18:16:51.395Z",
+		"23.3.4": "2018-10-08T17:42:38.942Z",
+		"23.3.3": "2018-10-03T17:59:17.172Z",
+		"23.3.2": "2018-09-08T01:22:55.228Z",
+		"23.3.1": "2018-07-26T23:48:07.589Z",
+		"23.3.0": "2018-07-16T17:11:07.117Z",
+		"23.1.6": "2018-07-14T01:05:04.750Z",
+		"23.1.5": "2018-07-09T20:32:56.666Z",
+		"23.1.4": "2018-07-02T20:49:08.056Z",
+		"23.1.3": "2018-06-28T00:13:55.347Z",
+		"23.1.2": "2018-06-26T01:12:36.788Z",
+		"23.1.1": "2018-06-18T22:50:21.165Z",
+		"23.1.0": "2018-06-13T19:21:57.727Z",
+		"23.0.2": "2018-06-12T03:39:25.205Z",
+		"23.0.1": "2018-06-11T20:25:26.571Z",
+		"23.0.0": "2018-06-01T22:02:58.294Z",
+		"22.2.3": "2018-04-11T19:13:04.094Z",
+		"22.2.2": "2018-03-22T21:29:51.447Z",
+		"22.2.1": "2018-03-22T17:53:33.951Z",
+		"22.2.0": "2018-03-06T00:08:10.547Z",
+		"22.1.4": "2018-02-28T20:31:16.313Z",
+		"22.1.3": "2018-02-17T02:32:50.411Z",
+		"22.1.2": "2018-02-09T15:29:11.032Z",
+		"22.1.1": "2018-01-29T21:20:13.631Z",
+		"22.1.0": "2018-01-23T20:06:20.478Z",
+		"22.0.1": "2018-01-04T23:26:38.571Z",
+		"22.0.0": "2017-12-28T23:58:53.118Z",
+		"21.1.10": "2017-12-28T02:24:52.850Z",
+		"16.0.8": "2017-12-28T02:21:16.383Z",
+		"21.1.9": "2017-12-20T14:51:04.013Z",
+		"21.1.8": "2017-11-23T02:10:29.414Z",
+		"21.1.7": "2017-11-21T18:43:08.567Z",
+		"21.1.6": "2017-11-11T04:51:49.763Z",
+		"21.1.5": "2017-10-25T01:05:37.961Z",
+		"21.1.4": "2017-10-17T17:21:32.329Z",
+		"21.1.3": "2017-10-17T00:15:04.865Z",
+		"21.1.2": "2017-10-03T14:02:34.328Z",
+		"21.1.1": "2017-09-26T00:12:45.498Z",
+		"21.1.0": "2017-09-22T13:56:23.336Z",
+		"20.0.8": "2017-08-23T17:54:31.230Z",
+		"20.0.7": "2017-08-14T18:44:31.786Z",
+		"20.0.6": "2017-08-03T14:00:03.650Z",
+		"20.0.5": "2017-07-25T18:12:09.884Z",
+		"20.0.4": "2017-07-17T19:27:18.653Z",
+		"20.0.3": "2017-07-17T16:48:29.491Z",
+		"20.0.2": "2017-06-23T14:03:51.551Z",
+		"20.0.1": "2017-06-19T14:21:14.159Z",
+		"20.0.0": "2017-06-16T16:40:09.519Z",
+		"19.2.4": "2017-06-02T01:35:45.086Z",
+		"19.2.3": "2017-05-04T19:16:53.109Z",
+		"19.2.2": "2017-03-13T17:09:55.249Z",
+		"19.2.1": "2017-03-11T01:36:41.469Z",
+		"19.2.0": "2017-03-09T02:12:43.897Z",
+		"16.0.7": "2017-02-28T14:24:32.525Z",
+		"18.1.1": "2017-02-01T08:11:31.711Z",
+		"18.1.0": "2017-01-30T20:41:55.796Z",
+		"16.0.6": "2017-01-30T18:46:00.562Z",
+		"18.0.0": "2017-01-30T18:45:57.865Z",
+		"16.0.5": "2017-01-30T06:11:37.919Z",
+		"16.0.4": "2017-01-12T17:48:43.164Z",
+		"16.0.3": "2016-12-30T17:49:40.494Z",
+		"16.0.2": "2016-12-20T12:19:13.329Z",
+		"16.0.1": "2016-11-30T22:26:28.995Z",
+		"16.0.0": "2016-11-14T19:36:14.737Z",
+		"15.1.32": "2016-09-21T20:27:18.227Z",
+		"0.9.31": "2016-09-12T17:14:44.921Z",
+		"0.9.30": "2016-08-25T18:45:51.560Z",
+		"0.9.29": "2016-08-19T15:29:18.900Z",
+		"0.9.28": "2016-08-02T15:55:47.213Z",
+		"0.9.27": "2016-07-14T14:59:27.327Z",
+		"0.9.26-alpha": "2016-07-08T20:31:22.601Z",
+		"0.9.25-alpha": "2016-07-04T00:31:10.242Z",
+		"0.9.24-alpha": "2016-07-02T02:42:23.478Z",
+		"0.9.23-alpha": "2016-07-01T23:04:21.151Z",
+		"0.9.22-alpha": "2016-07-01T19:45:00.714Z",
+		"0.9.21-alpha": "2016-05-25T05:10:26.394Z",
+		"0.9.20-alpha": "2016-05-20T19:52:05.629Z",
+		"0.9.15-alpha": "2016-05-19T21:16:41.323Z",
+		"0.9.14-alpha": "2016-05-17T05:15:55.334Z"
+	},
+	"_distfiles": {
+		"jest-23.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.0.0.tgz",
+			"sha": "760cac74f00bb9c3075587716d2b3b4435663bc0",
+			"registry": "cnpmjs"
+		},
+		"jest-22.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.2.3.tgz",
+			"sha": "0157c0316dc3722c43a7b71de3fdf3acbccef10d",
+			"registry": "cnpmjs"
+		},
+		"jest-22.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.2.2.tgz",
+			"sha": "afe5dacbd00d65325f52da0ed3e76e259629ac9d",
+			"registry": "cnpmjs"
+		},
+		"jest-22.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.2.1.tgz",
+			"sha": "fe798757afc13880e03e3644a3448d7b3dd878d8",
+			"registry": "cnpmjs"
+		},
+		"jest-22.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.2.0.tgz",
+			"sha": "55ce83139f7ad1b48b414c3927746614c6963c0f",
+			"registry": "cnpmjs"
+		},
+		"jest-22.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.1.4.tgz",
+			"sha": "5c0c06a9bb495c67e0a78002a952f151e2ae58a1",
+			"registry": "cnpmjs"
+		},
+		"jest-22.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.1.3.tgz",
+			"sha": "25da391935e6fac537551456f077ce03144ec168",
+			"registry": "cnpmjs"
+		},
+		"jest-22.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.1.2.tgz",
+			"sha": "813a79ec98221633845627636dbc606f31220dbc",
+			"registry": "cnpmjs"
+		},
+		"jest-22.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.1.1.tgz",
+			"sha": "231d7c60ed130200af9e96c82469ed25b59a7ea2",
+			"registry": "cnpmjs"
+		},
+		"jest-22.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.1.0.tgz",
+			"sha": "c1de03bbac66fac4cc741f7a69cb73bc01a1707c",
+			"registry": "cnpmjs"
+		},
+		"jest-22.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.0.1.tgz",
+			"sha": "6370a6d60cce3845e4cd5d00bf65f654264685bc",
+			"registry": "cnpmjs"
+		},
+		"jest-22.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-22.0.0.tgz",
+			"sha": "23009941178aad7979a9591e026f7a96054d7bc0",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.10.tgz",
+			"sha": "dcacb5217ddf997a090cc822bba219b4b2fd7984",
+			"registry": "cnpmjs"
+		},
+		"jest-16.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.8.tgz",
+			"sha": "ce661d12bc446e3b823394ddc9b4675f4318139c",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.9.tgz",
+			"sha": "a913d6224e9d8a1f24908af536f65b5bf4d489bc",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.8.tgz",
+			"sha": "d497213725684f1e5a37900b17a47c9c018f1a97",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.7.tgz",
+			"sha": "af148f4fd2cb54e3fceba7b9f2162122ca2bfb28",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.6.tgz",
+			"sha": "9467945ce33261e4fdd14276576951aa130515aa",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.5.tgz",
+			"sha": "3db93d069d12602ca115d3604550e15131d8eb7a",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.4.tgz",
+			"sha": "83c5c474dd6dee5bef9d014ff36787edfd4ab5a7",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.3.tgz",
+			"sha": "158d13cc3fa6b2f34d78118677af77754fe5b3fe",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.2.tgz",
+			"sha": "05ebfa64817b626694ced56745a7949281981048",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.1.tgz",
+			"sha": "70008ecce439774a45c7d0b543d879ec58a1b332",
+			"registry": "cnpmjs"
+		},
+		"jest-21.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-21.1.0.tgz",
+			"sha": "cacaa3822b548d8faa7130cf847b6f5417c32ddf",
+			"registry": "cnpmjs"
+		},
+		"jest-20.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.8.tgz",
+			"sha": "7f8c97f73d20d3bf5448fbe33661a342002b5954",
+			"registry": "cnpmjs"
+		},
+		"jest-20.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.7.tgz",
+			"sha": "39cd215db8bda03928dceb933a1e63eb2cbd210e",
+			"registry": "cnpmjs"
+		},
+		"jest-20.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.6.tgz",
+			"sha": "7e0ba76ddfacb42ee9bb0d8833e5208cf0680431",
+			"registry": "cnpmjs"
+		},
+		"jest-20.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.5.tgz",
+			"sha": "f463e58b2de6e801f40e33b05db894babdbad98c",
+			"registry": "cnpmjs"
+		},
+		"jest-20.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.4.tgz",
+			"sha": "91e2c76fbe90b3a719b5d689958f0495f005beb9",
+			"registry": "cnpmjs"
+		},
+		"jest-20.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.3.tgz",
+			"sha": "2b7d14d534061e32653509d747d2fc70154306dd",
+			"registry": "cnpmjs"
+		},
+		"jest-20.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.2.tgz",
+			"sha": "86c751121fb53dbd39bb1a08c45083da13f2dc67",
+			"registry": "cnpmjs"
+		},
+		"jest-20.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.1.tgz",
+			"sha": "8643a195d925a00f7bdee5257d12c3aac743f3b4",
+			"registry": "cnpmjs"
+		},
+		"jest-20.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-20.0.0.tgz",
+			"sha": "f7119f92891e150b33d67505cdd6d95585156133",
+			"registry": "cnpmjs"
+		},
+		"jest-19.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-19.2.4.tgz",
+			"sha": "543651712535962b7dc615e18e4a381fc2687442",
+			"registry": "cnpmjs"
+		},
+		"jest-19.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-19.2.3.tgz",
+			"sha": "61748040e8589a891dfc2ec1d16a2dd74482980e",
+			"registry": "cnpmjs"
+		},
+		"jest-19.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-19.2.2.tgz",
+			"sha": "71f428be2fa6eb9f15bb0abc3cade67905f94839",
+			"registry": "cnpmjs"
+		},
+		"jest-19.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-19.2.1.tgz",
+			"sha": "57db82d71c1b8ca1523bfdfbb00a4d848dfcc5fe",
+			"registry": "cnpmjs"
+		},
+		"jest-19.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-19.2.0.tgz",
+			"sha": "253ed874ba134647acde4ad7d7d2c6716609b5f8",
+			"registry": "cnpmjs"
+		},
+		"jest-16.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.7.tgz",
+			"sha": "67238c1856996a8273bc6c04a2b466521e021ce9",
+			"registry": "cnpmjs"
+		},
+		"jest-18.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-18.1.1.tgz",
+			"sha": "6f63488c64726900885ab9cd5697bb7fa1b416cc",
+			"registry": "cnpmjs"
+		},
+		"jest-18.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-18.1.0.tgz",
+			"sha": "ed18f4c75b3d76de966f543fb6e3bad77d3caa17",
+			"registry": "cnpmjs"
+		},
+		"jest-16.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.6.tgz",
+			"sha": "a0073704e600c3ac4800d16a8296b34d45a60b2a",
+			"registry": "cnpmjs"
+		},
+		"jest-18.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-18.0.0.tgz",
+			"sha": "c0cfc76c426b4ef5cdad464870cd9b4b081eea29",
+			"registry": "cnpmjs"
+		},
+		"jest-16.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.5.tgz",
+			"sha": "bad01154df405180ba6e195eb80454c70666b1a7",
+			"registry": "cnpmjs"
+		},
+		"jest-16.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.4.tgz",
+			"sha": "31bdd13e2bdfa71498b022494ba04d407f9f8230",
+			"registry": "cnpmjs"
+		},
+		"jest-16.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.3.tgz",
+			"sha": "28a465586cd37d2638043ebcca91010ed89fc284",
+			"registry": "cnpmjs"
+		},
+		"jest-16.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.2.tgz",
+			"sha": "77dd322d5c59119ccc41480c57b98e4f735c1c01",
+			"registry": "cnpmjs"
+		},
+		"jest-16.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.1.tgz",
+			"sha": "c7820ab2bedefe121d0e5ffaa8d0b22f44793f24",
+			"registry": "cnpmjs"
+		},
+		"jest-16.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-16.0.0.tgz",
+			"sha": "5fe49adee6db194357a52438c0d80695b59a45e9",
+			"registry": "cnpmjs"
+		},
+		"jest-15.1.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-15.1.32.tgz",
+			"sha": "199632df1bfdb0a9a4f0f44d6aacf7c3018ae153",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.31.tgz",
+			"sha": "a62794c5ee04bef668c16a173778624ef69acd2b",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.30.tgz",
+			"sha": "26ab70ca45fd017f6e5129d7855137f99baee760",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.29.tgz",
+			"sha": "ffeeb2ec6cae64764857467adb98f28053401c1d",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.28.tgz",
+			"sha": "814bbacf5502c3f0e3e73aecf2025d770749a97a",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.27.tgz",
+			"sha": "18f77c90a0af2bf5c4d5c144e32b102cf0154b6c",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.26-alpha.tgz",
+			"sha": "75dc33f51f79690f557df0dfb9edcb25eee1c3bd",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.25-alpha.tgz",
+			"sha": "4dbd0a06404f6a0b936d1362f77321a825458991",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.24-alpha.tgz",
+			"sha": "214abc6701823101517a55f96074e0ac2daf2d1e",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.23-alpha.tgz",
+			"sha": "51e551f2982134cdfd0db2cb741e5ddca5ced85c",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.22-alpha.tgz",
+			"sha": "2791f34e9a5deee07e3210dac7d46be9ae752599",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.21-alpha.tgz",
+			"sha": "84bc1593b7fa38319d5f74bc23a1e82dd696364e",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.20-alpha.tgz",
+			"sha": "bd5bd50793a7d8ea359ed25bf6191fbd4dd2ec28",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.15-alpha.tgz",
+			"sha": "5a9ebc2c50b0c58a0624a014cfc7eccf4d1c6e46",
+			"registry": "cnpmjs"
+		},
+		"jest-0.9.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-0.9.14-alpha.tgz",
+			"sha": "749a81b2a56eae86087a91c984ad369db53154bd",
+			"registry": "cnpmjs"
+		},
+		"jest-23.3.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.9.tgz",
+			"sha": "c16b55186ee73ae65e001fbee69d392c51337ad1",
+			"registry": "cnpmjs"
+		},
+		"jest-23.3.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.8.tgz",
+			"sha": "56b07c0c3d7c8a6c47abb4f785cab648c6eafd01",
+			"registry": "cnpmjs"
+		},
+		"jest-23.3.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.7.tgz",
+			"sha": "77f9a4332ccf8db680a31818ade3ee454c831a79",
+			"registry": "cnpmjs"
+		},
+		"jest-23.3.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.6.tgz",
+			"sha": "4cfe62743e7fd56de2321d02bb73f87a13b91e06",
+			"registry": "cnpmjs"
+		},
+		"jest-23.3.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.5.tgz",
+			"sha": "870a1434208b60603745bfd214fc3fc675142364",
+			"registry": "cnpmjs"
+		},
+		"jest-23.3.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.4.tgz",
+			"sha": "cc43ae176a91dcb1504839b0b9d6659386cf0af5",
+			"registry": "cnpmjs"
+		},
+		"jest-23.3.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.3.tgz",
+			"sha": "246ebcc52771d2327bb8e37aa971b412d9dc4237",
+			"registry": "cnpmjs"
+		},
+		"jest-23.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.2.tgz",
+			"sha": "07b90f6adf75d42c34230c026a2529e56c249dbb",
+			"registry": "cnpmjs"
+		},
+		"jest-23.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.1.tgz",
+			"sha": "a4319aedb071d478e6f407d1c4578ec8156829cf",
+			"registry": "cnpmjs"
+		},
+		"jest-23.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.3.0.tgz",
+			"sha": "5dd70033b616a6228042244ebd992f6426808810",
+			"registry": "cnpmjs"
+		},
+		"jest-23.1.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.6.tgz",
+			"sha": "11c88f738f5b57d1a9dd4970c576a6639b8f0f37",
+			"registry": "cnpmjs"
+		},
+		"jest-23.1.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.5.tgz",
+			"sha": "e31be003956e1fa8c860124d99bea9ae327ae37b",
+			"registry": "cnpmjs"
+		},
+		"jest-23.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.4.tgz",
+			"sha": "71e1e2d08b1db742f479ee2795536ebc999a2419",
+			"registry": "cnpmjs"
+		},
+		"jest-23.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.3.tgz",
+			"sha": "4db19b2e7627dc254bbed5781b5609c621b5ad8e",
+			"registry": "cnpmjs"
+		},
+		"jest-23.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.2.tgz",
+			"sha": "a6cd37deb9110a8c63dc1435d6ee2518b3bd8e54",
+			"registry": "cnpmjs"
+		},
+		"jest-23.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.1.tgz",
+			"sha": "c54ab1a5f41aa693c0957222dd10414416d0c87b",
+			"registry": "cnpmjs"
+		},
+		"jest-23.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.1.0.tgz",
+			"sha": "8054dd838ba23dc331794d26456b86c7e50bf0f6",
+			"registry": "cnpmjs"
+		},
+		"jest-23.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.0.2.tgz",
+			"sha": "f03f9e6dd2206cc2a2e8fd033161b0b7cf905db6",
+			"registry": "cnpmjs"
+		},
+		"jest-23.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest/download/@types/jest-23.0.1.tgz",
+			"sha": "c60dbed0bac210343d5dd0413744d6c8d0afac47",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"217dc-7ZSWtGtnjPe/MRpFmqDTKY8OvL4\"",
+			"fetched": 1541833469863
+		}
+	},
+	"_rev": "2-7f0e0796249c08f1",
+	"readme": "# Installation\r\n> `npm install --save @types/jest`\r\n\r\n# Summary\r\nThis package contains type definitions for Jest (http://facebook.github.io/jest/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/jest\r\n\r\nAdditional Details\r\n * Last updated: Tue, 30 Oct 2018 19:52:56 GMT\r\n * Dependencies: none\r\n * Global values: afterAll, afterEach, beforeAll, beforeEach, describe, expect, fail, fdescribe, fit, it, jasmine, jest, pending, spyOn, test, xdescribe, xit, xtest\r\n\r\n# Credits\r\nThese definitions were written by Asana <https://asana.com>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>, Alexey Svetliakov <https://github.com/asvetliakov>, Alex Jover Morales <https://github.com/alexjoverm>, Allan Lukwago <https://github.com/epicallan>, Ika <https://github.com/ikatyang>, Waseem Dahman <https://github.com/wsmd>, Jamie Mason <https://github.com/JamieMason>, Douglas Duteil <https://github.com/douglasduteil>, Ahn <https://github.com/ahnpnl>, Josh Goldberg <https://github.com/joshuakgoldberg>, Jeff Lau <https://github.com/UselessPickles>, Andrew Makarov <https://github.com/r3nya>, Martin Hochel <https://github.com/hotell>, Sebastian Sebald <https://github.com/sebald>, Andy <https://github.com/andys8>."
+}

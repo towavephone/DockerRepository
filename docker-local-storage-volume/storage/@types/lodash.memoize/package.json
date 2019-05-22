@@ -1,0 +1,326 @@
+{
+	"name": "@types/lodash.memoize",
+	"versions": {
+		"4.1.3": {
+			"name": "@types/lodash.memoize",
+			"version": "4.1.3",
+			"description": "TypeScript definitions for lodash.memoize",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "efffc4e87d2c58fe463d3ffda960ceb287eda14f056613ee48b5c452ec7eb7d2",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.memoize@4.1.3",
+			"dist": {
+				"shasum": "7d3cd9cb9cd87085c9ee8a1679991180e6dae3cc",
+				"size": 1589,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.memoize/download/@types/lodash.memoize-4.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.memoize-4.1.3.tgz_1502229007221_0.04163550375960767"
+			},
+			"directories": {},
+			"publish_time": 1502229007396,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502229007396
+		},
+		"4.1.2": {
+			"name": "@types/lodash.memoize",
+			"version": "4.1.2",
+			"description": "TypeScript definitions for lodash.memoize",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bbc39eeab9294b9f524ba4280ac63e729166a37121e6054967947d7b8165f99d",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.memoize@4.1.2",
+			"dist": {
+				"shasum": "381759d1f711c0df91a3d61b045fd8070b927c7e",
+				"size": 872,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.memoize/download/@types/lodash.memoize-4.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.memoize-4.1.2.tgz_1490212723631_0.39675365132279694"
+			},
+			"directories": {},
+			"publish_time": 1490212725634,
+			"_cnpm_publish_time": 1490212725634,
+			"_hasShrinkwrap": false
+		},
+		"4.1.1": {
+			"name": "@types/lodash.memoize",
+			"version": "4.1.1",
+			"description": "TypeScript definitions for lodash.memoize",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "26f7b57a64c0af49db923dac8152c5a2fc9a042e77e84e2dbe38a6adfadcc862",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.memoize@4.1.1",
+			"dist": {
+				"shasum": "de64487c0e68c5b48b604e6cd158186b313f097c",
+				"size": 1043,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.memoize/download/@types/lodash.memoize-4.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.memoize-4.1.1.tgz_1485553741052_0.2535649973433465"
+			},
+			"directories": {},
+			"publish_time": 1485553741268,
+			"_cnpm_publish_time": 1485553741268,
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "@types/lodash.memoize",
+			"version": "4.1.0",
+			"description": "TypeScript definitions for lodash.memoize",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "59f557ff606b32e0f50ca2a123a96471ac51296e685e6270adb7859b535ffb70",
+			"_id": "@types/lodash.memoize@4.1.0",
+			"dist": {
+				"shasum": "adb82eb9ebe211bebf4346a155f81a1b2693c057",
+				"size": 1020,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.memoize/download/@types/lodash.memoize-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.memoize-4.1.0.tgz_1480973566210_0.3083578306250274"
+			},
+			"directories": {},
+			"publish_time": 1480973566428,
+			"_cnpm_publish_time": 1480973566428,
+			"_hasShrinkwrap": false
+		},
+		"4.1.4": {
+			"name": "@types/lodash.memoize",
+			"version": "4.1.4",
+			"description": "TypeScript definitions for lodash.memoize",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "dcd6ccd0f542d4fd0121ad00e5b6cfdd2581087d8fbff1a21540cd6b60afeeb9",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.memoize@4.1.4",
+			"dist": {
+				"shasum": "d810e7cf438d322074b86bf3cfc14f8b5186619e",
+				"size": 1591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.memoize/download/@types/lodash.memoize-4.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.memoize_4.1.4_1532393341376_0.39177452914839406"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532393341445,
+			"_cnpm_publish_time": 1532393341445
+		}
+	},
+	"dist-tags": {
+		"latest": "4.1.4",
+		"ts2.0": "4.1.0",
+		"ts2.1": "4.1.1",
+		"ts2.2": "4.1.3",
+		"ts2.3": "4.1.3",
+		"ts2.4": "4.1.3",
+		"ts2.5": "4.1.3",
+		"ts2.6": "4.1.4",
+		"ts2.7": "4.1.4",
+		"ts2.8": "4.1.4",
+		"ts2.9": "4.1.4",
+		"ts3.0": "4.1.4",
+		"ts3.1": "4.1.4",
+		"ts3.2": "4.1.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:16:31.000Z",
+		"created": "2016-12-05T21:32:46.428Z",
+		"4.1.4": "2018-07-24T00:49:01.445Z",
+		"4.1.3": "2017-08-08T21:50:07.396Z",
+		"4.1.2": "2017-03-22T19:58:45.634Z",
+		"4.1.1": "2017-01-27T21:49:01.268Z",
+		"4.1.0": "2016-12-05T21:32:46.428Z"
+	},
+	"_distfiles": {
+		"lodash.memoize-4.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.memoize/download/@types/lodash.memoize-4.1.3.tgz",
+			"sha": "7d3cd9cb9cd87085c9ee8a1679991180e6dae3cc",
+			"registry": "cnpmjs"
+		},
+		"lodash.memoize-4.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.memoize/download/@types/lodash.memoize-4.1.2.tgz",
+			"sha": "381759d1f711c0df91a3d61b045fd8070b927c7e",
+			"registry": "cnpmjs"
+		},
+		"lodash.memoize-4.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.memoize/download/@types/lodash.memoize-4.1.1.tgz",
+			"sha": "de64487c0e68c5b48b604e6cd158186b313f097c",
+			"registry": "cnpmjs"
+		},
+		"lodash.memoize-4.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.memoize/download/@types/lodash.memoize-4.1.0.tgz",
+			"sha": "adb82eb9ebe211bebf4346a155f81a1b2693c057",
+			"registry": "cnpmjs"
+		},
+		"lodash.memoize-4.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.memoize/download/@types/lodash.memoize-4.1.4.tgz",
+			"sha": "d810e7cf438d322074b86bf3cfc14f8b5186619e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1de4-L07DOGcvsDWI0Jw5v+wBbNXfmyE\"",
+			"fetched": 1541833484717
+		}
+	},
+	"_rev": "2-b3d08c8033d95e3c",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.memoize`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.memoize (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.memoize\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:12 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

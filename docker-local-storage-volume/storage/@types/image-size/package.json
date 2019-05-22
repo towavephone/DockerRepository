@@ -1,0 +1,680 @@
+{
+	"name": "@types/image-size",
+	"versions": {
+		"0.0.29": {
+			"name": "@types/image-size",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for image-size",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Elisée MAURER",
+					"url": "https://github.com/elisee"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "8772bcee3c47720c26d7a3dce3db2cc9b072dbb4c71a6eae0b82ef11e87c3224",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/image-size@0.0.29",
+			"dist": {
+				"shasum": "0924d4ec95edc82f615b7f634cba31534b81c351",
+				"size": 1612,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/image-size-0.0.29.tgz_1503352543129_0.22421089513227344"
+			},
+			"directories": {},
+			"publish_time": 1503352543356,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352543356
+		},
+		"0.0.28": {
+			"name": "@types/image-size",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for image-size",
+			"license": "MIT",
+			"author": "Elisée MAURER <https://github.com/elisee/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "2f550957041411a9bac26d150638d2c708795d8524969dfe851314c907f026a4",
+			"_id": "@types/image-size@0.0.28",
+			"dist": {
+				"shasum": "6caa04debd6c2c3dcc77ee03fa5fc108841d2231",
+				"size": 1138,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.28.tgz_1474306778313_0.9690169291570783"
+			},
+			"directories": {},
+			"publish_time": 1474306782531,
+			"_cnpm_publish_time": 1474306782531,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/image-size",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for image-size",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/image-size@0.0.27",
+			"_shasum": "116f9f6c7542673c637d39889b4f0f88b2dc08ff",
+			"_from": "output\\image-size",
+			"_resolved": "file:output\\image-size",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "116f9f6c7542673c637d39889b4f0f88b2dc08ff",
+				"size": 1122,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.27.tgz_1468508052923_0.1503277667798102"
+			},
+			"directories": {},
+			"publish_time": 1468508055190,
+			"_cnpm_publish_time": 1468508055190,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/image-size",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for image-size",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/image-size@0.0.26-alpha",
+			"_shasum": "87cdb91a9e3222562cf6fc2281518a2e3404abac",
+			"_from": "output\\image-size",
+			"_resolved": "file:output\\image-size",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "87cdb91a9e3222562cf6fc2281518a2e3404abac",
+				"size": 1127,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.26-alpha.tgz_1468009576478_0.5699092445429415"
+			},
+			"directories": {},
+			"publish_time": 1468009579120,
+			"_cnpm_publish_time": 1468009579120,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/image-size",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for image-size",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/image-size@0.0.25-alpha",
+			"_shasum": "5ba491121bff119e1d48155820ab25aab3c2440f",
+			"_from": "output\\image-size",
+			"_resolved": "file:output\\image-size",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5ba491121bff119e1d48155820ab25aab3c2440f",
+				"size": 1126,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.25-alpha.tgz_1467592079791_0.3349539809860289"
+			},
+			"directories": {},
+			"publish_time": 1467592080271,
+			"_cnpm_publish_time": 1467592080271,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/image-size",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for image-size",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/image-size@0.0.24-alpha",
+			"_shasum": "ef45621ae3ba7130c137ceaa0b4e0fc88cad09ec",
+			"_from": "output\\image-size",
+			"_resolved": "file:output\\image-size",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ef45621ae3ba7130c137ceaa0b4e0fc88cad09ec",
+				"size": 1124,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.24-alpha.tgz_1467427334789_0.7760740108788013"
+			},
+			"directories": {},
+			"publish_time": 1467427338371,
+			"_cnpm_publish_time": 1467427338371,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/image-size",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for image-size",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha"
+			},
+			"_id": "@types/image-size@0.0.23-alpha",
+			"_shasum": "824f8df2040114c7e126339493b11d7c03238d6c",
+			"_from": "output\\image-size",
+			"_resolved": "file:output\\image-size",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "824f8df2040114c7e126339493b11d7c03238d6c",
+				"size": 1125,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.23-alpha.tgz_1467414076838_0.8384208308998495"
+			},
+			"directories": {},
+			"publish_time": 1467414079045,
+			"_cnpm_publish_time": 1467414079045,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/image-size",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for image-size",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/image-size@0.0.22-alpha",
+			"_shasum": "5d258160948966219d4893090934475df590adfd",
+			"_from": "output\\image-size",
+			"_resolved": "file:output\\image-size",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5d258160948966219d4893090934475df590adfd",
+				"size": 1125,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.22-alpha.tgz_1467401984936_0.22419957863166928"
+			},
+			"directories": {},
+			"publish_time": 1467401987158,
+			"_cnpm_publish_time": 1467401987158,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/image-size",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for image-size",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/image-size@0.0.21-alpha",
+			"_shasum": "525d6e8c153d3b87e19affba150e87626f2bc1cc",
+			"_from": "output\\image-size",
+			"_resolved": "file:output\\image-size",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "525d6e8c153d3b87e19affba150e87626f2bc1cc",
+				"size": 1092,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.21-alpha.tgz_1464152810745_0.8920272563118488"
+			},
+			"directories": {},
+			"publish_time": 1464152811235,
+			"_cnpm_publish_time": 1464152811235,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/image-size",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for image-size",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/image-size@0.0.20-alpha",
+			"_shasum": "92db3573bd4821a8648485a1e8b697d7cebeb56d",
+			"_from": "output\\image-size",
+			"_resolved": "file:output\\image-size",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "92db3573bd4821a8648485a1e8b697d7cebeb56d",
+				"size": 1092,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.20-alpha.tgz_1463773710880_0.2558725425042212"
+			},
+			"directories": {},
+			"publish_time": 1463773711310,
+			"_cnpm_publish_time": 1463773711310,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/image-size",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for image-size from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/image-size@0.0.15-alpha",
+			"_shasum": "8e9bbe7a1c31b478ccb7cf93a7f0cb0ac82cf821",
+			"_from": "output\\image-size",
+			"_resolved": "file:output\\image-size",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8e9bbe7a1c31b478ccb7cf93a7f0cb0ac82cf821",
+				"size": 1105,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.15-alpha.tgz_1463692304410_0.07575161173008382"
+			},
+			"directories": {},
+			"publish_time": 1463692309094,
+			"_cnpm_publish_time": 1463692309094,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/image-size",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for image-size from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/image-size@0.0.14-alpha",
+			"_shasum": "33451802ef1184bb6cd643d2378be790f740f904",
+			"_from": "output\\image-size",
+			"_resolved": "file:output\\image-size",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "33451802ef1184bb6cd643d2378be790f740f904",
+				"size": 1085,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/image-size-0.0.14-alpha.tgz_1463461916660_0.9210635777562857"
+			},
+			"directories": {},
+			"publish_time": 1463461917283,
+			"_cnpm_publish_time": 1463461917283,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.29",
+		"ts2.0": "0.0.29",
+		"ts2.1": "0.0.29",
+		"ts2.2": "0.0.29",
+		"ts2.3": "0.0.29",
+		"ts2.4": "0.0.29",
+		"ts2.5": "0.0.29",
+		"ts2.6": "0.0.29",
+		"ts2.7": "0.0.29",
+		"ts2.8": "0.0.29",
+		"ts2.9": "0.0.29",
+		"ts3.0": "0.0.29",
+		"ts3.1": "0.0.29",
+		"ts3.2": "0.0.29"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:46.000Z",
+		"created": "2016-05-17T05:11:57.283Z",
+		"0.0.29": "2017-08-21T21:55:43.356Z",
+		"0.0.28": "2016-09-19T17:39:42.531Z",
+		"0.0.27": "2016-07-14T14:54:15.190Z",
+		"0.0.26-alpha": "2016-07-08T20:26:19.120Z",
+		"0.0.25-alpha": "2016-07-04T00:28:00.271Z",
+		"0.0.24-alpha": "2016-07-02T02:42:18.371Z",
+		"0.0.23-alpha": "2016-07-01T23:01:19.045Z",
+		"0.0.22-alpha": "2016-07-01T19:39:47.158Z",
+		"0.0.21-alpha": "2016-05-25T05:06:51.235Z",
+		"0.0.20-alpha": "2016-05-20T19:48:31.310Z",
+		"0.0.15-alpha": "2016-05-19T21:11:49.094Z",
+		"0.0.14-alpha": "2016-05-17T05:11:57.283Z"
+	},
+	"_distfiles": {
+		"image-size-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.29.tgz",
+			"sha": "0924d4ec95edc82f615b7f634cba31534b81c351",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.28.tgz",
+			"sha": "6caa04debd6c2c3dcc77ee03fa5fc108841d2231",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.27.tgz",
+			"sha": "116f9f6c7542673c637d39889b4f0f88b2dc08ff",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.26-alpha.tgz",
+			"sha": "87cdb91a9e3222562cf6fc2281518a2e3404abac",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.25-alpha.tgz",
+			"sha": "5ba491121bff119e1d48155820ab25aab3c2440f",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.24-alpha.tgz",
+			"sha": "ef45621ae3ba7130c137ceaa0b4e0fc88cad09ec",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.23-alpha.tgz",
+			"sha": "824f8df2040114c7e126339493b11d7c03238d6c",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.22-alpha.tgz",
+			"sha": "5d258160948966219d4893090934475df590adfd",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.21-alpha.tgz",
+			"sha": "525d6e8c153d3b87e19affba150e87626f2bc1cc",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.20-alpha.tgz",
+			"sha": "92db3573bd4821a8648485a1e8b697d7cebeb56d",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.15-alpha.tgz",
+			"sha": "8e9bbe7a1c31b478ccb7cf93a7f0cb0ac82cf821",
+			"registry": "cnpmjs"
+		},
+		"image-size-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/image-size/download/@types/image-size-0.0.14-alpha.tgz",
+			"sha": "33451802ef1184bb6cd643d2378be790f740f904",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833456588
+		}
+	},
+	"_rev": "2-2ad1d689789ec785",
+	"readme": "# Installation\r\n> `npm install --save @types/image-size`\r\n\r\n# Summary\r\nThis package contains type definitions for image-size (https://github.com/image-size/image-size).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/image-size\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 21:55:03 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Elisée MAURER <https://github.com/elisee>."
+}

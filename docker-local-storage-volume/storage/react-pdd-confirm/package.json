@@ -1,0 +1,119 @@
+{
+	"name": "react-pdd-confirm",
+	"versions": {
+		"0.0.1-security": {
+			"name": "react-pdd-confirm",
+			"version": "0.0.1-security",
+			"description": "This package name is not currently in use, but was formerly occupied by another package. To avoid malicious use, npm is hanging on to the package name, but loosely, and we'll probably give it to you if you want it.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/security-holder.git"
+			},
+			"keywords": [],
+			"author": "",
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/npm/security-holder/issues"
+			},
+			"homepage": "https://github.com/npm/security-holder#readme",
+			"gitHead": "9ef10011153183d323ed420df5bb17eaf08ab730",
+			"_id": "react-pdd-confirm@0.0.1-security",
+			"_shasum": "d4d89aa22c1e008dbf78cef3dbf60540feecaa83",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "kmanion",
+				"email": "kiera@npmjs.com"
+			},
+			"dist": {
+				"shasum": "d4d89aa22c1e008dbf78cef3dbf60540feecaa83",
+				"size": 583,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-pdd-confirm/download/react-pdd-confirm-0.0.1-security.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "npm",
+					"email": "npm@npmjs.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-pdd-confirm-0.0.1-security.tgz_1487304057080_0.9757442700210959"
+			},
+			"directories": {},
+			"publish_time": 1487304057307,
+			"_cnpm_publish_time": 1487304057307,
+			"_hasShrinkwrap": false
+		},
+		"1.0.6": {
+			"name": "react-pdd-confirm",
+			"version": "1.0.6",
+			"description": "确认框组件",
+			"main": "src/index.jsx",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"确认框",
+				"confirm"
+			],
+			"author": {
+				"name": "邃宇"
+			},
+			"license": "ISC",
+			"dependencies": {
+				"react-pdd-base": "^1.0.12"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"repository": {
+				"type": "git"
+			},
+			"_id": "react-pdd-confirm@1.0.6",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "9.2.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-aGcjxZiNQuXrgjodprM5j5M3A8pnI47X2KIhkWmDDs3+HCN5MkA2nFKbWF5uLqho+YNSkAzRCDfqQIN8Nd6UQQ==",
+				"shasum": "a4ec742f6fedd4369c1703f46c2c48c064ac93d2",
+				"tarball": "http://npmjs.towavephone.com/react-pdd-confirm/-/react-pdd-confirm-1.0.6.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.6"
+	},
+	"time": {
+		"modified": "2017-03-31T15:14:49.000Z",
+		"created": "2017-02-17T04:00:57.307Z",
+		"0.0.1-security": "2017-02-17T04:00:57.307Z"
+	},
+	"_distfiles": {
+		"react-pdd-confirm-0.0.1-security.tgz": {
+			"url": "https://registry.npm.taobao.org/react-pdd-confirm/download/react-pdd-confirm-0.0.1-security.tgz",
+			"sha": "d4d89aa22c1e008dbf78cef3dbf60540feecaa83",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {
+		"react-pdd-confirm-1.0.6.tgz": {
+			"shasum": "a4ec742f6fedd4369c1703f46c2c48c064ac93d2",
+			"version": "1.0.6"
+		}
+	},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"9ff-N7j6QimSHcC/xMfhBZIdCoxyAy0\"",
+			"fetched": 1527747701703
+		}
+	},
+	"_rev": "26-b5f1ee61a78e0dc2",
+	"readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,204 @@
+{
+	"name": "@types/rx-lite-async",
+	"versions": {
+		"4.0.2": {
+			"name": "@types/rx-lite-async",
+			"version": "4.0.2",
+			"description": "TypeScript definitions for rx-lite-async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "zoetrope",
+					"url": "https://github.com/zoetrope"
+				},
+				{
+					"name": "Igor Oleinikov",
+					"url": "https://github.com/Igorbek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/rx-lite": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7040116ce3c655194144cff293f424e755918d0749b61d506372506441d77a69",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/rx-lite-async@4.0.2",
+			"dist": {
+				"shasum": "27fbf0caeff029f41e2d2aae638b05e91ceb600c",
+				"size": 2068,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx-lite-async/download/@types/rx-lite-async-4.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rx-lite-async-4.0.2.tgz_1497019937951_0.17182078561745584"
+			},
+			"directories": {},
+			"publish_time": 1497019938033,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497019938033
+		},
+		"4.0.1": {
+			"name": "@types/rx-lite-async",
+			"version": "4.0.1",
+			"description": "TypeScript definitions for rx-lite-async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "zoetrope",
+					"url": "https://github.com/zoetrope"
+				},
+				{
+					"name": "Igor Oleinikov",
+					"url": "https://github.com/Igorbek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/rx-lite": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "09d2593d90c5d13b45a7faa8d4c183c39c804118a8808f9b93efdb9020ce2820",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/rx-lite-async@4.0.1",
+			"dist": {
+				"shasum": "fbc85d52ef380b95c9c609f55c5b96500eeb16aa",
+				"size": 1371,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx-lite-async/download/@types/rx-lite-async-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rx-lite-async-4.0.1.tgz_1490983654554_0.5708310701884329"
+			},
+			"directories": {},
+			"publish_time": 1490983654815,
+			"_cnpm_publish_time": 1490983654815,
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "@types/rx-lite-async",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for rx-lite-async",
+			"license": "MIT",
+			"author": "zoetrope <https://github.com/zoetrope>, Igor Oleinikov <https://github.com/Igorbek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/rx-lite": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "703ada97a053882d68aee799e377af172eb785d0166d96d6d6a3cacab32f870d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/rx-lite-async@4.0.0",
+			"dist": {
+				"shasum": "c20d2a6dfe57a240296febbcc152fd070f6e2ee7",
+				"size": 1525,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx-lite-async/download/@types/rx-lite-async-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rx-lite-async-4.0.0.tgz_1483540610537_0.33774044644087553"
+			},
+			"directories": {},
+			"publish_time": 1483540610751,
+			"_cnpm_publish_time": 1483540610751,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "4.0.2",
+		"ts2.0": "4.0.2",
+		"ts2.1": "4.0.2",
+		"ts2.2": "4.0.2",
+		"ts2.3": "4.0.2",
+		"ts2.4": "4.0.2",
+		"ts2.5": "4.0.2",
+		"ts2.6": "4.0.2",
+		"ts2.7": "4.0.2",
+		"ts2.8": "4.0.2",
+		"ts2.9": "4.0.2",
+		"ts3.0": "4.0.2",
+		"ts3.1": "4.0.2",
+		"ts3.2": "4.0.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:27:56.000Z",
+		"created": "2017-01-04T14:36:50.751Z",
+		"4.0.2": "2017-06-09T14:52:18.033Z",
+		"4.0.1": "2017-03-31T18:07:34.815Z",
+		"4.0.0": "2017-01-04T14:36:50.751Z"
+	},
+	"_distfiles": {
+		"rx-lite-async-4.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx-lite-async/download/@types/rx-lite-async-4.0.2.tgz",
+			"sha": "27fbf0caeff029f41e2d2aae638b05e91ceb600c",
+			"registry": "cnpmjs"
+		},
+		"rx-lite-async-4.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx-lite-async/download/@types/rx-lite-async-4.0.1.tgz",
+			"sha": "fbc85d52ef380b95c9c609f55c5b96500eeb16aa",
+			"registry": "cnpmjs"
+		},
+		"rx-lite-async-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx-lite-async/download/@types/rx-lite-async-4.0.0.tgz",
+			"sha": "c20d2a6dfe57a240296febbcc152fd070f6e2ee7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"130b-s+90kTeoDXgiRiaejLWf2KfE000\"",
+			"fetched": 1541833469234
+		}
+	},
+	"_rev": "4-5ff872867b9f0323",
+	"readme": "# Installation\r\n> `npm install --save @types/rx-lite-async`\r\n\r\n# Summary\r\nThis package contains type definitions for rx-lite-async (https://github.com/Reactive-Extensions/RxJS).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/rx-lite-async\r\n\r\nAdditional Details\r\n * Last updated: Fri, 09 Jun 2017 14:51:29 GMT\r\n * Dependencies: rx-lite\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by zoetrope <https://github.com/zoetrope>, Igor Oleinikov <https://github.com/Igorbek>."
+}

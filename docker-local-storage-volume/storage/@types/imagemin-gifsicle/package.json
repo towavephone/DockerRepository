@@ -1,0 +1,90 @@
+{
+	"name": "@types/imagemin-gifsicle",
+	"versions": {
+		"5.2.0": {
+			"name": "@types/imagemin-gifsicle",
+			"version": "5.2.0",
+			"description": "TypeScript definitions for imagemin-gifsicle",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Romain Faust",
+					"url": "https://github.com/romain-faust",
+					"githubUsername": "romain-faust"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/imagemin": "*"
+			},
+			"typesPublisherContentHash": "4513a0c8792e98cb4bd5633e6888d7b3a659775139b514cfb714c013de353ca8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/imagemin-gifsicle@5.2.0",
+			"dist": {
+				"shasum": "349160f17412e26de8d5794e70aad504781ea7d8",
+				"size": 1593,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/imagemin-gifsicle/download/@types/imagemin-gifsicle-5.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/imagemin-gifsicle_5.2.0_1535254251914_0.7681625050441807"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535254251978,
+			"_cnpm_publish_time": 1535254251978
+		}
+	},
+	"dist-tags": {
+		"latest": "5.2.0",
+		"ts2.0": "5.2.0",
+		"ts2.1": "5.2.0",
+		"ts2.2": "5.2.0",
+		"ts2.3": "5.2.0",
+		"ts2.4": "5.2.0",
+		"ts2.5": "5.2.0",
+		"ts2.6": "5.2.0",
+		"ts2.7": "5.2.0",
+		"ts2.8": "5.2.0",
+		"ts2.9": "5.2.0",
+		"ts3.0": "5.2.0",
+		"ts3.1": "5.2.0",
+		"ts3.2": "5.2.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:46.000Z",
+		"created": "2018-08-26T03:30:51.978Z",
+		"5.2.0": "2018-08-26T03:30:51.978Z"
+	},
+	"_distfiles": {
+		"imagemin-gifsicle-5.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/imagemin-gifsicle/download/@types/imagemin-gifsicle-5.2.0.tgz",
+			"sha": "349160f17412e26de8d5794e70aad504781ea7d8",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833456607
+		}
+	},
+	"_rev": "1-6addec3efafd19ef",
+	"readme": "# Installation\r\n> `npm install --save @types/imagemin-gifsicle`\r\n\r\n# Summary\r\nThis package contains type definitions for imagemin-gifsicle (https://github.com/imagemin/imagemin-gifsicle#readme).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/imagemin-gifsicle\r\n\r\nAdditional Details\r\n * Last updated: Sun, 26 Aug 2018 03:30:33 GMT\r\n * Dependencies: imagemin\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Romain Faust <https://github.com/romain-faust>."
+}

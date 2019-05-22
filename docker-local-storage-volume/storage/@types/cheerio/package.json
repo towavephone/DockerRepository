@@ -1,0 +1,1358 @@
+{
+	"name": "@types/cheerio",
+	"versions": {
+		"0.22.7": {
+			"name": "@types/cheerio",
+			"version": "0.22.7",
+			"description": "TypeScript definitions for Cheerio",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bret Little",
+					"url": "https://github.com/blittle",
+					"githubUsername": "blittle"
+				},
+				{
+					"name": "VILIC VANE",
+					"url": "http://vilic.info"
+				},
+				{
+					"name": "Wayne Maurer",
+					"url": "https://github.com/wmaurer",
+					"githubUsername": "wmaurer"
+				},
+				{
+					"name": "Umar Nizamani",
+					"url": "https://github.com/umarniz",
+					"githubUsername": "umarniz"
+				},
+				{
+					"name": "LiJinyao",
+					"url": "https://github.com/LiJinyao",
+					"githubUsername": "LiJinyao"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7bad95b5e2c259cc176a97edbd6784b9c38ad54d920ccca81730d5dde39858b4",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cheerio@0.22.7",
+			"dist": {
+				"shasum": "4a92eafedfb2b9f4437d3a4410006d81114c66ce",
+				"size": 3130,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cheerio-0.22.7.tgz_1514593581381_0.05350034101866186"
+			},
+			"directories": {},
+			"publish_time": 1514593581460,
+			"_cnpm_publish_time": 1514593581460,
+			"_hasShrinkwrap": false
+		},
+		"0.22.6": {
+			"name": "@types/cheerio",
+			"version": "0.22.6",
+			"description": "TypeScript definitions for Cheerio",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bret Little",
+					"url": "https://github.com/blittle",
+					"githubUsername": "blittle"
+				},
+				{
+					"name": "VILIC VANE",
+					"url": "http://vilic.info"
+				},
+				{
+					"name": "Wayne Maurer",
+					"url": "https://github.com/wmaurer",
+					"githubUsername": "wmaurer"
+				},
+				{
+					"name": "Umar Nizamani",
+					"url": "https://github.com/umarniz",
+					"githubUsername": "umarniz"
+				},
+				{
+					"name": "LiJinyao",
+					"url": "https://github.com/LiJinyao",
+					"githubUsername": "LiJinyao"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "16a6e7eb2f03653c9c743a6138bd283c0a184f4e9a99b2af41ee0d80e4c02e58",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cheerio@0.22.6",
+			"dist": {
+				"shasum": "ad8c630a942efe3fc59165857851b55f95de2d50",
+				"size": 3136,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cheerio-0.22.6.tgz_1511804928101_0.8232674077153206"
+			},
+			"directories": {},
+			"publish_time": 1511804928178,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511804928178
+		},
+		"0.22.5": {
+			"name": "@types/cheerio",
+			"version": "0.22.5",
+			"description": "TypeScript definitions for Cheerio",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bret Little",
+					"url": "https://github.com/blittle",
+					"githubUsername": "blittle"
+				},
+				{
+					"name": "VILIC VANE",
+					"url": "http://vilic.info"
+				},
+				{
+					"name": "Wayne Maurer",
+					"url": "https://github.com/wmaurer",
+					"githubUsername": "wmaurer"
+				},
+				{
+					"name": "Umar Nizamani",
+					"url": "https://github.com/umarniz",
+					"githubUsername": "umarniz"
+				},
+				{
+					"name": "LiJinyao",
+					"url": "https://github.com/LiJinyao",
+					"githubUsername": "LiJinyao"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "ef86f4d5f7723882b360aba83e614e94dd31f74178e4ab2cd4f2d823b9bcf00b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cheerio@0.22.5",
+			"dist": {
+				"shasum": "db749e8470d98f103d51407db9bee5a8b9d20d45",
+				"size": 3127,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cheerio-0.22.5.tgz_1509479388738_0.021224965807050467"
+			},
+			"directories": {},
+			"publish_time": 1509479388847,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509479388847
+		},
+		"0.22.4": {
+			"name": "@types/cheerio",
+			"version": "0.22.4",
+			"description": "TypeScript definitions for Cheerio",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bret Little",
+					"url": "https://github.com/blittle",
+					"githubUsername": "blittle"
+				},
+				{
+					"name": "VILIC VANE",
+					"url": "http://vilic.info"
+				},
+				{
+					"name": "Wayne Maurer",
+					"url": "https://github.com/wmaurer",
+					"githubUsername": "wmaurer"
+				},
+				{
+					"name": "Umar Nizamani",
+					"url": "https://github.com/umarniz",
+					"githubUsername": "umarniz"
+				},
+				{
+					"name": "LiJinyao",
+					"url": "https://github.com/LiJinyao",
+					"githubUsername": "LiJinyao"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "2bdacfe4210569e711d73e1d2e3f9b94779c84814e1da402605aa014f28ea13c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cheerio@0.22.4",
+			"dist": {
+				"shasum": "0c8d546ef43c249070223cf8bf9cbac29ac0e64e",
+				"size": 3117,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cheerio-0.22.4.tgz_1509149344495_0.7478623380884528"
+			},
+			"directories": {},
+			"publish_time": 1509149344563,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509149344563
+		},
+		"0.22.3": {
+			"name": "@types/cheerio",
+			"version": "0.22.3",
+			"description": "TypeScript definitions for Cheerio",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bret Little",
+					"url": "https://github.com/blittle",
+					"githubUsername": "blittle"
+				},
+				{
+					"name": "VILIC VANE",
+					"url": "http://vilic.info"
+				},
+				{
+					"name": "Wayne Maurer",
+					"url": "https://github.com/wmaurer",
+					"githubUsername": "wmaurer"
+				},
+				{
+					"name": "Umar Nizamani",
+					"url": "https://github.com/umarniz",
+					"githubUsername": "umarniz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "9e1f5051816686087925bf4efde305b3606f79854034ada33cbe2910eaf22345",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cheerio@0.22.3",
+			"dist": {
+				"shasum": "c448036ec3d1b4fd8a61c6b37b3faa6d9c8b7b97",
+				"size": 3086,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cheerio-0.22.3.tgz_1507592794198_0.47686790814623237"
+			},
+			"directories": {},
+			"publish_time": 1507592794304,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507592794304
+		},
+		"0.22.2": {
+			"name": "@types/cheerio",
+			"version": "0.22.2",
+			"description": "TypeScript definitions for Cheerio",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bret Little",
+					"url": "https://github.com/blittle"
+				},
+				{
+					"name": "VILIC VANE",
+					"url": "http://vilic.info"
+				},
+				{
+					"name": "Wayne Maurer",
+					"url": "https://github.com/wmaurer"
+				},
+				{
+					"name": "Umar Nizamani",
+					"url": "https://github.com/umarniz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3ac829479197a5cdd2c7d846983df1b96816602575bc70943522b5d7c653fa96",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cheerio@0.22.2",
+			"dist": {
+				"shasum": "539625874bc856086ad491c2fdc9b10c05ae308e",
+				"size": 3070,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cheerio-0.22.2.tgz_1499265088523_0.23300230549648404"
+			},
+			"directories": {},
+			"publish_time": 1499265088689,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1499265088689
+		},
+		"0.22.1": {
+			"name": "@types/cheerio",
+			"version": "0.22.1",
+			"description": "TypeScript definitions for Cheerio",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bret Little",
+					"url": "https://github.com/blittle"
+				},
+				{
+					"name": "VILIC VANE",
+					"url": "http://vilic.info"
+				},
+				{
+					"name": "Wayne Maurer",
+					"url": "https://github.com/wmaurer"
+				},
+				{
+					"name": "Umar Nizamani",
+					"url": "https://github.com/umarniz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ab0157ada9837cb05edbce519ebbc787788270d2b0a41ed34589147a240ba7d4",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cheerio@0.22.1",
+			"dist": {
+				"shasum": "740c4cd8c4d3f3074f83b9ab62e711eac2c764ce",
+				"size": 2365,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.22.1.tgz_1490647460432_0.24036881746724248"
+			},
+			"directories": {},
+			"publish_time": 1490647460675,
+			"_cnpm_publish_time": 1490647460675,
+			"_hasShrinkwrap": false
+		},
+		"0.22.0": {
+			"name": "@types/cheerio",
+			"version": "0.22.0",
+			"description": "TypeScript definitions for Cheerio",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bret Little",
+					"url": "https://github.com/blittle"
+				},
+				{
+					"name": "VILIC VANE",
+					"url": "http://vilic.info"
+				},
+				{
+					"name": "Wayne Maurer",
+					"url": "https://github.com/wmaurer"
+				},
+				{
+					"name": "Umar Nizamani",
+					"url": "https://github.com/umarniz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "df3bfedd4381800a74590dc97e1b5e9765a1ec74d80836fc16edfd7bf19b0d6b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cheerio@0.22.0",
+			"dist": {
+				"shasum": "4e308bf0e223c632b3de3adf521139dc7aa51e34",
+				"size": 2353,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.22.0.tgz_1489191265345_0.7550799718592316"
+			},
+			"directories": {},
+			"publish_time": 1489191267071,
+			"_cnpm_publish_time": 1489191267071,
+			"_hasShrinkwrap": false
+		},
+		"0.17.31": {
+			"name": "@types/cheerio",
+			"version": "0.17.31",
+			"description": "TypeScript definitions for Cheerio v0.17.0",
+			"license": "MIT",
+			"author": "Bret Little <https://github.com/blittle>, VILIC VANE <http://vilic.info>, Wayne Maurer <https://github.com/wmaurer>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "390d0352dd61e83dfe42b40403f10f4a76bcec508b822335a8c7e82cfa4e0201",
+			"_id": "@types/cheerio@0.17.31",
+			"dist": {
+				"shasum": "bfeda3e3e8647a6e49b2998d137c81d5d8ab52d0",
+				"size": 2469,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.31.tgz_1475700919707_0.6566356713883579"
+			},
+			"directories": {},
+			"publish_time": 1475700922950,
+			"_cnpm_publish_time": 1475700922950,
+			"_hasShrinkwrap": false
+		},
+		"0.17.30": {
+			"name": "@types/cheerio",
+			"version": "0.17.30",
+			"description": "TypeScript definitions for Cheerio v0.17.0",
+			"license": "MIT",
+			"author": "Bret Little <https://github.com/blittle>, VILIC VANE <http://vilic.info>, Wayne Maurer <https://github.com/wmaurer>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "3285c2886c8a868021e167928b4aa8369773344c3ffa2904527b996dc9a92e5d",
+			"_id": "@types/cheerio@0.17.30",
+			"dist": {
+				"shasum": "aba38c3dfd3f9b12c514dd0b46490ad8eb7d8ca0",
+				"size": 2460,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.30.tgz_1474302455146_0.40658067376352847"
+			},
+			"directories": {},
+			"publish_time": 1474302457048,
+			"_cnpm_publish_time": 1474302457048,
+			"_hasShrinkwrap": false
+		},
+		"0.17.29": {
+			"name": "@types/cheerio",
+			"version": "0.17.29",
+			"description": "TypeScript definitions for Cheerio v0.17.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bret Little",
+				"email": "https://github.com/blittle"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cheerio@0.17.29",
+			"_shasum": "42a201b58081b7ba7136bdefa32c0c395e0b7484",
+			"_from": "output\\cheerio",
+			"_resolved": "file:output\\cheerio",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "42a201b58081b7ba7136bdefa32c0c395e0b7484",
+				"size": 2448,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.29.tgz_1468505743669_0.10553244175389409"
+			},
+			"directories": {},
+			"publish_time": 1468505745737,
+			"_cnpm_publish_time": 1468505745737,
+			"_hasShrinkwrap": false
+		},
+		"0.17.28-alpha": {
+			"name": "@types/cheerio",
+			"version": "0.17.28-alpha",
+			"description": "TypeScript definitions for Cheerio v0.17.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bret Little",
+				"email": "https://github.com/blittle"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cheerio@0.17.28-alpha",
+			"_shasum": "4faac1bcbca5b08564d3645898e774f300d78a63",
+			"_from": "output\\cheerio",
+			"_resolved": "file:output\\cheerio",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4faac1bcbca5b08564d3645898e774f300d78a63",
+				"size": 2448,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.28-alpha.tgz_1468007306277_0.6381930843926966"
+			},
+			"directories": {},
+			"publish_time": 1468007308716,
+			"_cnpm_publish_time": 1468007308716,
+			"_hasShrinkwrap": false
+		},
+		"0.17.27-alpha": {
+			"name": "@types/cheerio",
+			"version": "0.17.27-alpha",
+			"description": "TypeScript definitions for Cheerio v0.17.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bret Little",
+				"email": "https://github.com/blittle"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cheerio@0.17.27-alpha",
+			"_shasum": "8f1050ddea4328813f188152ebb7070dc488f0be",
+			"_from": "output\\cheerio",
+			"_resolved": "file:output\\cheerio",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8f1050ddea4328813f188152ebb7070dc488f0be",
+				"size": 2449,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.27-alpha.tgz_1467590206621_0.5787262914236635"
+			},
+			"directories": {},
+			"publish_time": 1467590210135,
+			"_cnpm_publish_time": 1467590210135,
+			"_hasShrinkwrap": false
+		},
+		"0.17.26-alpha": {
+			"name": "@types/cheerio",
+			"version": "0.17.26-alpha",
+			"description": "TypeScript definitions for Cheerio v0.17.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bret Little",
+				"email": "https://github.com/blittle"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cheerio@0.17.26-alpha",
+			"_shasum": "1ad24205dd0280479ebfb735f04ff9c501209c21",
+			"_from": "output\\cheerio",
+			"_resolved": "file:output\\cheerio",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1ad24205dd0280479ebfb735f04ff9c501209c21",
+				"size": 2451,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.26-alpha.tgz_1467425373668_0.10726081463508308"
+			},
+			"directories": {},
+			"publish_time": 1467425374155,
+			"_cnpm_publish_time": 1467425374155,
+			"_hasShrinkwrap": false
+		},
+		"0.17.25-alpha": {
+			"name": "@types/cheerio",
+			"version": "0.17.25-alpha",
+			"description": "TypeScript definitions for Cheerio v0.17.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bret Little",
+				"email": "https://github.com/blittle"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cheerio@0.17.25-alpha",
+			"_shasum": "af2575d752ec89a2727686c78af2150e03b0d21d",
+			"_from": "output\\cheerio",
+			"_resolved": "file:output\\cheerio",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "af2575d752ec89a2727686c78af2150e03b0d21d",
+				"size": 2451,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.25-alpha.tgz_1467412112825_0.19696837500669062"
+			},
+			"directories": {},
+			"publish_time": 1467412116371,
+			"_cnpm_publish_time": 1467412116371,
+			"_hasShrinkwrap": false
+		},
+		"0.17.24-alpha": {
+			"name": "@types/cheerio",
+			"version": "0.17.24-alpha",
+			"description": "TypeScript definitions for Cheerio v0.17.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bret Little",
+				"email": "https://github.com/blittle"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cheerio@0.17.24-alpha",
+			"_shasum": "1a90750f34f67620e6a84b89d8eab324951605eb",
+			"_from": "output\\cheerio",
+			"_resolved": "file:output\\cheerio",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1a90750f34f67620e6a84b89d8eab324951605eb",
+				"size": 2439,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.24-alpha.tgz_1467399852399_0.9086250937543809"
+			},
+			"directories": {},
+			"publish_time": 1467399854618,
+			"_cnpm_publish_time": 1467399854618,
+			"_hasShrinkwrap": false
+		},
+		"0.17.23-alpha": {
+			"name": "@types/cheerio",
+			"version": "0.17.23-alpha",
+			"description": "TypeScript definitions for Cheerio v0.17.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bret Little",
+				"email": "https://github.com/blittle"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cheerio@0.17.23-alpha",
+			"_shasum": "0a26bbb235679b7d598b8bcc70d5843930acff09",
+			"_from": "output\\cheerio",
+			"_resolved": "file:output\\cheerio",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0a26bbb235679b7d598b8bcc70d5843930acff09",
+				"size": 2420,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.23-alpha.tgz_1464151046366_0.4220482027158141"
+			},
+			"directories": {},
+			"publish_time": 1464151048795,
+			"_cnpm_publish_time": 1464151048795,
+			"_hasShrinkwrap": false
+		},
+		"0.17.22-alpha": {
+			"name": "@types/cheerio",
+			"version": "0.17.22-alpha",
+			"description": "TypeScript definitions for Cheerio v0.17.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bret Little",
+				"email": "https://github.com/blittle"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cheerio@0.17.22-alpha",
+			"_shasum": "4898bf46abbb90f4954fafb86403189244295d4c",
+			"_from": "output\\cheerio",
+			"_resolved": "file:output\\cheerio",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4898bf46abbb90f4954fafb86403189244295d4c",
+				"size": 2420,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.22-alpha.tgz_1463771955779_0.4718643433880061"
+			},
+			"directories": {},
+			"publish_time": 1463771956174,
+			"_cnpm_publish_time": 1463771956174,
+			"_hasShrinkwrap": false
+		},
+		"0.17.17-alpha": {
+			"name": "@types/cheerio",
+			"version": "0.17.17-alpha",
+			"description": "Type definitions for Cheerio v0.17.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bret Little",
+				"email": "https://github.com/blittle"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cheerio@0.17.17-alpha",
+			"_shasum": "bf9e74a7faf659a455528411f184b6df43f31bc1",
+			"_from": "output\\cheerio",
+			"_resolved": "file:output\\cheerio",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bf9e74a7faf659a455528411f184b6df43f31bc1",
+				"size": 2427,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.17-alpha.tgz_1463689742563_0.8861564069520682"
+			},
+			"directories": {},
+			"publish_time": 1463689744946,
+			"_cnpm_publish_time": 1463689744946,
+			"_hasShrinkwrap": false
+		},
+		"0.17.16-alpha": {
+			"name": "@types/cheerio",
+			"version": "0.17.16-alpha",
+			"description": "Type definitions for Cheerio v0.17.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bret Little",
+				"email": "https://github.com/blittle"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cheerio@0.17.16-alpha",
+			"_shasum": "711daa135706731f2f36661a629ad27a25cb6c8a",
+			"_from": "output\\cheerio",
+			"_resolved": "file:output\\cheerio",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "711daa135706731f2f36661a629ad27a25cb6c8a",
+				"size": 2419,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cheerio-0.17.16-alpha.tgz_1463459850274_0.7176263695582747"
+			},
+			"directories": {},
+			"publish_time": 1463459853698,
+			"_cnpm_publish_time": 1463459853698,
+			"_hasShrinkwrap": false
+		},
+		"0.22.9": {
+			"name": "@types/cheerio",
+			"version": "0.22.9",
+			"description": "TypeScript definitions for Cheerio",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bret Little",
+					"url": "https://github.com/blittle",
+					"githubUsername": "blittle"
+				},
+				{
+					"name": "VILIC VANE",
+					"url": "http://vilic.info"
+				},
+				{
+					"name": "Wayne Maurer",
+					"url": "https://github.com/wmaurer",
+					"githubUsername": "wmaurer"
+				},
+				{
+					"name": "Umar Nizamani",
+					"url": "https://github.com/umarniz",
+					"githubUsername": "umarniz"
+				},
+				{
+					"name": "LiJinyao",
+					"url": "https://github.com/LiJinyao",
+					"githubUsername": "LiJinyao"
+				},
+				{
+					"name": "Chennakrishna",
+					"url": "https://github.com/chennakrishna8",
+					"githubUsername": "chennakrishna8"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "0d302a17b53b3e90249a18a0ebc1e2d5963ea5e110d684246883cd510e3cfbbc",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cheerio@0.22.9",
+			"dist": {
+				"shasum": "b5990152604c2ada749b7f88cab3476f21f39d7b",
+				"size": 3146,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cheerio_0.22.9_1535045081654_0.28095641243600444"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535045081715,
+			"_cnpm_publish_time": 1535045081715
+		},
+		"0.22.8": {
+			"name": "@types/cheerio",
+			"version": "0.22.8",
+			"description": "TypeScript definitions for Cheerio",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bret Little",
+					"url": "https://github.com/blittle",
+					"githubUsername": "blittle"
+				},
+				{
+					"name": "VILIC VANE",
+					"url": "http://vilic.info"
+				},
+				{
+					"name": "Wayne Maurer",
+					"url": "https://github.com/wmaurer",
+					"githubUsername": "wmaurer"
+				},
+				{
+					"name": "Umar Nizamani",
+					"url": "https://github.com/umarniz",
+					"githubUsername": "umarniz"
+				},
+				{
+					"name": "LiJinyao",
+					"url": "https://github.com/LiJinyao",
+					"githubUsername": "LiJinyao"
+				},
+				{
+					"name": "Chennakrishna",
+					"url": "https://github.com/chennakrishna8",
+					"githubUsername": "chennakrishna8"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "21a766405dd90546f357589cd71d38e6b60ba0becf167e0e6d0a9cebd039dd28",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cheerio@0.22.8",
+			"dist": {
+				"shasum": "5702f74f78b73e13f1eb1bd435c2c9de61a250d4",
+				"size": 3141,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cheerio_0.22.8_1529975504525_0.3957223583595737"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1529975504616,
+			"_cnpm_publish_time": 1529975504616
+		}
+	},
+	"dist-tags": {
+		"latest": "0.22.9",
+		"ts2.0": "0.22.9",
+		"ts2.1": "0.22.9",
+		"ts2.2": "0.22.9",
+		"ts2.3": "0.22.9",
+		"ts2.4": "0.22.9",
+		"ts2.5": "0.22.9",
+		"ts2.6": "0.22.9",
+		"ts2.7": "0.22.9",
+		"ts2.8": "0.22.9",
+		"ts2.9": "0.22.9",
+		"ts3.0": "0.22.9",
+		"ts3.1": "0.22.9",
+		"ts3.2": "0.22.9"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:36.000Z",
+		"created": "2016-05-17T04:37:33.698Z",
+		"0.22.9": "2018-08-23T17:24:41.715Z",
+		"0.22.8": "2018-06-26T01:11:44.616Z",
+		"0.22.7": "2017-12-30T00:26:21.460Z",
+		"0.22.6": "2017-11-27T17:48:48.178Z",
+		"0.22.5": "2017-10-31T19:49:48.847Z",
+		"0.22.4": "2017-10-28T00:09:04.563Z",
+		"0.22.3": "2017-10-09T23:46:34.304Z",
+		"0.22.2": "2017-07-05T14:31:28.689Z",
+		"0.22.1": "2017-03-27T20:44:20.675Z",
+		"0.22.0": "2017-03-11T00:14:27.071Z",
+		"0.17.31": "2016-10-05T20:55:22.950Z",
+		"0.17.30": "2016-09-19T16:27:37.048Z",
+		"0.17.29": "2016-07-14T14:15:45.737Z",
+		"0.17.28-alpha": "2016-07-08T19:48:28.716Z",
+		"0.17.27-alpha": "2016-07-03T23:56:50.135Z",
+		"0.17.26-alpha": "2016-07-02T02:09:34.155Z",
+		"0.17.25-alpha": "2016-07-01T22:28:36.371Z",
+		"0.17.24-alpha": "2016-07-01T19:04:14.618Z",
+		"0.17.23-alpha": "2016-05-25T04:37:28.795Z",
+		"0.17.22-alpha": "2016-05-20T19:19:16.174Z",
+		"0.17.17-alpha": "2016-05-19T20:29:04.946Z",
+		"0.17.16-alpha": "2016-05-17T04:37:33.698Z"
+	},
+	"_distfiles": {
+		"cheerio-0.22.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.7.tgz",
+			"sha": "4a92eafedfb2b9f4437d3a4410006d81114c66ce",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.22.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.6.tgz",
+			"sha": "ad8c630a942efe3fc59165857851b55f95de2d50",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.22.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.5.tgz",
+			"sha": "db749e8470d98f103d51407db9bee5a8b9d20d45",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.22.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.4.tgz",
+			"sha": "0c8d546ef43c249070223cf8bf9cbac29ac0e64e",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.22.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.3.tgz",
+			"sha": "c448036ec3d1b4fd8a61c6b37b3faa6d9c8b7b97",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.22.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.2.tgz",
+			"sha": "539625874bc856086ad491c2fdc9b10c05ae308e",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.22.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.1.tgz",
+			"sha": "740c4cd8c4d3f3074f83b9ab62e711eac2c764ce",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.22.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.0.tgz",
+			"sha": "4e308bf0e223c632b3de3adf521139dc7aa51e34",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.31.tgz",
+			"sha": "bfeda3e3e8647a6e49b2998d137c81d5d8ab52d0",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.30.tgz",
+			"sha": "aba38c3dfd3f9b12c514dd0b46490ad8eb7d8ca0",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.29.tgz",
+			"sha": "42a201b58081b7ba7136bdefa32c0c395e0b7484",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.28-alpha.tgz",
+			"sha": "4faac1bcbca5b08564d3645898e774f300d78a63",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.27-alpha.tgz",
+			"sha": "8f1050ddea4328813f188152ebb7070dc488f0be",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.26-alpha.tgz",
+			"sha": "1ad24205dd0280479ebfb735f04ff9c501209c21",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.25-alpha.tgz",
+			"sha": "af2575d752ec89a2727686c78af2150e03b0d21d",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.24-alpha.tgz",
+			"sha": "1a90750f34f67620e6a84b89d8eab324951605eb",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.23-alpha.tgz",
+			"sha": "0a26bbb235679b7d598b8bcc70d5843930acff09",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.22-alpha.tgz",
+			"sha": "4898bf46abbb90f4954fafb86403189244295d4c",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.17-alpha.tgz",
+			"sha": "bf9e74a7faf659a455528411f184b6df43f31bc1",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.17.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.17.16-alpha.tgz",
+			"sha": "711daa135706731f2f36661a629ad27a25cb6c8a",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.22.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.9.tgz",
+			"sha": "b5990152604c2ada749b7f88cab3476f21f39d7b",
+			"registry": "cnpmjs"
+		},
+		"cheerio-0.22.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cheerio/download/@types/cheerio-0.22.8.tgz",
+			"sha": "5702f74f78b73e13f1eb1bd435c2c9de61a250d4",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833277365
+		}
+	},
+	"_rev": "2-4c828eab467250bf",
+	"readme": "# Installation\r\n> `npm install --save @types/cheerio`\r\n\r\n# Summary\r\nThis package contains type definitions for Cheerio (https://github.com/cheeriojs/cheerio).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cheerio\r\n\r\nAdditional Details\r\n * Last updated: Thu, 23 Aug 2018 17:24:04 GMT\r\n * Dependencies: none\r\n * Global values: cheerio\r\n\r\n# Credits\r\nThese definitions were written by Bret Little <https://github.com/blittle>, VILIC VANE <http://vilic.info>, Wayne Maurer <https://github.com/wmaurer>, Umar Nizamani <https://github.com/umarniz>, LiJinyao <https://github.com/LiJinyao>, Chennakrishna <https://github.com/chennakrishna8>."
+}

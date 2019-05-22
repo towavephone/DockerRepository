@@ -1,0 +1,1519 @@
+{
+	"name": "@types/gl-matrix",
+	"versions": {
+		"2.4.4": {
+			"name": "@types/gl-matrix",
+			"version": "2.4.4",
+			"description": "TypeScript definitions for gl-matrix",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mattijs Kneppers",
+					"url": "https://github.com/mattijskneppers",
+					"githubUsername": "mattijskneppers"
+				},
+				{
+					"name": "based on definitions by Tat",
+					"url": "https://github.com/tatchx",
+					"githubUsername": "tatchx"
+				},
+				{
+					"name": "Nikolay Babanov",
+					"url": "https://github.com/nbabanov",
+					"githubUsername": "nbabanov"
+				},
+				{
+					"name": "Austin Martin",
+					"url": "https://github.com/auzmartist",
+					"githubUsername": "auzmartist"
+				},
+				{
+					"name": "Wayne Langman",
+					"url": "https://github.com/surtr-isaz",
+					"githubUsername": "surtr-isaz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e620ffb3597b4b737a244770984d4993f790e76db1974dedb639be54dc2f48a3",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gl-matrix@2.4.4",
+			"dist": {
+				"shasum": "e9d06dc5552102eb6ced7beb78ceb3290b229959",
+				"size": 11117,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.4.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gl-matrix_2.4.4_1538699066918_0.2693495687481535"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538699067178,
+			"_cnpm_publish_time": 1538699067178
+		},
+		"2.4.3": {
+			"name": "@types/gl-matrix",
+			"version": "2.4.3",
+			"description": "TypeScript definitions for gl-matrix",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mattijs Kneppers",
+					"url": "https://github.com/mattijskneppers",
+					"githubUsername": "mattijskneppers"
+				},
+				{
+					"name": "based on definitions by Tat",
+					"url": "https://github.com/tatchx",
+					"githubUsername": "tatchx"
+				},
+				{
+					"name": "Nikolay Babanov",
+					"url": "https://github.com/nbabanov",
+					"githubUsername": "nbabanov"
+				},
+				{
+					"name": "Austin Martin",
+					"url": "https://github.com/auzmartist",
+					"githubUsername": "auzmartist"
+				},
+				{
+					"name": "Wayne Langman",
+					"url": "https://github.com/surtr-isaz",
+					"githubUsername": "surtr-isaz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d8035e5b25bf85e7835717d1d2d4d1a0454cc7c7bb7251946a4f3e951b7f0a0b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gl-matrix@2.4.3",
+			"dist": {
+				"shasum": "a0125231172395a6871127954b2f83e330161417",
+				"size": 11181,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.4.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gl-matrix_2.4.3_1537813884253_0.6162262408972039"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1537813884347,
+			"_cnpm_publish_time": 1537813884347
+		},
+		"2.4.2": {
+			"name": "@types/gl-matrix",
+			"version": "2.4.2",
+			"description": "TypeScript definitions for gl-matrix",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mattijs Kneppers",
+					"url": "https://github.com/mattijskneppers",
+					"githubUsername": "mattijskneppers"
+				},
+				{
+					"name": "based on definitions by Tat",
+					"url": "https://github.com/tatchx",
+					"githubUsername": "tatchx"
+				},
+				{
+					"name": "Nikolay Babanov",
+					"url": "https://github.com/nbabanov",
+					"githubUsername": "nbabanov"
+				},
+				{
+					"name": "Austin Martin",
+					"url": "https://github.com/auzmartist",
+					"githubUsername": "auzmartist"
+				},
+				{
+					"name": "Wayne Langman",
+					"url": "https://github.com/surtr-isaz",
+					"githubUsername": "surtr-isaz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "0b4fc3def2c3e6a728cd385f439448e923980c591f07a7c4d62dd7afae29ffc2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gl-matrix@2.4.2",
+			"dist": {
+				"shasum": "1b6812f0ce79821231d65e97da551cb5ca4a3a73",
+				"size": 11165,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.4.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gl-matrix_2.4.2_1537484964011_0.4855806819843529"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1537484964181,
+			"_cnpm_publish_time": 1537484964181
+		},
+		"2.4.1": {
+			"name": "@types/gl-matrix",
+			"version": "2.4.1",
+			"description": "TypeScript definitions for gl-matrix",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mattijs Kneppers",
+					"url": "https://github.com/mattijskneppers",
+					"githubUsername": "mattijskneppers"
+				},
+				{
+					"name": "based on definitions by Tat",
+					"url": "https://github.com/tatchx",
+					"githubUsername": "tatchx"
+				},
+				{
+					"name": "Nikolay Babanov",
+					"url": "https://github.com/nbabanov",
+					"githubUsername": "nbabanov"
+				},
+				{
+					"name": "Austin Martin",
+					"url": "https://github.com/auzmartist",
+					"githubUsername": "auzmartist"
+				},
+				{
+					"name": "Wayne Langman",
+					"url": "https://github.com/surtr-isaz",
+					"githubUsername": "surtr-isaz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "dfd35b3ad437486eecc30441340a193bc916a17c5a851b2073d5d66313921e2f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gl-matrix@2.4.1",
+			"dist": {
+				"shasum": "4681437f3e07847f9cc843cf000c060cf9e4bc13",
+				"size": 11101,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gl-matrix_2.4.1_1533173755646_0.14105526920152323"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533173755721,
+			"_cnpm_publish_time": 1533173755721
+		},
+		"2.4.0": {
+			"name": "@types/gl-matrix",
+			"version": "2.4.0",
+			"description": "TypeScript definitions for gl-matrix",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mattijs Kneppers",
+					"url": "https://github.com/mattijskneppers",
+					"githubUsername": "mattijskneppers"
+				},
+				{
+					"name": "based on definitions by Tat",
+					"url": "https://github.com/tatchx",
+					"githubUsername": "tatchx"
+				},
+				{
+					"name": "Nikolay Babanov",
+					"url": "https://github.com/nbabanov",
+					"githubUsername": "nbabanov"
+				},
+				{
+					"name": "Austin Martin",
+					"url": "https://github.com/auzmartist",
+					"githubUsername": "auzmartist"
+				},
+				{
+					"name": "Wayne Langman",
+					"url": "https://github.com/surtr-isaz",
+					"githubUsername": "surtr-isaz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "4dcb3d949d3d8c45b4c547a7053eed054204269b116d50f0eeabd5b2a3d39cb2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gl-matrix@2.4.0",
+			"dist": {
+				"shasum": "a27affbaf3a849894817f648bf68ac710dedf4a3",
+				"size": 11144,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gl-matrix-2.4.0.tgz_1510265709649_0.4052786373067647"
+			},
+			"directories": {},
+			"publish_time": 1510265709785,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510265709785
+		},
+		"2.3.2": {
+			"name": "@types/gl-matrix",
+			"version": "2.3.2",
+			"description": "TypeScript definitions for gl-matrix",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mattijs Kneppers",
+					"url": "https://github.com/mattijskneppers",
+					"githubUsername": "mattijskneppers"
+				},
+				{
+					"name": "based on definitions by Tat",
+					"url": "https://github.com/tatchx",
+					"githubUsername": "tatchx"
+				},
+				{
+					"name": "Nikolay Babanov",
+					"url": "https://github.com/nbabanov",
+					"githubUsername": "nbabanov"
+				},
+				{
+					"name": "Austin Martin",
+					"url": "https://github.com/auzmartist",
+					"githubUsername": "auzmartist"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d377d23a90d9509121f9a1c0482329f747076462d5e08f76af8f51234df6b01f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gl-matrix@2.3.2",
+			"dist": {
+				"shasum": "cf7d2809b74e7e3ff0623568cbd2c9d01b280d39",
+				"size": 11023,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gl-matrix-2.3.2.tgz_1508174762427_0.8074700278230011"
+			},
+			"directories": {},
+			"publish_time": 1508174762507,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508174762507
+		},
+		"2.3.1": {
+			"name": "@types/gl-matrix",
+			"version": "2.3.1",
+			"description": "TypeScript definitions for gl-matrix",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mattijs Kneppers",
+					"url": "https://github.com/mattijskneppers",
+					"githubUsername": "mattijskneppers"
+				},
+				{
+					"name": "based on definitions by Tat",
+					"url": "https://github.com/tatchx",
+					"githubUsername": "tatchx"
+				},
+				{
+					"name": "Nikolay Babanov",
+					"url": "https://github.com/nbabanov",
+					"githubUsername": "nbabanov"
+				},
+				{
+					"name": "Austin Martin",
+					"url": "https://github.com/auzmartist",
+					"githubUsername": "auzmartist"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "a2ca9cdb050f9629f6410c82fac3279d5a7474be39729ea80af6fbc0099a90ce",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gl-matrix@2.3.1",
+			"dist": {
+				"shasum": "846b74beeccbd5a8b348aca827268ff8840ee38d",
+				"size": 11024,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gl-matrix-2.3.1.tgz_1507310724733_0.21269390336237848"
+			},
+			"directories": {},
+			"publish_time": 1507310724860,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507310724860
+		},
+		"2.3.0": {
+			"name": "@types/gl-matrix",
+			"version": "2.3.0",
+			"description": "TypeScript definitions for gl-matrix",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mattijs Kneppers",
+					"url": "https://github.com/mattijskneppers",
+					"githubUsername": "mattijskneppers"
+				},
+				{
+					"name": "based on definitions by Tat",
+					"url": "https://github.com/tatchx",
+					"githubUsername": "tatchx"
+				},
+				{
+					"name": "Nikolay Babanov",
+					"url": "https://github.com/nbabanov",
+					"githubUsername": "nbabanov"
+				},
+				{
+					"name": "Austin Martin",
+					"url": "https://github.com/auzmartist",
+					"githubUsername": "auzmartist"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "55cbd5e7d1bcdc594ee21547e026c6200fe1c89101ab81d3c9b4168afca80c2c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gl-matrix@2.3.0",
+			"dist": {
+				"shasum": "3072ef8ec713b05bcf2e3949e05d85ea62a1f3b5",
+				"size": 10913,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gl-matrix-2.3.0.tgz_1504822202543_0.9289243970997632"
+			},
+			"directories": {},
+			"publish_time": 1504822202644,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504822202644
+		},
+		"2.2.35": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.35",
+			"description": "TypeScript definitions for gl-matrix",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mattijs Kneppers",
+					"url": "https://github.com/mattijskneppers",
+					"githubUsername": "mattijskneppers"
+				},
+				{
+					"name": "based on definitions by Tat",
+					"url": "https://github.com/tatchx",
+					"githubUsername": "tatchx"
+				},
+				{
+					"name": "Austin Martin",
+					"url": "https://github.com/auzmartist",
+					"githubUsername": "auzmartist"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "0c4dc5cee24483806bfdeaffecac163f87f351014f57080cdfe74c32b983a805",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gl-matrix@2.2.35",
+			"dist": {
+				"shasum": "0da130dd7363be5e4f3584d058b38a3a88450f3a",
+				"size": 10435,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gl-matrix-2.2.35.tgz_1504734255744_0.18262326484546065"
+			},
+			"directories": {},
+			"publish_time": 1504734255867,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504734255867
+		},
+		"2.2.34": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.34",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"license": "MIT",
+			"author": "Mattijs Kneppers <https://github.com/mattijskneppers>, based on definitions by Tat <https://github.com/tatchx>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "eefeda0761ae3a792456511de4e37ca61d632ecb85c2be1a24b803e6afce5166",
+			"_id": "@types/gl-matrix@2.2.34",
+			"dist": {
+				"shasum": "8d1b5557d9143e9692b7b2083c56a5adc8113104",
+				"size": 9866,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.34.tgz_1479755051369_0.6299584016669542"
+			},
+			"directories": {},
+			"publish_time": 1479755053087,
+			"_cnpm_publish_time": 1479755053087,
+			"_hasShrinkwrap": false
+		},
+		"2.2.33": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.33",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"license": "MIT",
+			"author": "Mattijs Kneppers <https://github.com/mattijskneppers>, based on definitions by Tat <https://github.com/tatchx>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "e4af0cfbe123a86eac750b72b12303b4f72caaa5135f98095c5b327d8de7d092",
+			"_id": "@types/gl-matrix@2.2.33",
+			"dist": {
+				"shasum": "f89b2daf9c3abf8ac4bd47ca4a0fa8edc54fe828",
+				"size": 9817,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.33.tgz_1478194990259_0.9456661962904036"
+			},
+			"directories": {},
+			"publish_time": 1478194991795,
+			"_cnpm_publish_time": 1478194991795,
+			"_hasShrinkwrap": false
+		},
+		"2.2.32": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.32",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"license": "MIT",
+			"author": "Mattijs Kneppers <https://github.com/mattijskneppers>, based on definitions by Tat <https://github.com/tatchx>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "7f32c85a952d9d726622d33a7fffc162cb6f3642842431698453d7baea0b4e0f",
+			"_id": "@types/gl-matrix@2.2.32",
+			"dist": {
+				"shasum": "f6555ab5c57230e90a3ea86241a365c828d105ba",
+				"size": 9513,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.32.tgz_1474489630151_0.33816568716429174"
+			},
+			"directories": {},
+			"publish_time": 1474489631665,
+			"_cnpm_publish_time": 1474489631665,
+			"_hasShrinkwrap": false
+		},
+		"2.2.31": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.31",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"license": "MIT",
+			"author": "Tat <https://github.com/tatchx>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "18eb9663a0e6c161f6de149fcd5251a6b065e676276b93066e4b9ccc326ef387",
+			"_id": "@types/gl-matrix@2.2.31",
+			"dist": {
+				"shasum": "ce97299cc55d2544526cf8f73feb8fcb3c78500a",
+				"size": 5915,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.31.tgz_1474306564793_0.08949181064963341"
+			},
+			"directories": {},
+			"publish_time": 1474306567779,
+			"_cnpm_publish_time": 1474306567779,
+			"_hasShrinkwrap": false
+		},
+		"2.2.30": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.30",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"license": "MIT",
+			"author": "Tat <https://github.com/tatchx>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/gl-matrix@2.2.30",
+			"dist": {
+				"shasum": "deaf49bea6d0ff61ea44d81314aa36c9460a3029",
+				"size": 5939,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.30.tgz_1472150593412_0.46744246664457023"
+			},
+			"directories": {},
+			"publish_time": 1472150594022,
+			"_cnpm_publish_time": 1472150594022,
+			"_hasShrinkwrap": false
+		},
+		"2.2.29": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.29",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"license": "MIT",
+			"author": "Tat <https://github.com/tatchx>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/gl-matrix@2.2.29",
+			"dist": {
+				"shasum": "d8f8e8cc4ee2450173fbe05d43010d40b8f295b4",
+				"size": 5936,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.29.tgz_1471620373542_0.22836835752241313"
+			},
+			"directories": {},
+			"publish_time": 1471620374747,
+			"_cnpm_publish_time": 1471620374747,
+			"_hasShrinkwrap": false
+		},
+		"2.2.28": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.28",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"license": "MIT",
+			"author": "Tat <https://github.com/tatchx>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/gl-matrix@2.2.28",
+			"dist": {
+				"shasum": "95b15c343456318071c134bda7338027b1bbc2d9",
+				"size": 70656,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.28.tgz_1470153212054_0.7384562992956489"
+			},
+			"directories": {},
+			"publish_time": 1470153214097,
+			"_cnpm_publish_time": 1470153214097,
+			"_hasShrinkwrap": false
+		},
+		"2.2.27": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.27",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tat",
+				"email": "https://github.com/tatchx"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gl-matrix@2.2.27",
+			"_shasum": "359d6c3a6bed9edaefccec14769e653b2d81f3ea",
+			"_from": "output\\gl-matrix",
+			"_resolved": "file:output\\gl-matrix",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "359d6c3a6bed9edaefccec14769e653b2d81f3ea",
+				"size": 5877,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.27.tgz_1468507297938_0.8274408858269453"
+			},
+			"directories": {},
+			"publish_time": 1468507298507,
+			"_cnpm_publish_time": 1468507298507,
+			"_hasShrinkwrap": false
+		},
+		"2.2.26-alpha": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.26-alpha",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tat",
+				"email": "https://github.com/tatchx"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gl-matrix@2.2.26-alpha",
+			"_shasum": "2ef4631c67392979fc6f489d3882da80f4736eff",
+			"_from": "output\\gl-matrix",
+			"_resolved": "file:output\\gl-matrix",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2ef4631c67392979fc6f489d3882da80f4736eff",
+				"size": 5883,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.26-alpha.tgz_1468008918717_0.25329799647442997"
+			},
+			"directories": {},
+			"publish_time": 1468008920079,
+			"_cnpm_publish_time": 1468008920079,
+			"_hasShrinkwrap": false
+		},
+		"2.2.25-alpha": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.25-alpha",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tat",
+				"email": "https://github.com/tatchx"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gl-matrix@2.2.25-alpha",
+			"_shasum": "cce527f2ae96014d75e3959e8b6062bb2d034be3",
+			"_from": "output\\gl-matrix",
+			"_resolved": "file:output\\gl-matrix",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cce527f2ae96014d75e3959e8b6062bb2d034be3",
+				"size": 5879,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.25-alpha.tgz_1467591378770_0.5141087756492198"
+			},
+			"directories": {},
+			"publish_time": 1467591382476,
+			"_cnpm_publish_time": 1467591382476,
+			"_hasShrinkwrap": false
+		},
+		"2.2.24-alpha": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.24-alpha",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tat",
+				"email": "https://github.com/tatchx"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gl-matrix@2.2.24-alpha",
+			"_shasum": "2202cbaaea4b2b94bc5c1dd10e4525593a10c234",
+			"_from": "output\\gl-matrix",
+			"_resolved": "file:output\\gl-matrix",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2202cbaaea4b2b94bc5c1dd10e4525593a10c234",
+				"size": 5883,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.24-alpha.tgz_1467426662432_0.7599312129896134"
+			},
+			"directories": {},
+			"publish_time": 1467426662959,
+			"_cnpm_publish_time": 1467426662959,
+			"_hasShrinkwrap": false
+		},
+		"2.2.23-alpha": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.23-alpha",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tat",
+				"email": "https://github.com/tatchx"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gl-matrix@2.2.23-alpha",
+			"_shasum": "df9aa247a9f121a24cefe460e5c9b1bcca7c5559",
+			"_from": "output\\gl-matrix",
+			"_resolved": "file:output\\gl-matrix",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "df9aa247a9f121a24cefe460e5c9b1bcca7c5559",
+				"size": 5882,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.23-alpha.tgz_1467413285425_0.2560464437119663"
+			},
+			"directories": {},
+			"publish_time": 1467413287469,
+			"_cnpm_publish_time": 1467413287469,
+			"_hasShrinkwrap": false
+		},
+		"2.2.22-alpha": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.22-alpha",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tat",
+				"email": "https://github.com/tatchx"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gl-matrix@2.2.22-alpha",
+			"_shasum": "64c38bd39836a6ff990a34a49b89bd97d7bdb65a",
+			"_from": "output\\gl-matrix",
+			"_resolved": "file:output\\gl-matrix",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "64c38bd39836a6ff990a34a49b89bd97d7bdb65a",
+				"size": 5837,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.22-alpha.tgz_1467401280536_0.6776245485525578"
+			},
+			"directories": {},
+			"publish_time": 1467401282663,
+			"_cnpm_publish_time": 1467401282663,
+			"_hasShrinkwrap": false
+		},
+		"2.2.21-alpha": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.21-alpha",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tat",
+				"email": "https://github.com/tatchx"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gl-matrix@2.2.21-alpha",
+			"_shasum": "d61bae3fccf91fed5349d0933e2743f6f1902e16",
+			"_from": "output\\gl-matrix",
+			"_resolved": "file:output\\gl-matrix",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d61bae3fccf91fed5349d0933e2743f6f1902e16",
+				"size": 5848,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.21-alpha.tgz_1464152307593_0.2857692076358944"
+			},
+			"directories": {},
+			"publish_time": 1464152308047,
+			"_cnpm_publish_time": 1464152308047,
+			"_hasShrinkwrap": false
+		},
+		"2.2.20-alpha": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.20-alpha",
+			"description": "TypeScript definitions for gl-matrix 2.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tat",
+				"email": "https://github.com/tatchx"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gl-matrix@2.2.20-alpha",
+			"_shasum": "5f8e87cd32e1bc421f0d23a8406480cd7f14e025",
+			"_from": "output\\gl-matrix",
+			"_resolved": "file:output\\gl-matrix",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5f8e87cd32e1bc421f0d23a8406480cd7f14e025",
+				"size": 5847,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.20-alpha.tgz_1463773219862_0.9625676155555993"
+			},
+			"directories": {},
+			"publish_time": 1463773220294,
+			"_cnpm_publish_time": 1463773220294,
+			"_hasShrinkwrap": false
+		},
+		"2.2.15-alpha": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.15-alpha",
+			"description": "Type definitions for gl-matrix 2.2.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tat",
+				"email": "https://github.com/tatchx"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gl-matrix@2.2.15-alpha",
+			"_shasum": "89728a55b6c91fa6a478fcd5cfc1cd4d9d6451f4",
+			"_from": "output\\gl-matrix",
+			"_resolved": "file:output\\gl-matrix",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "89728a55b6c91fa6a478fcd5cfc1cd4d9d6451f4",
+				"size": 5858,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.15-alpha.tgz_1463691555044_0.7451822031289339"
+			},
+			"directories": {},
+			"publish_time": 1463691557385,
+			"_cnpm_publish_time": 1463691557385,
+			"_hasShrinkwrap": false
+		},
+		"2.2.14-alpha": {
+			"name": "@types/gl-matrix",
+			"version": "2.2.14-alpha",
+			"description": "Type definitions for gl-matrix 2.2.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tat",
+				"email": "https://github.com/tatchx"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gl-matrix@2.2.14-alpha",
+			"_shasum": "1d8d57db4dc0df72a0a93e9366c9c933655a0217",
+			"_from": "output\\gl-matrix",
+			"_resolved": "file:output\\gl-matrix",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1d8d57db4dc0df72a0a93e9366c9c933655a0217",
+				"size": 5847,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gl-matrix-2.2.14-alpha.tgz_1463461298613_0.5980136920697987"
+			},
+			"directories": {},
+			"publish_time": 1463461299246,
+			"_cnpm_publish_time": 1463461299246,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.4.4",
+		"ts2.0": "2.4.4",
+		"ts2.1": "2.4.4",
+		"ts2.2": "2.4.4",
+		"ts2.3": "2.4.4",
+		"ts2.4": "2.4.4",
+		"ts2.5": "2.4.4",
+		"ts2.6": "2.4.4",
+		"ts2.7": "2.4.4",
+		"ts2.8": "2.4.4",
+		"ts2.9": "2.4.4",
+		"ts3.0": "2.4.4",
+		"ts3.1": "2.4.4",
+		"ts3.2": "2.4.4"
+	},
+	"time": {
+		"modified": "2018-10-05T00:24:42.000Z",
+		"created": "2016-05-17T05:01:39.246Z",
+		"2.4.4": "2018-10-05T00:24:27.178Z",
+		"2.4.3": "2018-09-24T18:31:24.347Z",
+		"2.4.2": "2018-09-20T23:09:24.181Z",
+		"2.4.1": "2018-08-02T01:35:55.721Z",
+		"2.4.0": "2017-11-09T22:15:09.785Z",
+		"2.3.2": "2017-10-16T17:26:02.507Z",
+		"2.3.1": "2017-10-06T17:25:24.860Z",
+		"2.3.0": "2017-09-07T22:10:02.644Z",
+		"2.2.35": "2017-09-06T21:44:15.867Z",
+		"2.2.34": "2016-11-21T19:04:13.087Z",
+		"2.2.33": "2016-11-03T17:43:11.795Z",
+		"2.2.32": "2016-09-21T20:27:11.665Z",
+		"2.2.31": "2016-09-19T17:36:07.779Z",
+		"2.2.30": "2016-08-25T18:43:14.022Z",
+		"2.2.29": "2016-08-19T15:26:14.747Z",
+		"2.2.28": "2016-08-02T15:53:34.097Z",
+		"2.2.27": "2016-07-14T14:41:38.507Z",
+		"2.2.26-alpha": "2016-07-08T20:15:20.079Z",
+		"2.2.25-alpha": "2016-07-04T00:16:22.476Z",
+		"2.2.24-alpha": "2016-07-02T02:31:02.959Z",
+		"2.2.23-alpha": "2016-07-01T22:48:07.469Z",
+		"2.2.22-alpha": "2016-07-01T19:28:02.663Z",
+		"2.2.21-alpha": "2016-05-25T04:58:28.047Z",
+		"2.2.20-alpha": "2016-05-20T19:40:20.294Z",
+		"2.2.15-alpha": "2016-05-19T20:59:17.385Z",
+		"2.2.14-alpha": "2016-05-17T05:01:39.246Z"
+	},
+	"_distfiles": {
+		"gl-matrix-2.4.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.4.4.tgz",
+			"sha": "e9d06dc5552102eb6ced7beb78ceb3290b229959",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.4.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.4.3.tgz",
+			"sha": "a0125231172395a6871127954b2f83e330161417",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.4.2.tgz",
+			"sha": "1b6812f0ce79821231d65e97da551cb5ca4a3a73",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.4.1.tgz",
+			"sha": "4681437f3e07847f9cc843cf000c060cf9e4bc13",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.4.0.tgz",
+			"sha": "a27affbaf3a849894817f648bf68ac710dedf4a3",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.3.2.tgz",
+			"sha": "cf7d2809b74e7e3ff0623568cbd2c9d01b280d39",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.3.1.tgz",
+			"sha": "846b74beeccbd5a8b348aca827268ff8840ee38d",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.3.0.tgz",
+			"sha": "3072ef8ec713b05bcf2e3949e05d85ea62a1f3b5",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.35.tgz",
+			"sha": "0da130dd7363be5e4f3584d058b38a3a88450f3a",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.34.tgz",
+			"sha": "8d1b5557d9143e9692b7b2083c56a5adc8113104",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.33.tgz",
+			"sha": "f89b2daf9c3abf8ac4bd47ca4a0fa8edc54fe828",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.32.tgz",
+			"sha": "f6555ab5c57230e90a3ea86241a365c828d105ba",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.31.tgz",
+			"sha": "ce97299cc55d2544526cf8f73feb8fcb3c78500a",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.30.tgz",
+			"sha": "deaf49bea6d0ff61ea44d81314aa36c9460a3029",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.29.tgz",
+			"sha": "d8f8e8cc4ee2450173fbe05d43010d40b8f295b4",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.28.tgz",
+			"sha": "95b15c343456318071c134bda7338027b1bbc2d9",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.27.tgz",
+			"sha": "359d6c3a6bed9edaefccec14769e653b2d81f3ea",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.26-alpha.tgz",
+			"sha": "2ef4631c67392979fc6f489d3882da80f4736eff",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.25-alpha.tgz",
+			"sha": "cce527f2ae96014d75e3959e8b6062bb2d034be3",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.24-alpha.tgz",
+			"sha": "2202cbaaea4b2b94bc5c1dd10e4525593a10c234",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.23-alpha.tgz",
+			"sha": "df9aa247a9f121a24cefe460e5c9b1bcca7c5559",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.22-alpha.tgz",
+			"sha": "64c38bd39836a6ff990a34a49b89bd97d7bdb65a",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.21-alpha.tgz",
+			"sha": "d61bae3fccf91fed5349d0933e2743f6f1902e16",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.20-alpha.tgz",
+			"sha": "5f8e87cd32e1bc421f0d23a8406480cd7f14e025",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.15-alpha.tgz",
+			"sha": "89728a55b6c91fa6a478fcd5cfc1cd4d9d6451f4",
+			"registry": "cnpmjs"
+		},
+		"gl-matrix-2.2.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gl-matrix/download/@types/gl-matrix-2.2.14-alpha.tgz",
+			"sha": "1d8d57db4dc0df72a0a93e9366c9c933655a0217",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833455833
+		}
+	},
+	"_rev": "1-569a80147a608286",
+	"readme": "# Installation\r\n> `npm install --save @types/gl-matrix`\r\n\r\n# Summary\r\nThis package contains type definitions for gl-matrix (https://github.com/toji/gl-matrix).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/gl-matrix\r\n\r\nAdditional Details\r\n * Last updated: Fri, 05 Oct 2018 00:23:49 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Mattijs Kneppers <https://github.com/mattijskneppers>, based on definitions by Tat <https://github.com/tatchx>, Nikolay Babanov <https://github.com/nbabanov>, Austin Martin <https://github.com/auzmartist>, Wayne Langman <https://github.com/surtr-isaz>."
+}

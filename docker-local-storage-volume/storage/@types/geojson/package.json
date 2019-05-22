@@ -1,0 +1,1488 @@
+{
+	"name": "@types/geojson",
+	"versions": {
+		"7946.0.4": {
+			"name": "@types/geojson",
+			"version": "7946.0.4",
+			"description": "TypeScript definitions for geojson",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster",
+					"githubUsername": "cobster"
+				},
+				{
+					"name": "Arne Schubert",
+					"url": "https://github.com/atd-schubert",
+					"githubUsername": "atd-schubert"
+				},
+				{
+					"name": "Jeff Jacobson",
+					"url": "https://github.com/JeffJacobson",
+					"githubUsername": "JeffJacobson"
+				},
+				{
+					"name": "Ilia Choly",
+					"url": "https://github.com/icholy",
+					"githubUsername": "icholy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "175290e54893f2224d7be9ff9cae69a374b4d2e18736f32e0d801a43191401b8",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/geojson@7946.0.4",
+			"dist": {
+				"shasum": "4e049756383c3f055dd8f3d24e63fb543e98eb07",
+				"size": 2762,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-7946.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/geojson_7946.0.4_1529453469412_0.4254042088868193"
+			},
+			"publish_time": 1529453469899,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1529453469899
+		},
+		"7946.0.3": {
+			"name": "@types/geojson",
+			"version": "7946.0.3",
+			"description": "TypeScript definitions for geojson",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster",
+					"githubUsername": "cobster"
+				},
+				{
+					"name": "Arne Schubert",
+					"url": "https://github.com/atd-schubert",
+					"githubUsername": "atd-schubert"
+				},
+				{
+					"name": "Jeff Jacobson",
+					"url": "https://github.com/JeffJacobson",
+					"githubUsername": "JeffJacobson"
+				},
+				{
+					"name": "Ilia Choly",
+					"url": "https://github.com/icholy",
+					"githubUsername": "icholy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "41469f8621e41ac21b62ff5dbf1590eb9d7c406b95d2532f4a7b35843d78ad3a",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/geojson@7946.0.3",
+			"dist": {
+				"shasum": "e5791534ab0acfb2b3a39b713966cfcee85d469f",
+				"size": 2774,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-7946.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/geojson_7946.0.3_1524781043003_0.24359473659503728"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524781043072,
+			"_cnpm_publish_time": 1524781043072
+		},
+		"7946.0.2": {
+			"name": "@types/geojson",
+			"version": "7946.0.2",
+			"description": "TypeScript definitions for geojson",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster",
+					"githubUsername": "cobster"
+				},
+				{
+					"name": "Arne Schubert",
+					"url": "https://github.com/atd-schubert",
+					"githubUsername": "atd-schubert"
+				},
+				{
+					"name": "Jeff Jacobson",
+					"url": "https://github.com/JeffJacobson",
+					"githubUsername": "JeffJacobson"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "87518c8fc61a1a05d50991662799755ffdeb62f472cfa4ba6add191bf0c90bb1",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/geojson@7946.0.2",
+			"dist": {
+				"shasum": "0bd0a01ef04e813c2b7580318da9e37c2eadea9c",
+				"size": 2691,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-7946.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/geojson_7946.0.2_1520550626527_0.7508075612765923"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520550626582,
+			"_cnpm_publish_time": 1520550626582
+		},
+		"7946.0.1": {
+			"name": "@types/geojson",
+			"version": "7946.0.1",
+			"description": "TypeScript definitions for geojson",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster",
+					"githubUsername": "cobster"
+				},
+				{
+					"name": "Arne Schubert",
+					"url": "https://github.com/atd-schubert",
+					"githubUsername": "atd-schubert"
+				},
+				{
+					"name": "Jeff Jacobson",
+					"url": "https://github.com/JeffJacobson",
+					"githubUsername": "JeffJacobson"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "8b3d9187b39e8cb7747cf2de35a3d3920c884653613b3f24775e523a962581e0",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/geojson@7946.0.1",
+			"dist": {
+				"shasum": "1fc41280e42f08f0d568401a556bc97c34f5262e",
+				"size": 2689,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-7946.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/geojson-7946.0.1.tgz_1517260803835_0.45957307354547083"
+			},
+			"directories": {},
+			"publish_time": 1517260804031,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1517260804031
+		},
+		"7946.0.0": {
+			"name": "@types/geojson",
+			"version": "7946.0.0",
+			"description": "TypeScript definitions for geojson",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster",
+					"githubUsername": "cobster"
+				},
+				{
+					"name": "Arne Schubert",
+					"url": "https://github.com/atd-schubert",
+					"githubUsername": "atd-schubert"
+				},
+				{
+					"name": "Jeff Jacobson",
+					"url": "https://github.com/JeffJacobson",
+					"githubUsername": "JeffJacobson"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d38990ffbb682c151e95fde92042fd584acace1bf58fd74269f5ee1b0f185368",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/geojson@7946.0.0",
+			"dist": {
+				"shasum": "e8bc74e8183d966455f82023f0c72e1072a952d0",
+				"size": 2679,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-7946.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/geojson-7946.0.0.tgz_1511830717580_0.5668445595074445"
+			},
+			"directories": {},
+			"publish_time": 1511830717652,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511830717652
+		},
+		"1.0.6": {
+			"name": "@types/geojson",
+			"version": "1.0.6",
+			"description": "TypeScript definitions for GeoJSON Format Specification Revision",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster",
+					"githubUsername": "cobster"
+				},
+				{
+					"name": "Arne Schubert",
+					"url": "https://github.com/atd-schubert",
+					"githubUsername": "atd-schubert"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "2a374692a48615d90fde45b274e247a1ec98647d93fe7c7ee355386108689bcd",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/geojson@1.0.6",
+			"dist": {
+				"shasum": "3e02972728c69248c2af08d60a48cbb8680fffdf",
+				"size": 2079,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/geojson-1.0.6.tgz_1509551797551_0.8140885131433606"
+			},
+			"directories": {},
+			"publish_time": 1509551797633,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509551797633
+		},
+		"1.0.5": {
+			"name": "@types/geojson",
+			"version": "1.0.5",
+			"description": "TypeScript definitions for GeoJSON Format Specification Revision",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster",
+					"githubUsername": "cobster"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "3a0ca828d3ecee52b8bfed4a8bd2a6360b7b21deef004689e65ab0773931d223",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/geojson@1.0.5",
+			"dist": {
+				"shasum": "ef9f12277233399c7f32086818a56a84c8952f8f",
+				"size": 2017,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/geojson-1.0.5.tgz_1507764454879_0.09059343673288822"
+			},
+			"directories": {},
+			"publish_time": 1507764454948,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507764454948
+		},
+		"1.0.4": {
+			"name": "@types/geojson",
+			"version": "1.0.4",
+			"description": "TypeScript definitions for GeoJSON Format Specification Revision",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster",
+					"githubUsername": "cobster"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "6e3dee85c5a9e68c45cf2ec8d41ac929576b537091e839a51163b930eb6a6918",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/geojson@1.0.4",
+			"dist": {
+				"shasum": "f6e011bf3f7eea616cce79b6f1a0722010822f3a",
+				"size": 1981,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/geojson-1.0.4.tgz_1506469731734_0.6582441388163716"
+			},
+			"directories": {},
+			"publish_time": 1506469732137,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506469732137
+		},
+		"1.0.3": {
+			"name": "@types/geojson",
+			"version": "1.0.3",
+			"description": "TypeScript definitions for GeoJSON Format Specification Revision",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "12a3ca2843b5b472cbb112f0cc919829eb51447564e87d81a636a73efc7d1f39",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/geojson@1.0.3",
+			"dist": {
+				"shasum": "fbcf7fa5eb6dd108d51385cc6987ec1f24214523",
+				"size": 1972,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/geojson-1.0.3.tgz_1503352352107_0.8804005263373256"
+			},
+			"directories": {},
+			"publish_time": 1503352352178,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352352178
+		},
+		"1.0.2": {
+			"name": "@types/geojson",
+			"version": "1.0.2",
+			"description": "TypeScript definitions for GeoJSON Format Specification Revision",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "8af0f83b55578253a8217e74c8a6b4d11cf8aad1b82772cf45162e9ebc4eb776",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/geojson@1.0.2",
+			"dist": {
+				"shasum": "b02d10ab028e2928ac592a051aaa4981a1941d03",
+				"size": 1974,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/geojson-1.0.2.tgz_1492451765652_0.5249417354352772"
+			},
+			"directories": {},
+			"publish_time": 1492451765878,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492451765878
+		},
+		"1.0.1": {
+			"name": "@types/geojson",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for GeoJSON Format Specification Revision",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jacob Bruun",
+					"url": "https://github.com/cobster/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "260e75afe31ea802a535b0551d3006961994aea146f89a0ee6c65a4717f4bf7b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/geojson@1.0.1",
+			"dist": {
+				"shasum": "f4783b464989c96929ef84604e95fa2ebd05ef6e",
+				"size": 1288,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/geojson-1.0.1.tgz_1490983589528_0.7409559560474008"
+			},
+			"directories": {},
+			"publish_time": 1490983591348,
+			"_cnpm_publish_time": 1490983591348,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "@types/geojson",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for GeoJSON Format Specification Revision",
+			"license": "MIT",
+			"author": "Jacob Bruun <https://github.com/cobster/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d54be02b2c80f16ce56c8387c496d8fe0d7c81c48bb6f2656a41e9641bbf0326",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/geojson@1.0.0",
+			"dist": {
+				"shasum": "6af48a0d492c09068e97cb78e6bef940d57fb36d",
+				"size": 1507,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/geojson-1.0.0.tgz_1486504097229_0.20429026801139116"
+			},
+			"directories": {},
+			"publish_time": 1486504097459,
+			"_cnpm_publish_time": 1486504097459,
+			"_hasShrinkwrap": false
+		},
+		"0.0.32": {
+			"name": "@types/geojson",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"license": "MIT",
+			"author": "Jacob Bruun <https://github.com/cobster/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b582c8c19792fb41e69a2ccc5ba0a6912878517b6d7bc3c6ad2bda08b7001412",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/geojson@0.0.32",
+			"dist": {
+				"shasum": "1571eeaf045337b242852885f08d9a945e1cc940",
+				"size": 1427,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.32.tgz_1484333539978_0.10728151793591678"
+			},
+			"directories": {},
+			"publish_time": 1484333540223,
+			"_cnpm_publish_time": 1484333540223,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/geojson",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"license": "MIT",
+			"author": "Jacob Bruun <https://github.com/cobster/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "3fe657d7ef10c3a35948cd74b5b445f03b3f1a4ba93889f53e38b97ab11d210c",
+			"_id": "@types/geojson@0.0.31",
+			"dist": {
+				"shasum": "ad8d4cb76f7bf13c59babc5bed77f2dd2c4175bc",
+				"size": 1412,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.31.tgz_1474306451311_0.17505023698322475"
+			},
+			"directories": {},
+			"publish_time": 1474306451554,
+			"_cnpm_publish_time": 1474306451554,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/geojson",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"license": "MIT",
+			"author": "Jacob Bruun <https://github.com/cobster/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/geojson@0.0.30",
+			"dist": {
+				"shasum": "2fec45271056ed1bb2eddc394cc3057af635f488",
+				"size": 1398,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.30.tgz_1472150588059_0.18929282971657813"
+			},
+			"directories": {},
+			"publish_time": 1472150588631,
+			"_cnpm_publish_time": 1472150588631,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/geojson",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"license": "MIT",
+			"author": "Jacob Bruun <https://github.com/cobster/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/geojson@0.0.29",
+			"dist": {
+				"shasum": "03c29c420f40d43272f7ffd0bee950204c1250d1",
+				"size": 1400,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.29.tgz_1471620367678_0.6313223433680832"
+			},
+			"directories": {},
+			"publish_time": 1471620368942,
+			"_cnpm_publish_time": 1471620368942,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/geojson",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"license": "MIT",
+			"author": "Jacob Bruun <https://github.com/cobster/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/geojson@0.0.28",
+			"dist": {
+				"shasum": "081f5b20516888b55bc8d88207436d94555e1f3a",
+				"size": 9216,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.28.tgz_1470153206059_0.3910599241498858"
+			},
+			"directories": {},
+			"publish_time": 1470153207625,
+			"_cnpm_publish_time": 1470153207625,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/geojson",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jacob Bruun",
+				"email": "https://github.com/cobster/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/geojson@0.0.27",
+			"_shasum": "600d0c03722beb9f88548eb68182dfda3b43c8e3",
+			"_from": "output\\geojson",
+			"_resolved": "file:output\\geojson",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "600d0c03722beb9f88548eb68182dfda3b43c8e3",
+				"size": 1351,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.27.tgz_1468507285499_0.2046475475654006"
+			},
+			"directories": {},
+			"publish_time": 1468507286011,
+			"_cnpm_publish_time": 1468507286011,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/geojson",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jacob Bruun",
+				"email": "https://github.com/cobster/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/geojson@0.0.26-alpha",
+			"_shasum": "1b730221fe17c820c1660e6a11d0f3f759004b25",
+			"_from": "output\\geojson",
+			"_resolved": "file:output\\geojson",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1b730221fe17c820c1660e6a11d0f3f759004b25",
+				"size": 1355,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.26-alpha.tgz_1468009002668_0.35000458057038486"
+			},
+			"directories": {},
+			"publish_time": 1468009004099,
+			"_cnpm_publish_time": 1468009004099,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/geojson",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jacob Bruun",
+				"email": "https://github.com/cobster/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/geojson@0.0.25-alpha",
+			"_shasum": "664b1da19f37f19b86bb4bb683c8341dbfbe373d",
+			"_from": "output\\geojson",
+			"_resolved": "file:output\\geojson",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "664b1da19f37f19b86bb4bb683c8341dbfbe373d",
+				"size": 1355,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.25-alpha.tgz_1467591542726_0.3758907779119909"
+			},
+			"directories": {},
+			"publish_time": 1467591546271,
+			"_cnpm_publish_time": 1467591546271,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/geojson",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jacob Bruun",
+				"email": "https://github.com/cobster/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/geojson@0.0.24-alpha",
+			"_shasum": "bf02e7cd4f823c555d9bb2451682eac8a8331e95",
+			"_from": "output\\geojson",
+			"_resolved": "file:output\\geojson",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bf02e7cd4f823c555d9bb2451682eac8a8331e95",
+				"size": 1356,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.24-alpha.tgz_1467426497140_0.77228490752168"
+			},
+			"directories": {},
+			"publish_time": 1467426500339,
+			"_cnpm_publish_time": 1467426500339,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/geojson",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jacob Bruun",
+				"email": "https://github.com/cobster/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/geojson@0.0.23-alpha",
+			"_shasum": "bcb7a25616135e4537530dc583d53d6b0a23650d",
+			"_from": "output\\geojson",
+			"_resolved": "file:output\\geojson",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bcb7a25616135e4537530dc583d53d6b0a23650d",
+				"size": 1355,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.23-alpha.tgz_1467413555194_0.37202140782028437"
+			},
+			"directories": {},
+			"publish_time": 1467413557615,
+			"_cnpm_publish_time": 1467413557615,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/geojson",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jacob Bruun",
+				"email": "https://github.com/cobster/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/geojson@0.0.22-alpha",
+			"_shasum": "478072d0cf5ed395bcd9f826a9b2ffa5f2671c2e",
+			"_from": "output\\geojson",
+			"_resolved": "file:output\\geojson",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "478072d0cf5ed395bcd9f826a9b2ffa5f2671c2e",
+				"size": 1353,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.22-alpha.tgz_1467401039031_0.8860733020119369"
+			},
+			"directories": {},
+			"publish_time": 1467401041119,
+			"_cnpm_publish_time": 1467401041119,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/geojson",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jacob Bruun",
+				"email": "https://github.com/cobster/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/geojson@0.0.21-alpha",
+			"_shasum": "a6b0e695fa0ae4568cf8b5e31cc09a94522e0f51",
+			"_from": "output\\geojson",
+			"_resolved": "file:output\\geojson",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a6b0e695fa0ae4568cf8b5e31cc09a94522e0f51",
+				"size": 1324,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.21-alpha.tgz_1464152287488_0.31385653652250767"
+			},
+			"directories": {},
+			"publish_time": 1464152289903,
+			"_cnpm_publish_time": 1464152289903,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/geojson",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for GeoJSON Format Specification",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jacob Bruun",
+				"email": "https://github.com/cobster/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/geojson@0.0.20-alpha",
+			"_shasum": "1e80d443cc72d22ac854a7ff59919c868284df46",
+			"_from": "output\\geojson",
+			"_resolved": "file:output\\geojson",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1e80d443cc72d22ac854a7ff59919c868284df46",
+				"size": 1322,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.20-alpha.tgz_1463773198718_0.9063832527026534"
+			},
+			"directories": {},
+			"publish_time": 1463773201013,
+			"_cnpm_publish_time": 1463773201013,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/geojson",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for GeoJSON Format Specification from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jacob Bruun",
+				"email": "https://github.com/cobster/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/geojson@0.0.15-alpha",
+			"_shasum": "7e1df610295f638c6c9990bdf297f8201c8ad999",
+			"_from": "output\\geojson",
+			"_resolved": "file:output\\geojson",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7e1df610295f638c6c9990bdf297f8201c8ad999",
+				"size": 1331,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.15-alpha.tgz_1463691524261_0.7012645271606743"
+			},
+			"directories": {},
+			"publish_time": 1463691528918,
+			"_cnpm_publish_time": 1463691528918,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/geojson",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for GeoJSON Format Specification from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jacob Bruun",
+				"email": "https://github.com/cobster/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/geojson@0.0.14-alpha",
+			"_shasum": "392c2d13d4803da1cd39dea8270abfc6d7b637d2",
+			"_from": "output\\geojson",
+			"_resolved": "file:output\\geojson",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "392c2d13d4803da1cd39dea8270abfc6d7b637d2",
+				"size": 1322,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/geojson-0.0.14-alpha.tgz_1463461280174_0.3159956890158355"
+			},
+			"directories": {},
+			"publish_time": 1463461280730,
+			"_cnpm_publish_time": 1463461280730,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "7946.0.4",
+		"ts2.0": "1.0.5",
+		"ts2.1": "1.0.5",
+		"ts2.2": "1.0.5",
+		"ts2.3": "7946.0.4",
+		"ts2.4": "7946.0.4",
+		"ts2.5": "7946.0.4",
+		"ts2.6": "7946.0.4",
+		"ts2.7": "7946.0.4",
+		"ts2.8": "7946.0.4",
+		"ts2.9": "7946.0.4",
+		"ts3.0": "7946.0.4",
+		"ts3.1": "7946.0.4",
+		"ts3.2": "7946.0.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:11:22.000Z",
+		"created": "2016-05-17T05:01:20.730Z",
+		"7946.0.4": "2018-06-20T00:11:09.899Z",
+		"7946.0.3": "2018-04-26T22:17:23.072Z",
+		"7946.0.2": "2018-03-08T23:10:26.582Z",
+		"7946.0.1": "2018-01-29T21:20:04.031Z",
+		"7946.0.0": "2017-11-28T00:58:37.652Z",
+		"1.0.6": "2017-11-01T15:56:37.633Z",
+		"1.0.5": "2017-10-11T23:27:34.948Z",
+		"1.0.4": "2017-09-26T23:48:52.137Z",
+		"1.0.3": "2017-08-21T21:52:32.178Z",
+		"1.0.2": "2017-04-17T17:56:05.878Z",
+		"1.0.1": "2017-03-31T18:06:31.348Z",
+		"1.0.0": "2017-02-07T21:48:17.459Z",
+		"0.0.32": "2017-01-13T18:52:20.223Z",
+		"0.0.31": "2016-09-19T17:34:11.554Z",
+		"0.0.30": "2016-08-25T18:43:08.631Z",
+		"0.0.29": "2016-08-19T15:26:08.942Z",
+		"0.0.28": "2016-08-02T15:53:27.625Z",
+		"0.0.27": "2016-07-14T14:41:26.011Z",
+		"0.0.26-alpha": "2016-07-08T20:16:44.099Z",
+		"0.0.25-alpha": "2016-07-04T00:19:06.271Z",
+		"0.0.24-alpha": "2016-07-02T02:28:20.339Z",
+		"0.0.23-alpha": "2016-07-01T22:52:37.615Z",
+		"0.0.22-alpha": "2016-07-01T19:24:01.119Z",
+		"0.0.21-alpha": "2016-05-25T04:58:09.903Z",
+		"0.0.20-alpha": "2016-05-20T19:40:01.013Z",
+		"0.0.15-alpha": "2016-05-19T20:58:48.918Z",
+		"0.0.14-alpha": "2016-05-17T05:01:20.730Z"
+	},
+	"_distfiles": {
+		"geojson-7946.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-7946.0.4.tgz",
+			"sha": "4e049756383c3f055dd8f3d24e63fb543e98eb07",
+			"registry": "cnpmjs"
+		},
+		"geojson-7946.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-7946.0.3.tgz",
+			"sha": "e5791534ab0acfb2b3a39b713966cfcee85d469f",
+			"registry": "cnpmjs"
+		},
+		"geojson-7946.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-7946.0.2.tgz",
+			"sha": "0bd0a01ef04e813c2b7580318da9e37c2eadea9c",
+			"registry": "cnpmjs"
+		},
+		"geojson-7946.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-7946.0.1.tgz",
+			"sha": "1fc41280e42f08f0d568401a556bc97c34f5262e",
+			"registry": "cnpmjs"
+		},
+		"geojson-7946.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-7946.0.0.tgz",
+			"sha": "e8bc74e8183d966455f82023f0c72e1072a952d0",
+			"registry": "cnpmjs"
+		},
+		"geojson-1.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.6.tgz",
+			"sha": "3e02972728c69248c2af08d60a48cbb8680fffdf",
+			"registry": "cnpmjs"
+		},
+		"geojson-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.5.tgz",
+			"sha": "ef9f12277233399c7f32086818a56a84c8952f8f",
+			"registry": "cnpmjs"
+		},
+		"geojson-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.4.tgz",
+			"sha": "f6e011bf3f7eea616cce79b6f1a0722010822f3a",
+			"registry": "cnpmjs"
+		},
+		"geojson-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.3.tgz",
+			"sha": "fbcf7fa5eb6dd108d51385cc6987ec1f24214523",
+			"registry": "cnpmjs"
+		},
+		"geojson-1.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.2.tgz",
+			"sha": "b02d10ab028e2928ac592a051aaa4981a1941d03",
+			"registry": "cnpmjs"
+		},
+		"geojson-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.1.tgz",
+			"sha": "f4783b464989c96929ef84604e95fa2ebd05ef6e",
+			"registry": "cnpmjs"
+		},
+		"geojson-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-1.0.0.tgz",
+			"sha": "6af48a0d492c09068e97cb78e6bef940d57fb36d",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.32.tgz",
+			"sha": "1571eeaf045337b242852885f08d9a945e1cc940",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.31.tgz",
+			"sha": "ad8d4cb76f7bf13c59babc5bed77f2dd2c4175bc",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.30.tgz",
+			"sha": "2fec45271056ed1bb2eddc394cc3057af635f488",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.29.tgz",
+			"sha": "03c29c420f40d43272f7ffd0bee950204c1250d1",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.28.tgz",
+			"sha": "081f5b20516888b55bc8d88207436d94555e1f3a",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.27.tgz",
+			"sha": "600d0c03722beb9f88548eb68182dfda3b43c8e3",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.26-alpha.tgz",
+			"sha": "1b730221fe17c820c1660e6a11d0f3f759004b25",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.25-alpha.tgz",
+			"sha": "664b1da19f37f19b86bb4bb683c8341dbfbe373d",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.24-alpha.tgz",
+			"sha": "bf02e7cd4f823c555d9bb2451682eac8a8331e95",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.23-alpha.tgz",
+			"sha": "bcb7a25616135e4537530dc583d53d6b0a23650d",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.22-alpha.tgz",
+			"sha": "478072d0cf5ed395bcd9f826a9b2ffa5f2671c2e",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.21-alpha.tgz",
+			"sha": "a6b0e695fa0ae4568cf8b5e31cc09a94522e0f51",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.20-alpha.tgz",
+			"sha": "1e80d443cc72d22ac854a7ff59919c868284df46",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.15-alpha.tgz",
+			"sha": "7e1df610295f638c6c9990bdf297f8201c8ad999",
+			"registry": "cnpmjs"
+		},
+		"geojson-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/geojson/download/@types/geojson-0.0.14-alpha.tgz",
+			"sha": "392c2d13d4803da1cd39dea8270abfc6d7b637d2",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"7ff0-oZOPG66u738diyyV1cCpGDPhKic\"",
+			"fetched": 1541833459439
+		}
+	},
+	"_rev": "1-407f274fe73240c7",
+	"readme": "# Installation\r\n> `npm install --save @types/geojson`\r\n\r\n# Summary\r\nThis package contains type definitions for geojson (https://geojson.org/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/geojson\r\n\r\nAdditional Details\r\n * Last updated: Wed, 20 Jun 2018 00:10:18 GMT\r\n * Dependencies: none\r\n * Global values: GeoJSON\r\n\r\n# Credits\r\nThese definitions were written by Jacob Bruun <https://github.com/cobster>, Arne Schubert <https://github.com/atd-schubert>, Jeff Jacobson <https://github.com/JeffJacobson>, Ilia Choly <https://github.com/icholy>."
+}

@@ -1,0 +1,82 @@
+{
+	"name": "@types/exenv",
+	"versions": {
+		"1.2.0": {
+			"name": "@types/exenv",
+			"version": "1.2.0",
+			"description": "TypeScript definitions for exenv",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Christian Chown",
+					"url": "https://github.com/christianchown",
+					"githubUsername": "christianchown"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "55b46a543a7ed4450116b75fee8a353d2408f6511a654e2a004beb039f50fd18",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/exenv@1.2.0",
+			"dist": {
+				"shasum": "84ff936feeafc917c3c66f80b43e917f56eed00b",
+				"size": 1501,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/exenv/download/@types/exenv-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/exenv_1.2.0_1521845518953_0.1953333858263644"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521845519018,
+			"_cnpm_publish_time": 1521845519018
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.0",
+		"ts2.6": "1.2.0",
+		"ts2.7": "1.2.0",
+		"ts2.8": "1.2.0",
+		"ts2.9": "1.2.0",
+		"ts3.0": "1.2.0",
+		"ts3.1": "1.2.0",
+		"ts3.2": "1.2.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:10:46.000Z",
+		"created": "2018-03-23T22:51:59.018Z",
+		"1.2.0": "2018-03-23T22:51:59.018Z"
+	},
+	"_distfiles": {
+		"exenv-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/exenv/download/@types/exenv-1.2.0.tgz",
+			"sha": "84ff936feeafc917c3c66f80b43e917f56eed00b",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833455306
+		}
+	},
+	"_rev": "1-71aee6f3926829e8",
+	"readme": "# Installation\r\n> `npm install --save @types/exenv`\r\n\r\n# Summary\r\nThis package contains type definitions for exenv (https://github.com/JedWatson/exenv).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/exenv\r\n\r\nAdditional Details\r\n * Last updated: Fri, 23 Mar 2018 22:51:43 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Christian Chown <https://github.com/christianchown>."
+}

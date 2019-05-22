@@ -1,0 +1,84 @@
+{
+	"name": "@types/ip-regex",
+	"versions": {
+		"2.0.0": {
+			"name": "@types/ip-regex",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for ip-regex",
+			"license": "MIT",
+			"author": "Daniel Perez Alvarez <https://github.com/unindented>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e1594df23f39aaee402dfb354f0e88f63e125daecf1bfb02cfa1b71a79563ac6",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ip-regex@2.0.0",
+			"dist": {
+				"shasum": "4b7abb4c2cc1a50f00bb4f26983eefd0cd88f005",
+				"size": 1089,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip-regex/download/@types/ip-regex-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ip-regex-2.0.0.tgz_1484683897752_0.7784412219189107"
+			},
+			"directories": {},
+			"publish_time": 1484683898007,
+			"_cnpm_publish_time": 1484683898007,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.0",
+		"ts2.0": "2.0.0",
+		"ts2.1": "2.0.0",
+		"ts2.2": "2.0.0",
+		"ts2.3": "2.0.0",
+		"ts2.4": "2.0.0",
+		"ts2.5": "2.0.0",
+		"ts2.6": "2.0.0",
+		"ts2.7": "2.0.0",
+		"ts2.8": "2.0.0",
+		"ts2.9": "2.0.0",
+		"ts3.0": "2.0.0",
+		"ts3.1": "2.0.0",
+		"ts3.2": "2.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:01.000Z",
+		"created": "2017-01-17T20:11:38.007Z",
+		"2.0.0": "2017-01-17T20:11:38.007Z"
+	},
+	"_distfiles": {
+		"ip-regex-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip-regex/download/@types/ip-regex-2.0.0.tgz",
+			"sha": "4b7abb4c2cc1a50f00bb4f26983eefd0cd88f005",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"93e-emEAMnfxQaIqdBlnxSoR3XHm5Ms\"",
+			"fetched": 1541833456930
+		}
+	},
+	"_rev": "2-5705fb2522925314",
+	"readme": "# Installation\r\n> `npm install --save @types/ip-regex`\r\n\r\n# Summary\r\nThis package contains type definitions for ip-regex (https://github.com/sindresorhus/ip-regex).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/ip-regex\r\n\r\nAdditional Details\r\n * Last updated: Tue, 17 Jan 2017 20:11:05 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Daniel Perez Alvarez <https://github.com/unindented>."
+}

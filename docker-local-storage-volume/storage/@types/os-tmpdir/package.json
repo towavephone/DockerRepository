@@ -1,0 +1,84 @@
+{
+	"name": "@types/os-tmpdir",
+	"versions": {
+		"1.0.0": {
+			"name": "@types/os-tmpdir",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for os-tmpdir",
+			"license": "MIT",
+			"author": "Mohamed Hegazy <https://github.com/mhegazy>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a9568ac38dd43231f02a389b61a5889e6c14c5039a8928ea4142a57d563b9738",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/os-tmpdir@1.0.0",
+			"dist": {
+				"shasum": "f7f35a5c3b4ea47ccdd6efc3c8d8e5777e0c884e",
+				"size": 963,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-tmpdir/download/@types/os-tmpdir-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/os-tmpdir-1.0.0.tgz_1483053128436_0.6109566879458725"
+			},
+			"directories": {},
+			"publish_time": 1483053128656,
+			"_cnpm_publish_time": 1483053128656,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0",
+		"ts2.0": "1.0.0",
+		"ts2.1": "1.0.0",
+		"ts2.2": "1.0.0",
+		"ts2.3": "1.0.0",
+		"ts2.4": "1.0.0",
+		"ts2.5": "1.0.0",
+		"ts2.6": "1.0.0",
+		"ts2.7": "1.0.0",
+		"ts2.8": "1.0.0",
+		"ts2.9": "1.0.0",
+		"ts3.0": "1.0.0",
+		"ts3.1": "1.0.0",
+		"ts3.2": "1.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:23:21.000Z",
+		"created": "2016-12-29T23:12:08.656Z",
+		"1.0.0": "2016-12-29T23:12:08.656Z"
+	},
+	"_distfiles": {
+		"os-tmpdir-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-tmpdir/download/@types/os-tmpdir-1.0.0.tgz",
+			"sha": "f7f35a5c3b4ea47ccdd6efc3c8d8e5777e0c884e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"95e-+MYwjno9WiwWgp59U/kn70nTF78\"",
+			"fetched": 1541833486380
+		}
+	},
+	"_rev": "2-67df7d396da3603f",
+	"readme": "# Installation\r\n> `npm install --save @types/os-tmpdir`\r\n\r\n# Summary\r\nThis package contains type definitions for os-tmpdir (https://github.com/sindresorhus/os-tmpdir#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/os-tmpdir\r\n\r\nAdditional Details\r\n * Last updated: Thu, 29 Dec 2016 23:09:21 GMT\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Mohamed Hegazy <https://github.com/mhegazy>."
+}

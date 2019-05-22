@@ -1,0 +1,607 @@
+{
+	"name": "@types/optimist",
+	"versions": {
+		"0.0.29": {
+			"name": "@types/optimist",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for optimist",
+			"license": "MIT",
+			"author": "Carlos Ballesteros Velasco <https://github.com/soywiz>, Christopher Brown <https://github.com/chbrown>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "75685c43357dff9061dcada2aa6b41e297c9eb9b7e96ed6875e8b7a37c50b06c",
+			"_id": "@types/optimist@0.0.29",
+			"dist": {
+				"shasum": "a8873580b3a84b69ac1e687323b15fbbeb90479a",
+				"size": 2184,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.29.tgz_1474307885285_0.7548393146134913"
+			},
+			"directories": {},
+			"publish_time": 1474307885509,
+			"_cnpm_publish_time": 1474307885509,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/optimist",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for optimist",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/optimist@0.0.28",
+			"_shasum": "17a2e12e2d30b3a7652caaf737f78b32686f3607",
+			"_from": "output\\optimist",
+			"_resolved": "file:output\\optimist",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "17a2e12e2d30b3a7652caaf737f78b32686f3607",
+				"size": 2166,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.28.tgz_1468510682540_0.7156975576654077"
+			},
+			"directories": {},
+			"publish_time": 1468510684816,
+			"_cnpm_publish_time": 1468510684816,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/optimist",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for optimist",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/optimist@0.0.27-alpha",
+			"_shasum": "caa2cf19957aa5e545be683aefcd90ca21a370eb",
+			"_from": "output\\optimist",
+			"_resolved": "file:output\\optimist",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "caa2cf19957aa5e545be683aefcd90ca21a370eb",
+				"size": 2169,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.27-alpha.tgz_1468011876065_0.9277942308690399"
+			},
+			"directories": {},
+			"publish_time": 1468011877572,
+			"_cnpm_publish_time": 1468011877572,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/optimist",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for optimist",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/optimist@0.0.26-alpha",
+			"_shasum": "c98a1bd3147dcc2d8b0663f59f7dc937b29f2f20",
+			"_from": "output\\optimist",
+			"_resolved": "file:output\\optimist",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c98a1bd3147dcc2d8b0663f59f7dc937b29f2f20",
+				"size": 2170,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.26-alpha.tgz_1467593736233_0.6501193372532725"
+			},
+			"directories": {},
+			"publish_time": 1467593736779,
+			"_cnpm_publish_time": 1467593736779,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/optimist",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for optimist",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/optimist@0.0.25-alpha",
+			"_shasum": "4e32a997ba1b100432d28d740c76683fd0360b81",
+			"_from": "output\\optimist",
+			"_resolved": "file:output\\optimist",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4e32a997ba1b100432d28d740c76683fd0360b81",
+				"size": 2169,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.25-alpha.tgz_1467428700825_0.07010468491353095"
+			},
+			"directories": {},
+			"publish_time": 1467428701414,
+			"_cnpm_publish_time": 1467428701414,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/optimist",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for optimist",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/optimist@0.0.24-alpha",
+			"_shasum": "89b70ab324e5e1b7d700e0d91e40ad48ee6fc8a1",
+			"_from": "output\\optimist",
+			"_resolved": "file:output\\optimist",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "89b70ab324e5e1b7d700e0d91e40ad48ee6fc8a1",
+				"size": 2171,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.24-alpha.tgz_1467416323913_0.37760317302308977"
+			},
+			"directories": {},
+			"publish_time": 1467416324443,
+			"_cnpm_publish_time": 1467416324443,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/optimist",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for optimist",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/optimist@0.0.23-alpha",
+			"_shasum": "9fdb4abf038fcc4062b2d2055f3f33158ce17e81",
+			"_from": "output\\optimist",
+			"_resolved": "file:output\\optimist",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9fdb4abf038fcc4062b2d2055f3f33158ce17e81",
+				"size": 2160,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.23-alpha.tgz_1467404064559_0.4096944311168045"
+			},
+			"directories": {},
+			"publish_time": 1467404065191,
+			"_cnpm_publish_time": 1467404065191,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/optimist",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for optimist",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/optimist@0.0.22-alpha",
+			"_shasum": "3aa449bcab44e5aa942013bd87b4620f65a93412",
+			"_from": "output\\optimist",
+			"_resolved": "file:output\\optimist",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3aa449bcab44e5aa942013bd87b4620f65a93412",
+				"size": 2139,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.22-alpha.tgz_1464154656911_0.35619271313771605"
+			},
+			"directories": {},
+			"publish_time": 1464154659786,
+			"_cnpm_publish_time": 1464154659786,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/optimist",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for optimist",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/optimist@0.0.21-alpha",
+			"_shasum": "1c9fa209f18b81be0f4f963900b5a0df8c4a6e26",
+			"_from": "output\\optimist",
+			"_resolved": "file:output\\optimist",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1c9fa209f18b81be0f4f963900b5a0df8c4a6e26",
+				"size": 2134,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.21-alpha.tgz_1463775683278_0.48143300600349903"
+			},
+			"directories": {},
+			"publish_time": 1463775685286,
+			"_cnpm_publish_time": 1463775685286,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/optimist",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for optimist from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/optimist@0.0.16-alpha",
+			"_shasum": "27f4bb48c2c8996cc2421a03e6fcae7791afb54b",
+			"_from": "output\\optimist",
+			"_resolved": "file:output\\optimist",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "27f4bb48c2c8996cc2421a03e6fcae7791afb54b",
+				"size": 2147,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.16-alpha.tgz_1463694950980_0.3679873696528375"
+			},
+			"directories": {},
+			"publish_time": 1463694955686,
+			"_cnpm_publish_time": 1463694955686,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/optimist",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for optimist from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/optimist@0.0.15-alpha",
+			"_shasum": "87786234fbdfcde07f85703a79e3b674d54eab29",
+			"_from": "output\\optimist",
+			"_resolved": "file:output\\optimist",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "87786234fbdfcde07f85703a79e3b674d54eab29",
+				"size": 2138,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/optimist-0.0.15-alpha.tgz_1463509931344_0.40270939306356013"
+			},
+			"directories": {},
+			"publish_time": 1463509934125,
+			"_cnpm_publish_time": 1463509934125,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.29",
+		"ts2.0": "0.0.29",
+		"ts2.1": "0.0.29",
+		"ts2.2": "0.0.29",
+		"ts2.3": "0.0.29",
+		"ts2.4": "0.0.29",
+		"ts2.5": "0.0.29",
+		"ts2.6": "0.0.29",
+		"ts2.7": "0.0.29",
+		"ts2.8": "0.0.29",
+		"ts2.9": "0.0.29",
+		"ts3.0": "0.0.29",
+		"ts3.1": "0.0.29",
+		"ts3.2": "0.0.29"
+	},
+	"time": {
+		"modified": "2018-10-10T20:23:16.000Z",
+		"created": "2016-05-17T18:32:14.125Z",
+		"0.0.29": "2016-09-19T17:58:05.509Z",
+		"0.0.28": "2016-07-14T15:38:04.816Z",
+		"0.0.27-alpha": "2016-07-08T21:04:37.572Z",
+		"0.0.26-alpha": "2016-07-04T00:55:36.779Z",
+		"0.0.25-alpha": "2016-07-02T03:05:01.414Z",
+		"0.0.24-alpha": "2016-07-01T23:38:44.443Z",
+		"0.0.23-alpha": "2016-07-01T20:14:25.191Z",
+		"0.0.22-alpha": "2016-05-25T05:37:39.786Z",
+		"0.0.21-alpha": "2016-05-20T20:21:25.286Z",
+		"0.0.16-alpha": "2016-05-19T21:55:55.686Z",
+		"0.0.15-alpha": "2016-05-17T18:32:14.125Z"
+	},
+	"_distfiles": {
+		"optimist-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.29.tgz",
+			"sha": "a8873580b3a84b69ac1e687323b15fbbeb90479a",
+			"registry": "cnpmjs"
+		},
+		"optimist-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.28.tgz",
+			"sha": "17a2e12e2d30b3a7652caaf737f78b32686f3607",
+			"registry": "cnpmjs"
+		},
+		"optimist-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.27-alpha.tgz",
+			"sha": "caa2cf19957aa5e545be683aefcd90ca21a370eb",
+			"registry": "cnpmjs"
+		},
+		"optimist-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.26-alpha.tgz",
+			"sha": "c98a1bd3147dcc2d8b0663f59f7dc937b29f2f20",
+			"registry": "cnpmjs"
+		},
+		"optimist-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.25-alpha.tgz",
+			"sha": "4e32a997ba1b100432d28d740c76683fd0360b81",
+			"registry": "cnpmjs"
+		},
+		"optimist-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.24-alpha.tgz",
+			"sha": "89b70ab324e5e1b7d700e0d91e40ad48ee6fc8a1",
+			"registry": "cnpmjs"
+		},
+		"optimist-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.23-alpha.tgz",
+			"sha": "9fdb4abf038fcc4062b2d2055f3f33158ce17e81",
+			"registry": "cnpmjs"
+		},
+		"optimist-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.22-alpha.tgz",
+			"sha": "3aa449bcab44e5aa942013bd87b4620f65a93412",
+			"registry": "cnpmjs"
+		},
+		"optimist-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.21-alpha.tgz",
+			"sha": "1c9fa209f18b81be0f4f963900b5a0df8c4a6e26",
+			"registry": "cnpmjs"
+		},
+		"optimist-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.16-alpha.tgz",
+			"sha": "27f4bb48c2c8996cc2421a03e6fcae7791afb54b",
+			"registry": "cnpmjs"
+		},
+		"optimist-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/optimist/download/@types/optimist-0.0.15-alpha.tgz",
+			"sha": "87786234fbdfcde07f85703a79e3b674d54eab29",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"37b5-Va0tkm9hCVKxv744QgMHvBxlfJM\"",
+			"fetched": 1541833486698
+		}
+	},
+	"_rev": "2-7634e67ba01cc358",
+	"readme": "# Installation\r\n> `npm install --save @types/optimist`\r\n\r\n# Summary\r\nThis package contains type definitions for optimist (https://github.com/substack/node-optimist).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/optimist\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 17:28:59 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: optimist\r\n\r\n# Credits\r\nThese definitions were written by Carlos Ballesteros Velasco <https://github.com/soywiz>, Christopher Brown <https://github.com/chbrown>."
+}

@@ -1,0 +1,327 @@
+{
+	"name": "@types/split2",
+	"versions": {
+		"2.1.6": {
+			"name": "@types/split2",
+			"version": "2.1.6",
+			"description": "TypeScript definitions for split2",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "TANAKA Koichi",
+					"url": "https://github.com/mugeso"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "45a4e3b23bb14c2d6ebcc3dc9709785502483a06e37e0db83dd6b2e33c29c6a8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/split2@2.1.6",
+			"dist": {
+				"shasum": "b095c9e064853824b22c67993d99b066777402b1",
+				"size": 1705,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/split2/download/@types/split2-2.1.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/split2-2.1.6.tgz_1503353078397_0.011794651160016656"
+			},
+			"directories": {},
+			"publish_time": 1503353078470,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503353078470
+		},
+		"2.1.5": {
+			"name": "@types/split2",
+			"version": "2.1.5",
+			"description": "TypeScript definitions for split2 2.1.0",
+			"license": "MIT",
+			"author": "TANAKA Koichi <https://github.com/mugeso/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b4182f11ac380e2f8e7493a751423e18509190d54a07eedc976acbd59ef78574",
+			"_id": "@types/split2@2.1.5",
+			"dist": {
+				"shasum": "a0474c257bd3eed3f0f3e2c8747601e53da642db",
+				"size": 1236,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/split2/download/@types/split2-2.1.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/split2-2.1.5.tgz_1479762352685_0.5891096720006317"
+			},
+			"directories": {},
+			"publish_time": 1479762354563,
+			"_cnpm_publish_time": 1479762354563,
+			"_hasShrinkwrap": false
+		},
+		"2.1.4": {
+			"name": "@types/split2",
+			"version": "2.1.4",
+			"description": "TypeScript definitions for split2 2.1.0",
+			"license": "MIT",
+			"author": "TANAKA Koichi <https://github.com/mugeso/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "split2.d.ts",
+			"typesPublisherContentHash": "2538305e04653b9169dd849f954cbc91a8b361c2d8dddad55189494ba9c98ca0",
+			"_id": "@types/split2@2.1.4",
+			"dist": {
+				"shasum": "ce0460274e700b7682f01ac192ae843f921556c5",
+				"size": 1217,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/split2/download/@types/split2-2.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/split2-2.1.4.tgz_1474308750853_0.2896032086573541"
+			},
+			"directories": {},
+			"publish_time": 1474308751099,
+			"_cnpm_publish_time": 1474308751099,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/split2",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for split2 2.1.0",
+			"license": "MIT",
+			"author": "TANAKA Koichi <https://github.com/mugeso/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "split2.d.ts",
+			"_id": "@types/split2@0.0.3",
+			"dist": {
+				"shasum": "5065fa9dda4897a98b0a4bce72d92053b9ba037f",
+				"size": 1189,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/split2/download/@types/split2-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/split2-0.0.3.tgz_1472151626752_0.73589131468907"
+			},
+			"directories": {},
+			"publish_time": 1472151626974,
+			"_cnpm_publish_time": 1472151626974,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/split2",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for split2 2.1.0",
+			"license": "MIT",
+			"author": "TANAKA Koichi <https://github.com/mugeso/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "split2.d.ts",
+			"_id": "@types/split2@0.0.2",
+			"dist": {
+				"shasum": "93e606fd0e5310705e2e0903a5fc298d414c22f3",
+				"size": 1188,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/split2/download/@types/split2-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/split2-0.0.2.tgz_1471621384041_0.036164972465485334"
+			},
+			"directories": {},
+			"publish_time": 1471621385191,
+			"_cnpm_publish_time": 1471621385191,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/split2",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for split2 2.1.0",
+			"license": "MIT",
+			"author": "TANAKA Koichi <https://github.com/mugeso/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "split2.d.ts",
+			"_id": "@types/split2@0.0.1",
+			"dist": {
+				"shasum": "38c9bed50ecbbda9f59e551d3a32d0e2719a3bd3",
+				"size": 7168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/split2/download/@types/split2-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/split2-0.0.1.tgz_1470154305897_0.8916130487341434"
+			},
+			"directories": {},
+			"publish_time": 1470154306898,
+			"_cnpm_publish_time": 1470154306898,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.1.6",
+		"ts2.0": "2.1.6",
+		"ts2.1": "2.1.6",
+		"ts2.2": "2.1.6",
+		"ts2.3": "2.1.6",
+		"ts2.4": "2.1.6",
+		"ts2.5": "2.1.6",
+		"ts2.6": "2.1.6",
+		"ts2.7": "2.1.6",
+		"ts2.8": "2.1.6",
+		"ts2.9": "2.1.6",
+		"ts3.0": "2.1.6",
+		"ts3.1": "2.1.6",
+		"ts3.2": "2.1.6"
+	},
+	"time": {
+		"modified": "2018-10-10T20:28:41.000Z",
+		"created": "2016-08-02T16:11:46.898Z",
+		"2.1.6": "2017-08-21T22:04:38.470Z",
+		"2.1.5": "2016-11-21T21:05:54.563Z",
+		"2.1.4": "2016-09-19T18:12:31.099Z",
+		"0.0.3": "2016-08-25T19:00:26.974Z",
+		"0.0.2": "2016-08-19T15:43:05.191Z",
+		"0.0.1": "2016-08-02T16:11:46.898Z"
+	},
+	"_distfiles": {
+		"split2-2.1.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/split2/download/@types/split2-2.1.6.tgz",
+			"sha": "b095c9e064853824b22c67993d99b066777402b1",
+			"registry": "cnpmjs"
+		},
+		"split2-2.1.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/split2/download/@types/split2-2.1.5.tgz",
+			"sha": "a0474c257bd3eed3f0f3e2c8747601e53da642db",
+			"registry": "cnpmjs"
+		},
+		"split2-2.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/split2/download/@types/split2-2.1.4.tgz",
+			"sha": "ce0460274e700b7682f01ac192ae843f921556c5",
+			"registry": "cnpmjs"
+		},
+		"split2-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/split2/download/@types/split2-0.0.3.tgz",
+			"sha": "5065fa9dda4897a98b0a4bce72d92053b9ba037f",
+			"registry": "cnpmjs"
+		},
+		"split2-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/split2/download/@types/split2-0.0.2.tgz",
+			"sha": "93e606fd0e5310705e2e0903a5fc298d414c22f3",
+			"registry": "cnpmjs"
+		},
+		"split2-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/split2/download/@types/split2-0.0.1.tgz",
+			"sha": "38c9bed50ecbbda9f59e551d3a32d0e2719a3bd3",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1c8e-loI3jcJmpkrvowjlckeXhJFrVWI\"",
+			"fetched": 1541835897349
+		}
+	},
+	"_rev": "2-e9517091155daff3",
+	"readme": "# Installation\r\n> `npm install --save @types/split2`\r\n\r\n# Summary\r\nThis package contains type definitions for split2 (https://github.com/mcollina/split2).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/split2\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 22:03:22 GMT\r\n * Dependencies: stream, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by TANAKA Koichi <https://github.com/mugeso>."
+}

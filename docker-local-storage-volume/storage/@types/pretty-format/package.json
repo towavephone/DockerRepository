@@ -1,0 +1,87 @@
+{
+	"name": "@types/pretty-format",
+	"versions": {
+		"20.0.0": {
+			"name": "@types/pretty-format",
+			"version": "20.0.0",
+			"description": "TypeScript definitions for pretty-format",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "0132419dcd70d0f4f91aefdd9d3759ca5e41d43003c0e42c3214a272bc49f52d",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/pretty-format@20.0.0",
+			"dist": {
+				"shasum": "67bdc5c060614f93f0ee63e45a45dbcdea65c3ce",
+				"size": 2152,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pretty-format/download/@types/pretty-format-20.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/pretty-format-20.0.0.tgz_1503595106851_0.6940995005425066"
+			},
+			"directories": {},
+			"publish_time": 1503595106931,
+			"_cnpm_publish_time": 1503595106931,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "20.0.0",
+		"ts2.1": "20.0.0",
+		"ts2.2": "20.0.0",
+		"ts2.3": "20.0.0",
+		"ts2.4": "20.0.0",
+		"ts2.5": "20.0.0",
+		"ts2.6": "20.0.0",
+		"ts2.7": "20.0.0",
+		"ts2.8": "20.0.0",
+		"ts2.9": "20.0.0",
+		"ts3.0": "20.0.0",
+		"ts3.1": "20.0.0",
+		"ts3.2": "20.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:25:31.000Z",
+		"created": "2017-08-24T17:18:26.931Z",
+		"20.0.0": "2017-08-24T17:18:26.931Z"
+	},
+	"_distfiles": {
+		"pretty-format-20.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pretty-format/download/@types/pretty-format-20.0.0.tgz",
+			"sha": "67bdc5c060614f93f0ee63e45a45dbcdea65c3ce",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"930-FriMEGL2e5PQVynzFfMThYrJ/78\"",
+			"fetched": 1541833487130
+		}
+	},
+	"_rev": "2-fea096e52f54e673",
+	"readme": "# Installation\r\n> `npm install --save @types/pretty-format`\r\n\r\n# Summary\r\nThis package contains type definitions for pretty-format (https://github.com/facebook/jest/tree/master/packages/pretty-format).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/pretty-format\r\n\r\nAdditional Details\r\n * Last updated: Thu, 24 Aug 2017 17:15:34 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Ika <https://github.com/ikatyang>."
+}

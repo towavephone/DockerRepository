@@ -1,0 +1,209 @@
+{
+	"name": "@types/read-pkg-up",
+	"versions": {
+		"3.0.1": {
+			"name": "@types/read-pkg-up",
+			"version": "3.0.1",
+			"description": "TypeScript definitions for read-pkg-up",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Louis Orleans",
+					"url": "https://github.com/dudeofawesome",
+					"githubUsername": "dudeofawesome"
+				},
+				{
+					"name": "Jeff Dickey",
+					"url": "https://github.com/jdxcode",
+					"githubUsername": "jdxcode"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/normalize-package-data": "*"
+			},
+			"typesPublisherContentHash": "5bf6702fdddacc322ef0e60de142d550957382663b45de97d234657aff556158",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/read-pkg-up@3.0.1",
+			"dist": {
+				"shasum": "05911057c3be1aade38bfecbb9a8554dbd0582be",
+				"size": 1851,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/read-pkg-up/download/@types/read-pkg-up-3.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/read-pkg-up-3.0.1.tgz_1516227589097_0.07888160436414182"
+			},
+			"directories": {},
+			"publish_time": 1516227589227,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1516227589227
+		},
+		"3.0.0": {
+			"name": "@types/read-pkg-up",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for read-pkg-up",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Louis Orleans",
+					"url": "https://github.com/dudeofawesome",
+					"githubUsername": "dudeofawesome"
+				},
+				{
+					"name": "Jeff Dickey",
+					"url": "https://github.com/jdxcode",
+					"githubUsername": "jdxcode"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/normalize-package-data": "*"
+			},
+			"typesPublisherContentHash": "9e3ce0cf62e7dc992c51de98b1fd6a1ab4949d8df10743771eaf36ae1243b9b1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/read-pkg-up@3.0.0",
+			"dist": {
+				"shasum": "d8ef96f335f505e1d38c2eda92f097565e7da168",
+				"size": 1840,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/read-pkg-up/download/@types/read-pkg-up-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/read-pkg-up-3.0.0.tgz_1515363556831_0.47313927253708243"
+			},
+			"directories": {},
+			"publish_time": 1515363556919,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515363556919
+		},
+		"2.0.0": {
+			"name": "@types/read-pkg-up",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for read-pkg-up",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Louis Orleans",
+					"url": "https://github.com/dudeofawesome",
+					"githubUsername": "dudeofawesome"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "67c05d491c61979a1c80db11b80c82eca678446647e41d0c4cd6c59fa44f7b97",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/read-pkg-up@2.0.0",
+			"dist": {
+				"shasum": "be036cc9915ddbeaf0e0fd17ba057723fc4531a4",
+				"size": 1716,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/read-pkg-up/download/@types/read-pkg-up-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/read-pkg-up-2.0.0.tgz_1506088594212_0.6367469753604382"
+			},
+			"directories": {},
+			"publish_time": 1506088594279,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506088594279
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.1",
+		"ts2.0": "3.0.1",
+		"ts2.1": "3.0.1",
+		"ts2.2": "3.0.1",
+		"ts2.3": "3.0.1",
+		"ts2.4": "3.0.1",
+		"ts2.5": "3.0.1",
+		"ts2.6": "3.0.1",
+		"ts2.7": "3.0.1",
+		"ts2.8": "3.0.1",
+		"ts2.9": "3.0.1",
+		"ts3.0": "3.0.1",
+		"ts3.1": "3.0.1",
+		"ts3.2": "3.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:27:31.000Z",
+		"created": "2017-09-22T13:56:34.279Z",
+		"3.0.1": "2018-01-17T22:19:49.227Z",
+		"3.0.0": "2018-01-07T22:19:16.919Z",
+		"2.0.0": "2017-09-22T13:56:34.279Z"
+	},
+	"_distfiles": {
+		"read-pkg-up-3.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/read-pkg-up/download/@types/read-pkg-up-3.0.1.tgz",
+			"sha": "05911057c3be1aade38bfecbb9a8554dbd0582be",
+			"registry": "cnpmjs"
+		},
+		"read-pkg-up-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/read-pkg-up/download/@types/read-pkg-up-3.0.0.tgz",
+			"sha": "d8ef96f335f505e1d38c2eda92f097565e7da168",
+			"registry": "cnpmjs"
+		},
+		"read-pkg-up-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/read-pkg-up/download/@types/read-pkg-up-2.0.0.tgz",
+			"sha": "be036cc9915ddbeaf0e0fd17ba057723fc4531a4",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1343-5ROWnfIs/mj1b1DbkP8ecy0Uqsc\"",
+			"fetched": 1541833487635
+		}
+	},
+	"_rev": "2-b99c39da61f05ba7",
+	"readme": "# Installation\r\n> `npm install --save @types/read-pkg-up`\r\n\r\n# Summary\r\nThis package contains type definitions for read-pkg-up (https://github.com/sindresorhus/read-pkg-up).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/read-pkg-up\r\n\r\nAdditional Details\r\n * Last updated: Wed, 17 Jan 2018 22:17:28 GMT\r\n * Dependencies: normalize-package-data\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Louis Orleans <https://github.com/dudeofawesome>, Jeff Dickey <https://github.com/jdxcode>."
+}

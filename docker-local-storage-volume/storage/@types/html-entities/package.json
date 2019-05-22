@@ -1,0 +1,605 @@
+{
+	"name": "@types/html-entities",
+	"versions": {
+		"1.2.16": {
+			"name": "@types/html-entities",
+			"version": "1.2.16",
+			"description": "TypeScript definitions for html-entities",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xavier Stouder",
+					"url": "https://github.com/xstoudi"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "473d996877861c851891576e78ba8db2bca12e892149be34a2d1c4c2e4d085b3",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/html-entities@1.2.16",
+			"dist": {
+				"shasum": "4d1fe208c4c33727ac4657e6f5d92bfe52427023",
+				"size": 1548,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.16.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/html-entities-1.2.16.tgz_1503352519606_0.5308200512081385"
+			},
+			"directories": {},
+			"publish_time": 1503352519699,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352519699
+		},
+		"1.2.15": {
+			"name": "@types/html-entities",
+			"version": "1.2.15",
+			"description": "TypeScript definitions for html-entities v1.2.0",
+			"license": "MIT",
+			"author": "Xavier Stouder <https://github.com/xstoudi/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "0385b1fa54d125e7af8dc4eb3500e530d401275a7906fda1bfba89d4388a4a2c",
+			"_id": "@types/html-entities@1.2.15",
+			"dist": {
+				"shasum": "79036bcb2bb9a696485798751d2efb0f0a92b827",
+				"size": 1073,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.15.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html-entities-1.2.15.tgz_1474306698493_0.2088624055031687"
+			},
+			"directories": {},
+			"publish_time": 1474306698739,
+			"_cnpm_publish_time": 1474306698739,
+			"_hasShrinkwrap": false
+		},
+		"1.2.14": {
+			"name": "@types/html-entities",
+			"version": "1.2.14",
+			"description": "TypeScript definitions for html-entities v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Xavier Stouder",
+				"email": "https://github.com/xstoudi/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/html-entities@1.2.14",
+			"_shasum": "c724767d4964634ea0e1968671241dcbd6962693",
+			"_from": "output\\html-entities",
+			"_resolved": "file:output\\html-entities",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c724767d4964634ea0e1968671241dcbd6962693",
+				"size": 1049,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.14.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html-entities-1.2.14.tgz_1468507923143_0.9556728561874479"
+			},
+			"directories": {},
+			"publish_time": 1468507925551,
+			"_cnpm_publish_time": 1468507925551,
+			"_hasShrinkwrap": false
+		},
+		"1.2.13-alpha": {
+			"name": "@types/html-entities",
+			"version": "1.2.13-alpha",
+			"description": "TypeScript definitions for html-entities v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Xavier Stouder",
+				"email": "https://github.com/xstoudi/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/html-entities@1.2.13-alpha",
+			"_shasum": "bdaa1aebdd72d3600a13840f8933a09dc367835b",
+			"_from": "output\\html-entities",
+			"_resolved": "file:output\\html-entities",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bdaa1aebdd72d3600a13840f8933a09dc367835b",
+				"size": 1054,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html-entities-1.2.13-alpha.tgz_1468009175974_0.039348287507891655"
+			},
+			"directories": {},
+			"publish_time": 1468009178569,
+			"_cnpm_publish_time": 1468009178569,
+			"_hasShrinkwrap": false
+		},
+		"1.2.12-alpha": {
+			"name": "@types/html-entities",
+			"version": "1.2.12-alpha",
+			"description": "TypeScript definitions for html-entities v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Xavier Stouder",
+				"email": "https://github.com/xstoudi/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/html-entities@1.2.12-alpha",
+			"_shasum": "78ae4dd86fbc045fd565418f171b80c03cb02249",
+			"_from": "output\\html-entities",
+			"_resolved": "file:output\\html-entities",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "78ae4dd86fbc045fd565418f171b80c03cb02249",
+				"size": 1054,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.12-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html-entities-1.2.12-alpha.tgz_1467592031076_0.7345029443968087"
+			},
+			"directories": {},
+			"publish_time": 1467592034587,
+			"_cnpm_publish_time": 1467592034587,
+			"_hasShrinkwrap": false
+		},
+		"1.2.11-alpha": {
+			"name": "@types/html-entities",
+			"version": "1.2.11-alpha",
+			"description": "TypeScript definitions for html-entities v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Xavier Stouder",
+				"email": "https://github.com/xstoudi/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/html-entities@1.2.11-alpha",
+			"_shasum": "69027443d408b39d2b8784c2ce7c0ec38ead3a0b",
+			"_from": "output\\html-entities",
+			"_resolved": "file:output\\html-entities",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "69027443d408b39d2b8784c2ce7c0ec38ead3a0b",
+				"size": 1054,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.11-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html-entities-1.2.11-alpha.tgz_1467426751861_0.08035417180508375"
+			},
+			"directories": {},
+			"publish_time": 1467426752510,
+			"_cnpm_publish_time": 1467426752510,
+			"_hasShrinkwrap": false
+		},
+		"1.2.10-alpha": {
+			"name": "@types/html-entities",
+			"version": "1.2.10-alpha",
+			"description": "TypeScript definitions for html-entities v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Xavier Stouder",
+				"email": "https://github.com/xstoudi/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/html-entities@1.2.10-alpha",
+			"_shasum": "734c7abc07cb72a2223a88b47eb3b02f0df456e2",
+			"_from": "output\\html-entities",
+			"_resolved": "file:output\\html-entities",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "734c7abc07cb72a2223a88b47eb3b02f0df456e2",
+				"size": 1053,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.10-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html-entities-1.2.10-alpha.tgz_1467413903353_0.5689777890220284"
+			},
+			"directories": {},
+			"publish_time": 1467413903891,
+			"_cnpm_publish_time": 1467413903891,
+			"_hasShrinkwrap": false
+		},
+		"1.2.9-alpha": {
+			"name": "@types/html-entities",
+			"version": "1.2.9-alpha",
+			"description": "TypeScript definitions for html-entities v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Xavier Stouder",
+				"email": "https://github.com/xstoudi/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/html-entities@1.2.9-alpha",
+			"_shasum": "a5f8e80e5f6a27b3cda9a3d8999109e01767f18a",
+			"_from": "output\\html-entities",
+			"_resolved": "file:output\\html-entities",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a5f8e80e5f6a27b3cda9a3d8999109e01767f18a",
+				"size": 1021,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.9-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html-entities-1.2.9-alpha.tgz_1464152717725_0.04012537538073957"
+			},
+			"directories": {},
+			"publish_time": 1464152718230,
+			"_cnpm_publish_time": 1464152718230,
+			"_hasShrinkwrap": false
+		},
+		"1.2.8-alpha": {
+			"name": "@types/html-entities",
+			"version": "1.2.8-alpha",
+			"description": "TypeScript definitions for html-entities v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Xavier Stouder",
+				"email": "https://github.com/xstoudi/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/html-entities@1.2.8-alpha",
+			"_shasum": "333bd499c054a7649f0313001c23bfe9cbce5f35",
+			"_from": "output\\html-entities",
+			"_resolved": "file:output\\html-entities",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "333bd499c054a7649f0313001c23bfe9cbce5f35",
+				"size": 1017,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.8-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html-entities-1.2.8-alpha.tgz_1463773618734_0.880110764876008"
+			},
+			"directories": {},
+			"publish_time": 1463773619167,
+			"_cnpm_publish_time": 1463773619167,
+			"_hasShrinkwrap": false
+		},
+		"1.2.3-alpha": {
+			"name": "@types/html-entities",
+			"version": "1.2.3-alpha",
+			"description": "Type definitions for html-entities v1.2.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Xavier Stouder",
+				"email": "https://github.com/xstoudi/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/html-entities@1.2.3-alpha",
+			"_shasum": "e756b3855835f455192ee3acf5a35bdc8bcf1afc",
+			"_from": "output\\html-entities",
+			"_resolved": "file:output\\html-entities",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e756b3855835f455192ee3acf5a35bdc8bcf1afc",
+				"size": 1031,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.3-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html-entities-1.2.3-alpha.tgz_1463692181420_0.03583510871976614"
+			},
+			"directories": {},
+			"publish_time": 1463692186087,
+			"_cnpm_publish_time": 1463692186087,
+			"_hasShrinkwrap": false
+		},
+		"1.2.2-alpha": {
+			"name": "@types/html-entities",
+			"version": "1.2.2-alpha",
+			"description": "Type definitions for html-entities v1.2.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Xavier Stouder",
+				"email": "https://github.com/xstoudi/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/html-entities@1.2.2-alpha",
+			"_shasum": "5274c54f70b76bb8615dc8ebb04a95ac5f7bdfff",
+			"_from": "output\\html-entities",
+			"_resolved": "file:output\\html-entities",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5274c54f70b76bb8615dc8ebb04a95ac5f7bdfff",
+				"size": 1026,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.2-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html-entities-1.2.2-alpha.tgz_1463461800773_0.7589595525059849"
+			},
+			"directories": {},
+			"publish_time": 1463461804518,
+			"_cnpm_publish_time": 1463461804518,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.16",
+		"ts2.0": "1.2.16",
+		"ts2.1": "1.2.16",
+		"ts2.2": "1.2.16",
+		"ts2.3": "1.2.16",
+		"ts2.4": "1.2.16",
+		"ts2.5": "1.2.16",
+		"ts2.6": "1.2.16",
+		"ts2.7": "1.2.16",
+		"ts2.8": "1.2.16",
+		"ts2.9": "1.2.16",
+		"ts3.0": "1.2.16",
+		"ts3.1": "1.2.16",
+		"ts3.2": "1.2.16"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:36.000Z",
+		"created": "2016-05-17T05:10:04.518Z",
+		"1.2.16": "2017-08-21T21:55:19.699Z",
+		"1.2.15": "2016-09-19T17:38:18.739Z",
+		"1.2.14": "2016-07-14T14:52:05.551Z",
+		"1.2.13-alpha": "2016-07-08T20:19:38.569Z",
+		"1.2.12-alpha": "2016-07-04T00:27:14.587Z",
+		"1.2.11-alpha": "2016-07-02T02:32:32.510Z",
+		"1.2.10-alpha": "2016-07-01T22:58:23.891Z",
+		"1.2.9-alpha": "2016-05-25T05:05:18.230Z",
+		"1.2.8-alpha": "2016-05-20T19:46:59.167Z",
+		"1.2.3-alpha": "2016-05-19T21:09:46.087Z",
+		"1.2.2-alpha": "2016-05-17T05:10:04.518Z"
+	},
+	"_distfiles": {
+		"html-entities-1.2.16.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.16.tgz",
+			"sha": "4d1fe208c4c33727ac4657e6f5d92bfe52427023",
+			"registry": "cnpmjs"
+		},
+		"html-entities-1.2.15.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.15.tgz",
+			"sha": "79036bcb2bb9a696485798751d2efb0f0a92b827",
+			"registry": "cnpmjs"
+		},
+		"html-entities-1.2.14.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.14.tgz",
+			"sha": "c724767d4964634ea0e1968671241dcbd6962693",
+			"registry": "cnpmjs"
+		},
+		"html-entities-1.2.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.13-alpha.tgz",
+			"sha": "bdaa1aebdd72d3600a13840f8933a09dc367835b",
+			"registry": "cnpmjs"
+		},
+		"html-entities-1.2.12-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.12-alpha.tgz",
+			"sha": "78ae4dd86fbc045fd565418f171b80c03cb02249",
+			"registry": "cnpmjs"
+		},
+		"html-entities-1.2.11-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.11-alpha.tgz",
+			"sha": "69027443d408b39d2b8784c2ce7c0ec38ead3a0b",
+			"registry": "cnpmjs"
+		},
+		"html-entities-1.2.10-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.10-alpha.tgz",
+			"sha": "734c7abc07cb72a2223a88b47eb3b02f0df456e2",
+			"registry": "cnpmjs"
+		},
+		"html-entities-1.2.9-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.9-alpha.tgz",
+			"sha": "a5f8e80e5f6a27b3cda9a3d8999109e01767f18a",
+			"registry": "cnpmjs"
+		},
+		"html-entities-1.2.8-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.8-alpha.tgz",
+			"sha": "333bd499c054a7649f0313001c23bfe9cbce5f35",
+			"registry": "cnpmjs"
+		},
+		"html-entities-1.2.3-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.3-alpha.tgz",
+			"sha": "e756b3855835f455192ee3acf5a35bdc8bcf1afc",
+			"registry": "cnpmjs"
+		},
+		"html-entities-1.2.2-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html-entities/download/@types/html-entities-1.2.2-alpha.tgz",
+			"sha": "5274c54f70b76bb8615dc8ebb04a95ac5f7bdfff",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"37a6-CgXbXN/jU5u6Py1/PWUnkK3vca8\"",
+			"fetched": 1541833456306
+		}
+	},
+	"_rev": "2-f39a48317480aefb",
+	"readme": "# Installation\r\n> `npm install --save @types/html-entities`\r\n\r\n# Summary\r\nThis package contains type definitions for html-entities (https://www.npmjs.com/package/html-entities).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/html-entities\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 21:55:03 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Xavier Stouder <https://github.com/xstoudi>."
+}

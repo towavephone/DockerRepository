@@ -1,0 +1,966 @@
+{
+	"name": "@types/http-errors",
+	"versions": {
+		"1.6.1": {
+			"name": "@types/http-errors",
+			"version": "1.6.1",
+			"description": "TypeScript definitions for http-errors",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "722274c0bfcd49e50993dbe2085bb78bf13d615a3dd3187cd99075c67fea439c",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/http-errors@1.6.1",
+			"dist": {
+				"shasum": "367744a6c04b833383f497f647cc3690b0cd4055",
+				"size": 2272,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/http-errors-1.6.1.tgz_1504216337728_0.0392232951708138"
+			},
+			"directories": {},
+			"publish_time": 1504216337884,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504216337884
+		},
+		"1.6.0": {
+			"name": "@types/http-errors",
+			"version": "1.6.0",
+			"description": "TypeScript definitions for http-errors",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "512e071ba3faa2c95cae65b2f9766a821489ab8810dc2cfcc51f2953a22e6743",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/http-errors@1.6.0",
+			"dist": {
+				"shasum": "91fb247acbde11632a5a532b2713b4dea03ccfdd",
+				"size": 2261,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/http-errors-1.6.0.tgz_1502921242464_0.6647931605111808"
+			},
+			"directories": {},
+			"publish_time": 1502921242533,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502921242533
+		},
+		"1.5.34": {
+			"name": "@types/http-errors",
+			"version": "1.5.34",
+			"description": "TypeScript definitions for http-errors",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c1d1ed1b04f07a92373d156a59dc34609fc849c23d22ff68433a44c7a950f0e8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-errors@1.5.34",
+			"dist": {
+				"shasum": "d6a56f25d7b95dd07047680bf825632e29796815",
+				"size": 1668,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.5.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.5.34.tgz_1489551080965_0.24180646310560405"
+			},
+			"directories": {},
+			"publish_time": 1489551081222,
+			"_cnpm_publish_time": 1489551081222,
+			"_hasShrinkwrap": false
+		},
+		"1.5.33": {
+			"name": "@types/http-errors",
+			"version": "1.5.33",
+			"description": "TypeScript definitions for http-errors",
+			"license": "MIT",
+			"author": "Tanguy Krotoff <https://github.com/tkrotoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "73b449a7b1bb3393d4f609a8c9af62968ea73ca0d13f188b0b33c58a44779193",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-errors@1.5.33",
+			"dist": {
+				"shasum": "ae2d1dfc33745ea548f1ae06fc338cdf66406770",
+				"size": 1835,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.5.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.5.33.tgz_1485375398233_0.4786070603877306"
+			},
+			"directories": {},
+			"publish_time": 1485375400078,
+			"_cnpm_publish_time": 1485375400078,
+			"_hasShrinkwrap": false
+		},
+		"1.5.32": {
+			"name": "@types/http-errors",
+			"version": "1.5.32",
+			"description": "TypeScript definitions for http-errors",
+			"license": "MIT",
+			"author": "Tanguy Krotoff <https://github.com/tkrotoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fc691eb0d330476ded52b520d4f0cb7133de7e429e4edb5b0238ac40c888e180",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/http-errors@1.5.32",
+			"dist": {
+				"shasum": "b7a2a5a7e31e2b822517b56e32b1c6c1a5d787b4",
+				"size": 1797,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.5.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.5.32.tgz_1482884335058_0.4293472319841385"
+			},
+			"directories": {},
+			"publish_time": 1482884337030,
+			"_cnpm_publish_time": 1482884337030,
+			"_hasShrinkwrap": false
+		},
+		"1.5.31": {
+			"name": "@types/http-errors",
+			"version": "1.5.31",
+			"description": "TypeScript definitions for http-errors v1.5.0",
+			"license": "MIT",
+			"author": "Tanguy Krotoff <https://github.com/tkrotoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "1e13fb6297235645a2fb2d5fab4660db60f67f20ba057fa0325eeaff41212040",
+			"_id": "@types/http-errors@1.5.31",
+			"dist": {
+				"shasum": "e319409ec35d592397030a8da7864677705a9b0a",
+				"size": 1833,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.5.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.5.31.tgz_1479848423540_0.9457758301869035"
+			},
+			"directories": {},
+			"publish_time": 1479848425514,
+			"_cnpm_publish_time": 1479848425514,
+			"_hasShrinkwrap": false
+		},
+		"1.5.30": {
+			"name": "@types/http-errors",
+			"version": "1.5.30",
+			"description": "TypeScript definitions for http-errors v1.5.0",
+			"license": "MIT",
+			"author": "Tanguy Krotoff <https://github.com/tkrotoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "3e3e3b9e4d14d4e68f989d466ce8729a6a495e39d86fa03a1b1cd267ab1969fd",
+			"_id": "@types/http-errors@1.5.30",
+			"dist": {
+				"shasum": "69067a5255bf1217eeeab715b942d1ab51e4c619",
+				"size": 1830,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.5.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.5.30.tgz_1477509975747_0.48789541237056255"
+			},
+			"directories": {},
+			"publish_time": 1477509975996,
+			"_cnpm_publish_time": 1477509975996,
+			"_hasShrinkwrap": false
+		},
+		"1.3.29": {
+			"name": "@types/http-errors",
+			"version": "1.3.29",
+			"description": "TypeScript definitions for http-errors v1.3.1",
+			"license": "MIT",
+			"author": "Tanguy Krotoff <https://github.com/tkrotoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "d31e15b3834c2af1b29fa66df2814dccb3ef67ef24f589108311063267ebdbfa",
+			"_id": "@types/http-errors@1.3.29",
+			"dist": {
+				"shasum": "1f63c18c631fb07ca185e27eb2a738051665562d",
+				"size": 1774,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.29.tgz_1474306712229_0.8794106119312346"
+			},
+			"directories": {},
+			"publish_time": 1474306715296,
+			"_cnpm_publish_time": 1474306715296,
+			"_hasShrinkwrap": false
+		},
+		"1.3.28": {
+			"name": "@types/http-errors",
+			"version": "1.3.28",
+			"description": "TypeScript definitions for http-errors v1.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/http-errors@1.3.28",
+			"_shasum": "ecc1c6d245adaddcbb0fe5c2c7a77428ac8d9be7",
+			"_from": "output\\http-errors",
+			"_resolved": "file:output\\http-errors",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ecc1c6d245adaddcbb0fe5c2c7a77428ac8d9be7",
+				"size": 1757,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.28.tgz_1468507955891_0.707784435711801"
+			},
+			"directories": {},
+			"publish_time": 1468507958180,
+			"_cnpm_publish_time": 1468507958180,
+			"_hasShrinkwrap": false
+		},
+		"1.3.27-alpha": {
+			"name": "@types/http-errors",
+			"version": "1.3.27-alpha",
+			"description": "TypeScript definitions for http-errors v1.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/http-errors@1.3.27-alpha",
+			"_shasum": "c1961790642287d6549bd0ea883b2c3b8b218b11",
+			"_from": "output\\http-errors",
+			"_resolved": "file:output\\http-errors",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c1961790642287d6549bd0ea883b2c3b8b218b11",
+				"size": 1761,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.27-alpha.tgz_1468009543120_0.43040690408088267"
+			},
+			"directories": {},
+			"publish_time": 1468009545648,
+			"_cnpm_publish_time": 1468009545648,
+			"_hasShrinkwrap": false
+		},
+		"1.3.26-alpha": {
+			"name": "@types/http-errors",
+			"version": "1.3.26-alpha",
+			"description": "TypeScript definitions for http-errors v1.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/http-errors@1.3.26-alpha",
+			"_shasum": "758c40e1656ab30fda06902530fbfe1a4450ca3f",
+			"_from": "output\\http-errors",
+			"_resolved": "file:output\\http-errors",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "758c40e1656ab30fda06902530fbfe1a4450ca3f",
+				"size": 1760,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.26-alpha.tgz_1467592026146_0.985611475771293"
+			},
+			"directories": {},
+			"publish_time": 1467592029407,
+			"_cnpm_publish_time": 1467592029407,
+			"_hasShrinkwrap": false
+		},
+		"1.3.25-alpha": {
+			"name": "@types/http-errors",
+			"version": "1.3.25-alpha",
+			"description": "TypeScript definitions for http-errors v1.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/http-errors@1.3.25-alpha",
+			"_shasum": "ae637a9cf55c7bf094a3eaeab80e956e41448383",
+			"_from": "output\\http-errors",
+			"_resolved": "file:output\\http-errors",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ae637a9cf55c7bf094a3eaeab80e956e41448383",
+				"size": 1760,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.25-alpha.tgz_1467426853622_0.581492206081748"
+			},
+			"directories": {},
+			"publish_time": 1467426854151,
+			"_cnpm_publish_time": 1467426854151,
+			"_hasShrinkwrap": false
+		},
+		"1.3.24-alpha": {
+			"name": "@types/http-errors",
+			"version": "1.3.24-alpha",
+			"description": "TypeScript definitions for http-errors v1.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/http-errors@1.3.24-alpha",
+			"_shasum": "0c451582cb4b296b9f822a0ea13eded6cedf87f8",
+			"_from": "output\\http-errors",
+			"_resolved": "file:output\\http-errors",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0c451582cb4b296b9f822a0ea13eded6cedf87f8",
+				"size": 1761,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.24-alpha.tgz_1467413924390_0.8496618415229023"
+			},
+			"directories": {},
+			"publish_time": 1467413924895,
+			"_cnpm_publish_time": 1467413924895,
+			"_hasShrinkwrap": false
+		},
+		"1.3.23-alpha": {
+			"name": "@types/http-errors",
+			"version": "1.3.23-alpha",
+			"description": "TypeScript definitions for http-errors v1.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/http-errors@1.3.23-alpha",
+			"_shasum": "b3b161c8463d785a0c53b5e09a2aa33b9cadac93",
+			"_from": "output\\http-errors",
+			"_resolved": "file:output\\http-errors",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b3b161c8463d785a0c53b5e09a2aa33b9cadac93",
+				"size": 1753,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.23-alpha.tgz_1467401545995_0.6464285291731358"
+			},
+			"directories": {},
+			"publish_time": 1467401546479,
+			"_cnpm_publish_time": 1467401546479,
+			"_hasShrinkwrap": false
+		},
+		"1.3.22-alpha": {
+			"name": "@types/http-errors",
+			"version": "1.3.22-alpha",
+			"description": "TypeScript definitions for http-errors v1.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/http-errors@1.3.22-alpha",
+			"_shasum": "5e536518a80fb064d56c4e6f3d9289c9ab92463a",
+			"_from": "output\\http-errors",
+			"_resolved": "file:output\\http-errors",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5e536518a80fb064d56c4e6f3d9289c9ab92463a",
+				"size": 1730,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.22-alpha.tgz_1464152741228_0.1186867372598499"
+			},
+			"directories": {},
+			"publish_time": 1464152741680,
+			"_cnpm_publish_time": 1464152741680,
+			"_hasShrinkwrap": false
+		},
+		"1.3.21-alpha": {
+			"name": "@types/http-errors",
+			"version": "1.3.21-alpha",
+			"description": "TypeScript definitions for http-errors v1.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/http-errors@1.3.21-alpha",
+			"_shasum": "01c9df3ce81ea6106f732a26b85700c18c2baf3c",
+			"_from": "output\\http-errors",
+			"_resolved": "file:output\\http-errors",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "01c9df3ce81ea6106f732a26b85700c18c2baf3c",
+				"size": 1728,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.21-alpha.tgz_1463773635892_0.913444145116955"
+			},
+			"directories": {},
+			"publish_time": 1463773636282,
+			"_cnpm_publish_time": 1463773636282,
+			"_hasShrinkwrap": false
+		},
+		"1.3.16-alpha": {
+			"name": "@types/http-errors",
+			"version": "1.3.16-alpha",
+			"description": "Type definitions for http-errors v1.3.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/http-errors@1.3.16-alpha",
+			"_shasum": "52a3486f68cc338455e65811709bd3c6730b652f",
+			"_from": "output\\http-errors",
+			"_resolved": "file:output\\http-errors",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "52a3486f68cc338455e65811709bd3c6730b652f",
+				"size": 1747,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.16-alpha.tgz_1463692206720_0.8896998048294336"
+			},
+			"directories": {},
+			"publish_time": 1463692207442,
+			"_cnpm_publish_time": 1463692207442,
+			"_hasShrinkwrap": false
+		},
+		"1.3.15-alpha": {
+			"name": "@types/http-errors",
+			"version": "1.3.15-alpha",
+			"description": "Type definitions for http-errors v1.3.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/http-errors@1.3.15-alpha",
+			"_shasum": "011602c6cb7b5afa99d7f8d9cb65c43c5e27dcff",
+			"_from": "output\\http-errors",
+			"_resolved": "file:output\\http-errors",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "011602c6cb7b5afa99d7f8d9cb65c43c5e27dcff",
+				"size": 1734,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/http-errors-1.3.15-alpha.tgz_1463461834416_0.10853233374655247"
+			},
+			"directories": {},
+			"publish_time": 1463461837874,
+			"_cnpm_publish_time": 1463461837874,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.6.1",
+		"ts2.0": "1.5.34",
+		"ts2.1": "1.5.34",
+		"ts2.2": "1.6.1",
+		"ts2.3": "1.6.1",
+		"ts2.4": "1.6.1",
+		"ts2.5": "1.6.1",
+		"ts2.6": "1.6.1",
+		"ts2.7": "1.6.1",
+		"ts2.8": "1.6.1",
+		"ts2.9": "1.6.1",
+		"ts3.0": "1.6.1",
+		"ts3.1": "1.6.1",
+		"ts3.2": "1.6.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:41.000Z",
+		"created": "2016-05-17T05:10:37.874Z",
+		"1.6.1": "2017-08-31T21:52:17.884Z",
+		"1.6.0": "2017-08-16T22:07:22.533Z",
+		"1.5.34": "2017-03-15T04:11:21.222Z",
+		"1.5.33": "2017-01-25T20:16:40.078Z",
+		"1.5.32": "2016-12-28T00:18:57.030Z",
+		"1.5.31": "2016-11-22T21:00:25.514Z",
+		"1.5.30": "2016-10-26T19:26:15.996Z",
+		"1.3.29": "2016-09-19T17:38:35.296Z",
+		"1.3.28": "2016-07-14T14:52:38.180Z",
+		"1.3.27-alpha": "2016-07-08T20:25:45.648Z",
+		"1.3.26-alpha": "2016-07-04T00:27:09.407Z",
+		"1.3.25-alpha": "2016-07-02T02:34:14.151Z",
+		"1.3.24-alpha": "2016-07-01T22:58:44.895Z",
+		"1.3.23-alpha": "2016-07-01T19:32:26.479Z",
+		"1.3.22-alpha": "2016-05-25T05:05:41.680Z",
+		"1.3.21-alpha": "2016-05-20T19:47:16.282Z",
+		"1.3.16-alpha": "2016-05-19T21:10:07.442Z",
+		"1.3.15-alpha": "2016-05-17T05:10:37.874Z"
+	},
+	"_distfiles": {
+		"http-errors-1.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.6.1.tgz",
+			"sha": "367744a6c04b833383f497f647cc3690b0cd4055",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.6.0.tgz",
+			"sha": "91fb247acbde11632a5a532b2713b4dea03ccfdd",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.5.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.5.34.tgz",
+			"sha": "d6a56f25d7b95dd07047680bf825632e29796815",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.5.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.5.33.tgz",
+			"sha": "ae2d1dfc33745ea548f1ae06fc338cdf66406770",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.5.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.5.32.tgz",
+			"sha": "b7a2a5a7e31e2b822517b56e32b1c6c1a5d787b4",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.5.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.5.31.tgz",
+			"sha": "e319409ec35d592397030a8da7864677705a9b0a",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.5.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.5.30.tgz",
+			"sha": "69067a5255bf1217eeeab715b942d1ab51e4c619",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.29.tgz",
+			"sha": "1f63c18c631fb07ca185e27eb2a738051665562d",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.28.tgz",
+			"sha": "ecc1c6d245adaddcbb0fe5c2c7a77428ac8d9be7",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.27-alpha.tgz",
+			"sha": "c1961790642287d6549bd0ea883b2c3b8b218b11",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.26-alpha.tgz",
+			"sha": "758c40e1656ab30fda06902530fbfe1a4450ca3f",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.25-alpha.tgz",
+			"sha": "ae637a9cf55c7bf094a3eaeab80e956e41448383",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.24-alpha.tgz",
+			"sha": "0c451582cb4b296b9f822a0ea13eded6cedf87f8",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.23-alpha.tgz",
+			"sha": "b3b161c8463d785a0c53b5e09a2aa33b9cadac93",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.22-alpha.tgz",
+			"sha": "5e536518a80fb064d56c4e6f3d9289c9ab92463a",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.21-alpha.tgz",
+			"sha": "01c9df3ce81ea6106f732a26b85700c18c2baf3c",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.16-alpha.tgz",
+			"sha": "52a3486f68cc338455e65811709bd3c6730b652f",
+			"registry": "cnpmjs"
+		},
+		"http-errors-1.3.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/http-errors/download/@types/http-errors-1.3.15-alpha.tgz",
+			"sha": "011602c6cb7b5afa99d7f8d9cb65c43c5e27dcff",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"56b4-q7Es9uGCODRA+ISuZHEoqpD83JU\"",
+			"fetched": 1541833456538
+		}
+	},
+	"_rev": "2-b532c738047bd047",
+	"readme": "# Installation\r\n> `npm install --save @types/http-errors`\r\n\r\n# Summary\r\nThis package contains type definitions for http-errors (https://github.com/jshttp/http-errors).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/http-errors\r\n\r\nAdditional Details\r\n * Last updated: Thu, 31 Aug 2017 21:47:30 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tanguy Krotoff <https://github.com/tkrotoff>, BendingBender <https://github.com/BendingBender>."
+}

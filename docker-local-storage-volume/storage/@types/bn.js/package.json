@@ -1,0 +1,271 @@
+{
+	"name": "@types/bn.js",
+	"versions": {
+		"4.11.0": {
+			"name": "@types/bn.js",
+			"version": "4.11.0",
+			"description": "TypeScript definitions for bn.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonid Logvinov",
+					"url": "https://github.com/LogvinovLeon",
+					"githubUsername": "LogvinovLeon"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "4696bee45929d8672f361a5f54815be2239a8806dcc7168f4632ce6ecde8001b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/bn.js@4.11.0",
+			"dist": {
+				"shasum": "401cb20874f0a7b8414e46308a99c449759b7de9",
+				"size": 1842,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-4.11.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bn.js_4.11.0_1527643835583_0.0020526158537497174"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527643835700,
+			"_cnpm_publish_time": 1527643835700
+		},
+		"4.11.3": {
+			"name": "@types/bn.js",
+			"version": "4.11.3",
+			"description": "TypeScript definitions for bn.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonid Logvinov",
+					"url": "https://github.com/LogvinovLeon",
+					"githubUsername": "LogvinovLeon"
+				},
+				{
+					"name": "Henry Nguyen",
+					"url": "https://github.com/HenryNguyen5",
+					"githubUsername": "HenryNguyen5"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "3a2022bc22d82059b284c14c9785fdf3ba4222f82418e7b66d4d270904cdb3b6",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/bn.js@4.11.3",
+			"dist": {
+				"shasum": "0f09e53e98659b007d7019261ddab9178135df38",
+				"size": 3430,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-4.11.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bn.js_4.11.3_1540604737896_0.3595219991769907"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1540604738035,
+			"_cnpm_publish_time": 1540604738035
+		},
+		"4.11.2": {
+			"name": "@types/bn.js",
+			"version": "4.11.2",
+			"description": "TypeScript definitions for bn.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonid Logvinov",
+					"url": "https://github.com/LogvinovLeon",
+					"githubUsername": "LogvinovLeon"
+				},
+				{
+					"name": "Henry Nguyen",
+					"url": "https://github.com/HenryNguyen5",
+					"githubUsername": "HenryNguyen5"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "67c6f49010c66e0f08d1b571afada3f4158343f363dc91716cfd6888073f5aa2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/bn.js@4.11.2",
+			"dist": {
+				"shasum": "3179b977b9d18aa81f256cae7556282ee99fd1cc",
+				"size": 3445,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-4.11.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bn.js_4.11.2_1537292711919_0.45418587171414093"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1537292712069,
+			"_cnpm_publish_time": 1537292712069
+		},
+		"4.11.1": {
+			"name": "@types/bn.js",
+			"version": "4.11.1",
+			"description": "TypeScript definitions for bn.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonid Logvinov",
+					"url": "https://github.com/LogvinovLeon",
+					"githubUsername": "LogvinovLeon"
+				},
+				{
+					"name": "Henry Nguyen",
+					"url": "https://github.com/HenryNguyen5",
+					"githubUsername": "HenryNguyen5"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "58078e96899cd0a2f3f282891443f580e991d51a5eff7b06570300d6d393c84b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/bn.js@4.11.1",
+			"dist": {
+				"shasum": "6fd07b93490ecf0f3501a31ea9cfd330885b10fa",
+				"size": 3376,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-4.11.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bn.js_4.11.1_1529975482883_0.056402560885142394"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1529975482933,
+			"_cnpm_publish_time": 1529975482933
+		}
+	},
+	"dist-tags": {
+		"latest": "4.11.3",
+		"ts2.0": "4.11.3",
+		"ts2.1": "4.11.3",
+		"ts2.2": "4.11.3",
+		"ts2.3": "4.11.3",
+		"ts2.4": "4.11.3",
+		"ts2.5": "4.11.3",
+		"ts2.6": "4.11.3",
+		"ts2.7": "4.11.3",
+		"ts2.8": "4.11.3",
+		"ts2.9": "4.11.3",
+		"ts3.0": "4.11.3",
+		"ts3.1": "4.11.3",
+		"ts3.2": "4.11.3"
+	},
+	"time": {
+		"modified": "2018-10-27T01:45:57.000Z",
+		"created": "2018-05-30T01:30:35.700Z",
+		"4.11.3": "2018-10-27T01:45:38.035Z",
+		"4.11.2": "2018-09-18T17:45:12.069Z",
+		"4.11.1": "2018-06-26T01:11:22.933Z",
+		"4.11.0": "2018-05-30T01:30:35.700Z"
+	},
+	"_distfiles": {
+		"bn.js-4.11.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-4.11.0.tgz",
+			"sha": "401cb20874f0a7b8414e46308a99c449759b7de9",
+			"registry": "cnpmjs"
+		},
+		"bn.js-4.11.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-4.11.3.tgz",
+			"sha": "0f09e53e98659b007d7019261ddab9178135df38",
+			"registry": "cnpmjs"
+		},
+		"bn.js-4.11.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-4.11.2.tgz",
+			"sha": "3179b977b9d18aa81f256cae7556282ee99fd1cc",
+			"registry": "cnpmjs"
+		},
+		"bn.js-4.11.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bn.js/download/@types/bn.js-4.11.1.tgz",
+			"sha": "6fd07b93490ecf0f3501a31ea9cfd330885b10fa",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833452640
+		}
+	},
+	"_rev": "2-f111269c2d454f9f",
+	"readme": "# Installation\r\n> `npm install --save @types/bn.js`\r\n\r\n# Summary\r\nThis package contains type definitions for bn.js (https://github.com/indutny/bn.js).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/bn.js\r\n\r\nAdditional Details\r\n * Last updated: Sat, 27 Oct 2018 01:45:33 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Leonid Logvinov <https://github.com/LogvinovLeon>, Henry Nguyen <https://github.com/HenryNguyen5>."
+}

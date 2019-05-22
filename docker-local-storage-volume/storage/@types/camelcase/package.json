@@ -1,0 +1,659 @@
+{
+	"name": "@types/camelcase",
+	"versions": {
+		"4.1.0": {
+			"name": "@types/camelcase",
+			"version": "4.1.0",
+			"description": "TypeScript definitions for camelcase",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/samverschueren"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "752e7a081f54d7f296c4b5c309e3351ff7ec8d4d20eff8c7828a56d6472d643a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/camelcase@4.1.0",
+			"dist": {
+				"shasum": "e054f7986f31658d49936261b5cd4588ef29d1ee",
+				"size": 1487,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/camelcase-4.1.0.tgz_1502490197388_0.8749337363988161"
+			},
+			"directories": {},
+			"publish_time": 1502490197503,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502490197503
+		},
+		"0.0.30": {
+			"name": "@types/camelcase",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for camelcase",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/samverschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "e3be3fe671da86f4a3ed6e88448e893946cf07a56cd20eb6067b8e304d28f167",
+			"_id": "@types/camelcase@0.0.30",
+			"dist": {
+				"shasum": "b17d7c016673bd9ebb11e1812d8732c319e5de3f",
+				"size": 1001,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.30.tgz_1474302640578_0.37871817220002413"
+			},
+			"directories": {},
+			"publish_time": 1474302642614,
+			"_cnpm_publish_time": 1474302642614,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/camelcase",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for camelcase",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/camelcase@0.0.29",
+			"_shasum": "1609658e10c96fc62c4dcdf07f56db7428dc823a",
+			"_from": "output\\camelcase",
+			"_resolved": "file:output\\camelcase",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1609658e10c96fc62c4dcdf07f56db7428dc823a",
+				"size": 970,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.29.tgz_1468505633478_0.1993162443395704"
+			},
+			"directories": {},
+			"publish_time": 1468505635563,
+			"_cnpm_publish_time": 1468505635563,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28-alpha": {
+			"name": "@types/camelcase",
+			"version": "0.0.28-alpha",
+			"description": "TypeScript definitions for camelcase",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/camelcase@0.0.28-alpha",
+			"_shasum": "95a6fc3fb2b2fab8928255e014f91b04c238d900",
+			"_from": "output\\camelcase",
+			"_resolved": "file:output\\camelcase",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "95a6fc3fb2b2fab8928255e014f91b04c238d900",
+				"size": 979,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.28-alpha.tgz_1468007051538_0.11120037897489965"
+			},
+			"directories": {},
+			"publish_time": 1468007054176,
+			"_cnpm_publish_time": 1468007054176,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/camelcase",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for camelcase",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/camelcase@0.0.27-alpha",
+			"_shasum": "bc4383db43c5be03a9f92ab10175dfe921b43bbd",
+			"_from": "output\\camelcase",
+			"_resolved": "file:output\\camelcase",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bc4383db43c5be03a9f92ab10175dfe921b43bbd",
+				"size": 981,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.27-alpha.tgz_1467590244228_0.7141823510173708"
+			},
+			"directories": {},
+			"publish_time": 1467590247739,
+			"_cnpm_publish_time": 1467590247739,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/camelcase",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for camelcase",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/camelcase@0.0.26-alpha",
+			"_shasum": "c7bde48e84d177f805d9f0239c3cf949611b83a4",
+			"_from": "output\\camelcase",
+			"_resolved": "file:output\\camelcase",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c7bde48e84d177f805d9f0239c3cf949611b83a4",
+				"size": 979,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.26-alpha.tgz_1467425302873_0.2740935462061316"
+			},
+			"directories": {},
+			"publish_time": 1467425306443,
+			"_cnpm_publish_time": 1467425306443,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/camelcase",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for camelcase",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/camelcase@0.0.25-alpha",
+			"_shasum": "ed61680f078b7e875d1e576720e2e69855336a53",
+			"_from": "output\\camelcase",
+			"_resolved": "file:output\\camelcase",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ed61680f078b7e875d1e576720e2e69855336a53",
+				"size": 978,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.25-alpha.tgz_1467411888847_0.8506795193534344"
+			},
+			"directories": {},
+			"publish_time": 1467411890893,
+			"_cnpm_publish_time": 1467411890893,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/camelcase",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for camelcase",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/camelcase@0.0.24-alpha",
+			"_shasum": "5af1795578f5e7bd4f9ba175d8b219fbe208cd3c",
+			"_from": "output\\camelcase",
+			"_resolved": "file:output\\camelcase",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5af1795578f5e7bd4f9ba175d8b219fbe208cd3c",
+				"size": 974,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.24-alpha.tgz_1467399992756_0.8025915292091668"
+			},
+			"directories": {},
+			"publish_time": 1467399995050,
+			"_cnpm_publish_time": 1467399995050,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/camelcase",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for camelcase",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/camelcase@0.0.23-alpha",
+			"_shasum": "e6ef84254d8b2fe4ce03d65f2b91831b6c9c727c",
+			"_from": "output\\camelcase",
+			"_resolved": "file:output\\camelcase",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e6ef84254d8b2fe4ce03d65f2b91831b6c9c727c",
+				"size": 950,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.23-alpha.tgz_1464150972156_0.26867979555390775"
+			},
+			"directories": {},
+			"publish_time": 1464150974631,
+			"_cnpm_publish_time": 1464150974631,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/camelcase",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for camelcase",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/camelcase@0.0.22-alpha",
+			"_shasum": "4fa835854147d42457126dc47b258a315759f72e",
+			"_from": "output\\camelcase",
+			"_resolved": "file:output\\camelcase",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4fa835854147d42457126dc47b258a315759f72e",
+				"size": 948,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.22-alpha.tgz_1463771878080_0.16668065451085567"
+			},
+			"directories": {},
+			"publish_time": 1463771878510,
+			"_cnpm_publish_time": 1463771878510,
+			"_hasShrinkwrap": false
+		},
+		"0.0.17-alpha": {
+			"name": "@types/camelcase",
+			"version": "0.0.17-alpha",
+			"description": "Type definitions for camelcase from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/camelcase@0.0.17-alpha",
+			"_shasum": "97709138b88a11e32f04a2eda49297f1d0aaab4c",
+			"_from": "output\\camelcase",
+			"_resolved": "file:output\\camelcase",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "97709138b88a11e32f04a2eda49297f1d0aaab4c",
+				"size": 959,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.17-alpha.tgz_1463689629096_0.4494118597358465"
+			},
+			"directories": {},
+			"publish_time": 1463689629810,
+			"_cnpm_publish_time": 1463689629810,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/camelcase",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for camelcase from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/camelcase@0.0.16-alpha",
+			"_shasum": "00059677717dbb0d8c65a25f5f472e9f9877516a",
+			"_from": "output\\camelcase",
+			"_resolved": "file:output\\camelcase",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "00059677717dbb0d8c65a25f5f472e9f9877516a",
+				"size": 954,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/camelcase-0.0.16-alpha.tgz_1463459761091_0.3516841824166477"
+			},
+			"directories": {},
+			"publish_time": 1463459761711,
+			"_cnpm_publish_time": 1463459761711,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "4.1.0",
+		"ts2.0": "4.1.0",
+		"ts2.1": "4.1.0",
+		"ts2.2": "4.1.0",
+		"ts2.3": "4.1.0",
+		"ts2.4": "4.1.0",
+		"ts2.5": "4.1.0",
+		"ts2.6": "4.1.0",
+		"ts2.7": "4.1.0",
+		"ts2.8": "4.1.0",
+		"ts2.9": "4.1.0",
+		"ts3.0": "4.1.0",
+		"ts3.1": "4.1.0",
+		"ts3.2": "4.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:21.000Z",
+		"created": "2016-05-17T04:36:01.711Z",
+		"4.1.0": "2017-08-11T22:23:17.503Z",
+		"0.0.30": "2016-09-19T16:30:42.614Z",
+		"0.0.29": "2016-07-14T14:13:55.563Z",
+		"0.0.28-alpha": "2016-07-08T19:44:14.176Z",
+		"0.0.27-alpha": "2016-07-03T23:57:27.739Z",
+		"0.0.26-alpha": "2016-07-02T02:08:26.443Z",
+		"0.0.25-alpha": "2016-07-01T22:24:50.893Z",
+		"0.0.24-alpha": "2016-07-01T19:06:35.050Z",
+		"0.0.23-alpha": "2016-05-25T04:36:14.631Z",
+		"0.0.22-alpha": "2016-05-20T19:17:58.510Z",
+		"0.0.17-alpha": "2016-05-19T20:27:09.810Z",
+		"0.0.16-alpha": "2016-05-17T04:36:01.711Z"
+	},
+	"_distfiles": {
+		"camelcase-4.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-4.1.0.tgz",
+			"sha": "e054f7986f31658d49936261b5cd4588ef29d1ee",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.30.tgz",
+			"sha": "b17d7c016673bd9ebb11e1812d8732c319e5de3f",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.29.tgz",
+			"sha": "1609658e10c96fc62c4dcdf07f56db7428dc823a",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.28-alpha.tgz",
+			"sha": "95a6fc3fb2b2fab8928255e014f91b04c238d900",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.27-alpha.tgz",
+			"sha": "bc4383db43c5be03a9f92ab10175dfe921b43bbd",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.26-alpha.tgz",
+			"sha": "c7bde48e84d177f805d9f0239c3cf949611b83a4",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.25-alpha.tgz",
+			"sha": "ed61680f078b7e875d1e576720e2e69855336a53",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.24-alpha.tgz",
+			"sha": "5af1795578f5e7bd4f9ba175d8b219fbe208cd3c",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.23-alpha.tgz",
+			"sha": "e6ef84254d8b2fe4ce03d65f2b91831b6c9c727c",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.22-alpha.tgz",
+			"sha": "4fa835854147d42457126dc47b258a315759f72e",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.17-alpha.tgz",
+			"sha": "97709138b88a11e32f04a2eda49297f1d0aaab4c",
+			"registry": "cnpmjs"
+		},
+		"camelcase-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/camelcase/download/@types/camelcase-0.0.16-alpha.tgz",
+			"sha": "00059677717dbb0d8c65a25f5f472e9f9877516a",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833452968
+		}
+	},
+	"_rev": "2-8eb409c118d23f93",
+	"readme": "# Installation\r\n> `npm install --save @types/camelcase`\r\n\r\n# Summary\r\nThis package contains type definitions for camelcase (https://github.com/sindresorhus/camelcase).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/camelcase\r\n\r\nAdditional Details\r\n * Last updated: Fri, 11 Aug 2017 22:23:07 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Sam Verschueren <https://github.com/samverschueren>."
+}

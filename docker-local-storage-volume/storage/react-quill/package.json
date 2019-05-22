@@ -1,0 +1,3437 @@
+{
+	"name": "react-quill",
+	"versions": {
+		"1.2.7": {
+			"name": "react-quill",
+			"version": "1.2.7",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"types": "types.d.ts",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepack": "make build",
+				"postpack": "make clean",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"types.d.ts",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"@types/quill": "*",
+				"@types/react": "*",
+				"create-react-class": "^15.6.0",
+				"lodash": "^4.17.4",
+				"prop-types": "^15.5.10",
+				"quill": "^1.2.6",
+				"react-dom-factories": "^1.0.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.1.0",
+				"chai-enzyme": "^0.8.0",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.9.1",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^15.6.1",
+				"react-addons-test-utils": "^15.6.0",
+				"react-dom": "^15.6.1",
+				"react-test-renderer": "^15.6.1",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"licenseText": "The MIT License (MIT)\n\nCopyright (c) 2016, zenoamaro <zenoamaro@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+			"_id": "react-quill@1.2.7",
+			"dist": {
+				"shasum": "3e74fadbb30dce915733ad230f92415894437c16",
+				"size": 663116,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.2.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill_1.2.7_1522774176825_0.6720354927559993"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522774177005,
+			"_cnpm_publish_time": 1522774177005
+		},
+		"1.2.6": {
+			"name": "react-quill",
+			"version": "1.2.6",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"types": "types.d.ts",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepack": "make build",
+				"postpack": "make clean",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"types.d.ts",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"@types/quill": "*",
+				"@types/react": "*",
+				"create-react-class": "^15.6.0",
+				"lodash": "^4.17.4",
+				"prop-types": "^15.5.10",
+				"quill": "^1.2.6",
+				"react-dom-factories": "^1.0.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.1.0",
+				"chai-enzyme": "^0.8.0",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.9.1",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^15.6.1",
+				"react-addons-test-utils": "^15.6.0",
+				"react-dom": "^15.6.1",
+				"react-test-renderer": "^15.6.1",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"licenseText": "The MIT License (MIT)\n\nCopyright (c) 2016, zenoamaro <zenoamaro@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+			"_id": "react-quill@1.2.6",
+			"dist": {
+				"shasum": "4192b3fc8a446363605d2c48f7fb6a1d32a00eb4",
+				"size": 664122,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.2.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill_1.2.6_1519620445069_0.47027235706155146"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1519620445137,
+			"_cnpm_publish_time": 1519620445137
+		},
+		"1.2.5": {
+			"name": "react-quill",
+			"version": "1.2.5",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"types": "types.d.ts",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepack": "make build",
+				"postpack": "make clean",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"types.d.ts",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"@types/quill": "*",
+				"@types/react": "*",
+				"create-react-class": "^15.6.0",
+				"lodash": "^4.17.4",
+				"prop-types": "^15.5.10",
+				"quill": "^1.2.6",
+				"react-dom-factories": "^1.0.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.1.0",
+				"chai-enzyme": "^0.8.0",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.9.1",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^15.6.1",
+				"react-addons-test-utils": "^15.6.0",
+				"react-dom": "^15.6.1",
+				"react-test-renderer": "^15.6.1",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"licenseText": "The MIT License (MIT)\n\nCopyright (c) 2016, zenoamaro <zenoamaro@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+			"_id": "react-quill@1.2.5",
+			"dist": {
+				"shasum": "8e509ba7291b2c38139ab9240998c44fded44aef",
+				"size": 664131,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.2.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill_1.2.5_1519620295693_0.276746204723858"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1519620295802,
+			"_cnpm_publish_time": 1519620295802
+		},
+		"1.2.4": {
+			"name": "react-quill",
+			"version": "1.2.4",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"types": "types.d.ts",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepack": "make build",
+				"postpack": "make clean",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"types.d.ts",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"@types/quill": "*",
+				"@types/react": "*",
+				"create-react-class": "^15.6.0",
+				"lodash": "^4.17.4",
+				"prop-types": "^15.5.10",
+				"quill": "^1.2.6",
+				"react-dom-factories": "^1.0.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.1.0",
+				"chai-enzyme": "^0.8.0",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.9.1",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^15.6.1",
+				"react-addons-test-utils": "^15.6.0",
+				"react-dom": "^15.6.1",
+				"react-test-renderer": "^15.6.1",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"licenseText": "The MIT License (MIT)\n\nCopyright (c) 2016, zenoamaro <zenoamaro@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+			"_id": "react-quill@1.2.4",
+			"dist": {
+				"shasum": "acce3bff6b46c4de34e23e53c90f68f9a1e1c87e",
+				"size": 664092,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill_1.2.4_1518732025047_0.343854969509662"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518732025216,
+			"_cnpm_publish_time": 1518732025216
+		},
+		"1.2.3": {
+			"name": "react-quill",
+			"version": "1.2.3",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"types": "types.d.ts",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepack": "make build",
+				"postpack": "make clean",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"types.d.ts",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"@types/quill": "*",
+				"@types/react": "*",
+				"create-react-class": "^15.6.0",
+				"lodash": "^4.17.4",
+				"prop-types": "^15.5.10",
+				"quill": "^1.2.6",
+				"react-dom-factories": "^1.0.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.1.0",
+				"chai-enzyme": "^0.8.0",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.9.1",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^15.6.1",
+				"react-addons-test-utils": "^15.6.0",
+				"react-dom": "^15.6.1",
+				"react-test-renderer": "^15.6.1",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"licenseText": "The MIT License (MIT)\n\nCopyright (c) 2016, zenoamaro <zenoamaro@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+			"_id": "react-quill@1.2.3",
+			"dist": {
+				"shasum": "d5e7c5f6d3b25916485538ea80d9b5f2262d3823",
+				"size": 664040,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill-1.2.3.tgz_1512429822599_0.8835841848049313"
+			},
+			"directories": {},
+			"publish_time": 1512429822774,
+			"_cnpm_publish_time": 1512429822774,
+			"_hasShrinkwrap": false
+		},
+		"1.2.2": {
+			"name": "react-quill",
+			"version": "1.2.2",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"types": "types.d.ts",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepack": "make build",
+				"postpack": "make clean",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"types.d.ts",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"@types/quill": "*",
+				"@types/react": "*",
+				"create-react-class": "^15.6.0",
+				"lodash": "^4.17.4",
+				"prop-types": "^15.5.10",
+				"quill": "^1.2.6",
+				"react-dom-factories": "^1.0.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.1.0",
+				"chai-enzyme": "^0.8.0",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.9.1",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^15.6.1",
+				"react-addons-test-utils": "^15.6.0",
+				"react-dom": "^15.6.1",
+				"react-test-renderer": "^15.6.1",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"licenseText": "The MIT License (MIT)\n\nCopyright (c) 2016, zenoamaro <zenoamaro@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+			"_id": "react-quill@1.2.2",
+			"dist": {
+				"shasum": "501265373bd03f115bd5940fef388d737f7eeeda",
+				"size": 664189,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill-1.2.2.tgz_1511919083675_0.13343633874319494"
+			},
+			"directories": {},
+			"publish_time": 1511919084008,
+			"_cnpm_publish_time": 1511919084008,
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "react-quill",
+			"version": "1.2.1",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"types": "types.d.ts",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepack": "make build",
+				"postpack": "make clean",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"types.d.ts",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"@types/quill": "*",
+				"@types/react": "*",
+				"create-react-class": "^15.6.0",
+				"lodash": "^4.17.4",
+				"prop-types": "^15.5.10",
+				"quill": "^1.2.6",
+				"react-dom-factories": "^1.0.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.1.0",
+				"chai-enzyme": "^0.8.0",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.9.1",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^15.6.1",
+				"react-addons-test-utils": "^15.6.0",
+				"react-dom": "^15.6.1",
+				"react-test-renderer": "^15.6.1",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"licenseText": "The MIT License (MIT)\n\nCopyright (c) 2016, zenoamaro <zenoamaro@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+			"_id": "react-quill@1.2.1",
+			"dist": {
+				"shasum": "2088697d692ecf2dbcd38947dbbc45baa1a00055",
+				"size": 664186,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill-1.2.1.tgz_1511911845864_0.12556339870207012"
+			},
+			"directories": {},
+			"publish_time": 1511911846035,
+			"_cnpm_publish_time": 1511911846035,
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "react-quill",
+			"version": "1.2.0",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"types": "types.d.ts",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepack": "make build",
+				"postpack": "make clean",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"@types/quill": "*",
+				"@types/react": "*",
+				"create-react-class": "^15.6.0",
+				"lodash": "^4.17.4",
+				"prop-types": "^15.5.10",
+				"quill": "^1.2.6",
+				"react-dom-factories": "^1.0.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.1.0",
+				"chai-enzyme": "^0.8.0",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.9.1",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^15.6.1",
+				"react-addons-test-utils": "^15.6.0",
+				"react-dom": "^15.6.1",
+				"react-test-renderer": "^15.6.1",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"licenseText": "The MIT License (MIT)\n\nCopyright (c) 2016, zenoamaro <zenoamaro@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+			"_id": "react-quill@1.2.0",
+			"dist": {
+				"shasum": "16b2d296429ef22a755f53dc9c6a9f5aa33f2562",
+				"size": 654183,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill-1.2.0.tgz_1510904056068_0.6187148783355951"
+			},
+			"directories": {},
+			"publish_time": 1510904056161,
+			"_cnpm_publish_time": 1510904056161,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "react-quill",
+			"version": "1.1.0",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepack": "make build",
+				"postpack": "make clean",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"create-react-class": "^15.6.0",
+				"lodash": "^4.17.4",
+				"prop-types": "^15.5.10",
+				"quill": "^1.2.6",
+				"react-dom-factories": "^1.0.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.1.0",
+				"chai-enzyme": "^0.8.0",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.9.1",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^15.6.1",
+				"react-addons-test-utils": "^15.6.0",
+				"react-dom": "^15.6.1",
+				"react-test-renderer": "^15.6.1",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "bbcbcac0774a8d198822cdd81a673d04de4baa9a",
+			"_id": "react-quill@1.1.0",
+			"_shasum": "348dbd36252607fd31cad140f1c95e969da18d53",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.10.1",
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"dist": {
+				"shasum": "348dbd36252607fd31cad140f1c95e969da18d53",
+				"size": 656351,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill-1.1.0.tgz_1501866641131_0.4581747504416853"
+			},
+			"directories": {},
+			"publish_time": 1501866641334,
+			"_cnpm_publish_time": 1501866641334,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "react-quill",
+			"version": "1.0.0",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepack": "make build",
+				"postpack": "make clean",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"lodash": "^4.17.4",
+				"quill": "^1.2.6"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.0.2",
+				"chai-enzyme": "^0.7.1",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.8.2",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "0fa1176dece80956526c0cfb66f0c2a8bbf70394",
+			"_id": "react-quill@1.0.0",
+			"_shasum": "26c41746a0deb298a7549362cfa69c87db4d9399",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.10.0",
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"dist": {
+				"shasum": "26c41746a0deb298a7549362cfa69c87db4d9399",
+				"size": 577633,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill-1.0.0.tgz_1498713498490_0.591873616212979"
+			},
+			"directories": {},
+			"publish_time": 1498713499140,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498713499140
+		},
+		"1.0.0-rc.3": {
+			"name": "react-quill",
+			"version": "1.0.0-rc.3",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"lodash": "^4.17.4",
+				"quill": "^1.2.6"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0"
+			},
+			"devDependencies": {
+				"blanket": "^1.2.3",
+				"chai": "^4.0.2",
+				"chai-enzyme": "^0.7.1",
+				"cheerio": "^1.0.0-rc.1",
+				"enzyme": "^2.8.2",
+				"jsdom": "^11.0.0",
+				"jsdom-global": "^3.0.2",
+				"jshint": "^2.9.4",
+				"mocha": "^3.4.2",
+				"mocha-text-cov": "^0.1.1",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"should": "^4.3.0",
+				"sinon": "^2.3.5",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^3.0.18",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "02e09b3809986ca638260c104a61d91457217ef1",
+			"_id": "react-quill@1.0.0-rc.3",
+			"_npmVersion": "5.0.3",
+			"_nodeVersion": "8.1.2",
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"dist": {
+				"shasum": "5cd6682dca11f6a31fc8e4457d1bfb93e42c10f2",
+				"size": 576922,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-rc.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-quill-1.0.0-rc.3.tgz_1498072938620_0.3268403918482363"
+			},
+			"directories": {},
+			"publish_time": 1498072939245,
+			"_cnpm_publish_time": 1498072939245,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-rc.2": {
+			"name": "react-quill",
+			"version": "1.0.0-rc.2",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"lodash": "^4.17.4",
+				"quill": "^1.2.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"chai": "^3.5.0",
+				"chai-enzyme": "^0.6.1",
+				"cheerio": "^0.22.0",
+				"enzyme": "^2.7.1",
+				"jsdom": "^9.11.0",
+				"jsdom-global": "^2.1.1",
+				"jshint": "^2.5.10",
+				"mocha": "^3.2.0",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"should": "^4.3.0",
+				"sinon": "^1.17.7",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "077376795f744f22eb3e8261dea5a9db0dbc022b",
+			"_id": "react-quill@1.0.0-rc.2",
+			"_shasum": "86b5dd8a17a43066130f2fcac1a91d624e6668c9",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.8.0",
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"dist": {
+				"shasum": "86b5dd8a17a43066130f2fcac1a91d624e6668c9",
+				"size": 553539,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-rc.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-quill-1.0.0-rc.2.tgz_1492107560746_0.0014313641004264355"
+			},
+			"directories": {},
+			"publish_time": 1492107563037,
+			"_cnpm_publish_time": 1492107563037,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-rc-1": {
+			"name": "react-quill",
+			"version": "1.0.0-rc-1",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "lib/index.js",
+			"browser": "lib/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build",
+				"prepublish": "make build",
+				"postpublish": "make clean"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"lib/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"lodash": "^4.17.4",
+				"quill": "^1.2.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"chai": "^3.5.0",
+				"chai-enzyme": "^0.6.1",
+				"cheerio": "^0.22.0",
+				"enzyme": "^2.7.1",
+				"jsdom": "^9.11.0",
+				"jsdom-global": "^2.1.1",
+				"jshint": "^2.5.10",
+				"mocha": "^3.2.0",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"should": "^4.3.0",
+				"sinon": "^1.17.7",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "79a4ba7e5a0ee523d9c4ab5cdfca4fa15641d4ff",
+			"_id": "react-quill@1.0.0-rc-1",
+			"_shasum": "476a3fda6d104efbf18b3e6c2ef2b57b0913b7ab",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.8.0",
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"dist": {
+				"shasum": "476a3fda6d104efbf18b3e6c2ef2b57b0913b7ab",
+				"size": 553531,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-rc-1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-quill-1.0.0-rc-1.tgz_1491965616519_0.34561710385605693"
+			},
+			"directories": {},
+			"publish_time": 1491965618894,
+			"_cnpm_publish_time": 1491965618894,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-beta-5": {
+			"name": "react-quill",
+			"version": "1.0.0-beta-5",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "dist/react-quill.min.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"lodash": "^4.17.4",
+				"quill": "^1.2.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"chai": "^3.5.0",
+				"chai-enzyme": "^0.6.1",
+				"cheerio": "^0.22.0",
+				"enzyme": "^2.7.1",
+				"jsdom": "^9.11.0",
+				"jsdom-global": "^2.1.1",
+				"jshint": "^2.5.10",
+				"mocha": "^3.2.0",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"should": "^4.3.0",
+				"sinon": "^1.17.7",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "a01ccb4b03028db76fd435d21863bb2e628e3652",
+			"_id": "react-quill@1.0.0-beta-5",
+			"_shasum": "3aaa2530e2a3f94b813fc9f2e67afa77683d867a",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.7.4",
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"dist": {
+				"shasum": "3aaa2530e2a3f94b813fc9f2e67afa77683d867a",
+				"size": 549326,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-beta-5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-quill-1.0.0-beta-5.tgz_1491783269036_0.9543445468880236"
+			},
+			"directories": {},
+			"publish_time": 1491783269280,
+			"_cnpm_publish_time": 1491783269280,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-beta-4": {
+			"name": "react-quill",
+			"version": "1.0.0-beta-4",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "dist/react-quill.min.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"lodash": "^4.17.4",
+				"quill": "^1.2.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"chai": "^3.5.0",
+				"chai-enzyme": "^0.6.1",
+				"cheerio": "^0.22.0",
+				"enzyme": "^2.7.1",
+				"jsdom": "^9.11.0",
+				"jsdom-global": "^2.1.1",
+				"jshint": "^2.5.10",
+				"mocha": "^3.2.0",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"should": "^4.3.0",
+				"sinon": "^1.17.7",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "5fdb6bf9d6e8af8e2f9cb5191c9df18b51ba49c5",
+			"_id": "react-quill@1.0.0-beta-4",
+			"_shasum": "3880e37a7dcfe8b93f04805d97d9c4e7e92b4a61",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.7.4",
+			"_npmUser": {
+				"name": "alexkrolick",
+				"email": "alexander.krolick+npm@gmail.com"
+			},
+			"dist": {
+				"shasum": "3880e37a7dcfe8b93f04805d97d9c4e7e92b4a61",
+				"size": 649942,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-beta-4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-quill-1.0.0-beta-4.tgz_1490573481359_0.372179226949811"
+			},
+			"directories": {},
+			"publish_time": 1490573484100,
+			"_cnpm_publish_time": 1490573484100,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-beta-3": {
+			"name": "react-quill",
+			"version": "1.0.0-beta-3",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "dist/react-quill.min.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"lodash": "^4.17.4",
+				"quill": "^1.2.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"chai": "^3.5.0",
+				"chai-enzyme": "^0.6.1",
+				"cheerio": "^0.22.0",
+				"enzyme": "^2.7.1",
+				"jsdom": "^9.11.0",
+				"jsdom-global": "^2.1.1",
+				"jshint": "^2.5.10",
+				"mocha": "^3.2.0",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"should": "^4.3.0",
+				"sinon": "^1.17.7",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "1d54a22248b2c9ddedf588ed9c2a3aa197a7526d",
+			"_id": "react-quill@1.0.0-beta-3",
+			"_shasum": "fc759c0352a353e19a855bdec7167559d2edd3ab",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.7.0",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"dist": {
+				"shasum": "fc759c0352a353e19a855bdec7167559d2edd3ab",
+				"size": 546113,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-beta-3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-quill-1.0.0-beta-3.tgz_1488930202761_0.34761113999411464"
+			},
+			"directories": {},
+			"publish_time": 1488930203626,
+			"_cnpm_publish_time": 1488930203626,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-beta-2": {
+			"name": "react-quill",
+			"version": "1.0.0-beta-2",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea",
+				"quill"
+			],
+			"files": [
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"lodash": "^4.17.4",
+				"quill": "^1.2.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"chai": "^3.5.0",
+				"chai-enzyme": "^0.6.1",
+				"cheerio": "^0.22.0",
+				"enzyme": "^2.7.1",
+				"jsdom": "^9.11.0",
+				"jsdom-global": "^2.1.1",
+				"jshint": "^2.5.10",
+				"mocha": "^3.2.0",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"should": "^4.3.0",
+				"sinon": "^1.17.7",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "02e9da4e7d5d378f06f30a249275fa42b4cab007",
+			"_id": "react-quill@1.0.0-beta-2",
+			"_shasum": "9b9834693e58958425c9c1afef3e694f164cda48",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.7.0",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"dist": {
+				"shasum": "9b9834693e58958425c9c1afef3e694f164cda48",
+				"size": 544739,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-beta-2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-quill-1.0.0-beta-2.tgz_1488929849269_0.3690410857088864"
+			},
+			"directories": {},
+			"publish_time": 1488929851939,
+			"_cnpm_publish_time": 1488929851939,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-beta-1": {
+			"name": "react-quill",
+			"version": "1.0.0-beta-1",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"lodash": "^4.17.4",
+				"quill": "^1.2.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^7.0.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.14.7",
+				"react-dom": "^0.14.7",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "610dea47a9ee52628fbb496eb2160c44cd65efea",
+			"_id": "react-quill@1.0.0-beta-1",
+			"_shasum": "4f95547afb9e6388b6fef0703ee4d4c0ff94b041",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.7.0",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"dist": {
+				"shasum": "4f95547afb9e6388b6fef0703ee4d4c0ff94b041",
+				"size": 546073,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-beta-1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-quill-1.0.0-beta-1.tgz_1486944915015_0.42817481863312423"
+			},
+			"directories": {},
+			"publish_time": 1486944915785,
+			"_cnpm_publish_time": 1486944915785,
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "react-quill",
+			"version": "0.4.1",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.20.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^7.0.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.14.7",
+				"react-dom": "^0.14.7",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "c9af2ec1abb46754ce4af45951469cd3e33ccbb6",
+			"_id": "react-quill@0.4.1",
+			"_shasum": "f54ff4f444df179ed7ef0a1379265af9024521a3",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"dist": {
+				"shasum": "f54ff4f444df179ed7ef0a1379265af9024521a3",
+				"size": 26613,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-6-west.internal.npmjs.com",
+				"tmp": "tmp/react-quill-0.4.1.tgz_1454690709917_0.1445536850951612"
+			},
+			"directories": {},
+			"publish_time": 1454690712288,
+			"_cnpm_publish_time": 1454690712288,
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "react-quill",
+			"version": "0.4.0",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.20.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^7.0.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.14.7",
+				"react-dom": "^0.14.7",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "9d7d336d283729a94035164c2a6b8449efbbe3d3",
+			"_id": "react-quill@0.4.0",
+			"_shasum": "fa47c2de3f98e508b25fe7305cafbf697bcf2d7d",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"dist": {
+				"shasum": "fa47c2de3f98e508b25fe7305cafbf697bcf2d7d",
+				"size": 10277,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-9-west.internal.npmjs.com",
+				"tmp": "tmp/react-quill-0.4.0.tgz_1454617929314_0.1847005693707615"
+			},
+			"directories": {},
+			"publish_time": 1454617932171,
+			"_cnpm_publish_time": 1454617932171,
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "react-quill",
+			"version": "0.3.0",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.20.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "805d3545ae2dcd0b02fdf3827af54dc94b9cc53c",
+			"_id": "react-quill@0.3.0",
+			"_shasum": "31245cabe09a3605d5e857eca0da68555e579509",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "4.2.1",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"dist": {
+				"shasum": "31245cabe09a3605d5e857eca0da68555e579509",
+				"size": 9059,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1447320246963,
+			"_cnpm_publish_time": 1447320246963,
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "react-quill",
+			"version": "0.2.2",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.19.12"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "da98419b52ff50446a443ca69b489ad15137e0d9",
+			"_id": "react-quill@0.2.2",
+			"_shasum": "7935f6f720f1c52eef960167811c1b85ff1ab226",
+			"_from": ".",
+			"_npmVersion": "2.13.0",
+			"_nodeVersion": "2.4.0",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"dist": {
+				"shasum": "7935f6f720f1c52eef960167811c1b85ff1ab226",
+				"size": 7304,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1438696246139,
+			"_cnpm_publish_time": 1438696246139,
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "react-quill",
+			"version": "0.2.1",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.19.12"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "510705a98e7685152a1602bc01f65b2ecf209c11",
+			"_id": "react-quill@0.2.1",
+			"_shasum": "9e4dc9a203da8a16ce6efce822c40fb4f31c8121",
+			"_from": ".",
+			"_npmVersion": "2.13.0",
+			"_nodeVersion": "2.4.0",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"dist": {
+				"shasum": "9e4dc9a203da8a16ce6efce822c40fb4f31c8121",
+				"size": 7059,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1438340614521,
+			"_cnpm_publish_time": 1438340614521,
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "react-quill",
+			"version": "0.2.0",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.19.12"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "b1ad1b23bb0254dd2f1f829a843dcffac5be1cda",
+			"_id": "react-quill@0.2.0",
+			"_shasum": "f618622f494dbcf8a0b0b6eae0d59b2521f50984",
+			"_from": ".",
+			"_npmVersion": "2.12.1",
+			"_nodeVersion": "2.3.4",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"dist": {
+				"shasum": "f618622f494dbcf8a0b0b6eae0d59b2521f50984",
+				"size": 7020,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1437932626208,
+			"_cnpm_publish_time": 1437932626208,
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "react-quill",
+			"version": "0.1.1",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.19.12"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "800619f3aa628acb7fb2cc56e6a84d4a38d82fb4",
+			"_id": "react-quill@0.1.1",
+			"_shasum": "6e15a27071c051ce72a089cd7210d85ca268ad82",
+			"_from": ".",
+			"_npmVersion": "2.7.6",
+			"_nodeVersion": "1.7.1",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "6e15a27071c051ce72a089cd7210d85ca268ad82",
+				"size": 6119,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.1.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432040919044,
+			"_cnpm_publish_time": 1432040919044,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "react-quill",
+			"version": "0.1.0",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"browser": "dist/react-quill.js",
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.19.12"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "287eed138adfde806de1af8697e20c1285d89ec8",
+			"_id": "react-quill@0.1.0",
+			"_shasum": "c0d3b73d3047ad0142758c678951845d23b930d9",
+			"_from": ".",
+			"_npmVersion": "2.7.6",
+			"_nodeVersion": "1.7.1",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c0d3b73d3047ad0142758c678951845d23b930d9",
+				"size": 18242,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.1.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1431550553833,
+			"_cnpm_publish_time": 1431550553833,
+			"_hasShrinkwrap": false
+		},
+		"0.0.6": {
+			"name": "react-quill",
+			"version": "0.0.6",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"browser": "dist/react-quill.js",
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"rich",
+				"text",
+				"rich-text",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.19.4"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "b284a65e146092fbba3d6d75a3ca8a9c22a388e8",
+			"_id": "react-quill@0.0.6",
+			"_shasum": "5820faef6539fea0180a5bd2386cb8057ebf682d",
+			"_from": ".",
+			"_npmVersion": "2.7.6",
+			"_nodeVersion": "1.7.1",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "5820faef6539fea0180a5bd2386cb8057ebf682d",
+				"size": 17828,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.0.6.tgz"
+			},
+			"directories": {},
+			"publish_time": 1431040280726,
+			"_cnpm_publish_time": 1431040280726,
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "react-quill",
+			"version": "0.0.5",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"browser": "dist/react-quill.js",
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"rich",
+				"text",
+				"richtext",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.19.4"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "8d958bfd3fa49b53f6b2f18c1a193a04fdb0bf82",
+			"_id": "react-quill@0.0.5",
+			"_shasum": "c633629202de8a05e15c4480022742604f988e33",
+			"_from": ".",
+			"_npmVersion": "2.7.6",
+			"_nodeVersion": "1.7.1",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c633629202de8a05e15c4480022742604f988e33",
+				"size": 17773,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.0.5.tgz"
+			},
+			"directories": {},
+			"publish_time": 1431039762050,
+			"_cnpm_publish_time": 1431039762050,
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "react-quill",
+			"version": "0.0.4",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"browser": "dist/react-quill.js",
+			"main": "src/index.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"rich",
+				"text",
+				"richtext",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.19.4"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "7fb012ff688c102be6cbe136e7bde5f7b325abb9",
+			"_id": "react-quill@0.0.4",
+			"_shasum": "43281ac4673fa0454b7ec84c98a849b4622d07ee",
+			"_from": ".",
+			"_npmVersion": "2.7.6",
+			"_nodeVersion": "1.7.1",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "43281ac4673fa0454b7ec84c98a849b4622d07ee",
+				"size": 16019,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.0.4.tgz"
+			},
+			"directories": {},
+			"publish_time": 1429263181759,
+			"_cnpm_publish_time": 1429263181759,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "react-quill",
+			"version": "0.0.3",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "dist/react-quill.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"rich",
+				"text",
+				"richtext",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quill": "^0.19.4"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "8b011e7f913cbf9c350510871e6629cb76040633",
+			"_id": "react-quill@0.0.3",
+			"_shasum": "22fea0eb43f2ed49eb90d3235f60c893aa297e37",
+			"_from": ".",
+			"_npmVersion": "1.4.26",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "22fea0eb43f2ed49eb90d3235f60c893aa297e37",
+				"size": 15192,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.0.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1416307264431,
+			"_cnpm_publish_time": 1416307264431,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "react-quill",
+			"version": "0.0.2",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "dist/react-quill.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"rich",
+				"text",
+				"richtext",
+				"textarea"
+			],
+			"files": [
+				"src/",
+				"dist/",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quilljs": "^0.18.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.1",
+				"jshint": "^2.5.10",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.12.0",
+				"should": "^4.3.0",
+				"sinon": "^1.12.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.13"
+			},
+			"gitHead": "7b0877e71568de5c46472d28e74ab602a223e70f",
+			"_id": "react-quill@0.0.2",
+			"_shasum": "e16866aa2780e839eb1e728b6dce689564ec7d54",
+			"_from": ".",
+			"_npmVersion": "1.4.26",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "e16866aa2780e839eb1e728b6dce689564ec7d54",
+				"size": 15163,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.0.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1416227397485,
+			"_cnpm_publish_time": 1416227397485,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "react-quill",
+			"version": "0.0.1",
+			"description": "The Quill rich-text editor as a React component.",
+			"author": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"homepage": "https://github.com/zenoamaro/react-quill",
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/zenoamaro/react-quill/issues",
+				"email": "zenoamaro@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/zenoamaro/react-quill.git"
+			},
+			"main": "./dist/react-quill.js",
+			"scripts": {
+				"test": "make test",
+				"build": "make build"
+			},
+			"engines": {
+				"node": ">= 0.8.x"
+			},
+			"keywords": [
+				"rich",
+				"text",
+				"richtext",
+				"textarea"
+			],
+			"files": [
+				"./dist",
+				"README.md",
+				"CHANGELOG.md",
+				"LICENSE"
+			],
+			"dependencies": {
+				"quilljs": "^0.18.1"
+			},
+			"peerDependencies": {
+				"react": "^0.11.0"
+			},
+			"devDependencies": {
+				"blanket": "^1.1.6",
+				"jsdom": "^1.2.0",
+				"jshint": "^2.5.8",
+				"mocha": "^2.0.1",
+				"mocha-text-cov": "^0.1.0",
+				"react": "^0.11.0",
+				"should": "^4.1.0",
+				"sinon": "^1.11.1",
+				"travis-cov": "^0.2.5",
+				"uglify-js": "^2.4.15",
+				"webpack": "^1.4.12"
+			},
+			"gitHead": "1d7ce8707bfa4f91fea799783da40b5d138a23b1",
+			"_id": "react-quill@0.0.1",
+			"_shasum": "6238f4abfdeae262d03dc6e48bba6808eea75f9b",
+			"_from": ".",
+			"_npmVersion": "1.4.26",
+			"_npmUser": {
+				"name": "zenoamaro",
+				"email": "zenoamaro@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "alexkrolick",
+					"email": "alexander.krolick+npm@gmail.com"
+				},
+				{
+					"name": "zenoamaro",
+					"email": "zenoamaro@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "6238f4abfdeae262d03dc6e48bba6808eea75f9b",
+				"size": 1909,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-quill/download/react-quill-0.0.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1415363202077,
+			"_cnpm_publish_time": 1415363202077,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"beta": "1.0.0-beta-3",
+		"latest": "1.2.7"
+	},
+	"time": {
+		"modified": "2018-04-03T16:49:47.000Z",
+		"created": "2014-11-07T12:26:42.077Z",
+		"1.2.7": "2018-04-03T16:49:37.005Z",
+		"1.2.6": "2018-02-26T04:47:25.137Z",
+		"1.2.5": "2018-02-26T04:44:55.802Z",
+		"1.2.4": "2018-02-15T22:00:25.216Z",
+		"1.2.3": "2017-12-04T23:23:42.774Z",
+		"1.2.2": "2017-11-29T01:31:24.008Z",
+		"1.2.1": "2017-11-28T23:30:46.035Z",
+		"1.2.0": "2017-11-17T07:34:16.161Z",
+		"1.1.0": "2017-08-04T17:10:41.334Z",
+		"1.0.0": "2017-06-29T05:18:19.140Z",
+		"1.0.0-rc.3": "2017-06-21T19:22:19.245Z",
+		"1.0.0-rc.2": "2017-04-13T18:19:23.037Z",
+		"1.0.0-rc-1": "2017-04-12T02:53:38.894Z",
+		"1.0.0-beta-5": "2017-04-10T00:14:29.280Z",
+		"1.0.0-beta-4": "2017-03-27T00:11:24.100Z",
+		"1.0.0-beta-3": "2017-03-07T23:43:23.626Z",
+		"1.0.0-beta-2": "2017-03-07T23:37:31.939Z",
+		"1.0.0-beta-1": "2017-02-13T00:15:15.785Z",
+		"0.4.1": "2016-02-05T16:45:12.288Z",
+		"0.4.0": "2016-02-04T20:32:12.171Z",
+		"0.3.0": "2015-11-12T09:24:06.963Z",
+		"0.2.2": "2015-08-04T13:50:46.139Z",
+		"0.2.1": "2015-07-31T11:03:34.521Z",
+		"0.2.0": "2015-07-26T17:43:46.208Z",
+		"0.1.1": "2015-05-19T13:08:39.044Z",
+		"0.1.0": "2015-05-13T20:55:53.833Z",
+		"0.0.6": "2015-05-07T23:11:20.726Z",
+		"0.0.5": "2015-05-07T23:02:42.050Z",
+		"0.0.4": "2015-04-17T09:33:01.759Z",
+		"0.0.3": "2014-11-18T10:41:04.431Z",
+		"0.0.2": "2014-11-17T12:29:57.485Z",
+		"0.0.1": "2014-11-07T12:26:42.077Z"
+	},
+	"_distfiles": {
+		"react-quill-1.2.7.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.2.7.tgz",
+			"sha": "3e74fadbb30dce915733ad230f92415894437c16",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.2.6.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.2.6.tgz",
+			"sha": "4192b3fc8a446363605d2c48f7fb6a1d32a00eb4",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.2.5.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.2.5.tgz",
+			"sha": "8e509ba7291b2c38139ab9240998c44fded44aef",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.2.4.tgz",
+			"sha": "acce3bff6b46c4de34e23e53c90f68f9a1e1c87e",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.2.3.tgz",
+			"sha": "d5e7c5f6d3b25916485538ea80d9b5f2262d3823",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.2.2.tgz",
+			"sha": "501265373bd03f115bd5940fef388d737f7eeeda",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.2.1.tgz",
+			"sha": "2088697d692ecf2dbcd38947dbbc45baa1a00055",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.2.0.tgz",
+			"sha": "16b2d296429ef22a755f53dc9c6a9f5aa33f2562",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.1.0.tgz",
+			"sha": "348dbd36252607fd31cad140f1c95e969da18d53",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0.tgz",
+			"sha": "26c41746a0deb298a7549362cfa69c87db4d9399",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.0.0-rc.3.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-rc.3.tgz",
+			"sha": "5cd6682dca11f6a31fc8e4457d1bfb93e42c10f2",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.0.0-rc.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-rc.2.tgz",
+			"sha": "86b5dd8a17a43066130f2fcac1a91d624e6668c9",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.0.0-rc-1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-rc-1.tgz",
+			"sha": "476a3fda6d104efbf18b3e6c2ef2b57b0913b7ab",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.0.0-beta-5.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-beta-5.tgz",
+			"sha": "3aaa2530e2a3f94b813fc9f2e67afa77683d867a",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.0.0-beta-4.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-beta-4.tgz",
+			"sha": "3880e37a7dcfe8b93f04805d97d9c4e7e92b4a61",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.0.0-beta-3.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-beta-3.tgz",
+			"sha": "fc759c0352a353e19a855bdec7167559d2edd3ab",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.0.0-beta-2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-beta-2.tgz",
+			"sha": "9b9834693e58958425c9c1afef3e694f164cda48",
+			"registry": "cnpmjs"
+		},
+		"react-quill-1.0.0-beta-1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-1.0.0-beta-1.tgz",
+			"sha": "4f95547afb9e6388b6fef0703ee4d4c0ff94b041",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.4.1.tgz",
+			"sha": "f54ff4f444df179ed7ef0a1379265af9024521a3",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.4.0.tgz",
+			"sha": "fa47c2de3f98e508b25fe7305cafbf697bcf2d7d",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.3.0.tgz",
+			"sha": "31245cabe09a3605d5e857eca0da68555e579509",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.2.2.tgz",
+			"sha": "7935f6f720f1c52eef960167811c1b85ff1ab226",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.2.1.tgz",
+			"sha": "9e4dc9a203da8a16ce6efce822c40fb4f31c8121",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.2.0.tgz",
+			"sha": "f618622f494dbcf8a0b0b6eae0d59b2521f50984",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.1.1.tgz",
+			"sha": "6e15a27071c051ce72a089cd7210d85ca268ad82",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.1.0.tgz",
+			"sha": "c0d3b73d3047ad0142758c678951845d23b930d9",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.0.6.tgz",
+			"sha": "5820faef6539fea0180a5bd2386cb8057ebf682d",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.0.5.tgz",
+			"sha": "c633629202de8a05e15c4480022742604f988e33",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.0.4.tgz",
+			"sha": "43281ac4673fa0454b7ec84c98a849b4622d07ee",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.0.3.tgz",
+			"sha": "22fea0eb43f2ed49eb90d3235f60c893aa297e37",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.0.2.tgz",
+			"sha": "e16866aa2780e839eb1e728b6dce689564ec7d54",
+			"registry": "cnpmjs"
+		},
+		"react-quill-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-quill/download/react-quill-0.0.1.tgz",
+			"sha": "6238f4abfdeae262d03dc6e48bba6808eea75f9b",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"189e3-cr4H/h9BP1FX5vLY8pqdA6BJSOk\"",
+			"fetched": 1527747701878
+		}
+	},
+	"_rev": "12-4b734187e0f5539f",
+	"readme": "React-Quill [![Build Status](https://travis-ci.org/zenoamaro/react-quill.svg?branch=master)](https://travis-ci.org/zenoamaro/react-quill) [![npm](https://img.shields.io/npm/v/react-quill.svg)](https://www.npmjs.com/package/react-quill)\n[![npm downloads](https://img.shields.io/npm/dt/react-quill.svg?maxAge=2592000)](http://www.npmtrends.com/react-quill)\n==============================================================================\n\nA [Quill] component for [React].\n\nSee a [live demo] or [Codepen](http://codepen.io/alexkrolick/pen/xgyOXQ/left?editors=0010#0).\n\n[Quill]: https://quilljs.com\n[React]: https://facebook.github.io/react/\n[live demo]: https://zenoamaro.github.io/react-quill/\n\n1. [Quick start](#quick-start)\n   1. [Import the component](#import-the-component)\n   1. [Import the stylesheet](#import-the-stylesheet)\n   1. [Use the component](#use-the-component)\n   1. [Using Deltas](#using-deltas)\n   1. [Controlled vs Uncontrolled Mode](#controlled-vs-uncontrolled-mode)\n1. [Options](#options)\n   1. [Theme](#theme)\n   1. [Custom Toolbar](#custom-toolbar)\n   1. [Custom Formats](#custom-formats)\n   1. [Custom Editing Area](#custom-editing-area)\n   1. [Mixin](#mixin)\n1. [Upgrading to React-Quill v1.0.0](#upgrading-to-react-quill-v100)\n1. [API reference](#api-reference)\n   1. [Exports](#exports)\n   1. [Props](#props)\n   1. [Methods](#methods)\n1. [Browser support](#browser-support)\n1. [Building and testing](#building-and-testing)\n   1. [Bundling with Webpack](#bundling-with-webpack)\n1. [Changelog](./CHANGELOG.md)\n1. [Contributors](#contributors)\n1. [License](#license)\n\n---\n\n???? **React Quill now supports Quill v1.0.0!**\nThanks to @clemmy and @alexkrolick for landing this much-awaited change. There are many breaking changes, so be sure to read the [migration guide](#upgrading-to-react-quill-v100).\n\n---\n\n```sh\nnpm install react-quill\nyarn add react-quill\n```\n\nSpecial thank you to everyone who contributed during the 1.0.0 release cycle!\n \n---\n\n???? **Welcoming @alexkrolick to the team!**\nHis contributions have been incredible so far, and his passion and dedication will bring some much-deserved love to this project.\n\n---\n\n\n## Quick Start\n\n### Import the component\n\n```jsx\nconst ReactQuill = require('react-quill'); // CommonJS\nimport ReactQuill from 'react-quill'; // ES6\n```\n\n### Import the stylesheet\n\n_Two common examples are shown below. How stylesheets are included in your app depends on build system (Webpack, SCSS, LESS, etc). See the documentation on [Themes](#theme) for more information._\n\n#### Fetching styles from the CDN\n\n```html\n<link rel=\"stylesheet\" href=\"//cdn.quilljs.com/1.2.6/quill.snow.css\">\n```\n\n#### Using `css-loader` with Webpack or `create-react-app`\n\n```jsx\nrequire('react-quill/dist/quill.snow.css'); // CommonJS\nimport 'react-quill/dist/quill.snow.css'; // ES6\n```\n\n### Use the component\n\n```jsx\nclass MyComponent extends React.Component {\n  constructor(props) {\n    super(props)\n    this.state = { text: '' } // You can also pass a Quill Delta here\n    this.handleChange = this.handleChange.bind(this)\n  }\n\n  handleChange(value) {\n    this.setState({ text: value })\n  }\n\n  render() {\n    return (\n      <ReactQuill value={this.state.text}\n                  onChange={this.handleChange} />\n    )\n  }\n}\n```\n\n### Using Deltas\n\nYou can pass a [Quill Delta](https://quilljs.com/docs/delta/), instead of an HTML string, as the `value` and `defaultValue` properties. Deltas have a number of advantages over HTML strings, so you might want use them instead. Be aware, however, that comparing Deltas for changes is more expensive than comparing HTML strings, so it might be worth to profile your usage patterns.\n\nNote that switching `value` from an HTML string to a Delta, or vice-versa, will trigger a change, regardless of whether they represent the same document, so you might want to stick to a format and keep using it consistently throughout.\n\n⚠️ Do not use the `delta` object you receive from the `onChange` event as `value`. This object does not contain the full document, but only the last modifications, and doing so will most likely trigger an infinite loop where the same changes are applied over and over again. Use `editor.getContents()` during the event to obtain a Delta of the full document instead. ReactQuill will prevent you from making such a mistake, however if you are absolutely sure that this is what you want, you can pass the object through `new Delta()` again to un-taint it.\n\n### Controlled vs Uncontrolled Mode\n\nPass `defaultValue` instead of `value` if you need to use DOM or [Quill API](https://quilljs.com/docs/api/)s to imperatively manipulate the editor state.\nIn this \"uncontrolled\" mode ReactQuill uses the prop as the initial value but allows the element to deviate after that. The `onChange` callback still works normally.\n\n- Read more about uncontrolled components in the [React docs][defaultvalues].\n- Read more about the available [props](#props).\n\n[defaultvalues]: https://facebook.github.io/react/docs/uncontrolled-components.html#default-values\n\n## Options\n\n### Theme\n\nThe Quill editor supports [themes](http://quilljs.com/docs/themes/). It includes a full-fledged theme, called _snow_, that is Quill's standard appearance, a _bubble_ theme that is similar to the inline editor on Medium, and a _core_ theme containing only the bare essentials to allow modules like toolbars or tooltips to work.\n\nThese stylesheets can be found in the Quill distribution, but for convenience they are also linked in React Quill's `dist` folder. In a common case you would activate a theme by setting the theme [prop](#props). Pass a falsy value (`null`) to disable the theme.\n\n```jsx\n<ReactQuill theme=\"snow\" /> // or \"bubble\", null to use minimal core theme\n```\n\nAnd then link the appropriate stylesheet (only link the CSS for the themes you want to use):\n\n```html\n<link rel=\"stylesheet\" href=\"node_modules/react-quill/dist/quill.snow.css\">\n<link rel=\"stylesheet\" href=\"node_modules/react-quill/dist/quill.bubble.css\">\n<link rel=\"stylesheet\" href=\"node_modules/react-quill/dist/quill.core.css\">\n```\n\nThis may vary depending how application is structured, directories or otherwise. For example, if you use a CSS pre-processor like SASS, you may want to import that stylesheet inside your own.\n\n### Custom Toolbar\n\n#### Default Toolbar Elements\n\nThe [Quill Toolbar Module](http://quilljs.com/docs/modules/toolbar/) API provides an easy way to configure the default toolbar icons using an array of format names.\n\n<details>\n<summary>Example Code</summary>\n\n```jsx\nvar MyComponent = React.createClass({\n\n  modules: {\n    toolbar: [\n      [{ 'header': [1, 2, false] }],\n      ['bold', 'italic', 'underline','strike', 'blockquote'],\n      [{'list': 'ordered'}, {'list': 'bullet'}, {'indent': '-1'}, {'indent': '+1'}],\n      ['link', 'image'],\n      ['clean']\n    ],\n  },\n\n  formats: [\n    'header',\n    'bold', 'italic', 'underline', 'strike', 'blockquote',\n    'list', 'bullet', 'indent',\n    'link', 'image'\n  ],\n\n  render: function() {\n    return (\n      <div className=\"text-editor\">\n        <ReactQuill theme=\"snow\"\n                    modules={this.modules}\n                    formats={this.formats}>\n        </ReactQuill>\n      </div>\n    );\n  },\n\n});\n```\n\n</details>\n\n#### HTML Toolbar\n\nYou can also supply your own HTML/JSX toolbar with custom elements that are not part of the Quill theme.\n\nSee this example live on Codepen: [Custom Toolbar Example](https://codepen.io/alexkrolick/pen/gmroPj?editors=0010)\n\n<details>\n<summary>Example Code</summary>\n\n```jsx\n/*\n * Custom \"star\" icon for the toolbar using an Octicon\n * https://octicons.github.io\n */\nconst CustomButton = () => <span className=\"octicon octicon-star\" />\n\n/*\n * Event handler to be attached using Quill toolbar module\n * http://quilljs.com/docs/modules/toolbar/\n */\nfunction insertStar () {\n  const cursorPosition = this.quill.getSelection().index\n  this.quill.insertText(cursorPosition, \"★\")\n  this.quill.setSelection(cursorPosition + 1)\n}\n\n/*\n * Custom toolbar component including insertStar button and dropdowns\n */\nconst CustomToolbar = () => (\n  <div id=\"toolbar\">\n    <select className=\"ql-header\" defaultValue={\"\"} onChange={e => e.persist()}>\n      <option value=\"1\"></option>\n      <option value=\"2\"></option>\n      <option selected></option>\n    </select>\n    <button className=\"ql-bold\"></button>\n    <button className=\"ql-italic\"></button>\n    <select className=\"ql-color\">\n      <option value=\"red\"></option>\n      <option value=\"green\"></option>\n      <option value=\"blue\"></option>\n      <option value=\"orange\"></option>\n      <option value=\"violet\"></option>\n      <option value=\"#d0d1d2\"></option>\n      <option selected></option>\n    </select>\n    <button className=\"ql-insertStar\">\n      <CustomButton />\n    </button>\n  </div>\n)\n\n/*\n * Editor component with custom toolbar and content containers\n */\nclass Editor extends React.Component {\n  constructor (props) {\n    super(props)\n    this.state = { editorHtml: '' }\n    this.handleChange = this.handleChange.bind(this)\n  }\n\n  handleChange (html) {\n  \tthis.setState({ editorHtml: html });\n  }\n\n  render() {\n    return (\n      <div className=\"text-editor\">\n        <CustomToolbar />\n        <ReactQuill\n          onChange={this.handleChange}\n          placeholder={this.props.placeholder}\n          modules={Editor.modules}\n        />\n      </div>\n    )\n  }\n}\n\n/*\n * Quill modules to attach to editor\n * See http://quilljs.com/docs/modules/ for complete options\n */\nEditor.modules = {\n  toolbar: {\n    container: \"#toolbar\",\n    handlers: {\n      \"insertStar\": insertStar,\n    }\n  }\n}\n\n/*\n * Quill editor formats\n * See http://quilljs.com/docs/formats/\n */\nEditor.formats = [\n  'header', 'font', 'size',\n  'bold', 'italic', 'underline', 'strike', 'blockquote',\n  'list', 'bullet', 'indent',\n  'link', 'image', 'color',\n]\n\n/*\n * PropType validation\n */\nEditor.propTypes = {\n  placeholder: React.PropTypes.string,\n}\n\n/*\n * Render component on page\n */\nReactDOM.render(\n  <Editor placeholder={'Write something or insert a star ★'}/>,\n  document.querySelector('.app')\n)\n```\n\n</details>\n\n### Custom Formats\n\nThe component has two types of formats:\n\n1. The default [Quill formats](http://quilljs.com/docs/formats/) that are enabled/disabled using the [`formats` prop](#props). All formats are enabled by default.\n2. Custom formats created using Parchment and registered with your component's Quill instance\n\n<details>\n<summary>Example Code</summary>\n\n```js\nconst ReactQuill = require('react-quill'); // CommonJS\nimport ReactQuill, { Quill } from 'react-quill'; // ES6\n```\n\n\n```jsx\n/*\n * Example Parchment format from\n * https://quilljs.com/guides/cloning-medium-with-parchment/\n */\nlet Inline = Quill.import('blots/inline');\nclass BoldBlot extends Inline { }\nBoldBlot.blotName = 'bold';\nBoldBlot.tagName = 'strong';\nQuill.register(BoldBlot);\n\n/*\n * Editor component with default and custom formats\n */\nclass MyComponent extends React.Component {\n  constructor(props) {\n    this.formats = ['italic', 'underline'] // default formats\n    this.state = { text: '' }\n  }\n\n  handleChange(value) {\n    this.setState({text: value})\n  }\n\n  render() {\n    return (\n      <ReactQuill\n        value={this.state.text}\n        onChange={this.handleChange}\n        formats={this.formats} // the custom format is already registered\n      />\n    )\n  }\n}\n```\n\n</details>\n\n### Custom editing area\n\nIf you instantiate ReactQuill without children, it will create a `<div>` for you, to be used as the editing area for Quill. If you prefer, you can specify your own element for ReactQuill to use. Note that `<textarea>`s are not supported by Quill at this time.\n\n<details>\n\n```jsx\nclass MyComponent extends React.Component {\n\n  render() {\n    return (\n      <ReactQuill>\n        <div className=\"my-editing-area\"/>\n      </ReactQuill>\n    );\n  }\n\n});\n```\n\n</details>\n\n### Mixin\n\nThe module exports a mixin which can be used to create custom editor components. (Note that mixins will be deprecated in a future version of React).\n\n<details>\n<summary>Example Code</summary>\n\nThe ReactQuill default component is built using the mixin. See [component.js](src/component.js) for source.\n\n```jsx\nimport {Mixin} from 'react-quill'\n\nvar MyComponent = React.createClass({\n  mixins: [ ReactQuill.Mixin ],\n\n  componentDidMount: function() {\n    var editor = this.createEditor(\n      this.getEditingArea(),\n      this.getEditorConfig()\n    );\n    this.setState({ editor:editor });\n  },\n\n  componentWillReceiveProps: function(nextProps) {\n    if ('value' in nextProps && nextProps.value !== this.props.value) {\n      this.setEditorContents(this.state.editor, nextProps.value);\n    }\n  },\n\n});\n```\n\n</details>\n\n## Upgrading to React-Quill v1.0.0\n\nIn most cases, ReactQuill will raise useful warnings to help you perform any necessary migration steps.\n\nPlease note that many [migration steps to Quill v1.0](http://quilljs.com/guides/upgrading-to-1-0/) may also apply.\n\n<details>\n<summary>Expand Upgrade Guide</summary>\n\n### The toolbar module\n\nWith v1.0.0, Quill adopted a new [toolbar configuration format](https://quilljs.com/docs/modules/toolbar/), to which React Quill will delegates all toolbar functionality, and which is now the preferred way to customize the toolbar.\n\nPreviously, toolbar properties could be set by passing a `toolbar` prop to React Quill. Pass the same options as `modules.toolbar` instead.\n\n<details>\n<summary>Read More</summary>\n\n```diff\n+ modules: {\n    toolbar: [\n       ...\n    ],\n+ },\n\n  <ReactQuill\n-   toolbar={this.toolbar}\n+   modules={this.modules}\n  />\n```\n\nIf you used to provide your own HTML toolbar component, you can still do the same:\n\n```diff\n+ modules: {\n+   toolbar: '#my-toolbar-component',\n+ },\n\n  <ReactQuill\n-   toolbar=\"#my-toolbar-component\"\n+   modules={this.modules}\n  />\n```\n\nNote that it is not possible to pass a toolbar component as a child to ReactQuill anymore.\n\nPreviously, React Quill would create a custom HTML toolbar for you if you passed a configuration object as the `toolbar` prop. This will not happen anymore. You can still create a `ReactQuill.Toolbar` explicitly:\n\n```diff\n+ modules: {\n+   toolbar: '#my-quill-toolbar',\n+ },\n\n+ <ReactQuill.Toolbar\n+   id='my-quill-toolbar'\n+   items={this.oldStyleToolbarItems}\n+ />\n\n  <ReactQuill\n-   toolbar={this.oldStyleToolbarItems}\n+   modules={this.modules}\n  />\n```\n\nHowever, consider switching to the new Quill format instead, or provide your own [toolbar component](#html-toolbar).\n\nReact Quill now follows the Quill toolbar format closely. See the [Quill toolbar documentation](https://quilljs.com/docs/modules/toolbar/) for a complete reference on all supported options.\n\n</details>\n\n### Custom editing areas and refs\n\nPreviously, to provide a custom element for Quill to mount on, it was necessary to pass a child identified by a specific `ref`: `editor`.\n\nThis is now unnecessary, so you can omit the `ref` entirely if you don't need it. In addition, any `ref` you keep won't be stolen from the owner component anymore.\n\nNote, however, that React Quill will now ensure that the element is compatible with Quill. This means that passing a `<textarea>` now produces an error.\n\n### Passing children to ReactQuill\n\nPreviously, it was possible to pass arbitrary components as children of React Quill. Their `ref` would identify them as either a custom toolbar or a custom editing area.\n\nThis is not possible anymore, and the only child you can pass now is an optional [custom Editing Area](#custom-editing-area) element.\n\n### Adding custom formats with the `formats` property is deprecated\n\nAs of 1.0.0, [use Parchment to define new formats](https://github.com/quilljs/parchment). Use the [Quill export](#exports) from the module to register and extend formats:\n\n```js\nQuill.register('formats/CustomFormat', MyCustomFormat);\n```\n\n### The `styles` property\n\nPreviously, it was allowed to inject CSS styles by providing an object to the `styles` property. This option has been removed from Quill 1.0, and support for it in React Quill has gone as well. If you need to inject styles, link an external stylesheet instead.\n\nSee the [Quill Release Notes](http://quilljs.com/guides/upgrading-to-1-0/#configuration).\n\n### The `pollInterval` property\n\nThis property previously set the frequency with which Quill polled the DOM for changes. It does not have any effect anymore, and can safely be removed from the props.\n\n</details>\n\n## API reference\n\n### Exports\n\n```jsx\nconst ReactQuill = require('react-quill'); // CommonJS\nconst {Quill, Mixin, Toolbar} = ReactQuill;\n\nimport ReactQuill, { Quill, Mixin, Toolbar } from 'react-quill'; // ES6\n```\n\n`Mixin`\n: Provides the bridge between React and Quill. `ReactQuill` implements this mixin; in the same way you can use it to build your own component, or replace it to implement a new core for the default component. _Note that mixins are deprecated in React and this export will be replaced by an HOC in the future._\n\n`Toolbar`\n: The component that renders the custom ReactQuill toolbar. The default collection of items and color swatches is available as `ReactQuill.Toolbar.defaultItems` and `ReactQuill.Toolbar.defaultColors` respectively. ⚠️ The Toolbar component is deprecated since v1.0.0. See [upgrading to React Quill v1.0.0](#upgrading-to-react-quill-v100).\n\n`Quill`\n: The `Quill` namespace on which you can call `registerModule` and such.\n\n\n### Props\n\n`id`\n: ID to be applied to the DOM element.\n\n`className`\n: Classes to be applied to the DOM element.\n\n`value`\n: Value for the editor as a controlled component. Can be a string containing HTML, a [Quill Delta](https://quilljs.com/docs/delta/) instance, or a plain object representing a Delta.\n  Note that due to limitations in Quill, this is actually a _semi-controlled_ mode, meaning that the edit is not prevented, but changing `value` will still replace the contents. \n  Also note that passing a Quill Delta here, and then an HTML string, or vice-versa, will always trigger a change, regardless of whether they represent the same document.\n  ⚠️ Do not pass the `delta` object from the `onChange` event as `value`, as it will cause a loop. See [Using Deltas](#using-deltas) for details.\n\n`defaultValue`\n: Initial value for the editor as an uncontrolled component. Can be a string containing HTML, a [Quill Delta](https://quilljs.com/docs/delta/), or a plain object representing a Delta.\n\n`readOnly`\n: If true, the editor won't allow changing its contents. Wraps the Quill [`disable` API](https://quilljs.com/docs/api/#enable).\n\n`placeholder`\n: The default value for the empty editor.\n\n`modules`\n: An object specifying which modules are enabled, and their configuration. The editor toolbar is a commonly customized module. See the [modules section](http://quilljs.com/docs/modules/) over the Quill documentation for more information on what modules are available.\n\n`formats`\n: An array of formats to be enabled during editing. All implemented formats are enabled by default. See [Formats](http://quilljs.com/docs/formats/) for a list.\n  Custom formats should not be included in the array as of version 1.0.0. Instead they should be created through [Parchment](https://github.com/quilljs/parchment) and registered with the module's [Quill export](#exports).\n\n`style`\n: An object with custom CSS rules to apply on the editor's container. Rules should be in React's \"camelCased\" naming style.\n\n`theme`\n: The name of the theme to apply to the editor. Defaults to `snow`, Quill's standard theme. Pass `null` to use the minimal core theme. See the [docs on themes](#theme) for more information on including the required stylesheets.\n\n`tabIndex`\n: The order in which the editor becomes focused, among other controls in the page, during keyboard navigation.\n\n`bounds`\n: Selector or DOM element used by Quill to constrain position of popups. Defaults to `document.body`.\n\n`children`\n: A single React element that will be used as the editing area for Quill in place of the default, which is a `<div>`. Note that you cannot use a `<textarea>`, as it is not a supported target. Also note that updating children is costly, as it will cause the Quill editor to be recreated. Set the `value` prop if you want to control the html contents of the editor.\n\n`onChange(content, delta, source, editor)`\n: Called back with the new contents of the editor after change. It will be passed the HTML contents of the editor, a delta object expressing the change, the source of the change, and finally a read-only proxy to [editor accessors](#the-unprivileged-editor) such as `getHTML()`.\n  ⚠️ Do not use this `delta` object as `value`, as it will cause a loop. Use `editor.getContents()` instead. See [Using Deltas](#using-deltas) for details.\n\n`onChangeSelection(range, source, editor)`\n: Called back with the new selected range, or null when unfocused. It will be passed the selection range, the source of the change, and finally a read-only proxy to editor accessors such as `getBounds()`.\n\n`onFocus(range, source, editor)`\n: Called when the editor becomes focused. It will receive the new selection range.\n\n`onBlur(previousRange, source, editor)`\n: Called when the editor loses focus. It will receive the selection range it had right before losing focus.\n\n`onKeyPress(event)`\n: Called after a key has been pressed and released.\n: Note that, like its native counterpart, this won't be called for special keys such as <kbd>shift</kbd> or <kbd>enter</kbd>. If you need those, hook onto `onKeyDown` or `onKeyUp`.\n\n`onKeyDown(event)`\n: Called after a key has been pressed, but before it is released.\n: Note that, due to how Quill works, it's possible that you won't receive events for keys such as <kbd>enter</kbd>, <kbd>backspace</kbd> or <kbd>delete</kbd>. If that's the case, try hooking onto `onKeyUp` instead.\n\n`onKeyUp(event)`\n: Called after a key has been released.\n\n\n### Methods\n\nIf you have [a ref](https://facebook.github.io/react/docs/more-about-refs.html) to a ReactQuill node, you will be able to invoke the following methods:\n\n`focus()`\n: Focuses the editor.\n\n`blur()`\n: Removes focus from the editor.\n\n`getEditor()`\n: Returns the Quill instance that backs the editor. While you can freely use this to access methods such as `getText()`, please avoid from imperatively manipulating the instance, to avoid getting ReactQuill and Quill out-of-sync. A much-safer [unprivileged editor](#the-unprivileged-editor) is available as replacement.\n\n<details>\n<summary>Example</summary>\n\n[View this example on Codepen](https://codepen.io/alexkrolick/pen/YNmGar?editors=0011)\n\n```jsx\nclass Editor extends React.Component {\n  constructor(props) {\n    super(props)\n    this.quillRef = null;      // Quill instance\n    this.reactQuillRef = null; // ReactQuill component\n  }\n  \n  componentDidMount() {\n    this.attachQuillRefs()\n  }\n  \n  componentDidUpdate() {\n    this.attachQuillRefs()\n  }\n  \n  attachQuillRefs = () => {\n    if (typeof this.reactQuillRef.getEditor !== 'function') return;\n    this.quillRef = this.reactQuillRef.getEditor();\n  }\n  \n  insertText = () => {\n    var range = this.quillRef.getSelection();\n    let position = range ? range.index : 0;\n    this.quillRef.insertText(position, 'Hello, World! ')\n  }\n  \n  render() {\n    return (\n      <div>\n        <ReactQuill \n          ref={(el) => { this.reactQuillRef = el }}\n          theme={'snow'} />\n        <button onClick={this.insertText}>Insert Text</button>\n      </div>\n    )\n  }\n}\n```\n\n</details>\n\n### The unprivileged editor\n\nDuring events, ReactQuill will make a restricted subset of the Quill API available as the `editor` argument. This prevents access to destructive methods, which might case ReactQuill to get out-of-sync with the component. It provides the following methods, which are mostly proxies of existing [Quill methods](https://quilljs.com/docs/api/):\n\n`getLength()`\n: Returns the length of the editor contents, in characters, not including any HTML tag.\n\n`getText()`\n: Returns the string contents of the editor, not including any HTML tag.\n\n`getHTML()`\n: Returns the full HTML contents of the editor.\n\n`getContents()`\n: Returns a [Quill Delta](https://quilljs.com/docs/delta/) of the complete document.\n\n`getSelection()`\n: Returns the current selection range, or `null` if the editor is unfocused.\n\n`getBounds()`\n: Returns the pixel position, relative to the editor container, and dimensions, of a selection, at a given location.\n\n\n## Building and testing\n\nYou can run the automated test suite:\n\n```sh\nnpm test\n```\n\nAnd build a minificated version of the source:\n\n```sh\nnpm run build\n```\n\nMore tasks are available on the [Makefile](Makefile):\n\n    lint: lints the source\n    spec: runs the test specs\n    coverage: runs the code coverage test\n    test: lint, spec and coverage threshold test\n    build: builds the minified version\n\nNote that `dist` is ignored in the git repository as of version 1.0.0. If you need to use the built files without downloading the package from NPM, you can run the build tasks yourself or use a CDN like [unpkg](https://unpkg.com/react-quill@1.0.0-beta-1/dist/react-quill.min.js).\n\n### Bundling with Webpack\n\nQuill ships only a pre-built javascript file, so Webpack will complain after building a bundle:\n\n```\nError: ./~/react-quill/~/quill/dist/quill.js\nCritical dependencies:\n6:478-485 This seems to be a pre-built javascript file. Though this is possible, it's not recommended. Try to require the original source to get better results.\n@ ./~/react-quill/~/quill/dist/quill.js 6:478-485\n```\n\nThe warning is harmless, but if you want to silence it you can avoid parsing Quill by adding this to your Webpack configuration:\n\n```js\nmodule: {\n  // Shut off warnings about using pre-built javascript files\n  // as Quill.js unfortunately ships one as its `main`.\n  noParse: /node_modules\\/quill\\/dist/\n}\n```\n\nSee [#7](https://github.com/zenoamaro/react-quill/issues/7) for more details.\n\n## Browser support\n\nPlease check the browser support table for the upstream [Quill](https://github.com/quilljs/quill) dependency. The React part of the codebase is ES5-compatible.\n\n## Changelog\n\n[Full changelog](CHANGELOG.md)\n\n## Contributors\n\nReact Quill would not be where it is today without the contributions of many people, which we are incredibly grateful for:\n- @zenoamaro (maintainer)\n- @alexkrolick (maintainer)\n- @clemmy\n- @asiniy\n- @webcarrot\n- @druti\n- @e-jigsaw\n- @zhang-z\n- @Sajam\n- @0bird512\n- @jacktrades\n- @1000hz\n- @kkerr1\n- @csk157\n- @Janekk\n- @AndyTheGiant\n- @chrismcv\n- @wouterh\n- @tdg5\n- @jrmmnr\n- @l3kn\n- @rpellerin\n- @sandbochs\n- @wouterh\n- @MattKunze\n\n## Roadmap\n\n- [x] React 0.14 support\n- [x] Quill v1.0.0+ support\n- [x] Tests!\n- [x] Compatibility with React 16\n- [ ] Additional APIs for working with Quill\n\n## License\n\nThe MIT License (MIT)\n\nCopyright (c) 2016, zenoamaro <zenoamaro@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+}

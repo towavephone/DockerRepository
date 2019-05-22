@@ -1,0 +1,269 @@
+{
+	"name": "@types/tinycolor2",
+	"versions": {
+		"1.4.1": {
+			"name": "@types/tinycolor2",
+			"version": "1.4.1",
+			"description": "TypeScript definitions for tinycolor",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mordechai Zuber",
+					"url": "https://github.com/M-Zuber",
+					"githubUsername": "M-Zuber"
+				},
+				{
+					"name": "Geert Jansen",
+					"url": "https://github.com/geertjansen",
+					"githubUsername": "geertjansen"
+				},
+				{
+					"name": "Niels van Hoorn",
+					"url": "https://github.com/nvh",
+					"githubUsername": "nvh"
+				},
+				{
+					"name": "Junyoung Clare Jang",
+					"url": "https://github.com/Ailrun",
+					"githubUsername": "Ailrun"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "3d1faa04a4e1ba02675a2fcbfcff4344fd2ec7123ae52f39deedc68e346f27e8",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/tinycolor2@1.4.1",
+			"dist": {
+				"shasum": "2f5670c9d1d6e558897a810ed284b44918fc1253",
+				"size": 6474,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tinycolor2/download/@types/tinycolor2-1.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/tinycolor2_1.4.1_1533087436021_0.9850949987738138"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533087436083,
+			"_cnpm_publish_time": 1533087436083
+		},
+		"1.4.0": {
+			"name": "@types/tinycolor2",
+			"version": "1.4.0",
+			"description": "TypeScript definitions for tinycolor",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mordechai Zuber",
+					"url": "https://github.com/M-Zuber"
+				},
+				{
+					"name": "Geert Jansen",
+					"url": "https://github.com/geertjansen"
+				},
+				{
+					"name": "Niels van Hoorn",
+					"url": "https://github.com/nvh"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "06f1bbb2d17e71eb6a3e0a4699eb1061f20da4d3386b9fb25abc04acf53aa9b1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/tinycolor2@1.4.0",
+			"dist": {
+				"shasum": "77792ebbbe8a1c9b291cb949fafeb7de121c4c6a",
+				"size": 3730,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tinycolor2/download/@types/tinycolor2-1.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/tinycolor2-1.4.0.tgz_1498511341468_0.37960962834768"
+			},
+			"directories": {},
+			"publish_time": 1498511341554,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498511341554
+		},
+		"1.1.1": {
+			"name": "@types/tinycolor2",
+			"version": "1.1.1",
+			"description": "TypeScript definitions for tinycolor",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mordechai Zuber",
+					"url": "https://github.com/M-Zuber"
+				},
+				{
+					"name": "Geert Jansen",
+					"url": "https://github.com/geertjansen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7dfaf46b60e9e476835d802c5f1c50433bb2f28c645bf72ba4ee7ed84cf61b29",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/tinycolor2@1.1.1",
+			"dist": {
+				"shasum": "aa0d6c4df72fdeb4b9e5116512d992b90519c508",
+				"size": 3429,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tinycolor2/download/@types/tinycolor2-1.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tinycolor2-1.1.1.tgz_1492451910235_0.3978745066560805"
+			},
+			"directories": {},
+			"publish_time": 1492451910465,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492451910465
+		},
+		"1.1.0": {
+			"name": "@types/tinycolor2",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for tinycolor v1.1.1",
+			"license": "MIT",
+			"author": "Mordechai Zuber <https://github.com/M-Zuber>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "d7e67eaee031acb8bb02e1553f2dd5a0ef126ce6977390bced010b6e1f222f4c",
+			"_id": "@types/tinycolor2@1.1.0",
+			"dist": {
+				"shasum": "da79edd38c37d995f161a0c70cc24ace7c66945f",
+				"size": 2896,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tinycolor2/download/@types/tinycolor2-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/tinycolor2-1.1.0.tgz_1479419221542_0.5789758029859513"
+			},
+			"publish_time": 1479419223355,
+			"_cnpm_publish_time": 1479419223355,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.4.1",
+		"ts2.0": "1.4.0",
+		"ts2.1": "1.4.1",
+		"ts2.2": "1.4.1",
+		"ts2.3": "1.4.1",
+		"ts2.4": "1.4.1",
+		"ts2.5": "1.4.1",
+		"ts2.6": "1.4.1",
+		"ts2.7": "1.4.1",
+		"ts2.8": "1.4.1",
+		"ts2.9": "1.4.1",
+		"ts3.0": "1.4.1",
+		"ts3.1": "1.4.1",
+		"ts3.2": "1.4.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:29:21.000Z",
+		"created": "2016-11-17T21:47:03.355Z",
+		"1.4.1": "2018-08-01T01:37:16.083Z",
+		"1.4.0": "2017-06-26T21:09:01.554Z",
+		"1.1.1": "2017-04-17T17:58:30.465Z",
+		"1.1.0": "2016-11-17T21:47:03.355Z"
+	},
+	"_distfiles": {
+		"tinycolor2-1.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tinycolor2/download/@types/tinycolor2-1.4.1.tgz",
+			"sha": "2f5670c9d1d6e558897a810ed284b44918fc1253",
+			"registry": "cnpmjs"
+		},
+		"tinycolor2-1.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tinycolor2/download/@types/tinycolor2-1.4.0.tgz",
+			"sha": "77792ebbbe8a1c9b291cb949fafeb7de121c4c6a",
+			"registry": "cnpmjs"
+		},
+		"tinycolor2-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tinycolor2/download/@types/tinycolor2-1.1.1.tgz",
+			"sha": "aa0d6c4df72fdeb4b9e5116512d992b90519c508",
+			"registry": "cnpmjs"
+		},
+		"tinycolor2-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tinycolor2/download/@types/tinycolor2-1.1.0.tgz",
+			"sha": "da79edd38c37d995f161a0c70cc24ace7c66945f",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1847-TB4QDsdeu3hBd0YLu8dnOHARlxs\"",
+			"fetched": 1541833489192
+		}
+	},
+	"_rev": "1-05ed81b0e457c83a",
+	"readme": "# Installation\r\n> `npm install --save @types/tinycolor2`\r\n\r\n# Summary\r\nThis package contains type definitions for tinycolor (https://github.com/bgrins/TinyColor).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/tinycolor2\r\n\r\nAdditional Details\r\n * Last updated: Wed, 01 Aug 2018 01:30:09 GMT\r\n * Dependencies: none\r\n * Global values: tinycolor\r\n\r\n# Credits\r\nThese definitions were written by Mordechai Zuber <https://github.com/M-Zuber>, Geert Jansen <https://github.com/geertjansen>, Niels van Hoorn <https://github.com/nvh>, Junyoung Clare Jang <https://github.com/Ailrun>."
+}

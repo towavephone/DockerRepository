@@ -1,0 +1,1092 @@
+{
+	"name": "@types/uuid",
+	"versions": {
+		"3.4.3": {
+			"name": "@types/uuid",
+			"version": "3.4.3",
+			"description": "TypeScript definitions for uuid",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Oliver Hoffmann",
+					"url": "https://github.com/iamolivinius",
+					"githubUsername": "iamolivinius"
+				},
+				{
+					"name": "Felipe Ochoa",
+					"url": "https://github.com/felipeochoa",
+					"githubUsername": "felipeochoa"
+				},
+				{
+					"name": "Chris Barth",
+					"url": "https://github.com/cjbarth",
+					"githubUsername": "cjbarth"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "289a2946ca1133becf8544daf4c0793edd0865bc330235695880e041e80ff1b0",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uuid@3.4.3",
+			"dist": {
+				"shasum": "121ace265f5569ce40f4f6d0ff78a338c732a754",
+				"size": 2263,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.4.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uuid-3.4.3.tgz_1508257857212_0.4169110970105976"
+			},
+			"directories": {},
+			"publish_time": 1508257857334,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508257857334
+		},
+		"3.4.2": {
+			"name": "@types/uuid",
+			"version": "3.4.2",
+			"description": "TypeScript definitions for uuid",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Oliver Hoffmann",
+					"url": "https://github.com/iamolivinius",
+					"githubUsername": "iamolivinius"
+				},
+				{
+					"name": "Felipe Ochoa",
+					"url": "https://github.com/felipeochoa",
+					"githubUsername": "felipeochoa"
+				},
+				{
+					"name": "Chris Barth",
+					"url": "https://github.com/cjbarth",
+					"githubUsername": "cjbarth"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "ca5a5b187941b1deb6ef9ace4f1fd2fc6f62599d82862d499b8b529fafe7d11d",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uuid@3.4.2",
+			"dist": {
+				"shasum": "b8cde3c32c273d3fc658b96f810e8ff091e1b723",
+				"size": 2252,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.4.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uuid-3.4.2.tgz_1504709748483_0.2562091792933643"
+			},
+			"directories": {},
+			"publish_time": 1504709748596,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504709748596
+		},
+		"3.4.1": {
+			"name": "@types/uuid",
+			"version": "3.4.1",
+			"description": "TypeScript definitions for uuid",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Oliver Hoffmann",
+					"url": "https://github.com/iamolivinius"
+				},
+				{
+					"name": "Felipe Ochoa",
+					"url": "https://github.com/felipeochoa"
+				},
+				{
+					"name": "Chris Barth",
+					"url": "https://github.com/cjbarth"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "1472fb0dfec80bf730e956db9d8f540d3e9f2289737eb7eabad76110a60ed15b",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uuid@3.4.1",
+			"dist": {
+				"shasum": "1b8d5e318ba733f63042b7e58bbf5b8552eaa43f",
+				"size": 2179,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uuid-3.4.1.tgz_1503353156347_0.021730521228164434"
+			},
+			"directories": {},
+			"publish_time": 1503353156476,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503353156476
+		},
+		"3.4.0": {
+			"name": "@types/uuid",
+			"version": "3.4.0",
+			"description": "TypeScript definitions for uuid",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Oliver Hoffmann",
+					"url": "https://github.com/iamolivinius/"
+				},
+				{
+					"name": "Felipe Ochoa",
+					"url": "https://github.com/felipeochoa/"
+				},
+				{
+					"name": "Chris Barth",
+					"url": "https://github.com/cjbarth"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6003007882c8acc88d20dcd2f7de4224121211b3a183f7bdfc25cb037bdc3f54",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uuid@3.4.0",
+			"dist": {
+				"shasum": "91639516fbb892ed3737a2bdc1b030d02b4a09c1",
+				"size": 2186,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uuid-3.4.0.tgz_1500310195975_0.02594043710269034"
+			},
+			"directories": {},
+			"publish_time": 1500310196207,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500310196207
+		},
+		"2.0.30": {
+			"name": "@types/uuid",
+			"version": "2.0.30",
+			"description": "TypeScript definitions for uuid",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Oliver Hoffmann",
+					"url": "https://github.com/iamolivinius/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1ddfbe5d552e1ff7894aa03a43323df6c6b85fc9938d9bcabef89e7c224d4752",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/uuid@2.0.30",
+			"dist": {
+				"shasum": "4dca12da43ae530f89f46d6d203935d2199652d5",
+				"size": 1751,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-2.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uuid-2.0.30.tgz_1496411797192_0.015191133366897702"
+			},
+			"directories": {},
+			"publish_time": 1496411797278,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496411797278
+		},
+		"3.0.0": {
+			"name": "@types/uuid",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for uuid",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Oliver Hoffmann",
+					"url": "https://github.com/iamolivinius/"
+				},
+				{
+					"name": "Felipe Ochoa",
+					"url": "https://github.com/felipeochoa/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ef6c4c27a076aa48aa33e53345e776b09012b59dced69aacc3860c3b304bdeae",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uuid@3.0.0",
+			"dist": {
+				"shasum": "be93b14bcf97f59c079a9e58754960b5efd946c3",
+				"size": 1973,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uuid-3.0.0.tgz_1496411796048_0.7743122505489737"
+			},
+			"directories": {},
+			"publish_time": 1496411796112,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496411796112
+		},
+		"2.0.29": {
+			"name": "@types/uuid",
+			"version": "2.0.29",
+			"description": "TypeScript definitions for uuid v2.0.3",
+			"license": "MIT",
+			"author": "Oliver Hoffmann <https://github.com/iamolivinius/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "cf0029ab9b8fa688f8685324ccd9e6507a1c8abbd0216e5ef2952bdc93d24047",
+			"_id": "@types/uuid@2.0.29",
+			"dist": {
+				"shasum": "939a198ab73567f811ab84f670d2be9c25addd41",
+				"size": 1270,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-2.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uuid-2.0.29.tgz_1475763059655_0.8895135335624218"
+			},
+			"directories": {},
+			"publish_time": 1475763063031,
+			"_cnpm_publish_time": 1475763063031,
+			"_hasShrinkwrap": false
+		},
+		"3.3.28": {
+			"name": "@types/uuid",
+			"version": "3.3.28",
+			"description": "TypeScript definitions for UUID.js v3.3.0",
+			"license": "MIT",
+			"author": "Jason Jarrett <https://github.com/staxmanade/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "792c7866c66ccc9a9728dbc1353bf21379975c57df2c3c0dd40513a0e640066c",
+			"_id": "@types/uuid@3.3.28",
+			"dist": {
+				"shasum": "e0ca8f62e667783180b179ed69068586d6fba5cc",
+				"size": 1513,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.28.tgz_1474309032654_0.2591887016315013"
+			},
+			"directories": {},
+			"publish_time": 1474309035937,
+			"_cnpm_publish_time": 1474309035937,
+			"deprecated": "'@types/uuid' is now reserved for typings for npm's 'uuid' package. For 'uuid.js' typings, see '@types/uuidjs'.",
+			"_hasShrinkwrap": false
+		},
+		"3.3.27": {
+			"name": "@types/uuid",
+			"version": "3.3.27",
+			"description": "TypeScript definitions for UUID.js v3.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jason Jarrett",
+				"email": "https://github.com/staxmanade/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uuid@3.3.27",
+			"_shasum": "e492fccb05724985925dfb38915fb59b48ae1619",
+			"_from": "output\\uuid",
+			"_resolved": "file:output\\uuid",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e492fccb05724985925dfb38915fb59b48ae1619",
+				"size": 1502,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.27.tgz_1468513183288_0.7114685259293765"
+			},
+			"directories": {},
+			"publish_time": 1468513186863,
+			"_cnpm_publish_time": 1468513186863,
+			"deprecated": "'@types/uuid' is now reserved for typings for npm's 'uuid' package. For 'uuid.js' typings, see '@types/uuidjs'.",
+			"_hasShrinkwrap": false
+		},
+		"3.3.26-alpha": {
+			"name": "@types/uuid",
+			"version": "3.3.26-alpha",
+			"description": "TypeScript definitions for UUID.js v3.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jason Jarrett",
+				"email": "https://github.com/staxmanade/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uuid@3.3.26-alpha",
+			"_shasum": "ebcad1dc623c66636351ff95ce478b9886253b17",
+			"_from": "output\\uuid",
+			"_resolved": "file:output\\uuid",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ebcad1dc623c66636351ff95ce478b9886253b17",
+				"size": 1510,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.26-alpha.tgz_1468014198185_0.8628428939264268"
+			},
+			"directories": {},
+			"publish_time": 1468014199620,
+			"_cnpm_publish_time": 1468014199620,
+			"_hasShrinkwrap": false
+		},
+		"3.3.25-alpha": {
+			"name": "@types/uuid",
+			"version": "3.3.25-alpha",
+			"description": "TypeScript definitions for UUID.js v3.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jason Jarrett",
+				"email": "https://github.com/staxmanade/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uuid@3.3.25-alpha",
+			"_shasum": "cc701e2b7527146c1e1793b2498c25cfae482439",
+			"_from": "output\\uuid",
+			"_resolved": "file:output\\uuid",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cc701e2b7527146c1e1793b2498c25cfae482439",
+				"size": 1510,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.25-alpha.tgz_1467595917793_0.7893194383941591"
+			},
+			"directories": {},
+			"publish_time": 1467595921151,
+			"_cnpm_publish_time": 1467595921151,
+			"_hasShrinkwrap": false
+		},
+		"3.3.24-alpha": {
+			"name": "@types/uuid",
+			"version": "3.3.24-alpha",
+			"description": "TypeScript definitions for UUID.js v3.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jason Jarrett",
+				"email": "https://github.com/staxmanade/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uuid@3.3.24-alpha",
+			"_shasum": "8f0655124e04528517ed3ce933f19e3ba4383ad0",
+			"_from": "output\\uuid",
+			"_resolved": "file:output\\uuid",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8f0655124e04528517ed3ce933f19e3ba4383ad0",
+				"size": 1510,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.24-alpha.tgz_1467430562725_0.1872373204678297"
+			},
+			"directories": {},
+			"publish_time": 1467430566283,
+			"_cnpm_publish_time": 1467430566283,
+			"_hasShrinkwrap": false
+		},
+		"3.3.23-alpha": {
+			"name": "@types/uuid",
+			"version": "3.3.23-alpha",
+			"description": "TypeScript definitions for UUID.js v3.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jason Jarrett",
+				"email": "https://github.com/staxmanade/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uuid@3.3.23-alpha",
+			"_shasum": "b1bb9415f304a9349300f3eee6619617771cdf09",
+			"_from": "output\\uuid",
+			"_resolved": "file:output\\uuid",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b1bb9415f304a9349300f3eee6619617771cdf09",
+				"size": 1510,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.23-alpha.tgz_1467418477345_0.21956653171218932"
+			},
+			"directories": {},
+			"publish_time": 1467418477827,
+			"_cnpm_publish_time": 1467418477827,
+			"_hasShrinkwrap": false
+		},
+		"3.3.22-alpha": {
+			"name": "@types/uuid",
+			"version": "3.3.22-alpha",
+			"description": "TypeScript definitions for UUID.js v3.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jason Jarrett",
+				"email": "https://github.com/staxmanade/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uuid@3.3.22-alpha",
+			"_shasum": "27f75dea37e774d86209104d933e7d4666420608",
+			"_from": "output\\uuid",
+			"_resolved": "file:output\\uuid",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "27f75dea37e774d86209104d933e7d4666420608",
+				"size": 1492,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.22-alpha.tgz_1467406123161_0.8851059577427804"
+			},
+			"directories": {},
+			"publish_time": 1467406123847,
+			"_cnpm_publish_time": 1467406123847,
+			"_hasShrinkwrap": false
+		},
+		"3.3.21-alpha": {
+			"name": "@types/uuid",
+			"version": "3.3.21-alpha",
+			"description": "TypeScript definitions for UUID.js v3.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jason Jarrett",
+				"email": "https://github.com/staxmanade/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uuid@3.3.21-alpha",
+			"_shasum": "ca241e9ad4f25c788446dc4556a1eff029241fd9",
+			"_from": "output\\uuid",
+			"_resolved": "file:output\\uuid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ca241e9ad4f25c788446dc4556a1eff029241fd9",
+				"size": 1482,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.21-alpha.tgz_1464156468228_0.817588557023555"
+			},
+			"directories": {},
+			"publish_time": 1464156468734,
+			"_cnpm_publish_time": 1464156468734,
+			"_hasShrinkwrap": false
+		},
+		"3.3.20-alpha": {
+			"name": "@types/uuid",
+			"version": "3.3.20-alpha",
+			"description": "TypeScript definitions for UUID.js v3.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jason Jarrett",
+				"email": "https://github.com/staxmanade/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uuid@3.3.20-alpha",
+			"_shasum": "e37e352da9ac84f1d29f90f5bb54e05b9d9f6c9c",
+			"_from": "output\\uuid",
+			"_resolved": "file:output\\uuid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e37e352da9ac84f1d29f90f5bb54e05b9d9f6c9c",
+				"size": 1480,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.20-alpha.tgz_1463777561091_0.7963741649873555"
+			},
+			"directories": {},
+			"publish_time": 1463777561490,
+			"_cnpm_publish_time": 1463777561490,
+			"_hasShrinkwrap": false
+		},
+		"3.3.15-alpha": {
+			"name": "@types/uuid",
+			"version": "3.3.15-alpha",
+			"description": "Type definitions for UUID.js v3.3.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jason Jarrett",
+				"email": "https://github.com/staxmanade/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uuid@3.3.15-alpha",
+			"_shasum": "b71da5f3825ca4cbe35be27377be5c78ca87f258",
+			"_from": "output\\uuid",
+			"_resolved": "file:output\\uuid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b71da5f3825ca4cbe35be27377be5c78ca87f258",
+				"size": 1487,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.15-alpha.tgz_1463697565077_0.7897052906919271"
+			},
+			"directories": {},
+			"publish_time": 1463697565738,
+			"_cnpm_publish_time": 1463697565738,
+			"_hasShrinkwrap": false
+		},
+		"3.3.14-alpha": {
+			"name": "@types/uuid",
+			"version": "3.3.14-alpha",
+			"description": "Type definitions for UUID.js v3.3.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jason Jarrett",
+				"email": "https://github.com/staxmanade/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uuid@3.3.14-alpha",
+			"_shasum": "dcda5633e1b054eeb9944d2a46cabf508a91fe25",
+			"_from": "output\\uuid",
+			"_resolved": "file:output\\uuid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dcda5633e1b054eeb9944d2a46cabf508a91fe25",
+				"size": 1479,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uuid-3.3.14-alpha.tgz_1463512255338_0.04536979319527745"
+			},
+			"directories": {},
+			"publish_time": 1463512259850,
+			"_cnpm_publish_time": 1463512259850,
+			"_hasShrinkwrap": false
+		},
+		"3.4.4": {
+			"name": "@types/uuid",
+			"version": "3.4.4",
+			"description": "TypeScript definitions for uuid",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Oliver Hoffmann",
+					"url": "https://github.com/iamolivinius",
+					"githubUsername": "iamolivinius"
+				},
+				{
+					"name": "Felipe Ochoa",
+					"url": "https://github.com/felipeochoa",
+					"githubUsername": "felipeochoa"
+				},
+				{
+					"name": "Chris Barth",
+					"url": "https://github.com/cjbarth",
+					"githubUsername": "cjbarth"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "ca5a5b187941b1deb6ef9ace4f1fd2fc6f62599d82862d499b8b529fafe7d11d",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/uuid@3.4.4",
+			"dist": {
+				"shasum": "7af69360fa65ef0decb41fd150bf4ca5c0cefdf5",
+				"size": 2254,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.4.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uuid_3.4.4_1535588065290_0.8565854621907198"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535588065422,
+			"_cnpm_publish_time": 1535588065422
+		}
+	},
+	"dist-tags": {
+		"latest": "3.4.4",
+		"ts2.0": "2.0.29",
+		"ts2.1": "2.0.29",
+		"ts2.2": "3.4.4",
+		"ts2.3": "3.4.4",
+		"ts2.4": "3.4.4",
+		"ts2.5": "3.4.4",
+		"ts2.6": "3.4.4",
+		"ts2.7": "3.4.4",
+		"ts2.8": "3.4.4",
+		"ts2.9": "3.4.4",
+		"ts3.0": "3.4.4",
+		"ts3.1": "3.4.4",
+		"ts3.2": "3.4.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:31:31.000Z",
+		"created": "2016-05-17T19:10:59.850Z",
+		"3.4.4": "2018-08-30T00:14:25.422Z",
+		"3.4.3": "2017-10-17T16:30:57.334Z",
+		"3.4.2": "2017-09-06T14:55:48.596Z",
+		"3.4.1": "2017-08-21T22:05:56.476Z",
+		"3.4.0": "2017-07-17T16:49:56.207Z",
+		"2.0.30": "2017-06-02T13:56:37.278Z",
+		"3.0.0": "2017-06-02T13:56:36.112Z",
+		"2.0.29": "2016-10-06T14:11:03.031Z",
+		"3.3.28": "2016-09-19T18:17:15.937Z",
+		"3.3.27": "2016-07-14T16:19:46.863Z",
+		"3.3.26-alpha": "2016-07-08T21:43:19.620Z",
+		"3.3.25-alpha": "2016-07-04T01:32:01.151Z",
+		"3.3.24-alpha": "2016-07-02T03:36:06.283Z",
+		"3.3.23-alpha": "2016-07-02T00:14:37.827Z",
+		"3.3.22-alpha": "2016-07-01T20:48:43.847Z",
+		"3.3.21-alpha": "2016-05-25T06:07:48.734Z",
+		"3.3.20-alpha": "2016-05-20T20:52:41.490Z",
+		"3.3.15-alpha": "2016-05-19T22:39:25.738Z",
+		"3.3.14-alpha": "2016-05-17T19:10:59.850Z"
+	},
+	"_distfiles": {
+		"uuid-3.4.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.4.3.tgz",
+			"sha": "121ace265f5569ce40f4f6d0ff78a338c732a754",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.4.2.tgz",
+			"sha": "b8cde3c32c273d3fc658b96f810e8ff091e1b723",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.4.1.tgz",
+			"sha": "1b8d5e318ba733f63042b7e58bbf5b8552eaa43f",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.4.0.tgz",
+			"sha": "91639516fbb892ed3737a2bdc1b030d02b4a09c1",
+			"registry": "cnpmjs"
+		},
+		"uuid-2.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-2.0.30.tgz",
+			"sha": "4dca12da43ae530f89f46d6d203935d2199652d5",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.0.0.tgz",
+			"sha": "be93b14bcf97f59c079a9e58754960b5efd946c3",
+			"registry": "cnpmjs"
+		},
+		"uuid-2.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-2.0.29.tgz",
+			"sha": "939a198ab73567f811ab84f670d2be9c25addd41",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.28.tgz",
+			"sha": "e0ca8f62e667783180b179ed69068586d6fba5cc",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.27.tgz",
+			"sha": "e492fccb05724985925dfb38915fb59b48ae1619",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.26-alpha.tgz",
+			"sha": "ebcad1dc623c66636351ff95ce478b9886253b17",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.25-alpha.tgz",
+			"sha": "cc701e2b7527146c1e1793b2498c25cfae482439",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.24-alpha.tgz",
+			"sha": "8f0655124e04528517ed3ce933f19e3ba4383ad0",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.23-alpha.tgz",
+			"sha": "b1bb9415f304a9349300f3eee6619617771cdf09",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.22-alpha.tgz",
+			"sha": "27f75dea37e774d86209104d933e7d4666420608",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.21-alpha.tgz",
+			"sha": "ca241e9ad4f25c788446dc4556a1eff029241fd9",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.20-alpha.tgz",
+			"sha": "e37e352da9ac84f1d29f90f5bb54e05b9d9f6c9c",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.15-alpha.tgz",
+			"sha": "b71da5f3825ca4cbe35be27377be5c78ca87f258",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.3.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.3.14-alpha.tgz",
+			"sha": "dcda5633e1b054eeb9944d2a46cabf508a91fe25",
+			"registry": "cnpmjs"
+		},
+		"uuid-3.4.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uuid/download/@types/uuid-3.4.4.tgz",
+			"sha": "7af69360fa65ef0decb41fd150bf4ca5c0cefdf5",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833489713
+		}
+	},
+	"_rev": "2-d85825ad2c201f70",
+	"readme": "# Installation\r\n> `npm install --save @types/uuid`\r\n\r\n# Summary\r\nThis package contains type definitions for uuid (https://github.com/kelektiv/node-uuid).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/uuid\r\n\r\nAdditional Details\r\n * Last updated: Thu, 30 Aug 2018 00:13:56 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Oliver Hoffmann <https://github.com/iamolivinius>, Felipe Ochoa <https://github.com/felipeochoa>, Chris Barth <https://github.com/cjbarth>."
+}

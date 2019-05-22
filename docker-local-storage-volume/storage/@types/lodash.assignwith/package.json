@@ -1,0 +1,325 @@
+{
+	"name": "@types/lodash.assignwith",
+	"versions": {
+		"4.2.3": {
+			"name": "@types/lodash.assignwith",
+			"version": "4.2.3",
+			"description": "TypeScript definitions for lodash.assignWith",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "459ef385878b5df95193952a37856302d8f927204596b92807d9a0d98a84d113",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.assignwith@4.2.3",
+			"dist": {
+				"shasum": "ed0ccdf35ad44c32751511b1582a99899edee303",
+				"size": 1595,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.assignwith/download/@types/lodash.assignwith-4.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.assignwith-4.2.3.tgz_1502228841323_0.3154892669990659"
+			},
+			"directories": {},
+			"publish_time": 1502228841385,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228841385
+		},
+		"4.2.2": {
+			"name": "@types/lodash.assignwith",
+			"version": "4.2.2",
+			"description": "TypeScript definitions for lodash.assignWith",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b1eb2c811b3bb2d2eec8f3aa3b4c7b147a310761074a55b8b80a0088f0e6ffc8",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.assignwith@4.2.2",
+			"dist": {
+				"shasum": "e368906c5f5ea0e77fe7e9511d2819741f569607",
+				"size": 874,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.assignwith/download/@types/lodash.assignwith-4.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.assignwith-4.2.2.tgz_1490212464649_0.3072234916035086"
+			},
+			"directories": {},
+			"publish_time": 1490212464879,
+			"_cnpm_publish_time": 1490212464879,
+			"_hasShrinkwrap": false
+		},
+		"4.2.1": {
+			"name": "@types/lodash.assignwith",
+			"version": "4.2.1",
+			"description": "TypeScript definitions for lodash.assignWith",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "527dd8038664ff9b8b771ad4565fbf5ea3143431d7223a3555ef479fcd0be0e4",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.assignwith@4.2.1",
+			"dist": {
+				"shasum": "ece22f0e600ce2b68dde7320980f52fafe5ffdb8",
+				"size": 1059,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.assignwith/download/@types/lodash.assignwith-4.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.assignwith-4.2.1.tgz_1485553466894_0.9997147580143064"
+			},
+			"directories": {},
+			"publish_time": 1485553467120,
+			"_cnpm_publish_time": 1485553467120,
+			"_hasShrinkwrap": false
+		},
+		"4.2.0": {
+			"name": "@types/lodash.assignwith",
+			"version": "4.2.0",
+			"description": "TypeScript definitions for lodash.assignWith",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "73beb6d69a3b482c47fd03871f20384781bedbe363bb00e302cb9443901ac6cb",
+			"_id": "@types/lodash.assignwith@4.2.0",
+			"dist": {
+				"shasum": "fe7d1e7d50487ee0efa316807ede44d40f627803",
+				"size": 1025,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.assignwith/download/@types/lodash.assignwith-4.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.assignwith-4.2.0.tgz_1480973325091_0.8847104359883815"
+			},
+			"directories": {},
+			"publish_time": 1480973326840,
+			"_cnpm_publish_time": 1480973326840,
+			"_hasShrinkwrap": false
+		},
+		"4.2.4": {
+			"name": "@types/lodash.assignwith",
+			"version": "4.2.4",
+			"description": "TypeScript definitions for lodash.assignWith",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "8a0783d84308e399d1fbdd8a8fd4419aaafc8b2afe464ba3df6fe8359d36c72c",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.assignwith@4.2.4",
+			"dist": {
+				"shasum": "c93b6da3b7a81476702880ebc61dbf7143f09a6e",
+				"size": 1597,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.assignwith/download/@types/lodash.assignwith-4.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.assignwith_4.2.4_1532392668195_0.29598520635757897"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532392668260,
+			"_cnpm_publish_time": 1532392668260
+		}
+	},
+	"dist-tags": {
+		"latest": "4.2.4",
+		"ts2.0": "4.2.0",
+		"ts2.1": "4.2.1",
+		"ts2.2": "4.2.3",
+		"ts2.3": "4.2.3",
+		"ts2.4": "4.2.3",
+		"ts2.5": "4.2.3",
+		"ts2.6": "4.2.4",
+		"ts2.7": "4.2.4",
+		"ts2.8": "4.2.4",
+		"ts2.9": "4.2.4",
+		"ts3.0": "4.2.4",
+		"ts3.1": "4.2.4",
+		"ts3.2": "4.2.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:15:56.000Z",
+		"created": "2016-12-05T21:28:46.840Z",
+		"4.2.4": "2018-07-24T00:37:48.260Z",
+		"4.2.3": "2017-08-08T21:47:21.385Z",
+		"4.2.2": "2017-03-22T19:54:24.879Z",
+		"4.2.1": "2017-01-27T21:44:27.120Z",
+		"4.2.0": "2016-12-05T21:28:46.840Z"
+	},
+	"_distfiles": {
+		"lodash.assignwith-4.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.assignwith/download/@types/lodash.assignwith-4.2.3.tgz",
+			"sha": "ed0ccdf35ad44c32751511b1582a99899edee303",
+			"registry": "cnpmjs"
+		},
+		"lodash.assignwith-4.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.assignwith/download/@types/lodash.assignwith-4.2.2.tgz",
+			"sha": "e368906c5f5ea0e77fe7e9511d2819741f569607",
+			"registry": "cnpmjs"
+		},
+		"lodash.assignwith-4.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.assignwith/download/@types/lodash.assignwith-4.2.1.tgz",
+			"sha": "ece22f0e600ce2b68dde7320980f52fafe5ffdb8",
+			"registry": "cnpmjs"
+		},
+		"lodash.assignwith-4.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.assignwith/download/@types/lodash.assignwith-4.2.0.tgz",
+			"sha": "fe7d1e7d50487ee0efa316807ede44d40f627803",
+			"registry": "cnpmjs"
+		},
+		"lodash.assignwith-4.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.assignwith/download/@types/lodash.assignwith-4.2.4.tgz",
+			"sha": "c93b6da3b7a81476702880ebc61dbf7143f09a6e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833484375
+		}
+	},
+	"_rev": "2-119c29de8e1a88e5",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.assignwith`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.assignWith (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.assignwith\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

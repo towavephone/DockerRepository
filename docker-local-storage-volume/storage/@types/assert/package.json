@@ -1,0 +1,756 @@
+{
+	"name": "@types/assert",
+	"versions": {
+		"1.4.0": {
+			"name": "@types/assert",
+			"version": "1.4.0",
+			"description": "TypeScript definitions for commonjs-assert",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Nico Gallinal",
+					"url": "https://github.com/nicoabie",
+					"githubUsername": "nicoabie"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b053597ad5371042f6ba084eff253fc3016501a13accfd87a449ed9e7f4b816e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/assert@1.4.0",
+			"dist": {
+				"shasum": "95a469cbb1bb94b21e9deb5fd1939859c613a87f",
+				"size": 1779,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-1.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/assert_1.4.0_1538528090347_0.699404802622932"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538528090464,
+			"_cnpm_publish_time": 1538528090464
+		},
+		"0.0.31": {
+			"name": "@types/assert",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for assert and power-assert",
+			"license": "MIT",
+			"author": "vvakame <https://github.com/vvakame>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "759710078193010b99dc99e7ba8a100e251198a9098988d5579808a57a8fc7c5",
+			"_id": "@types/assert@0.0.31",
+			"dist": {
+				"shasum": "d1f70595a72d02555b7ecd28eb4c68f1b6918d6d",
+				"size": 1527,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.31.tgz_1479848402083_0.46320465626195073"
+			},
+			"directories": {},
+			"publish_time": 1479848403786,
+			"_cnpm_publish_time": 1479848403786,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/assert",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for assert and power-assert",
+			"license": "MIT",
+			"author": "vvakame <https://github.com/vvakame>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "c5c85a46d10cdde299f2481fe1c7ee922d4b4ac0864fff23522ce6b3e4bda08e",
+			"_id": "@types/assert@0.0.30",
+			"dist": {
+				"shasum": "76f5cf62bad6397af790877a0a7d5fd276b2aa2f",
+				"size": 1330,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.30.tgz_1479753975009_0.9984545563347638"
+			},
+			"directories": {},
+			"publish_time": 1479753976764,
+			"_cnpm_publish_time": 1479753976764,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/assert",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for assert and power-assert",
+			"license": "MIT",
+			"author": "vvakame <https://github.com/vvakame>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "9271b4d7e9b105c59d475f4bfcb00ffbfe0530ae5d47a0aac54be3468346aa9c",
+			"_id": "@types/assert@0.0.29",
+			"dist": {
+				"shasum": "8e562785baa5abda7c04a49f6665eae7431928d3",
+				"size": 1312,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.29.tgz_1474301911273_0.4317959938198328"
+			},
+			"directories": {},
+			"publish_time": 1474301912967,
+			"_cnpm_publish_time": 1474301912967,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/assert",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for assert and power-assert",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/assert@0.0.28",
+			"_shasum": "1fe1a5a1fb76cbe16898c0cabfee0b4f5ca01f20",
+			"_from": "output\\assert",
+			"_resolved": "file:output\\assert",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1fe1a5a1fb76cbe16898c0cabfee0b4f5ca01f20",
+				"size": 1294,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.28.tgz_1468505052782_0.7664250421803445"
+			},
+			"directories": {},
+			"publish_time": 1468505053347,
+			"_cnpm_publish_time": 1468505053347,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/assert",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for assert and power-assert",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/assert@0.0.27-alpha",
+			"_shasum": "079809c6a68210eef5050a7e6e055f629f46284c",
+			"_from": "output\\assert",
+			"_resolved": "file:output\\assert",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "079809c6a68210eef5050a7e6e055f629f46284c",
+				"size": 1299,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.27-alpha.tgz_1468006497374_0.053399897180497646"
+			},
+			"directories": {},
+			"publish_time": 1468006499753,
+			"_cnpm_publish_time": 1468006499753,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/assert",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for assert and power-assert",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/assert@0.0.26-alpha",
+			"_shasum": "ba24d9fd1a170b1483f4fffde3eb8c925b60131d",
+			"_from": "output\\assert",
+			"_resolved": "file:output\\assert",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ba24d9fd1a170b1483f4fffde3eb8c925b60131d",
+				"size": 1299,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.26-alpha.tgz_1467589653132_0.18244260409846902"
+			},
+			"directories": {},
+			"publish_time": 1467589653659,
+			"_cnpm_publish_time": 1467589653659,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/assert",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for assert and power-assert",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/assert@0.0.25-alpha",
+			"_shasum": "e724b4b939084bc197fa63bfe09c09fb5b43eea9",
+			"_from": "output\\assert",
+			"_resolved": "file:output\\assert",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e724b4b939084bc197fa63bfe09c09fb5b43eea9",
+				"size": 1300,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.25-alpha.tgz_1467424767684_0.8494711313396692"
+			},
+			"directories": {},
+			"publish_time": 1467424768283,
+			"_cnpm_publish_time": 1467424768283,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/assert",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for assert and power-assert",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/assert@0.0.24-alpha",
+			"_shasum": "292303c371bcf4871874ac7481f1b0eb6fb6c213",
+			"_from": "output\\assert",
+			"_resolved": "file:output\\assert",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "292303c371bcf4871874ac7481f1b0eb6fb6c213",
+				"size": 1299,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.24-alpha.tgz_1467411675315_0.40260912338271737"
+			},
+			"directories": {},
+			"publish_time": 1467411677901,
+			"_cnpm_publish_time": 1467411677901,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/assert",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for assert and power-assert",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/assert@0.0.23-alpha",
+			"_shasum": "e48b4adb16c2e3301e5fa86e83aab043f3d9e80f",
+			"_from": "output\\assert",
+			"_resolved": "file:output\\assert",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e48b4adb16c2e3301e5fa86e83aab043f3d9e80f",
+				"size": 1288,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.23-alpha.tgz_1467399601523_0.7550723499152809"
+			},
+			"directories": {},
+			"publish_time": 1467399605287,
+			"_cnpm_publish_time": 1467399605287,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/assert",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for assert and power-assert",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/assert@0.0.22-alpha",
+			"_shasum": "0a19300ba0eb7888ca94105ed97e770e4e73a945",
+			"_from": "output\\assert",
+			"_resolved": "file:output\\assert",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0a19300ba0eb7888ca94105ed97e770e4e73a945",
+				"size": 1268,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.22-alpha.tgz_1464150538738_0.917027558432892"
+			},
+			"directories": {},
+			"publish_time": 1464150539234,
+			"_cnpm_publish_time": 1464150539234,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/assert",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for assert and power-assert",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/assert@0.0.21-alpha",
+			"_shasum": "1c55844cb9189f346f549abd9e1fd83d8112bb46",
+			"_from": "output\\assert",
+			"_resolved": "file:output\\assert",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1c55844cb9189f346f549abd9e1fd83d8112bb46",
+				"size": 1265,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.21-alpha.tgz_1463771407872_0.7858136268332601"
+			},
+			"directories": {},
+			"publish_time": 1463771409849,
+			"_cnpm_publish_time": 1463771409849,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/assert",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for assert and power-assert from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/assert@0.0.16-alpha",
+			"_shasum": "bf3004f0bda97bdd7b2be36d12aacd62b062dab3",
+			"_from": "output\\assert",
+			"_resolved": "file:output\\assert",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bf3004f0bda97bdd7b2be36d12aacd62b062dab3",
+				"size": 1278,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.16-alpha.tgz_1463688974626_0.011334699112921953"
+			},
+			"directories": {},
+			"publish_time": 1463688975274,
+			"_cnpm_publish_time": 1463688975274,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/assert",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for assert and power-assert from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/assert@0.0.15-alpha",
+			"_shasum": "4db9dd42fd484371a4a0b87668d09e2b72de52f1",
+			"_from": "output\\assert",
+			"_resolved": "file:output\\assert",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4db9dd42fd484371a4a0b87668d09e2b72de52f1",
+				"size": 1272,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/assert-0.0.15-alpha.tgz_1463459241963_0.9898173804394901"
+			},
+			"directories": {},
+			"publish_time": 1463459242494,
+			"_cnpm_publish_time": 1463459242494,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.4.0",
+		"ts2.0": "1.4.0",
+		"ts2.1": "1.4.0",
+		"ts2.2": "1.4.0",
+		"ts2.3": "1.4.0",
+		"ts2.4": "1.4.0",
+		"ts2.5": "1.4.0",
+		"ts2.6": "1.4.0",
+		"ts2.7": "1.4.0",
+		"ts2.8": "1.4.0",
+		"ts2.9": "1.4.0",
+		"ts3.0": "1.4.0",
+		"ts3.1": "1.4.0",
+		"ts3.2": "1.4.0"
+	},
+	"time": {
+		"modified": "2018-10-03T00:55:06.000Z",
+		"created": "2016-05-17T04:27:22.494Z",
+		"1.4.0": "2018-10-03T00:54:50.464Z",
+		"0.0.31": "2016-11-22T21:00:03.786Z",
+		"0.0.30": "2016-11-21T18:46:16.764Z",
+		"0.0.29": "2016-09-19T16:18:32.967Z",
+		"0.0.28": "2016-07-14T14:04:13.347Z",
+		"0.0.27-alpha": "2016-07-08T19:34:59.753Z",
+		"0.0.26-alpha": "2016-07-03T23:47:33.659Z",
+		"0.0.25-alpha": "2016-07-02T01:59:28.283Z",
+		"0.0.24-alpha": "2016-07-01T22:21:17.901Z",
+		"0.0.23-alpha": "2016-07-01T19:00:05.287Z",
+		"0.0.22-alpha": "2016-05-25T04:28:59.234Z",
+		"0.0.21-alpha": "2016-05-20T19:10:09.849Z",
+		"0.0.16-alpha": "2016-05-19T20:16:15.274Z",
+		"0.0.15-alpha": "2016-05-17T04:27:22.494Z"
+	},
+	"_distfiles": {
+		"assert-1.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-1.4.0.tgz",
+			"sha": "95a469cbb1bb94b21e9deb5fd1939859c613a87f",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.31.tgz",
+			"sha": "d1f70595a72d02555b7ecd28eb4c68f1b6918d6d",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.30.tgz",
+			"sha": "76f5cf62bad6397af790877a0a7d5fd276b2aa2f",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.29.tgz",
+			"sha": "8e562785baa5abda7c04a49f6665eae7431928d3",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.28.tgz",
+			"sha": "1fe1a5a1fb76cbe16898c0cabfee0b4f5ca01f20",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.27-alpha.tgz",
+			"sha": "079809c6a68210eef5050a7e6e055f629f46284c",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.26-alpha.tgz",
+			"sha": "ba24d9fd1a170b1483f4fffde3eb8c925b60131d",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.25-alpha.tgz",
+			"sha": "e724b4b939084bc197fa63bfe09c09fb5b43eea9",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.24-alpha.tgz",
+			"sha": "292303c371bcf4871874ac7481f1b0eb6fb6c213",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.23-alpha.tgz",
+			"sha": "e48b4adb16c2e3301e5fa86e83aab043f3d9e80f",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.22-alpha.tgz",
+			"sha": "0a19300ba0eb7888ca94105ed97e770e4e73a945",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.21-alpha.tgz",
+			"sha": "1c55844cb9189f346f549abd9e1fd83d8112bb46",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.16-alpha.tgz",
+			"sha": "bf3004f0bda97bdd7b2be36d12aacd62b062dab3",
+			"registry": "cnpmjs"
+		},
+		"assert-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.15-alpha.tgz",
+			"sha": "4db9dd42fd484371a4a0b87668d09e2b72de52f1",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"4289-1f4Gq0Iyj6NpKQr7uxhhgWlPnMs\"",
+			"fetched": 1541833444908
+		}
+	},
+	"_rev": "1-f45a58d726f7700c",
+	"readme": "# Installation\r\n> `npm install --save @types/assert`\r\n\r\n# Summary\r\nThis package contains type definitions for commonjs-assert (https://github.com/browserify/commonjs-assert).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/assert\r\n\r\nAdditional Details\r\n * Last updated: Wed, 03 Oct 2018 00:53:25 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Nico Gallinal <https://github.com/nicoabie>."
+}

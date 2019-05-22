@@ -1,0 +1,88 @@
+{
+	"name": "@types/is-glob",
+	"versions": {
+		"4.0.0": {
+			"name": "@types/is-glob",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for is-glob",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "mrmlnc",
+					"url": "https://github.com/mrmlnc",
+					"githubUsername": "mrmlnc"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e68be8a730b4cd56dbb9c8fbd76b065d9ebee033995566f867161acaa53c8238",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/is-glob@4.0.0",
+			"dist": {
+				"shasum": "fb8a2bff539025d4dcd6d5efe7689e03341b876d",
+				"size": 1685,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-glob/download/@types/is-glob-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/is-glob-4.0.0.tgz_1510477299404_0.54457100154832"
+			},
+			"directories": {},
+			"publish_time": 1510477299471,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510477299471
+		}
+	},
+	"dist-tags": {
+		"latest": "4.0.0",
+		"ts2.0": "4.0.0",
+		"ts2.1": "4.0.0",
+		"ts2.2": "4.0.0",
+		"ts2.3": "4.0.0",
+		"ts2.4": "4.0.0",
+		"ts2.5": "4.0.0",
+		"ts2.6": "4.0.0",
+		"ts2.7": "4.0.0",
+		"ts2.8": "4.0.0",
+		"ts2.9": "4.0.0",
+		"ts3.0": "4.0.0",
+		"ts3.1": "4.0.0",
+		"ts3.2": "4.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:01.000Z",
+		"created": "2017-11-12T09:01:39.471Z",
+		"4.0.0": "2017-11-12T09:01:39.471Z"
+	},
+	"_distfiles": {
+		"is-glob-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-glob/download/@types/is-glob-4.0.0.tgz",
+			"sha": "fb8a2bff539025d4dcd6d5efe7689e03341b876d",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833457122
+		}
+	},
+	"_rev": "2-69753df058a220b4",
+	"readme": "# Installation\r\n> `npm install --save @types/is-glob`\r\n\r\n# Summary\r\nThis package contains type definitions for is-glob (https://github.com/jonschlinkert/is-glob).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/is-glob\r\n\r\nAdditional Details\r\n * Last updated: Sun, 12 Nov 2017 09:00:45 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by mrmlnc <https://github.com/mrmlnc>."
+}

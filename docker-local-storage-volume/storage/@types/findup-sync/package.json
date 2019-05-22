@@ -1,0 +1,628 @@
+{
+	"name": "@types/findup-sync",
+	"versions": {
+		"0.3.29": {
+			"name": "@types/findup-sync",
+			"version": "0.3.29",
+			"description": "TypeScript definitions for findup-sync v0.3.0",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>, Nathan Brown <https://github.com/ngbrown>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/minimatch": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "ff12354a84a235f455a655782c37718dd53bd806c2851305db813fcae9fa39c6",
+			"_id": "@types/findup-sync@0.3.29",
+			"dist": {
+				"shasum": "ec0c80597e5ed157282207e762ca7254cad57632",
+				"size": 1110,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.29.tgz_1474306333274_0.6098069993313402"
+			},
+			"directories": {},
+			"publish_time": 1474306336406,
+			"_cnpm_publish_time": 1474306336406,
+			"_hasShrinkwrap": false
+		},
+		"0.3.28": {
+			"name": "@types/findup-sync",
+			"version": "0.3.28",
+			"description": "TypeScript definitions for findup-sync v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/minimatch": "2.0.*"
+			},
+			"_id": "@types/findup-sync@0.3.28",
+			"_shasum": "20f4159096cd39d60bc6e81fcf6300a81e8992b3",
+			"_from": "output\\findup-sync",
+			"_resolved": "file:output\\findup-sync",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "20f4159096cd39d60bc6e81fcf6300a81e8992b3",
+				"size": 1091,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.28.tgz_1468507008760_0.26633772859349847"
+			},
+			"directories": {},
+			"publish_time": 1468507010763,
+			"_cnpm_publish_time": 1468507010763,
+			"_hasShrinkwrap": false
+		},
+		"0.3.27-alpha": {
+			"name": "@types/findup-sync",
+			"version": "0.3.27-alpha",
+			"description": "TypeScript definitions for findup-sync v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/minimatch": "2.0.27-alpha"
+			},
+			"_id": "@types/findup-sync@0.3.27-alpha",
+			"_shasum": "b10f58b0247f6dd16541adcc8bfc1d33d28dabc6",
+			"_from": "output\\findup-sync",
+			"_resolved": "file:output\\findup-sync",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b10f58b0247f6dd16541adcc8bfc1d33d28dabc6",
+				"size": 1098,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.27-alpha.tgz_1468008140836_0.3652112858835608"
+			},
+			"directories": {},
+			"publish_time": 1468008142231,
+			"_cnpm_publish_time": 1468008142231,
+			"_hasShrinkwrap": false
+		},
+		"0.3.26-alpha": {
+			"name": "@types/findup-sync",
+			"version": "0.3.26-alpha",
+			"description": "TypeScript definitions for findup-sync v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/minimatch": "2.0.26-alpha"
+			},
+			"_id": "@types/findup-sync@0.3.26-alpha",
+			"_shasum": "37260775738817ed3b757650b7cedb420e879bde",
+			"_from": "output\\findup-sync",
+			"_resolved": "file:output\\findup-sync",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "37260775738817ed3b757650b7cedb420e879bde",
+				"size": 1097,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.26-alpha.tgz_1467591046043_0.7379408318083733"
+			},
+			"directories": {},
+			"publish_time": 1467591049703,
+			"_cnpm_publish_time": 1467591049703,
+			"_hasShrinkwrap": false
+		},
+		"0.3.25-alpha": {
+			"name": "@types/findup-sync",
+			"version": "0.3.25-alpha",
+			"description": "TypeScript definitions for findup-sync v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/minimatch": "2.0.24-alpha"
+			},
+			"_id": "@types/findup-sync@0.3.25-alpha",
+			"_shasum": "56ce97b7d03a874c3e806f034c7e94209df2e7a3",
+			"_from": "output\\findup-sync",
+			"_resolved": "file:output\\findup-sync",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "56ce97b7d03a874c3e806f034c7e94209df2e7a3",
+				"size": 1100,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.25-alpha.tgz_1467426066538_0.15592691535130143"
+			},
+			"directories": {},
+			"publish_time": 1467426069919,
+			"_cnpm_publish_time": 1467426069919,
+			"_hasShrinkwrap": false
+		},
+		"0.3.24-alpha": {
+			"name": "@types/findup-sync",
+			"version": "0.3.24-alpha",
+			"description": "TypeScript definitions for findup-sync v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/minimatch": "2.0.23-alpha"
+			},
+			"_id": "@types/findup-sync@0.3.24-alpha",
+			"_shasum": "e78fa033021941133e8b935945710d9b87630aac",
+			"_from": "output\\findup-sync",
+			"_resolved": "file:output\\findup-sync",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e78fa033021941133e8b935945710d9b87630aac",
+				"size": 1099,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.24-alpha.tgz_1467412845604_0.6788340471684933"
+			},
+			"directories": {},
+			"publish_time": 1467412849103,
+			"_cnpm_publish_time": 1467412849103,
+			"_hasShrinkwrap": false
+		},
+		"0.3.23-alpha": {
+			"name": "@types/findup-sync",
+			"version": "0.3.23-alpha",
+			"description": "TypeScript definitions for findup-sync v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/minimatch": "2.0.*"
+			},
+			"_id": "@types/findup-sync@0.3.23-alpha",
+			"_shasum": "4b2cefb08af41cdb35c746b5e8de2e1374c44cfc",
+			"_from": "output\\findup-sync",
+			"_resolved": "file:output\\findup-sync",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4b2cefb08af41cdb35c746b5e8de2e1374c44cfc",
+				"size": 1091,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.23-alpha.tgz_1467400728676_0.9495166989509016"
+			},
+			"directories": {},
+			"publish_time": 1467400730722,
+			"_cnpm_publish_time": 1467400730722,
+			"_hasShrinkwrap": false
+		},
+		"0.3.22-alpha": {
+			"name": "@types/findup-sync",
+			"version": "0.3.22-alpha",
+			"description": "TypeScript definitions for findup-sync v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/minimatch": "*"
+			},
+			"_id": "@types/findup-sync@0.3.22-alpha",
+			"_shasum": "ca5aac35520a0f7016efa59704226e87ec5c4e65",
+			"_from": "output\\findup-sync",
+			"_resolved": "file:output\\findup-sync",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ca5aac35520a0f7016efa59704226e87ec5c4e65",
+				"size": 1061,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.22-alpha.tgz_1464152068808_0.7166845623869449"
+			},
+			"directories": {},
+			"publish_time": 1464152071235,
+			"_cnpm_publish_time": 1464152071235,
+			"_hasShrinkwrap": false
+		},
+		"0.3.21-alpha": {
+			"name": "@types/findup-sync",
+			"version": "0.3.21-alpha",
+			"description": "TypeScript definitions for findup-sync v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/minimatch": "*"
+			},
+			"_id": "@types/findup-sync@0.3.21-alpha",
+			"_shasum": "7fe7b7e17b6fb4e66a4a96f0639556de240805f6",
+			"_from": "output\\findup-sync",
+			"_resolved": "file:output\\findup-sync",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7fe7b7e17b6fb4e66a4a96f0639556de240805f6",
+				"size": 1060,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.21-alpha.tgz_1463772969562_0.3811518629081547"
+			},
+			"directories": {},
+			"publish_time": 1463772969958,
+			"_cnpm_publish_time": 1463772969958,
+			"_hasShrinkwrap": false
+		},
+		"0.3.16-alpha": {
+			"name": "@types/findup-sync",
+			"version": "0.3.16-alpha",
+			"description": "Type definitions for findup-sync v0.3.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('minimatch'": "*"
+			},
+			"_id": "@types/findup-sync@0.3.16-alpha",
+			"_shasum": "aa93cfda4313d85dd6018a3fb61bb870ef849d51",
+			"_from": "output\\findup-sync",
+			"_resolved": "file:output\\findup-sync",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "aa93cfda4313d85dd6018a3fb61bb870ef849d51",
+				"size": 1071,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.16-alpha.tgz_1463691219805_0.11716614640317857"
+			},
+			"directories": {},
+			"publish_time": 1463691222246,
+			"_cnpm_publish_time": 1463691222246,
+			"_hasShrinkwrap": false
+		},
+		"0.3.15-alpha": {
+			"name": "@types/findup-sync",
+			"version": "0.3.15-alpha",
+			"description": "Type definitions for findup-sync v0.3.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('minimatch'": "*"
+			},
+			"_id": "@types/findup-sync@0.3.15-alpha",
+			"_shasum": "6d073d58514a247d943aa2331b960329f48220fd",
+			"_from": "output\\findup-sync",
+			"_resolved": "file:output\\findup-sync",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6d073d58514a247d943aa2331b960329f48220fd",
+				"size": 1064,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/findup-sync-0.3.15-alpha.tgz_1463460995342_0.46126619819551706"
+			},
+			"directories": {},
+			"publish_time": 1463460998754,
+			"_cnpm_publish_time": 1463460998754,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.3.29",
+		"ts2.0": "0.3.29",
+		"ts2.1": "0.3.29",
+		"ts2.2": "0.3.29",
+		"ts2.3": "0.3.29",
+		"ts2.4": "0.3.29",
+		"ts2.5": "0.3.29",
+		"ts2.6": "0.3.29",
+		"ts2.7": "0.3.29",
+		"ts2.8": "0.3.29",
+		"ts2.9": "0.3.29",
+		"ts3.0": "0.3.29",
+		"ts3.1": "0.3.29",
+		"ts3.2": "0.3.29"
+	},
+	"time": {
+		"modified": "2018-10-10T20:11:31.000Z",
+		"created": "2016-05-17T04:56:38.754Z",
+		"0.3.29": "2016-09-19T17:32:16.406Z",
+		"0.3.28": "2016-07-14T14:36:50.763Z",
+		"0.3.27-alpha": "2016-07-08T20:02:22.231Z",
+		"0.3.26-alpha": "2016-07-04T00:10:49.703Z",
+		"0.3.25-alpha": "2016-07-02T02:21:09.919Z",
+		"0.3.24-alpha": "2016-07-01T22:40:49.103Z",
+		"0.3.23-alpha": "2016-07-01T19:18:50.722Z",
+		"0.3.22-alpha": "2016-05-25T04:54:31.235Z",
+		"0.3.21-alpha": "2016-05-20T19:36:09.958Z",
+		"0.3.16-alpha": "2016-05-19T20:53:42.246Z",
+		"0.3.15-alpha": "2016-05-17T04:56:38.754Z"
+	},
+	"_distfiles": {
+		"findup-sync-0.3.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.29.tgz",
+			"sha": "ec0c80597e5ed157282207e762ca7254cad57632",
+			"registry": "cnpmjs"
+		},
+		"findup-sync-0.3.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.28.tgz",
+			"sha": "20f4159096cd39d60bc6e81fcf6300a81e8992b3",
+			"registry": "cnpmjs"
+		},
+		"findup-sync-0.3.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.27-alpha.tgz",
+			"sha": "b10f58b0247f6dd16541adcc8bfc1d33d28dabc6",
+			"registry": "cnpmjs"
+		},
+		"findup-sync-0.3.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.26-alpha.tgz",
+			"sha": "37260775738817ed3b757650b7cedb420e879bde",
+			"registry": "cnpmjs"
+		},
+		"findup-sync-0.3.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.25-alpha.tgz",
+			"sha": "56ce97b7d03a874c3e806f034c7e94209df2e7a3",
+			"registry": "cnpmjs"
+		},
+		"findup-sync-0.3.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.24-alpha.tgz",
+			"sha": "e78fa033021941133e8b935945710d9b87630aac",
+			"registry": "cnpmjs"
+		},
+		"findup-sync-0.3.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.23-alpha.tgz",
+			"sha": "4b2cefb08af41cdb35c746b5e8de2e1374c44cfc",
+			"registry": "cnpmjs"
+		},
+		"findup-sync-0.3.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.22-alpha.tgz",
+			"sha": "ca5aac35520a0f7016efa59704226e87ec5c4e65",
+			"registry": "cnpmjs"
+		},
+		"findup-sync-0.3.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.21-alpha.tgz",
+			"sha": "7fe7b7e17b6fb4e66a4a96f0639556de240805f6",
+			"registry": "cnpmjs"
+		},
+		"findup-sync-0.3.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.16-alpha.tgz",
+			"sha": "aa93cfda4313d85dd6018a3fb61bb870ef849d51",
+			"registry": "cnpmjs"
+		},
+		"findup-sync-0.3.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/findup-sync/download/@types/findup-sync-0.3.15-alpha.tgz",
+			"sha": "6d073d58514a247d943aa2331b960329f48220fd",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833455623
+		}
+	},
+	"_rev": "2-d838218d5bbc0e1f",
+	"readme": "# Installation\r\n> `npm install --save @types/findup-sync`\r\n\r\n# Summary\r\nThis package contains type definitions for findup-sync v0.3.0 (https://github.com/cowboy/node-findup-sync).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/findup-sync\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 17:28:58 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: minimatch\r\n * Global values: mod\r\n\r\n# Credits\r\nThese definitions were written by Bart van der Schoor <https://github.com/Bartvds>, Nathan Brown <https://github.com/ngbrown>."
+}

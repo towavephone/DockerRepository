@@ -1,0 +1,1262 @@
+{
+	"name": "datatables.net-buttons",
+	"versions": {
+		"1.5.1": {
+			"name": "datatables.net-buttons",
+			"version": "1.5.1",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/**/*.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": "^1.10.15"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.5.1",
+			"dist": {
+				"shasum": "cdb35c0c8b0260cd45b0df6b39f6da815357febb",
+				"size": 55552,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.5.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "npm@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/datatables.net-buttons-1.5.1.tgz_1513942225070_0.0801577870734036"
+			},
+			"directories": {},
+			"publish_time": 1513942226837,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513942226837
+		},
+		"1.5.0": {
+			"name": "datatables.net-buttons",
+			"version": "1.5.0",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/**/*.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": "^1.10.15"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.5.0",
+			"dist": {
+				"shasum": "cfe15ad9e1d943e70179a8b85d01a0b109bd46ce",
+				"size": 55554,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.5.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "npm@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/datatables.net-buttons-1.5.0.tgz_1512745820412_0.8658616719767451"
+			},
+			"directories": {},
+			"publish_time": 1512745821428,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1512745821428
+		},
+		"1.4.2": {
+			"name": "datatables.net-buttons",
+			"version": "1.4.2",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/**/*.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": "^1.10.15"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.4.2",
+			"dist": {
+				"shasum": "e391e1da4c20e381bc67bb1b8ce0ae36c9a3da49",
+				"size": 54801,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.4.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "npm@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/datatables.net-buttons-1.4.2.tgz_1505219755637_0.028530273586511612"
+			},
+			"directories": {},
+			"publish_time": 1505219756767,
+			"_cnpm_publish_time": 1505219756767,
+			"_hasShrinkwrap": false
+		},
+		"1.4.1": {
+			"name": "datatables.net-buttons",
+			"version": "1.4.1",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": "^1.10.15"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.4.1",
+			"dist": {
+				"shasum": "241b272cfc537f7741573e1a78d959b6a3e3fd8e",
+				"size": 37208,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.4.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "npm@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/datatables.net-buttons-1.4.1.tgz_1504183837666_0.6173183659557253"
+			},
+			"directories": {},
+			"publish_time": 1504183838703,
+			"_cnpm_publish_time": 1504183838703,
+			"_hasShrinkwrap": false
+		},
+		"1.4.0": {
+			"name": "datatables.net-buttons",
+			"version": "1.4.0",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.4.0",
+			"dist": {
+				"shasum": "472e9076f80769b5d4c8088aa27495054cb2e42e",
+				"size": 37154,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.4.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "npm@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/datatables.net-buttons-1.4.0.tgz_1502720430994_0.5665964866057038"
+			},
+			"directories": {},
+			"publish_time": 1502720432062,
+			"_cnpm_publish_time": 1502720432062,
+			"_hasShrinkwrap": false
+		},
+		"1.3.1": {
+			"name": "datatables.net-buttons",
+			"version": "1.3.1",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.3.1",
+			"dist": {
+				"shasum": "86e3f207dc6c4433e9ecb982d994958367f2c9e5",
+				"size": 36314,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.3.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-buttons-1.3.1.tgz_1492456878094_0.22249942598864436"
+			},
+			"directories": {},
+			"publish_time": 1492456878633,
+			"_cnpm_publish_time": 1492456878633,
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "datatables.net-buttons",
+			"version": "1.3.0",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.3.0",
+			"dist": {
+				"shasum": "ea60a4fe7ee4fb887f0cd4578fafe3a25315037f",
+				"size": 36314,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.3.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-buttons-1.3.0.tgz_1492443333479_0.5694714814890176"
+			},
+			"directories": {},
+			"publish_time": 1492443335505,
+			"_cnpm_publish_time": 1492443335505,
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "datatables.net-buttons",
+			"version": "2.2.0",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@2.2.0",
+			"dist": {
+				"shasum": "3636d5bbab8ef1ade1322db7a7724251960a2706",
+				"size": 36314,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-2.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-buttons-2.2.0.tgz_1492442458147_0.7963820323348045"
+			},
+			"directories": {},
+			"publish_time": 1492442458693,
+			"_cnpm_publish_time": 1492442458693,
+			"_hasShrinkwrap": false
+		},
+		"1.2.4": {
+			"name": "datatables.net-buttons",
+			"version": "1.2.4",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.2.4",
+			"dist": {
+				"shasum": "ad90a7eb3941996108eff6d5293c4733f1874329",
+				"size": 35439,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.2.4.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-buttons-1.2.4.tgz_1481904360237_0.17725869687274098"
+			},
+			"directories": {},
+			"publish_time": 1481904360835,
+			"_cnpm_publish_time": 1481904360835,
+			"_hasShrinkwrap": false
+		},
+		"1.2.3": {
+			"name": "datatables.net-buttons",
+			"version": "1.2.3",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.2.3",
+			"dist": {
+				"shasum": "d3f3fd7a4944acaddef85c3e9989e08db3a1a2ce",
+				"size": 35388,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.2.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-buttons-1.2.3.tgz_1481023869258_0.6878299296367913"
+			},
+			"directories": {},
+			"publish_time": 1481023871541,
+			"_cnpm_publish_time": 1481023871541,
+			"_hasShrinkwrap": false
+		},
+		"1.2.2": {
+			"name": "datatables.net-buttons",
+			"version": "1.2.2",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.2.2",
+			"dist": {
+				"shasum": "c55bd0aec82cb8b7cfb6e62b9d8aec322b545953",
+				"size": 34380,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.2.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-buttons-1.2.2.tgz_1470147362550_0.2968722532968968"
+			},
+			"directories": {},
+			"publish_time": 1470147363557,
+			"_cnpm_publish_time": 1470147363557,
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "datatables.net-buttons",
+			"version": "1.2.1",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.2.1",
+			"dist": {
+				"shasum": "8088baa2ccacb618b8521dd209a4fc5dd27fa2cb",
+				"size": 33867,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.2.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-buttons-1.2.1.tgz_1464361564755_0.8114234821405262"
+			},
+			"directories": {},
+			"publish_time": 1464361566754,
+			"_cnpm_publish_time": 1464361566754,
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "datatables.net-buttons",
+			"version": "1.2.0",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
+			},
+			"_id": "datatables.net-buttons@1.2.0",
+			"dist": {
+				"shasum": "134b60b7fef6bdfe888b0dd802547ada0ec0f57c",
+				"size": 33841,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-buttons-1.2.0.tgz_1463736334492_0.19237510487437248"
+			},
+			"directories": {},
+			"publish_time": 1463736336927,
+			"_cnpm_publish_time": 1463736336927,
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "datatables.net-buttons",
+			"version": "1.1.2",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"_id": "datatables.net-buttons@1.1.2",
+			"dist": {
+				"shasum": "c9b65b2dca803500e0f9d72f174970ee1af763e5",
+				"size": 25045,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.1.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-6-west.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-buttons-1.1.2.tgz_1455190233067_0.43397520435974"
+			},
+			"directories": {},
+			"publish_time": 1455190236460,
+			"_cnpm_publish_time": 1455190236460,
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "datatables.net-buttons",
+			"version": "1.1.1",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"_id": "datatables.net-buttons@1.1.1",
+			"dist": {
+				"shasum": "3774d3c1457a344d037369c75584b2bd9c426498",
+				"size": 24934,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.1.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"directories": {},
+			"publish_time": 1453300353051,
+			"_cnpm_publish_time": 1453300353051,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "datatables.net-buttons",
+			"version": "1.1.0",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"_id": "datatables.net-buttons@1.1.0",
+			"dist": {
+				"shasum": "83bc008b8903a622e3d6301e1c7978b252dff959",
+				"size": 24572,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"directories": {},
+			"publish_time": 1446893925397,
+			"_cnpm_publish_time": 1446893925397,
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "datatables.net-buttons",
+			"version": "1.0.3",
+			"description": "Buttons for DataTables ",
+			"files": [
+				"js/dataTables.buttons.js",
+				"js/buttons.colVis.js",
+				"js/buttons.flash.js",
+				"js/buttons.html5.js",
+				"js/buttons.print.js"
+			],
+			"main": "./js/dataTables.buttons.js",
+			"keywords": [
+				"buttons",
+				"excel",
+				"pdf",
+				"csv",
+				"column visibility",
+				"print",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"gitHead": "234c8cdb6bfdf317bf5cbbc897701e357ff250fb",
+			"_id": "datatables.net-buttons@1.0.3",
+			"scripts": {},
+			"_shasum": "d9501cad9d07454d86b16e0eb9a0fab34de51394",
+			"_from": ".",
+			"_npmVersion": "2.14.4",
+			"_nodeVersion": "4.1.1",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "npm@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"dist": {
+				"shasum": "d9501cad9d07454d86b16e0eb9a0fab34de51394",
+				"size": 23052,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.0.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1444227440249,
+			"_cnpm_publish_time": 1444227440249,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.5.1"
+	},
+	"time": {
+		"modified": "2017-12-28T07:58:47.000Z",
+		"created": "2015-10-07T14:17:20.249Z",
+		"1.5.1": "2017-12-22T11:30:26.837Z",
+		"1.5.0": "2017-12-08T15:10:21.428Z",
+		"1.4.2": "2017-09-12T12:35:56.767Z",
+		"1.4.1": "2017-08-31T12:50:38.703Z",
+		"1.4.0": "2017-08-14T14:20:32.062Z",
+		"1.3.1": "2017-04-17T19:21:18.633Z",
+		"1.3.0": "2017-04-17T15:35:35.505Z",
+		"2.2.0": "2017-04-17T15:20:58.693Z",
+		"1.2.4": "2016-12-16T16:06:00.835Z",
+		"1.2.3": "2016-12-06T11:31:11.541Z",
+		"1.2.2": "2016-08-02T14:16:03.557Z",
+		"1.2.1": "2016-05-27T15:06:06.754Z",
+		"1.2.0": "2016-05-20T09:25:36.927Z",
+		"1.1.2": "2016-02-11T11:30:36.460Z",
+		"1.1.1": "2016-01-20T14:32:33.051Z",
+		"1.1.0": "2015-11-07T10:58:45.397Z",
+		"1.0.3": "2015-10-07T14:17:20.249Z"
+	},
+	"_distfiles": {
+		"datatables.net-buttons-1.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.5.1.tgz",
+			"sha": "cdb35c0c8b0260cd45b0df6b39f6da815357febb",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.5.0.tgz",
+			"sha": "cfe15ad9e1d943e70179a8b85d01a0b109bd46ce",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.4.2.tgz",
+			"sha": "e391e1da4c20e381bc67bb1b8ce0ae36c9a3da49",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.4.1.tgz",
+			"sha": "241b272cfc537f7741573e1a78d959b6a3e3fd8e",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.4.0.tgz",
+			"sha": "472e9076f80769b5d4c8088aa27495054cb2e42e",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.3.1.tgz",
+			"sha": "86e3f207dc6c4433e9ecb982d994958367f2c9e5",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.3.0.tgz",
+			"sha": "ea60a4fe7ee4fb887f0cd4578fafe3a25315037f",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-2.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-2.2.0.tgz",
+			"sha": "3636d5bbab8ef1ade1322db7a7724251960a2706",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.2.4.tgz",
+			"sha": "ad90a7eb3941996108eff6d5293c4733f1874329",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.2.3.tgz",
+			"sha": "d3f3fd7a4944acaddef85c3e9989e08db3a1a2ce",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.2.2.tgz",
+			"sha": "c55bd0aec82cb8b7cfb6e62b9d8aec322b545953",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.2.1.tgz",
+			"sha": "8088baa2ccacb618b8521dd209a4fc5dd27fa2cb",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.2.0.tgz",
+			"sha": "134b60b7fef6bdfe888b0dd802547ada0ec0f57c",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.1.2.tgz",
+			"sha": "c9b65b2dca803500e0f9d72f174970ee1af763e5",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.1.1.tgz",
+			"sha": "3774d3c1457a344d037369c75584b2bd9c426498",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.1.0.tgz",
+			"sha": "83bc008b8903a622e3d6301e1c7978b252dff959",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-buttons-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-buttons/download/datatables.net-buttons-1.0.3.tgz",
+			"sha": "d9501cad9d07454d86b16e0eb9a0fab34de51394",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"6485-zocpKqDjf6Gvg4yCg8mMnpl3kNc\"",
+			"fetched": 1527747699515
+		}
+	},
+	"_rev": "11-c7621d4642940132",
+	"readme": "# Buttons for DataTables \n\nThis package contains distribution files for the [Buttons extension](https://datatables.net/extensions/buttons) for [DataTables](https://datatables.net/). Only the core software for this library is contained in this package - to be correctly styled, a styling package for Buttons must also be included. Styling options include DataTable's native styling, [Bootstrap](http://getbootstrap.com) and [Foundation](http://foundation.zurb.com/).\n\nThe Buttons extension for DataTables provides a common set of options, API methods and styling to display buttons on a page that will interact with a DataTable. It also provides plug-ins for file export (HTML5 and Flash), print view and column visibility. Other libraries, such as Editor and Select also provide buttons specific to their use cases.\n\n\n## Installation\n\n### Browser\n\nFor inclusion of this library using a standard `<script>` tag, rather than using this package, it is recommended that you use the [DataTables download builder](//datatables.net/download) which can create CDN or locally hosted packages for you, will all dependencies satisfied.\n\n### npm\n\n```\nnpm install datatables.net-buttons\n```\n\n```\nvar $ = require( 'jquery' );\nrequire( 'datatables.net-buttons' )( window, $ );\n```\n\n### bower\n\n```\nbower install --save datatables.net-buttons\n```\n\n\n\n## Documentation\n\nFull documentation of the DataTables options, API and plug-in interface are available on the DOCS_LINK. The site also contains information on the wide variety of plug-ins that are available for DataTables, which can be used to enhance and customise your table even further.\n\n\n## Bug / Support\n\nSupport for DataTables is available through the [DataTables forums](//datatables.net/forums) and [commercial support options](//datatables.net/support) are available.\n\n\n### Contributing\n\nIf you are thinking of contributing code to DataTables, first of all, thank you! All fixes, patches and enhancements to DataTables are very warmly welcomed. This repository is a distribution repo, so patches and issues sent to this repo will not be accepted. Instead, please direct pull requests to the [DataTables/Buttons](http://github.com/DataTables/Buttons). For issues / bugs, please direct your questions to the [DataTables forums](//datatables.net/forums).\n\n\n## License\n\nThis software is released under the [MIT license](//datatables.net/license). You are free to use, modify and distribute this software, but all copyright information must remain."
+}

@@ -1,0 +1,325 @@
+{
+	"name": "@types/lodash.escape",
+	"versions": {
+		"4.0.3": {
+			"name": "@types/lodash.escape",
+			"version": "4.0.3",
+			"description": "TypeScript definitions for lodash.escape",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "21e4e6c620c1d3b35c0dfae1b2c129915ff07d5d70e0aa5e173de2aec5b55eb1",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.escape@4.0.3",
+			"dist": {
+				"shasum": "5a4d3a7bb4b2d6b7333f7f39552c64b5ebe7571d",
+				"size": 1588,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.escape/download/@types/lodash.escape-4.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.escape-4.0.3.tgz_1502228878074_0.9009602454025298"
+			},
+			"directories": {},
+			"publish_time": 1502228878196,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228878196
+		},
+		"4.0.2": {
+			"name": "@types/lodash.escape",
+			"version": "4.0.2",
+			"description": "TypeScript definitions for lodash.escape",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "0d5e0859de1347d63c6c2dbddc361edbffec35c486a782aa889794b2f5e6a4de",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.escape@4.0.2",
+			"dist": {
+				"shasum": "88c0dc07e819e23004883a76021ff3569b9a35ee",
+				"size": 869,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.escape/download/@types/lodash.escape-4.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.escape-4.0.2.tgz_1490212532651_0.06596603291109204"
+			},
+			"directories": {},
+			"publish_time": 1490212534608,
+			"_cnpm_publish_time": 1490212534608,
+			"_hasShrinkwrap": false
+		},
+		"4.0.1": {
+			"name": "@types/lodash.escape",
+			"version": "4.0.1",
+			"description": "TypeScript definitions for lodash.escape",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bd3463c5cd3e74d86a276a42f9ce987a16e8dccf47b8423cbd154c2819c9a6b9",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.escape@4.0.1",
+			"dist": {
+				"shasum": "efb421cda942f39e5941952ee7aff5291f05ee2b",
+				"size": 1041,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.escape/download/@types/lodash.escape-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.escape-4.0.1.tgz_1485553550566_0.2540728466119617"
+			},
+			"directories": {},
+			"publish_time": 1485553552420,
+			"_cnpm_publish_time": 1485553552420,
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "@types/lodash.escape",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for lodash.escape",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5ddebe67ad85c3f0df76d8e9f1f0773e8e6c580e73c48a5ff1f8e0c948855b63",
+			"_id": "@types/lodash.escape@4.0.0",
+			"dist": {
+				"shasum": "0f60dfe769a6296481e93f27306acea482546efb",
+				"size": 1014,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.escape/download/@types/lodash.escape-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.escape-4.0.0.tgz_1480973397135_0.494731500511989"
+			},
+			"directories": {},
+			"publish_time": 1480973397350,
+			"_cnpm_publish_time": 1480973397350,
+			"_hasShrinkwrap": false
+		},
+		"4.0.4": {
+			"name": "@types/lodash.escape",
+			"version": "4.0.4",
+			"description": "TypeScript definitions for lodash.escape",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "2e3baa5abcb07f18217331cd1782d1e7fcc57bad3ea3166738a4ac5685a4ae28",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.escape@4.0.4",
+			"dist": {
+				"shasum": "61312495e5ff48e142e176530903e3aac1146eb5",
+				"size": 1590,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.escape/download/@types/lodash.escape-4.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.escape_4.0.4_1532392860777_0.43619375045172704"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532392860860,
+			"_cnpm_publish_time": 1532392860860
+		}
+	},
+	"dist-tags": {
+		"latest": "4.0.4",
+		"ts2.0": "4.0.0",
+		"ts2.1": "4.0.1",
+		"ts2.2": "4.0.3",
+		"ts2.3": "4.0.3",
+		"ts2.4": "4.0.3",
+		"ts2.5": "4.0.3",
+		"ts2.6": "4.0.4",
+		"ts2.7": "4.0.4",
+		"ts2.8": "4.0.4",
+		"ts2.9": "4.0.4",
+		"ts3.0": "4.0.4",
+		"ts3.1": "4.0.4",
+		"ts3.2": "4.0.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:16:06.000Z",
+		"created": "2016-12-05T21:29:57.350Z",
+		"4.0.4": "2018-07-24T00:41:00.860Z",
+		"4.0.3": "2017-08-08T21:47:58.196Z",
+		"4.0.2": "2017-03-22T19:55:34.608Z",
+		"4.0.1": "2017-01-27T21:45:52.420Z",
+		"4.0.0": "2016-12-05T21:29:57.350Z"
+	},
+	"_distfiles": {
+		"lodash.escape-4.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.escape/download/@types/lodash.escape-4.0.3.tgz",
+			"sha": "5a4d3a7bb4b2d6b7333f7f39552c64b5ebe7571d",
+			"registry": "cnpmjs"
+		},
+		"lodash.escape-4.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.escape/download/@types/lodash.escape-4.0.2.tgz",
+			"sha": "88c0dc07e819e23004883a76021ff3569b9a35ee",
+			"registry": "cnpmjs"
+		},
+		"lodash.escape-4.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.escape/download/@types/lodash.escape-4.0.1.tgz",
+			"sha": "efb421cda942f39e5941952ee7aff5291f05ee2b",
+			"registry": "cnpmjs"
+		},
+		"lodash.escape-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.escape/download/@types/lodash.escape-4.0.0.tgz",
+			"sha": "0f60dfe769a6296481e93f27306acea482546efb",
+			"registry": "cnpmjs"
+		},
+		"lodash.escape-4.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.escape/download/@types/lodash.escape-4.0.4.tgz",
+			"sha": "61312495e5ff48e142e176530903e3aac1146eb5",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833484520
+		}
+	},
+	"_rev": "2-7dbaf8df5d7f658d",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.escape`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.escape (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.escape\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

@@ -1,0 +1,88 @@
+{
+	"name": "@types/array-unique",
+	"versions": {
+		"0.3.0": {
+			"name": "@types/array-unique",
+			"version": "0.3.0",
+			"description": "TypeScript definitions for array-unique",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Michaël St-Georges",
+					"url": "https://github.com/CSLTech",
+					"githubUsername": "CSLTech"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "aa6724601c3f47cfaf1516d7003d33b49a28cbc6c22b6d334eb8497808eda28e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/array-unique@0.3.0",
+			"dist": {
+				"shasum": "4bdab51014680a9fda7b6e6f1ec7f597c2d474fe",
+				"size": 1539,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/array-unique/download/@types/array-unique-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/array-unique_0.3.0_1521155884282_0.23269442603596246"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521155884356,
+			"_cnpm_publish_time": 1521155884356
+		}
+	},
+	"dist-tags": {
+		"latest": "0.3.0",
+		"ts2.0": "0.3.0",
+		"ts2.1": "0.3.0",
+		"ts2.2": "0.3.0",
+		"ts2.3": "0.3.0",
+		"ts2.4": "0.3.0",
+		"ts2.5": "0.3.0",
+		"ts2.6": "0.3.0",
+		"ts2.7": "0.3.0",
+		"ts2.8": "0.3.0",
+		"ts2.9": "0.3.0",
+		"ts3.0": "0.3.0",
+		"ts3.1": "0.3.0",
+		"ts3.2": "0.3.0"
+	},
+	"time": {
+		"modified": "2018-10-10T19:53:51.000Z",
+		"created": "2018-03-15T23:18:04.356Z",
+		"0.3.0": "2018-03-15T23:18:04.356Z"
+	},
+	"_distfiles": {
+		"array-unique-0.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/array-unique/download/@types/array-unique-0.3.0.tgz",
+			"sha": "4bdab51014680a9fda7b6e6f1ec7f597c2d474fe",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833444875
+		}
+	},
+	"_rev": "2-e66109c608d89179",
+	"readme": "# Installation\r\n> `npm install --save @types/array-unique`\r\n\r\n# Summary\r\nThis package contains type definitions for array-unique (https://github.com/jonschlinkert/array-unique).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/array-unique\r\n\r\nAdditional Details\r\n * Last updated: Thu, 15 Mar 2018 23:17:55 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Michaël St-Georges <https://github.com/CSLTech>."
+}

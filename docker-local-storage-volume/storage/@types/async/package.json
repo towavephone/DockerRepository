@@ -1,0 +1,1890 @@
+{
+	"name": "@types/async",
+	"versions": {
+		"2.0.49": {
+			"name": "@types/async",
+			"version": "2.0.49",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0",
+					"githubUsername": "kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn",
+					"githubUsername": "Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying",
+					"githubUsername": "fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin",
+					"githubUsername": "pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b570e4742e0584f0e1f60c34c1814504dd1fe2cb1bb4ca5ad83312fbd531344b",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/async@2.0.49",
+			"dist": {
+				"shasum": "92e33d13f74c895cb9a7f38ba97db8431ed14bc0",
+				"size": 3816,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.49.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async_2.0.49_1523301197405_0.23933996075663844"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523301197527,
+			"_cnpm_publish_time": 1523301197527
+		},
+		"2.0.48": {
+			"name": "@types/async",
+			"version": "2.0.48",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0",
+					"githubUsername": "kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn",
+					"githubUsername": "Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying",
+					"githubUsername": "fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin",
+					"githubUsername": "pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "713ae1be7f97eb246ad8d635c00fc1eb3461792ae86496c406e6bddf0f296087",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/async@2.0.48",
+			"dist": {
+				"shasum": "97436de4c84163b04f678066b3f77b01e58deb7a",
+				"size": 3820,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.48.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async_2.0.48_1521155888222_0.5239678669353953"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521155888278,
+			"_cnpm_publish_time": 1521155888278
+		},
+		"2.0.47": {
+			"name": "@types/async",
+			"version": "2.0.47",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0",
+					"githubUsername": "kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn",
+					"githubUsername": "Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying",
+					"githubUsername": "fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin",
+					"githubUsername": "pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "98059a2a001997777b94bcd2f4ac93ecd173461cce9c4798b2e326247bfab17c",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/async@2.0.47",
+			"dist": {
+				"shasum": "f49ba1dd1f189486beb6e1d070a850f6ab4bd521",
+				"size": 3938,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.47.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async-2.0.47.tgz_1515707661896_0.5132248897571117"
+			},
+			"directories": {},
+			"publish_time": 1515707662126,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515707662126
+		},
+		"2.0.46": {
+			"name": "@types/async",
+			"version": "2.0.46",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0",
+					"githubUsername": "kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn",
+					"githubUsername": "Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying",
+					"githubUsername": "fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin",
+					"githubUsername": "pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "0eb76dd70181e87e43580b012d4614299d24637cfdf3bad87ac83f39f45dec47",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/async@2.0.46",
+			"dist": {
+				"shasum": "f13a6c336a6582b95d0c0269e796b709488fd54d",
+				"size": 3923,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.46.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async-2.0.46.tgz_1514045139800_0.09533787309192121"
+			},
+			"directories": {},
+			"publish_time": 1514045139870,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514045139870
+		},
+		"2.0.45": {
+			"name": "@types/async",
+			"version": "2.0.45",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0",
+					"githubUsername": "kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn",
+					"githubUsername": "Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying",
+					"githubUsername": "fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin",
+					"githubUsername": "pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "6d7fbaf86065514e3eaa80d5f531f587701be40df9e8b5b38414a840156890bd",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/async@2.0.45",
+			"dist": {
+				"shasum": "0cfe971d7ed5542695740338e0455c91078a0e83",
+				"size": 3899,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.45.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async-2.0.45.tgz_1509404926197_0.5198809406720102"
+			},
+			"directories": {},
+			"publish_time": 1509404926271,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509404926271
+		},
+		"2.0.44": {
+			"name": "@types/async",
+			"version": "2.0.44",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0",
+					"githubUsername": "kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn",
+					"githubUsername": "Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying",
+					"githubUsername": "fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin",
+					"githubUsername": "pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7d7b6313bdd6453b8d77c55f846afc9cd58ede2e7346fd934bdde5a98e5d1de1",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/async@2.0.44",
+			"dist": {
+				"shasum": "e846150fd1f5a3243cec7c1f5bb49f58241092ee",
+				"size": 3877,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.44.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async-2.0.44.tgz_1507314548498_0.11795776197686791"
+			},
+			"directories": {},
+			"publish_time": 1507314548616,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507314548616
+		},
+		"2.0.43": {
+			"name": "@types/async",
+			"version": "2.0.43",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0",
+					"githubUsername": "kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn",
+					"githubUsername": "Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying",
+					"githubUsername": "fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin",
+					"githubUsername": "pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "8a84729011263c6c0886f51e030837680a871f962fe4a24f057026b9225b4354",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/async@2.0.43",
+			"dist": {
+				"shasum": "0d6fce7e11a582b4251a4bf5439399428c79e387",
+				"size": 3738,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.43.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async-2.0.43.tgz_1506449839976_0.8700735953170806"
+			},
+			"directories": {},
+			"publish_time": 1506449840054,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506449840054
+		},
+		"2.0.42": {
+			"name": "@types/async",
+			"version": "2.0.42",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "38442f7b617561bd9d36b69f84d0204be7ae69a494b570b0f413545fb1ba1d75",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/async@2.0.42",
+			"dist": {
+				"shasum": "51cd1cc76b9fe487f5759f3eadd6f74074b99b81",
+				"size": 3669,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.42.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async-2.0.42.tgz_1503352062189_0.06727324472740293"
+			},
+			"directories": {},
+			"publish_time": 1503352062286,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352062286
+		},
+		"2.0.41": {
+			"name": "@types/async",
+			"version": "2.0.41",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov/"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5634111b53ce79675edf8eb2fe650c9d81e85b4fd16b5088d54fab4c3cf24478",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/async@2.0.41",
+			"dist": {
+				"shasum": "99950efe3022e86c93a265655ee1974cf21cd3ef",
+				"size": 3674,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.41.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async-2.0.41.tgz_1502820697355_0.8557840781286359"
+			},
+			"directories": {},
+			"publish_time": 1502820697414,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502820697414
+		},
+		"2.0.40": {
+			"name": "@types/async",
+			"version": "2.0.40",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov/"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e632594846b451af120a78596ddda145b551496dffc084a4f7f6a38553ffb5d8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/async@2.0.40",
+			"dist": {
+				"shasum": "ac02de68e66c004a61b7cb16df8b1db3a254cca9",
+				"size": 2970,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.40.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.40.tgz_1490224717418_0.5926519124768674"
+			},
+			"directories": {},
+			"publish_time": 1490224719285,
+			"_cnpm_publish_time": 1490224719285,
+			"_hasShrinkwrap": false
+		},
+		"2.0.39": {
+			"name": "@types/async",
+			"version": "2.0.39",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov/"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d27f16540ced91722850a5415140d195fc7718c2023f7e948de39fabc9d4b0c2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/async@2.0.39",
+			"dist": {
+				"shasum": "dd078f9ce8e9fff0c9410e0595f27a1f5a97db90",
+				"size": 2950,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.39.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.39.tgz_1489513551916_0.2271634633652866"
+			},
+			"directories": {},
+			"publish_time": 1489513552147,
+			"_cnpm_publish_time": 1489513552147,
+			"_hasShrinkwrap": false
+		},
+		"2.0.38": {
+			"name": "@types/async",
+			"version": "2.0.38",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>, Angus Fenying <https://github.com/fenying>, Pascal Martin <https://github.com/pascalmartin>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2122b6459257b0b37a0123721d3055e2f91902ed745be4b44a65fd57b0ffc2fa",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/async@2.0.38",
+			"dist": {
+				"shasum": "5c369dcb14788da0621daafa8594a053b0edcb21",
+				"size": 3063,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.38.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.38.tgz_1484763991825_0.6147358396556228"
+			},
+			"directories": {},
+			"publish_time": 1484763992063,
+			"_cnpm_publish_time": 1484763992063,
+			"_hasShrinkwrap": false
+		},
+		"2.0.37": {
+			"name": "@types/async",
+			"version": "2.0.37",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>, Angus Fenying <https://github.com/fenying>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b3c03a6863a463bb7b1b9ad5474fdae955517909d1087a7ae61c355d9c9c3917",
+			"_id": "@types/async@2.0.37",
+			"dist": {
+				"shasum": "7bf2ffba03ae965df99f21d4d41be340d6a322ab",
+				"size": 2981,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.37.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.37.tgz_1481820746085_0.42477410938590765"
+			},
+			"directories": {},
+			"publish_time": 1481820747669,
+			"_cnpm_publish_time": 1481820747669,
+			"_hasShrinkwrap": false
+		},
+		"2.0.36": {
+			"name": "@types/async",
+			"version": "2.0.36",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>, Angus Fenying <https://github.com/fenying>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "40cce2f1b857bdb832945ed63b4ed7a903e5de16fdd81eba21586bca7d4c46bb",
+			"_id": "@types/async@2.0.36",
+			"dist": {
+				"shasum": "d3f393ea7dd413e1003ff49859fff41d8cca8f48",
+				"size": 2987,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.36.tgz_1481663396978_0.18119264929555357"
+			},
+			"directories": {},
+			"publish_time": 1481663399069,
+			"_cnpm_publish_time": 1481663399069,
+			"_hasShrinkwrap": false
+		},
+		"2.0.35": {
+			"name": "@types/async",
+			"version": "2.0.35",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>, Angus Fenying <https://github.com/fenying>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b3c03a6863a463bb7b1b9ad5474fdae955517909d1087a7ae61c355d9c9c3917",
+			"_id": "@types/async@2.0.35",
+			"dist": {
+				"shasum": "dfd734e8a9db71d837d56eb998dbf13fc77a1479",
+				"size": 2985,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.35.tgz_1481583055212_0.8102691012900323"
+			},
+			"directories": {},
+			"publish_time": 1481583057095,
+			"_cnpm_publish_time": 1481583057095,
+			"_hasShrinkwrap": false
+		},
+		"2.0.34": {
+			"name": "@types/async",
+			"version": "2.0.34",
+			"description": "TypeScript definitions for Async 2.0.1",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>, Angus Fenying <https://github.com/fenying>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "40cce2f1b857bdb832945ed63b4ed7a903e5de16fdd81eba21586bca7d4c46bb",
+			"_id": "@types/async@2.0.34",
+			"dist": {
+				"shasum": "f23e1729609ccbe6cfaffc88270c5e71a6341678",
+				"size": 3027,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.34.tgz_1479848404159_0.2990108097437769"
+			},
+			"directories": {},
+			"publish_time": 1479848404378,
+			"_cnpm_publish_time": 1479848404378,
+			"_hasShrinkwrap": false
+		},
+		"2.0.33": {
+			"name": "@types/async",
+			"version": "2.0.33",
+			"description": "TypeScript definitions for Async 2.0.1",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>, Angus Fenying <https://github.com/fenying>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "457a55f040b5119c3c4fd95762b3eea43285221c7ea92043a067ead3a10092a0",
+			"_id": "@types/async@2.0.33",
+			"dist": {
+				"shasum": "e676d725e21fff68cc392c02d9db1f6e57a4441c",
+				"size": 3001,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.33.tgz_1479152143506_0.2345775538124144"
+			},
+			"directories": {},
+			"publish_time": 1479152143726,
+			"_cnpm_publish_time": 1479152143726,
+			"_hasShrinkwrap": false
+		},
+		"2.0.32": {
+			"name": "@types/async",
+			"version": "2.0.32",
+			"description": "TypeScript definitions for Async 2.0.1",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "f4fe6c01c0a4fa37d5eb18cbef0540fbad8d6b102ea16e88edb1f6c880af4e59",
+			"_id": "@types/async@2.0.32",
+			"dist": {
+				"shasum": "bb7be943784ca63d0c7b1358ce598b5f3cebc059",
+				"size": 2920,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.32.tgz_1474301944963_0.9029153361916542"
+			},
+			"directories": {},
+			"publish_time": 1474301946774,
+			"_cnpm_publish_time": 1474301946774,
+			"_hasShrinkwrap": false
+		},
+		"2.0.31": {
+			"name": "@types/async",
+			"version": "2.0.31",
+			"description": "TypeScript definitions for Async 2.0.1",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/async@2.0.31",
+			"dist": {
+				"shasum": "26842998c4425c19aea32f774fc67e8d28ecd206",
+				"size": 2911,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.31.tgz_1472150092448_0.07490275870077312"
+			},
+			"directories": {},
+			"publish_time": 1472150094162,
+			"_cnpm_publish_time": 1472150094162,
+			"_hasShrinkwrap": false
+		},
+		"2.0.30": {
+			"name": "@types/async",
+			"version": "2.0.30",
+			"description": "TypeScript definitions for Async 2.0.1",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/async@2.0.30",
+			"dist": {
+				"shasum": "38820e9fc2a95752c9fe31463aac317d99e4d6da",
+				"size": 2909,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-2.0.30.tgz_1470688490636_0.8909973902627826"
+			},
+			"directories": {},
+			"publish_time": 1470688490874,
+			"_cnpm_publish_time": 1470688490874,
+			"_hasShrinkwrap": false
+		},
+		"1.4.29": {
+			"name": "@types/async",
+			"version": "1.4.29",
+			"description": "TypeScript definitions for Async 1.4.2",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/async@1.4.29",
+			"dist": {
+				"shasum": "4d76ec7498d82dc27faea62b0423568406b1a436",
+				"size": 16384,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.29.tgz_1470152820334_0.4322007887531072"
+			},
+			"directories": {},
+			"publish_time": 1470152821305,
+			"_cnpm_publish_time": 1470152821305,
+			"_hasShrinkwrap": false
+		},
+		"1.4.28": {
+			"name": "@types/async",
+			"version": "1.4.28",
+			"description": "TypeScript definitions for Async 1.4.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/async@1.4.28",
+			"_shasum": "c9926d2166efbef0fa536200c1bb3e4fb8d9442d",
+			"_from": "output\\async",
+			"_resolved": "file:output\\async",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c9926d2166efbef0fa536200c1bb3e4fb8d9442d",
+				"size": 2504,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.28.tgz_1468505067012_0.19453987572342157"
+			},
+			"directories": {},
+			"publish_time": 1468505069110,
+			"_cnpm_publish_time": 1468505069110,
+			"_hasShrinkwrap": false
+		},
+		"1.4.27-alpha": {
+			"name": "@types/async",
+			"version": "1.4.27-alpha",
+			"description": "TypeScript definitions for Async 1.4.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/async@1.4.27-alpha",
+			"_shasum": "e16cba04e71bd7a45bb42f922e0b8c368ab02a23",
+			"_from": "output\\async",
+			"_resolved": "file:output\\async",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e16cba04e71bd7a45bb42f922e0b8c368ab02a23",
+				"size": 2508,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.27-alpha.tgz_1468006754096_0.4285309733822942"
+			},
+			"directories": {},
+			"publish_time": 1468006755621,
+			"_cnpm_publish_time": 1468006755621,
+			"_hasShrinkwrap": false
+		},
+		"1.4.26-alpha": {
+			"name": "@types/async",
+			"version": "1.4.26-alpha",
+			"description": "TypeScript definitions for Async 1.4.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/async@1.4.26-alpha",
+			"_shasum": "064b6647c8c8cd7856a9b784122bcf187623c465",
+			"_from": "output\\async",
+			"_resolved": "file:output\\async",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "064b6647c8c8cd7856a9b784122bcf187623c465",
+				"size": 2509,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.26-alpha.tgz_1467589934760_0.9307629815302789"
+			},
+			"directories": {},
+			"publish_time": 1467589935255,
+			"_cnpm_publish_time": 1467589935255,
+			"_hasShrinkwrap": false
+		},
+		"1.4.25-alpha": {
+			"name": "@types/async",
+			"version": "1.4.25-alpha",
+			"description": "TypeScript definitions for Async 1.4.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/async@1.4.25-alpha",
+			"_shasum": "9588074cfb06b01918f1d886ac7cfcc944bba561",
+			"_from": "output\\async",
+			"_resolved": "file:output\\async",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9588074cfb06b01918f1d886ac7cfcc944bba561",
+				"size": 2508,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.25-alpha.tgz_1467424759549_0.9077553485985845"
+			},
+			"directories": {},
+			"publish_time": 1467424763167,
+			"_cnpm_publish_time": 1467424763167,
+			"_hasShrinkwrap": false
+		},
+		"1.4.24-alpha": {
+			"name": "@types/async",
+			"version": "1.4.24-alpha",
+			"description": "TypeScript definitions for Async 1.4.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/async@1.4.24-alpha",
+			"_shasum": "ccdd524c7bc9687108be62b11d75e002b9757662",
+			"_from": "output\\async",
+			"_resolved": "file:output\\async",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ccdd524c7bc9687108be62b11d75e002b9757662",
+				"size": 2508,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.24-alpha.tgz_1467411288435_0.8818607297725976"
+			},
+			"directories": {},
+			"publish_time": 1467411290522,
+			"_cnpm_publish_time": 1467411290522,
+			"_hasShrinkwrap": false
+		},
+		"1.4.23-alpha": {
+			"name": "@types/async",
+			"version": "1.4.23-alpha",
+			"description": "TypeScript definitions for Async 1.4.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/async@1.4.23-alpha",
+			"_shasum": "0d9e6b948bc4f9a66059a1663a6db2b3c68ffee8",
+			"_from": "output\\async",
+			"_resolved": "file:output\\async",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0d9e6b948bc4f9a66059a1663a6db2b3c68ffee8",
+				"size": 2505,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.23-alpha.tgz_1467399263245_0.02902162284590304"
+			},
+			"directories": {},
+			"publish_time": 1467399263734,
+			"_cnpm_publish_time": 1467399263734,
+			"_hasShrinkwrap": false
+		},
+		"1.4.22-alpha": {
+			"name": "@types/async",
+			"version": "1.4.22-alpha",
+			"description": "TypeScript definitions for Async 1.4.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/async@1.4.22-alpha",
+			"_shasum": "bd9ad263d0e79277b19b30f2c159eb3f9b483a7e",
+			"_from": "output\\async",
+			"_resolved": "file:output\\async",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bd9ad263d0e79277b19b30f2c159eb3f9b483a7e",
+				"size": 2476,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.22-alpha.tgz_1464150548774_0.5022907021921128"
+			},
+			"directories": {},
+			"publish_time": 1464150549282,
+			"_cnpm_publish_time": 1464150549282,
+			"_hasShrinkwrap": false
+		},
+		"1.4.21-alpha": {
+			"name": "@types/async",
+			"version": "1.4.21-alpha",
+			"description": "TypeScript definitions for Async 1.4.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/async@1.4.21-alpha",
+			"_shasum": "f3fb9c90d1eca37b5dc3b5c54231e92502808e46",
+			"_from": "output\\async",
+			"_resolved": "file:output\\async",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f3fb9c90d1eca37b5dc3b5c54231e92502808e46",
+				"size": 2477,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.21-alpha.tgz_1463771416598_0.6818181171547621"
+			},
+			"directories": {},
+			"publish_time": 1463771418803,
+			"_cnpm_publish_time": 1463771418803,
+			"_hasShrinkwrap": false
+		},
+		"1.4.16-alpha": {
+			"name": "@types/async",
+			"version": "1.4.16-alpha",
+			"description": "Type definitions for Async 1.4.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/async@1.4.16-alpha",
+			"_shasum": "e4e1146bcc2de04fcfcd7df7283d55f7e36a851a",
+			"_from": "output\\async",
+			"_resolved": "file:output\\async",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e4e1146bcc2de04fcfcd7df7283d55f7e36a851a",
+				"size": 2481,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.16-alpha.tgz_1463688982655_0.4016877592075616"
+			},
+			"directories": {},
+			"publish_time": 1463688987314,
+			"_cnpm_publish_time": 1463688987314,
+			"_hasShrinkwrap": false
+		},
+		"1.4.15-alpha": {
+			"name": "@types/async",
+			"version": "1.4.15-alpha",
+			"description": "Type definitions for Async 1.4.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/async@1.4.15-alpha",
+			"_shasum": "a014fe33043ba318b3b94a12d450428d4b1c65b1",
+			"_from": "output\\async",
+			"_resolved": "file:output\\async",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a014fe33043ba318b3b94a12d450428d4b1c65b1",
+				"size": 2474,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-1.4.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/async-1.4.15-alpha.tgz_1463459250612_0.585964233847335"
+			},
+			"directories": {},
+			"publish_time": 1463459251226,
+			"_cnpm_publish_time": 1463459251226,
+			"_hasShrinkwrap": false
+		},
+		"2.0.50": {
+			"name": "@types/async",
+			"version": "2.0.50",
+			"description": "TypeScript definitions for Async",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Arseniy Maximov",
+					"url": "https://github.com/kern0",
+					"githubUsername": "kern0"
+				},
+				{
+					"name": "Joe Herman",
+					"url": "https://github.com/Penryn",
+					"githubUsername": "Penryn"
+				},
+				{
+					"name": "Angus Fenying",
+					"url": "https://github.com/fenying",
+					"githubUsername": "fenying"
+				},
+				{
+					"name": "Pascal Martin",
+					"url": "https://github.com/pascalmartin",
+					"githubUsername": "pascalmartin"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b85ded1ef4d1711663be48d838e202571762dcc720005b79c674309f7f19c582",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/async@2.0.50",
+			"dist": {
+				"shasum": "117540e026d64e1846093abbd5adc7e27fda7bcb",
+				"size": 3823,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.50.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/async_2.0.50_1539877747309_0.44435939332507934"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539877747490,
+			"_cnpm_publish_time": 1539877747490
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.50",
+		"ts2.0": "2.0.43",
+		"ts2.1": "2.0.49",
+		"ts2.2": "2.0.49",
+		"ts2.3": "2.0.50",
+		"ts2.4": "2.0.50",
+		"ts2.5": "2.0.50",
+		"ts2.6": "2.0.50",
+		"ts2.7": "2.0.50",
+		"ts2.8": "2.0.50",
+		"ts2.9": "2.0.50",
+		"ts3.0": "2.0.50",
+		"ts3.1": "2.0.50",
+		"ts3.2": "2.0.50"
+	},
+	"time": {
+		"modified": "2018-10-18T15:49:38.000Z",
+		"created": "2016-05-17T04:27:31.226Z",
+		"2.0.50": "2018-10-18T15:49:07.490Z",
+		"2.0.49": "2018-04-09T19:13:17.527Z",
+		"2.0.48": "2018-03-15T23:18:08.278Z",
+		"2.0.47": "2018-01-11T21:54:22.126Z",
+		"2.0.46": "2017-12-23T16:05:39.870Z",
+		"2.0.45": "2017-10-30T23:08:46.271Z",
+		"2.0.44": "2017-10-06T18:29:08.616Z",
+		"2.0.43": "2017-09-26T18:17:20.054Z",
+		"2.0.42": "2017-08-21T21:47:42.286Z",
+		"2.0.41": "2017-08-15T18:11:37.414Z",
+		"2.0.40": "2017-03-22T23:18:39.285Z",
+		"2.0.39": "2017-03-14T17:45:52.147Z",
+		"2.0.38": "2017-01-18T18:26:32.063Z",
+		"2.0.37": "2016-12-15T16:52:27.669Z",
+		"2.0.36": "2016-12-13T21:09:59.069Z",
+		"2.0.35": "2016-12-12T22:50:57.095Z",
+		"2.0.34": "2016-11-22T21:00:04.378Z",
+		"2.0.33": "2016-11-14T19:35:43.726Z",
+		"2.0.32": "2016-09-19T16:19:06.774Z",
+		"2.0.31": "2016-08-25T18:34:54.162Z",
+		"2.0.30": "2016-08-08T20:34:50.874Z",
+		"1.4.29": "2016-08-02T15:47:01.305Z",
+		"1.4.28": "2016-07-14T14:04:29.110Z",
+		"1.4.27-alpha": "2016-07-08T19:39:15.621Z",
+		"1.4.26-alpha": "2016-07-03T23:52:15.255Z",
+		"1.4.25-alpha": "2016-07-02T01:59:23.167Z",
+		"1.4.24-alpha": "2016-07-01T22:14:50.522Z",
+		"1.4.23-alpha": "2016-07-01T18:54:23.734Z",
+		"1.4.22-alpha": "2016-05-25T04:29:09.282Z",
+		"1.4.21-alpha": "2016-05-20T19:10:18.803Z",
+		"1.4.16-alpha": "2016-05-19T20:16:27.314Z",
+		"1.4.15-alpha": "2016-05-17T04:27:31.226Z"
+	},
+	"_distfiles": {
+		"async-2.0.49.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.49.tgz",
+			"sha": "92e33d13f74c895cb9a7f38ba97db8431ed14bc0",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.48.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.48.tgz",
+			"sha": "97436de4c84163b04f678066b3f77b01e58deb7a",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.47.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.47.tgz",
+			"sha": "f49ba1dd1f189486beb6e1d070a850f6ab4bd521",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.46.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.46.tgz",
+			"sha": "f13a6c336a6582b95d0c0269e796b709488fd54d",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.45.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.45.tgz",
+			"sha": "0cfe971d7ed5542695740338e0455c91078a0e83",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.44.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.44.tgz",
+			"sha": "e846150fd1f5a3243cec7c1f5bb49f58241092ee",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.43.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.43.tgz",
+			"sha": "0d6fce7e11a582b4251a4bf5439399428c79e387",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.42.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.42.tgz",
+			"sha": "51cd1cc76b9fe487f5759f3eadd6f74074b99b81",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.41.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.41.tgz",
+			"sha": "99950efe3022e86c93a265655ee1974cf21cd3ef",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.40.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.40.tgz",
+			"sha": "ac02de68e66c004a61b7cb16df8b1db3a254cca9",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.39.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.39.tgz",
+			"sha": "dd078f9ce8e9fff0c9410e0595f27a1f5a97db90",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.38.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.38.tgz",
+			"sha": "5c369dcb14788da0621daafa8594a053b0edcb21",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.37.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.37.tgz",
+			"sha": "7bf2ffba03ae965df99f21d4d41be340d6a322ab",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.36.tgz",
+			"sha": "d3f393ea7dd413e1003ff49859fff41d8cca8f48",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.35.tgz",
+			"sha": "dfd734e8a9db71d837d56eb998dbf13fc77a1479",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.34.tgz",
+			"sha": "f23e1729609ccbe6cfaffc88270c5e71a6341678",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.33.tgz",
+			"sha": "e676d725e21fff68cc392c02d9db1f6e57a4441c",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.32.tgz",
+			"sha": "bb7be943784ca63d0c7b1358ce598b5f3cebc059",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.31.tgz",
+			"sha": "26842998c4425c19aea32f774fc67e8d28ecd206",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.30.tgz",
+			"sha": "38820e9fc2a95752c9fe31463aac317d99e4d6da",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.29.tgz",
+			"sha": "4d76ec7498d82dc27faea62b0423568406b1a436",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.28.tgz",
+			"sha": "c9926d2166efbef0fa536200c1bb3e4fb8d9442d",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.27-alpha.tgz",
+			"sha": "e16cba04e71bd7a45bb42f922e0b8c368ab02a23",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.26-alpha.tgz",
+			"sha": "064b6647c8c8cd7856a9b784122bcf187623c465",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.25-alpha.tgz",
+			"sha": "9588074cfb06b01918f1d886ac7cfcc944bba561",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.24-alpha.tgz",
+			"sha": "ccdd524c7bc9687108be62b11d75e002b9757662",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.23-alpha.tgz",
+			"sha": "0d9e6b948bc4f9a66059a1663a6db2b3c68ffee8",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.22-alpha.tgz",
+			"sha": "bd9ad263d0e79277b19b30f2c159eb3f9b483a7e",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.21-alpha.tgz",
+			"sha": "f3fb9c90d1eca37b5dc3b5c54231e92502808e46",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.16-alpha.tgz",
+			"sha": "e4e1146bcc2de04fcfcd7df7283d55f7e36a851a",
+			"registry": "cnpmjs"
+		},
+		"async-1.4.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-1.4.15-alpha.tgz",
+			"sha": "a014fe33043ba318b3b94a12d450428d4b1c65b1",
+			"registry": "cnpmjs"
+		},
+		"async-2.0.50.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/async/download/@types/async-2.0.50.tgz",
+			"sha": "117540e026d64e1846093abbd5adc7e27fda7bcb",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"a0c8-1UUvMjX8WEsM4mHHs32RdC9h2tI\"",
+			"fetched": 1541833444960
+		}
+	},
+	"_rev": "2-027d7bb6947dfba8",
+	"readme": "# Installation\r\n> `npm install --save @types/async`\r\n\r\n# Summary\r\nThis package contains type definitions for Async (https://github.com/caolan/async).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/async\r\n\r\nAdditional Details\r\n * Last updated: Thu, 18 Oct 2018 15:49:02 GMT\r\n * Dependencies: none\r\n * Global values: async\r\n\r\n# Credits\r\nThese definitions were written by Boris Yankov <https://github.com/borisyankov>, Arseniy Maximov <https://github.com/kern0>, Joe Herman <https://github.com/Penryn>, Angus Fenying <https://github.com/fenying>, Pascal Martin <https://github.com/pascalmartin>."
+}

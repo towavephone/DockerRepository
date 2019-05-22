@@ -1,0 +1,1043 @@
+{
+	"name": "@types/ssh2",
+	"versions": {
+		"0.5.36": {
+			"name": "@types/ssh2",
+			"version": "0.5.36",
+			"description": "TypeScript definitions for ssh2",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo",
+					"githubUsername": "tkQubo"
+				},
+				{
+					"name": "Ron Buckton",
+					"url": "https://github.com/rbuckton",
+					"githubUsername": "rbuckton"
+				},
+				{
+					"name": "Will Boyce",
+					"url": "https://github.com/wrboyce",
+					"githubUsername": "wrboyce"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/ssh2-streams": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "6754185071ef2b91b7eed54d761b1341f4b90a6e42f682d536d7a87bedb70428",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ssh2@0.5.36",
+			"dist": {
+				"shasum": "bcd702ccdb6382af3ebaeebe73423b4aa46939db",
+				"size": 11957,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.5.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ssh2_0.5.36_1538052674690_0.2440168366833937"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538052674837,
+			"_cnpm_publish_time": 1538052674837
+		},
+		"0.5.35": {
+			"name": "@types/ssh2",
+			"version": "0.5.35",
+			"description": "TypeScript definitions for ssh2",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>, Ron Buckton <https://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/ssh2-streams": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1fd4704cf40a3186e8a11eef2de97716e407d212cbc6af9b5c20830d8b764755",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ssh2@0.5.35",
+			"dist": {
+				"shasum": "d6e60d59b7fc22db10abf4730aa7448babde7e3b",
+				"size": 11360,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.5.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.5.35.tgz_1483053169460_0.1757770141121"
+			},
+			"directories": {},
+			"publish_time": 1483053169689,
+			"_cnpm_publish_time": 1483053169689,
+			"_hasShrinkwrap": false
+		},
+		"0.5.34": {
+			"name": "@types/ssh2",
+			"version": "0.5.34",
+			"description": "TypeScript definitions for ssh2",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>, Ron Buckton <https://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/ssh2-streams": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "925948692a26011fd0052909e02764966d09c12718aec0e1bb6eeb084da4d13d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ssh2@0.5.34",
+			"dist": {
+				"shasum": "4d81d391478f627d3e4288d4f1dcd551b2018afa",
+				"size": 11359,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.5.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.5.34.tgz_1482606131079_0.8188544097356498"
+			},
+			"directories": {},
+			"publish_time": 1482606131309,
+			"_cnpm_publish_time": 1482606131309,
+			"_hasShrinkwrap": false
+		},
+		"0.5.33": {
+			"name": "@types/ssh2",
+			"version": "0.5.33",
+			"description": "TypeScript definitions for ssh2 v0.5.x",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>, Ron Buckton <https://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/ssh2-streams": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "6cc0e96203d27c871d7a4298795b52ce9e712805eec0a846976d5fa52c13d340",
+			"_id": "@types/ssh2@0.5.33",
+			"dist": {
+				"shasum": "ffdab2394739cfee32b55ee39ef0d3380e04e14c",
+				"size": 11400,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.5.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.5.33.tgz_1475524534650_0.31998164718970656"
+			},
+			"directories": {},
+			"publish_time": 1475524537387,
+			"_cnpm_publish_time": 1475524537387,
+			"_hasShrinkwrap": false
+		},
+		"0.5.32": {
+			"name": "@types/ssh2",
+			"version": "0.5.32",
+			"description": "TypeScript definitions for ssh2 v0.5.x",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>, Ron Buckton <https://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "138b2ad6f37406d6a3d97f5e03fa72757df810bbeb05a315e67ab4461278458f",
+			"_id": "@types/ssh2@0.5.32",
+			"dist": {
+				"shasum": "ecf598c1ae90cd5ce411d461f86e44eeee77b4fa",
+				"size": 11532,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.5.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.5.32.tgz_1475162786396_0.26299826009199023"
+			},
+			"directories": {},
+			"publish_time": 1475162788549,
+			"_cnpm_publish_time": 1475162788549,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/ssh2",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for ssh2",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "8a37f7b4f677e2b7626648f6f8f4b76414b0e737d845a9ec1e9a714045a0bca1",
+			"_id": "@types/ssh2@0.0.31",
+			"dist": {
+				"shasum": "4df48cc09080558bcd119d30b4b2b4765611a43a",
+				"size": 4716,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.31.tgz_1474308785085_0.9887154316529632"
+			},
+			"directories": {},
+			"publish_time": 1474308785334,
+			"_cnpm_publish_time": 1474308785334,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/ssh2",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for ssh2",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/ssh2@0.0.30",
+			"dist": {
+				"shasum": "04ac09d6bb8e8770299657d207ad34ea6cb1e71f",
+				"size": 4717,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.30.tgz_1472151673001_0.5665064379572868"
+			},
+			"directories": {},
+			"publish_time": 1472151673227,
+			"_cnpm_publish_time": 1472151673227,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/ssh2",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for ssh2",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/ssh2@0.0.29",
+			"dist": {
+				"shasum": "99b8954adcbb2cab276a4ed3845a49656ee92f67",
+				"size": 4717,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.29.tgz_1471621395456_0.3179987701587379"
+			},
+			"directories": {},
+			"publish_time": 1471621396725,
+			"_cnpm_publish_time": 1471621396725,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/ssh2",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for ssh2",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/ssh2@0.0.28",
+			"dist": {
+				"shasum": "2f57bdb3397427b79e12b039050b1ec7bdce6ce3",
+				"size": 23552,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.28.tgz_1470154318785_0.17858896520920098"
+			},
+			"directories": {},
+			"publish_time": 1470154320795,
+			"_cnpm_publish_time": 1470154320795,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/ssh2",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for ssh2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/ssh2@0.0.27",
+			"_shasum": "a6211473e418acd3f0894f606f0ff354d60e7df5",
+			"_from": "output\\ssh2",
+			"_resolved": "file:output\\ssh2",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a6211473e418acd3f0894f606f0ff354d60e7df5",
+				"size": 4714,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.27.tgz_1468512400147_0.8478778891731054"
+			},
+			"directories": {},
+			"publish_time": 1468512402455,
+			"_cnpm_publish_time": 1468512402455,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/ssh2",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for ssh2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/ssh2@0.0.26-alpha",
+			"_shasum": "e5fa3d16a8cbb855034568c31dca68cb86b35903",
+			"_from": "output\\ssh2",
+			"_resolved": "file:output\\ssh2",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e5fa3d16a8cbb855034568c31dca68cb86b35903",
+				"size": 4723,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.26-alpha.tgz_1468013510014_0.511055649491027"
+			},
+			"directories": {},
+			"publish_time": 1468013510479,
+			"_cnpm_publish_time": 1468013510479,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/ssh2",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for ssh2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/ssh2@0.0.25-alpha",
+			"_shasum": "d276ce4bf97ea67ed333c18a7139b42786175a31",
+			"_from": "output\\ssh2",
+			"_resolved": "file:output\\ssh2",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d276ce4bf97ea67ed333c18a7139b42786175a31",
+				"size": 4729,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.25-alpha.tgz_1467595348545_0.8522048674058169"
+			},
+			"directories": {},
+			"publish_time": 1467595352191,
+			"_cnpm_publish_time": 1467595352191,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/ssh2",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for ssh2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.25-alpha"
+			},
+			"_id": "@types/ssh2@0.0.24-alpha",
+			"_shasum": "3fb2835f34e7675dcfcb4a65ba62f853922cbf40",
+			"_from": "output\\ssh2",
+			"_resolved": "file:output\\ssh2",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3fb2835f34e7675dcfcb4a65ba62f853922cbf40",
+				"size": 4726,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.24-alpha.tgz_1467430283215_0.1434846529737115"
+			},
+			"directories": {},
+			"publish_time": 1467430286510,
+			"_cnpm_publish_time": 1467430286510,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/ssh2",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for ssh2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/ssh2@0.0.23-alpha",
+			"_shasum": "89ad12788d48b1c46b219965ae14d9b6b801e862",
+			"_from": "output\\ssh2",
+			"_resolved": "file:output\\ssh2",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "89ad12788d48b1c46b219965ae14d9b6b801e862",
+				"size": 4726,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.23-alpha.tgz_1467417859668_0.27185067418031394"
+			},
+			"directories": {},
+			"publish_time": 1467417861700,
+			"_cnpm_publish_time": 1467417861700,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/ssh2",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for ssh2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/ssh2@0.0.22-alpha",
+			"_shasum": "adc70b3930b98ad2e43ceb82fafaab9c3930cccb",
+			"_from": "output\\ssh2",
+			"_resolved": "file:output\\ssh2",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "adc70b3930b98ad2e43ceb82fafaab9c3930cccb",
+				"size": 4702,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.22-alpha.tgz_1467405826910_0.5417705557774752"
+			},
+			"directories": {},
+			"publish_time": 1467405829470,
+			"_cnpm_publish_time": 1467405829470,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/ssh2",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for ssh2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/ssh2@0.0.21-alpha",
+			"_shasum": "5abc7c26b5efb6c3a8c7e68ce37aa3d3e5abf671",
+			"_from": "output\\ssh2",
+			"_resolved": "file:output\\ssh2",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5abc7c26b5efb6c3a8c7e68ce37aa3d3e5abf671",
+				"size": 4689,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.21-alpha.tgz_1464155970295_0.8362628193572164"
+			},
+			"directories": {},
+			"publish_time": 1464155970786,
+			"_cnpm_publish_time": 1464155970786,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/ssh2",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for ssh2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/ssh2@0.0.20-alpha",
+			"_shasum": "11ec141701a0aa8bfab3055e9d75acf65111c5d6",
+			"_from": "output\\ssh2",
+			"_resolved": "file:output\\ssh2",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "11ec141701a0aa8bfab3055e9d75acf65111c5d6",
+				"size": 4685,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.20-alpha.tgz_1463777035944_0.8123138358350843"
+			},
+			"directories": {},
+			"publish_time": 1463777038383,
+			"_cnpm_publish_time": 1463777038383,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/ssh2",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for ssh2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('stream'": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/ssh2@0.0.15-alpha",
+			"_shasum": "2cf318bdef7d5c30b5e29f26cbd269623a12a6cf",
+			"_from": "output\\ssh2",
+			"_resolved": "file:output\\ssh2",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2cf318bdef7d5c30b5e29f26cbd269623a12a6cf",
+				"size": 4704,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.15-alpha.tgz_1463696849929_0.5142664981540293"
+			},
+			"directories": {},
+			"publish_time": 1463696853404,
+			"_cnpm_publish_time": 1463696853404,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/ssh2",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for ssh2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('stream'": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/ssh2@0.0.14-alpha",
+			"_shasum": "9445c2a568afe53f30485a48e55a4b3c8b2f91ea",
+			"_from": "output\\ssh2",
+			"_resolved": "file:output\\ssh2",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9445c2a568afe53f30485a48e55a4b3c8b2f91ea",
+				"size": 4694,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ssh2-0.0.14-alpha.tgz_1463511562260_0.7448899585288018"
+			},
+			"directories": {},
+			"publish_time": 1463511562794,
+			"_cnpm_publish_time": 1463511562794,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.5.36",
+		"ts2.0": "0.5.36",
+		"ts2.1": "0.5.36",
+		"ts2.2": "0.5.36",
+		"ts2.3": "0.5.36",
+		"ts2.4": "0.5.36",
+		"ts2.5": "0.5.36",
+		"ts2.6": "0.5.36",
+		"ts2.7": "0.5.36",
+		"ts2.8": "0.5.36",
+		"ts2.9": "0.5.36",
+		"ts3.0": "0.5.36",
+		"ts3.1": "0.5.36",
+		"ts3.2": "0.5.36"
+	},
+	"time": {
+		"modified": "2018-09-27T12:51:29.000Z",
+		"created": "2016-05-17T18:59:22.794Z",
+		"0.5.36": "2018-09-27T12:51:14.837Z",
+		"0.5.35": "2016-12-29T23:12:49.689Z",
+		"0.5.34": "2016-12-24T19:02:11.309Z",
+		"0.5.33": "2016-10-03T19:55:37.387Z",
+		"0.5.32": "2016-09-29T15:26:28.549Z",
+		"0.0.31": "2016-09-19T18:13:05.334Z",
+		"0.0.30": "2016-08-25T19:01:13.227Z",
+		"0.0.29": "2016-08-19T15:43:16.725Z",
+		"0.0.28": "2016-08-02T16:12:00.795Z",
+		"0.0.27": "2016-07-14T16:06:42.455Z",
+		"0.0.26-alpha": "2016-07-08T21:31:50.479Z",
+		"0.0.25-alpha": "2016-07-04T01:22:32.191Z",
+		"0.0.24-alpha": "2016-07-02T03:31:26.510Z",
+		"0.0.23-alpha": "2016-07-02T00:04:21.700Z",
+		"0.0.22-alpha": "2016-07-01T20:43:49.470Z",
+		"0.0.21-alpha": "2016-05-25T05:59:30.786Z",
+		"0.0.20-alpha": "2016-05-20T20:43:58.383Z",
+		"0.0.15-alpha": "2016-05-19T22:27:33.404Z",
+		"0.0.14-alpha": "2016-05-17T18:59:22.794Z"
+	},
+	"_distfiles": {
+		"ssh2-0.5.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.5.36.tgz",
+			"sha": "bcd702ccdb6382af3ebaeebe73423b4aa46939db",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.5.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.5.35.tgz",
+			"sha": "d6e60d59b7fc22db10abf4730aa7448babde7e3b",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.5.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.5.34.tgz",
+			"sha": "4d81d391478f627d3e4288d4f1dcd551b2018afa",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.5.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.5.33.tgz",
+			"sha": "ffdab2394739cfee32b55ee39ef0d3380e04e14c",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.5.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.5.32.tgz",
+			"sha": "ecf598c1ae90cd5ce411d461f86e44eeee77b4fa",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.31.tgz",
+			"sha": "4df48cc09080558bcd119d30b4b2b4765611a43a",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.30.tgz",
+			"sha": "04ac09d6bb8e8770299657d207ad34ea6cb1e71f",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.29.tgz",
+			"sha": "99b8954adcbb2cab276a4ed3845a49656ee92f67",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.28.tgz",
+			"sha": "2f57bdb3397427b79e12b039050b1ec7bdce6ce3",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.27.tgz",
+			"sha": "a6211473e418acd3f0894f606f0ff354d60e7df5",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.26-alpha.tgz",
+			"sha": "e5fa3d16a8cbb855034568c31dca68cb86b35903",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.25-alpha.tgz",
+			"sha": "d276ce4bf97ea67ed333c18a7139b42786175a31",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.24-alpha.tgz",
+			"sha": "3fb2835f34e7675dcfcb4a65ba62f853922cbf40",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.23-alpha.tgz",
+			"sha": "89ad12788d48b1c46b219965ae14d9b6b801e862",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.22-alpha.tgz",
+			"sha": "adc70b3930b98ad2e43ceb82fafaab9c3930cccb",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.21-alpha.tgz",
+			"sha": "5abc7c26b5efb6c3a8c7e68ce37aa3d3e5abf671",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.20-alpha.tgz",
+			"sha": "11ec141701a0aa8bfab3055e9d75acf65111c5d6",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.15-alpha.tgz",
+			"sha": "2cf318bdef7d5c30b5e29f26cbd269623a12a6cf",
+			"registry": "cnpmjs"
+		},
+		"ssh2-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ssh2/download/@types/ssh2-0.0.14-alpha.tgz",
+			"sha": "9445c2a568afe53f30485a48e55a4b3c8b2f91ea",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833488430
+		}
+	},
+	"_rev": "1-287f1c96ab86dec5",
+	"readme": "# Installation\r\n> `npm install --save @types/ssh2`\r\n\r\n# Summary\r\nThis package contains type definitions for ssh2 (https://github.com/mscdex/ssh2).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ssh2\r\n\r\nAdditional Details\r\n * Last updated: Thu, 27 Sep 2018 12:34:29 GMT\r\n * Dependencies: stream, events, net, ssh2-streams, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Qubo <https://github.com/tkQubo>, Ron Buckton <https://github.com/rbuckton>, Will Boyce <https://github.com/wrboyce>."
+}

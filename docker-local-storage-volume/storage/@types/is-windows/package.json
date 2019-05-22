@@ -1,0 +1,83 @@
+{
+	"name": "@types/is-windows",
+	"versions": {
+		"0.2.0": {
+			"name": "@types/is-windows",
+			"version": "0.2.0",
+			"description": "TypeScript definitions for is-windows",
+			"license": "MIT",
+			"author": "Mizunashi Mana <https://github.com/mizunashi-mana>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a4795d3d741a0354f8b005b74325d8dbf941e1e4b5bbaa395a9905d22b82dfb1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/is-windows@0.2.0",
+			"dist": {
+				"shasum": "6f24ee48731d31168ea510610d6dd15e5fc9c6ff",
+				"size": 979,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-windows/download/@types/is-windows-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/is-windows-0.2.0.tgz_1483053082287_0.9072695020586252"
+			},
+			"directories": {},
+			"publish_time": 1483053084513,
+			"_cnpm_publish_time": 1483053084513,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.2.0",
+		"ts2.0": "0.2.0",
+		"ts2.1": "0.2.0",
+		"ts2.2": "0.2.0",
+		"ts2.3": "0.2.0",
+		"ts2.4": "0.2.0",
+		"ts2.5": "0.2.0",
+		"ts2.6": "0.2.0",
+		"ts2.7": "0.2.0",
+		"ts2.8": "0.2.0",
+		"ts2.9": "0.2.0",
+		"ts3.0": "0.2.0",
+		"ts3.1": "0.2.0",
+		"ts3.2": "0.2.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:06.000Z",
+		"created": "2016-12-29T23:11:24.513Z",
+		"0.2.0": "2016-12-29T23:11:24.513Z"
+	},
+	"_distfiles": {
+		"is-windows-0.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-windows/download/@types/is-windows-0.2.0.tgz",
+			"sha": "6f24ee48731d31168ea510610d6dd15e5fc9c6ff",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833457391
+		}
+	},
+	"_rev": "2-587d1c441f0ce772",
+	"readme": "# Installation\r\n> `npm install --save @types/is-windows`\r\n\r\n# Summary\r\nThis package contains type definitions for is-windows (https://github.com/jonschlinkert/is-windows).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/is-windows\r\n\r\nAdditional Details\r\n * Last updated: Thu, 29 Dec 2016 23:09:07 GMT\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Mizunashi Mana <https://github.com/mizunashi-mana>."
+}

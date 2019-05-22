@@ -1,0 +1,606 @@
+{
+	"name": "@types/resolve-from",
+	"versions": {
+		"0.0.18": {
+			"name": "@types/resolve-from",
+			"version": "0.0.18",
+			"description": "TypeScript definitions for resolve-from",
+			"license": "MIT",
+			"author": "unional <https://github.com/unional>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "6eaa8db8d63b20b13b396dab29395e54eba07668f1f01e064c3808954568d842",
+			"_id": "@types/resolve-from@0.0.18",
+			"dist": {
+				"shasum": "a8ccb7ce3fb1db75c95eb7dea7ed51b8d060385d",
+				"size": 1008,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.18.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.18.tgz_1474308478221_0.8119202272500843"
+			},
+			"directories": {},
+			"publish_time": 1474308478467,
+			"_cnpm_publish_time": 1474308478467,
+			"_hasShrinkwrap": false
+		},
+		"0.0.17": {
+			"name": "@types/resolve-from",
+			"version": "0.0.17",
+			"description": "TypeScript definitions for resolve-from",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "unional",
+				"email": "https://github.com/unional"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/resolve-from@0.0.17",
+			"_shasum": "a8c108e040f24b309b31825a4279c8e8829a2160",
+			"_from": "output\\resolve-from",
+			"_resolved": "file:output\\resolve-from",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a8c108e040f24b309b31825a4279c8e8829a2160",
+				"size": 963,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.17.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.17.tgz_1468511796090_0.6533068071585149"
+			},
+			"directories": {},
+			"publish_time": 1468511796597,
+			"_cnpm_publish_time": 1468511796597,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/resolve-from",
+			"version": "0.0.16-alpha",
+			"description": "TypeScript definitions for resolve-from",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "unional",
+				"email": "https://github.com/unional"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/resolve-from@0.0.16-alpha",
+			"_shasum": "8845603bcfddc976a159d5e8cb934b3fd64ef139",
+			"_from": "output\\resolve-from",
+			"_resolved": "file:output\\resolve-from",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8845603bcfddc976a159d5e8cb934b3fd64ef139",
+				"size": 970,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.16-alpha.tgz_1468013132915_0.48800588911399245"
+			},
+			"directories": {},
+			"publish_time": 1468013135469,
+			"_cnpm_publish_time": 1468013135469,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/resolve-from",
+			"version": "0.0.15-alpha",
+			"description": "TypeScript definitions for resolve-from",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "unional",
+				"email": "https://github.com/unional"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/resolve-from@0.0.15-alpha",
+			"_shasum": "640d31e21f060ab84f9a17fa727322ec176da871",
+			"_from": "output\\resolve-from",
+			"_resolved": "file:output\\resolve-from",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "640d31e21f060ab84f9a17fa727322ec176da871",
+				"size": 968,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.15-alpha.tgz_1467595060391_0.919962550047785"
+			},
+			"directories": {},
+			"publish_time": 1467595060903,
+			"_cnpm_publish_time": 1467595060903,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/resolve-from",
+			"version": "0.0.14-alpha",
+			"description": "TypeScript definitions for resolve-from",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "unional",
+				"email": "https://github.com/unional"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/resolve-from@0.0.14-alpha",
+			"_shasum": "ce0bd1a0612a7da74a66997ffab19ae32c50de58",
+			"_from": "output\\resolve-from",
+			"_resolved": "file:output\\resolve-from",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ce0bd1a0612a7da74a66997ffab19ae32c50de58",
+				"size": 971,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.14-alpha.tgz_1467429708278_0.4011558978818357"
+			},
+			"directories": {},
+			"publish_time": 1467429708975,
+			"_cnpm_publish_time": 1467429708975,
+			"_hasShrinkwrap": false
+		},
+		"0.0.13-alpha": {
+			"name": "@types/resolve-from",
+			"version": "0.0.13-alpha",
+			"description": "TypeScript definitions for resolve-from",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "unional",
+				"email": "https://github.com/unional"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/resolve-from@0.0.13-alpha",
+			"_shasum": "a8e816bed054288dcf86f84ac70edd8d60d4d225",
+			"_from": "output\\resolve-from",
+			"_resolved": "file:output\\resolve-from",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a8e816bed054288dcf86f84ac70edd8d60d4d225",
+				"size": 970,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.13-alpha.tgz_1467417237242_0.9589256760664284"
+			},
+			"directories": {},
+			"publish_time": 1467417237830,
+			"_cnpm_publish_time": 1467417237830,
+			"_hasShrinkwrap": false
+		},
+		"0.0.12-alpha": {
+			"name": "@types/resolve-from",
+			"version": "0.0.12-alpha",
+			"description": "TypeScript definitions for resolve-from",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "unional",
+				"email": "https://github.com/unional"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/resolve-from@0.0.12-alpha",
+			"_shasum": "7847246c3d70250df8c592977b0ee7aab9a056b7",
+			"_from": "output\\resolve-from",
+			"_resolved": "file:output\\resolve-from",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7847246c3d70250df8c592977b0ee7aab9a056b7",
+				"size": 966,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.12-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.12-alpha.tgz_1467405333083_0.2643468447495252"
+			},
+			"directories": {},
+			"publish_time": 1467405335586,
+			"_cnpm_publish_time": 1467405335586,
+			"_hasShrinkwrap": false
+		},
+		"0.0.11-alpha": {
+			"name": "@types/resolve-from",
+			"version": "0.0.11-alpha",
+			"description": "TypeScript definitions for resolve-from",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "unional",
+				"email": "https://github.com/unional"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/resolve-from@0.0.11-alpha",
+			"_shasum": "413e20afd27f013f616d764f0c678181c0f7b4a2",
+			"_from": "output\\resolve-from",
+			"_resolved": "file:output\\resolve-from",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "413e20afd27f013f616d764f0c678181c0f7b4a2",
+				"size": 954,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.11-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.11-alpha.tgz_1464155499100_0.786465453915298"
+			},
+			"directories": {},
+			"publish_time": 1464155499563,
+			"_cnpm_publish_time": 1464155499563,
+			"_hasShrinkwrap": false
+		},
+		"0.0.10-alpha": {
+			"name": "@types/resolve-from",
+			"version": "0.0.10-alpha",
+			"description": "TypeScript definitions for resolve-from",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "unional",
+				"email": "https://github.com/unional"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/resolve-from@0.0.10-alpha",
+			"_shasum": "659072d465ba98a31ec3636c5d5f83afd90e6318",
+			"_from": "output\\resolve-from",
+			"_resolved": "file:output\\resolve-from",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "659072d465ba98a31ec3636c5d5f83afd90e6318",
+				"size": 953,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.10-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.10-alpha.tgz_1463776544389_0.4082008055411279"
+			},
+			"directories": {},
+			"publish_time": 1463776546906,
+			"_cnpm_publish_time": 1463776546906,
+			"_hasShrinkwrap": false
+		},
+		"0.0.5-alpha": {
+			"name": "@types/resolve-from",
+			"version": "0.0.5-alpha",
+			"description": "Type definitions for resolve-from from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "unional",
+				"email": "https://github.com/unional"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/resolve-from@0.0.5-alpha",
+			"_shasum": "8675cac8c5cdc6537ae081faa6cb54a83107f9da",
+			"_from": "output\\resolve-from",
+			"_resolved": "file:output\\resolve-from",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8675cac8c5cdc6537ae081faa6cb54a83107f9da",
+				"size": 962,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.5-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.5-alpha.tgz_1463696117057_0.15021608560346067"
+			},
+			"directories": {},
+			"publish_time": 1463696117694,
+			"_cnpm_publish_time": 1463696117694,
+			"_hasShrinkwrap": false
+		},
+		"0.0.4-alpha": {
+			"name": "@types/resolve-from",
+			"version": "0.0.4-alpha",
+			"description": "Type definitions for resolve-from from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "unional",
+				"email": "https://github.com/unional"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/resolve-from@0.0.4-alpha",
+			"_shasum": "689cdd4bdce8eb17a3f19ab850d10e123ea8121e",
+			"_from": "output\\resolve-from",
+			"_resolved": "file:output\\resolve-from",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "689cdd4bdce8eb17a3f19ab850d10e123ea8121e",
+				"size": 955,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.4-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/resolve-from-0.0.4-alpha.tgz_1463510984214_0.9631597774568945"
+			},
+			"directories": {},
+			"publish_time": 1463510984873,
+			"_cnpm_publish_time": 1463510984873,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.18",
+		"ts2.0": "0.0.18",
+		"ts2.1": "0.0.18",
+		"ts2.2": "0.0.18",
+		"ts2.3": "0.0.18",
+		"ts2.4": "0.0.18",
+		"ts2.5": "0.0.18",
+		"ts2.6": "0.0.18",
+		"ts2.7": "0.0.18",
+		"ts2.8": "0.0.18",
+		"ts2.9": "0.0.18",
+		"ts3.0": "0.0.18",
+		"ts3.1": "0.0.18",
+		"ts3.2": "0.0.18"
+	},
+	"time": {
+		"modified": "2018-10-10T20:27:36.000Z",
+		"created": "2016-05-17T18:49:44.873Z",
+		"0.0.18": "2016-09-19T18:07:58.467Z",
+		"0.0.17": "2016-07-14T15:56:36.597Z",
+		"0.0.16-alpha": "2016-07-08T21:25:35.469Z",
+		"0.0.15-alpha": "2016-07-04T01:17:40.903Z",
+		"0.0.14-alpha": "2016-07-02T03:21:48.975Z",
+		"0.0.13-alpha": "2016-07-01T23:53:57.830Z",
+		"0.0.12-alpha": "2016-07-01T20:35:35.586Z",
+		"0.0.11-alpha": "2016-05-25T05:51:39.563Z",
+		"0.0.10-alpha": "2016-05-20T20:35:46.906Z",
+		"0.0.5-alpha": "2016-05-19T22:15:17.694Z",
+		"0.0.4-alpha": "2016-05-17T18:49:44.873Z"
+	},
+	"_distfiles": {
+		"resolve-from-0.0.18.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.18.tgz",
+			"sha": "a8ccb7ce3fb1db75c95eb7dea7ed51b8d060385d",
+			"registry": "cnpmjs"
+		},
+		"resolve-from-0.0.17.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.17.tgz",
+			"sha": "a8c108e040f24b309b31825a4279c8e8829a2160",
+			"registry": "cnpmjs"
+		},
+		"resolve-from-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.16-alpha.tgz",
+			"sha": "8845603bcfddc976a159d5e8cb934b3fd64ef139",
+			"registry": "cnpmjs"
+		},
+		"resolve-from-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.15-alpha.tgz",
+			"sha": "640d31e21f060ab84f9a17fa727322ec176da871",
+			"registry": "cnpmjs"
+		},
+		"resolve-from-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.14-alpha.tgz",
+			"sha": "ce0bd1a0612a7da74a66997ffab19ae32c50de58",
+			"registry": "cnpmjs"
+		},
+		"resolve-from-0.0.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.13-alpha.tgz",
+			"sha": "a8e816bed054288dcf86f84ac70edd8d60d4d225",
+			"registry": "cnpmjs"
+		},
+		"resolve-from-0.0.12-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.12-alpha.tgz",
+			"sha": "7847246c3d70250df8c592977b0ee7aab9a056b7",
+			"registry": "cnpmjs"
+		},
+		"resolve-from-0.0.11-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.11-alpha.tgz",
+			"sha": "413e20afd27f013f616d764f0c678181c0f7b4a2",
+			"registry": "cnpmjs"
+		},
+		"resolve-from-0.0.10-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.10-alpha.tgz",
+			"sha": "659072d465ba98a31ec3636c5d5f83afd90e6318",
+			"registry": "cnpmjs"
+		},
+		"resolve-from-0.0.5-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.5-alpha.tgz",
+			"sha": "8675cac8c5cdc6537ae081faa6cb54a83107f9da",
+			"registry": "cnpmjs"
+		},
+		"resolve-from-0.0.4-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/resolve-from/download/@types/resolve-from-0.0.4-alpha.tgz",
+			"sha": "689cdd4bdce8eb17a3f19ab850d10e123ea8121e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833488212
+		}
+	},
+	"_rev": "2-de313d2495eea8cd",
+	"readme": "# Installation\r\n> `npm install --save @types/resolve-from`\r\n\r\n# Summary\r\nThis package contains type definitions for resolve-from (https://github.com/sindresorhus/resolve-from).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/resolve-from\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 17:28:59 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: resolveFrom\r\n\r\n# Credits\r\nThese definitions were written by unional <https://github.com/unional>."
+}

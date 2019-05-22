@@ -1,0 +1,607 @@
+{
+	"name": "@types/relateurl",
+	"versions": {
+		"0.2.28": {
+			"name": "@types/relateurl",
+			"version": "0.2.28",
+			"description": "TypeScript definitions for relateurl v0.2.6",
+			"license": "MIT",
+			"author": "Tanguy Krotoff <https://github.com/tkrotoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "c4dd598c95d8f9e6f362e8a29143b576729ee16ae236b3dc410a91f8ed604baf",
+			"_id": "@types/relateurl@0.2.28",
+			"dist": {
+				"shasum": "6bda7db8653fa62643f5ee69e9f69c11a392e3a6",
+				"size": 2065,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.28.tgz_1474308439006_0.2667194288223982"
+			},
+			"directories": {},
+			"publish_time": 1474308442280,
+			"_cnpm_publish_time": 1474308442280,
+			"_hasShrinkwrap": false
+		},
+		"0.2.27": {
+			"name": "@types/relateurl",
+			"version": "0.2.27",
+			"description": "TypeScript definitions for relateurl v0.2.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/relateurl@0.2.27",
+			"_shasum": "0b1f53c9bd03148bb35d331f5fb3066dd3366e1f",
+			"_from": "output\\relateurl",
+			"_resolved": "file:output\\relateurl",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0b1f53c9bd03148bb35d331f5fb3066dd3366e1f",
+				"size": 2044,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.27.tgz_1468511751056_0.2421153523027897"
+			},
+			"directories": {},
+			"publish_time": 1468511753224,
+			"_cnpm_publish_time": 1468511753224,
+			"_hasShrinkwrap": false
+		},
+		"0.2.26-alpha": {
+			"name": "@types/relateurl",
+			"version": "0.2.26-alpha",
+			"description": "TypeScript definitions for relateurl v0.2.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/relateurl@0.2.26-alpha",
+			"_shasum": "5ae5036bc28ed7aacbb125ff2834d230fcf6c1c8",
+			"_from": "output\\relateurl",
+			"_resolved": "file:output\\relateurl",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5ae5036bc28ed7aacbb125ff2834d230fcf6c1c8",
+				"size": 2049,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.26-alpha.tgz_1468012533669_0.20862491289153695"
+			},
+			"directories": {},
+			"publish_time": 1468012535115,
+			"_cnpm_publish_time": 1468012535115,
+			"_hasShrinkwrap": false
+		},
+		"0.2.25-alpha": {
+			"name": "@types/relateurl",
+			"version": "0.2.25-alpha",
+			"description": "TypeScript definitions for relateurl v0.2.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/relateurl@0.2.25-alpha",
+			"_shasum": "272df7dee47554cef11783634ed1f2f9bb7a167f",
+			"_from": "output\\relateurl",
+			"_resolved": "file:output\\relateurl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "272df7dee47554cef11783634ed1f2f9bb7a167f",
+				"size": 2051,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.25-alpha.tgz_1467594845747_0.9927766730543226"
+			},
+			"directories": {},
+			"publish_time": 1467594849179,
+			"_cnpm_publish_time": 1467594849179,
+			"_hasShrinkwrap": false
+		},
+		"0.2.24-alpha": {
+			"name": "@types/relateurl",
+			"version": "0.2.24-alpha",
+			"description": "TypeScript definitions for relateurl v0.2.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/relateurl@0.2.24-alpha",
+			"_shasum": "18fd81d18c5cc4eb00cc50da97b7398c9bae7ec1",
+			"_from": "output\\relateurl",
+			"_resolved": "file:output\\relateurl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "18fd81d18c5cc4eb00cc50da97b7398c9bae7ec1",
+				"size": 2050,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.24-alpha.tgz_1467429463560_0.34867180488072336"
+			},
+			"directories": {},
+			"publish_time": 1467429466971,
+			"_cnpm_publish_time": 1467429466971,
+			"_hasShrinkwrap": false
+		},
+		"0.2.23-alpha": {
+			"name": "@types/relateurl",
+			"version": "0.2.23-alpha",
+			"description": "TypeScript definitions for relateurl v0.2.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/relateurl@0.2.23-alpha",
+			"_shasum": "f84d8e515e27c3807442b96962c44fa32db5d955",
+			"_from": "output\\relateurl",
+			"_resolved": "file:output\\relateurl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f84d8e515e27c3807442b96962c44fa32db5d955",
+				"size": 2052,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.23-alpha.tgz_1467417172915_0.1293475329875946"
+			},
+			"directories": {},
+			"publish_time": 1467417176599,
+			"_cnpm_publish_time": 1467417176599,
+			"_hasShrinkwrap": false
+		},
+		"0.2.22-alpha": {
+			"name": "@types/relateurl",
+			"version": "0.2.22-alpha",
+			"description": "TypeScript definitions for relateurl v0.2.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/relateurl@0.2.22-alpha",
+			"_shasum": "054e86dbd26e1d9c4bf22ff2e0d2995ad509aed0",
+			"_from": "output\\relateurl",
+			"_resolved": "file:output\\relateurl",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "054e86dbd26e1d9c4bf22ff2e0d2995ad509aed0",
+				"size": 2044,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.22-alpha.tgz_1467404842124_0.40277186897583306"
+			},
+			"directories": {},
+			"publish_time": 1467404845611,
+			"_cnpm_publish_time": 1467404845611,
+			"_hasShrinkwrap": false
+		},
+		"0.2.21-alpha": {
+			"name": "@types/relateurl",
+			"version": "0.2.21-alpha",
+			"description": "TypeScript definitions for relateurl v0.2.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/relateurl@0.2.21-alpha",
+			"_shasum": "dad1cf14585c133961d038587ace70f2247093d5",
+			"_from": "output\\relateurl",
+			"_resolved": "file:output\\relateurl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dad1cf14585c133961d038587ace70f2247093d5",
+				"size": 2021,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.21-alpha.tgz_1464155461258_0.9899645769037306"
+			},
+			"directories": {},
+			"publish_time": 1464155463974,
+			"_cnpm_publish_time": 1464155463974,
+			"_hasShrinkwrap": false
+		},
+		"0.2.20-alpha": {
+			"name": "@types/relateurl",
+			"version": "0.2.20-alpha",
+			"description": "TypeScript definitions for relateurl v0.2.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/relateurl@0.2.20-alpha",
+			"_shasum": "8b635ca6a74745b8c34bf53a74d2c9f8807a5cea",
+			"_from": "output\\relateurl",
+			"_resolved": "file:output\\relateurl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8b635ca6a74745b8c34bf53a74d2c9f8807a5cea",
+				"size": 2020,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.20-alpha.tgz_1463776505291_0.6774692926555872"
+			},
+			"directories": {},
+			"publish_time": 1463776507271,
+			"_cnpm_publish_time": 1463776507271,
+			"_hasShrinkwrap": false
+		},
+		"0.2.15-alpha": {
+			"name": "@types/relateurl",
+			"version": "0.2.15-alpha",
+			"description": "Type definitions for relateurl v0.2.6 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/relateurl@0.2.15-alpha",
+			"_shasum": "a0a8fd41006e194e90e656456eacfce7530e4445",
+			"_from": "output\\relateurl",
+			"_resolved": "file:output\\relateurl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a0a8fd41006e194e90e656456eacfce7530e4445",
+				"size": 2025,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.15-alpha.tgz_1463696079018_0.90205171960406"
+			},
+			"directories": {},
+			"publish_time": 1463696079611,
+			"_cnpm_publish_time": 1463696079611,
+			"_hasShrinkwrap": false
+		},
+		"0.2.14-alpha": {
+			"name": "@types/relateurl",
+			"version": "0.2.14-alpha",
+			"description": "Type definitions for relateurl v0.2.6 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/relateurl@0.2.14-alpha",
+			"_shasum": "cecab03ed5b59e649445fbd33c13679e4d0d5a04",
+			"_from": "output\\relateurl",
+			"_resolved": "file:output\\relateurl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cecab03ed5b59e649445fbd33c13679e4d0d5a04",
+				"size": 2013,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/relateurl-0.2.14-alpha.tgz_1463510920646_0.4475776948966086"
+			},
+			"directories": {},
+			"publish_time": 1463510925018,
+			"_cnpm_publish_time": 1463510925018,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.2.28",
+		"ts2.0": "0.2.28",
+		"ts2.1": "0.2.28",
+		"ts2.2": "0.2.28",
+		"ts2.3": "0.2.28",
+		"ts2.4": "0.2.28",
+		"ts2.5": "0.2.28",
+		"ts2.6": "0.2.28",
+		"ts2.7": "0.2.28",
+		"ts2.8": "0.2.28",
+		"ts2.9": "0.2.28",
+		"ts3.0": "0.2.28",
+		"ts3.1": "0.2.28",
+		"ts3.2": "0.2.28"
+	},
+	"time": {
+		"modified": "2018-10-10T20:27:43.000Z",
+		"created": "2016-05-17T18:48:45.018Z",
+		"0.2.28": "2016-09-19T18:07:22.280Z",
+		"0.2.27": "2016-07-14T15:55:53.224Z",
+		"0.2.26-alpha": "2016-07-08T21:15:35.115Z",
+		"0.2.25-alpha": "2016-07-04T01:14:09.179Z",
+		"0.2.24-alpha": "2016-07-02T03:17:46.971Z",
+		"0.2.23-alpha": "2016-07-01T23:52:56.599Z",
+		"0.2.22-alpha": "2016-07-01T20:27:25.611Z",
+		"0.2.21-alpha": "2016-05-25T05:51:03.974Z",
+		"0.2.20-alpha": "2016-05-20T20:35:07.271Z",
+		"0.2.15-alpha": "2016-05-19T22:14:39.611Z",
+		"0.2.14-alpha": "2016-05-17T18:48:45.018Z"
+	},
+	"_distfiles": {
+		"relateurl-0.2.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.28.tgz",
+			"sha": "6bda7db8653fa62643f5ee69e9f69c11a392e3a6",
+			"registry": "cnpmjs"
+		},
+		"relateurl-0.2.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.27.tgz",
+			"sha": "0b1f53c9bd03148bb35d331f5fb3066dd3366e1f",
+			"registry": "cnpmjs"
+		},
+		"relateurl-0.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.26-alpha.tgz",
+			"sha": "5ae5036bc28ed7aacbb125ff2834d230fcf6c1c8",
+			"registry": "cnpmjs"
+		},
+		"relateurl-0.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.25-alpha.tgz",
+			"sha": "272df7dee47554cef11783634ed1f2f9bb7a167f",
+			"registry": "cnpmjs"
+		},
+		"relateurl-0.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.24-alpha.tgz",
+			"sha": "18fd81d18c5cc4eb00cc50da97b7398c9bae7ec1",
+			"registry": "cnpmjs"
+		},
+		"relateurl-0.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.23-alpha.tgz",
+			"sha": "f84d8e515e27c3807442b96962c44fa32db5d955",
+			"registry": "cnpmjs"
+		},
+		"relateurl-0.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.22-alpha.tgz",
+			"sha": "054e86dbd26e1d9c4bf22ff2e0d2995ad509aed0",
+			"registry": "cnpmjs"
+		},
+		"relateurl-0.2.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.21-alpha.tgz",
+			"sha": "dad1cf14585c133961d038587ace70f2247093d5",
+			"registry": "cnpmjs"
+		},
+		"relateurl-0.2.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.20-alpha.tgz",
+			"sha": "8b635ca6a74745b8c34bf53a74d2c9f8807a5cea",
+			"registry": "cnpmjs"
+		},
+		"relateurl-0.2.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.15-alpha.tgz",
+			"sha": "a0a8fd41006e194e90e656456eacfce7530e4445",
+			"registry": "cnpmjs"
+		},
+		"relateurl-0.2.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/relateurl/download/@types/relateurl-0.2.14-alpha.tgz",
+			"sha": "cecab03ed5b59e649445fbd33c13679e4d0d5a04",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3757-2KgKg0nt00/N0Vw8vayieFq/mKY\"",
+			"fetched": 1541833468609
+		}
+	},
+	"_rev": "5-c8749c93a82a4e79",
+	"readme": "# Installation\r\n> `npm install --save @types/relateurl`\r\n\r\n# Summary\r\nThis package contains type definitions for relateurl v0.2.6 (https://github.com/stevenvachon/relateurl).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/relateurl\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 17:28:59 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: RelateUrl\r\n\r\n# Credits\r\nThese definitions were written by Tanguy Krotoff <https://github.com/tkrotoff>."
+}

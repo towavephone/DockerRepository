@@ -1,0 +1,949 @@
+{
+	"name": "@types/acorn",
+	"versions": {
+		"4.0.3": {
+			"name": "@types/acorn",
+			"version": "4.0.3",
+			"description": "TypeScript definitions for Acorn",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "RReverser",
+					"url": "https://github.com/RReverser",
+					"githubUsername": "RReverser"
+				},
+				{
+					"name": "e-cloud",
+					"url": "https://github.com/e-cloud",
+					"githubUsername": "e-cloud"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"typesPublisherContentHash": "0e6b6ce448ffe2e23033a5fa7511f4474885c5abbbd8d862c29b28fc9ad53a25",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/acorn@4.0.3",
+			"dist": {
+				"shasum": "d1f3e738dde52536f9aad3d3380d14e448820afd",
+				"size": 3104,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-4.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/acorn-4.0.3.tgz_1510044724468_0.7568794963881373"
+			},
+			"directories": {},
+			"publish_time": 1510044724555,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510044724555
+		},
+		"4.0.2": {
+			"name": "@types/acorn",
+			"version": "4.0.2",
+			"description": "TypeScript definitions for Acorn",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "RReverser",
+					"url": "https://github.com/RReverser"
+				},
+				{
+					"name": "e-cloud",
+					"url": "https://github.com/e-cloud"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "0efd284bbb65298e86b7cb2c62b1b643667699871802688ed50cc0a628300e94",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/acorn@4.0.2",
+			"dist": {
+				"shasum": "5c37dade857a53c14258c914d43e634076aec3fd",
+				"size": 2414,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-4.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/acorn-4.0.2.tgz_1491939367688_0.2755737924017012"
+			},
+			"directories": {},
+			"publish_time": 1491939369415,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1491939369415
+		},
+		"4.0.1": {
+			"name": "@types/acorn",
+			"version": "4.0.1",
+			"description": "TypeScript definitions for Acorn",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "RReverser",
+					"url": "https://github.com/RReverser"
+				},
+				{
+					"name": "e-cloud",
+					"url": "https://github.com/e-cloud"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c425f3b22a6beb444a9845e19cbc124bf219cf88ad825babff56d2014ddc4830",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/acorn@4.0.1",
+			"dist": {
+				"shasum": "c8026c62acfb986d4e46933a9cb3ad20fa3c1842",
+				"size": 2396,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/acorn-4.0.1.tgz_1488916453421_0.7284322471823543"
+			},
+			"directories": {},
+			"publish_time": 1488916453705,
+			"_cnpm_publish_time": 1488916453705,
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "@types/acorn",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for Acorn",
+			"license": "MIT",
+			"author": "RReverser <https://github.com/RReverser>, e-cloud <https://github.com/e-cloud>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "925cf17cf57aaff08977a4218a9f39c7929ac99550211d37f4d3998a3fac028a",
+			"_id": "@types/acorn@4.0.0",
+			"dist": {
+				"shasum": "c005dba82721922725fbfb86cd329c89d58a981f",
+				"size": 2592,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/acorn-4.0.0.tgz_1481820743046_0.7342144900467247"
+			},
+			"directories": {},
+			"publish_time": 1481820743280,
+			"_cnpm_publish_time": 1481820743280,
+			"_hasShrinkwrap": false
+		},
+		"1.0.31": {
+			"name": "@types/acorn",
+			"version": "1.0.31",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"license": "MIT",
+			"author": "RReverser <https://github.com/RReverser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "dfdc5109c3e51f980c77026c5ef2ba7964001d315c777121c52b7631c1ed9777",
+			"_id": "@types/acorn@1.0.31",
+			"dist": {
+				"shasum": "f6cf5879989a1f6677023896847af1e4fe3345ba",
+				"size": 1586,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.31.tgz_1474301809515_0.8200544486753643"
+			},
+			"directories": {},
+			"publish_time": 1474301811557,
+			"_cnpm_publish_time": 1474301811557,
+			"_hasShrinkwrap": false
+		},
+		"1.0.30": {
+			"name": "@types/acorn",
+			"version": "1.0.30",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"license": "MIT",
+			"author": "RReverser <https://github.com/RReverser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/acorn@1.0.30",
+			"dist": {
+				"shasum": "f1102f1137a60dcc2fa029e91d00f29671e2811c",
+				"size": 1581,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.30.tgz_1472149955896_0.3841919593978673"
+			},
+			"directories": {},
+			"publish_time": 1472149957885,
+			"_cnpm_publish_time": 1472149957885,
+			"_hasShrinkwrap": false
+		},
+		"1.0.29": {
+			"name": "@types/acorn",
+			"version": "1.0.29",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"license": "MIT",
+			"author": "RReverser <https://github.com/RReverser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/acorn@1.0.29",
+			"dist": {
+				"shasum": "a2a7ec8d5505835498d581585068dcb57ae66a55",
+				"size": 1579,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.29.tgz_1470688274948_0.17084492184221745"
+			},
+			"directories": {},
+			"publish_time": 1470688278617,
+			"_cnpm_publish_time": 1470688278617,
+			"_hasShrinkwrap": false
+		},
+		"1.0.28": {
+			"name": "@types/acorn",
+			"version": "1.0.28",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "RReverser",
+				"email": "https://github.com/RReverser"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.*"
+			},
+			"_id": "@types/acorn@1.0.28",
+			"_shasum": "9606c0ab6586a7bb07015f2c2fb12a8d2823913c",
+			"_from": "output\\acorn",
+			"_resolved": "file:output\\acorn",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9606c0ab6586a7bb07015f2c2fb12a8d2823913c",
+				"size": 1560,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.28.tgz_1468504592298_0.13516565295867622"
+			},
+			"directories": {},
+			"publish_time": 1468504594510,
+			"_cnpm_publish_time": 1468504594510,
+			"_hasShrinkwrap": false
+		},
+		"1.0.27-alpha": {
+			"name": "@types/acorn",
+			"version": "1.0.27-alpha",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "RReverser",
+				"email": "https://github.com/RReverser"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.27-alpha"
+			},
+			"_id": "@types/acorn@1.0.27-alpha",
+			"_shasum": "30a834b5ea5e221b33d28497c635604206627286",
+			"_from": "output\\acorn",
+			"_resolved": "file:output\\acorn",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "30a834b5ea5e221b33d28497c635604206627286",
+				"size": 1562,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.27-alpha.tgz_1468006101817_0.0017313663847744465"
+			},
+			"directories": {},
+			"publish_time": 1468006102264,
+			"_cnpm_publish_time": 1468006102264,
+			"_hasShrinkwrap": false
+		},
+		"1.0.26-alpha": {
+			"name": "@types/acorn",
+			"version": "1.0.26-alpha",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "RReverser",
+				"email": "https://github.com/RReverser"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.26-alpha"
+			},
+			"_id": "@types/acorn@1.0.26-alpha",
+			"_shasum": "38064a44d73bd604816614247034bcb62c40b939",
+			"_from": "output\\acorn",
+			"_resolved": "file:output\\acorn",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "38064a44d73bd604816614247034bcb62c40b939",
+				"size": 1560,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.26-alpha.tgz_1467589404476_0.749067208962515"
+			},
+			"directories": {},
+			"publish_time": 1467589404979,
+			"_cnpm_publish_time": 1467589404979,
+			"_hasShrinkwrap": false
+		},
+		"1.0.25-alpha": {
+			"name": "@types/acorn",
+			"version": "1.0.25-alpha",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "RReverser",
+				"email": "https://github.com/RReverser"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.24-alpha"
+			},
+			"_id": "@types/acorn@1.0.25-alpha",
+			"_shasum": "7ebe2aefaf7e96fbc1eee4ffc91e58f0c4bfda5d",
+			"_from": "output\\acorn",
+			"_resolved": "file:output\\acorn",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7ebe2aefaf7e96fbc1eee4ffc91e58f0c4bfda5d",
+				"size": 1564,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.25-alpha.tgz_1467424387130_0.5262761395424604"
+			},
+			"directories": {},
+			"publish_time": 1467424387698,
+			"_cnpm_publish_time": 1467424387698,
+			"_hasShrinkwrap": false
+		},
+		"1.0.24-alpha": {
+			"name": "@types/acorn",
+			"version": "1.0.24-alpha",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "RReverser",
+				"email": "https://github.com/RReverser"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.23-alpha"
+			},
+			"_id": "@types/acorn@1.0.24-alpha",
+			"_shasum": "8bd0a63c074359500a5e33a6e030b8cd3cca9553",
+			"_from": "output\\acorn",
+			"_resolved": "file:output\\acorn",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8bd0a63c074359500a5e33a6e030b8cd3cca9553",
+				"size": 1564,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.24-alpha.tgz_1467410820933_0.6504774591885507"
+			},
+			"directories": {},
+			"publish_time": 1467410823073,
+			"_cnpm_publish_time": 1467410823073,
+			"_hasShrinkwrap": false
+		},
+		"1.0.23-alpha": {
+			"name": "@types/acorn",
+			"version": "1.0.23-alpha",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "RReverser",
+				"email": "https://github.com/RReverser"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.*"
+			},
+			"_id": "@types/acorn@1.0.23-alpha",
+			"_shasum": "01b2d841f3cc4a03c17164c4ee95f09d670cd7cb",
+			"_from": "output\\acorn",
+			"_resolved": "file:output\\acorn",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "01b2d841f3cc4a03c17164c4ee95f09d670cd7cb",
+				"size": 1558,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.23-alpha.tgz_1467399211981_0.6310087013989687"
+			},
+			"directories": {},
+			"publish_time": 1467399214225,
+			"_cnpm_publish_time": 1467399214225,
+			"_hasShrinkwrap": false
+		},
+		"1.0.22-alpha": {
+			"name": "@types/acorn",
+			"version": "1.0.22-alpha",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "RReverser",
+				"email": "https://github.com/RReverser"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"_id": "@types/acorn@1.0.22-alpha",
+			"_shasum": "0ae8a9839e0d6d7bb473994c831e8d01edf707d7",
+			"_from": "output\\acorn",
+			"_resolved": "file:output\\acorn",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0ae8a9839e0d6d7bb473994c831e8d01edf707d7",
+				"size": 1532,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.22-alpha.tgz_1464150199816_0.39286130713298917"
+			},
+			"directories": {},
+			"publish_time": 1464150201089,
+			"_cnpm_publish_time": 1464150201089,
+			"_hasShrinkwrap": false
+		},
+		"1.0.21-alpha": {
+			"name": "@types/acorn",
+			"version": "1.0.21-alpha",
+			"description": "TypeScript definitions for Acorn v1.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "RReverser",
+				"email": "https://github.com/RReverser"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"_id": "@types/acorn@1.0.21-alpha",
+			"_shasum": "7170ac2164a400b21ca406aa643647f69ce2d3dd",
+			"_from": "output\\acorn",
+			"_resolved": "file:output\\acorn",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7170ac2164a400b21ca406aa643647f69ce2d3dd",
+				"size": 1530,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.21-alpha.tgz_1463771062467_0.8013273463584483"
+			},
+			"directories": {},
+			"publish_time": 1463771062894,
+			"_cnpm_publish_time": 1463771062894,
+			"_hasShrinkwrap": false
+		},
+		"1.0.16-alpha": {
+			"name": "@types/acorn",
+			"version": "1.0.16-alpha",
+			"description": "Type definitions for Acorn v1.0.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "RReverser",
+				"email": "https://github.com/RReverser"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"_id": "@types/acorn@1.0.16-alpha",
+			"_shasum": "97615ae922a662e83a0abb96d9e0480f48f23c37",
+			"_from": "output\\acorn",
+			"_resolved": "file:output\\acorn",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "97615ae922a662e83a0abb96d9e0480f48f23c37",
+				"size": 1537,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.16-alpha.tgz_1463688473875_0.3824467489030212"
+			},
+			"directories": {},
+			"publish_time": 1463688479486,
+			"_cnpm_publish_time": 1463688479486,
+			"_hasShrinkwrap": false
+		},
+		"1.0.15-alpha": {
+			"name": "@types/acorn",
+			"version": "1.0.15-alpha",
+			"description": "Type definitions for Acorn v1.0.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "RReverser",
+				"email": "https://github.com/RReverser"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/acorn@1.0.15-alpha",
+			"_shasum": "9c30e146424ff2d2115ea499a88c33fa950aa78b",
+			"_from": "output\\acorn",
+			"_resolved": "file:output\\acorn",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9c30e146424ff2d2115ea499a88c33fa950aa78b",
+				"size": 1510,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/acorn-1.0.15-alpha.tgz_1463458807000_0.804981242865324"
+			},
+			"directories": {},
+			"publish_time": 1463458810626,
+			"_cnpm_publish_time": 1463458810626,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "4.0.3",
+		"ts2.0": "4.0.3",
+		"ts2.1": "4.0.3",
+		"ts2.2": "4.0.3",
+		"ts2.3": "4.0.3",
+		"ts2.4": "4.0.3",
+		"ts2.5": "4.0.3",
+		"ts2.6": "4.0.3",
+		"ts2.7": "4.0.3",
+		"ts2.8": "4.0.3",
+		"ts2.9": "4.0.3",
+		"ts3.0": "4.0.3",
+		"ts3.1": "4.0.3",
+		"ts3.2": "4.0.3"
+	},
+	"time": {
+		"modified": "2018-10-10T19:50:43.000Z",
+		"created": "2016-05-17T04:20:10.626Z",
+		"4.0.3": "2017-11-07T08:52:04.555Z",
+		"4.0.2": "2017-04-11T19:36:09.415Z",
+		"4.0.1": "2017-03-07T19:54:13.705Z",
+		"4.0.0": "2016-12-15T16:52:23.280Z",
+		"1.0.31": "2016-09-19T16:16:51.557Z",
+		"1.0.30": "2016-08-25T18:32:37.885Z",
+		"1.0.29": "2016-08-08T20:31:18.617Z",
+		"1.0.28": "2016-07-14T13:56:34.510Z",
+		"1.0.27-alpha": "2016-07-08T19:28:22.264Z",
+		"1.0.26-alpha": "2016-07-03T23:43:24.979Z",
+		"1.0.25-alpha": "2016-07-02T01:53:07.698Z",
+		"1.0.24-alpha": "2016-07-01T22:07:03.073Z",
+		"1.0.23-alpha": "2016-07-01T18:53:34.225Z",
+		"1.0.22-alpha": "2016-05-25T04:23:21.089Z",
+		"1.0.21-alpha": "2016-05-20T19:04:22.894Z",
+		"1.0.16-alpha": "2016-05-19T20:07:59.486Z",
+		"1.0.15-alpha": "2016-05-17T04:20:10.626Z"
+	},
+	"_distfiles": {
+		"acorn-4.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-4.0.3.tgz",
+			"sha": "d1f3e738dde52536f9aad3d3380d14e448820afd",
+			"registry": "cnpmjs"
+		},
+		"acorn-4.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-4.0.2.tgz",
+			"sha": "5c37dade857a53c14258c914d43e634076aec3fd",
+			"registry": "cnpmjs"
+		},
+		"acorn-4.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-4.0.1.tgz",
+			"sha": "c8026c62acfb986d4e46933a9cb3ad20fa3c1842",
+			"registry": "cnpmjs"
+		},
+		"acorn-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-4.0.0.tgz",
+			"sha": "c005dba82721922725fbfb86cd329c89d58a981f",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.31.tgz",
+			"sha": "f6cf5879989a1f6677023896847af1e4fe3345ba",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.30.tgz",
+			"sha": "f1102f1137a60dcc2fa029e91d00f29671e2811c",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.29.tgz",
+			"sha": "a2a7ec8d5505835498d581585068dcb57ae66a55",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.28.tgz",
+			"sha": "9606c0ab6586a7bb07015f2c2fb12a8d2823913c",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.27-alpha.tgz",
+			"sha": "30a834b5ea5e221b33d28497c635604206627286",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.26-alpha.tgz",
+			"sha": "38064a44d73bd604816614247034bcb62c40b939",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.25-alpha.tgz",
+			"sha": "7ebe2aefaf7e96fbc1eee4ffc91e58f0c4bfda5d",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.24-alpha.tgz",
+			"sha": "8bd0a63c074359500a5e33a6e030b8cd3cca9553",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.23-alpha.tgz",
+			"sha": "01b2d841f3cc4a03c17164c4ee95f09d670cd7cb",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.22-alpha.tgz",
+			"sha": "0ae8a9839e0d6d7bb473994c831e8d01edf707d7",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.21-alpha.tgz",
+			"sha": "7170ac2164a400b21ca406aa643647f69ce2d3dd",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.16-alpha.tgz",
+			"sha": "97615ae922a662e83a0abb96d9e0480f48f23c37",
+			"registry": "cnpmjs"
+		},
+		"acorn-1.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/acorn/download/@types/acorn-1.0.15-alpha.tgz",
+			"sha": "9c30e146424ff2d2115ea499a88c33fa950aa78b",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833444616
+		}
+	},
+	"_rev": "2-634c0eb3fb4b433d",
+	"readme": "# Installation\r\n> `npm install --save @types/acorn`\r\n\r\n# Summary\r\nThis package contains type definitions for Acorn (https://github.com/marijnh/acorn).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/acorn\r\n\r\nAdditional Details\r\n * Last updated: Tue, 07 Nov 2017 08:51:22 GMT\r\n * Dependencies: estree\r\n * Global values: acorn\r\n\r\n# Credits\r\nThese definitions were written by RReverser <https://github.com/RReverser>, e-cloud <https://github.com/e-cloud>."
+}

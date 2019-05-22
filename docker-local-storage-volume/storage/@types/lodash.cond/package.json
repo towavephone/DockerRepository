@@ -1,0 +1,163 @@
+{
+	"name": "@types/lodash.cond",
+	"versions": {
+		"4.5.0": {
+			"name": "@types/lodash.cond",
+			"version": "4.5.0",
+			"description": "TypeScript definitions for lodash.cond",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "b1c761a999962fbeeee1b610b78dd78ffd38c8fd77102066b61c47f11b31181d",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.cond@4.5.0",
+			"dist": {
+				"shasum": "e970921ab30353e0df6776b2fec9e2d6949234dd",
+				"size": 1593,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.cond/download/@types/lodash.cond-4.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.cond-4.5.0.tgz_1506373249204_0.7382433018647134"
+			},
+			"directories": {},
+			"publish_time": 1506373249306,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506373249306
+		},
+		"4.5.1": {
+			"name": "@types/lodash.cond",
+			"version": "4.5.1",
+			"description": "TypeScript definitions for lodash.cond",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "ab753cbd9fa954e4ac339ef166faa60bf2c3b245a483ec90fbe76a2d56547341",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.cond@4.5.1",
+			"dist": {
+				"shasum": "3cbbcd4687b1e2eff9c8c7163dc05de469b2eb6b",
+				"size": 1586,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.cond/download/@types/lodash.cond-4.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.cond_4.5.1_1532392761156_0.43696231221056236"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532392761222,
+			"_cnpm_publish_time": 1532392761222
+		}
+	},
+	"dist-tags": {
+		"latest": "4.5.1",
+		"ts2.2": "4.5.0",
+		"ts2.3": "4.5.0",
+		"ts2.4": "4.5.0",
+		"ts2.5": "4.5.0",
+		"ts2.6": "4.5.1",
+		"ts2.7": "4.5.1",
+		"ts2.8": "4.5.1",
+		"ts2.9": "4.5.1",
+		"ts3.0": "4.5.1",
+		"ts3.1": "4.5.1",
+		"ts3.2": "4.5.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:16:01.000Z",
+		"created": "2017-09-25T21:00:49.306Z",
+		"4.5.1": "2018-07-24T00:39:21.222Z",
+		"4.5.0": "2017-09-25T21:00:49.306Z"
+	},
+	"_distfiles": {
+		"lodash.cond-4.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.cond/download/@types/lodash.cond-4.5.0.tgz",
+			"sha": "e970921ab30353e0df6776b2fec9e2d6949234dd",
+			"registry": "cnpmjs"
+		},
+		"lodash.cond-4.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.cond/download/@types/lodash.cond-4.5.1.tgz",
+			"sha": "3cbbcd4687b1e2eff9c8c7163dc05de469b2eb6b",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833484353
+		}
+	},
+	"_rev": "2-874be2e46a2b33d2",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.cond`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.cond (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.cond\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

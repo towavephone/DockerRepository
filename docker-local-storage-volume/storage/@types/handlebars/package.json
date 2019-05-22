@@ -1,0 +1,1291 @@
+{
+	"name": "@types/handlebars",
+	"versions": {
+		"4.0.38": {
+			"name": "@types/handlebars",
+			"version": "4.0.38",
+			"description": "TypeScript definitions for Handlebars",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Sergei Dorogin",
+					"url": "https://github.com/evil-shrike",
+					"githubUsername": "evil-shrike"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "500e5d576bb93b82450c9885fabe6aa38d740b66987f13b425b7fc7916a0a5a8",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/handlebars@4.0.38",
+			"dist": {
+				"shasum": "d0ebec1934c0bba97f99a0cb703fe2ef8c4a662f",
+				"size": 3513,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.38.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/handlebars_4.0.38_1528401498517_0.10977146045265296"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1528401498593,
+			"_cnpm_publish_time": 1528401498593
+		},
+		"4.0.37": {
+			"name": "@types/handlebars",
+			"version": "4.0.37",
+			"description": "TypeScript definitions for Handlebars",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Sergei Dorogin",
+					"url": "https://github.com/evil-shrike",
+					"githubUsername": "evil-shrike"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "791dc3f0978524ab495217f104cffcff895b81da9e5789b2b8cae9f69611bf30",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/handlebars@4.0.37",
+			"dist": {
+				"shasum": "a3bc3eba0c0f03f753cac00841a5b21e26a02c03",
+				"size": 3538,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.37.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/handlebars_4.0.37_1523381622805_0.6198289380580715"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523381622888,
+			"_cnpm_publish_time": 1523381622888
+		},
+		"4.0.36": {
+			"name": "@types/handlebars",
+			"version": "4.0.36",
+			"description": "TypeScript definitions for Handlebars",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b167b96ccb32218bf2c92fa78736f8d47375fbf79150dec912cc8c4f12449297",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/handlebars@4.0.36",
+			"dist": {
+				"shasum": "ff57c77fa1ab6713bb446534ddc4d979707a3a79",
+				"size": 3272,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/handlebars-4.0.36.tgz_1503352384256_0.6102552879601717"
+			},
+			"directories": {},
+			"publish_time": 1503352384349,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352384349
+		},
+		"4.0.35": {
+			"name": "@types/handlebars",
+			"version": "4.0.35",
+			"description": "TypeScript definitions for Handlebars",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "03ffb79cf0eee8482a5b5a2660eed0ebf7060e817aa247fdf3dae868c62fc57f",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/handlebars@4.0.35",
+			"dist": {
+				"shasum": "409eb97a3ad6970daba4d586cb6afe3f5e082c01",
+				"size": 3276,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/handlebars-4.0.35.tgz_1500919327266_0.9386080969125032"
+			},
+			"directories": {},
+			"publish_time": 1500919327425,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500919327425
+		},
+		"4.0.34": {
+			"name": "@types/handlebars",
+			"version": "4.0.34",
+			"description": "TypeScript definitions for Handlebars",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "838ad785c8d0e6e3dd0c2689e3ae908d16a2b19327c5e0cf30e26649be5b170d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/handlebars@4.0.34",
+			"dist": {
+				"shasum": "7b7b887b55bfaaa5bb2183a932a97bd4161c3671",
+				"size": 3267,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/handlebars-4.0.34.tgz_1499894229507_0.07894737017340958"
+			},
+			"directories": {},
+			"publish_time": 1499894229592,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1499894229592
+		},
+		"4.0.33": {
+			"name": "@types/handlebars",
+			"version": "4.0.33",
+			"description": "TypeScript definitions for Handlebars",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c3a58054ab5c93748812eab8f9ac0bba52c6277dfe00e34668ee4a574ac7e114",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/handlebars@4.0.33",
+			"dist": {
+				"shasum": "ee45696b067e4bdf15c3956710a4c36c17d8f8f0",
+				"size": 3203,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/handlebars-4.0.33.tgz_1496411153052_0.9686014109756798"
+			},
+			"directories": {},
+			"publish_time": 1496411153194,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496411153194
+		},
+		"4.0.32": {
+			"name": "@types/handlebars",
+			"version": "4.0.32",
+			"description": "TypeScript definitions for Handlebars",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "acb29e806e6b4bd283e8ac6d34f2a437d48ef822884b4b009302f8a6df48b281",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/handlebars@4.0.32",
+			"dist": {
+				"shasum": "637e8d945a9354aab47df7125005490fe9f8e592",
+				"size": 2495,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/handlebars-4.0.32.tgz_1489130965765_0.2800540663301945"
+			},
+			"directories": {},
+			"publish_time": 1489130965983,
+			"_cnpm_publish_time": 1489130965983,
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "@types/handlebars",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for Handlebars",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b0a0ceac8adcc02bca437ba00a138208a3e9253b864baf1e2a6dcb24ea225849",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/handlebars@1.0.1",
+			"dist": {
+				"shasum": "2b6041462f600d09d1781e91f8ce2147882cee2f",
+				"size": 1805,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/handlebars-1.0.1.tgz_1488291844245_0.18140574032440782"
+			},
+			"directories": {},
+			"publish_time": 1488291846016,
+			"_cnpm_publish_time": 1488291846016,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "@types/handlebars",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for Handlebars",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "51c4a5d89ea8acfd2e457556639c89685931b923dde4dafca80fc4461b7d4c59",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/handlebars@1.0.0",
+			"dist": {
+				"shasum": "97b39bbef387dc46b733bc279c0b81b78d1d454b",
+				"size": 1990,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/handlebars-1.0.0.tgz_1484074417872_0.3146122719626874"
+			},
+			"directories": {},
+			"publish_time": 1484074419847,
+			"_cnpm_publish_time": 1484074419847,
+			"_hasShrinkwrap": false
+		},
+		"4.0.31": {
+			"name": "@types/handlebars",
+			"version": "4.0.31",
+			"description": "TypeScript definitions for Handlebars v4.0.5",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "a34b62e3ce232bf15faa1c9e923b4504dc20c23bf74e4836c6a92c89ddf6e0ea",
+			"_id": "@types/handlebars@4.0.31",
+			"dist": {
+				"shasum": "a7fba66fafe42713aee88eeca8db91192efe6e72",
+				"size": 2668,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/handlebars-4.0.31.tgz_1474306719029_0.5857898984104395"
+			},
+			"directories": {},
+			"publish_time": 1474306722123,
+			"_cnpm_publish_time": 1474306722123,
+			"_hasShrinkwrap": false
+		},
+		"4.0.30": {
+			"name": "@types/handlebars",
+			"version": "4.0.30",
+			"description": "TypeScript definitions for Handlebars v4.0.5",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/handlebars@4.0.30",
+			"dist": {
+				"shasum": "a4bc4debc3b825a0c4a403162cf2b5c27f70fdd7",
+				"size": 2666,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/handlebars-4.0.30.tgz_1472150650799_0.685939681250602"
+			},
+			"directories": {},
+			"publish_time": 1472150651365,
+			"_cnpm_publish_time": 1472150651365,
+			"_hasShrinkwrap": false
+		},
+		"4.0.29": {
+			"name": "@types/handlebars",
+			"version": "4.0.29",
+			"description": "TypeScript definitions for Handlebars v4.0.5",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/handlebars@4.0.29",
+			"dist": {
+				"shasum": "dee8a6535a4005d7136dd7a6c3e6fe578b6b8276",
+				"size": 2666,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/handlebars-4.0.29.tgz_1470951841279_0.4012956826481968"
+			},
+			"directories": {},
+			"publish_time": 1470951841504,
+			"_cnpm_publish_time": 1470951841504,
+			"_hasShrinkwrap": false
+		},
+		"3.0.28": {
+			"name": "@types/handlebars",
+			"version": "3.0.28",
+			"description": "TypeScript definitions for Handlebars v3.0.3",
+			"license": "MIT",
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/handlebars@3.0.28",
+			"_shasum": "f0052620eb64040f238d325aa3360860388b1ccf",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f0052620eb64040f238d325aa3360860388b1ccf",
+				"size": 2255,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.28.tgz_1468933871751_0.8961744939442724"
+			},
+			"directories": {},
+			"publish_time": 1468933871989,
+			"_cnpm_publish_time": 1468933871989,
+			"_hasShrinkwrap": false
+		},
+		"3.0.27": {
+			"name": "@types/handlebars",
+			"version": "3.0.27",
+			"description": "TypeScript definitions for Handlebars v3.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/handlebars@3.0.27",
+			"_shasum": "fd2fea8979bb3f9f4c547788adcde8b9f48c2ef3",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fd2fea8979bb3f9f4c547788adcde8b9f48c2ef3",
+				"size": 2834,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.27.tgz_1468507818624_0.9815212537068874"
+			},
+			"directories": {},
+			"publish_time": 1468507822063,
+			"_cnpm_publish_time": 1468507822063,
+			"_hasShrinkwrap": false
+		},
+		"3.0.26-alpha": {
+			"name": "@types/handlebars",
+			"version": "3.0.26-alpha",
+			"description": "TypeScript definitions for Handlebars v3.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/handlebars@3.0.26-alpha",
+			"_shasum": "6fded53dabf2b7d4dcde538cffc037c26c4bb186",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6fded53dabf2b7d4dcde538cffc037c26c4bb186",
+				"size": 2838,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.26-alpha.tgz_1468009204131_0.9362237541936338"
+			},
+			"directories": {},
+			"publish_time": 1468009205682,
+			"_cnpm_publish_time": 1468009205682,
+			"_hasShrinkwrap": false
+		},
+		"3.0.25-alpha": {
+			"name": "@types/handlebars",
+			"version": "3.0.25-alpha",
+			"description": "TypeScript definitions for Handlebars v3.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/handlebars@3.0.25-alpha",
+			"_shasum": "a5f2643706ddede688b82fa8ff1656b390518370",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a5f2643706ddede688b82fa8ff1656b390518370",
+				"size": 2838,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.25-alpha.tgz_1467591736980_0.306097730062902"
+			},
+			"directories": {},
+			"publish_time": 1467591737620,
+			"_cnpm_publish_time": 1467591737620,
+			"_hasShrinkwrap": false
+		},
+		"3.0.24-alpha": {
+			"name": "@types/handlebars",
+			"version": "3.0.24-alpha",
+			"description": "TypeScript definitions for Handlebars v3.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/handlebars@3.0.24-alpha",
+			"_shasum": "9e66d694fa657355d56ab17dcd62dc6942ff7894",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9e66d694fa657355d56ab17dcd62dc6942ff7894",
+				"size": 2838,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.24-alpha.tgz_1467426796986_0.025057576596736908"
+			},
+			"directories": {},
+			"publish_time": 1467426797779,
+			"_cnpm_publish_time": 1467426797779,
+			"_hasShrinkwrap": false
+		},
+		"3.0.23-alpha": {
+			"name": "@types/handlebars",
+			"version": "3.0.23-alpha",
+			"description": "TypeScript definitions for Handlebars v3.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/handlebars@3.0.23-alpha",
+			"_shasum": "c56713525acc41b6cd416113d8ed408f88e6f396",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c56713525acc41b6cd416113d8ed408f88e6f396",
+				"size": 2836,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.23-alpha.tgz_1467413713881_0.33800960960797966"
+			},
+			"directories": {},
+			"publish_time": 1467413717419,
+			"_cnpm_publish_time": 1467413717419,
+			"_hasShrinkwrap": false
+		},
+		"3.0.22-alpha": {
+			"name": "@types/handlebars",
+			"version": "3.0.22-alpha",
+			"description": "TypeScript definitions for Handlebars v3.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/handlebars@3.0.22-alpha",
+			"_shasum": "1247be745d1f65dc820a44469408afc79d3e3158",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1247be745d1f65dc820a44469408afc79d3e3158",
+				"size": 2810,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.22-alpha.tgz_1467401569749_0.928353080758825"
+			},
+			"directories": {},
+			"publish_time": 1467401573456,
+			"_cnpm_publish_time": 1467401573456,
+			"_hasShrinkwrap": false
+		},
+		"3.0.21-alpha": {
+			"name": "@types/handlebars",
+			"version": "3.0.21-alpha",
+			"description": "TypeScript definitions for Handlebars v3.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/handlebars@3.0.21-alpha",
+			"_shasum": "1d989a9d810673c4dd040945b3dd029af4c393c7",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1d989a9d810673c4dd040945b3dd029af4c393c7",
+				"size": 2810,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.21-alpha.tgz_1464152628683_0.8138028376270086"
+			},
+			"directories": {},
+			"publish_time": 1464152629183,
+			"_cnpm_publish_time": 1464152629183,
+			"_hasShrinkwrap": false
+		},
+		"3.0.20-alpha": {
+			"name": "@types/handlebars",
+			"version": "3.0.20-alpha",
+			"description": "TypeScript definitions for Handlebars v3.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/handlebars@3.0.20-alpha",
+			"_shasum": "7da9a87703b021a92d798d3fab06d7c3076c4f9f",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7da9a87703b021a92d798d3fab06d7c3076c4f9f",
+				"size": 2809,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.20-alpha.tgz_1463773537948_0.19718910823576152"
+			},
+			"directories": {},
+			"publish_time": 1463773538378,
+			"_cnpm_publish_time": 1463773538378,
+			"_hasShrinkwrap": false
+		},
+		"3.0.15-alpha": {
+			"name": "@types/handlebars",
+			"version": "3.0.15-alpha",
+			"description": "Type definitions for Handlebars v3.0.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/handlebars@3.0.15-alpha",
+			"_shasum": "642bcf656b1d7c647d40dc911003b23f4602523a",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "642bcf656b1d7c647d40dc911003b23f4602523a",
+				"size": 2820,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.15-alpha.tgz_1463692079397_0.4522533072158694"
+			},
+			"directories": {},
+			"publish_time": 1463692082747,
+			"_cnpm_publish_time": 1463692082747,
+			"_hasShrinkwrap": false
+		},
+		"3.0.14-alpha": {
+			"name": "@types/handlebars",
+			"version": "3.0.14-alpha",
+			"description": "Type definitions for Handlebars v3.0.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Boris Yankov",
+				"email": "https://github.com/borisyankov/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/handlebars@3.0.14-alpha",
+			"_shasum": "5e863ccf6d0c40f5c6bccc80974996004e8851c1",
+			"_from": "output\\handlebars",
+			"_resolved": "file:output\\handlebars",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5e863ccf6d0c40f5c6bccc80974996004e8851c1",
+				"size": 2810,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/handlebars-3.0.14-alpha.tgz_1463461688252_0.23738498915918171"
+			},
+			"directories": {},
+			"publish_time": 1463461692082,
+			"_cnpm_publish_time": 1463461692082,
+			"_hasShrinkwrap": false
+		},
+		"4.0.39": {
+			"name": "@types/handlebars",
+			"version": "4.0.39",
+			"description": "TypeScript definitions for Handlebars",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "Sergei Dorogin",
+					"url": "https://github.com/evil-shrike",
+					"githubUsername": "evil-shrike"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "63c27c9594135c37784f920ab75e3219d0cccaa3eef92a82256dfc3714593e35",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/handlebars@4.0.39",
+			"dist": {
+				"shasum": "961fb54db68030890942e6aeffe9f93a957807bd",
+				"size": 3514,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.39.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/handlebars_4.0.39_1532392582817_0.15642828327814762"
+			},
+			"publish_time": 1532392582879,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1532392582879
+		}
+	},
+	"dist-tags": {
+		"latest": "4.0.39",
+		"ts2.0": "4.0.33",
+		"ts2.1": "4.0.33",
+		"ts2.2": "4.0.33",
+		"ts2.3": "4.0.39",
+		"ts2.4": "4.0.39",
+		"ts2.5": "4.0.39",
+		"ts2.6": "4.0.39",
+		"ts2.7": "4.0.39",
+		"ts2.8": "4.0.39",
+		"ts2.9": "4.0.39",
+		"ts3.0": "4.0.39",
+		"ts3.1": "4.0.39",
+		"ts3.2": "4.0.39"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:26.000Z",
+		"created": "2016-05-17T05:08:12.082Z",
+		"4.0.39": "2018-07-24T00:36:22.879Z",
+		"4.0.38": "2018-06-07T19:58:18.593Z",
+		"4.0.37": "2018-04-10T17:33:42.888Z",
+		"4.0.36": "2017-08-21T21:53:04.349Z",
+		"4.0.35": "2017-07-24T18:02:07.425Z",
+		"4.0.34": "2017-07-12T21:17:09.592Z",
+		"4.0.33": "2017-06-02T13:45:53.194Z",
+		"4.0.32": "2017-03-10T07:29:25.983Z",
+		"1.0.1": "2017-02-28T14:24:06.016Z",
+		"1.0.0": "2017-01-10T18:53:39.847Z",
+		"4.0.31": "2016-09-19T17:38:42.123Z",
+		"4.0.30": "2016-08-25T18:44:11.365Z",
+		"4.0.29": "2016-08-11T21:44:01.504Z",
+		"3.0.28": "2016-07-19T13:11:11.989Z",
+		"3.0.27": "2016-07-14T14:50:22.063Z",
+		"3.0.26-alpha": "2016-07-08T20:20:05.682Z",
+		"3.0.25-alpha": "2016-07-04T00:22:17.620Z",
+		"3.0.24-alpha": "2016-07-02T02:33:17.779Z",
+		"3.0.23-alpha": "2016-07-01T22:55:17.419Z",
+		"3.0.22-alpha": "2016-07-01T19:32:53.456Z",
+		"3.0.21-alpha": "2016-05-25T05:03:49.183Z",
+		"3.0.20-alpha": "2016-05-20T19:45:38.378Z",
+		"3.0.15-alpha": "2016-05-19T21:08:02.747Z",
+		"3.0.14-alpha": "2016-05-17T05:08:12.082Z"
+	},
+	"_distfiles": {
+		"handlebars-4.0.38.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.38.tgz",
+			"sha": "d0ebec1934c0bba97f99a0cb703fe2ef8c4a662f",
+			"registry": "cnpmjs"
+		},
+		"handlebars-4.0.37.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.37.tgz",
+			"sha": "a3bc3eba0c0f03f753cac00841a5b21e26a02c03",
+			"registry": "cnpmjs"
+		},
+		"handlebars-4.0.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.36.tgz",
+			"sha": "ff57c77fa1ab6713bb446534ddc4d979707a3a79",
+			"registry": "cnpmjs"
+		},
+		"handlebars-4.0.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.35.tgz",
+			"sha": "409eb97a3ad6970daba4d586cb6afe3f5e082c01",
+			"registry": "cnpmjs"
+		},
+		"handlebars-4.0.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.34.tgz",
+			"sha": "7b7b887b55bfaaa5bb2183a932a97bd4161c3671",
+			"registry": "cnpmjs"
+		},
+		"handlebars-4.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.33.tgz",
+			"sha": "ee45696b067e4bdf15c3956710a4c36c17d8f8f0",
+			"registry": "cnpmjs"
+		},
+		"handlebars-4.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.32.tgz",
+			"sha": "637e8d945a9354aab47df7125005490fe9f8e592",
+			"registry": "cnpmjs"
+		},
+		"handlebars-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-1.0.1.tgz",
+			"sha": "2b6041462f600d09d1781e91f8ce2147882cee2f",
+			"registry": "cnpmjs"
+		},
+		"handlebars-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-1.0.0.tgz",
+			"sha": "97b39bbef387dc46b733bc279c0b81b78d1d454b",
+			"registry": "cnpmjs"
+		},
+		"handlebars-4.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.31.tgz",
+			"sha": "a7fba66fafe42713aee88eeca8db91192efe6e72",
+			"registry": "cnpmjs"
+		},
+		"handlebars-4.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.30.tgz",
+			"sha": "a4bc4debc3b825a0c4a403162cf2b5c27f70fdd7",
+			"registry": "cnpmjs"
+		},
+		"handlebars-4.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.29.tgz",
+			"sha": "dee8a6535a4005d7136dd7a6c3e6fe578b6b8276",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.28.tgz",
+			"sha": "f0052620eb64040f238d325aa3360860388b1ccf",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.27.tgz",
+			"sha": "fd2fea8979bb3f9f4c547788adcde8b9f48c2ef3",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.26-alpha.tgz",
+			"sha": "6fded53dabf2b7d4dcde538cffc037c26c4bb186",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.25-alpha.tgz",
+			"sha": "a5f2643706ddede688b82fa8ff1656b390518370",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.24-alpha.tgz",
+			"sha": "9e66d694fa657355d56ab17dcd62dc6942ff7894",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.23-alpha.tgz",
+			"sha": "c56713525acc41b6cd416113d8ed408f88e6f396",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.22-alpha.tgz",
+			"sha": "1247be745d1f65dc820a44469408afc79d3e3158",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.21-alpha.tgz",
+			"sha": "1d989a9d810673c4dd040945b3dd029af4c393c7",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.20-alpha.tgz",
+			"sha": "7da9a87703b021a92d798d3fab06d7c3076c4f9f",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.15-alpha.tgz",
+			"sha": "642bcf656b1d7c647d40dc911003b23f4602523a",
+			"registry": "cnpmjs"
+		},
+		"handlebars-3.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-3.0.14-alpha.tgz",
+			"sha": "5e863ccf6d0c40f5c6bccc80974996004e8851c1",
+			"registry": "cnpmjs"
+		},
+		"handlebars-4.0.39.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/handlebars/download/@types/handlebars-4.0.39.tgz",
+			"sha": "961fb54db68030890942e6aeffe9f93a957807bd",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833456287
+		}
+	},
+	"_rev": "2-87aff1a09fd4e46c",
+	"readme": "# Installation\r\n> `npm install --save @types/handlebars`\r\n\r\n# Summary\r\nThis package contains type definitions for Handlebars (http://handlebarsjs.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/handlebars\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: none\r\n * Global values: Handlebars\r\n\r\n# Credits\r\nThese definitions were written by Boris Yankov <https://github.com/borisyankov>, Sergei Dorogin <https://github.com/evil-shrike>."
+}

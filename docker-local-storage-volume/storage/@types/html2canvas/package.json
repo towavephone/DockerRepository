@@ -1,0 +1,1191 @@
+{
+	"name": "@types/html2canvas",
+	"versions": {
+		"0.0.33": {
+			"name": "@types/html2canvas",
+			"version": "0.0.33",
+			"description": "TypeScript definitions for html2canvas.js 1.0-alpha",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Richard Hepburn",
+					"url": "https://github.com/rwhepburn",
+					"githubUsername": "rwhepburn"
+				},
+				{
+					"name": "Pei-Tang Huang",
+					"url": "https://github.com/tan9",
+					"githubUsername": "tan9"
+				},
+				{
+					"name": "Sebastian Schocke",
+					"url": "https://github.com/sschocke",
+					"githubUsername": "sschocke"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"typesPublisherContentHash": "dda245d05da4f0839e1061ce97005b246e4995bc9d2e0bef65c86bb06be4b83a",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/html2canvas@0.0.33",
+			"dist": {
+				"shasum": "e4076f0ea664d3cd6e1460c82e48b177774052fe",
+				"size": 2997,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/html2canvas_0.0.33_1523473416977_0.2543470186215766"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523473417114,
+			"_cnpm_publish_time": 1523473417114
+		},
+		"0.5.35": {
+			"name": "@types/html2canvas",
+			"version": "0.5.35",
+			"description": "TypeScript definitions for html2canvas.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Richard Hepburn",
+					"url": "https://github.com/rwhepburn"
+				},
+				{
+					"name": "Pei-Tang Huang",
+					"url": "https://github.com/tan9"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"typesPublisherContentHash": "73b3105898134e1fee70aeb4c116e9f14dc1f4edcad3c22b3347d8f95f1ef3c9",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/html2canvas@0.5.35",
+			"dist": {
+				"shasum": "62ef0b59918bf87553593342fa2b040a7477a587",
+				"size": 2553,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.5.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/html2canvas-0.5.35.tgz_1503352526399_0.1897856965661049"
+			},
+			"directories": {},
+			"publish_time": 1503352526532,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352526532
+		},
+		"0.5.34": {
+			"name": "@types/html2canvas",
+			"version": "0.5.34",
+			"description": "TypeScript definitions for html2canvas.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Richard Hepburn",
+					"url": "https://github.com/rwhepburn/"
+				},
+				{
+					"name": "Pei-Tang Huang",
+					"url": "https://github.com/tan9/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "01f899bb4888b1ff81a80582ee0256aea23c936d7a498f5391d3c54fd4515a07",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/html2canvas@0.5.34",
+			"dist": {
+				"shasum": "bcfcd5205ca1937f5c384b6b40f268aaae2dc6c8",
+				"size": 2572,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.5.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/html2canvas-0.5.34.tgz_1497557640409_0.016846060752868652"
+			},
+			"directories": {},
+			"publish_time": 1497557640493,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497557640493
+		},
+		"0.5.33": {
+			"name": "@types/html2canvas",
+			"version": "0.5.33",
+			"description": "TypeScript definitions for html2canvas.js",
+			"license": "MIT",
+			"author": "Richard Hepburn <https://github.com/rwhepburn/>, Pei-Tang Huang <https://github.com/tan9/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e3ee4e73b5319a38ab3b68da5b1adf9bdbc059d96e7c99672e15f5c013a18ed3",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/html2canvas@0.5.33",
+			"dist": {
+				"shasum": "976d45cd1854d59ef48283ba98c2bb387b44f405",
+				"size": 2039,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.5.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.5.33.tgz_1483056060471_0.6148706451058388"
+			},
+			"directories": {},
+			"publish_time": 1483056062570,
+			"_cnpm_publish_time": 1483056062570,
+			"_hasShrinkwrap": false
+		},
+		"0.0.32": {
+			"name": "@types/html2canvas",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for html2canvas.js v0.5.0-bata.4",
+			"license": "MIT",
+			"author": "Richard Hepburn <https://github.com/rwhepburn/>, Pei-Tang Huang <https://github.com/tan9/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "15d60ca073e38234a762e1ca872b7a14cc4d0242cb848ba654bb5d2f4099c927",
+			"_id": "@types/html2canvas@0.0.32",
+			"dist": {
+				"shasum": "1d275aca69aea5ea25a7370c6d5b0f2fdc02bfd2",
+				"size": 2040,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.32.tgz_1481663402516_0.8134343856945634"
+			},
+			"directories": {},
+			"publish_time": 1481663402764,
+			"_cnpm_publish_time": 1481663402764,
+			"_hasShrinkwrap": false
+		},
+		"0.5.32": {
+			"name": "@types/html2canvas",
+			"version": "0.5.32",
+			"description": "TypeScript definitions for html2canvas.js v0.5.0-bata.4",
+			"license": "MIT",
+			"author": "Richard Hepburn <https://github.com/rwhepburn/>, Pei-Tang Huang <https://github.com/tan9/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "15d60ca073e38234a762e1ca872b7a14cc4d0242cb848ba654bb5d2f4099c927",
+			"_id": "@types/html2canvas@0.5.32",
+			"dist": {
+				"shasum": "f07d79fad741b40d056852adfedb3991954cbe10",
+				"size": 2083,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.5.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.5.32.tgz_1474306774799_0.9604852716438472"
+			},
+			"directories": {},
+			"publish_time": 1474306777901,
+			"_cnpm_publish_time": 1474306777901,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/html2canvas",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for html2canvas.js v0.5.0-bata.4",
+			"license": "MIT",
+			"author": "Richard Hepburn <https://github.com/rwhepburn/>, Pei-Tang Huang <https://github.com/tan9/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "1.10.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/html2canvas@0.0.31",
+			"dist": {
+				"shasum": "3d54d1449f571aa7d5711f133c59be310fa19207",
+				"size": 2084,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.31.tgz_1472150683629_0.8370382173452526"
+			},
+			"directories": {},
+			"publish_time": 1472150684248,
+			"_cnpm_publish_time": 1472150684248,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/html2canvas",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for html2canvas.js v0.5.0-bata.4",
+			"license": "MIT",
+			"author": "Richard Hepburn <https://github.com/rwhepburn/>, Pei-Tang Huang <https://github.com/tan9/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "1.10.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/html2canvas@0.0.30",
+			"dist": {
+				"shasum": "7873a4ec1d2e8832fcc1e1c5ee359c891c10b1a2",
+				"size": 2085,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.30.tgz_1471620452407_0.5880636305082589"
+			},
+			"directories": {},
+			"publish_time": 1471620453667,
+			"_cnpm_publish_time": 1471620453667,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/html2canvas",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for html2canvas.js v0.5.0-bata.4",
+			"license": "MIT",
+			"author": "Richard Hepburn <https://github.com/rwhepburn/>, Pei-Tang Huang <https://github.com/tan9/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "1.10.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/html2canvas@0.0.29",
+			"dist": {
+				"shasum": "e03e514361f53bb9247ed36be5e19d555e8a2878",
+				"size": 9728,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.29.tgz_1470153280890_0.9638525280170143"
+			},
+			"directories": {},
+			"publish_time": 1470153281863,
+			"_cnpm_publish_time": 1470153281863,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/html2canvas",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for html2canvas.js v0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Richard Hepburn",
+				"email": "https://github.com/rwhepburn/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.*"
+			},
+			"_id": "@types/html2canvas@0.0.28",
+			"_shasum": "15072b8f0bbbe4f3e30cda2a2a532b88e95ebff5",
+			"_from": "output\\html2canvas",
+			"_resolved": "file:output\\html2canvas",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "15072b8f0bbbe4f3e30cda2a2a532b88e95ebff5",
+				"size": 1887,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.28.tgz_1468507932910_0.47591319866478443"
+			},
+			"directories": {},
+			"publish_time": 1468507935496,
+			"_cnpm_publish_time": 1468507935496,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/html2canvas",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for html2canvas.js v0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Richard Hepburn",
+				"email": "https://github.com/rwhepburn/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.26-alpha"
+			},
+			"_id": "@types/html2canvas@0.0.27-alpha",
+			"_shasum": "b4ccf73746690129732b255f34668fda53c3266d",
+			"_from": "output\\html2canvas",
+			"_resolved": "file:output\\html2canvas",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b4ccf73746690129732b255f34668fda53c3266d",
+				"size": 1897,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.27-alpha.tgz_1468009288198_0.4990312091540545"
+			},
+			"directories": {},
+			"publish_time": 1468009289727,
+			"_cnpm_publish_time": 1468009289727,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/html2canvas",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for html2canvas.js v0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Richard Hepburn",
+				"email": "https://github.com/rwhepburn/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.25-alpha"
+			},
+			"_id": "@types/html2canvas@0.0.26-alpha",
+			"_shasum": "dab0594329805b3e562c137f909a417446f2684e",
+			"_from": "output\\html2canvas",
+			"_resolved": "file:output\\html2canvas",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dab0594329805b3e562c137f909a417446f2684e",
+				"size": 1898,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.26-alpha.tgz_1467592053827_0.07859605667181313"
+			},
+			"directories": {},
+			"publish_time": 1467592054395,
+			"_cnpm_publish_time": 1467592054395,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/html2canvas",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for html2canvas.js v0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Richard Hepburn",
+				"email": "https://github.com/rwhepburn/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.23-alpha"
+			},
+			"_id": "@types/html2canvas@0.0.25-alpha",
+			"_shasum": "c87a45164a0c150b494497e906d267da9b3d765d",
+			"_from": "output\\html2canvas",
+			"_resolved": "file:output\\html2canvas",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c87a45164a0c150b494497e906d267da9b3d765d",
+				"size": 1898,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.25-alpha.tgz_1467427026430_0.7126412212383002"
+			},
+			"directories": {},
+			"publish_time": 1467427029747,
+			"_cnpm_publish_time": 1467427029747,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/html2canvas",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for html2canvas.js v0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Richard Hepburn",
+				"email": "https://github.com/rwhepburn/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.22-alpha"
+			},
+			"_id": "@types/html2canvas@0.0.24-alpha",
+			"_shasum": "a181f13ce1fdcc8a66dbc0026e7baa9e4a34c9e3",
+			"_from": "output\\html2canvas",
+			"_resolved": "file:output\\html2canvas",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a181f13ce1fdcc8a66dbc0026e7baa9e4a34c9e3",
+				"size": 1898,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.24-alpha.tgz_1467413839187_0.7223320396151394"
+			},
+			"directories": {},
+			"publish_time": 1467413841286,
+			"_cnpm_publish_time": 1467413841286,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/html2canvas",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for html2canvas.js v0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Richard Hepburn",
+				"email": "https://github.com/rwhepburn/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.*"
+			},
+			"_id": "@types/html2canvas@0.0.23-alpha",
+			"_shasum": "624d1fa182c3660bb9c2b15524d3e5e6d0c04c7d",
+			"_from": "output\\html2canvas",
+			"_resolved": "file:output\\html2canvas",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "624d1fa182c3660bb9c2b15524d3e5e6d0c04c7d",
+				"size": 1882,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.23-alpha.tgz_1467401633154_0.9530973294749856"
+			},
+			"directories": {},
+			"publish_time": 1467401635245,
+			"_cnpm_publish_time": 1467401635245,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/html2canvas",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for html2canvas.js v0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Richard Hepburn",
+				"email": "https://github.com/rwhepburn/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"_id": "@types/html2canvas@0.0.22-alpha",
+			"_shasum": "bb57321693d44ed34238e95d2646dfe3946aacd8",
+			"_from": "output\\html2canvas",
+			"_resolved": "file:output\\html2canvas",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bb57321693d44ed34238e95d2646dfe3946aacd8",
+				"size": 1867,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.22-alpha.tgz_1464152729734_0.5529999136924744"
+			},
+			"directories": {},
+			"publish_time": 1464152732207,
+			"_cnpm_publish_time": 1464152732207,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/html2canvas",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for html2canvas.js v0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Richard Hepburn",
+				"email": "https://github.com/rwhepburn/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"_id": "@types/html2canvas@0.0.21-alpha",
+			"_shasum": "78073af8483f43d7a99c1741edce0608c227f7cc",
+			"_from": "output\\html2canvas",
+			"_resolved": "file:output\\html2canvas",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "78073af8483f43d7a99c1741edce0608c227f7cc",
+				"size": 1861,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.21-alpha.tgz_1463773627754_0.6343818416353315"
+			},
+			"directories": {},
+			"publish_time": 1463773628186,
+			"_cnpm_publish_time": 1463773628186,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/html2canvas",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for html2canvas.js v0.4.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Richard Hepburn",
+				"email": "https://github.com/rwhepburn/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"_id": "@types/html2canvas@0.0.16-alpha",
+			"_shasum": "fcc2bbe456880c49225956599625866e0c62b753",
+			"_from": "output\\html2canvas",
+			"_resolved": "file:output\\html2canvas",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fcc2bbe456880c49225956599625866e0c62b753",
+				"size": 1870,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.16-alpha.tgz_1463692193978_0.7849150591064245"
+			},
+			"directories": {},
+			"publish_time": 1463692194642,
+			"_cnpm_publish_time": 1463692194642,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/html2canvas",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for html2canvas.js v0.4.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Richard Hepburn",
+				"email": "https://github.com/rwhepburn/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/html2canvas@0.0.15-alpha",
+			"_shasum": "af727ddb5eefb4ca05890c19235e1a49d78f251a",
+			"_from": "output\\html2canvas",
+			"_resolved": "file:output\\html2canvas",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "af727ddb5eefb4ca05890c19235e1a49d78f251a",
+				"size": 1844,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/html2canvas-0.0.15-alpha.tgz_1463461818796_0.8402810608968139"
+			},
+			"directories": {},
+			"publish_time": 1463461819286,
+			"_cnpm_publish_time": 1463461819286,
+			"_hasShrinkwrap": false
+		},
+		"0.0.35": {
+			"name": "@types/html2canvas",
+			"version": "0.0.35",
+			"description": "TypeScript definitions for html2canvas.js 1.0-alpha",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Richard Hepburn",
+					"url": "https://github.com/rwhepburn",
+					"githubUsername": "rwhepburn"
+				},
+				{
+					"name": "Pei-Tang Huang",
+					"url": "https://github.com/tan9",
+					"githubUsername": "tan9"
+				},
+				{
+					"name": "Sebastian Schocke",
+					"url": "https://github.com/sschocke",
+					"githubUsername": "sschocke"
+				},
+				{
+					"name": "Rickard Staaf",
+					"url": "https://github.com/Ristaaf",
+					"githubUsername": "Ristaaf"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"typesPublisherContentHash": "b10eda25d6d8ea7b400c0970955f40b5db750eb0009a7b514c58c3bb0d207ed3",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/html2canvas@0.0.35",
+			"dist": {
+				"shasum": "a009681a3207a7a8302e65de034ff8d42c949cf7",
+				"size": 3121,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/html2canvas_0.0.35_1539111760308_0.6191000415936838"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539111760424,
+			"_cnpm_publish_time": 1539111760424
+		},
+		"0.0.34": {
+			"name": "@types/html2canvas",
+			"version": "0.0.34",
+			"description": "TypeScript definitions for html2canvas.js 1.0-alpha",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Richard Hepburn",
+					"url": "https://github.com/rwhepburn",
+					"githubUsername": "rwhepburn"
+				},
+				{
+					"name": "Pei-Tang Huang",
+					"url": "https://github.com/tan9",
+					"githubUsername": "tan9"
+				},
+				{
+					"name": "Sebastian Schocke",
+					"url": "https://github.com/sschocke",
+					"githubUsername": "sschocke"
+				},
+				{
+					"name": "Rickard Staaf",
+					"url": "https://github.com/Ristaaf",
+					"githubUsername": "Ristaaf"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"typesPublisherContentHash": "82625ffca0b3a35bc32445080bec7a53724dcf1ff81cf3099b119eed78af2f52",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/html2canvas@0.0.34",
+			"dist": {
+				"shasum": "0382abb49bb9f6eee9cc763a1d19c016298f360d",
+				"size": 3123,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/html2canvas_0.0.34_1537554535898_0.40757372426807104"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1537554536067,
+			"_cnpm_publish_time": 1537554536067
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.35",
+		"ts2.0": "0.5.33",
+		"ts2.1": "0.5.33",
+		"ts2.2": "0.5.33",
+		"ts2.3": "0.0.35",
+		"ts2.4": "0.0.35",
+		"ts2.5": "0.0.35",
+		"ts2.6": "0.0.35",
+		"ts2.7": "0.0.35",
+		"ts2.8": "0.0.35",
+		"ts2.9": "0.0.35",
+		"ts3.0": "0.0.35",
+		"ts3.1": "0.0.35",
+		"ts3.2": "0.0.35"
+	},
+	"time": {
+		"modified": "2018-10-09T19:02:55.000Z",
+		"created": "2016-05-17T05:10:19.286Z",
+		"0.0.35": "2018-10-09T19:02:40.424Z",
+		"0.0.34": "2018-09-21T18:28:56.067Z",
+		"0.0.33": "2018-04-11T19:03:37.114Z",
+		"0.5.35": "2017-08-21T21:55:26.532Z",
+		"0.5.34": "2017-06-15T20:14:00.493Z",
+		"0.5.33": "2016-12-30T00:01:02.570Z",
+		"0.0.32": "2016-12-13T21:10:02.764Z",
+		"0.5.32": "2016-09-19T17:39:37.901Z",
+		"0.0.31": "2016-08-25T18:44:44.248Z",
+		"0.0.30": "2016-08-19T15:27:33.667Z",
+		"0.0.29": "2016-08-02T15:54:41.863Z",
+		"0.0.28": "2016-07-14T14:52:15.496Z",
+		"0.0.27-alpha": "2016-07-08T20:21:29.727Z",
+		"0.0.26-alpha": "2016-07-04T00:27:34.395Z",
+		"0.0.25-alpha": "2016-07-02T02:37:09.747Z",
+		"0.0.24-alpha": "2016-07-01T22:57:21.286Z",
+		"0.0.23-alpha": "2016-07-01T19:33:55.245Z",
+		"0.0.22-alpha": "2016-05-25T05:05:32.207Z",
+		"0.0.21-alpha": "2016-05-20T19:47:08.186Z",
+		"0.0.16-alpha": "2016-05-19T21:09:54.642Z",
+		"0.0.15-alpha": "2016-05-17T05:10:19.286Z"
+	},
+	"_distfiles": {
+		"html2canvas-0.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.33.tgz",
+			"sha": "e4076f0ea664d3cd6e1460c82e48b177774052fe",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.5.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.5.35.tgz",
+			"sha": "62ef0b59918bf87553593342fa2b040a7477a587",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.5.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.5.34.tgz",
+			"sha": "bcfcd5205ca1937f5c384b6b40f268aaae2dc6c8",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.5.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.5.33.tgz",
+			"sha": "976d45cd1854d59ef48283ba98c2bb387b44f405",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.32.tgz",
+			"sha": "1d275aca69aea5ea25a7370c6d5b0f2fdc02bfd2",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.5.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.5.32.tgz",
+			"sha": "f07d79fad741b40d056852adfedb3991954cbe10",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.31.tgz",
+			"sha": "3d54d1449f571aa7d5711f133c59be310fa19207",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.30.tgz",
+			"sha": "7873a4ec1d2e8832fcc1e1c5ee359c891c10b1a2",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.29.tgz",
+			"sha": "e03e514361f53bb9247ed36be5e19d555e8a2878",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.28.tgz",
+			"sha": "15072b8f0bbbe4f3e30cda2a2a532b88e95ebff5",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.27-alpha.tgz",
+			"sha": "b4ccf73746690129732b255f34668fda53c3266d",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.26-alpha.tgz",
+			"sha": "dab0594329805b3e562c137f909a417446f2684e",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.25-alpha.tgz",
+			"sha": "c87a45164a0c150b494497e906d267da9b3d765d",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.24-alpha.tgz",
+			"sha": "a181f13ce1fdcc8a66dbc0026e7baa9e4a34c9e3",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.23-alpha.tgz",
+			"sha": "624d1fa182c3660bb9c2b15524d3e5e6d0c04c7d",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.22-alpha.tgz",
+			"sha": "bb57321693d44ed34238e95d2646dfe3946aacd8",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.21-alpha.tgz",
+			"sha": "78073af8483f43d7a99c1741edce0608c227f7cc",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.16-alpha.tgz",
+			"sha": "fcc2bbe456880c49225956599625866e0c62b753",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.15-alpha.tgz",
+			"sha": "af727ddb5eefb4ca05890c19235e1a49d78f251a",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.35.tgz",
+			"sha": "a009681a3207a7a8302e65de034ff8d42c949cf7",
+			"registry": "cnpmjs"
+		},
+		"html2canvas-0.0.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/html2canvas/download/@types/html2canvas-0.0.34.tgz",
+			"sha": "0382abb49bb9f6eee9cc763a1d19c016298f360d",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541835897206
+		}
+	},
+	"_rev": "2-b58209fe528fda6e",
+	"readme": "# Installation\r\n> `npm install --save @types/html2canvas`\r\n\r\n# Summary\r\nThis package contains type definitions for html2canvas.js 1.0-alpha (https://github.com/niklasvh/html2canvas).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/html2canvas\r\n\r\nAdditional Details\r\n * Last updated: Tue, 09 Oct 2018 19:01:50 GMT\r\n * Dependencies: jquery\r\n * Global values: html2canvas\r\n\r\n# Credits\r\nThese definitions were written by Richard Hepburn <https://github.com/rwhepburn>, Pei-Tang Huang <https://github.com/tan9>, Sebastian Schocke <https://github.com/sschocke>, Rickard Staaf <https://github.com/Ristaaf>."
+}

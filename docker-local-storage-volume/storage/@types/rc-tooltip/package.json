@@ -1,0 +1,669 @@
+{
+	"name": "@types/rc-tooltip",
+	"versions": {
+		"3.4.11": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.11",
+			"description": "TypeScript definitions for rc-tooltip",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "rhysd",
+					"url": "https://rhysd.github.io"
+				},
+				{
+					"name": "ahstro",
+					"url": "http://ahst.ro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "b974d9ef7ce5089f0abd963411eccc2787c3cb759ade7e69f7c55c2c910afda7",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/rc-tooltip@3.4.11",
+			"dist": {
+				"shasum": "994747ff45b91ac089170dbf6f622df4a8692de2",
+				"size": 1919,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.11.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-tooltip_3.4.11_1518468863311_0.6620167813013931"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518468863378,
+			"_cnpm_publish_time": 1518468863378
+		},
+		"3.4.10": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.10",
+			"description": "TypeScript definitions for rc-tooltip",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "rhysd",
+					"url": "https://rhysd.github.io"
+				},
+				{
+					"name": "ahstro",
+					"url": "http://ahst.ro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "c18a98445865150d806cf7a90acd3f126b29764c010e9c5d65117010b2e2170d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-tooltip@3.4.10",
+			"dist": {
+				"shasum": "88a53562ab83eb9f59d2f53c0da7b1af02382566",
+				"size": 1913,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-tooltip-3.4.10.tgz_1510619475110_0.6561186907347292"
+			},
+			"directories": {},
+			"publish_time": 1510619475175,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510619475175
+		},
+		"3.4.9": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.9",
+			"description": "TypeScript definitions for rc-tooltip",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "rhysd",
+					"url": "https://rhysd.github.io"
+				},
+				{
+					"name": "ahstro",
+					"url": "http://ahst.ro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "bd1c270fff6f97c5cf47cd773fd07fe40df0b0cb3c7544fda33e56c8fcdbde38",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-tooltip@3.4.9",
+			"dist": {
+				"shasum": "305e0e7a2b26566f24e74917266787d7880e724e",
+				"size": 1906,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-tooltip-3.4.9.tgz_1504734466266_0.28629317274317145"
+			},
+			"directories": {},
+			"publish_time": 1504734466346,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504734466346
+		},
+		"3.4.8": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.8",
+			"description": "TypeScript definitions for rc-tooltip",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "rhysd",
+					"url": "https://rhysd.github.io"
+				},
+				{
+					"name": "ahstro",
+					"url": "http://ahst.ro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a1cb07f52ccc0318be537b9c9add6ac33280e04acd46cfd13301867c49f447dc",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-tooltip@3.4.8",
+			"dist": {
+				"shasum": "97c8cb60dcce732dcc5cae6050f2e470faee921f",
+				"size": 1922,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-tooltip-3.4.8.tgz_1501880346189_0.3297329833731055"
+			},
+			"directories": {},
+			"publish_time": 1501880346256,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501880346256
+		},
+		"3.4.7": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.7",
+			"description": "TypeScript definitions for rc-tooltip",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "rhysd",
+					"url": "https://rhysd.github.io"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "dde0b24fa3853890307eb35f7eee63aae21802d60a9f18c083c5f15295465afe",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-tooltip@3.4.7",
+			"dist": {
+				"shasum": "94cc4f218e547733a5704eff7ac05e40fd3304fc",
+				"size": 1905,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-tooltip-3.4.7.tgz_1498226654577_0.6060274948831648"
+			},
+			"directories": {},
+			"publish_time": 1498226654870,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498226654870
+		},
+		"3.4.6": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.6",
+			"description": "TypeScript definitions for rc-tooltip",
+			"license": "MIT",
+			"author": "rhysd <https://rhysd.github.io>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6e553673c1716d3d7494cdd0228f24c9db4aaf501f8806f010601de9244a8a74",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/rc-tooltip@3.4.6",
+			"dist": {
+				"shasum": "97631316d6483a1b00fd2b0d3bf823ee9552d18b",
+				"size": 1414,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/rc-tooltip-3.4.6.tgz_1485207160161_0.3302687439136207"
+			},
+			"directories": {},
+			"publish_time": 1485207161994,
+			"_cnpm_publish_time": 1485207161994,
+			"_hasShrinkwrap": false
+		},
+		"3.4.5": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.5",
+			"description": "TypeScript definitions for rc-tooltip v3.4.2",
+			"license": "MIT",
+			"author": "rhysd <https://rhysd.github.io>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "81f1dcd41eafba8664e67c2442f87bdb41ba8ecb5a8ac0be7c6c18c558c2978c",
+			"_id": "@types/rc-tooltip@3.4.5",
+			"dist": {
+				"shasum": "ecde259aa17d0f99a88e5b64d98402bdb3a38e46",
+				"size": 1421,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rc-tooltip-3.4.5.tgz_1479762296918_0.6391219941433519"
+			},
+			"directories": {},
+			"publish_time": 1479762297131,
+			"_cnpm_publish_time": 1479762297131,
+			"_hasShrinkwrap": false
+		},
+		"3.4.4": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.4",
+			"description": "TypeScript definitions for rc-tooltip v3.4.2",
+			"license": "MIT",
+			"author": "rhysd <https://rhysd.github.io>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typings": "rc-tooltip.d.ts",
+			"typesPublisherContentHash": "50cdbbcf795001e02df353ed6e3207af7187e86b1c8a52ffdebb26cd3809c7b4",
+			"_id": "@types/rc-tooltip@3.4.4",
+			"dist": {
+				"shasum": "6e85d6d0e0c3618242a10e2cf20f8c38e6de3570",
+				"size": 1419,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rc-tooltip-3.4.4.tgz_1474308167952_0.7995470489840955"
+			},
+			"directories": {},
+			"publish_time": 1474308171100,
+			"_cnpm_publish_time": 1474308171100,
+			"_hasShrinkwrap": false
+		},
+		"3.4.3": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.3",
+			"description": "TypeScript definitions for rc-tooltip v3.4.2",
+			"license": "MIT",
+			"author": "rhysd <https://rhysd.github.io>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "rc-tooltip.d.ts",
+			"_id": "@types/rc-tooltip@3.4.3",
+			"dist": {
+				"shasum": "43a2615767b2e14942ca3821e7e0cc9f81f71ab7",
+				"size": 1409,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rc-tooltip-3.4.3.tgz_1472151266760_0.3654466385487467"
+			},
+			"directories": {},
+			"publish_time": 1472151267320,
+			"_cnpm_publish_time": 1472151267320,
+			"_hasShrinkwrap": false
+		},
+		"3.4.2": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.2",
+			"description": "TypeScript definitions for rc-tooltip v3.4.2",
+			"license": "MIT",
+			"author": "rhysd <https://rhysd.github.io>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "rc-tooltip.d.ts",
+			"_id": "@types/rc-tooltip@3.4.2",
+			"dist": {
+				"shasum": "7b96b19c203fc463228261b224698c112fcee10a",
+				"size": 1408,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rc-tooltip-3.4.2.tgz_1471621093288_0.12484942120499909"
+			},
+			"directories": {},
+			"publish_time": 1471621094990,
+			"_cnpm_publish_time": 1471621094990,
+			"_hasShrinkwrap": false
+		},
+		"3.4.1": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.1",
+			"description": "TypeScript definitions for rc-tooltip v3.4.2",
+			"license": "MIT",
+			"author": "rhysd <https://rhysd.github.io>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "rc-tooltip.d.ts",
+			"_id": "@types/rc-tooltip@3.4.1",
+			"dist": {
+				"shasum": "d6d3c32753024aaac4744c28d2a04955e3928ab7",
+				"size": 7168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rc-tooltip-3.4.1.tgz_1470153936195_0.6607669398654252"
+			},
+			"directories": {},
+			"publish_time": 1470153937159,
+			"_cnpm_publish_time": 1470153937159,
+			"_hasShrinkwrap": false
+		},
+		"3.4.12": {
+			"name": "@types/rc-tooltip",
+			"version": "3.4.12",
+			"description": "TypeScript definitions for rc-tooltip",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "rhysd",
+					"url": "https://rhysd.github.io"
+				},
+				{
+					"name": "ahstro",
+					"url": "http://ahst.ro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "a438fcd5cbd2d637d72757ab7281ea77659f9c5e9748ba810bc3eead43c689f1",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/rc-tooltip@3.4.12",
+			"dist": {
+				"shasum": "7a7aeb036e7378f5adeb6afcba1a905c1804d8a8",
+				"size": 1915,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.12.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-tooltip_3.4.12_1533345474907_0.43377747544536427"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533345475002,
+			"_cnpm_publish_time": 1533345475002
+		}
+	},
+	"dist-tags": {
+		"latest": "3.4.12",
+		"ts2.0": "3.4.5",
+		"ts2.1": "3.4.6",
+		"ts2.2": "3.4.6",
+		"ts2.3": "3.4.10",
+		"ts2.4": "3.4.10",
+		"ts2.5": "3.4.10",
+		"ts2.6": "3.4.11",
+		"ts2.7": "3.4.11",
+		"ts2.8": "3.4.12",
+		"ts2.9": "3.4.12",
+		"ts3.0": "3.4.12",
+		"ts3.1": "3.4.12",
+		"ts3.2": "3.4.12"
+	},
+	"time": {
+		"modified": "2018-10-10T20:25:51.000Z",
+		"created": "2016-08-02T16:05:37.159Z",
+		"3.4.12": "2018-08-04T01:17:55.002Z",
+		"3.4.11": "2018-02-12T20:54:23.378Z",
+		"3.4.10": "2017-11-14T00:31:15.175Z",
+		"3.4.9": "2017-09-06T21:47:46.346Z",
+		"3.4.8": "2017-08-04T20:59:06.256Z",
+		"3.4.7": "2017-06-23T14:04:14.870Z",
+		"3.4.6": "2017-01-23T21:32:41.994Z",
+		"3.4.5": "2016-11-21T21:04:57.131Z",
+		"3.4.4": "2016-09-19T18:02:51.100Z",
+		"3.4.3": "2016-08-25T18:54:27.320Z",
+		"3.4.2": "2016-08-19T15:38:14.990Z",
+		"3.4.1": "2016-08-02T16:05:37.159Z"
+	},
+	"_distfiles": {
+		"rc-tooltip-3.4.11.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.11.tgz",
+			"sha": "994747ff45b91ac089170dbf6f622df4a8692de2",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.10.tgz",
+			"sha": "88a53562ab83eb9f59d2f53c0da7b1af02382566",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.9.tgz",
+			"sha": "305e0e7a2b26566f24e74917266787d7880e724e",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.8.tgz",
+			"sha": "97c8cb60dcce732dcc5cae6050f2e470faee921f",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.7.tgz",
+			"sha": "94cc4f218e547733a5704eff7ac05e40fd3304fc",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.6.tgz",
+			"sha": "97631316d6483a1b00fd2b0d3bf823ee9552d18b",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.5.tgz",
+			"sha": "ecde259aa17d0f99a88e5b64d98402bdb3a38e46",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.4.tgz",
+			"sha": "6e85d6d0e0c3618242a10e2cf20f8c38e6de3570",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.3.tgz",
+			"sha": "43a2615767b2e14942ca3821e7e0cc9f81f71ab7",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.2.tgz",
+			"sha": "7b96b19c203fc463228261b224698c112fcee10a",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.1.tgz",
+			"sha": "d6d3c32753024aaac4744c28d2a04955e3928ab7",
+			"registry": "cnpmjs"
+		},
+		"rc-tooltip-3.4.12.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-tooltip/download/@types/rc-tooltip-3.4.12.tgz",
+			"sha": "7a7aeb036e7378f5adeb6afcba1a905c1804d8a8",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"37d2-r1BfkeG+X6m2yzsdfovMHnTaSa0\"",
+			"fetched": 1541833487716
+		}
+	},
+	"_rev": "2-89ccb9564bf1fbce",
+	"readme": "# Installation\r\n> `npm install --save @types/rc-tooltip`\r\n\r\n# Summary\r\nThis package contains type definitions for rc-tooltip (https://github.com/react-component/tooltip).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/rc-tooltip\r\n\r\nAdditional Details\r\n * Last updated: Sat, 04 Aug 2018 00:56:31 GMT\r\n * Dependencies: react\r\n * Global values: RCTooltip\r\n\r\n# Credits\r\nThese definitions were written by rhysd <https://rhysd.github.io>, ahstro <http://ahst.ro>."
+}

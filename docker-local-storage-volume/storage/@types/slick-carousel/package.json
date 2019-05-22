@@ -1,0 +1,877 @@
+{
+	"name": "@types/slick-carousel",
+	"versions": {
+		"1.6.32": {
+			"name": "@types/slick-carousel",
+			"version": "1.6.32",
+			"description": "TypeScript definitions for stick",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "John Gouigouix",
+					"url": "https://github.com/orchestra-ts/DefinitelyTyped/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c4230857cb09dc544590304d371447c4dab067f77669c97a0658af6bebb17727",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/slick-carousel@1.6.32",
+			"dist": {
+				"shasum": "b0a6379e969fc3085fb0e487cd1f73bee6c2f48c",
+				"size": 3971,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/slick-carousel-1.6.32.tgz_1497557880524_0.5212351963855326"
+			},
+			"directories": {},
+			"publish_time": 1497557880696,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497557880696
+		},
+		"1.6.31": {
+			"name": "@types/slick-carousel",
+			"version": "1.6.31",
+			"description": "TypeScript definitions for stick 1.6.0",
+			"license": "MIT",
+			"author": "John Gouigouix <https://github.com/orchestra-ts/DefinitelyTyped/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "21935e3431d28a0ba2bf9dc81ce487dae3fcaa990e5e90c764148ab27fdd496f",
+			"_id": "@types/slick-carousel@1.6.31",
+			"dist": {
+				"shasum": "e8e966972abba8e65b098f300a559ff70738b4e2",
+				"size": 3473,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.6.31.tgz_1479848483610_0.7201575471553952"
+			},
+			"directories": {},
+			"publish_time": 1479848485230,
+			"_cnpm_publish_time": 1479848485230,
+			"_hasShrinkwrap": false
+		},
+		"1.6.30": {
+			"name": "@types/slick-carousel",
+			"version": "1.6.30",
+			"description": "TypeScript definitions for stick 1.6.0",
+			"license": "MIT",
+			"author": "John Gouigouix <https://github.com/orchestra-ts/DefinitelyTyped/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "15dabfbf2969e9ce93b1a0f1a696f2515894867241e2bda5580a64410bace29c",
+			"_id": "@types/slick-carousel@1.6.30",
+			"dist": {
+				"shasum": "d828de9a69c088f37bed1cc8d47941ef83627338",
+				"size": 3415,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.6.30.tgz_1474308704529_0.8058724491856992"
+			},
+			"directories": {},
+			"publish_time": 1474308707966,
+			"_cnpm_publish_time": 1474308707966,
+			"_hasShrinkwrap": false
+		},
+		"1.6.29": {
+			"name": "@types/slick-carousel",
+			"version": "1.6.29",
+			"description": "TypeScript definitions for stick 1.6.0",
+			"license": "MIT",
+			"author": "John Gouigouix <https://github.com/orchestra-ts/DefinitelyTyped/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "1.10.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/slick-carousel@1.6.29",
+			"dist": {
+				"shasum": "9fd958c210c2f66f24d049070972f68a0d6c6954",
+				"size": 3424,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.6.29.tgz_1472151677605_0.3927978107240051"
+			},
+			"directories": {},
+			"publish_time": 1472151677828,
+			"_cnpm_publish_time": 1472151677828,
+			"_hasShrinkwrap": false
+		},
+		"1.6.28": {
+			"name": "@types/slick-carousel",
+			"version": "1.6.28",
+			"description": "TypeScript definitions for stick 1.6.0",
+			"license": "MIT",
+			"author": "John Gouigouix <https://github.com/orchestra-ts/DefinitelyTyped/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "1.10.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/slick-carousel@1.6.28",
+			"dist": {
+				"shasum": "3c27910449627225cf4852bfac79cfda63eb2d11",
+				"size": 3424,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.6.28.tgz_1471621407882_0.780587684828788"
+			},
+			"directories": {},
+			"publish_time": 1471621409767,
+			"_cnpm_publish_time": 1471621409767,
+			"_hasShrinkwrap": false
+		},
+		"1.6.27": {
+			"name": "@types/slick-carousel",
+			"version": "1.6.27",
+			"description": "TypeScript definitions for stick 1.6.0",
+			"license": "MIT",
+			"author": "John Gouigouix <https://github.com/orchestra-ts/DefinitelyTyped/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "1.10.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/slick-carousel@1.6.27",
+			"dist": {
+				"shasum": "08ae6d273837ec19e91313023d3d9409b484f8ff",
+				"size": 16384,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.6.27.tgz_1470154332097_0.6247543864883482"
+			},
+			"directories": {},
+			"publish_time": 1470154334061,
+			"_cnpm_publish_time": 1470154334061,
+			"_hasShrinkwrap": false
+		},
+		"1.5.26": {
+			"name": "@types/slick-carousel",
+			"version": "1.5.26",
+			"description": "TypeScript definitions for stick 1.5.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "John Gouigouix",
+				"email": "https://github.com/orchestra-ts/DefinitelyTyped/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.*"
+			},
+			"_id": "@types/slick-carousel@1.5.26",
+			"_shasum": "e4a14d2870caa973acaaa0412a141f31420087f9",
+			"_from": "output\\slick-carousel",
+			"_resolved": "file:output\\slick-carousel",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e4a14d2870caa973acaaa0412a141f31420087f9",
+				"size": 3287,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.26.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.5.26.tgz_1468512455553_0.15504175215028226"
+			},
+			"directories": {},
+			"publish_time": 1468512456396,
+			"_cnpm_publish_time": 1468512456396,
+			"_hasShrinkwrap": false
+		},
+		"1.5.25-alpha": {
+			"name": "@types/slick-carousel",
+			"version": "1.5.25-alpha",
+			"description": "TypeScript definitions for stick 1.5.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "John Gouigouix",
+				"email": "https://github.com/orchestra-ts/DefinitelyTyped/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.26-alpha"
+			},
+			"_id": "@types/slick-carousel@1.5.25-alpha",
+			"_shasum": "9a70623e7256ae16344d468f530f88fb6d040a19",
+			"_from": "output\\slick-carousel",
+			"_resolved": "file:output\\slick-carousel",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9a70623e7256ae16344d468f530f88fb6d040a19",
+				"size": 3292,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.5.25-alpha.tgz_1468013377837_0.4527897951193154"
+			},
+			"directories": {},
+			"publish_time": 1468013380266,
+			"_cnpm_publish_time": 1468013380266,
+			"_hasShrinkwrap": false
+		},
+		"1.5.24-alpha": {
+			"name": "@types/slick-carousel",
+			"version": "1.5.24-alpha",
+			"description": "TypeScript definitions for stick 1.5.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "John Gouigouix",
+				"email": "https://github.com/orchestra-ts/DefinitelyTyped/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.25-alpha"
+			},
+			"_id": "@types/slick-carousel@1.5.24-alpha",
+			"_shasum": "ed0381061d9abfd12fb52fd7a6aae1013834bcb7",
+			"_from": "output\\slick-carousel",
+			"_resolved": "file:output\\slick-carousel",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ed0381061d9abfd12fb52fd7a6aae1013834bcb7",
+				"size": 3292,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.5.24-alpha.tgz_1467595200955_0.2669895433355123"
+			},
+			"directories": {},
+			"publish_time": 1467595201447,
+			"_cnpm_publish_time": 1467595201447,
+			"_hasShrinkwrap": false
+		},
+		"1.5.23-alpha": {
+			"name": "@types/slick-carousel",
+			"version": "1.5.23-alpha",
+			"description": "TypeScript definitions for stick 1.5.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "John Gouigouix",
+				"email": "https://github.com/orchestra-ts/DefinitelyTyped/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.24-alpha"
+			},
+			"_id": "@types/slick-carousel@1.5.23-alpha",
+			"_shasum": "470ffc81b64ed082156b470446fb8c249d93dbfb",
+			"_from": "output\\slick-carousel",
+			"_resolved": "file:output\\slick-carousel",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "470ffc81b64ed082156b470446fb8c249d93dbfb",
+				"size": 3293,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.5.23-alpha.tgz_1467430054055_0.5754744161386043"
+			},
+			"directories": {},
+			"publish_time": 1467430057678,
+			"_cnpm_publish_time": 1467430057678,
+			"_hasShrinkwrap": false
+		},
+		"1.5.22-alpha": {
+			"name": "@types/slick-carousel",
+			"version": "1.5.22-alpha",
+			"description": "TypeScript definitions for stick 1.5.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "John Gouigouix",
+				"email": "https://github.com/orchestra-ts/DefinitelyTyped/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.23-alpha"
+			},
+			"_id": "@types/slick-carousel@1.5.22-alpha",
+			"_shasum": "1cd971164ce7b113e5354aa8ac4dd312a76e9976",
+			"_from": "output\\slick-carousel",
+			"_resolved": "file:output\\slick-carousel",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1cd971164ce7b113e5354aa8ac4dd312a76e9976",
+				"size": 3291,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.5.22-alpha.tgz_1467417545486_0.3076492154505104"
+			},
+			"directories": {},
+			"publish_time": 1467417547618,
+			"_cnpm_publish_time": 1467417547618,
+			"_hasShrinkwrap": false
+		},
+		"1.5.21-alpha": {
+			"name": "@types/slick-carousel",
+			"version": "1.5.21-alpha",
+			"description": "TypeScript definitions for stick 1.5.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "John Gouigouix",
+				"email": "https://github.com/orchestra-ts/DefinitelyTyped/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "1.10.*"
+			},
+			"_id": "@types/slick-carousel@1.5.21-alpha",
+			"_shasum": "4c1463f8e583bc6c420f1a6f913275d6407a8691",
+			"_from": "output\\slick-carousel",
+			"_resolved": "file:output\\slick-carousel",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4c1463f8e583bc6c420f1a6f913275d6407a8691",
+				"size": 3275,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.5.21-alpha.tgz_1467405243849_0.029686131980270147"
+			},
+			"directories": {},
+			"publish_time": 1467405247259,
+			"_cnpm_publish_time": 1467405247259,
+			"_hasShrinkwrap": false
+		},
+		"1.5.20-alpha": {
+			"name": "@types/slick-carousel",
+			"version": "1.5.20-alpha",
+			"description": "TypeScript definitions for stick 1.5.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "John Gouigouix",
+				"email": "https://github.com/orchestra-ts/DefinitelyTyped/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"_id": "@types/slick-carousel@1.5.20-alpha",
+			"_shasum": "f5889e22612f1600c8f5c3e06dcb70414b0624f2",
+			"_from": "output\\slick-carousel",
+			"_resolved": "file:output\\slick-carousel",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f5889e22612f1600c8f5c3e06dcb70414b0624f2",
+				"size": 3260,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.5.20-alpha.tgz_1464155830339_0.21984872431494296"
+			},
+			"directories": {},
+			"publish_time": 1464155830898,
+			"_cnpm_publish_time": 1464155830898,
+			"_hasShrinkwrap": false
+		},
+		"1.5.19-alpha": {
+			"name": "@types/slick-carousel",
+			"version": "1.5.19-alpha",
+			"description": "TypeScript definitions for stick 1.5.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "John Gouigouix",
+				"email": "https://github.com/orchestra-ts/DefinitelyTyped/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"_id": "@types/slick-carousel@1.5.19-alpha",
+			"_shasum": "9adfbfd14f66e1ef22c901f0d131a3e37a800161",
+			"_from": "output\\slick-carousel",
+			"_resolved": "file:output\\slick-carousel",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9adfbfd14f66e1ef22c901f0d131a3e37a800161",
+				"size": 3258,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.19-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.5.19-alpha.tgz_1463776915675_0.21099084941670299"
+			},
+			"directories": {},
+			"publish_time": 1463776916075,
+			"_cnpm_publish_time": 1463776916075,
+			"_hasShrinkwrap": false
+		},
+		"1.5.14-alpha": {
+			"name": "@types/slick-carousel",
+			"version": "1.5.14-alpha",
+			"description": "Type definitions for stick 1.5.8 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "John Gouigouix",
+				"email": "https://github.com/orchestra-ts/DefinitelyTyped/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"_id": "@types/slick-carousel@1.5.14-alpha",
+			"_shasum": "edc63105926cdc699b1d08add08b20208dbba9db",
+			"_from": "output\\slick-carousel",
+			"_resolved": "file:output\\slick-carousel",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "edc63105926cdc699b1d08add08b20208dbba9db",
+				"size": 3271,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.5.14-alpha.tgz_1463696646835_0.40941234142519534"
+			},
+			"directories": {},
+			"publish_time": 1463696649278,
+			"_cnpm_publish_time": 1463696649278,
+			"_hasShrinkwrap": false
+		},
+		"1.5.13-alpha": {
+			"name": "@types/slick-carousel",
+			"version": "1.5.13-alpha",
+			"description": "Type definitions for stick 1.5.8 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "John Gouigouix",
+				"email": "https://github.com/orchestra-ts/DefinitelyTyped/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"_id": "@types/slick-carousel@1.5.13-alpha",
+			"_shasum": "be29298216167a8666c6108063e35f3e80b56971",
+			"_from": "output\\slick-carousel",
+			"_resolved": "file:output\\slick-carousel",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "be29298216167a8666c6108063e35f3e80b56971",
+				"size": 3255,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/slick-carousel-1.5.13-alpha.tgz_1463511428268_0.28966943360865116"
+			},
+			"directories": {},
+			"publish_time": 1463511428794,
+			"_cnpm_publish_time": 1463511428794,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.6.32",
+		"ts2.0": "1.6.31",
+		"ts2.1": "1.6.31",
+		"ts2.2": "1.6.31",
+		"ts2.3": "1.6.32",
+		"ts2.4": "1.6.32",
+		"ts2.5": "1.6.32",
+		"ts2.6": "1.6.32",
+		"ts2.7": "1.6.32",
+		"ts2.8": "1.6.32",
+		"ts2.9": "1.6.32",
+		"ts3.0": "1.6.32",
+		"ts3.1": "1.6.32",
+		"ts3.2": "1.6.32"
+	},
+	"time": {
+		"modified": "2018-10-10T20:28:26.000Z",
+		"created": "2016-05-17T18:57:08.794Z",
+		"1.6.32": "2017-06-15T20:18:00.696Z",
+		"1.6.31": "2016-11-22T21:01:25.230Z",
+		"1.6.30": "2016-09-19T18:11:47.966Z",
+		"1.6.29": "2016-08-25T19:01:17.828Z",
+		"1.6.28": "2016-08-19T15:43:29.767Z",
+		"1.6.27": "2016-08-02T16:12:14.061Z",
+		"1.5.26": "2016-07-14T16:07:36.396Z",
+		"1.5.25-alpha": "2016-07-08T21:29:40.266Z",
+		"1.5.24-alpha": "2016-07-04T01:20:01.447Z",
+		"1.5.23-alpha": "2016-07-02T03:27:37.678Z",
+		"1.5.22-alpha": "2016-07-01T23:59:07.618Z",
+		"1.5.21-alpha": "2016-07-01T20:34:07.259Z",
+		"1.5.20-alpha": "2016-05-25T05:57:10.898Z",
+		"1.5.19-alpha": "2016-05-20T20:41:56.075Z",
+		"1.5.14-alpha": "2016-05-19T22:24:09.278Z",
+		"1.5.13-alpha": "2016-05-17T18:57:08.794Z"
+	},
+	"_distfiles": {
+		"slick-carousel-1.6.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.32.tgz",
+			"sha": "b0a6379e969fc3085fb0e487cd1f73bee6c2f48c",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.6.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.31.tgz",
+			"sha": "e8e966972abba8e65b098f300a559ff70738b4e2",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.6.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.30.tgz",
+			"sha": "d828de9a69c088f37bed1cc8d47941ef83627338",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.6.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.29.tgz",
+			"sha": "9fd958c210c2f66f24d049070972f68a0d6c6954",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.6.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.28.tgz",
+			"sha": "3c27910449627225cf4852bfac79cfda63eb2d11",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.6.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.6.27.tgz",
+			"sha": "08ae6d273837ec19e91313023d3d9409b484f8ff",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.5.26.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.26.tgz",
+			"sha": "e4a14d2870caa973acaaa0412a141f31420087f9",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.5.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.25-alpha.tgz",
+			"sha": "9a70623e7256ae16344d468f530f88fb6d040a19",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.5.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.24-alpha.tgz",
+			"sha": "ed0381061d9abfd12fb52fd7a6aae1013834bcb7",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.5.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.23-alpha.tgz",
+			"sha": "470ffc81b64ed082156b470446fb8c249d93dbfb",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.5.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.22-alpha.tgz",
+			"sha": "1cd971164ce7b113e5354aa8ac4dd312a76e9976",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.5.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.21-alpha.tgz",
+			"sha": "4c1463f8e583bc6c420f1a6f913275d6407a8691",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.5.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.20-alpha.tgz",
+			"sha": "f5889e22612f1600c8f5c3e06dcb70414b0624f2",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.5.19-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.19-alpha.tgz",
+			"sha": "9adfbfd14f66e1ef22c901f0d131a3e37a800161",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.5.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.14-alpha.tgz",
+			"sha": "edc63105926cdc699b1d08add08b20208dbba9db",
+			"registry": "cnpmjs"
+		},
+		"slick-carousel-1.5.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/slick-carousel/download/@types/slick-carousel-1.5.13-alpha.tgz",
+			"sha": "be29298216167a8666c6108063e35f3e80b56971",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541835897358
+		}
+	},
+	"_rev": "2-82d760ccc3670d0c",
+	"readme": "# Installation\r\n> `npm install --save @types/slick-carousel`\r\n\r\n# Summary\r\nThis package contains type definitions for stick (http://kenwheeler.github.io/slick/).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/slick-carousel\r\n\r\nAdditional Details\r\n * Last updated: Thu, 15 Jun 2017 20:15:09 GMT\r\n * Dependencies: jquery\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by John Gouigouix <https://github.com/orchestra-ts/DefinitelyTyped/>."
+}

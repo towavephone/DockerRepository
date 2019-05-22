@@ -1,0 +1,602 @@
+{
+	"name": "datatables.net",
+	"versions": {
+		"1.10.16": {
+			"name": "datatables.net",
+			"version": "1.10.16",
+			"description": "DataTables for jQuery ",
+			"files": [
+				"js/jquery.dataTables.js"
+			],
+			"main": "./js/jquery.dataTables.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables.git"
+			},
+			"_id": "datatables.net@1.10.16",
+			"dist": {
+				"shasum": "4b052d1082824261b68eed9d22741b711d3d2469",
+				"size": 113760,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.16.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "npm@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/datatables.net-1.10.16.tgz_1504260068801_0.7875912024173886"
+			},
+			"directories": {},
+			"publish_time": 1504260070153,
+			"_cnpm_publish_time": 1504260070153,
+			"_hasShrinkwrap": false
+		},
+		"1.10.15": {
+			"name": "datatables.net",
+			"version": "1.10.15",
+			"description": "DataTables for jQuery ",
+			"files": [
+				"js/jquery.dataTables.js"
+			],
+			"main": "./js/jquery.dataTables.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables.git"
+			},
+			"_id": "datatables.net@1.10.15",
+			"dist": {
+				"shasum": "c789077bbfe385e75ff5a233fa5f23251a72df68",
+				"size": 114621,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.15.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-1.10.15.tgz_1492503926912_0.7814477488864213"
+			},
+			"directories": {},
+			"publish_time": 1492503928730,
+			"_cnpm_publish_time": 1492503928730,
+			"_hasShrinkwrap": false
+		},
+		"1.10.14": {
+			"name": "datatables.net",
+			"version": "1.10.14",
+			"description": "DataTables for jQuery ",
+			"files": [
+				"js/jquery.dataTables.js"
+			],
+			"main": "./js/jquery.dataTables.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables.git"
+			},
+			"_id": "datatables.net@1.10.14",
+			"dist": {
+				"shasum": "a4be6f530df149d5da1d8f72ae9727b4541dd737",
+				"size": 114613,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.14.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-1.10.14.tgz_1492457733530_0.886273494688794"
+			},
+			"directories": {},
+			"publish_time": 1492457734096,
+			"_cnpm_publish_time": 1492457734096,
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "datatables.net",
+			"version": "2.1.1",
+			"description": "DataTables for jQuery ",
+			"files": [
+				"js/jquery.dataTables.js"
+			],
+			"main": "./js/jquery.dataTables.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables.git"
+			},
+			"_id": "datatables.net@2.1.1",
+			"dist": {
+				"shasum": "6f1103ef08054642aecf85e7e25efd592822ee78",
+				"size": 114407,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net/download/datatables.net-2.1.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-2.1.1.tgz_1484741761360_0.07960011018440127"
+			},
+			"directories": {},
+			"publish_time": 1484741762047,
+			"_cnpm_publish_time": 1484741762047,
+			"_hasShrinkwrap": false,
+			"deprecated": "Packing error"
+		},
+		"1.10.13": {
+			"name": "datatables.net",
+			"version": "1.10.13",
+			"description": "DataTables for jQuery ",
+			"files": [
+				"js/jquery.dataTables.js"
+			],
+			"main": "./js/jquery.dataTables.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables.git"
+			},
+			"_id": "datatables.net@1.10.13",
+			"dist": {
+				"shasum": "6ac584ba6fc2dff1195e5c66d3e3b051a4b52b96",
+				"size": 114415,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.13.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-1.10.13.tgz_1481036497395_0.2581393353175372"
+			},
+			"directories": {},
+			"publish_time": 1481036498001,
+			"_cnpm_publish_time": 1481036498001,
+			"_hasShrinkwrap": false
+		},
+		"1.10.12": {
+			"name": "datatables.net",
+			"version": "1.10.12",
+			"description": "DataTables for jQuery ",
+			"files": [
+				"js/jquery.dataTables.js"
+			],
+			"main": "./js/jquery.dataTables.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables.git"
+			},
+			"_id": "datatables.net@1.10.12",
+			"dist": {
+				"shasum": "d66e1497d39f55ad6f1e6c2abb30ce19290e30f8",
+				"size": 114024,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.12.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-1.10.12.tgz_1463749261802_0.5831814671400934"
+			},
+			"directories": {},
+			"publish_time": 1463749264540,
+			"_cnpm_publish_time": 1463749264540,
+			"_hasShrinkwrap": false
+		},
+		"1.10.11": {
+			"name": "datatables.net",
+			"version": "1.10.11",
+			"description": "DataTables for jQuery ",
+			"files": [
+				"js/jquery.dataTables.js"
+			],
+			"main": "./js/jquery.dataTables.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7"
+			},
+			"_id": "datatables.net@1.10.11",
+			"dist": {
+				"shasum": "1a574ac73681ecfdf4a0441f6b7892db7d1119ee",
+				"size": 114075,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.11.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-9-west.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-1.10.11.tgz_1455201355548_0.43563040578737855"
+			},
+			"directories": {},
+			"publish_time": 1455201358938,
+			"_cnpm_publish_time": 1455201358938,
+			"_hasShrinkwrap": false
+		},
+		"1.10.10": {
+			"name": "datatables.net",
+			"version": "1.10.10",
+			"description": "DataTables for jQuery ",
+			"files": [
+				"js/jquery.dataTables.js"
+			],
+			"main": "./js/jquery.dataTables.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7"
+			},
+			"_id": "datatables.net@1.10.10",
+			"dist": {
+				"shasum": "83aba0564cfdb19a378097abdca62eed7352f3d9",
+				"size": 113514,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.10.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"directories": {},
+			"publish_time": 1446889943863,
+			"_cnpm_publish_time": 1446889943863,
+			"_hasShrinkwrap": false
+		},
+		"1.10.9": {
+			"name": "datatables.net",
+			"version": "1.10.9",
+			"description": "DataTables for jQuery ",
+			"files": [
+				"js/jquery.dataTables.js"
+			],
+			"main": "./js/jquery.dataTables.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"DataTables"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7"
+			},
+			"gitHead": "127ef9137f29103e216a7474be095ccd86981d2a",
+			"_id": "datatables.net@1.10.9",
+			"scripts": {},
+			"_shasum": "6f234c2c741f802bf3febb22d5543cba2c5a1ce6",
+			"_from": ".",
+			"_npmVersion": "2.14.4",
+			"_nodeVersion": "4.1.1",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "npm@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"dist": {
+				"shasum": "6f234c2c741f802bf3febb22d5543cba2c5a1ce6",
+				"size": 112951,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.9.tgz"
+			},
+			"directories": {},
+			"publish_time": 1444226653605,
+			"_cnpm_publish_time": 1444226653605,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.10.16"
+	},
+	"time": {
+		"modified": "2017-09-01T10:02:01.000Z",
+		"created": "2015-10-07T14:04:13.605Z",
+		"1.10.16": "2017-09-01T10:01:10.153Z",
+		"1.10.15": "2017-04-18T08:25:28.730Z",
+		"1.10.14": "2017-04-17T19:35:34.096Z",
+		"2.1.1": "2017-01-18T12:16:02.047Z",
+		"1.10.13": "2016-12-06T15:01:38.001Z",
+		"1.10.12": "2016-05-20T13:01:04.540Z",
+		"1.10.11": "2016-02-11T14:35:58.938Z",
+		"1.10.10": "2015-11-07T09:52:23.863Z",
+		"1.10.9": "2015-10-07T14:04:13.605Z"
+	},
+	"_distfiles": {
+		"datatables.net-1.10.16.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.16.tgz",
+			"sha": "4b052d1082824261b68eed9d22741b711d3d2469",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-1.10.15.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.15.tgz",
+			"sha": "c789077bbfe385e75ff5a233fa5f23251a72df68",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-1.10.14.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.14.tgz",
+			"sha": "a4be6f530df149d5da1d8f72ae9727b4541dd737",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-2.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net/download/datatables.net-2.1.1.tgz",
+			"sha": "6f1103ef08054642aecf85e7e25efd592822ee78",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-1.10.13.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.13.tgz",
+			"sha": "6ac584ba6fc2dff1195e5c66d3e3b051a4b52b96",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-1.10.12.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.12.tgz",
+			"sha": "d66e1497d39f55ad6f1e6c2abb30ce19290e30f8",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-1.10.11.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.11.tgz",
+			"sha": "1a574ac73681ecfdf4a0441f6b7892db7d1119ee",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-1.10.10.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.10.tgz",
+			"sha": "83aba0564cfdb19a378097abdca62eed7352f3d9",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-1.10.9.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net/download/datatables.net-1.10.9.tgz",
+			"sha": "6f234c2c741f802bf3febb22d5543cba2c5a1ce6",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"34fd-0Ri01Dp76VxS5dAO/YDa8oCAark\"",
+			"fetched": 1527747699419
+		}
+	},
+	"_rev": "11-e6891f39373d79da",
+	"readme": "# DataTables for jQuery \n\nThis package contains distribution files for the [DataTables library](https://datatables.net) for [jQuery](http://jquery.com/). Only the core software for this library is contained in this package - to be correctly styled, a styling package for DataTables must also be included. Styling options include DataTable's native styling, [Bootstrap](http://getbootstrap.com) and [Foundation](http://foundation.zurb.com/).\n\nDataTables is a table enhancing library which adds features such as paging, ordering, search, scrolling and many more to a static HTML page. A comprehensive API is also available that can be used to manipulate the table. Please refer to the [DataTables web-site](//datatables.net) for a full range of documentation and examples.\n\n\n## Installation\n\n### Browser\n\nFor inclusion of this library using a standard `<script>` tag, rather than using this package, it is recommended that you use the [DataTables download builder](//datatables.net/download) which can create CDN or locally hosted packages for you, will all dependencies satisfied.\n\n### npm\n\n```\nnpm install datatables.net\n```\n\n```\nvar $ = require( 'jquery' );\nrequire( 'datatables.net' )( window, $ );\n```\n\n### bower\n\n```\nbower install --save datatables.net\n```\n\n\n\n## Documentation\n\nFull documentation of the DataTables options, API and plug-in interface are available on the DOCS_LINK. The site also contains information on the wide variety of plug-ins that are available for DataTables, which can be used to enhance and customise your table even further.\n\n\n## Bug / Support\n\nSupport for DataTables is available through the [DataTables forums](//datatables.net/forums) and [commercial support options](//datatables.net/support) are available.\n\n\n### Contributing\n\nIf you are thinking of contributing code to DataTables, first of all, thank you! All fixes, patches and enhancements to DataTables are very warmly welcomed. This repository is a distribution repo, so patches and issues sent to this repo will not be accepted. Instead, please direct pull requests to the [DataTables/DataTablesSrc](http://github.com/DataTables/DataTablesSrc). For issues / bugs, please direct your questions to the [DataTables forums](//datatables.net/forums).\n\n\n## License\n\nThis software is released under the [MIT license](//datatables.net/license). You are free to use, modify and distribute this software, but all copyright information must remain."
+}

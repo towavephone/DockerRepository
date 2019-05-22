@@ -1,0 +1,906 @@
+{
+	"name": "@types/lru-cache",
+	"versions": {
+		"4.1.1": {
+			"name": "@types/lru-cache",
+			"version": "4.1.1",
+			"description": "TypeScript definitions for lru-cache",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "12b3d2685cbfe62deaf03f59197b01d96447f10b3947de75cb4b09f17bec5dee",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/lru-cache@4.1.1",
+			"dist": {
+				"shasum": "b2d87a5e3df8d4b18ca426c5105cd701c2306d40",
+				"size": 3547,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-4.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lru-cache_4.1.1_1528262277477_0.6892882605994017"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1528262277541,
+			"_cnpm_publish_time": 1528262277541
+		},
+		"4.1.0": {
+			"name": "@types/lru-cache",
+			"version": "4.1.0",
+			"description": "TypeScript definitions for lru-cache",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "17e04af8c9680372fd55976b22bf3d85c068c6b99256286d2031a50a4124b085",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/lru-cache@4.1.0",
+			"dist": {
+				"shasum": "ef69ce9c3ebb46bd146f0d80f0c1ce38b0508eae",
+				"size": 3533,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lru-cache-4.1.0.tgz_1503594990664_0.7495299482252449"
+			},
+			"directories": {},
+			"publish_time": 1503594990772,
+			"_cnpm_publish_time": 1503594990772,
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "@types/lru-cache",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for lru-cache",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5d4a5333b7a95dd946ab4e75939e286291894fd365b770b9090c6492dae802e0",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/lru-cache@4.0.0",
+			"dist": {
+				"shasum": "e4f33244d62ad01f06d8c533f6b216ec42012175",
+				"size": 2710,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-4.0.0.tgz_1484837237757_0.019239271758124232"
+			},
+			"directories": {},
+			"publish_time": 1484837239580,
+			"_cnpm_publish_time": 1484837239580,
+			"_hasShrinkwrap": false
+		},
+		"2.5.32": {
+			"name": "@types/lru-cache",
+			"version": "2.5.32",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "1532ef8c5dac9ff760db2ea47fe868695ed450489d89d86f4abac49b14b57f30",
+			"_id": "@types/lru-cache@2.5.32",
+			"dist": {
+				"shasum": "5991590d5af4140e55eaa9a62e09dc7f7e9af615",
+				"size": 1230,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.32.tgz_1474307483553_0.22527905530296266"
+			},
+			"directories": {},
+			"publish_time": 1474307486577,
+			"_cnpm_publish_time": 1474307486577,
+			"_hasShrinkwrap": false
+		},
+		"2.5.31": {
+			"name": "@types/lru-cache",
+			"version": "2.5.31",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/lru-cache@2.5.31",
+			"dist": {
+				"shasum": "bd85bdce26cd11cc623a3457d5472855b6cd2e97",
+				"size": 1225,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.31.tgz_1472150926915_0.5379407436121255"
+			},
+			"directories": {},
+			"publish_time": 1472150928762,
+			"_cnpm_publish_time": 1472150928762,
+			"_hasShrinkwrap": false
+		},
+		"2.5.30": {
+			"name": "@types/lru-cache",
+			"version": "2.5.30",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/lru-cache@2.5.30",
+			"dist": {
+				"shasum": "589cf892ceb62c08688cea5ae3e1bcdc4fd5a780",
+				"size": 1225,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.30.tgz_1471528422766_0.35609060572460294"
+			},
+			"directories": {},
+			"publish_time": 1471528422989,
+			"_cnpm_publish_time": 1471528422989,
+			"_hasShrinkwrap": false
+		},
+		"2.5.29": {
+			"name": "@types/lru-cache",
+			"version": "2.5.29",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/lru-cache@2.5.29",
+			"dist": {
+				"shasum": "91de4073382a1ef12565004c22e3cb5544484a64",
+				"size": 1219,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.29.tgz_1471269542697_0.7942015554290265"
+			},
+			"directories": {},
+			"publish_time": 1471269542940,
+			"_cnpm_publish_time": 1471269542940,
+			"_hasShrinkwrap": false
+		},
+		"2.5.28": {
+			"name": "@types/lru-cache",
+			"version": "2.5.28",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lru-cache@2.5.28",
+			"_shasum": "370226bfcbd05a95138765f209d38dfd7648e97c",
+			"_from": "output\\lru-cache",
+			"_resolved": "file:output\\lru-cache",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "370226bfcbd05a95138765f209d38dfd7648e97c",
+				"size": 1198,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.28.tgz_1468509613880_0.2128481708932668"
+			},
+			"directories": {},
+			"publish_time": 1468509615807,
+			"_cnpm_publish_time": 1468509615807,
+			"_hasShrinkwrap": false
+		},
+		"2.5.27-alpha": {
+			"name": "@types/lru-cache",
+			"version": "2.5.27-alpha",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lru-cache@2.5.27-alpha",
+			"_shasum": "38b5cac7e3c11c029006d6591ce33d0a3efc3db1",
+			"_from": "output\\lru-cache",
+			"_resolved": "file:output\\lru-cache",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "38b5cac7e3c11c029006d6591ce33d0a3efc3db1",
+				"size": 1204,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.27-alpha.tgz_1468011001016_0.518004592275247"
+			},
+			"directories": {},
+			"publish_time": 1468011002565,
+			"_cnpm_publish_time": 1468011002565,
+			"_hasShrinkwrap": false
+		},
+		"2.5.26-alpha": {
+			"name": "@types/lru-cache",
+			"version": "2.5.26-alpha",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lru-cache@2.5.26-alpha",
+			"_shasum": "05e5b1f240f89a2b034792f0c93c5ee765e09b7d",
+			"_from": "output\\lru-cache",
+			"_resolved": "file:output\\lru-cache",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "05e5b1f240f89a2b034792f0c93c5ee765e09b7d",
+				"size": 1199,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.26-alpha.tgz_1467592998481_0.1037107645533979"
+			},
+			"directories": {},
+			"publish_time": 1467593002211,
+			"_cnpm_publish_time": 1467593002211,
+			"_hasShrinkwrap": false
+		},
+		"2.5.25-alpha": {
+			"name": "@types/lru-cache",
+			"version": "2.5.25-alpha",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lru-cache@2.5.25-alpha",
+			"_shasum": "543d41734c2d385fffcf1e0afe7fa4c7832a7e2b",
+			"_from": "output\\lru-cache",
+			"_resolved": "file:output\\lru-cache",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "543d41734c2d385fffcf1e0afe7fa4c7832a7e2b",
+				"size": 1203,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.25-alpha.tgz_1467428033785_0.797931412467733"
+			},
+			"directories": {},
+			"publish_time": 1467428037139,
+			"_cnpm_publish_time": 1467428037139,
+			"_hasShrinkwrap": false
+		},
+		"2.5.24-alpha": {
+			"name": "@types/lru-cache",
+			"version": "2.5.24-alpha",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lru-cache@2.5.24-alpha",
+			"_shasum": "eef338dc4d81f6008ddfa239621dab7173f5d416",
+			"_from": "output\\lru-cache",
+			"_resolved": "file:output\\lru-cache",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "eef338dc4d81f6008ddfa239621dab7173f5d416",
+				"size": 1201,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.24-alpha.tgz_1467415113695_0.6130945372860879"
+			},
+			"directories": {},
+			"publish_time": 1467415114284,
+			"_cnpm_publish_time": 1467415114284,
+			"_hasShrinkwrap": false
+		},
+		"2.5.23-alpha": {
+			"name": "@types/lru-cache",
+			"version": "2.5.23-alpha",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lru-cache@2.5.23-alpha",
+			"_shasum": "514e1ccff807188a1eee877dc23dee5f8887b09e",
+			"_from": "output\\lru-cache",
+			"_resolved": "file:output\\lru-cache",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "514e1ccff807188a1eee877dc23dee5f8887b09e",
+				"size": 1192,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.23-alpha.tgz_1467403293934_0.33377140178345144"
+			},
+			"directories": {},
+			"publish_time": 1467403296354,
+			"_cnpm_publish_time": 1467403296354,
+			"_hasShrinkwrap": false
+		},
+		"2.5.22-alpha": {
+			"name": "@types/lru-cache",
+			"version": "2.5.22-alpha",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lru-cache@2.5.22-alpha",
+			"_shasum": "a2f687b5fe485ea9b1aad0b828060b1ee2754263",
+			"_from": "output\\lru-cache",
+			"_resolved": "file:output\\lru-cache",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a2f687b5fe485ea9b1aad0b828060b1ee2754263",
+				"size": 1170,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.22-alpha.tgz_1464153901889_0.9517216666135937"
+			},
+			"directories": {},
+			"publish_time": 1464153904286,
+			"_cnpm_publish_time": 1464153904286,
+			"_hasShrinkwrap": false
+		},
+		"2.5.21-alpha": {
+			"name": "@types/lru-cache",
+			"version": "2.5.21-alpha",
+			"description": "TypeScript definitions for lru-cache v2.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lru-cache@2.5.21-alpha",
+			"_shasum": "a7e1fb95079c298da844446ba1652855c38c54ea",
+			"_from": "output\\lru-cache",
+			"_resolved": "file:output\\lru-cache",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a7e1fb95079c298da844446ba1652855c38c54ea",
+				"size": 1168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.21-alpha.tgz_1463774828321_0.5557969303335994"
+			},
+			"directories": {},
+			"publish_time": 1463774830755,
+			"_cnpm_publish_time": 1463774830755,
+			"_hasShrinkwrap": false
+		},
+		"2.5.16-alpha": {
+			"name": "@types/lru-cache",
+			"version": "2.5.16-alpha",
+			"description": "Type definitions for lru-cache v2.5.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lru-cache@2.5.16-alpha",
+			"_shasum": "290dbd97e0aaee6383add07ee219821c82fa2e38",
+			"_from": "output\\lru-cache",
+			"_resolved": "file:output\\lru-cache",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "290dbd97e0aaee6383add07ee219821c82fa2e38",
+				"size": 1181,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.16-alpha.tgz_1463693913185_0.3304960485547781"
+			},
+			"directories": {},
+			"publish_time": 1463693913895,
+			"_cnpm_publish_time": 1463693913895,
+			"_hasShrinkwrap": false
+		},
+		"2.5.15-alpha": {
+			"name": "@types/lru-cache",
+			"version": "2.5.15-alpha",
+			"description": "Type definitions for lru-cache v2.5.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/lru-cache@2.5.15-alpha",
+			"_shasum": "73af2b3269e502a2d0d06fd0bde2dd8f69613ab4",
+			"_from": "output\\lru-cache",
+			"_resolved": "file:output\\lru-cache",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "73af2b3269e502a2d0d06fd0bde2dd8f69613ab4",
+				"size": 1170,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/lru-cache-2.5.15-alpha.tgz_1463463203859_0.28125520911999047"
+			},
+			"directories": {},
+			"publish_time": 1463463207602,
+			"_cnpm_publish_time": 1463463207602,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "4.1.1",
+		"ts2.0": "4.0.0",
+		"ts2.1": "4.0.0",
+		"ts2.2": "4.0.0",
+		"ts2.3": "4.1.1",
+		"ts2.4": "4.1.1",
+		"ts2.5": "4.1.1",
+		"ts2.6": "4.1.1",
+		"ts2.7": "4.1.1",
+		"ts2.8": "4.1.1",
+		"ts2.9": "4.1.1",
+		"ts3.0": "4.1.1",
+		"ts3.1": "4.1.1",
+		"ts3.2": "4.1.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:17:51.000Z",
+		"created": "2016-05-17T05:33:27.602Z",
+		"4.1.1": "2018-06-06T05:17:57.541Z",
+		"4.1.0": "2017-08-24T17:16:30.772Z",
+		"4.0.0": "2017-01-19T14:47:19.580Z",
+		"2.5.32": "2016-09-19T17:51:26.577Z",
+		"2.5.31": "2016-08-25T18:48:48.762Z",
+		"2.5.30": "2016-08-18T13:53:42.989Z",
+		"2.5.29": "2016-08-15T13:59:02.940Z",
+		"2.5.28": "2016-07-14T15:20:15.807Z",
+		"2.5.27-alpha": "2016-07-08T20:50:02.565Z",
+		"2.5.26-alpha": "2016-07-04T00:43:22.211Z",
+		"2.5.25-alpha": "2016-07-02T02:53:57.139Z",
+		"2.5.24-alpha": "2016-07-01T23:18:34.284Z",
+		"2.5.23-alpha": "2016-07-01T20:01:36.354Z",
+		"2.5.22-alpha": "2016-05-25T05:25:04.286Z",
+		"2.5.21-alpha": "2016-05-20T20:07:10.755Z",
+		"2.5.16-alpha": "2016-05-19T21:38:33.895Z",
+		"2.5.15-alpha": "2016-05-17T05:33:27.602Z"
+	},
+	"_distfiles": {
+		"lru-cache-4.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-4.1.1.tgz",
+			"sha": "b2d87a5e3df8d4b18ca426c5105cd701c2306d40",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-4.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-4.1.0.tgz",
+			"sha": "ef69ce9c3ebb46bd146f0d80f0c1ce38b0508eae",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-4.0.0.tgz",
+			"sha": "e4f33244d62ad01f06d8c533f6b216ec42012175",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.32.tgz",
+			"sha": "5991590d5af4140e55eaa9a62e09dc7f7e9af615",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.31.tgz",
+			"sha": "bd85bdce26cd11cc623a3457d5472855b6cd2e97",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.30.tgz",
+			"sha": "589cf892ceb62c08688cea5ae3e1bcdc4fd5a780",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.29.tgz",
+			"sha": "91de4073382a1ef12565004c22e3cb5544484a64",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.28.tgz",
+			"sha": "370226bfcbd05a95138765f209d38dfd7648e97c",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.27-alpha.tgz",
+			"sha": "38b5cac7e3c11c029006d6591ce33d0a3efc3db1",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.26-alpha.tgz",
+			"sha": "05e5b1f240f89a2b034792f0c93c5ee765e09b7d",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.25-alpha.tgz",
+			"sha": "543d41734c2d385fffcf1e0afe7fa4c7832a7e2b",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.24-alpha.tgz",
+			"sha": "eef338dc4d81f6008ddfa239621dab7173f5d416",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.23-alpha.tgz",
+			"sha": "514e1ccff807188a1eee877dc23dee5f8887b09e",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.22-alpha.tgz",
+			"sha": "a2f687b5fe485ea9b1aad0b828060b1ee2754263",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.21-alpha.tgz",
+			"sha": "a7e1fb95079c298da844446ba1652855c38c54ea",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.16-alpha.tgz",
+			"sha": "290dbd97e0aaee6383add07ee219821c82fa2e38",
+			"registry": "cnpmjs"
+		},
+		"lru-cache-2.5.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lru-cache/download/@types/lru-cache-2.5.15-alpha.tgz",
+			"sha": "73af2b3269e502a2d0d06fd0bde2dd8f69613ab4",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833485005
+		}
+	},
+	"_rev": "2-fa63d31febd40447",
+	"readme": "# Installation\r\n> `npm install --save @types/lru-cache`\r\n\r\n# Summary\r\nThis package contains type definitions for lru-cache (https://github.com/isaacs/node-lru-cache).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lru-cache\r\n\r\nAdditional Details\r\n * Last updated: Wed, 06 Jun 2018 05:14:33 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Bart van der Schoor <https://github.com/Bartvds>, BendingBender <https://github.com/BendingBender>."
+}

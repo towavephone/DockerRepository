@@ -1,0 +1,184 @@
+{
+	"name": "@types/content-disposition",
+	"versions": {
+		"0.5.2": {
+			"name": "@types/content-disposition",
+			"version": "0.5.2",
+			"description": "TypeScript definitions for content-disposition",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stefan Reichel",
+					"url": "https://github.com/bomret"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "68aa752bd0f2f3689d2e99462d338b028db35c990cef9918f60df9e43eef9b47",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/content-disposition@0.5.2",
+			"dist": {
+				"shasum": "18ccb0fd126808e498a820cb8149c0072a2b9066",
+				"size": 907,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-disposition/download/@types/content-disposition-0.5.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/content-disposition-0.5.2.tgz_1490369129924_0.07115331944078207"
+			},
+			"directories": {},
+			"publish_time": 1490369131815,
+			"_cnpm_publish_time": 1490369131815,
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "@types/content-disposition",
+			"version": "0.5.1",
+			"description": "TypeScript definitions for content-disposition",
+			"license": "MIT",
+			"author": "Stefan Reichel <https://github.com/bomret>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e83952a5cb517b71f2aae2b7e48286e1fe909333a25d4a37c6dae3189acaf50e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/content-disposition@0.5.1",
+			"dist": {
+				"shasum": "6e435fe505fd2d257e1106fb68faacf9d4e86f59",
+				"size": 1090,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-disposition/download/@types/content-disposition-0.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/content-disposition-0.5.1.tgz_1484320261688_0.7353196842595935"
+			},
+			"directories": {},
+			"publish_time": 1484320263227,
+			"_cnpm_publish_time": 1484320263227,
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "@types/content-disposition",
+			"version": "0.5.0",
+			"description": "TypeScript definitions for content-disposition",
+			"license": "MIT",
+			"author": "Stefan Reichel <https://github.com/bomret>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "353198b4c92885f1ec260b78dc49ed44f04dcdccb83ac06de002c3efd8855ffd",
+			"_id": "@types/content-disposition@0.5.0",
+			"dist": {
+				"shasum": "8b6de9e58ecdc99efa66b83fd5289e57d15d7cb6",
+				"size": 1075,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/content-disposition/download/@types/content-disposition-0.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/content-disposition-0.5.0.tgz_1481235536377_0.7620138330385089"
+			},
+			"directories": {},
+			"publish_time": 1481235536613,
+			"_cnpm_publish_time": 1481235536613,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.5.2",
+		"ts2.0": "0.5.2",
+		"ts2.1": "0.5.2",
+		"ts2.2": "0.5.2",
+		"ts2.3": "0.5.2",
+		"ts2.4": "0.5.2",
+		"ts2.5": "0.5.2",
+		"ts2.6": "0.5.2",
+		"ts2.7": "0.5.2",
+		"ts2.8": "0.5.2",
+		"ts2.9": "0.5.2",
+		"ts3.0": "0.5.2",
+		"ts3.1": "0.5.2",
+		"ts3.2": "0.5.2"
+	},
+	"time": {
+		"modified": "2018-10-10T19:58:06.000Z",
+		"created": "2016-12-08T22:18:56.613Z",
+		"0.5.2": "2017-03-24T15:25:31.815Z",
+		"0.5.1": "2017-01-13T15:11:03.227Z",
+		"0.5.0": "2016-12-08T22:18:56.613Z"
+	},
+	"_distfiles": {
+		"content-disposition-0.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-disposition/download/@types/content-disposition-0.5.2.tgz",
+			"sha": "18ccb0fd126808e498a820cb8149c0072a2b9066",
+			"registry": "cnpmjs"
+		},
+		"content-disposition-0.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-disposition/download/@types/content-disposition-0.5.1.tgz",
+			"sha": "6e435fe505fd2d257e1106fb68faacf9d4e86f59",
+			"registry": "cnpmjs"
+		},
+		"content-disposition-0.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/content-disposition/download/@types/content-disposition-0.5.0.tgz",
+			"sha": "8b6de9e58ecdc99efa66b83fd5289e57d15d7cb6",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"126a-OrDNpGDhZcH+NetRLmImrhi1JZU\"",
+			"fetched": 1541833453343
+		}
+	},
+	"_rev": "2-57b4f40010b77c1e",
+	"readme": "# Installation\r\n> `npm install --save @types/content-disposition`\r\n\r\n# Summary\r\nThis package contains type definitions for content-disposition (https://github.com/jshttp/content-disposition).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/content-disposition\r\n\r\nAdditional Details\r\n * Last updated: Fri, 24 Mar 2017 15:23:29 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Stefan Reichel <https://github.com/bomret>."
+}

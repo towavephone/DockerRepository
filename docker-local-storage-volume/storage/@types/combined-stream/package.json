@@ -1,0 +1,154 @@
+{
+	"name": "@types/combined-stream",
+	"versions": {
+		"1.0.1": {
+			"name": "@types/combined-stream",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for combined-stream",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Felix Geisendörfer",
+					"url": "https://github.com/felixge"
+				},
+				{
+					"name": "Tomek Łaziuk",
+					"url": "https://github.com/tlaziuk"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a5b7f0f08cc9846a8028d2ad6085e64bef45d7ba16451f110e01ec2323c0393e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/combined-stream@1.0.1",
+			"dist": {
+				"shasum": "6b30bea7711e9e5dda9240bdcb9524e1cc4d94c2",
+				"size": 1357,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/combined-stream/download/@types/combined-stream-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/combined-stream-1.0.1.tgz_1490369078586_0.7300871915649623"
+			},
+			"directories": {},
+			"publish_time": 1490369080363,
+			"_cnpm_publish_time": 1490369080363,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "@types/combined-stream",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for combined-stream",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Felix Geisendörfer",
+					"url": "https://github.com/felixge"
+				},
+				{
+					"name": "Tomek Łaziuk",
+					"url": "https://github.com/tlaziuk"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a40b0f9737b8afca1e97342bfb8b212ebd34e0c1166fab2de042ffa857d1f41a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/combined-stream@1.0.0",
+			"dist": {
+				"shasum": "f09ef0b4102dfa11c58bb6233f676a6222491b98",
+				"size": 1361,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/combined-stream/download/@types/combined-stream-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/combined-stream-1.0.0.tgz_1488840869921_0.31093795178458095"
+			},
+			"directories": {},
+			"publish_time": 1488840870189,
+			"_cnpm_publish_time": 1488840870189,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.1",
+		"ts2.0": "1.0.1",
+		"ts2.1": "1.0.1",
+		"ts2.2": "1.0.1",
+		"ts2.3": "1.0.1",
+		"ts2.4": "1.0.1",
+		"ts2.5": "1.0.1",
+		"ts2.6": "1.0.1",
+		"ts2.7": "1.0.1",
+		"ts2.8": "1.0.1",
+		"ts2.9": "1.0.1",
+		"ts3.0": "1.0.1",
+		"ts3.1": "1.0.1",
+		"ts3.2": "1.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:46.000Z",
+		"created": "2017-03-06T22:54:30.189Z",
+		"1.0.1": "2017-03-24T15:24:40.363Z",
+		"1.0.0": "2017-03-06T22:54:30.189Z"
+	},
+	"_distfiles": {
+		"combined-stream-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/combined-stream/download/@types/combined-stream-1.0.1.tgz",
+			"sha": "6b30bea7711e9e5dda9240bdcb9524e1cc4d94c2",
+			"registry": "cnpmjs"
+		},
+		"combined-stream-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/combined-stream/download/@types/combined-stream-1.0.0.tgz",
+			"sha": "f09ef0b4102dfa11c58bb6233f676a6222491b98",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"eb9-DMe59tL0KXUTHo0TIpa5wiVYaRE\"",
+			"fetched": 1541833453320
+		}
+	},
+	"_rev": "2-b1c17482849d9c03",
+	"readme": "# Installation\r\n> `npm install --save @types/combined-stream`\r\n\r\n# Summary\r\nThis package contains type definitions for combined-stream (https://github.com/felixge/node-combined-stream).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/combined-stream\r\n\r\nAdditional Details\r\n * Last updated: Fri, 24 Mar 2017 15:23:28 GMT\r\n * Dependencies: stream, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Felix Geisendörfer <https://github.com/felixge>, Tomek Łaziuk <https://github.com/tlaziuk>."
+}

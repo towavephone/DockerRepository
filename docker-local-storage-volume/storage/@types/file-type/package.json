@@ -1,0 +1,257 @@
+{
+	"name": "@types/file-type",
+	"versions": {
+		"5.2.1": {
+			"name": "@types/file-type",
+			"version": "5.2.1",
+			"description": "TypeScript definitions for file-type",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "KIM Jaesuck a.k.a. gim tcaesvk",
+					"url": "https://github.com/tcaesvk"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "65835ac2f3415a18a9f9f786597f065d33a2479337e577f4915c289df2652280",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/file-type@5.2.1",
+			"dist": {
+				"shasum": "e7af49e08187b6b7598509c5e416669d25fa3461",
+				"size": 1620,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/file-type/download/@types/file-type-5.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/file-type-5.2.1.tgz_1503352328318_0.17069828254170716"
+			},
+			"directories": {},
+			"publish_time": 1503352328539,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352328539
+		},
+		"5.2.0": {
+			"name": "@types/file-type",
+			"version": "5.2.0",
+			"description": "TypeScript definitions for file-type",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "KIM Jaesuck a.k.a. gim tcaesvk",
+					"url": "http://github.com/tcaesvk/"
+				},
+				{
+					"name": "BendingBender",
+					"url": "http://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "673616634efa54479d07526a2579a2c50885c38cf4d1015fe821036e188cd68b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/file-type@5.2.0",
+			"dist": {
+				"shasum": "0b3aa19a50a2bcf4189afdf0e754f7497749d37b",
+				"size": 1621,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/file-type/download/@types/file-type-5.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/file-type-5.2.0.tgz_1500919316178_0.4978542528115213"
+			},
+			"directories": {},
+			"publish_time": 1500919317917,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500919317917
+		},
+		"0.0.2": {
+			"name": "@types/file-type",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for file-type",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "KIM Jaesuck a.k.a. gim tcaesvk",
+					"url": "http://github.com/tcaesvk/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "06c26a28190ad5c2ba96f2f20f68f01137c89e4f3b04933304583c8768d52b61",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/file-type@0.0.2",
+			"dist": {
+				"shasum": "9b34d05af6583a61c73e8a900b49b1285fa9f808",
+				"size": 888,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/file-type/download/@types/file-type-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/file-type-0.0.2.tgz_1489129812034_0.8790870527736843"
+			},
+			"directories": {},
+			"publish_time": 1489129812301,
+			"_cnpm_publish_time": 1489129812301,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/file-type",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for file-type",
+			"license": "MIT",
+			"author": "KIM Jaesuck a.k.a. gim tcaesvk <http://github.com/tcaesvk/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "f741a37825e5355ed2728d2fd904536af73a97cdf5f59d9a5f8181d3f9d50698",
+			"_id": "@types/file-type@0.0.1",
+			"dist": {
+				"shasum": "42fd32ad2eaded668725c1f589549b1e73803f71",
+				"size": 1072,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/file-type/download/@types/file-type-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/file-type-0.0.1.tgz_1474306289334_0.6733087585307658"
+			},
+			"directories": {},
+			"publish_time": 1474306292298,
+			"_cnpm_publish_time": 1474306292298,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "5.2.1",
+		"ts2.0": "5.2.1",
+		"ts2.1": "5.2.1",
+		"ts2.2": "5.2.1",
+		"ts2.3": "5.2.1",
+		"ts2.4": "5.2.1",
+		"ts2.5": "5.2.1",
+		"ts2.6": "5.2.1",
+		"ts2.7": "5.2.1",
+		"ts2.8": "5.2.1",
+		"ts2.9": "5.2.1",
+		"ts3.0": "5.2.1",
+		"ts3.1": "5.2.1",
+		"ts3.2": "5.2.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:11:21.000Z",
+		"created": "2016-09-19T17:31:32.298Z",
+		"5.2.1": "2017-08-21T21:52:08.539Z",
+		"5.2.0": "2017-07-24T18:01:57.917Z",
+		"0.0.2": "2017-03-10T07:10:12.301Z",
+		"0.0.1": "2016-09-19T17:31:32.298Z"
+	},
+	"_distfiles": {
+		"file-type-5.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/file-type/download/@types/file-type-5.2.1.tgz",
+			"sha": "e7af49e08187b6b7598509c5e416669d25fa3461",
+			"registry": "cnpmjs"
+		},
+		"file-type-5.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/file-type/download/@types/file-type-5.2.0.tgz",
+			"sha": "0b3aa19a50a2bcf4189afdf0e754f7497749d37b",
+			"registry": "cnpmjs"
+		},
+		"file-type-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/file-type/download/@types/file-type-0.0.2.tgz",
+			"sha": "9b34d05af6583a61c73e8a900b49b1285fa9f808",
+			"registry": "cnpmjs"
+		},
+		"file-type-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/file-type/download/@types/file-type-0.0.1.tgz",
+			"sha": "42fd32ad2eaded668725c1f589549b1e73803f71",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1712-iRW3PfjRlzPvAXGRgj/vtaYxf3Q\"",
+			"fetched": 1541833455469
+		}
+	},
+	"_rev": "2-75d5559d7007e260",
+	"readme": "# Installation\r\n> `npm install --save @types/file-type`\r\n\r\n# Summary\r\nThis package contains type definitions for file-type (https://github.com/sindresorhus/file-type).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/file-type\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 21:49:18 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by KIM Jaesuck a.k.a. gim tcaesvk <https://github.com/tcaesvk>, BendingBender <https://github.com/BendingBender>."
+}

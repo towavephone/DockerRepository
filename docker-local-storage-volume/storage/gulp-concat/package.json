@@ -1,0 +1,2117 @@
+{
+	"name": "gulp-concat",
+	"versions": {
+		"2.6.1": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.6.1",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/contra/gulp-concat.git"
+			},
+			"author": {
+				"name": "Contra",
+				"email": "yo@contra.io",
+				"url": "http://contra.io/"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^1.0.0",
+				"through2": "^2.0.0",
+				"vinyl": "^2.0.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.8.7",
+				"gulp-sourcemaps": "^2.2.0",
+				"istanbul": "^0.4.5",
+				"mocha": "^3.0.0",
+				"mocha-lcov-reporter": "^1.2.0",
+				"should": "^11.0.0",
+				"stream-array": "^1.0.1",
+				"stream-assert": "^2.0.1"
+			},
+			"scripts": {
+				"test": "mocha",
+				"coverage": "istanbul cover _mocha"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"license": "MIT",
+			"gitHead": "c179a8c491047eb980459fea6d0e2fd65d6d0ad1",
+			"bugs": {
+				"url": "https://github.com/contra/gulp-concat/issues"
+			},
+			"homepage": "https://github.com/contra/gulp-concat#readme",
+			"_id": "gulp-concat@2.6.1",
+			"_shasum": "633d16c95d88504628ad02665663cee5a4793353",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "contra",
+				"email": "contra@wearefractal.com"
+			},
+			"dist": {
+				"shasum": "633d16c95d88504628ad02665663cee5a4793353",
+				"size": 2901,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-concat-2.6.1.tgz_1479063191849_0.183789084199816"
+			},
+			"directories": {},
+			"publish_time": 1479063193734,
+			"_cnpm_publish_time": 1479063193734,
+			"_hasShrinkwrap": false
+		},
+		"2.6.0": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.6.0",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^1.0.0",
+				"gulp-util": "^3.0.1",
+				"through2": "^0.6.3"
+			},
+			"devDependencies": {
+				"gulp": "^3.8.7",
+				"gulp-sourcemaps": "^1.1.4",
+				"istanbul": "^0.3.2",
+				"mocha": "^2.0.1",
+				"mocha-lcov-reporter": "0.0.1",
+				"should": "^5.0.0",
+				"stream-array": "^1.0.1",
+				"stream-assert": "^2.0.1"
+			},
+			"scripts": {
+				"test": "mocha",
+				"coverage": "istanbul cover _mocha"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"license": "MIT",
+			"gitHead": "48e757a90687a8c5bca9d2945285ac0689aa7023",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"homepage": "https://github.com/wearefractal/gulp-concat#readme",
+			"_id": "gulp-concat@2.6.0",
+			"_shasum": "585cfb115411f348773131140566b6a81c69cb91",
+			"_from": ".",
+			"_npmVersion": "2.10.0",
+			"_nodeVersion": "2.0.1",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "585cfb115411f348773131140566b6a81c69cb91",
+				"size": 2929,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.6.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1435092244911,
+			"_cnpm_publish_time": 1435092244911,
+			"_hasShrinkwrap": false
+		},
+		"2.5.2": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.5.2",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wearefractal/gulp-concat"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^1.0.0",
+				"gulp-util": "^3.0.1",
+				"through2": "^0.6.3"
+			},
+			"devDependencies": {
+				"gulp": "^3.8.7",
+				"gulp-sourcemaps": "^1.1.4",
+				"istanbul": "^0.3.2",
+				"mocha": "^2.0.1",
+				"mocha-lcov-reporter": "0.0.1",
+				"should": "^5.0.0",
+				"stream-array": "^1.0.1",
+				"stream-assert": "^2.0.1"
+			},
+			"scripts": {
+				"test": "mocha",
+				"coverage": "istanbul cover _mocha"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "21de607f81a4ef6fcc713f4839c2ffb2f44a3d42",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"homepage": "https://github.com/wearefractal/gulp-concat",
+			"_id": "gulp-concat@2.5.2",
+			"_shasum": "d644372cdc2b3cdb421a8a941c8d74e21d815f14",
+			"_from": ".",
+			"_npmVersion": "2.5.0",
+			"_nodeVersion": "0.10.35",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "d644372cdc2b3cdb421a8a941c8d74e21d815f14",
+				"size": 2897,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.5.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1424533142084,
+			"_cnpm_publish_time": 1424533142084,
+			"_hasShrinkwrap": false
+		},
+		"2.5.1": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.5.1",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wearefractal/gulp-concat"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^1.0.0",
+				"gulp-util": "^3.0.1",
+				"through2": "^0.6.3"
+			},
+			"devDependencies": {
+				"gulp": "^3.8.7",
+				"gulp-sourcemaps": "^1.1.4",
+				"istanbul": "^0.3.2",
+				"mocha": "^2.0.1",
+				"mocha-lcov-reporter": "0.0.1",
+				"should": "^5.0.0",
+				"stream-array": "^1.0.1",
+				"stream-assert": "^2.0.1"
+			},
+			"scripts": {
+				"test": "mocha",
+				"coverage": "istanbul cover _mocha"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "84d82e637564965dbf0a1baa2a66e6bcff5c949c",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"homepage": "https://github.com/wearefractal/gulp-concat",
+			"_id": "gulp-concat@2.5.1",
+			"_shasum": "62c915c806286deffee99b117f35765d17ee499f",
+			"_from": ".",
+			"_npmVersion": "2.5.0",
+			"_nodeVersion": "0.10.35",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "62c915c806286deffee99b117f35765d17ee499f",
+				"size": 2901,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.5.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1424393732158,
+			"_cnpm_publish_time": 1424393732158,
+			"_hasShrinkwrap": false
+		},
+		"2.5.0": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.5.0",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/wearefractal/gulp-concat"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^1.0.0",
+				"gulp-util": "^3.0.1",
+				"through2": "^0.6.3"
+			},
+			"devDependencies": {
+				"gulp": "^3.8.7",
+				"gulp-sourcemaps": "^1.1.4",
+				"istanbul": "^0.3.2",
+				"mocha": "^2.0.1",
+				"mocha-lcov-reporter": "0.0.1",
+				"should": "^5.0.0",
+				"stream-array": "^1.0.1",
+				"stream-assert": "^2.0.1"
+			},
+			"scripts": {
+				"test": "mocha",
+				"coverage": "istanbul cover _mocha"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "1f18054cd14e74a6372a8f2c571cb44fda27ad92",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"homepage": "https://github.com/wearefractal/gulp-concat",
+			"_id": "gulp-concat@2.5.0",
+			"_shasum": "406ba9f75b11031b32160045e931fc874248a292",
+			"_from": ".",
+			"_npmVersion": "2.5.0",
+			"_nodeVersion": "0.10.35",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "406ba9f75b11031b32160045e931fc874248a292",
+				"size": 2890,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.5.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1423978346091,
+			"_cnpm_publish_time": 1423978346091,
+			"_hasShrinkwrap": false
+		},
+		"2.4.3": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.4.3",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^1.0.0",
+				"gulp-util": "^3.0.1",
+				"through": "^2.3.4"
+			},
+			"devDependencies": {
+				"gulp": "^3.8.7",
+				"gulp-sourcemaps": "^1.1.4",
+				"istanbul": "^0.3.2",
+				"mocha": "^2.0.1",
+				"mocha-lcov-reporter": "0.0.1",
+				"should": "^4.3.0",
+				"stream-array": "^1.0.1",
+				"stream-assert": "^2.0.1"
+			},
+			"scripts": {
+				"test": "mocha",
+				"coverage": "istanbul cover _mocha -- -R spec"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "009b35e6e0ccc1971ca1741f9ea5de409146958e",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.4.3",
+			"_shasum": "dd913c3773b02f9dfb3f70e30215dc07a5cf32f7",
+			"_from": ".",
+			"_npmVersion": "2.1.11",
+			"_nodeVersion": "0.10.33",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "dd913c3773b02f9dfb3f70e30215dc07a5cf32f7",
+				"size": 4336,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.4.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1419786380568,
+			"_cnpm_publish_time": 1419786380568,
+			"_hasShrinkwrap": false
+		},
+		"2.4.2": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.4.2",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^0.1.3",
+				"gulp-util": "^2.2.5",
+				"through": "^2.3.4"
+			},
+			"devDependencies": {
+				"gulp": "^3.8.7",
+				"gulp-sourcemaps": "^1.1.4",
+				"istanbul": "*",
+				"mocha": "*",
+				"mocha-lcov-reporter": "*",
+				"should": "*",
+				"stream-array": "^0.1.3",
+				"stream-assert": "^2.0.1"
+			},
+			"scripts": {
+				"test": "mocha",
+				"coverage": "istanbul cover _mocha -- -R spec"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "bd1a37dd90fbaa8c722bb7c1f0327215a0a925e1",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.4.2",
+			"_shasum": "1b3ed877763674e8d3de5eca8ed382f0261ec2ea",
+			"_from": ".",
+			"_npmVersion": "2.1.6",
+			"_nodeVersion": "0.10.33",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "1b3ed877763674e8d3de5eca8ed382f0261ec2ea",
+				"size": 4103,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.4.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1416374925427,
+			"_cnpm_publish_time": 1416374925427,
+			"_hasShrinkwrap": false
+		},
+		"2.4.1": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.4.1",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^0.1.3",
+				"gulp-util": "^2.2.5",
+				"through": "^2.3.4"
+			},
+			"devDependencies": {
+				"gulp": "^3.8.7",
+				"gulp-sourcemaps": "^1.1.4",
+				"istanbul": "*",
+				"mocha": "*",
+				"mocha-lcov-reporter": "*",
+				"should": "*",
+				"stream-array": "^0.1.3",
+				"stream-assert": "^2.0.1"
+			},
+			"scripts": {
+				"test": "mocha",
+				"coverage": "istanbul cover _mocha -- -R spec"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "16beeeef2dd13d51b7f58d93903827408668b8f2",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.4.1",
+			"_shasum": "3097eb348a306708f400cf86cfb7d03ca5a55c94",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "3097eb348a306708f400cf86cfb7d03ca5a55c94",
+				"size": 4086,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.4.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1410882738433,
+			"_cnpm_publish_time": 1410882738433,
+			"_hasShrinkwrap": false
+		},
+		"2.4.0": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.4.0",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^0.1.3",
+				"gulp-util": "^2.2.5",
+				"through": "^2.3.4"
+			},
+			"devDependencies": {
+				"gulp": "^3.8.7",
+				"gulp-sourcemaps": "^1.1.4",
+				"istanbul": "*",
+				"mocha": "*",
+				"mocha-lcov-reporter": "*",
+				"should": "*",
+				"stream-array": "^0.1.3",
+				"stream-assert": "^1.0.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"coverage": "istanbul cover _mocha -- -R spec"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "c563e0176f006aa4b79f4c7b5941f0088de174a9",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.4.0",
+			"_shasum": "bd20abfd853a7f530155d60478aab9fd04882a8f",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "bd20abfd853a7f530155d60478aab9fd04882a8f",
+				"size": 4081,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.4.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1410039035032,
+			"_cnpm_publish_time": 1410039035032,
+			"_hasShrinkwrap": false
+		},
+		"2.3.5": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.3.5",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^0.1.3",
+				"gulp-util": "^2.2.5",
+				"through": "^2.3.4"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "81656e912b315dcf0d1c6d5cb3668e5f5dcc9b16",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.3.5",
+			"_shasum": "2fe98cb3d78199744dfc0ecb295fb92bf8ad8eb4",
+			"_from": ".",
+			"_npmVersion": "1.4.21",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "2fe98cb3d78199744dfc0ecb295fb92bf8ad8eb4",
+				"size": 3169,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.3.5.tgz"
+			},
+			"directories": {},
+			"publish_time": 1409772670431,
+			"_cnpm_publish_time": 1409772670431,
+			"_hasShrinkwrap": false
+		},
+		"2.3.4": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.3.4",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^0.1.1",
+				"gulp-util": "^2.2.5",
+				"through": "^2.3.4"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "5d8523b0e1f929c6d9c7ea17090c270862f8a1a2",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.3.4",
+			"_shasum": "7ab0245c350c4a634c565c730e34d9c543738c8e",
+			"_from": ".",
+			"_npmVersion": "1.5.0-alpha-1",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "7ab0245c350c4a634c565c730e34d9c543738c8e",
+				"size": 3190,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.3.4.tgz"
+			},
+			"directories": {},
+			"publish_time": 1406065292166,
+			"_cnpm_publish_time": 1406065292166,
+			"_hasShrinkwrap": false
+		},
+		"2.3.3": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.3.3",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^0.1.1",
+				"gulp-util": "^2.2.5",
+				"through": "^2.3.4"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "f771405e2f15eaa58bda7e15713b8ea5ab4aa0bd",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.3.3",
+			"_shasum": "4f223c8c2b4a6b0a50ab5bb0342bbea4d698eaf2",
+			"_from": ".",
+			"_npmVersion": "1.5.0-alpha-1",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "4f223c8c2b4a6b0a50ab5bb0342bbea4d698eaf2",
+				"size": 3148,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.3.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1404925571605,
+			"_cnpm_publish_time": 1404925571605,
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.3.0",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"concat-with-sourcemaps": "^0.1.1",
+				"gulp-util": "^2.2.5",
+				"through": "^2.3.4"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engineStrict": true,
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"gitHead": "c4cd3369301c4470f1aff84a25a5306e4949fd1f",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.3.0",
+			"_shasum": "0049119e4b7c7b709f53d6c6467e0ccf73395303",
+			"_from": ".",
+			"_npmVersion": "1.4.16",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"dist": {
+				"shasum": "0049119e4b7c7b709f53d6c6467e0ccf73395303",
+				"size": 2969,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.3.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1404853716084,
+			"_cnpm_publish_time": 1404853716084,
+			"_hasShrinkwrap": false
+		},
+		"2.1.3": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.1.3",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"event-stream": "~3.0.18",
+				"gulp-util": "~1.2.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"gulp": "~3.0.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.1.3",
+			"dist": {
+				"shasum": "79deddd5d6f765e0c974c199f0c9dd11079f5728",
+				"size": 2515,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.3.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1387610537225,
+			"_cnpm_publish_time": 1387610537225,
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.2.0",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"through": "^2.3.4",
+				"gulp-util": "^2.2.5"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.2.0",
+			"dist": {
+				"shasum": "eefc3e1580c4ccac643806d2067c322b441a6346",
+				"size": 2932,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.4",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1395096125201,
+			"_cnpm_publish_time": 1395096125201,
+			"_hasShrinkwrap": false
+		},
+		"2.1.7": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.1.7",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"through": "~2.3.4",
+				"gulp-util": "~2.2.5"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.1.7",
+			"dist": {
+				"shasum": "6e227d7417835d88b083bc44b8b4d41bb7e41255",
+				"size": 2582,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.7.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1388790617642,
+			"_cnpm_publish_time": 1388790617642,
+			"_hasShrinkwrap": false
+		},
+		"2.1.6": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.1.6",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"through": "~2.3.4",
+				"gulp-util": "~2.2.5"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.1.6",
+			"dist": {
+				"shasum": "e4783bae34a117766fd9b1e1a59e32198a90149e",
+				"size": 2583,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.6.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1388703178833,
+			"_cnpm_publish_time": 1388703178833,
+			"_hasShrinkwrap": false
+		},
+		"2.1.5": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.1.5",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"event-stream": "~3.0.20",
+				"gulp-util": "~2.2.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.1.5",
+			"dist": {
+				"shasum": "c780a99a08ae848cab47c45f3240b294c1659e35",
+				"size": 2546,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.5.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1388462459039,
+			"_cnpm_publish_time": 1388462459039,
+			"_hasShrinkwrap": false
+		},
+		"2.1.4": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.1.4",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"event-stream": "~3.0.20",
+				"gulp-util": "~2.2.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.1.4",
+			"dist": {
+				"shasum": "1f76b9186acb3fafe61924fef4d0589f631ebcab",
+				"size": 2511,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.4.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1387617408129,
+			"_cnpm_publish_time": 1387617408129,
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.1.2",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"event-stream": "~3.0.18",
+				"gulp-util": "~1.2.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"gulp": "~3.0.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.1.2",
+			"dist": {
+				"shasum": "7b4f87fd5153b96cba4e361904c465df2c080736",
+				"size": 2511,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1387034117769,
+			"_cnpm_publish_time": 1387034117769,
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.1.1",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"event-stream": "~3.0.18",
+				"gulp-util": "~1.2.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"gulp": "~3.0.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.1.1",
+			"dist": {
+				"shasum": "6f87997539f8a877777662b3ef69d9ff05a88f3b",
+				"size": 2482,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386669177871,
+			"_cnpm_publish_time": 1386669177871,
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.1.0",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"event-stream": "~3.0.18",
+				"gulp-util": "~1.2.0"
+			},
+			"peerDependencies": {
+				"gulp": "~3.0.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"gulp": "~3.0.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.1.0",
+			"dist": {
+				"shasum": "91912e4d60980333a859b533beeb0163ba950c05",
+				"size": 0,
+				"noattachment": true,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386653409046,
+			"_cnpm_publish_time": 1386653409046
+		},
+		"2.0.0": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "2.0.0",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"event-stream": "*",
+				"gulp-util": "~1.2.0"
+			},
+			"peerDependencies": {
+				"gulp": "~3.0.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"gulp": "~3.0.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@2.0.0",
+			"dist": {
+				"shasum": "93117ee428ac87bb21aa210bb82481d52f05daed",
+				"size": 2322,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386531569830,
+			"_cnpm_publish_time": 1386531569830,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "1.1.0",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"event-stream": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@1.1.0",
+			"dist": {
+				"shasum": "b08a3ec9ee3f256eb4f68c7bb090779f37a070f5",
+				"size": 2168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-1.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.14",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1385512777355,
+			"_cnpm_publish_time": 1385512777355,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "1.0.0",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"event-stream": "*",
+				"clone": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@1.0.0",
+			"dist": {
+				"shasum": "2aa41996755b3d7a24f8caaa3d08fd2761c86515",
+				"size": 2198,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-1.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1380231270981,
+			"_cnpm_publish_time": 1380231270981,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "gulp-concat",
+			"description": "Concatenates files",
+			"version": "0.0.1",
+			"homepage": "http://github.com/wearefractal/gulp-concat",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/wearefractal/gulp-concat.git"
+			},
+			"author": {
+				"name": "Fractal",
+				"email": "contact@wearefractal.com",
+				"url": "http://wearefractal.com/"
+			},
+			"main": "./index.js",
+			"keywords": [
+				"gulpplugin"
+			],
+			"dependencies": {
+				"event-stream": "*",
+				"clone": "*"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">= 0.4.0"
+			},
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "http://github.com/wearefractal/gulp-concat/raw/master/LICENSE"
+				}
+			],
+			"readmeFilename": "README.md",
+			"bugs": {
+				"url": "https://github.com/wearefractal/gulp-concat/issues"
+			},
+			"_id": "gulp-concat@0.0.1",
+			"dist": {
+				"shasum": "548ee2e054ae0504795b129c4499ded0d23a94e3",
+				"size": 2312,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-concat/download/gulp-concat-0.0.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "fractal",
+				"email": "contact@wearefractal.com"
+			},
+			"maintainers": [
+				{
+					"name": "contra",
+					"email": "contra@wearefractal.com"
+				},
+				{
+					"name": "fractal",
+					"email": "contact@wearefractal.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1373092684861,
+			"_cnpm_publish_time": 1373092684861,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.6.1"
+	},
+	"time": {
+		"modified": "2017-03-27T11:53:00.000Z",
+		"created": "2013-07-06T06:38:04.861Z",
+		"2.6.1": "2016-11-13T18:53:13.734Z",
+		"2.6.0": "2015-06-23T20:44:04.911Z",
+		"2.5.2": "2015-02-21T15:39:02.084Z",
+		"2.5.1": "2015-02-20T00:55:32.158Z",
+		"2.5.0": "2015-02-15T05:32:26.091Z",
+		"2.4.3": "2014-12-28T17:06:20.568Z",
+		"2.4.2": "2014-11-19T05:28:45.427Z",
+		"2.4.1": "2014-09-16T15:52:18.433Z",
+		"2.4.0": "2014-09-06T21:30:35.032Z",
+		"2.3.5": "2014-09-03T19:31:10.431Z",
+		"2.3.4": "2014-07-22T21:41:32.166Z",
+		"2.3.3": "2014-07-09T17:06:11.605Z",
+		"2.3.0": "2014-07-08T21:08:36.084Z",
+		"2.1.3": "2013-12-21T07:22:17.225Z",
+		"2.2.0": "2014-03-17T22:42:05.201Z",
+		"2.1.7": "2014-01-03T23:10:17.642Z",
+		"2.1.6": "2014-01-02T22:52:58.833Z",
+		"2.1.5": "2013-12-31T04:00:59.039Z",
+		"2.1.4": "2013-12-21T09:16:48.129Z",
+		"2.1.2": "2013-12-14T15:15:17.769Z",
+		"2.1.1": "2013-12-10T09:52:57.871Z",
+		"2.1.0": "2013-12-10T05:30:09.046Z",
+		"2.0.0": "2013-12-08T19:39:29.830Z",
+		"1.1.0": "2013-11-27T00:39:37.355Z",
+		"1.0.0": "2013-09-26T21:34:30.981Z",
+		"0.0.1": "2013-07-06T06:38:04.861Z"
+	},
+	"_distfiles": {
+		"gulp-concat-2.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.6.1.tgz",
+			"sha": "633d16c95d88504628ad02665663cee5a4793353",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.6.0.tgz",
+			"sha": "585cfb115411f348773131140566b6a81c69cb91",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.5.2.tgz",
+			"sha": "d644372cdc2b3cdb421a8a941c8d74e21d815f14",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.5.1.tgz",
+			"sha": "62c915c806286deffee99b117f35765d17ee499f",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.5.0.tgz",
+			"sha": "406ba9f75b11031b32160045e931fc874248a292",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.4.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.4.3.tgz",
+			"sha": "dd913c3773b02f9dfb3f70e30215dc07a5cf32f7",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.4.2.tgz",
+			"sha": "1b3ed877763674e8d3de5eca8ed382f0261ec2ea",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.4.1.tgz",
+			"sha": "3097eb348a306708f400cf86cfb7d03ca5a55c94",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.4.0.tgz",
+			"sha": "bd20abfd853a7f530155d60478aab9fd04882a8f",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.3.5.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.3.5.tgz",
+			"sha": "2fe98cb3d78199744dfc0ecb295fb92bf8ad8eb4",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.3.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.3.4.tgz",
+			"sha": "7ab0245c350c4a634c565c730e34d9c543738c8e",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.3.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.3.3.tgz",
+			"sha": "4f223c8c2b4a6b0a50ab5bb0342bbea4d698eaf2",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.3.0.tgz",
+			"sha": "0049119e4b7c7b709f53d6c6467e0ccf73395303",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.3.tgz",
+			"sha": "79deddd5d6f765e0c974c199f0c9dd11079f5728",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.2.0.tgz",
+			"sha": "eefc3e1580c4ccac643806d2067c322b441a6346",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.1.7.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.7.tgz",
+			"sha": "6e227d7417835d88b083bc44b8b4d41bb7e41255",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.1.6.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.6.tgz",
+			"sha": "e4783bae34a117766fd9b1e1a59e32198a90149e",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.1.5.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.5.tgz",
+			"sha": "c780a99a08ae848cab47c45f3240b294c1659e35",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.4.tgz",
+			"sha": "1f76b9186acb3fafe61924fef4d0589f631ebcab",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.2.tgz",
+			"sha": "7b4f87fd5153b96cba4e361904c465df2c080736",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.1.tgz",
+			"sha": "6f87997539f8a877777662b3ef69d9ff05a88f3b",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.1.0.tgz",
+			"sha": "91912e4d60980333a859b533beeb0163ba950c05",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-2.0.0.tgz",
+			"sha": "93117ee428ac87bb21aa210bb82481d52f05daed",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-1.1.0.tgz",
+			"sha": "b08a3ec9ee3f256eb4f68c7bb090779f37a070f5",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-1.0.0.tgz",
+			"sha": "2aa41996755b3d7a24f8caaa3d08fd2761c86515",
+			"registry": "cnpmjs"
+		},
+		"gulp-concat-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-concat/download/gulp-concat-0.0.1.tgz",
+			"sha": "548ee2e054ae0504795b129c4499ded0d23a94e3",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"bbb6-Wy5uDc/Ahc70Avf4TCeO37Cy3U0\"",
+			"fetched": 1527747698208
+		}
+	},
+	"_rev": "13-263e15bd8f9645c0",
+	"readme": "![status](https://secure.travis-ci.org/contra/gulp-concat.svg?branch=master)\n\n## Installation\n\nInstall package with NPM and add it to your development dependencies:\n\n`npm install --save-dev gulp-concat`\n\n## Information\n\n<table>\n<tr>\n<td>Package</td><td>gulp-concat</td>\n</tr>\n<tr>\n<td>Description</td>\n<td>Concatenates files</td>\n</tr>\n<tr>\n<td>Node Version</td>\n<td>>= 0.10</td>\n</tr>\n</table>\n\n## Usage\n\n```js\nvar concat = require('gulp-concat');\n\ngulp.task('scripts', function() {\n  return gulp.src('./lib/*.js')\n    .pipe(concat('all.js'))\n    .pipe(gulp.dest('./dist/'));\n});\n```\n\nThis will concat files by your operating systems newLine. It will take the base directory from the first file that passes through it.\n\nFiles will be concatenated in the order that they are specified in the `gulp.src` function. For example, to concat `./lib/file3.js`, `./lib/file1.js` and `./lib/file2.js` in that order, the following code will create a task to do that:\n\n```js\nvar concat = require('gulp-concat');\n\ngulp.task('scripts', function() {\n  return gulp.src(['./lib/file3.js', './lib/file1.js', './lib/file2.js'])\n    .pipe(concat('all.js'))\n    .pipe(gulp.dest('./dist/'));\n});\n```\n\nTo change the newLine simply pass an object as the second argument to concat with newLine being whatever (\\r\\n if you want to support any OS to look at it)\n\nFor instance:\n\n```js\n.pipe(concat('main.js', {newLine: ';'}))\n```\n\nTo specify `cwd`, `path` and other [vinyl](https://github.com/wearefractal/vinyl) properties, gulp-concat accepts `Object` as first argument:\n\n```js\nvar concat = require('gulp-concat');\n\ngulp.task('scripts', function() {\n  return gulp.src(['./lib/file3.js', './lib/file1.js', './lib/file2.js'])\n    .pipe(concat({ path: 'new.js', stat: { mode: 0666 }}))\n    .pipe(gulp.dest('./dist'));\n});\n```\n\nThis will concat files into `./dist/new.js`.\n\n### Source maps\n\nSource maps can be generated by using [gulp-sourcemaps](https://www.npmjs.org/package/gulp-sourcemaps):\n\n```js\nvar gulp = require('gulp');\nvar concat = require('gulp-concat');\nvar sourcemaps = require('gulp-sourcemaps');\n\ngulp.task('javascript', function() {\n  return gulp.src('src/**/*.js')\n    .pipe(sourcemaps.init())\n      .pipe(concat('all.js'))\n    .pipe(sourcemaps.write())\n    .pipe(gulp.dest('dist'));\n});\n```"
+}

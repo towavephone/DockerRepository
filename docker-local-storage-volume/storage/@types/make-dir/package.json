@@ -1,0 +1,267 @@
+{
+	"name": "@types/make-dir",
+	"versions": {
+		"1.0.3": {
+			"name": "@types/make-dir",
+			"version": "1.0.3",
+			"description": "TypeScript definitions for make-dir",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "f9fc7d2c3d71ee31c932f514e057b4b95fc86ee214f19a1a5fd5b4cb3f135069",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/make-dir@1.0.3",
+			"dist": {
+				"shasum": "91fb52cefd07b0755d2373bcd46229765197ca3e",
+				"size": 1903,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/make-dir/download/@types/make-dir-1.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/make-dir-1.0.3.tgz_1510220377703_0.7529681620653719"
+			},
+			"directories": {},
+			"publish_time": 1510220377777,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510220377777
+		},
+		"1.0.2": {
+			"name": "@types/make-dir",
+			"version": "1.0.2",
+			"description": "TypeScript definitions for make-dir",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang",
+					"githubUsername": "ikatyang"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "2af64af9cc44d0af813ba50ede38d6417e501dc798ca39d3b5679dcc687735ad",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/make-dir@1.0.2",
+			"dist": {
+				"shasum": "546c3512c95e225ed3f30dc8263b40ce717e827a",
+				"size": 1889,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/make-dir/download/@types/make-dir-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/make-dir-1.0.2.tgz_1508893961578_0.2741986280307174"
+			},
+			"directories": {},
+			"publish_time": 1508893961644,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508893961644
+		},
+		"1.0.1": {
+			"name": "@types/make-dir",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for make-dir",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "228dfbbf78bc2f2ad3ad8bcf0c28d463ccc476fdcb81092e5ce4a90eb610e439",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/make-dir@1.0.1",
+			"dist": {
+				"shasum": "b2f80c8cb3b0977e112014b1b0381333a7188715",
+				"size": 1886,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/make-dir/download/@types/make-dir-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/make-dir-1.0.1.tgz_1500750287298_0.012446233769878745"
+			},
+			"directories": {},
+			"publish_time": 1500750287382,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500750287382
+		},
+		"1.0.0": {
+			"name": "@types/make-dir",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for make-dir",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ika",
+					"url": "https://github.com/ikatyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "34d52c29c76467f089415f8359f665ce128a1c3b7ee3386d2c25389bdeaf4f59",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/make-dir@1.0.0",
+			"dist": {
+				"shasum": "d5552a4e4a3ac02470649e3d211b76f86ad029e0",
+				"size": 1798,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/make-dir/download/@types/make-dir-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/make-dir-1.0.0.tgz_1500041690783_0.8855207453016192"
+			},
+			"directories": {},
+			"publish_time": 1500041690867,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500041690867
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.3",
+		"ts2.0": "1.0.2",
+		"ts2.1": "1.0.2",
+		"ts2.2": "1.0.3",
+		"ts2.3": "1.0.3",
+		"ts2.4": "1.0.3",
+		"ts2.5": "1.0.3",
+		"ts2.6": "1.0.3",
+		"ts2.7": "1.0.3",
+		"ts2.8": "1.0.3",
+		"ts2.9": "1.0.3",
+		"ts3.0": "1.0.3",
+		"ts3.1": "1.0.3",
+		"ts3.2": "1.0.3"
+	},
+	"time": {
+		"modified": "2018-10-10T20:17:56.000Z",
+		"created": "2017-07-14T14:14:50.867Z",
+		"1.0.3": "2017-11-09T09:39:37.777Z",
+		"1.0.2": "2017-10-25T01:12:41.644Z",
+		"1.0.1": "2017-07-22T19:04:47.382Z",
+		"1.0.0": "2017-07-14T14:14:50.867Z"
+	},
+	"_distfiles": {
+		"make-dir-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/make-dir/download/@types/make-dir-1.0.3.tgz",
+			"sha": "91fb52cefd07b0755d2373bcd46229765197ca3e",
+			"registry": "cnpmjs"
+		},
+		"make-dir-1.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/make-dir/download/@types/make-dir-1.0.2.tgz",
+			"sha": "546c3512c95e225ed3f30dc8263b40ce717e827a",
+			"registry": "cnpmjs"
+		},
+		"make-dir-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/make-dir/download/@types/make-dir-1.0.1.tgz",
+			"sha": "b2f80c8cb3b0977e112014b1b0381333a7188715",
+			"registry": "cnpmjs"
+		},
+		"make-dir-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/make-dir/download/@types/make-dir-1.0.0.tgz",
+			"sha": "d5552a4e4a3ac02470649e3d211b76f86ad029e0",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833485146
+		}
+	},
+	"_rev": "2-99872d9572f01d08",
+	"readme": "# Installation\r\n> `npm install --save @types/make-dir`\r\n\r\n# Summary\r\nThis package contains type definitions for make-dir (https://github.com/sindresorhus/make-dir).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/make-dir\r\n\r\nAdditional Details\r\n * Last updated: Thu, 09 Nov 2017 09:38:00 GMT\r\n * Dependencies: fs, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Ika <https://github.com/ikatyang>, BendingBender <https://github.com/BendingBender>."
+}

@@ -1,0 +1,89 @@
+{
+	"name": "@types/string-width",
+	"versions": {
+		"2.0.0": {
+			"name": "@types/string-width",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for string-width",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Rong Shen",
+					"url": "https://github.com/jacobbubu",
+					"githubUsername": "jacobbubu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "108cc402c994fb09beb460d6b64cae837425078c66f5eca93741446622f372f3",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/string-width@2.0.0",
+			"dist": {
+				"shasum": "89fa716e150360b071b4edb497f01a0a9a4be6ca",
+				"size": 1505,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/string-width/download/@types/string-width-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/string-width_2.0.0_1527804413736_0.9596398679097946"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527804413809,
+			"_cnpm_publish_time": 1527804413809
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.0",
+		"ts2.0": "2.0.0",
+		"ts2.1": "2.0.0",
+		"ts2.2": "2.0.0",
+		"ts2.3": "2.0.0",
+		"ts2.4": "2.0.0",
+		"ts2.5": "2.0.0",
+		"ts2.6": "2.0.0",
+		"ts2.7": "2.0.0",
+		"ts2.8": "2.0.0",
+		"ts2.9": "2.0.0",
+		"ts3.0": "2.0.0",
+		"ts3.1": "2.0.0",
+		"ts3.2": "2.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:28:57.000Z",
+		"created": "2018-05-31T22:06:53.809Z",
+		"2.0.0": "2018-05-31T22:06:53.809Z"
+	},
+	"_distfiles": {
+		"string-width-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/string-width/download/@types/string-width-2.0.0.tgz",
+			"sha": "89fa716e150360b071b4edb497f01a0a9a4be6ca",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"926-310S382nets9U14pdSF4DcV1e2k\"",
+			"fetched": 1541833488727
+		}
+	},
+	"_rev": "2-d56449f59f333629",
+	"readme": "# Installation\r\n> `npm install --save @types/string-width`\r\n\r\n# Summary\r\nThis package contains type definitions for string-width (https://github.com/sindresorhus/string-width).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/string-width\r\n\r\nAdditional Details\r\n * Last updated: Thu, 31 May 2018 22:06:37 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Rong Shen <https://github.com/jacobbubu>."
+}

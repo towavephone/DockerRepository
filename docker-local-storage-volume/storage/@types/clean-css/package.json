@@ -1,0 +1,607 @@
+{
+	"name": "@types/clean-css",
+	"versions": {
+		"3.4.30": {
+			"name": "@types/clean-css",
+			"version": "3.4.30",
+			"description": "TypeScript definitions for clean-css v3.4.9",
+			"license": "MIT",
+			"author": "Tanguy Krotoff <https://github.com/tkrotoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "d5b966ed504f5575bc4b178b90f400165e14acbb51ea39ed3c469bca6123288b",
+			"_id": "@types/clean-css@3.4.30",
+			"dist": {
+				"shasum": "0052c136f5248002428e3638b37de4a39818641d",
+				"size": 2349,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.30.tgz_1474302816048_0.05368268094025552"
+			},
+			"directories": {},
+			"publish_time": 1474302818075,
+			"_cnpm_publish_time": 1474302818075,
+			"_hasShrinkwrap": false
+		},
+		"3.4.29": {
+			"name": "@types/clean-css",
+			"version": "3.4.29",
+			"description": "TypeScript definitions for clean-css v3.4.9",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clean-css@3.4.29",
+			"_shasum": "4a31e7d4fec0d3a29990ab0441d19b2340ea054c",
+			"_from": "output\\clean-css",
+			"_resolved": "file:output\\clean-css",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4a31e7d4fec0d3a29990ab0441d19b2340ea054c",
+				"size": 2323,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.29.tgz_1468505806971_0.9109834881965071"
+			},
+			"directories": {},
+			"publish_time": 1468505808917,
+			"_cnpm_publish_time": 1468505808917,
+			"_hasShrinkwrap": false
+		},
+		"3.4.28-alpha": {
+			"name": "@types/clean-css",
+			"version": "3.4.28-alpha",
+			"description": "TypeScript definitions for clean-css v3.4.9",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clean-css@3.4.28-alpha",
+			"_shasum": "147958ff5cae65668f373d33c87fc970824564f0",
+			"_from": "output\\clean-css",
+			"_resolved": "file:output\\clean-css",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "147958ff5cae65668f373d33c87fc970824564f0",
+				"size": 2330,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.28-alpha.tgz_1468007392200_0.5274834744632244"
+			},
+			"directories": {},
+			"publish_time": 1468007394798,
+			"_cnpm_publish_time": 1468007394798,
+			"_hasShrinkwrap": false
+		},
+		"3.4.27-alpha": {
+			"name": "@types/clean-css",
+			"version": "3.4.27-alpha",
+			"description": "TypeScript definitions for clean-css v3.4.9",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clean-css@3.4.27-alpha",
+			"_shasum": "92458608f74dffe3a30f01cd58a98f04e81b15cf",
+			"_from": "output\\clean-css",
+			"_resolved": "file:output\\clean-css",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "92458608f74dffe3a30f01cd58a98f04e81b15cf",
+				"size": 2330,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.27-alpha.tgz_1467590101860_0.4069299802649766"
+			},
+			"directories": {},
+			"publish_time": 1467590102383,
+			"_cnpm_publish_time": 1467590102383,
+			"_hasShrinkwrap": false
+		},
+		"3.4.26-alpha": {
+			"name": "@types/clean-css",
+			"version": "3.4.26-alpha",
+			"description": "TypeScript definitions for clean-css v3.4.9",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clean-css@3.4.26-alpha",
+			"_shasum": "1231df8ceeeb5be440caa892c1db6b9f61bda457",
+			"_from": "output\\clean-css",
+			"_resolved": "file:output\\clean-css",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1231df8ceeeb5be440caa892c1db6b9f61bda457",
+				"size": 2334,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.26-alpha.tgz_1467425416376_0.18137481668964028"
+			},
+			"directories": {},
+			"publish_time": 1467425419951,
+			"_cnpm_publish_time": 1467425419951,
+			"_hasShrinkwrap": false
+		},
+		"3.4.25-alpha": {
+			"name": "@types/clean-css",
+			"version": "3.4.25-alpha",
+			"description": "TypeScript definitions for clean-css v3.4.9",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clean-css@3.4.25-alpha",
+			"_shasum": "e001cef8c20bc67fd8bd7d9096774095b9022255",
+			"_from": "output\\clean-css",
+			"_resolved": "file:output\\clean-css",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e001cef8c20bc67fd8bd7d9096774095b9022255",
+				"size": 2329,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.25-alpha.tgz_1467412119885_0.9898416218347847"
+			},
+			"directories": {},
+			"publish_time": 1467412123395,
+			"_cnpm_publish_time": 1467412123395,
+			"_hasShrinkwrap": false
+		},
+		"3.4.24-alpha": {
+			"name": "@types/clean-css",
+			"version": "3.4.24-alpha",
+			"description": "TypeScript definitions for clean-css v3.4.9",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clean-css@3.4.24-alpha",
+			"_shasum": "698bfa8ff65417ce21763e17a36486b62d000193",
+			"_from": "output\\clean-css",
+			"_resolved": "file:output\\clean-css",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "698bfa8ff65417ce21763e17a36486b62d000193",
+				"size": 2316,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.24-alpha.tgz_1467399819995_0.17409819504246116"
+			},
+			"directories": {},
+			"publish_time": 1467399822177,
+			"_cnpm_publish_time": 1467399822177,
+			"_hasShrinkwrap": false
+		},
+		"3.4.23-alpha": {
+			"name": "@types/clean-css",
+			"version": "3.4.23-alpha",
+			"description": "TypeScript definitions for clean-css v3.4.9",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clean-css@3.4.23-alpha",
+			"_shasum": "e9bfbff45bdc84a7c1a8a16b400017f174df33ee",
+			"_from": "output\\clean-css",
+			"_resolved": "file:output\\clean-css",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e9bfbff45bdc84a7c1a8a16b400017f174df33ee",
+				"size": 2302,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.23-alpha.tgz_1464151087714_0.6100137587636709"
+			},
+			"directories": {},
+			"publish_time": 1464151090135,
+			"_cnpm_publish_time": 1464151090135,
+			"_hasShrinkwrap": false
+		},
+		"3.4.22-alpha": {
+			"name": "@types/clean-css",
+			"version": "3.4.22-alpha",
+			"description": "TypeScript definitions for clean-css v3.4.9",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clean-css@3.4.22-alpha",
+			"_shasum": "7b6af7c85729f0c55e637212e6ddbc83b68f44ee",
+			"_from": "output\\clean-css",
+			"_resolved": "file:output\\clean-css",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7b6af7c85729f0c55e637212e6ddbc83b68f44ee",
+				"size": 2301,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.22-alpha.tgz_1463771993256_0.7519701912533492"
+			},
+			"directories": {},
+			"publish_time": 1463771995098,
+			"_cnpm_publish_time": 1463771995098,
+			"_hasShrinkwrap": false
+		},
+		"3.4.17-alpha": {
+			"name": "@types/clean-css",
+			"version": "3.4.17-alpha",
+			"description": "Type definitions for clean-css v3.4.9 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clean-css@3.4.17-alpha",
+			"_shasum": "27b84f9d960cf5ba54a54dc24e61ad015da29f6e",
+			"_from": "output\\clean-css",
+			"_resolved": "file:output\\clean-css",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "27b84f9d960cf5ba54a54dc24e61ad015da29f6e",
+				"size": 2308,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.17-alpha.tgz_1463689790363_0.0034248081501573324"
+			},
+			"directories": {},
+			"publish_time": 1463689795206,
+			"_cnpm_publish_time": 1463689795206,
+			"_hasShrinkwrap": false
+		},
+		"3.4.16-alpha": {
+			"name": "@types/clean-css",
+			"version": "3.4.16-alpha",
+			"description": "Type definitions for clean-css v3.4.9 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clean-css@3.4.16-alpha",
+			"_shasum": "a2957a4d8f79d1bcb8bdb09156c706a9cb7e1363",
+			"_from": "output\\clean-css",
+			"_resolved": "file:output\\clean-css",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a2957a4d8f79d1bcb8bdb09156c706a9cb7e1363",
+				"size": 2303,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/clean-css-3.4.16-alpha.tgz_1463459897410_0.7032333055976778"
+			},
+			"directories": {},
+			"publish_time": 1463459898034,
+			"_cnpm_publish_time": 1463459898034,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "3.4.30",
+		"ts2.0": "3.4.30",
+		"ts2.1": "3.4.30",
+		"ts2.2": "3.4.30",
+		"ts2.3": "3.4.30",
+		"ts2.4": "3.4.30",
+		"ts2.5": "3.4.30",
+		"ts2.6": "3.4.30",
+		"ts2.7": "3.4.30",
+		"ts2.8": "3.4.30",
+		"ts2.9": "3.4.30",
+		"ts3.0": "3.4.30",
+		"ts3.1": "3.4.30",
+		"ts3.2": "3.4.30"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:38.000Z",
+		"created": "2016-05-17T04:38:18.034Z",
+		"3.4.30": "2016-09-19T16:33:38.075Z",
+		"3.4.29": "2016-07-14T14:16:48.917Z",
+		"3.4.28-alpha": "2016-07-08T19:49:54.798Z",
+		"3.4.27-alpha": "2016-07-03T23:55:02.383Z",
+		"3.4.26-alpha": "2016-07-02T02:10:19.951Z",
+		"3.4.25-alpha": "2016-07-01T22:28:43.395Z",
+		"3.4.24-alpha": "2016-07-01T19:03:42.177Z",
+		"3.4.23-alpha": "2016-05-25T04:38:10.135Z",
+		"3.4.22-alpha": "2016-05-20T19:19:55.098Z",
+		"3.4.17-alpha": "2016-05-19T20:29:55.206Z",
+		"3.4.16-alpha": "2016-05-17T04:38:18.034Z"
+	},
+	"_distfiles": {
+		"clean-css-3.4.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.30.tgz",
+			"sha": "0052c136f5248002428e3638b37de4a39818641d",
+			"registry": "cnpmjs"
+		},
+		"clean-css-3.4.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.29.tgz",
+			"sha": "4a31e7d4fec0d3a29990ab0441d19b2340ea054c",
+			"registry": "cnpmjs"
+		},
+		"clean-css-3.4.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.28-alpha.tgz",
+			"sha": "147958ff5cae65668f373d33c87fc970824564f0",
+			"registry": "cnpmjs"
+		},
+		"clean-css-3.4.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.27-alpha.tgz",
+			"sha": "92458608f74dffe3a30f01cd58a98f04e81b15cf",
+			"registry": "cnpmjs"
+		},
+		"clean-css-3.4.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.26-alpha.tgz",
+			"sha": "1231df8ceeeb5be440caa892c1db6b9f61bda457",
+			"registry": "cnpmjs"
+		},
+		"clean-css-3.4.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.25-alpha.tgz",
+			"sha": "e001cef8c20bc67fd8bd7d9096774095b9022255",
+			"registry": "cnpmjs"
+		},
+		"clean-css-3.4.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.24-alpha.tgz",
+			"sha": "698bfa8ff65417ce21763e17a36486b62d000193",
+			"registry": "cnpmjs"
+		},
+		"clean-css-3.4.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.23-alpha.tgz",
+			"sha": "e9bfbff45bdc84a7c1a8a16b400017f174df33ee",
+			"registry": "cnpmjs"
+		},
+		"clean-css-3.4.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.22-alpha.tgz",
+			"sha": "7b6af7c85729f0c55e637212e6ddbc83b68f44ee",
+			"registry": "cnpmjs"
+		},
+		"clean-css-3.4.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.17-alpha.tgz",
+			"sha": "27b84f9d960cf5ba54a54dc24e61ad015da29f6e",
+			"registry": "cnpmjs"
+		},
+		"clean-css-3.4.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clean-css/download/@types/clean-css-3.4.16-alpha.tgz",
+			"sha": "a2957a4d8f79d1bcb8bdb09156c706a9cb7e1363",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"375d-ydGUBA4Ji3YdCgrDWfS0frUzWGc\"",
+			"fetched": 1541833453168
+		}
+	},
+	"_rev": "3-9d52231667156ce0",
+	"readme": "# Installation\r\n> `npm install --save @types/clean-css`\r\n\r\n# Summary\r\nThis package contains type definitions for clean-css v3.4.9 (https://github.com/jakubpawlowicz/clean-css).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/clean-css\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 16:15:24 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: CleanCSS\r\n\r\n# Credits\r\nThese definitions were written by Tanguy Krotoff <https://github.com/tkrotoff>."
+}

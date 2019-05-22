@@ -1,0 +1,777 @@
+{
+	"name": "composition",
+	"versions": {
+		"2.3.0": {
+			"name": "composition",
+			"description": "Compose generator and async/await middleware",
+			"version": "2.3.0",
+			"author": {
+				"name": "Jonathan Ong",
+				"email": "me@jongleberry.com",
+				"url": "http://jongleberry.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thenables/composition.git"
+			},
+			"dependencies": {
+				"any-promise": "^1.1.0",
+				"co": "^4.0.2"
+			},
+			"devDependencies": {
+				"bluebird": "^3.1.1",
+				"istanbul": "^0.4.2",
+				"koa-compose": "^2.3.0",
+				"matcha": "^0.6.0",
+				"mocha": "^2.0.0",
+				"timeout-then": "^1.0.0"
+			},
+			"scripts": {
+				"bench": "matcha bench/run.js",
+				"test": "mocha --bail",
+				"test-cov": "istanbul cover ./node_modules/.bin/_mocha -- --reporter dot",
+				"test-travis": "istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --reporter dot"
+			},
+			"keywords": [
+				"co",
+				"compose",
+				"composition",
+				"middleware",
+				"decorator",
+				"decorators",
+				"async",
+				"await",
+				"yield"
+			],
+			"files": [
+				"index.js"
+			],
+			"gitHead": "d3cd279c4ed45ceef59cdfb03e41190efbb92b23",
+			"bugs": {
+				"url": "https://github.com/thenables/composition/issues"
+			},
+			"homepage": "https://github.com/thenables/composition#readme",
+			"_id": "composition@2.3.0",
+			"_shasum": "742805374cab550c520a33662f5a732e0208d6f2",
+			"_from": ".",
+			"_npmVersion": "3.6.0",
+			"_nodeVersion": "5.7.0",
+			"_npmUser": {
+				"name": "jongleberry",
+				"email": "jonathanrichardong@gmail.com"
+			},
+			"dist": {
+				"shasum": "742805374cab550c520a33662f5a732e0208d6f2",
+				"size": 2868,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/composition/download/composition-2.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "coderhaoxin",
+					"email": "coderhaoxin@outlook.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-5-east.internal.npmjs.com",
+				"tmp": "tmp/composition-2.3.0.tgz_1456695738463_0.3269298863597214"
+			},
+			"directories": {},
+			"publish_time": 1456695741083,
+			"_cnpm_publish_time": 1456695741083,
+			"_hasShrinkwrap": false
+		},
+		"2.2.1": {
+			"name": "composition",
+			"description": "Compose generator and async/await middleware",
+			"version": "2.2.1",
+			"author": {
+				"name": "Jonathan Ong",
+				"email": "me@jongleberry.com",
+				"url": "http://jongleberry.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thenables/composition.git"
+			},
+			"dependencies": {
+				"co": "^4.0.2",
+				"native-or-bluebird": "^1.1.2"
+			},
+			"devDependencies": {
+				"bluebird": "^2.3.11",
+				"istanbul-harmony": "0",
+				"koa-compose": "^2.3.0",
+				"matcha": "^0.6.0",
+				"mocha": "2",
+				"timeout-then": "^1.0.0"
+			},
+			"scripts": {
+				"bench": "matcha bench/run.js",
+				"test": "mocha --bail",
+				"test-cov": "istanbul cover ./node_modules/.bin/_mocha -- --reporter dot",
+				"test-travis": "istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --reporter dot"
+			},
+			"keywords": [
+				"co",
+				"compose",
+				"composition",
+				"middleware",
+				"decorator",
+				"decorators",
+				"async",
+				"await",
+				"yield"
+			],
+			"files": [
+				"index.js"
+			],
+			"gitHead": "08181c41cb5712ca0ef90042c0dab9f7f13b68ad",
+			"bugs": {
+				"url": "https://github.com/thenables/composition/issues"
+			},
+			"homepage": "https://github.com/thenables/composition#readme",
+			"_id": "composition@2.2.1",
+			"_shasum": "cfad962b01b22b905efecbb2e4bbb6ab5f213724",
+			"_from": ".",
+			"_npmVersion": "2.13.2",
+			"_nodeVersion": "2.5.0",
+			"_npmUser": {
+				"name": "jongleberry",
+				"email": "jonathanrichardong@gmail.com"
+			},
+			"dist": {
+				"shasum": "cfad962b01b22b905efecbb2e4bbb6ab5f213724",
+				"size": 2871,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/composition/download/composition-2.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "coderhaoxin",
+					"email": "coderhaoxin@outlook.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1440907059729,
+			"_cnpm_publish_time": 1440907059729,
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "composition",
+			"description": "Compose generator and async/await middleware",
+			"version": "2.2.0",
+			"author": {
+				"name": "Jonathan Ong",
+				"email": "me@jongleberry.com",
+				"url": "http://jongleberry.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thenables/composition.git"
+			},
+			"dependencies": {
+				"co": "^4.0.2",
+				"native-or-bluebird": "^1.1.2"
+			},
+			"devDependencies": {
+				"bluebird": "^2.3.11",
+				"istanbul-harmony": "0",
+				"koa-compose": "^2.3.0",
+				"matcha": "^0.6.0",
+				"mocha": "2",
+				"timeout-then": "^1.0.0"
+			},
+			"scripts": {
+				"bench": "matcha bench/run.js",
+				"test": "mocha --bail",
+				"test-cov": "istanbul cover ./node_modules/.bin/_mocha -- --reporter dot",
+				"test-travis": "istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --reporter dot"
+			},
+			"keywords": [
+				"co",
+				"compose",
+				"composition",
+				"middleware",
+				"decorator",
+				"decorators",
+				"async",
+				"await",
+				"yield"
+			],
+			"files": [
+				"index.js"
+			],
+			"gitHead": "d76a7cd53ceaad7cd700fc1cb6d94a0ae943e0bf",
+			"bugs": {
+				"url": "https://github.com/thenables/composition/issues"
+			},
+			"homepage": "https://github.com/thenables/composition#readme",
+			"_id": "composition@2.2.0",
+			"_shasum": "4ecb091ef9b8222808acf21bea36e95e89d4c525",
+			"_from": ".",
+			"_npmVersion": "2.13.2",
+			"_nodeVersion": "2.5.0",
+			"_npmUser": {
+				"name": "jongleberry",
+				"email": "jonathanrichardong@gmail.com"
+			},
+			"dist": {
+				"shasum": "4ecb091ef9b8222808acf21bea36e95e89d4c525",
+				"size": 2797,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/composition/download/composition-2.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "coderhaoxin",
+					"email": "coderhaoxin@outlook.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1440657907473,
+			"_cnpm_publish_time": 1440657907473,
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "composition",
+			"description": "Compose generator and async/await middleware",
+			"version": "2.1.2",
+			"author": {
+				"name": "Jonathan Ong",
+				"email": "me@jongleberry.com",
+				"url": "http://jongleberry.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/thenables/composition.git"
+			},
+			"dependencies": {
+				"co": "^4.0.2",
+				"memorizer": "^1.0.0",
+				"native-or-bluebird": "^1.1.2"
+			},
+			"devDependencies": {
+				"bluebird": "^2.3.11",
+				"istanbul-harmony": "0",
+				"koa-compose": "^2.3.0",
+				"matcha": "^0.6.0",
+				"mocha": "2",
+				"timeout-then": "^1.0.0"
+			},
+			"scripts": {
+				"bench": "matcha bench/run.js",
+				"test": "mocha --bail",
+				"test-cov": "istanbul cover ./node_modules/.bin/_mocha -- --reporter dot",
+				"test-travis": "istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --reporter dot"
+			},
+			"keywords": [
+				"co",
+				"compose",
+				"composition",
+				"middleware",
+				"decorator",
+				"decorators",
+				"async",
+				"await",
+				"yield"
+			],
+			"files": [
+				"index.js"
+			],
+			"gitHead": "bde7f26d24f09c97dcaab77e313d5e2c832b5665",
+			"bugs": {
+				"url": "https://github.com/thenables/composition/issues"
+			},
+			"homepage": "https://github.com/thenables/composition#readme",
+			"_id": "composition@2.1.2",
+			"_shasum": "031c66919063c900b26a86aa6b6de3ce232bdb2f",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "2.3.3",
+			"_npmUser": {
+				"name": "jongleberry",
+				"email": "jonathanrichardong@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "coderhaoxin",
+					"email": "coderhaoxin@outlook.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "031c66919063c900b26a86aa6b6de3ce232bdb2f",
+				"size": 2811,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/composition/download/composition-2.1.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1436167563158,
+			"_cnpm_publish_time": 1436167563158,
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "composition",
+			"description": "Compose generator and async/await middleware",
+			"version": "2.1.1",
+			"author": {
+				"name": "Jonathan Ong",
+				"email": "me@jongleberry.com",
+				"url": "http://jongleberry.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thenables/composition"
+			},
+			"dependencies": {
+				"co": "^4.0.2",
+				"memorizer": "^1.0.0",
+				"native-or-bluebird": "^1.1.2"
+			},
+			"devDependencies": {
+				"bluebird": "^2.3.11",
+				"istanbul-harmony": "0",
+				"koa-compose": "^2.3.0",
+				"matcha": "^0.6.0",
+				"mocha": "2",
+				"timeout-then": "^1.0.0"
+			},
+			"scripts": {
+				"bench": "matcha bench/run.js",
+				"test": "mocha --bail",
+				"test-cov": "istanbul cover ./node_modules/.bin/_mocha -- --reporter dot",
+				"test-travis": "istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --reporter dot"
+			},
+			"keywords": [
+				"co",
+				"compose",
+				"composition",
+				"middleware",
+				"decorator",
+				"decorators",
+				"async",
+				"await",
+				"yield"
+			],
+			"files": [
+				"index.js"
+			],
+			"gitHead": "a32f30b11af8447bc92a6c4a816c1a105ac58c83",
+			"bugs": {
+				"url": "https://github.com/thenables/composition/issues"
+			},
+			"homepage": "https://github.com/thenables/composition",
+			"_id": "composition@2.1.1",
+			"_shasum": "c87e30b145e22c2c1603cbe600867b2d17efc17f",
+			"_from": ".",
+			"_npmVersion": "2.5.1",
+			"_nodeVersion": "1.2.0",
+			"_npmUser": {
+				"name": "jongleberry",
+				"email": "jonathanrichardong@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "coderhaoxin",
+					"email": "coderhaoxin@outlook.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c87e30b145e22c2c1603cbe600867b2d17efc17f",
+				"size": 2820,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/composition/download/composition-2.1.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1423962100639,
+			"_cnpm_publish_time": 1423962100639,
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "composition",
+			"description": "Compose generator and async/await middleware",
+			"version": "2.1.0",
+			"author": {
+				"name": "Jonathan Ong",
+				"email": "me@jongleberry.com",
+				"url": "http://jongleberry.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thenables/composition"
+			},
+			"dependencies": {
+				"co": "^4.0.2",
+				"memorizer": "^1.0.0",
+				"native-or-bluebird": "^1.1.2"
+			},
+			"devDependencies": {
+				"bluebird": "^2.3.11",
+				"istanbul-harmony": "0",
+				"mocha": "2",
+				"timeout-then": "^1.0.0"
+			},
+			"scripts": {
+				"test": "mocha --harmony-generators --reporter spec",
+				"test-cov": "node --harmony-generators node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --reporter dot",
+				"test-travis": "node --harmony-generators node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --reporter dot"
+			},
+			"keywords": [
+				"co",
+				"compose",
+				"composition",
+				"middleware",
+				"decorator",
+				"decorators",
+				"async",
+				"await",
+				"yield"
+			],
+			"files": [
+				"index.js"
+			],
+			"gitHead": "6d5306d706417fa47ff3550767b445e1fc34cac7",
+			"bugs": {
+				"url": "https://github.com/thenables/composition/issues"
+			},
+			"homepage": "https://github.com/thenables/composition",
+			"_id": "composition@2.1.0",
+			"_shasum": "a8e66441ee07f931d1b490ad63d6271740a22b00",
+			"_from": ".",
+			"_npmVersion": "2.1.12",
+			"_nodeVersion": "0.11.14",
+			"_npmUser": {
+				"name": "jongleberry",
+				"email": "jonathanrichardong@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "coderhaoxin",
+					"email": "coderhaoxin@outlook.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "a8e66441ee07f931d1b490ad63d6271740a22b00",
+				"size": 2679,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/composition/download/composition-2.1.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1419144579661,
+			"_cnpm_publish_time": 1419144579661,
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "composition",
+			"description": "Compose generator and async/await middleware",
+			"version": "2.0.1",
+			"author": {
+				"name": "Jonathan Ong",
+				"email": "me@jongleberry.com",
+				"url": "http://jongleberry.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thenables/composition"
+			},
+			"dependencies": {
+				"co": "^4.0.2",
+				"memorizer": "^1.0.0",
+				"native-or-bluebird": "^1.1.2"
+			},
+			"devDependencies": {
+				"bluebird": "^2.3.11",
+				"istanbul-harmony": "0",
+				"mocha": "2",
+				"timeout-then": "^1.0.0"
+			},
+			"scripts": {
+				"test": "mocha --harmony-generators --reporter spec",
+				"test-cov": "node --harmony-generators node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --reporter dot",
+				"test-travis": "node --harmony-generators node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --reporter dot"
+			},
+			"keywords": [
+				"co",
+				"compose",
+				"composition",
+				"middleware",
+				"decorator",
+				"decorators",
+				"async",
+				"await",
+				"yield"
+			],
+			"files": [
+				"index.js"
+			],
+			"gitHead": "dfa27c3f580f028f914f8f338db5b18d144b146f",
+			"bugs": {
+				"url": "https://github.com/thenables/composition/issues"
+			},
+			"homepage": "https://github.com/thenables/composition",
+			"_id": "composition@2.0.1",
+			"_shasum": "4b9c9e1779a77c85970fc19c4cd4b5649c0f856b",
+			"_from": ".",
+			"_npmVersion": "2.1.12",
+			"_nodeVersion": "0.11.14",
+			"_npmUser": {
+				"name": "jongleberry",
+				"email": "jonathanrichardong@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "coderhaoxin",
+					"email": "coderhaoxin@outlook.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "4b9c9e1779a77c85970fc19c4cd4b5649c0f856b",
+				"size": 2577,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/composition/download/composition-2.0.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1419123130179,
+			"_cnpm_publish_time": 1419123130179,
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "composition",
+			"description": "Compose generator and async/await middleware",
+			"version": "2.0.0",
+			"author": {
+				"name": "Jonathan Ong",
+				"email": "me@jongleberry.com",
+				"url": "http://jongleberry.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/thenables/composition"
+			},
+			"dependencies": {
+				"memorizer": "^1.0.0",
+				"native-or-bluebird": "^1.1.2"
+			},
+			"devDependencies": {
+				"bluebird": "^2.3.11",
+				"co": "^4.0.1",
+				"istanbul-harmony": "0",
+				"mocha": "2",
+				"timeout-then": "^1.0.0"
+			},
+			"scripts": {
+				"test": "mocha --harmony-generators --reporter spec",
+				"test-cov": "node --harmony-generators node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --reporter dot",
+				"test-travis": "node --harmony-generators node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --report lcovonly -- --reporter dot"
+			},
+			"keywords": [
+				"co",
+				"compose",
+				"composition",
+				"middleware",
+				"decorator",
+				"decorators",
+				"async",
+				"await",
+				"yield"
+			],
+			"files": [
+				"index.js"
+			],
+			"gitHead": "8faedc8d6ce16d0d7ced2eef8b12fccb769cb2d5",
+			"bugs": {
+				"url": "https://github.com/thenables/composition/issues"
+			},
+			"homepage": "https://github.com/thenables/composition",
+			"_id": "composition@2.0.0",
+			"_shasum": "ef5748b1fc3348947edea24ef4e9d1f5fa2869a3",
+			"_from": ".",
+			"_npmVersion": "2.1.12",
+			"_nodeVersion": "0.11.14",
+			"_npmUser": {
+				"name": "jongleberry",
+				"email": "jonathanrichardong@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "coderhaoxin",
+					"email": "coderhaoxin@outlook.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ef5748b1fc3348947edea24ef4e9d1f5fa2869a3",
+				"size": 2584,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/composition/download/composition-2.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1418868429713,
+			"_cnpm_publish_time": 1418868429713,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "composition",
+			"description": "create compositions of generator functions",
+			"version": "1.0.0",
+			"author": {
+				"name": "Jonathan Ong",
+				"email": "me@jongleberry.com",
+				"url": "http://jongleberry.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/cojs/composition"
+			},
+			"keywords": [
+				"co",
+				"compose",
+				"composition",
+				"middleware"
+			],
+			"bugs": {
+				"url": "https://github.com/cojs/composition/issues"
+			},
+			"homepage": "https://github.com/cojs/composition",
+			"_id": "composition@1.0.0",
+			"dist": {
+				"shasum": "9ee5cd9b08ad7ce82792cf5f9ad4713c8fe7a137",
+				"size": 1867,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/composition/download/composition-1.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.6",
+			"_npmUser": {
+				"name": "jongleberry",
+				"email": "jonathanrichardong@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "coderhaoxin",
+					"email": "coderhaoxin@outlook.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1398389700903,
+			"_cnpm_publish_time": 1398389700903,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.3.0"
+	},
+	"time": {
+		"modified": "2017-03-28T13:05:00.000Z",
+		"created": "2014-04-25T01:35:00.903Z",
+		"2.3.0": "2016-02-28T21:42:21.083Z",
+		"2.2.1": "2015-08-30T03:57:39.729Z",
+		"2.2.0": "2015-08-27T06:45:07.473Z",
+		"2.1.2": "2015-07-06T07:26:03.158Z",
+		"2.1.1": "2015-02-15T01:01:40.639Z",
+		"2.1.0": "2014-12-21T06:49:39.661Z",
+		"2.0.1": "2014-12-21T00:52:10.179Z",
+		"2.0.0": "2014-12-18T02:07:09.713Z",
+		"1.0.0": "2014-04-25T01:35:00.903Z"
+	},
+	"_distfiles": {
+		"composition-2.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/composition/download/composition-2.3.0.tgz",
+			"sha": "742805374cab550c520a33662f5a732e0208d6f2",
+			"registry": "cnpmjs"
+		},
+		"composition-2.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/composition/download/composition-2.2.1.tgz",
+			"sha": "cfad962b01b22b905efecbb2e4bbb6ab5f213724",
+			"registry": "cnpmjs"
+		},
+		"composition-2.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/composition/download/composition-2.2.0.tgz",
+			"sha": "4ecb091ef9b8222808acf21bea36e95e89d4c525",
+			"registry": "cnpmjs"
+		},
+		"composition-2.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/composition/download/composition-2.1.2.tgz",
+			"sha": "031c66919063c900b26a86aa6b6de3ce232bdb2f",
+			"registry": "cnpmjs"
+		},
+		"composition-2.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/composition/download/composition-2.1.1.tgz",
+			"sha": "c87e30b145e22c2c1603cbe600867b2d17efc17f",
+			"registry": "cnpmjs"
+		},
+		"composition-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/composition/download/composition-2.1.0.tgz",
+			"sha": "a8e66441ee07f931d1b490ad63d6271740a22b00",
+			"registry": "cnpmjs"
+		},
+		"composition-2.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/composition/download/composition-2.0.1.tgz",
+			"sha": "4b9c9e1779a77c85970fc19c4cd4b5649c0f856b",
+			"registry": "cnpmjs"
+		},
+		"composition-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/composition/download/composition-2.0.0.tgz",
+			"sha": "ef5748b1fc3348947edea24ef4e9d1f5fa2869a3",
+			"registry": "cnpmjs"
+		},
+		"composition-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/composition/download/composition-1.0.0.tgz",
+			"sha": "9ee5cd9b08ad7ce82792cf5f9ad4713c8fe7a137",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"469e-jRLjhyoVmMadhhMGmtXicdVdZ/8\"",
+			"fetched": 1527747716025
+		}
+	},
+	"_rev": "11-2c737095e4763230",
+	"readme": "# composition\n\n[![NPM version][npm-image]][npm-url]\n[![Build status][travis-image]][travis-url]\n[![Test coverage][coveralls-image]][coveralls-url]\n[![Dependency Status][david-image]][david-url]\n[![License][license-image]][license-url]\n[![Downloads][downloads-image]][downloads-url]\n\nCompose generator and async/await middleware like koa.\nAllows to use both generator functions and async/await functions.\n\n```js\nvar compose = require('composition');\n\nvar stack = [];\n\n// generator functions\nstack.push(function* (next) {\n  yield next;\n});\n\n// regular functions that return anything\n// but they should be promises!\nstack.push(function (next) {\n  return Promise.resolve(true);\n});\n\n// async/await functions\nstack.push(async function (next) {\n  return await Promise.resolve(true);\n});\n\n// compose it into a function\nvar fn = compose(stack);\n\n// this function returns a promise\nfn.call(this).then(function (val) {\n  console.log(val);\n}).catch(function (err) {\n  console.error(err.stack);\n  process.exit(1);\n})\n```\n\n[gitter-image]: https://badges.gitter.im/thenables/composition.png\n[gitter-url]: https://gitter.im/thenables/composition\n[npm-image]: https://img.shields.io/npm/v/composition.svg?style=flat-square\n[npm-url]: https://npmjs.org/package/composition\n[github-tag]: http://img.shields.io/github/tag/thenables/composition.svg?style=flat-square\n[github-url]: https://github.com/thenables/composition/tags\n[travis-image]: https://img.shields.io/travis/thenables/composition.svg?style=flat-square\n[travis-url]: https://travis-ci.org/thenables/composition\n[coveralls-image]: https://img.shields.io/coveralls/thenables/composition.svg?style=flat-square\n[coveralls-url]: https://coveralls.io/r/thenables/composition\n[david-image]: http://img.shields.io/david/thenables/composition.svg?style=flat-square\n[david-url]: https://david-dm.org/thenables/composition\n[license-image]: http://img.shields.io/npm/l/composition.svg?style=flat-square\n[license-url]: LICENSE\n[downloads-image]: http://img.shields.io/npm/dm/composition.svg?style=flat-square\n[downloads-url]: https://npmjs.org/package/composition"
+}

@@ -1,0 +1,141 @@
+{
+	"name": "@types/toposort",
+	"versions": {
+		"2.0.1": {
+			"name": "@types/toposort",
+			"version": "2.0.1",
+			"description": "TypeScript definitions for toposort",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Daniel Byrne",
+					"url": "https://github.com/danwbyrne",
+					"githubUsername": "danwbyrne"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "4af2a64f364925970ecab303296b0cef19aee470426169b67d0ec3d187a9fdca",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/toposort@2.0.1",
+			"dist": {
+				"shasum": "d950563ae45147fc28866fe66f3712e9b2a90f88",
+				"size": 1498,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/toposort/download/@types/toposort-2.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/toposort_2.0.1_1535505701992_0.8036096564544775"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535505702118,
+			"_cnpm_publish_time": 1535505702118
+		},
+		"2.0.0": {
+			"name": "@types/toposort",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for toposort",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Daniel Byrne",
+					"url": "https://github.com/danwbyrne",
+					"githubUsername": "danwbyrne"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "06f41047e92b3955c213e528891af3e2d935ee2ef96ea46930c8fce02ddfe266",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/toposort@2.0.0",
+			"dist": {
+				"shasum": "6068d67f68fac35d82a512491a159852799c6a9a",
+				"size": 1495,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/toposort/download/@types/toposort-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/toposort_2.0.0_1535410954382_0.2810788994872624"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535410954453,
+			"_cnpm_publish_time": 1535410954453
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.1",
+		"ts2.0": "2.0.1",
+		"ts2.1": "2.0.1",
+		"ts2.2": "2.0.1",
+		"ts2.3": "2.0.1",
+		"ts2.4": "2.0.1",
+		"ts2.5": "2.0.1",
+		"ts2.6": "2.0.1",
+		"ts2.7": "2.0.1",
+		"ts2.8": "2.0.1",
+		"ts2.9": "2.0.1",
+		"ts3.0": "2.0.1",
+		"ts3.1": "2.0.1",
+		"ts3.2": "2.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:29:31.000Z",
+		"created": "2018-08-27T23:02:34.453Z",
+		"2.0.1": "2018-08-29T01:21:42.118Z",
+		"2.0.0": "2018-08-27T23:02:34.453Z"
+	},
+	"_distfiles": {
+		"toposort-2.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/toposort/download/@types/toposort-2.0.1.tgz",
+			"sha": "d950563ae45147fc28866fe66f3712e9b2a90f88",
+			"registry": "cnpmjs"
+		},
+		"toposort-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/toposort/download/@types/toposort-2.0.0.tgz",
+			"sha": "6068d67f68fac35d82a512491a159852799c6a9a",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833489434
+		}
+	},
+	"_rev": "1-0e570b5f316929ac",
+	"readme": "# Installation\r\n> `npm install --save @types/toposort`\r\n\r\n# Summary\r\nThis package contains type definitions for toposort (https://github.com/marcelklehr/toposort).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/toposort\r\n\r\nAdditional Details\r\n * Last updated: Wed, 29 Aug 2018 01:19:57 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Daniel Byrne <https://github.com/danwbyrne>."
+}

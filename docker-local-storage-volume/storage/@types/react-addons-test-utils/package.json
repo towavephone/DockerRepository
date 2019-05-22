@@ -1,0 +1,1041 @@
+{
+	"name": "@types/react-addons-test-utils",
+	"versions": {
+		"0.14.21": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.21",
+			"description": "TypeScript definitions for React (react-addons-test-utils)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "39e4ec65e95650ee8d3e1a21f62eb3008752accebd6a8936c0821452f5eac631",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-addons-test-utils@0.14.21",
+			"dist": {
+				"shasum": "3e24f804160aa2312d9b5758746f05444193194c",
+				"size": 2816,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.21.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-addons-test-utils_0.14.21_1518468876703_0.561100610083527"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518468876839,
+			"_cnpm_publish_time": 1518468876839
+		},
+		"0.14.20": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.20",
+			"description": "TypeScript definitions for React (react-addons-test-utils)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "065018b62fb792759f9894fd91cff3188c1ab27ef0d99b15415a134016b51cd7",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-addons-test-utils@0.14.20",
+			"dist": {
+				"shasum": "66a5787b8f15cce01c195fe2b95b89046054810d",
+				"size": 2823,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.20.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-addons-test-utils-0.14.20.tgz_1506385468517_0.010770516935735941"
+			},
+			"directories": {},
+			"publish_time": 1506385468885,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506385468885
+		},
+		"0.14.19": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.19",
+			"description": "TypeScript definitions for React (react-addons-test-utils)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "839c07dfcaa4f4b1647b671c3b1e37a6261b6d7dcb3ffc004149a5304fe01903",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-addons-test-utils@0.14.19",
+			"dist": {
+				"shasum": "260f60adb2015cc11938c01a9c4015323a3610e2",
+				"size": 2825,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.19.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-addons-test-utils-0.14.19.tgz_1498226671751_0.10032674693502486"
+			},
+			"directories": {},
+			"publish_time": 1498226671831,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498226671831
+		},
+		"0.14.18": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.18",
+			"description": "TypeScript definitions for React (react-addons-test-utils)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "42ce93a3e78787b9b87fb9e2c1a79a3c0b450c875fb5f434241d82255897173a",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-addons-test-utils@0.14.18",
+			"dist": {
+				"shasum": "83e10af1dbe5ec2535bc2dc5373d7bc3b82fdee1",
+				"size": 2824,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.18.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.18.tgz_1492451836873_0.2702198603656143"
+			},
+			"directories": {},
+			"publish_time": 1492451838853,
+			"_cnpm_publish_time": 1492451838853,
+			"_hasShrinkwrap": false
+		},
+		"0.14.17": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.17",
+			"description": "TypeScript definitions for React (react-addons-test-utils)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a2e8affab3ac37957cbd675c8b8208b59ed40cc67db9dc5c9799ea3f6909d8ac",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-addons-test-utils@0.14.17",
+			"dist": {
+				"shasum": "79adf8a0246a7fe1bb9a6651e2545a7b43d7f0b8",
+				"size": 2311,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.17.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.17.tgz_1485207175330_0.6043321173638105"
+			},
+			"directories": {},
+			"publish_time": 1485207175564,
+			"_cnpm_publish_time": 1485207175564,
+			"_hasShrinkwrap": false
+		},
+		"0.14.16": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.16",
+			"description": "TypeScript definitions for React (react-addons-test-utils)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c4b72c27e4fa88586f81dd546ba4861161d1da8db4dd924eb8637040df715e2f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/react-addons-test-utils@0.14.16",
+			"dist": {
+				"shasum": "904247c8e25a64a7d81f5c826e46963e95090892",
+				"size": 2271,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.16.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.16.tgz_1483056114353_0.08707034192048013"
+			},
+			"directories": {},
+			"publish_time": 1483056116432,
+			"_cnpm_publish_time": 1483056116432,
+			"_hasShrinkwrap": false
+		},
+		"0.14.15": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.15",
+			"description": "TypeScript definitions for React v0.14 (react-addons-test-utils)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "420153be121bdb1f0b5c37a7dffa17928be2e49ce555402a5c533b9f7c723353",
+			"_id": "@types/react-addons-test-utils@0.14.15",
+			"dist": {
+				"shasum": "c786638e8ee197be0e7d4ac037d6146b39ef3e13",
+				"size": 2300,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.15.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.15.tgz_1474308358457_0.2841813077684492"
+			},
+			"directories": {},
+			"publish_time": 1474308358684,
+			"_cnpm_publish_time": 1474308358684,
+			"_hasShrinkwrap": false
+		},
+		"0.14.14": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.14",
+			"description": "TypeScript definitions for React v0.14 (react-addons-test-utils)",
+			"license": "MIT",
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-addons-test-utils@0.14.14",
+			"_shasum": "81d07c3479f3d8f150852eeb0305e85f7cc8d8b6",
+			"_from": "output\\react-addons-test-utils",
+			"_resolved": "file:output\\react-addons-test-utils",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "81d07c3479f3d8f150852eeb0305e85f7cc8d8b6",
+				"size": 2293,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.14.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.14.tgz_1468934036080_0.0555635888595134"
+			},
+			"directories": {},
+			"publish_time": 1468934037218,
+			"_cnpm_publish_time": 1468934037218,
+			"_hasShrinkwrap": false
+		},
+		"0.14.13": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.13",
+			"description": "TypeScript definitions for React v0.14 (react-addons-test-utils)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"_id": "@types/react-addons-test-utils@0.14.13",
+			"_shasum": "332a1ad8856a4d0180dc59f64a720eb48b1ef4bf",
+			"_from": "output\\react-addons-test-utils",
+			"_resolved": "file:output\\react-addons-test-utils",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "332a1ad8856a4d0180dc59f64a720eb48b1ef4bf",
+				"size": 2277,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.13.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.13.tgz_1468511426746_0.3255310170352459"
+			},
+			"directories": {},
+			"publish_time": 1468511427247,
+			"_cnpm_publish_time": 1468511427247,
+			"_hasShrinkwrap": false
+		},
+		"0.14.12-alpha": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.12-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-addons-test-utils)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.26-alpha"
+			},
+			"_id": "@types/react-addons-test-utils@0.14.12-alpha",
+			"_shasum": "02a36050163b0289b5259a7394ec0cadcb5dce91",
+			"_from": "output\\react-addons-test-utils",
+			"_resolved": "file:output\\react-addons-test-utils",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "02a36050163b0289b5259a7394ec0cadcb5dce91",
+				"size": 2284,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.12-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.12-alpha.tgz_1468012435624_0.3483129031956196"
+			},
+			"directories": {},
+			"publish_time": 1468012436091,
+			"_cnpm_publish_time": 1468012436091,
+			"_hasShrinkwrap": false
+		},
+		"0.14.11-alpha": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.11-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-addons-test-utils)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.25-alpha"
+			},
+			"_id": "@types/react-addons-test-utils@0.14.11-alpha",
+			"_shasum": "77e0f80c559d2b290283eb94be1e7c340a1e804e",
+			"_from": "output\\react-addons-test-utils",
+			"_resolved": "file:output\\react-addons-test-utils",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "77e0f80c559d2b290283eb94be1e7c340a1e804e",
+				"size": 2284,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.11-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.11-alpha.tgz_1467594644207_0.5846929193940014"
+			},
+			"directories": {},
+			"publish_time": 1467594644815,
+			"_cnpm_publish_time": 1467594644815,
+			"_hasShrinkwrap": false
+		},
+		"0.14.10-alpha": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.10-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-addons-test-utils)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.24-alpha"
+			},
+			"_id": "@types/react-addons-test-utils@0.14.10-alpha",
+			"_shasum": "3d98b4cfeab5c2be0c446146ed91207699d2af41",
+			"_from": "output\\react-addons-test-utils",
+			"_resolved": "file:output\\react-addons-test-utils",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3d98b4cfeab5c2be0c446146ed91207699d2af41",
+				"size": 2283,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.10-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.10-alpha.tgz_1467429365172_0.422835306962952"
+			},
+			"directories": {},
+			"publish_time": 1467429368691,
+			"_cnpm_publish_time": 1467429368691,
+			"_hasShrinkwrap": false
+		},
+		"0.14.9-alpha": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.9-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-addons-test-utils)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.23-alpha"
+			},
+			"_id": "@types/react-addons-test-utils@0.14.9-alpha",
+			"_shasum": "0082a80a472d5c19b2e60287375d89190ac421eb",
+			"_from": "output\\react-addons-test-utils",
+			"_resolved": "file:output\\react-addons-test-utils",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0082a80a472d5c19b2e60287375d89190ac421eb",
+				"size": 2287,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.9-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.9-alpha.tgz_1467416895054_0.19345058756880462"
+			},
+			"directories": {},
+			"publish_time": 1467416897383,
+			"_cnpm_publish_time": 1467416897383,
+			"_hasShrinkwrap": false
+		},
+		"0.14.8-alpha": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.8-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-addons-test-utils)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-addons-test-utils@0.14.8-alpha",
+			"_shasum": "99ed8939788922f05338d1ba0c32e24d12894888",
+			"_from": "output\\react-addons-test-utils",
+			"_resolved": "file:output\\react-addons-test-utils",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "99ed8939788922f05338d1ba0c32e24d12894888",
+				"size": 2256,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.8-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.8-alpha.tgz_1464155207009_0.18177508539520204"
+			},
+			"directories": {},
+			"publish_time": 1464155209467,
+			"_cnpm_publish_time": 1464155209467,
+			"_hasShrinkwrap": false
+		},
+		"0.14.7-alpha": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.7-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-addons-test-utils)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-addons-test-utils@0.14.7-alpha",
+			"_shasum": "0be4d15a26f15a0b8ff8f9ad659ff405563fef01",
+			"_from": "output\\react-addons-test-utils",
+			"_resolved": "file:output\\react-addons-test-utils",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0be4d15a26f15a0b8ff8f9ad659ff405563fef01",
+				"size": 2251,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.7-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.7-alpha.tgz_1463776252716_0.8161009042523801"
+			},
+			"directories": {},
+			"publish_time": 1463776253114,
+			"_cnpm_publish_time": 1463776253114,
+			"_hasShrinkwrap": false
+		},
+		"0.14.2-alpha": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.2-alpha",
+			"description": "Type definitions for React v0.14 (react-addons-test-utils) from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"react": "*"
+			},
+			"_id": "@types/react-addons-test-utils@0.14.2-alpha",
+			"_shasum": "3da8b5187a924df87fcf724a7ed2b2455179dd00",
+			"_from": "output\\react-addons-test-utils",
+			"_resolved": "file:output\\react-addons-test-utils",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3da8b5187a924df87fcf724a7ed2b2455179dd00",
+				"size": 2259,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.2-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.2-alpha.tgz_1463695744615_0.029663401190191507"
+			},
+			"directories": {},
+			"publish_time": 1463695745279,
+			"_cnpm_publish_time": 1463695745279,
+			"_hasShrinkwrap": false
+		},
+		"0.14.1-alpha": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.1-alpha",
+			"description": "Type definitions for React v0.14 (react-addons-test-utils) from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"react": "*"
+			},
+			"_id": "@types/react-addons-test-utils@0.14.1-alpha",
+			"_shasum": "b9fbb7d6d04a8547767ffc275d9d402d5f3cb58b",
+			"_from": "output\\react-addons-test-utils",
+			"_resolved": "file:output\\react-addons-test-utils",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b9fbb7d6d04a8547767ffc275d9d402d5f3cb58b",
+				"size": 2251,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.1-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-addons-test-utils-0.14.1-alpha.tgz_1463510632896_0.4245387213304639"
+			},
+			"directories": {},
+			"publish_time": 1463510633590,
+			"_cnpm_publish_time": 1463510633590,
+			"_hasShrinkwrap": false
+		},
+		"0.14.22": {
+			"name": "@types/react-addons-test-utils",
+			"version": "0.14.22",
+			"description": "TypeScript definitions for React (react-addons-test-utils)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "8ce959ecb7be5510dc9b33cadc3c9e7fe1821811cebb01104e8e980db0266942",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-addons-test-utils@0.14.22",
+			"dist": {
+				"shasum": "d6f5f6ac9462680b78f93c52eb4e3bceca8b1b2f",
+				"size": 2815,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.22.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-addons-test-utils_0.14.22_1533593197440_0.19645194360882456"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533593197551,
+			"_cnpm_publish_time": 1533593197551
+		}
+	},
+	"dist-tags": {
+		"latest": "0.14.22",
+		"ts2.0": "0.14.16",
+		"ts2.1": "0.14.18",
+		"ts2.2": "0.14.18",
+		"ts2.3": "0.14.20",
+		"ts2.4": "0.14.20",
+		"ts2.5": "0.14.20",
+		"ts2.6": "0.14.21",
+		"ts2.7": "0.14.21",
+		"ts2.8": "0.14.22",
+		"ts2.9": "0.14.22",
+		"ts3.0": "0.14.22",
+		"ts3.1": "0.14.22",
+		"ts3.2": "0.14.22"
+	},
+	"time": {
+		"modified": "2018-10-10T20:25:58.000Z",
+		"created": "2016-05-17T18:43:53.590Z",
+		"0.14.22": "2018-08-06T22:06:37.551Z",
+		"0.14.21": "2018-02-12T20:54:36.839Z",
+		"0.14.20": "2017-09-26T00:24:28.885Z",
+		"0.14.19": "2017-06-23T14:04:31.831Z",
+		"0.14.18": "2017-04-17T17:57:18.853Z",
+		"0.14.17": "2017-01-23T21:32:55.564Z",
+		"0.14.16": "2016-12-30T00:01:56.432Z",
+		"0.14.15": "2016-09-19T18:05:58.684Z",
+		"0.14.14": "2016-07-19T13:13:57.218Z",
+		"0.14.13": "2016-07-14T15:50:27.247Z",
+		"0.14.12-alpha": "2016-07-08T21:13:56.091Z",
+		"0.14.11-alpha": "2016-07-04T01:10:44.815Z",
+		"0.14.10-alpha": "2016-07-02T03:16:08.691Z",
+		"0.14.9-alpha": "2016-07-01T23:48:17.383Z",
+		"0.14.8-alpha": "2016-05-25T05:46:49.467Z",
+		"0.14.7-alpha": "2016-05-20T20:30:53.114Z",
+		"0.14.2-alpha": "2016-05-19T22:09:05.279Z",
+		"0.14.1-alpha": "2016-05-17T18:43:53.590Z"
+	},
+	"_distfiles": {
+		"react-addons-test-utils-0.14.21.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.21.tgz",
+			"sha": "3e24f804160aa2312d9b5758746f05444193194c",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.20.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.20.tgz",
+			"sha": "66a5787b8f15cce01c195fe2b95b89046054810d",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.19.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.19.tgz",
+			"sha": "260f60adb2015cc11938c01a9c4015323a3610e2",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.18.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.18.tgz",
+			"sha": "83e10af1dbe5ec2535bc2dc5373d7bc3b82fdee1",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.17.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.17.tgz",
+			"sha": "79adf8a0246a7fe1bb9a6651e2545a7b43d7f0b8",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.16.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.16.tgz",
+			"sha": "904247c8e25a64a7d81f5c826e46963e95090892",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.15.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.15.tgz",
+			"sha": "c786638e8ee197be0e7d4ac037d6146b39ef3e13",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.14.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.14.tgz",
+			"sha": "81d07c3479f3d8f150852eeb0305e85f7cc8d8b6",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.13.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.13.tgz",
+			"sha": "332a1ad8856a4d0180dc59f64a720eb48b1ef4bf",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.12-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.12-alpha.tgz",
+			"sha": "02a36050163b0289b5259a7394ec0cadcb5dce91",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.11-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.11-alpha.tgz",
+			"sha": "77e0f80c559d2b290283eb94be1e7c340a1e804e",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.10-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.10-alpha.tgz",
+			"sha": "3d98b4cfeab5c2be0c446146ed91207699d2af41",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.9-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.9-alpha.tgz",
+			"sha": "0082a80a472d5c19b2e60287375d89190ac421eb",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.8-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.8-alpha.tgz",
+			"sha": "99ed8939788922f05338d1ba0c32e24d12894888",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.7-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.7-alpha.tgz",
+			"sha": "0be4d15a26f15a0b8ff8f9ad659ff405563fef01",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.2-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.2-alpha.tgz",
+			"sha": "3da8b5187a924df87fcf724a7ed2b2455179dd00",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.1-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.1-alpha.tgz",
+			"sha": "b9fbb7d6d04a8547767ffc275d9d402d5f3cb58b",
+			"registry": "cnpmjs"
+		},
+		"react-addons-test-utils-0.14.22.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-addons-test-utils/download/@types/react-addons-test-utils-0.14.22.tgz",
+			"sha": "d6f5f6ac9462680b78f93c52eb4e3bceca8b1b2f",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"6025-4rb6Qdd+mdbxM0SMBo9SeEXekvw\"",
+			"fetched": 1541833279031
+		}
+	},
+	"_rev": "2-46a107ba305b3a7c",
+	"readme": "# Installation\r\n> `npm install --save @types/react-addons-test-utils`\r\n\r\n# Summary\r\nThis package contains type definitions for React (react-addons-test-utils) (http://facebook.github.io/react/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-addons-test-utils\r\n\r\nAdditional Details\r\n * Last updated: Mon, 06 Aug 2018 21:55:26 GMT\r\n * Dependencies: react\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>."
+}

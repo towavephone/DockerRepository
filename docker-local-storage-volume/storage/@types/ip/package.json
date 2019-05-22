@@ -1,0 +1,818 @@
+{
+	"name": "@types/ip",
+	"versions": {
+		"0.0.31": {
+			"name": "@types/ip",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for node-ip",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Peter Harris",
+					"url": "https://github.com/codeanimal",
+					"githubUsername": "codeanimal"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "504329bb7553052eee8ce0c1efa7b6009319c571b997a6fe50652a6656d24c98",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ip@0.0.31",
+			"dist": {
+				"shasum": "a363989e72dd11bb21f932d6fe96bd6a85b2b74b",
+				"size": 2338,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ip_0.0.31_1525478295022_0.657818118704762"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525478295099,
+			"_cnpm_publish_time": 1525478295099
+		},
+		"0.0.30": {
+			"name": "@types/ip",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for node-ip",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Peter Harris",
+					"url": "https://github.com/codeanimal"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6abb67a606701be30d290595cc7daf5700af9fb0224e5d99c4587f015169ff9a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ip@0.0.30",
+			"dist": {
+				"shasum": "60c3309ce1cecdd7293245bbffc201ecb6f8c344",
+				"size": 2318,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ip-0.0.30.tgz_1496298450035_0.8519598732236773"
+			},
+			"directories": {},
+			"publish_time": 1496298450119,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496298450119
+		},
+		"0.0.29": {
+			"name": "@types/ip",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for node-ip",
+			"license": "MIT",
+			"author": "Peter Harris <https://github.com/codeanimal>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "c5c485e415457c366748dee7e1933e5f45c516b18fc4f8b44f540a2b9bf11d7d",
+			"_id": "@types/ip@0.0.29",
+			"dist": {
+				"shasum": "f3ee60d9a8f595be09cc3b7858ec9517d8bcea04",
+				"size": 1795,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.29.tgz_1475701067481_0.49872338329441845"
+			},
+			"directories": {},
+			"publish_time": 1475701070916,
+			"_cnpm_publish_time": 1475701070916,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/ip",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for node-ip",
+			"license": "MIT",
+			"author": "Peter Harris <https://github.com/codeanimal>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "a64ec53c151760492f2168761cd39c97a24b9d1214ae0354fdd2bf4823c64137",
+			"_id": "@types/ip@0.0.28",
+			"dist": {
+				"shasum": "5b22c292e1d44d8d6f51dd094ebc493939b25922",
+				"size": 1775,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.28.tgz_1474306799554_0.5043517341837287"
+			},
+			"directories": {},
+			"publish_time": 1474306799795,
+			"_cnpm_publish_time": 1474306799795,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/ip",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for node-ip",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Peter Harris",
+				"email": "https://github.com/codeanimal"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ip@0.0.27",
+			"_shasum": "004aa4983b80a7007117285670fad5b460bd828e",
+			"_from": "output\\ip",
+			"_resolved": "file:output\\ip",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "004aa4983b80a7007117285670fad5b460bd828e",
+				"size": 1772,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.27.tgz_1468510301434_0.5386488828808069"
+			},
+			"directories": {},
+			"publish_time": 1468510303950,
+			"_cnpm_publish_time": 1468510303950,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/ip",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for node-ip",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Peter Harris",
+				"email": "https://github.com/codeanimal"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ip@0.0.26-alpha",
+			"_shasum": "b1110f0da2ab1aa98c0e24d3541ae2ad52a304eb",
+			"_from": "output\\ip",
+			"_resolved": "file:output\\ip",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b1110f0da2ab1aa98c0e24d3541ae2ad52a304eb",
+				"size": 1779,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.26-alpha.tgz_1468010032160_0.9345623599365354"
+			},
+			"directories": {},
+			"publish_time": 1468010034649,
+			"_cnpm_publish_time": 1468010034649,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/ip",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for node-ip",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Peter Harris",
+				"email": "https://github.com/codeanimal"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ip@0.0.25-alpha",
+			"_shasum": "3e1559180a22c742911a8b13d225141f0ee4d8a0",
+			"_from": "output\\ip",
+			"_resolved": "file:output\\ip",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3e1559180a22c742911a8b13d225141f0ee4d8a0",
+				"size": 1777,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.25-alpha.tgz_1467592251348_0.9059006464667618"
+			},
+			"directories": {},
+			"publish_time": 1467592254819,
+			"_cnpm_publish_time": 1467592254819,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/ip",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for node-ip",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Peter Harris",
+				"email": "https://github.com/codeanimal"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ip@0.0.24-alpha",
+			"_shasum": "ebbd80b26bb7af003d912ec0c789a54f32af26fe",
+			"_from": "output\\ip",
+			"_resolved": "file:output\\ip",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ebbd80b26bb7af003d912ec0c789a54f32af26fe",
+				"size": 1777,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.24-alpha.tgz_1467427256253_0.8009783832821995"
+			},
+			"directories": {},
+			"publish_time": 1467427259671,
+			"_cnpm_publish_time": 1467427259671,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/ip",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for node-ip",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Peter Harris",
+				"email": "https://github.com/codeanimal"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ip@0.0.23-alpha",
+			"_shasum": "7f74e043be2a313093f98d3e6543e8091b9a89da",
+			"_from": "output\\ip",
+			"_resolved": "file:output\\ip",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7f74e043be2a313093f98d3e6543e8091b9a89da",
+				"size": 1777,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.23-alpha.tgz_1467414315693_0.6279188434127718"
+			},
+			"directories": {},
+			"publish_time": 1467414319230,
+			"_cnpm_publish_time": 1467414319230,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/ip",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for node-ip",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Peter Harris",
+				"email": "https://github.com/codeanimal"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ip@0.0.22-alpha",
+			"_shasum": "290828a9ae335984d68639b190793052e83e25e1",
+			"_from": "output\\ip",
+			"_resolved": "file:output\\ip",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "290828a9ae335984d68639b190793052e83e25e1",
+				"size": 1769,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.22-alpha.tgz_1467402302279_0.3028268062043935"
+			},
+			"directories": {},
+			"publish_time": 1467402302879,
+			"_cnpm_publish_time": 1467402302879,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/ip",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for node-ip",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Peter Harris",
+				"email": "https://github.com/codeanimal"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ip@0.0.21-alpha",
+			"_shasum": "f5931cf9c5abeaf0470a9291424275aaca3b3c15",
+			"_from": "output\\ip",
+			"_resolved": "file:output\\ip",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f5931cf9c5abeaf0470a9291424275aaca3b3c15",
+				"size": 1746,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.21-alpha.tgz_1464152907166_0.0006500245071947575"
+			},
+			"directories": {},
+			"publish_time": 1464152907622,
+			"_cnpm_publish_time": 1464152907622,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/ip",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for node-ip",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Peter Harris",
+				"email": "https://github.com/codeanimal"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ip@0.0.20-alpha",
+			"_shasum": "5d01ff726add602c14389e915c929e086bbc2bd5",
+			"_from": "output\\ip",
+			"_resolved": "file:output\\ip",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5d01ff726add602c14389e915c929e086bbc2bd5",
+				"size": 1744,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.20-alpha.tgz_1463773797373_0.8607033265288919"
+			},
+			"directories": {},
+			"publish_time": 1463773800075,
+			"_cnpm_publish_time": 1463773800075,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/ip",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for node-ip from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Peter Harris",
+				"email": "https://github.com/codeanimal"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ip@0.0.15-alpha",
+			"_shasum": "4b9d124be96232d7f5c5b7082cbef0a1b3b522ae",
+			"_from": "output\\ip",
+			"_resolved": "file:output\\ip",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4b9d124be96232d7f5c5b7082cbef0a1b3b522ae",
+				"size": 1754,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.15-alpha.tgz_1463692453350_0.5376055946107954"
+			},
+			"directories": {},
+			"publish_time": 1463692454010,
+			"_cnpm_publish_time": 1463692454010,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/ip",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for node-ip from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Peter Harris",
+				"email": "https://github.com/codeanimal"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ip@0.0.14-alpha",
+			"_shasum": "4e401707e01bf34df7634b58849d35b153efd045",
+			"_from": "output\\ip",
+			"_resolved": "file:output\\ip",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4e401707e01bf34df7634b58849d35b153efd045",
+				"size": 1749,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ip-0.0.14-alpha.tgz_1463462028211_0.817894852720201"
+			},
+			"directories": {},
+			"publish_time": 1463462028763,
+			"_cnpm_publish_time": 1463462028763,
+			"_hasShrinkwrap": false
+		},
+		"0.0.32": {
+			"name": "@types/ip",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for node-ip",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Peter Harris",
+					"url": "https://github.com/codeanimal",
+					"githubUsername": "codeanimal"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "605a4a7a84b8f29c4f0722823695497cba686727dba1c1ecb5c5b2ffb40a73ee",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ip@0.0.32",
+			"dist": {
+				"shasum": "b501fd570908090de11cee98f6bf9dcc4fb6b7b5",
+				"size": 2332,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ip_0.0.32_1541110061162_0.2864038124787218"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1541110061324,
+			"_cnpm_publish_time": 1541110061324
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.32",
+		"ts2.0": "0.0.32",
+		"ts2.1": "0.0.32",
+		"ts2.2": "0.0.32",
+		"ts2.3": "0.0.32",
+		"ts2.4": "0.0.32",
+		"ts2.5": "0.0.32",
+		"ts2.6": "0.0.32",
+		"ts2.7": "0.0.32",
+		"ts2.8": "0.0.32",
+		"ts2.9": "0.0.32",
+		"ts3.0": "0.0.32",
+		"ts3.1": "0.0.32",
+		"ts3.2": "0.0.32"
+	},
+	"time": {
+		"modified": "2018-11-01T22:07:55.000Z",
+		"created": "2016-05-17T05:13:48.763Z",
+		"0.0.32": "2018-11-01T22:07:41.324Z",
+		"0.0.31": "2018-05-04T23:58:15.099Z",
+		"0.0.30": "2017-06-01T06:27:30.119Z",
+		"0.0.29": "2016-10-05T20:57:50.916Z",
+		"0.0.28": "2016-09-19T17:39:59.795Z",
+		"0.0.27": "2016-07-14T15:31:43.950Z",
+		"0.0.26-alpha": "2016-07-08T20:33:54.649Z",
+		"0.0.25-alpha": "2016-07-04T00:30:54.819Z",
+		"0.0.24-alpha": "2016-07-02T02:40:59.671Z",
+		"0.0.23-alpha": "2016-07-01T23:05:19.230Z",
+		"0.0.22-alpha": "2016-07-01T19:45:02.879Z",
+		"0.0.21-alpha": "2016-05-25T05:08:27.622Z",
+		"0.0.20-alpha": "2016-05-20T19:50:00.075Z",
+		"0.0.15-alpha": "2016-05-19T21:14:14.010Z",
+		"0.0.14-alpha": "2016-05-17T05:13:48.763Z"
+	},
+	"_distfiles": {
+		"ip-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.31.tgz",
+			"sha": "a363989e72dd11bb21f932d6fe96bd6a85b2b74b",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.30.tgz",
+			"sha": "60c3309ce1cecdd7293245bbffc201ecb6f8c344",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.29.tgz",
+			"sha": "f3ee60d9a8f595be09cc3b7858ec9517d8bcea04",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.28.tgz",
+			"sha": "5b22c292e1d44d8d6f51dd094ebc493939b25922",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.27.tgz",
+			"sha": "004aa4983b80a7007117285670fad5b460bd828e",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.26-alpha.tgz",
+			"sha": "b1110f0da2ab1aa98c0e24d3541ae2ad52a304eb",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.25-alpha.tgz",
+			"sha": "3e1559180a22c742911a8b13d225141f0ee4d8a0",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.24-alpha.tgz",
+			"sha": "ebbd80b26bb7af003d912ec0c789a54f32af26fe",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.23-alpha.tgz",
+			"sha": "7f74e043be2a313093f98d3e6543e8091b9a89da",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.22-alpha.tgz",
+			"sha": "290828a9ae335984d68639b190793052e83e25e1",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.21-alpha.tgz",
+			"sha": "f5931cf9c5abeaf0470a9291424275aaca3b3c15",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.20-alpha.tgz",
+			"sha": "5d01ff726add602c14389e915c929e086bbc2bd5",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.15-alpha.tgz",
+			"sha": "4b9d124be96232d7f5c5b7082cbef0a1b3b522ae",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.14-alpha.tgz",
+			"sha": "4e401707e01bf34df7634b58849d35b153efd045",
+			"registry": "cnpmjs"
+		},
+		"ip-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ip/download/@types/ip-0.0.32.tgz",
+			"sha": "b501fd570908090de11cee98f6bf9dcc4fb6b7b5",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833275725
+		}
+	},
+	"_rev": "2-81d713bcc51d7ae4",
+	"readme": "# Installation\r\n> `npm install --save @types/ip`\r\n\r\n# Summary\r\nThis package contains type definitions for node-ip (https://github.com/indutny/node-ip).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ip\r\n\r\nAdditional Details\r\n * Last updated: Thu, 01 Nov 2018 22:07:15 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Peter Harris <https://github.com/codeanimal>."
+}

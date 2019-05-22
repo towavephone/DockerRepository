@@ -1,0 +1,84 @@
+{
+	"name": "@types/dateformat",
+	"versions": {
+		"1.0.1": {
+			"name": "@types/dateformat",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for dateformat v1.0.12",
+			"license": "MIT",
+			"author": "Kombu <https://github.com/aicest>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "bed8069c49604effffc0e8247579c818980cf7e4b87471a8f7a4081c6ec603bd",
+			"_id": "@types/dateformat@1.0.1",
+			"dist": {
+				"shasum": "2e5b235c8c55652c4fec284506d2a36fe65fe87e",
+				"size": 1556,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dateformat/download/@types/dateformat-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dateformat-1.0.1.tgz_1475700972386_0.10910932533442974"
+			},
+			"directories": {},
+			"publish_time": 1475700972629,
+			"_cnpm_publish_time": 1475700972629,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.1",
+		"ts2.0": "1.0.1",
+		"ts2.1": "1.0.1",
+		"ts2.2": "1.0.1",
+		"ts2.3": "1.0.1",
+		"ts2.4": "1.0.1",
+		"ts2.5": "1.0.1",
+		"ts2.6": "1.0.1",
+		"ts2.7": "1.0.1",
+		"ts2.8": "1.0.1",
+		"ts2.9": "1.0.1",
+		"ts3.0": "1.0.1",
+		"ts3.1": "1.0.1",
+		"ts3.2": "1.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:09:21.000Z",
+		"created": "2016-10-05T20:56:12.629Z",
+		"1.0.1": "2016-10-05T20:56:12.629Z"
+	},
+	"_distfiles": {
+		"dateformat-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dateformat/download/@types/dateformat-1.0.1.tgz",
+			"sha": "2e5b235c8c55652c4fec284506d2a36fe65fe87e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"97c-NXMUBMpk7cfNLlrOC9TfLO46nvU\"",
+			"fetched": 1541833454053
+		}
+	},
+	"_rev": "2-a288a019cc502aed",
+	"readme": "# Installation\r\n> `npm install --save @types/dateformat`\r\n\r\n# Summary\r\nThis package contains type definitions for dateformat v1.0.12 (https://github.com/felixge/node-dateformat).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/dateformat\r\n\r\nAdditional Details\r\n * Last updated: Wed, 05 Oct 2016 20:53:31 GMT\r\n * File structure: Mixed\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Kombu <https://github.com/aicest>."
+}

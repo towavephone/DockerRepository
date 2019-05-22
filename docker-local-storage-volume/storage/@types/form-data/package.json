@@ -1,0 +1,923 @@
+{
+	"name": "@types/form-data",
+	"versions": {
+		"2.2.1": {
+			"name": "@types/form-data",
+			"version": "2.2.1",
+			"description": "TypeScript definitions for form-data",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Carlos Ballesteros Velasco",
+					"url": "https://github.com/soywiz",
+					"githubUsername": "soywiz"
+				},
+				{
+					"name": "Leon Yu",
+					"url": "https://github.com/leonyu",
+					"githubUsername": "leonyu"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "6b123d0ea13d7814315d38f664835e20d88c9a72981615a76f3814b8d5ed6a5a",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/form-data@2.2.1",
+			"dist": {
+				"shasum": "ee2b3b8eaa11c0938289953606b745b738c54b1e",
+				"size": 1988,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-2.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/form-data-2.2.1.tgz_1510181016713_0.548687523463741"
+			},
+			"directories": {},
+			"publish_time": 1510181016865,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510181016865
+		},
+		"2.2.0": {
+			"name": "@types/form-data",
+			"version": "2.2.0",
+			"description": "TypeScript definitions for form-data",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Carlos Ballesteros Velasco",
+					"url": "https://github.com/soywiz"
+				},
+				{
+					"name": "Leon Yu",
+					"url": "https://github.com/leonyu"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "be2e4f8f47d5e86921cc5c308ef57e885708b9e43ecb45d593104ccb43ff828a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/form-data@2.2.0",
+			"dist": {
+				"shasum": "a98aac91dc99857b6af24caef7ca6df302f31565",
+				"size": 1967,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-2.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/form-data-2.2.0.tgz_1500919320979_0.6630483237095177"
+			},
+			"directories": {},
+			"publish_time": 1500919321153,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500919321153
+		},
+		"0.0.33": {
+			"name": "@types/form-data",
+			"version": "0.0.33",
+			"description": "TypeScript definitions for form-data",
+			"license": "MIT",
+			"author": "Carlos Ballesteros Velasco <https://github.com/soywiz>, Leon Yu <https://github.com/leonyu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "9cc91a75fca75af54344c0e61a0c29e9f9939ea01d67642720916db50a7245ef",
+			"_id": "@types/form-data@0.0.33",
+			"dist": {
+				"shasum": "c9ac85b2a5fd18435b8c85d9ecb50e6d6c893ff8",
+				"size": 1291,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.33.tgz_1479857927173_0.650688566500321"
+			},
+			"directories": {},
+			"publish_time": 1479857927391,
+			"_cnpm_publish_time": 1479857927391,
+			"_hasShrinkwrap": false
+		},
+		"0.0.32": {
+			"name": "@types/form-data",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for form-data",
+			"license": "MIT",
+			"author": "Carlos Ballesteros Velasco <https://github.com/soywiz>, Leon Yu <https://github.com/leonyu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "29724e1240785f35a6c9a8fe26c4e8b85d2a9e7d9ed210b9c54c9bad6aa28fbe",
+			"_id": "@types/form-data@0.0.32",
+			"dist": {
+				"shasum": "218134515d38929524ff562ba1c6ce93981f3a45",
+				"size": 1216,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.32.tgz_1474306375107_0.9395622233860195"
+			},
+			"directories": {},
+			"publish_time": 1474306375333,
+			"_cnpm_publish_time": 1474306375333,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/form-data",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for form-data",
+			"license": "MIT",
+			"author": "Carlos Ballesteros Velasco <https://github.com/soywiz>, Leon Yu <https://github.com/leonyu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/form-data@0.0.31",
+			"dist": {
+				"shasum": "72dfaf1d1259ea978c5d89606d591540a2a22edc",
+				"size": 1208,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.31.tgz_1472150565360_0.7651917377952486"
+			},
+			"directories": {},
+			"publish_time": 1472150567373,
+			"_cnpm_publish_time": 1472150567373,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/form-data",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for form-data",
+			"license": "MIT",
+			"author": "Carlos Ballesteros Velasco <https://github.com/soywiz>, Leon Yu <https://github.com/leonyu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/form-data@0.0.30",
+			"dist": {
+				"shasum": "ef76efc82779e47a5c5166e120d2b56b2c549b08",
+				"size": 1205,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.30.tgz_1471620349433_0.18702690838836133"
+			},
+			"directories": {},
+			"publish_time": 1471620351307,
+			"_cnpm_publish_time": 1471620351307,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/form-data",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for form-data",
+			"license": "MIT",
+			"author": "Carlos Ballesteros Velasco <https://github.com/soywiz>, Leon Yu <https://github.com/leonyu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/form-data@0.0.29",
+			"dist": {
+				"shasum": "83f05a8776b0a3ddaa16a3d708e73b62e631a99f",
+				"size": 6656,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.29.tgz_1470153184556_0.3778298790566623"
+			},
+			"directories": {},
+			"publish_time": 1470153186186,
+			"_cnpm_publish_time": 1470153186186,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/form-data",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for form-data",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/form-data@0.0.28",
+			"_shasum": "5ca4fe138f59a57b74239776b6e81ec8bec58db2",
+			"_from": "output\\form-data",
+			"_resolved": "file:output\\form-data",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5ca4fe138f59a57b74239776b6e81ec8bec58db2",
+				"size": 1105,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.28.tgz_1468507139089_0.8748528556898236"
+			},
+			"directories": {},
+			"publish_time": 1468507141293,
+			"_cnpm_publish_time": 1468507141293,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/form-data",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for form-data",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/form-data@0.0.27-alpha",
+			"_shasum": "2ff2dfbddb63768d95ba0e1a838e1671c72091a8",
+			"_from": "output\\form-data",
+			"_resolved": "file:output\\form-data",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2ff2dfbddb63768d95ba0e1a838e1671c72091a8",
+				"size": 1106,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.27-alpha.tgz_1468008773920_0.13510828791186213"
+			},
+			"directories": {},
+			"publish_time": 1468008775422,
+			"_cnpm_publish_time": 1468008775422,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/form-data",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for form-data",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/form-data@0.0.26-alpha",
+			"_shasum": "0da54c4ce928664971309c954f6342b72820de37",
+			"_from": "output\\form-data",
+			"_resolved": "file:output\\form-data",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0da54c4ce928664971309c954f6342b72820de37",
+				"size": 1105,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.26-alpha.tgz_1467591498730_0.002751910826191306"
+			},
+			"directories": {},
+			"publish_time": 1467591502354,
+			"_cnpm_publish_time": 1467591502354,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/form-data",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for form-data",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/form-data@0.0.25-alpha",
+			"_shasum": "59c01f908063dc5e8fb7f7e66f1e37523279ce10",
+			"_from": "output\\form-data",
+			"_resolved": "file:output\\form-data",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "59c01f908063dc5e8fb7f7e66f1e37523279ce10",
+				"size": 1111,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.25-alpha.tgz_1467426517444_0.5558762850705534"
+			},
+			"directories": {},
+			"publish_time": 1467426518007,
+			"_cnpm_publish_time": 1467426518007,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/form-data",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for form-data",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/form-data@0.0.24-alpha",
+			"_shasum": "12ef90cc0cd23bf61622d302ca6c3771b675e6d6",
+			"_from": "output\\form-data",
+			"_resolved": "file:output\\form-data",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "12ef90cc0cd23bf61622d302ca6c3771b675e6d6",
+				"size": 1107,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.24-alpha.tgz_1467413184471_0.47709759045392275"
+			},
+			"directories": {},
+			"publish_time": 1467413186619,
+			"_cnpm_publish_time": 1467413186619,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/form-data",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for form-data",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/form-data@0.0.23-alpha",
+			"_shasum": "c1e9de5d12de2276a9367c00c1beb08b380b6036",
+			"_from": "output\\form-data",
+			"_resolved": "file:output\\form-data",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c1e9de5d12de2276a9367c00c1beb08b380b6036",
+				"size": 1101,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.23-alpha.tgz_1467401140959_0.20587881444953382"
+			},
+			"directories": {},
+			"publish_time": 1467401143483,
+			"_cnpm_publish_time": 1467401143483,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/form-data",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for form-data",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/form-data@0.0.22-alpha",
+			"_shasum": "0f2345aa1d73b07bb7460ca13a8fb440e8ec3b55",
+			"_from": "output\\form-data",
+			"_resolved": "file:output\\form-data",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0f2345aa1d73b07bb7460ca13a8fb440e8ec3b55",
+				"size": 1078,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.22-alpha.tgz_1464152148562_0.22014151676557958"
+			},
+			"directories": {},
+			"publish_time": 1464152150894,
+			"_cnpm_publish_time": 1464152150894,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/form-data",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for form-data",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/form-data@0.0.21-alpha",
+			"_shasum": "7438e6b626c928829627a523235758848cbe6480",
+			"_from": "output\\form-data",
+			"_resolved": "file:output\\form-data",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7438e6b626c928829627a523235758848cbe6480",
+				"size": 1076,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.21-alpha.tgz_1463773063371_0.0834705620072782"
+			},
+			"directories": {},
+			"publish_time": 1463773063806,
+			"_cnpm_publish_time": 1463773063806,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/form-data",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for form-data from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/form-data@0.0.16-alpha",
+			"_shasum": "7d907358825d4a0353b213b09e308cfe013b9429",
+			"_from": "output\\form-data",
+			"_resolved": "file:output\\form-data",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7d907358825d4a0353b213b09e308cfe013b9429",
+				"size": 1083,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.16-alpha.tgz_1463691340246_0.5045688226819038"
+			},
+			"directories": {},
+			"publish_time": 1463691341062,
+			"_cnpm_publish_time": 1463691341062,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/form-data",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for form-data from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/form-data@0.0.15-alpha",
+			"_shasum": "afbcde998454099577e467a627a299f0498ca912",
+			"_from": "output\\form-data",
+			"_resolved": "file:output\\form-data",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "afbcde998454099577e467a627a299f0498ca912",
+				"size": 1076,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/form-data-0.0.15-alpha.tgz_1463461100713_0.32620881823822856"
+			},
+			"directories": {},
+			"publish_time": 1463461104222,
+			"_cnpm_publish_time": 1463461104222,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.2.1",
+		"ts2.0": "2.2.0",
+		"ts2.1": "2.2.0",
+		"ts2.2": "2.2.0",
+		"ts2.3": "2.2.1",
+		"ts2.4": "2.2.1",
+		"ts2.5": "2.2.1",
+		"ts2.6": "2.2.1",
+		"ts2.7": "2.2.1",
+		"ts2.8": "2.2.1",
+		"ts2.9": "2.2.1",
+		"ts3.0": "2.2.1",
+		"ts3.1": "2.2.1",
+		"ts3.2": "2.2.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:11:46.000Z",
+		"created": "2016-05-17T04:58:24.222Z",
+		"2.2.1": "2017-11-08T22:43:36.865Z",
+		"2.2.0": "2017-07-24T18:02:01.153Z",
+		"0.0.33": "2016-11-22T23:38:47.391Z",
+		"0.0.32": "2016-09-19T17:32:55.333Z",
+		"0.0.31": "2016-08-25T18:42:47.373Z",
+		"0.0.30": "2016-08-19T15:25:51.307Z",
+		"0.0.29": "2016-08-02T15:53:06.186Z",
+		"0.0.28": "2016-07-14T14:39:01.293Z",
+		"0.0.27-alpha": "2016-07-08T20:12:55.422Z",
+		"0.0.26-alpha": "2016-07-04T00:18:22.354Z",
+		"0.0.25-alpha": "2016-07-02T02:28:38.007Z",
+		"0.0.24-alpha": "2016-07-01T22:46:26.619Z",
+		"0.0.23-alpha": "2016-07-01T19:25:43.483Z",
+		"0.0.22-alpha": "2016-05-25T04:55:50.894Z",
+		"0.0.21-alpha": "2016-05-20T19:37:43.806Z",
+		"0.0.16-alpha": "2016-05-19T20:55:41.062Z",
+		"0.0.15-alpha": "2016-05-17T04:58:24.222Z"
+	},
+	"_distfiles": {
+		"form-data-2.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-2.2.1.tgz",
+			"sha": "ee2b3b8eaa11c0938289953606b745b738c54b1e",
+			"registry": "cnpmjs"
+		},
+		"form-data-2.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-2.2.0.tgz",
+			"sha": "a98aac91dc99857b6af24caef7ca6df302f31565",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.33.tgz",
+			"sha": "c9ac85b2a5fd18435b8c85d9ecb50e6d6c893ff8",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.32.tgz",
+			"sha": "218134515d38929524ff562ba1c6ce93981f3a45",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.31.tgz",
+			"sha": "72dfaf1d1259ea978c5d89606d591540a2a22edc",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.30.tgz",
+			"sha": "ef76efc82779e47a5c5166e120d2b56b2c549b08",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.29.tgz",
+			"sha": "83f05a8776b0a3ddaa16a3d708e73b62e631a99f",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.28.tgz",
+			"sha": "5ca4fe138f59a57b74239776b6e81ec8bec58db2",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.27-alpha.tgz",
+			"sha": "2ff2dfbddb63768d95ba0e1a838e1671c72091a8",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.26-alpha.tgz",
+			"sha": "0da54c4ce928664971309c954f6342b72820de37",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.25-alpha.tgz",
+			"sha": "59c01f908063dc5e8fb7f7e66f1e37523279ce10",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.24-alpha.tgz",
+			"sha": "12ef90cc0cd23bf61622d302ca6c3771b675e6d6",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.23-alpha.tgz",
+			"sha": "c1e9de5d12de2276a9367c00c1beb08b380b6036",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.22-alpha.tgz",
+			"sha": "0f2345aa1d73b07bb7460ca13a8fb440e8ec3b55",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.21-alpha.tgz",
+			"sha": "7438e6b626c928829627a523235758848cbe6480",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.16-alpha.tgz",
+			"sha": "7d907358825d4a0353b213b09e308cfe013b9429",
+			"registry": "cnpmjs"
+		},
+		"form-data-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/form-data/download/@types/form-data-0.0.15-alpha.tgz",
+			"sha": "afbcde998454099577e467a627a299f0498ca912",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"51f9-SXbOOOrtOTgsOipEc1Bdtcz+HWk\"",
+			"fetched": 1541833455725
+		}
+	},
+	"_rev": "2-0386ce6ace462a90",
+	"readme": "# Installation\r\n> `npm install --save @types/form-data`\r\n\r\n# Summary\r\nThis package contains type definitions for form-data (https://github.com/form-data/form-data).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/form-data\r\n\r\nAdditional Details\r\n * Last updated: Wed, 08 Nov 2017 22:42:24 GMT\r\n * Dependencies: stream, http, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Carlos Ballesteros Velasco <https://github.com/soywiz>, Leon Yu <https://github.com/leonyu>, BendingBender <https://github.com/BendingBender>."
+}

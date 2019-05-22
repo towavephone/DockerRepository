@@ -1,0 +1,870 @@
+{
+	"name": "@types/react-slick",
+	"versions": {
+		"0.23.1": {
+			"name": "@types/react-slick",
+			"version": "0.23.1",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrey Balokha",
+					"url": "https://github.com/andrewBalekha",
+					"githubUsername": "andrewBalekha"
+				},
+				{
+					"name": "Giedrius Grabauskas",
+					"url": "https://github.com/GiedriusGrabauskas",
+					"githubUsername": "GiedriusGrabauskas"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "93c3e5c37098e1a5bdebb5b7c7f7e9bdeecbf6931ef3bcd2dbbabd173036562c",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-slick@0.23.1",
+			"dist": {
+				"shasum": "fcc1beaad47c4e8b6da02b6568e1430bf8790a0b",
+				"size": 2363,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.23.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-slick_0.23.1_1527798331947_0.34048124813632974"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527798332012,
+			"_cnpm_publish_time": 1527798332012
+		},
+		"0.23.0": {
+			"name": "@types/react-slick",
+			"version": "0.23.0",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrey Balokha",
+					"url": "https://github.com/andrewBalekha",
+					"githubUsername": "andrewBalekha"
+				},
+				{
+					"name": "Giedrius Grabauskas",
+					"url": "https://github.com/GiedriusGrabauskas",
+					"githubUsername": "GiedriusGrabauskas"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "f8be05d959f4f8eaaf133b5133c385385046cee06c76835d3025536803cff3d1",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-slick@0.23.0",
+			"dist": {
+				"shasum": "54e38a0e7d088492e7284db86217e8adb9702d88",
+				"size": 2357,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.23.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-slick_0.23.0_1524613050220_0.8326297994357936"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524613050291,
+			"_cnpm_publish_time": 1524613050291
+		},
+		"0.15.1": {
+			"name": "@types/react-slick",
+			"version": "0.15.1",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrey Balokha",
+					"url": "https://github.com/andrewBalekha",
+					"githubUsername": "andrewBalekha"
+				},
+				{
+					"name": "Giedrius Grabauskas",
+					"url": "https://github.com/GiedriusGrabauskas",
+					"githubUsername": "GiedriusGrabauskas"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "db1352d55276bbc064baa2897a1a4777a8f28223085336d70acc9f0a0c8aef62",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-slick@0.15.1",
+			"dist": {
+				"shasum": "172ccdaa250b7d6f2d762d9a144697731509dfb0",
+				"size": 2245,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.15.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-slick_0.15.1_1518469678745_0.9868653486874768"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518469678783,
+			"_cnpm_publish_time": 1518469678783
+		},
+		"0.15.0": {
+			"name": "@types/react-slick",
+			"version": "0.15.0",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrey Balokha",
+					"url": "https://github.com/andrewBalekha",
+					"githubUsername": "andrewBalekha"
+				},
+				{
+					"name": "Giedrius Grabauskas",
+					"url": "https://github.com/GiedriusGrabauskas",
+					"githubUsername": "GiedriusGrabauskas"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "10c8e5515972cb61557283d8fcfa4ac8b38a78290ec55d8a114cc57023525541",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-slick@0.15.0",
+			"dist": {
+				"shasum": "2f534d32ffd1fbc8dd868e3f6b06a97bdd3ce6de",
+				"size": 2241,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.15.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-slick-0.15.0.tgz_1511288546637_0.8057421275880188"
+			},
+			"directories": {},
+			"publish_time": 1511288546713,
+			"_cnpm_publish_time": 1511288546713,
+			"_hasShrinkwrap": false
+		},
+		"0.14.1": {
+			"name": "@types/react-slick",
+			"version": "0.14.1",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrey Balokha",
+					"url": "https://github.com/andrewBalekha"
+				},
+				{
+					"name": "Giedrius Grabauskas",
+					"url": "https://github.com/GiedriusGrabauskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7311167278771809b6a0c3dea1f1b82a25ad08944fbbd5d520e01a0032bea527",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-slick@0.14.1",
+			"dist": {
+				"shasum": "33393647e5b4db678cbedcd96b70c17fc83ead22",
+				"size": 2186,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.14.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-slick-0.14.1.tgz_1498239491666_0.5493370238691568"
+			},
+			"directories": {},
+			"publish_time": 1498239491753,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498239491753
+		},
+		"0.14.0": {
+			"name": "@types/react-slick",
+			"version": "0.14.0",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrey Balokha",
+					"url": "https://github.com/andrewBalekha"
+				},
+				{
+					"name": "Giedrius Grabauskas",
+					"url": "https://github.com/GiedriusGrabauskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "012b6ba0144ba077f8edec2cb21b63a343734fde0767f5cf3f66e5829bb4ad76",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/react-slick@0.14.0",
+			"dist": {
+				"shasum": "60f66953689841de8a74ddf04260222f3b668a09",
+				"size": 2168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.14.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-slick-0.14.0.tgz_1496410779673_0.7953189064282924"
+			},
+			"directories": {},
+			"publish_time": 1496410779739,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496410779739
+		},
+		"0.0.8": {
+			"name": "@types/react-slick",
+			"version": "0.0.8",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrey Balokha",
+					"url": "https://github.com/andrewBalekha"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d4ceb06499b6ac06082104e8bead088a91b22b6eb658afa5c31e7f960d6b9afc",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-slick@0.0.8",
+			"dist": {
+				"shasum": "f7a17ffee40b3d0cc2c7b8fda9688f2457a6e995",
+				"size": 1295,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-slick-0.0.8.tgz_1491860274966_0.9433994812425226"
+			},
+			"directories": {},
+			"publish_time": 1491860277144,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1491860277144
+		},
+		"0.0.7": {
+			"name": "@types/react-slick",
+			"version": "0.0.7",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"author": "Andrey Balokha <https://github.com/andrewBalekha>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "89fcd133bfd3ed87bbc9f783b62530ea326552575163f852fa42af4b7172910d",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-slick@0.0.7",
+			"dist": {
+				"shasum": "048a16e98c3107dfd2b2e0d344d3b903a8eea3c6",
+				"size": 1459,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-slick-0.0.7.tgz_1486500837616_0.4165221282746643"
+			},
+			"directories": {},
+			"publish_time": 1486500837838,
+			"_cnpm_publish_time": 1486500837838,
+			"_hasShrinkwrap": false
+		},
+		"0.0.6": {
+			"name": "@types/react-slick",
+			"version": "0.0.6",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"author": "Andrey Balokha <https://github.com/andrewBalekha>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "44073162074bd5acdba866d44bc69693924a24e5ad8fca240dff9008e933de62",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-slick@0.0.6",
+			"dist": {
+				"shasum": "4b63bbd2db51186e539ce14ce684188ec8522d8e",
+				"size": 1417,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-slick-0.0.6.tgz_1485207332620_0.9426538443658501"
+			},
+			"directories": {},
+			"publish_time": 1485207334519,
+			"_cnpm_publish_time": 1485207334519,
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "@types/react-slick",
+			"version": "0.0.5",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"author": "Andrey Balokha <https://github.com/andrewBalekha>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "88b4e277ba53e0d457c0e70bd2bac098cece356a9dc4821f4672bfb09aa0324f",
+			"_id": "@types/react-slick@0.0.5",
+			"dist": {
+				"shasum": "552861da19346cd437ba5a56bc3c0dae5f6a39d0",
+				"size": 1425,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-slick-0.0.5.tgz_1479762330209_0.09979456290602684"
+			},
+			"directories": {},
+			"publish_time": 1479762330425,
+			"_cnpm_publish_time": 1479762330425,
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "@types/react-slick",
+			"version": "0.0.4",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"author": "Andrey Balokha <https://github.com/andrewBalekha>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typings": "react-slick.d.ts",
+			"typesPublisherContentHash": "fac2cc22713076caf210c6ea6cea4bfc772e33fd5cc094bb70bec41a1eb3dd29",
+			"_id": "@types/react-slick@0.0.4",
+			"dist": {
+				"shasum": "07fe339fcbbebbdc4eda0cae56a6313705e4e6b5",
+				"size": 1409,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-slick-0.0.4.tgz_1474308320363_0.012625179486349225"
+			},
+			"directories": {},
+			"publish_time": 1474308323637,
+			"_cnpm_publish_time": 1474308323637,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/react-slick",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"author": "Andrey Balokha <https://github.com/andrewBalekha>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "react-slick.d.ts",
+			"_id": "@types/react-slick@0.0.3",
+			"dist": {
+				"shasum": "5a4dabdadaebef8276b5887dc4cc8d6bcf837be2",
+				"size": 1381,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-slick-0.0.3.tgz_1472151450402_0.25537772104144096"
+			},
+			"directories": {},
+			"publish_time": 1472151452267,
+			"_cnpm_publish_time": 1472151452267,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/react-slick",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"author": "Andrey Balokha <https://github.com/andrewBalekha>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "react-slick.d.ts",
+			"_id": "@types/react-slick@0.0.2",
+			"dist": {
+				"shasum": "1bf3984c7ca8f997cf3ccd900cceace713700b6f",
+				"size": 1381,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-slick-0.0.2.tgz_1471621195109_0.25581908226013184"
+			},
+			"directories": {},
+			"publish_time": 1471621196943,
+			"_cnpm_publish_time": 1471621196943,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/react-slick",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"author": "Andrey Balokha <https://github.com/andrewBalekha>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "react-slick.d.ts",
+			"_id": "@types/react-slick@0.0.1",
+			"dist": {
+				"shasum": "55d7369297a7f2a141a60615231d89e6e128fdba",
+				"size": 7168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-slick-0.0.1.tgz_1470154074890_0.7699254667386413"
+			},
+			"directories": {},
+			"publish_time": 1470154076891,
+			"_cnpm_publish_time": 1470154076891,
+			"_hasShrinkwrap": false
+		},
+		"0.23.2": {
+			"name": "@types/react-slick",
+			"version": "0.23.2",
+			"description": "TypeScript definitions for react-slick",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrey Balokha",
+					"url": "https://github.com/andrewBalekha",
+					"githubUsername": "andrewBalekha"
+				},
+				{
+					"name": "Giedrius Grabauskas",
+					"url": "https://github.com/GiedriusGrabauskas",
+					"githubUsername": "GiedriusGrabauskas"
+				},
+				{
+					"name": "Andrew Makarov",
+					"url": "https://github.com/r3nya",
+					"githubUsername": "r3nya"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "a1cd04182ac99521464ee4d5d034e1e023b62459d0ae29d6f69eac820176918b",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-slick@0.23.2",
+			"dist": {
+				"shasum": "f1c3c6b36b363b8b500ad433f53468428345f802",
+				"size": 2366,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.23.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-slick_0.23.2_1533594804261_0.4762613990898561"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533594804321,
+			"_cnpm_publish_time": 1533594804321
+		}
+	},
+	"dist-tags": {
+		"latest": "0.23.2",
+		"ts2.0": "0.14.0",
+		"ts2.1": "0.14.0",
+		"ts2.2": "0.14.0",
+		"ts2.3": "0.15.0",
+		"ts2.4": "0.15.0",
+		"ts2.5": "0.15.0",
+		"ts2.6": "0.23.1",
+		"ts2.7": "0.23.1",
+		"ts2.8": "0.23.2",
+		"ts2.9": "0.23.2",
+		"ts3.0": "0.23.2",
+		"ts3.1": "0.23.2",
+		"ts3.2": "0.23.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:26:31.000Z",
+		"created": "2016-08-02T16:07:56.891Z",
+		"0.23.2": "2018-08-06T22:33:24.321Z",
+		"0.23.1": "2018-05-31T20:25:32.012Z",
+		"0.23.0": "2018-04-24T23:37:30.291Z",
+		"0.15.1": "2018-02-12T21:07:58.783Z",
+		"0.15.0": "2017-11-21T18:22:26.713Z",
+		"0.14.1": "2017-06-23T17:38:11.753Z",
+		"0.14.0": "2017-06-02T13:39:39.739Z",
+		"0.0.8": "2017-04-10T21:37:57.144Z",
+		"0.0.7": "2017-02-07T20:53:57.838Z",
+		"0.0.6": "2017-01-23T21:35:34.519Z",
+		"0.0.5": "2016-11-21T21:05:30.425Z",
+		"0.0.4": "2016-09-19T18:05:23.637Z",
+		"0.0.3": "2016-08-25T18:57:32.267Z",
+		"0.0.2": "2016-08-19T15:39:56.943Z",
+		"0.0.1": "2016-08-02T16:07:56.891Z"
+	},
+	"_distfiles": {
+		"react-slick-0.23.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.23.1.tgz",
+			"sha": "fcc1beaad47c4e8b6da02b6568e1430bf8790a0b",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.23.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.23.0.tgz",
+			"sha": "54e38a0e7d088492e7284db86217e8adb9702d88",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.15.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.15.1.tgz",
+			"sha": "172ccdaa250b7d6f2d762d9a144697731509dfb0",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.15.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.15.0.tgz",
+			"sha": "2f534d32ffd1fbc8dd868e3f6b06a97bdd3ce6de",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.14.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.14.1.tgz",
+			"sha": "33393647e5b4db678cbedcd96b70c17fc83ead22",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.14.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.14.0.tgz",
+			"sha": "60f66953689841de8a74ddf04260222f3b668a09",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.8.tgz",
+			"sha": "f7a17ffee40b3d0cc2c7b8fda9688f2457a6e995",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.7.tgz",
+			"sha": "048a16e98c3107dfd2b2e0d344d3b903a8eea3c6",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.6.tgz",
+			"sha": "4b63bbd2db51186e539ce14ce684188ec8522d8e",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.5.tgz",
+			"sha": "552861da19346cd437ba5a56bc3c0dae5f6a39d0",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.4.tgz",
+			"sha": "07fe339fcbbebbdc4eda0cae56a6313705e4e6b5",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.3.tgz",
+			"sha": "5a4dabdadaebef8276b5887dc4cc8d6bcf837be2",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.2.tgz",
+			"sha": "1bf3984c7ca8f997cf3ccd900cceace713700b6f",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.0.1.tgz",
+			"sha": "55d7369297a7f2a141a60615231d89e6e128fdba",
+			"registry": "cnpmjs"
+		},
+		"react-slick-0.23.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-slick/download/@types/react-slick-0.23.2.tgz",
+			"sha": "f1c3c6b36b363b8b500ad433f53468428345f802",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833487780
+		}
+	},
+	"_rev": "2-98bdaf0e8c2267f7",
+	"readme": "# Installation\r\n> `npm install --save @types/react-slick`\r\n\r\n# Summary\r\nThis package contains type definitions for react-slick (https://github.com/akiran/react-slick).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-slick\r\n\r\nAdditional Details\r\n * Last updated: Mon, 06 Aug 2018 21:55:29 GMT\r\n * Dependencies: react\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Andrey Balokha <https://github.com/andrewBalekha>, Giedrius Grabauskas <https://github.com/GiedriusGrabauskas>, Andrew Makarov <https://github.com/r3nya>."
+}

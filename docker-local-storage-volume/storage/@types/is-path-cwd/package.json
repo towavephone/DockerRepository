@@ -1,0 +1,135 @@
+{
+	"name": "@types/is-path-cwd",
+	"versions": {
+		"1.0.1": {
+			"name": "@types/is-path-cwd",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for is-path-cwd",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Daniel Rosenwasser",
+					"url": "https://github.com/DanielRosenwasser"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f564a7ddc0c4610ee148a0bcd712149baa2e714d0c54eeda8bc616c0982845a7",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/is-path-cwd@1.0.1",
+			"dist": {
+				"shasum": "801901a40d2ceb3c7fa09484c88e02d2df63ebc2",
+				"size": 809,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-path-cwd/download/@types/is-path-cwd-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-path-cwd-1.0.1.tgz_1490983601562_0.5226686266250908"
+			},
+			"directories": {},
+			"publish_time": 1490983601805,
+			"_cnpm_publish_time": 1490983601805,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "@types/is-path-cwd",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for is-path-cwd",
+			"license": "MIT",
+			"author": "Daniel Rosenwasser <https://github.com/DanielRosenwasser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "605b06a3f2d30723f476feffd84a47856a2dc55682a92f5ea8f379a73ce844bb",
+			"_id": "@types/is-path-cwd@1.0.0",
+			"dist": {
+				"shasum": "5ee63c5279a9d91238660f6190eefe6af075a7c8",
+				"size": 960,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-path-cwd/download/@types/is-path-cwd-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-path-cwd-1.0.0.tgz_1481208908829_0.39018608746118844"
+			},
+			"directories": {},
+			"publish_time": 1481208909053,
+			"_cnpm_publish_time": 1481208909053,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.1",
+		"ts2.0": "1.0.1",
+		"ts2.1": "1.0.1",
+		"ts2.2": "1.0.1",
+		"ts2.3": "1.0.1",
+		"ts2.4": "1.0.1",
+		"ts2.5": "1.0.1",
+		"ts2.6": "1.0.1",
+		"ts2.7": "1.0.1",
+		"ts2.8": "1.0.1",
+		"ts2.9": "1.0.1",
+		"ts3.0": "1.0.1",
+		"ts3.1": "1.0.1",
+		"ts3.2": "1.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:01.000Z",
+		"created": "2016-12-08T14:55:09.053Z",
+		"1.0.1": "2017-03-31T18:06:41.805Z",
+		"1.0.0": "2016-12-08T14:55:09.053Z"
+	},
+	"_distfiles": {
+		"is-path-cwd-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-path-cwd/download/@types/is-path-cwd-1.0.1.tgz",
+			"sha": "801901a40d2ceb3c7fa09484c88e02d2df63ebc2",
+			"registry": "cnpmjs"
+		},
+		"is-path-cwd-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-path-cwd/download/@types/is-path-cwd-1.0.0.tgz",
+			"sha": "5ee63c5279a9d91238660f6190eefe6af075a7c8",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833457473
+		}
+	},
+	"_rev": "2-a62322c6a174eb92",
+	"readme": "# Installation\r\n> `npm install --save @types/is-path-cwd`\r\n\r\n# Summary\r\nThis package contains type definitions for is-path-cwd (https://github.com/sindresorhus/is-path-cwd).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/is-path-cwd\r\n\r\nAdditional Details\r\n * Last updated: Fri, 31 Mar 2017 18:05:13 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Daniel Rosenwasser <https://github.com/DanielRosenwasser>."
+}

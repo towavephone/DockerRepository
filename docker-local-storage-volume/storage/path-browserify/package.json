@@ -1,0 +1,85 @@
+{
+	"name": "path-browserify",
+	"versions": {
+		"0.0.0": {
+			"name": "path-browserify",
+			"version": "0.0.0",
+			"description": "the path module from node core for browsers",
+			"main": "index.js",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~1.0.4"
+			},
+			"scripts": {
+				"test": "tape test/*.js"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/substack/path-browserify.git"
+			},
+			"homepage": "https://github.com/substack/path-browserify",
+			"keywords": [
+				"path",
+				"browser",
+				"browserify"
+			],
+			"author": {
+				"name": "James Halliday",
+				"email": "mail@substack.net",
+				"url": "http://substack.net"
+			},
+			"license": "MIT",
+			"readmeFilename": "readme.markdown",
+			"bugs": {
+				"url": "https://github.com/substack/path-browserify/issues"
+			},
+			"_id": "path-browserify@0.0.0",
+			"dist": {
+				"shasum": "a0b870729aae214005b7d5032ec2cbbb0fb4451a",
+				"size": 3059,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/path-browserify/download/path-browserify-0.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.14",
+			"_npmUser": {
+				"name": "substack",
+				"email": "mail@substack.net"
+			},
+			"maintainers": [
+				{
+					"name": "substack",
+					"email": "substack@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386100117866,
+			"_cnpm_publish_time": 1386100117866,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.0"
+	},
+	"time": {
+		"modified": "2017-03-29T15:03:26.000Z",
+		"created": "2013-12-03T19:48:37.866Z",
+		"0.0.0": "2013-12-03T19:48:37.866Z"
+	},
+	"_distfiles": {
+		"path-browserify-0.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/path-browserify/download/path-browserify-0.0.0.tgz",
+			"sha": "a0b870729aae214005b7d5032ec2cbbb0fb4451a",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"7c5-v+0qNrjOdYEk7HdOsNXz+2bZL6Y\"",
+			"fetched": 1527747732375
+		}
+	},
+	"_rev": "12-046b3c790b29d023",
+	"readme": "# path-browserify\n\nthe path module from node core for browsers"
+}

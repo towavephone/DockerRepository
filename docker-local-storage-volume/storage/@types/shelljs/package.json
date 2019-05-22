@@ -1,0 +1,1590 @@
+{
+	"name": "@types/shelljs",
+	"versions": {
+		"0.8.0": {
+			"name": "@types/shelljs",
+			"version": "0.8.0",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee",
+					"githubUsername": "nikeee"
+				},
+				{
+					"name": "Vojtech Jasny",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				},
+				{
+					"name": "George Kalpakas",
+					"url": "https://github.com/gkalpak",
+					"githubUsername": "gkalpak"
+				},
+				{
+					"name": "Paul Huynh",
+					"url": "https://github.com/pheromonez",
+					"githubUsername": "pheromonez"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "2006ba3fa9f24623001952e1f531cdc22f0764d0daf20c89944b6358866a5ab8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.8.0",
+			"dist": {
+				"shasum": "0caa56b68baae4f68f44e0dd666ab30b098e3632",
+				"size": 6298,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.8.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/shelljs_0.8.0_1527020951651_0.9785976652054547"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527020951714,
+			"_cnpm_publish_time": 1527020951714
+		},
+		"0.7.9": {
+			"name": "@types/shelljs",
+			"version": "0.7.9",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee",
+					"githubUsername": "nikeee"
+				},
+				{
+					"name": "Vojtech Jasny",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				},
+				{
+					"name": "George Kalpakas",
+					"url": "https://github.com/gkalpak",
+					"githubUsername": "gkalpak"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "8e4f7761a447548df6319e87d5483c761b22a4f47b716701a1df53967b4f8107",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.7.9",
+			"dist": {
+				"shasum": "3abecb72d9cad9cd4b0e7cb86ed10a97d93ba602",
+				"size": 5517,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/shelljs_0.7.9_1525105291129_0.595436899414701"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525105291220,
+			"_cnpm_publish_time": 1525105291220
+		},
+		"0.7.8": {
+			"name": "@types/shelljs",
+			"version": "0.7.8",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee",
+					"githubUsername": "nikeee"
+				},
+				{
+					"name": "Vojtech Jasny",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "f47e155f74f1154a43e563354099184bf90b032de4b8d95a35a4513760c6b445",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.7.8",
+			"dist": {
+				"shasum": "4b4d6ee7926e58d7bca448a50ba442fd9f6715bd",
+				"size": 5355,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/shelljs-0.7.8.tgz_1517511632548_0.13404405559413135"
+			},
+			"directories": {},
+			"publish_time": 1517511632615,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1517511632615
+		},
+		"0.7.7": {
+			"name": "@types/shelljs",
+			"version": "0.7.7",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee",
+					"githubUsername": "nikeee"
+				},
+				{
+					"name": "Vojtech Jasny",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "9d901f0865d880b802b6755290e08ab81051297e9f166e6d6b5047c48e91c5e0",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.7.7",
+			"dist": {
+				"shasum": "1f7bfa28947661afea06365db9b1135bbc903ec4",
+				"size": 5319,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/shelljs-0.7.7.tgz_1513019842293_0.2540519395843148"
+			},
+			"directories": {},
+			"publish_time": 1513019842355,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513019842355
+		},
+		"0.7.6": {
+			"name": "@types/shelljs",
+			"version": "0.7.6",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee",
+					"githubUsername": "nikeee"
+				},
+				{
+					"name": "Vojtech Jasny",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "e352f7f7baca83305b4518f14f4064e16a4d8eeb79a1e14f7d178f79ee2be689",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.7.6",
+			"dist": {
+				"shasum": "4ac7ca01c191ba65b8e2bf50543c5560084d8d27",
+				"size": 5239,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/shelljs-0.7.6.tgz_1510535740817_0.9052969836629927"
+			},
+			"directories": {},
+			"publish_time": 1510535740876,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510535740876
+		},
+		"0.7.5": {
+			"name": "@types/shelljs",
+			"version": "0.7.5",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee",
+					"githubUsername": "nikeee"
+				},
+				{
+					"name": "Vojtech Jasny",
+					"url": "https://github.com/voy",
+					"githubUsername": "voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "a4d55e8f598a8106a4487edbd2ee9f2fd52546064f0d7d6a1c60e7954c2397e8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.7.5",
+			"dist": {
+				"shasum": "5834fb7385d1137bd2be5842f2c278ac36a117f4",
+				"size": 5316,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/shelljs-0.7.5.tgz_1508948709210_0.01575563265942037"
+			},
+			"directories": {},
+			"publish_time": 1508948709271,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508948709271
+		},
+		"0.7.4": {
+			"name": "@types/shelljs",
+			"version": "0.7.4",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee"
+				},
+				{
+					"name": "Vojtech Jasny",
+					"url": "https://github.com/voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6052e869eb634ed11bad45adf045ab4e0f385519e1e4c2b8ad7d0f82cdc2ee3e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.7.4",
+			"dist": {
+				"shasum": "137b5f31306eaff4de120ffe5b9d74b297809cfc",
+				"size": 5486,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/shelljs-0.7.4.tgz_1501768817946_0.11277666967362165"
+			},
+			"directories": {},
+			"publish_time": 1501768818014,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501768818014
+		},
+		"0.7.3": {
+			"name": "@types/shelljs",
+			"version": "0.7.3",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee"
+				},
+				{
+					"name": "Vojtech Jasny",
+					"url": "https://github.com/voy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f4e5b10b6bd528845d052417f49f594deced1f06817c68877a3b0f2a0258567a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.7.3",
+			"dist": {
+				"shasum": "dcf22ae660405fd50437f09b5af7fd838493aec7",
+				"size": 5480,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/shelljs-0.7.3.tgz_1501681723728_0.2911603201646358"
+			},
+			"directories": {},
+			"publish_time": 1501681724611,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501681724611
+		},
+		"0.7.2": {
+			"name": "@types/shelljs",
+			"version": "0.7.2",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "74bc68e151baef672b3e7c89b51acf79d3bc3bd93e35b9ef9fc22a779c7ee7b3",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.7.2",
+			"dist": {
+				"shasum": "c2bdb3fe80cd7a3da08750ca898ae44c589671f3",
+				"size": 5307,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/shelljs-0.7.2.tgz_1496411157804_0.09903514944016933"
+			},
+			"directories": {},
+			"publish_time": 1496411157890,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496411157890
+		},
+		"0.7.1": {
+			"name": "@types/shelljs",
+			"version": "0.7.1",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2280a0712b9ef70bfd32d334c872b5eca114481fd48ea9ee61d78faa8f722f63",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.7.1",
+			"dist": {
+				"shasum": "30fe144e3bdd37c11c174445bc54190cb7992a45",
+				"size": 5306,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.7.1.tgz_1493345512167_0.6573448283597827"
+			},
+			"directories": {},
+			"publish_time": 1493345513979,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493345513979
+		},
+		"0.7.0": {
+			"name": "@types/shelljs",
+			"version": "0.7.0",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Niklas Mollenhauer",
+					"url": "https://github.com/nikeee"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "40f3136e3cd68726a9725b2cbc0ea4b1022db542a0d39ceb1dd3c882f166c664",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.7.0",
+			"dist": {
+				"shasum": "229c157c6bc1e67d6b990e6c5e18dbd2ff58cff0",
+				"size": 4824,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.7.0.tgz_1487208464322_0.05481313681229949"
+			},
+			"directories": {},
+			"publish_time": 1487208466235,
+			"_cnpm_publish_time": 1487208466235,
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "@types/shelljs",
+			"version": "0.6.0",
+			"description": "TypeScript definitions for ShellJS",
+			"license": "MIT",
+			"author": "Niklas Mollenhauer <https://github.com/nikeee>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "04fa954df0741231107b64dbc287263423d0dcb4ed0f936c1ac5d3b1c0efc33d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/shelljs@0.6.0",
+			"dist": {
+				"shasum": "090b705c102ce7fc5c0c5ea9b524418ff15840df",
+				"size": 4770,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.6.0.tgz_1485039424772_0.11848529591225088"
+			},
+			"directories": {},
+			"publish_time": 1485039426616,
+			"_cnpm_publish_time": 1485039426616,
+			"_hasShrinkwrap": false
+		},
+		"0.3.33": {
+			"name": "@types/shelljs",
+			"version": "0.3.33",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"license": "MIT",
+			"author": "Niklas Mollenhauer <https://github.com/nikeee>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "f351afcc9f0f168d8ddcb6e2eb751ea0036936113deed0393c6c91cab4bcd40c",
+			"_id": "@types/shelljs@0.3.33",
+			"dist": {
+				"shasum": "df613bddb88225ed09ce5c835f620dcaaf155e6b",
+				"size": 4790,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.33.tgz_1479848483080_0.9383785787504166"
+			},
+			"directories": {},
+			"publish_time": 1479848483297,
+			"_cnpm_publish_time": 1479848483297,
+			"_hasShrinkwrap": false
+		},
+		"0.3.32": {
+			"name": "@types/shelljs",
+			"version": "0.3.32",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"license": "MIT",
+			"author": "Niklas Mollenhauer <https://github.com/nikeee>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "6f2fa447fe182c1b20c83f60a4c352797978b6d32139b2b005fbe4c5bdc79fc4",
+			"_id": "@types/shelljs@0.3.32",
+			"dist": {
+				"shasum": "9e4e151c46c4299688115d5c313c90fc980c2425",
+				"size": 4796,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.32.tgz_1475701385198_0.31012910534627736"
+			},
+			"directories": {},
+			"publish_time": 1475701388419,
+			"_cnpm_publish_time": 1475701388419,
+			"_hasShrinkwrap": false
+		},
+		"0.3.31": {
+			"name": "@types/shelljs",
+			"version": "0.3.31",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"license": "MIT",
+			"author": "Niklas Mollenhauer <https://github.com/nikeee>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "cdaa053e93624ce4d968f28dab2dcd831c4ef4f95499619a7d57177f24eb67e7",
+			"_id": "@types/shelljs@0.3.31",
+			"dist": {
+				"shasum": "36f96e49678b9f61d4717a6749b197074fbdce7b",
+				"size": 4588,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.31.tgz_1474308667523_0.44375971471890807"
+			},
+			"directories": {},
+			"publish_time": 1474308667766,
+			"_cnpm_publish_time": 1474308667766,
+			"_hasShrinkwrap": false
+		},
+		"0.3.30": {
+			"name": "@types/shelljs",
+			"version": "0.3.30",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"license": "MIT",
+			"author": "Niklas Mollenhauer <https://github.com/nikeee>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/shelljs@0.3.30",
+			"dist": {
+				"shasum": "34811bc253b64bf09cf54027440e58b9b3cb2c34",
+				"size": 4599,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.30.tgz_1472151555947_0.7349389784503728"
+			},
+			"directories": {},
+			"publish_time": 1472151557576,
+			"_cnpm_publish_time": 1472151557576,
+			"_hasShrinkwrap": false
+		},
+		"0.3.29": {
+			"name": "@types/shelljs",
+			"version": "0.3.29",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"license": "MIT",
+			"author": "Niklas Mollenhauer <https://github.com/nikeee>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/shelljs@0.3.29",
+			"dist": {
+				"shasum": "dd74da5c84fb8b52c4a5ff9dd12d224dcb7efff8",
+				"size": 4597,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.29.tgz_1471621325646_0.44093659124337137"
+			},
+			"directories": {},
+			"publish_time": 1471621327375,
+			"_cnpm_publish_time": 1471621327375,
+			"_hasShrinkwrap": false
+		},
+		"0.3.28": {
+			"name": "@types/shelljs",
+			"version": "0.3.28",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"license": "MIT",
+			"author": "Niklas Mollenhauer <https://github.com/nikeee>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/shelljs@0.3.28",
+			"dist": {
+				"shasum": "4cb2173fa477244f9a1f88d04403c8d9d3e76a1a",
+				"size": 33280,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.28.tgz_1470154248977_0.22940662712790072"
+			},
+			"directories": {},
+			"publish_time": 1470154250967,
+			"_cnpm_publish_time": 1470154250967,
+			"_hasShrinkwrap": false
+		},
+		"0.3.27": {
+			"name": "@types/shelljs",
+			"version": "0.3.27",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Niklas Mollenhauer",
+				"email": "https://github.com/nikeee"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/shelljs@0.3.27",
+			"_shasum": "63647f620380d4421c99c70aac88f901dec7fa6a",
+			"_from": "output\\shelljs",
+			"_resolved": "file:output\\shelljs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "63647f620380d4421c99c70aac88f901dec7fa6a",
+				"size": 4587,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.27.tgz_1468512149063_0.6666529013309628"
+			},
+			"directories": {},
+			"publish_time": 1468512151770,
+			"_cnpm_publish_time": 1468512151770,
+			"_hasShrinkwrap": false
+		},
+		"0.3.26-alpha": {
+			"name": "@types/shelljs",
+			"version": "0.3.26-alpha",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Niklas Mollenhauer",
+				"email": "https://github.com/nikeee"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/shelljs@0.3.26-alpha",
+			"_shasum": "6049c4aac3a32b1d131079e0c4b014f302c7beb6",
+			"_from": "output\\shelljs",
+			"_resolved": "file:output\\shelljs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6049c4aac3a32b1d131079e0c4b014f302c7beb6",
+				"size": 4588,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.26-alpha.tgz_1468013214153_0.09702574531547725"
+			},
+			"directories": {},
+			"publish_time": 1468013215538,
+			"_cnpm_publish_time": 1468013215538,
+			"_hasShrinkwrap": false
+		},
+		"0.3.25-alpha": {
+			"name": "@types/shelljs",
+			"version": "0.3.25-alpha",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Niklas Mollenhauer",
+				"email": "https://github.com/nikeee"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/shelljs@0.3.25-alpha",
+			"_shasum": "4f20a33ab9a86b88f733970008326a86c8b25024",
+			"_from": "output\\shelljs",
+			"_resolved": "file:output\\shelljs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4f20a33ab9a86b88f733970008326a86c8b25024",
+				"size": 4591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.25-alpha.tgz_1467595186794_0.06590483477339149"
+			},
+			"directories": {},
+			"publish_time": 1467595187359,
+			"_cnpm_publish_time": 1467595187359,
+			"_hasShrinkwrap": false
+		},
+		"0.3.24-alpha": {
+			"name": "@types/shelljs",
+			"version": "0.3.24-alpha",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Niklas Mollenhauer",
+				"email": "https://github.com/nikeee"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.25-alpha"
+			},
+			"_id": "@types/shelljs@0.3.24-alpha",
+			"_shasum": "961a05026b84dc082982df938be894b6308b6a03",
+			"_from": "output\\shelljs",
+			"_resolved": "file:output\\shelljs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "961a05026b84dc082982df938be894b6308b6a03",
+				"size": 4591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.24-alpha.tgz_1467429785041_0.9247847844380885"
+			},
+			"directories": {},
+			"publish_time": 1467429785551,
+			"_cnpm_publish_time": 1467429785551,
+			"_hasShrinkwrap": false
+		},
+		"0.3.23-alpha": {
+			"name": "@types/shelljs",
+			"version": "0.3.23-alpha",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Niklas Mollenhauer",
+				"email": "https://github.com/nikeee"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/shelljs@0.3.23-alpha",
+			"_shasum": "7bc3a9117cbe1b184143468c05dcd6bfdfc80532",
+			"_from": "output\\shelljs",
+			"_resolved": "file:output\\shelljs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7bc3a9117cbe1b184143468c05dcd6bfdfc80532",
+				"size": 4590,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.23-alpha.tgz_1467417318386_0.2129570310935378"
+			},
+			"directories": {},
+			"publish_time": 1467417321810,
+			"_cnpm_publish_time": 1467417321810,
+			"_hasShrinkwrap": false
+		},
+		"0.3.22-alpha": {
+			"name": "@types/shelljs",
+			"version": "0.3.22-alpha",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Niklas Mollenhauer",
+				"email": "https://github.com/nikeee"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/shelljs@0.3.22-alpha",
+			"_shasum": "44de2bfa118026409d0130b05c51cf5739c92d4f",
+			"_from": "output\\shelljs",
+			"_resolved": "file:output\\shelljs",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "44de2bfa118026409d0130b05c51cf5739c92d4f",
+				"size": 4570,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.22-alpha.tgz_1467405059998_0.1316853321623057"
+			},
+			"directories": {},
+			"publish_time": 1467405062099,
+			"_cnpm_publish_time": 1467405062099,
+			"_hasShrinkwrap": false
+		},
+		"0.3.21-alpha": {
+			"name": "@types/shelljs",
+			"version": "0.3.21-alpha",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Niklas Mollenhauer",
+				"email": "https://github.com/nikeee"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/shelljs@0.3.21-alpha",
+			"_shasum": "9d7fe3b20f1835aaa8c351d49791d50ecf6595ed",
+			"_from": "output\\shelljs",
+			"_resolved": "file:output\\shelljs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9d7fe3b20f1835aaa8c351d49791d50ecf6595ed",
+				"size": 4558,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.21-alpha.tgz_1464155747363_0.9761702839750797"
+			},
+			"directories": {},
+			"publish_time": 1464155747847,
+			"_cnpm_publish_time": 1464155747847,
+			"_hasShrinkwrap": false
+		},
+		"0.3.20-alpha": {
+			"name": "@types/shelljs",
+			"version": "0.3.20-alpha",
+			"description": "TypeScript definitions for ShellJS v0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Niklas Mollenhauer",
+				"email": "https://github.com/nikeee"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/shelljs@0.3.20-alpha",
+			"_shasum": "4b150370095b593b342bdcf0c65593f4f64fe399",
+			"_from": "output\\shelljs",
+			"_resolved": "file:output\\shelljs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4b150370095b593b342bdcf0c65593f4f64fe399",
+				"size": 4557,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.20-alpha.tgz_1463776814429_0.7054709084331989"
+			},
+			"directories": {},
+			"publish_time": 1463776816458,
+			"_cnpm_publish_time": 1463776816458,
+			"_hasShrinkwrap": false
+		},
+		"0.3.15-alpha": {
+			"name": "@types/shelljs",
+			"version": "0.3.15-alpha",
+			"description": "Type definitions for ShellJS v0.3.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Niklas Mollenhauer",
+				"email": "https://github.com/nikeee"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"child_process\"": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/shelljs@0.3.15-alpha",
+			"_shasum": "0380888254304784f1479b255210e7176b354ac9",
+			"_from": "output\\shelljs",
+			"_resolved": "file:output\\shelljs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0380888254304784f1479b255210e7176b354ac9",
+				"size": 4585,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.15-alpha.tgz_1463696514675_0.562283989507705"
+			},
+			"directories": {},
+			"publish_time": 1463696519535,
+			"_cnpm_publish_time": 1463696519535,
+			"_hasShrinkwrap": false
+		},
+		"0.3.14-alpha": {
+			"name": "@types/shelljs",
+			"version": "0.3.14-alpha",
+			"description": "Type definitions for ShellJS v0.3.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Niklas Mollenhauer",
+				"email": "https://github.com/nikeee"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"child_process\"": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/shelljs@0.3.14-alpha",
+			"_shasum": "7f96f9466ba5eb95f5b0b2f7a64549560ffa5d71",
+			"_from": "output\\shelljs",
+			"_resolved": "file:output\\shelljs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7f96f9466ba5eb95f5b0b2f7a64549560ffa5d71",
+				"size": 4560,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/shelljs-0.3.14-alpha.tgz_1463511303879_0.191883112071082"
+			},
+			"directories": {},
+			"publish_time": 1463511304442,
+			"_cnpm_publish_time": 1463511304442,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.8.0",
+		"ts2.0": "0.8.0",
+		"ts2.1": "0.8.0",
+		"ts2.2": "0.8.0",
+		"ts2.3": "0.8.0",
+		"ts2.4": "0.8.0",
+		"ts2.5": "0.8.0",
+		"ts2.6": "0.8.0",
+		"ts2.7": "0.8.0",
+		"ts2.8": "0.8.0",
+		"ts2.9": "0.8.0",
+		"ts3.0": "0.8.0",
+		"ts3.1": "0.8.0",
+		"ts3.2": "0.8.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:28:26.000Z",
+		"created": "2016-05-17T18:55:04.442Z",
+		"0.8.0": "2018-05-22T20:29:11.714Z",
+		"0.7.9": "2018-04-30T16:21:31.220Z",
+		"0.7.8": "2018-02-01T19:00:32.615Z",
+		"0.7.7": "2017-12-11T19:17:22.355Z",
+		"0.7.6": "2017-11-13T01:15:40.876Z",
+		"0.7.5": "2017-10-25T16:25:09.271Z",
+		"0.7.4": "2017-08-03T14:00:18.014Z",
+		"0.7.3": "2017-08-02T13:48:44.611Z",
+		"0.7.2": "2017-06-02T13:45:57.890Z",
+		"0.7.1": "2017-04-28T02:11:53.979Z",
+		"0.7.0": "2017-02-16T01:27:46.235Z",
+		"0.6.0": "2017-01-21T22:57:06.616Z",
+		"0.3.33": "2016-11-22T21:01:23.297Z",
+		"0.3.32": "2016-10-05T21:03:08.419Z",
+		"0.3.31": "2016-09-19T18:11:07.766Z",
+		"0.3.30": "2016-08-25T18:59:17.576Z",
+		"0.3.29": "2016-08-19T15:42:07.375Z",
+		"0.3.28": "2016-08-02T16:10:50.967Z",
+		"0.3.27": "2016-07-14T16:02:31.770Z",
+		"0.3.26-alpha": "2016-07-08T21:26:55.538Z",
+		"0.3.25-alpha": "2016-07-04T01:19:47.359Z",
+		"0.3.24-alpha": "2016-07-02T03:23:05.551Z",
+		"0.3.23-alpha": "2016-07-01T23:55:21.810Z",
+		"0.3.22-alpha": "2016-07-01T20:31:02.099Z",
+		"0.3.21-alpha": "2016-05-25T05:55:47.847Z",
+		"0.3.20-alpha": "2016-05-20T20:40:16.458Z",
+		"0.3.15-alpha": "2016-05-19T22:21:59.535Z",
+		"0.3.14-alpha": "2016-05-17T18:55:04.442Z"
+	},
+	"_distfiles": {
+		"shelljs-0.8.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.8.0.tgz",
+			"sha": "0caa56b68baae4f68f44e0dd666ab30b098e3632",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.7.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.9.tgz",
+			"sha": "3abecb72d9cad9cd4b0e7cb86ed10a97d93ba602",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.7.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.8.tgz",
+			"sha": "4b4d6ee7926e58d7bca448a50ba442fd9f6715bd",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.7.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.7.tgz",
+			"sha": "1f7bfa28947661afea06365db9b1135bbc903ec4",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.7.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.6.tgz",
+			"sha": "4ac7ca01c191ba65b8e2bf50543c5560084d8d27",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.7.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.5.tgz",
+			"sha": "5834fb7385d1137bd2be5842f2c278ac36a117f4",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.7.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.4.tgz",
+			"sha": "137b5f31306eaff4de120ffe5b9d74b297809cfc",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.7.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.3.tgz",
+			"sha": "dcf22ae660405fd50437f09b5af7fd838493aec7",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.7.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.2.tgz",
+			"sha": "c2bdb3fe80cd7a3da08750ca898ae44c589671f3",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.7.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.1.tgz",
+			"sha": "30fe144e3bdd37c11c174445bc54190cb7992a45",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.7.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.7.0.tgz",
+			"sha": "229c157c6bc1e67d6b990e6c5e18dbd2ff58cff0",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.6.0.tgz",
+			"sha": "090b705c102ce7fc5c0c5ea9b524418ff15840df",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.33.tgz",
+			"sha": "df613bddb88225ed09ce5c835f620dcaaf155e6b",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.32.tgz",
+			"sha": "9e4e151c46c4299688115d5c313c90fc980c2425",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.31.tgz",
+			"sha": "36f96e49678b9f61d4717a6749b197074fbdce7b",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.30.tgz",
+			"sha": "34811bc253b64bf09cf54027440e58b9b3cb2c34",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.29.tgz",
+			"sha": "dd74da5c84fb8b52c4a5ff9dd12d224dcb7efff8",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.28.tgz",
+			"sha": "4cb2173fa477244f9a1f88d04403c8d9d3e76a1a",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.27.tgz",
+			"sha": "63647f620380d4421c99c70aac88f901dec7fa6a",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.26-alpha.tgz",
+			"sha": "6049c4aac3a32b1d131079e0c4b014f302c7beb6",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.25-alpha.tgz",
+			"sha": "4f20a33ab9a86b88f733970008326a86c8b25024",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.24-alpha.tgz",
+			"sha": "961a05026b84dc082982df938be894b6308b6a03",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.23-alpha.tgz",
+			"sha": "7bc3a9117cbe1b184143468c05dcd6bfdfc80532",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.22-alpha.tgz",
+			"sha": "44de2bfa118026409d0130b05c51cf5739c92d4f",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.21-alpha.tgz",
+			"sha": "9d7fe3b20f1835aaa8c351d49791d50ecf6595ed",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.20-alpha.tgz",
+			"sha": "4b150370095b593b342bdcf0c65593f4f64fe399",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.15-alpha.tgz",
+			"sha": "0380888254304784f1479b255210e7176b354ac9",
+			"registry": "cnpmjs"
+		},
+		"shelljs-0.3.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/shelljs/download/@types/shelljs-0.3.14-alpha.tgz",
+			"sha": "7f96f9466ba5eb95f5b0b2f7a64549560ffa5d71",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"8434-9/jLgN+om8YIC4ALGk9zwle4e6o\"",
+			"fetched": 1541833279441
+		}
+	},
+	"_rev": "2-da03218e75f4ee73",
+	"readme": "# Installation\r\n> `npm install --save @types/shelljs`\r\n\r\n# Summary\r\nThis package contains type definitions for ShellJS (http://shelljs.org).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped.git/tree/master/types/shelljs\r\n\r\nAdditional Details\r\n * Last updated: Tue, 22 May 2018 20:27:27 GMT\r\n * Dependencies: child_process, glob, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Niklas Mollenhauer <https://github.com/nikeee>, Vojtech Jasny <https://github.com/voy>, George Kalpakas <https://github.com/gkalpak>, Paul Huynh <https://github.com/pheromonez>."
+}

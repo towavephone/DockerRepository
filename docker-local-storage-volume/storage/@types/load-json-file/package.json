@@ -1,0 +1,375 @@
+{
+	"name": "@types/load-json-file",
+	"versions": {
+		"2.0.7": {
+			"name": "@types/load-json-file",
+			"version": "2.0.7",
+			"description": "TypeScript definitions for load-json-file",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/SamVerschueren",
+					"githubUsername": "SamVerschueren"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "f43e7f89e7f641bfafea3026ebca929bf15373ecedf3a6ce4e36670986b48f2d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/load-json-file@2.0.7",
+			"dist": {
+				"shasum": "c887826f5230b7507d5230994d26315c6776be06",
+				"size": 1575,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/load-json-file-2.0.7.tgz_1508893577276_0.43788714380934834"
+			},
+			"directories": {},
+			"publish_time": 1508893577400,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508893577400
+		},
+		"2.0.6": {
+			"name": "@types/load-json-file",
+			"version": "2.0.6",
+			"description": "TypeScript definitions for load-json-file",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/SamVerschueren"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "188a0ccb84143d1097782308fc2117304453673ba1d8af83a1bb4faef179df8d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/load-json-file@2.0.6",
+			"dist": {
+				"shasum": "fec15b124eb9e4c758b2d34b07e7b49ad3d4bbde",
+				"size": 1585,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/load-json-file-2.0.6.tgz_1502736273727_0.01838506478816271"
+			},
+			"directories": {},
+			"publish_time": 1502736273788,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502736273788
+		},
+		"2.0.5": {
+			"name": "@types/load-json-file",
+			"version": "2.0.5",
+			"description": "TypeScript definitions for load-json-file v2.0.0",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/SamVerschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "5e0a4eadd52a4b1470e98394a8305027d6744ea26466a28b1eee80bc47d700f2",
+			"_id": "@types/load-json-file@2.0.5",
+			"dist": {
+				"shasum": "5aded9bda57cb8b31b6af6c2c927aba395893df6",
+				"size": 1103,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/load-json-file-2.0.5.tgz_1475701137449_0.20933834929019213"
+			},
+			"directories": {},
+			"publish_time": 1475701140912,
+			"_cnpm_publish_time": 1475701140912,
+			"_hasShrinkwrap": false
+		},
+		"2.0.4": {
+			"name": "@types/load-json-file",
+			"version": "2.0.4",
+			"description": "TypeScript definitions for load-json-file v2.0.0",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/SamVerschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "load-json-file.d.ts",
+			"typesPublisherContentHash": "6effd7b474579733620e06e6ac5d05b27fe4eb4665cdaef48dab9aba1804979c",
+			"_id": "@types/load-json-file@2.0.4",
+			"dist": {
+				"shasum": "68ddc939cc806e7fe232c3cbf5039d59c19c2eb3",
+				"size": 1100,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/load-json-file-2.0.4.tgz_1474307351464_0.5155976295936853"
+			},
+			"directories": {},
+			"publish_time": 1474307354671,
+			"_cnpm_publish_time": 1474307354671,
+			"_hasShrinkwrap": false
+		},
+		"2.0.3": {
+			"name": "@types/load-json-file",
+			"version": "2.0.3",
+			"description": "TypeScript definitions for load-json-file v2.0.0",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/SamVerschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "load-json-file.d.ts",
+			"_id": "@types/load-json-file@2.0.3",
+			"dist": {
+				"shasum": "cf67d5dabe68a574654b0482a9ac853200b3907d",
+				"size": 1087,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/load-json-file-2.0.3.tgz_1472150909864_0.26263885549269617"
+			},
+			"directories": {},
+			"publish_time": 1472150910453,
+			"_cnpm_publish_time": 1472150910453,
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "@types/load-json-file",
+			"version": "2.0.2",
+			"description": "TypeScript definitions for load-json-file v2.0.0",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/SamVerschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "load-json-file.d.ts",
+			"_id": "@types/load-json-file@2.0.2",
+			"dist": {
+				"shasum": "a3ede1b01461adfd4608d37b5f0dc24f5403ad28",
+				"size": 1087,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/load-json-file-2.0.2.tgz_1471620699861_0.9926238632760942"
+			},
+			"directories": {},
+			"publish_time": 1471620701632,
+			"_cnpm_publish_time": 1471620701632,
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "@types/load-json-file",
+			"version": "2.0.1",
+			"description": "TypeScript definitions for load-json-file v2.0.0",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/SamVerschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "load-json-file.d.ts",
+			"_id": "@types/load-json-file@2.0.1",
+			"dist": {
+				"shasum": "6696bb12cafcb46d1103240b2e161060f863ae60",
+				"size": 6656,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/load-json-file-2.0.1.tgz_1470153494135_0.3955597663298249"
+			},
+			"directories": {},
+			"publish_time": 1470153495119,
+			"_cnpm_publish_time": 1470153495119,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.7",
+		"ts2.0": "2.0.7",
+		"ts2.1": "2.0.7",
+		"ts2.2": "2.0.7",
+		"ts2.3": "2.0.7",
+		"ts2.4": "2.0.7",
+		"ts2.5": "2.0.7",
+		"ts2.6": "2.0.7",
+		"ts2.7": "2.0.7",
+		"ts2.8": "2.0.7",
+		"ts2.9": "2.0.7",
+		"ts3.0": "2.0.7",
+		"ts3.1": "2.0.7",
+		"ts3.2": "2.0.7"
+	},
+	"time": {
+		"modified": "2018-10-10T20:15:46.000Z",
+		"created": "2016-08-02T15:58:15.119Z",
+		"2.0.7": "2017-10-25T01:06:17.400Z",
+		"2.0.6": "2017-08-14T18:44:33.788Z",
+		"2.0.5": "2016-10-05T20:59:00.912Z",
+		"2.0.4": "2016-09-19T17:49:14.671Z",
+		"2.0.3": "2016-08-25T18:48:30.453Z",
+		"2.0.2": "2016-08-19T15:31:41.632Z",
+		"2.0.1": "2016-08-02T15:58:15.119Z"
+	},
+	"_distfiles": {
+		"load-json-file-2.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.7.tgz",
+			"sha": "c887826f5230b7507d5230994d26315c6776be06",
+			"registry": "cnpmjs"
+		},
+		"load-json-file-2.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.6.tgz",
+			"sha": "fec15b124eb9e4c758b2d34b07e7b49ad3d4bbde",
+			"registry": "cnpmjs"
+		},
+		"load-json-file-2.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.5.tgz",
+			"sha": "5aded9bda57cb8b31b6af6c2c927aba395893df6",
+			"registry": "cnpmjs"
+		},
+		"load-json-file-2.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.4.tgz",
+			"sha": "68ddc939cc806e7fe232c3cbf5039d59c19c2eb3",
+			"registry": "cnpmjs"
+		},
+		"load-json-file-2.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.3.tgz",
+			"sha": "cf67d5dabe68a574654b0482a9ac853200b3907d",
+			"registry": "cnpmjs"
+		},
+		"load-json-file-2.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.2.tgz",
+			"sha": "a3ede1b01461adfd4608d37b5f0dc24f5403ad28",
+			"registry": "cnpmjs"
+		},
+		"load-json-file-2.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/load-json-file/download/@types/load-json-file-2.0.1.tgz",
+			"sha": "6696bb12cafcb46d1103240b2e161060f863ae60",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"22af-vgeDI7JWM9B3tPFmap5Z0brfJRI\"",
+			"fetched": 1541833458091
+		}
+	},
+	"_rev": "2-e7b201701a47b6e6",
+	"readme": "# Installation\r\n> `npm install --save @types/load-json-file`\r\n\r\n# Summary\r\nThis package contains type definitions for load-json-file (https://github.com/sindresorhus/load-json-file).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/load-json-file\r\n\r\nAdditional Details\r\n * Last updated: Wed, 25 Oct 2017 01:03:56 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Sam Verschueren <https://github.com/SamVerschueren>."
+}

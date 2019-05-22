@@ -1,0 +1,91 @@
+{
+	"name": "@types/topojson-client",
+	"versions": {
+		"3.0.0": {
+			"name": "@types/topojson-client",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for topojson-client",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "denisname",
+					"url": "https://github.com/denisname",
+					"githubUsername": "denisname"
+				},
+				{
+					"name": "Ricardo Mello",
+					"url": "https://github.com/ricardo-mello",
+					"githubUsername": "ricardo-mello"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/geojson": "*",
+				"@types/topojson-specification": "*"
+			},
+			"typesPublisherContentHash": "63edf6178185ca1aa6a2dd9a5d44825852b7f591116fb1ea5b3f22074449fb78",
+			"typeScriptVersion": "2.5",
+			"_id": "@types/topojson-client@3.0.0",
+			"dist": {
+				"shasum": "2517fae5abbdd3052eb191747c7d0bc268d69918",
+				"size": 2000,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/topojson-client/download/@types/topojson-client-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/topojson-client_3.0.0_1523733879011_0.7178065411340213"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523733879110,
+			"_cnpm_publish_time": 1523733879110
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.0",
+		"ts2.5": "3.0.0",
+		"ts2.6": "3.0.0",
+		"ts2.7": "3.0.0",
+		"ts2.8": "3.0.0",
+		"ts2.9": "3.0.0",
+		"ts3.0": "3.0.0",
+		"ts3.1": "3.0.0",
+		"ts3.2": "3.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:29:31.000Z",
+		"created": "2018-04-14T19:24:39.110Z",
+		"3.0.0": "2018-04-14T19:24:39.110Z"
+	},
+	"_distfiles": {
+		"topojson-client-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/topojson-client/download/@types/topojson-client-3.0.0.tgz",
+			"sha": "2517fae5abbdd3052eb191747c7d0bc268d69918",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833489336
+		}
+	},
+	"_rev": "1-b055e0733c2c27ae",
+	"readme": "# Installation\r\n> `npm install --save @types/topojson-client`\r\n\r\n# Summary\r\nThis package contains type definitions for topojson-client (https://github.com/topojson/topojson-client).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/topojson-client\r\n\r\nAdditional Details\r\n * Last updated: Sat, 14 Apr 2018 19:22:35 GMT\r\n * Dependencies: geojson, topojson-specification\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by denisname <https://github.com/denisname>, Ricardo Mello <https://github.com/ricardo-mello>."
+}

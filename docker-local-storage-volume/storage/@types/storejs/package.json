@@ -1,0 +1,977 @@
+{
+	"name": "@types/storejs",
+	"versions": {
+		"2.0.2": {
+			"name": "@types/storejs",
+			"version": "2.0.2",
+			"description": "TypeScript definitions for store.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Vincent Bortone",
+					"url": "https://github.com/vbortone",
+					"githubUsername": "vbortone"
+				},
+				{
+					"name": "harry0000",
+					"url": "https://github.com/harry0000",
+					"githubUsername": "harry0000"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "da03e2b39b5308eeb8060e8487c5c9d2a26c4939ac49d8ecd010aaf26baa7d9c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/storejs@2.0.2",
+			"dist": {
+				"shasum": "e1f6ab3a7e933ee10dd0614eeb522ab95fae8046",
+				"size": 1898,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-2.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/storejs_2.0.2_1521238287449_0.8772381851550468"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521238287572,
+			"_cnpm_publish_time": 1521238287572
+		},
+		"2.0.1": {
+			"name": "@types/storejs",
+			"version": "2.0.1",
+			"description": "TypeScript definitions for store.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Vincent Bortone",
+					"url": "https://github.com/vbortone",
+					"githubUsername": "vbortone"
+				},
+				{
+					"name": "harry0000",
+					"url": "https://github.com/harry0000",
+					"githubUsername": "harry0000"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d24e3052c7f32a7320bce8ea3986e66e898be040822c171145dad8c603cdc10b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/storejs@2.0.1",
+			"dist": {
+				"shasum": "0e75fbdb88762c870e1a84ac3f4f98dcc271ddf9",
+				"size": 1817,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-2.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/storejs-2.0.1.tgz_1516903241069_0.2824726654216647"
+			},
+			"directories": {},
+			"publish_time": 1516903241265,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1516903241265
+		},
+		"2.0.0": {
+			"name": "@types/storejs",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for store.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Vincent Bortone",
+					"url": "https://github.com/vbortone",
+					"githubUsername": "vbortone"
+				},
+				{
+					"name": "harry0000",
+					"url": "https://github.com/harry0000",
+					"githubUsername": "harry0000"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "13299733c627c3df966be0615a07e3729baa6820e9c56f17cedef268df7699bc",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/storejs@2.0.0",
+			"dist": {
+				"shasum": "78d92b67924001dc96774bdf1c8340cf46e8b5db",
+				"size": 1812,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/storejs-2.0.0.tgz_1505769906470_0.6062898163218051"
+			},
+			"directories": {},
+			"publish_time": 1505769906611,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505769906611
+		},
+		"1.3.3": {
+			"name": "@types/storejs",
+			"version": "1.3.3",
+			"description": "TypeScript definitions for store.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Vincent Bortone",
+					"url": "https://github.com/vbortone/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b2811382ef599d837763274f7bbefb20ecbd60018e2da46317a102021e684382",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/storejs@1.3.3",
+			"dist": {
+				"shasum": "20b3471e042e371f55d2bf9da7bf8b89f19c371d",
+				"size": 1702,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-1.3.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/storejs-1.3.3.tgz_1505744242786_0.16522626020014286"
+			},
+			"directories": {},
+			"publish_time": 1505744243703,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505744243703
+		},
+		"1.3.2": {
+			"name": "@types/storejs",
+			"version": "1.3.2",
+			"description": "TypeScript definitions for store.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Vincent Bortone",
+					"url": "https://github.com/vbortone"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "5fcf17e4940c8b4dad44c861de279f2ac20691dc8edf1c93304964ae869ed46a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/storejs@1.3.2",
+			"dist": {
+				"shasum": "4fd7e6aef634197ab7c4e5b7e9b9a2491078a76e",
+				"size": 1684,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-1.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/storejs-1.3.2.tgz_1503353087608_0.5660621898714453"
+			},
+			"directories": {},
+			"publish_time": 1503353087731,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503353087731
+		},
+		"1.3.1": {
+			"name": "@types/storejs",
+			"version": "1.3.1",
+			"description": "TypeScript definitions for store.js",
+			"license": "MIT",
+			"author": "Vincent Bortone <https://github.com/vbortone/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "eb53e7e95597fe437620d3028a97776b49fcdbdaf1df6c9d75025b7638dbd598",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/storejs@1.3.1",
+			"dist": {
+				"shasum": "c190ce9f478c3241d9e316d4566a079ee5734f7f",
+				"size": 1186,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-1.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/storejs-1.3.1.tgz_1485294207003_0.11199781065806746"
+			},
+			"directories": {},
+			"publish_time": 1485294207226,
+			"_cnpm_publish_time": 1485294207226,
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "@types/storejs",
+			"version": "1.3.0",
+			"description": "TypeScript definitions for store.js",
+			"license": "MIT",
+			"author": "Vincent Bortone <https://github.com/vbortone/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2c9b8e13865921fad80b5e2301cd022a3b690d5ddf93a09424290f1b3d36f354",
+			"_id": "@types/storejs@1.3.0",
+			"dist": {
+				"shasum": "be7f359b5a9f6acdae8babdb773c34b980c18cd3",
+				"size": 1140,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-1.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/storejs-1.3.0.tgz_1481820755692_0.6975860844831914"
+			},
+			"directories": {},
+			"publish_time": 1481820755910,
+			"_cnpm_publish_time": 1481820755910,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/storejs",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for store.js",
+			"license": "MIT",
+			"author": "Vincent Bortone <https://github.com/vbortone/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "c467b3e236ead8262c32f6b3d249a6f18d0d2a4176a539cb4015b27a3a5c0f49",
+			"_id": "@types/storejs@0.0.27",
+			"dist": {
+				"shasum": "cb88d460658212944ad4aad0f53fcee830cb6680",
+				"size": 1153,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.27.tgz_1474308886242_0.8218891976866871"
+			},
+			"directories": {},
+			"publish_time": 1474308886472,
+			"_cnpm_publish_time": 1474308886472,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26": {
+			"name": "@types/storejs",
+			"version": "0.0.26",
+			"description": "TypeScript definitions for store.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Vincent Bortone",
+				"email": "https://github.com/vbortone/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/storejs@0.0.26",
+			"_shasum": "8e3ae11c3b87d651a837205ba87715ce09a6b649",
+			"_from": "output\\storejs",
+			"_resolved": "file:output\\storejs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8e3ae11c3b87d651a837205ba87715ce09a6b649",
+				"size": 1129,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.26.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.26.tgz_1468512459769_0.007579380180686712"
+			},
+			"directories": {},
+			"publish_time": 1468512462127,
+			"_cnpm_publish_time": 1468512462127,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/storejs",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for store.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Vincent Bortone",
+				"email": "https://github.com/vbortone/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/storejs@0.0.25-alpha",
+			"_shasum": "e61f41650e1096e5d9ed8f113118aa472eb88aee",
+			"_from": "output\\storejs",
+			"_resolved": "file:output\\storejs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e61f41650e1096e5d9ed8f113118aa472eb88aee",
+				"size": 1132,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.25-alpha.tgz_1468013912667_0.15268747066147625"
+			},
+			"directories": {},
+			"publish_time": 1468013915328,
+			"_cnpm_publish_time": 1468013915328,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/storejs",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for store.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Vincent Bortone",
+				"email": "https://github.com/vbortone/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/storejs@0.0.24-alpha",
+			"_shasum": "722a3df14ea0aa4e27d5fd1b5eb729fea159001a",
+			"_from": "output\\storejs",
+			"_resolved": "file:output\\storejs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "722a3df14ea0aa4e27d5fd1b5eb729fea159001a",
+				"size": 1137,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.24-alpha.tgz_1467595353933_0.1827384028583765"
+			},
+			"directories": {},
+			"publish_time": 1467595357459,
+			"_cnpm_publish_time": 1467595357459,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/storejs",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for store.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Vincent Bortone",
+				"email": "https://github.com/vbortone/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/storejs@0.0.23-alpha",
+			"_shasum": "a83305d737b7f069a7aa8b4d951d838886b91c27",
+			"_from": "output\\storejs",
+			"_resolved": "file:output\\storejs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a83305d737b7f069a7aa8b4d951d838886b91c27",
+				"size": 1135,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.23-alpha.tgz_1467430140803_0.22009498463012278"
+			},
+			"directories": {},
+			"publish_time": 1467430141379,
+			"_cnpm_publish_time": 1467430141379,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/storejs",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for store.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Vincent Bortone",
+				"email": "https://github.com/vbortone/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/storejs@0.0.22-alpha",
+			"_shasum": "d299b2038ddf764ae33c2f82da84b337192331fc",
+			"_from": "output\\storejs",
+			"_resolved": "file:output\\storejs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d299b2038ddf764ae33c2f82da84b337192331fc",
+				"size": 1135,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.22-alpha.tgz_1467417786020_0.5523007325828075"
+			},
+			"directories": {},
+			"publish_time": 1467417786638,
+			"_cnpm_publish_time": 1467417786638,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/storejs",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for store.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Vincent Bortone",
+				"email": "https://github.com/vbortone/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/storejs@0.0.21-alpha",
+			"_shasum": "70084dc67cf8dce47e0e21a935f7d93d65e232f0",
+			"_from": "output\\storejs",
+			"_resolved": "file:output\\storejs",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "70084dc67cf8dce47e0e21a935f7d93d65e232f0",
+				"size": 1130,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.21-alpha.tgz_1467405843469_0.5592752457596362"
+			},
+			"directories": {},
+			"publish_time": 1467405845852,
+			"_cnpm_publish_time": 1467405845852,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/storejs",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for store.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Vincent Bortone",
+				"email": "https://github.com/vbortone/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/storejs@0.0.20-alpha",
+			"_shasum": "d6d9b857348a5a0fdd913c36a68a586e0603fa83",
+			"_from": "output\\storejs",
+			"_resolved": "file:output\\storejs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d6d9b857348a5a0fdd913c36a68a586e0603fa83",
+				"size": 1104,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.20-alpha.tgz_1464156015281_0.6093608466908336"
+			},
+			"directories": {},
+			"publish_time": 1464156017775,
+			"_cnpm_publish_time": 1464156017775,
+			"_hasShrinkwrap": false
+		},
+		"0.0.19-alpha": {
+			"name": "@types/storejs",
+			"version": "0.0.19-alpha",
+			"description": "TypeScript definitions for store.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Vincent Bortone",
+				"email": "https://github.com/vbortone/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/storejs@0.0.19-alpha",
+			"_shasum": "a092b428f426fb20dacb0f9512a5735d5604f82f",
+			"_from": "output\\storejs",
+			"_resolved": "file:output\\storejs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a092b428f426fb20dacb0f9512a5735d5604f82f",
+				"size": 1102,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.19-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.19-alpha.tgz_1463777095562_0.9439653714653105"
+			},
+			"directories": {},
+			"publish_time": 1463777097979,
+			"_cnpm_publish_time": 1463777097979,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/storejs",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for store.js from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Vincent Bortone",
+				"email": "https://github.com/vbortone/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/storejs@0.0.14-alpha",
+			"_shasum": "49911f3298da203600afb25ba6575ae300e0d78b",
+			"_from": "output\\storejs",
+			"_resolved": "file:output\\storejs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "49911f3298da203600afb25ba6575ae300e0d78b",
+				"size": 1113,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.14-alpha.tgz_1463696923044_0.2201122788246721"
+			},
+			"directories": {},
+			"publish_time": 1463696926681,
+			"_cnpm_publish_time": 1463696926681,
+			"_hasShrinkwrap": false
+		},
+		"0.0.13-alpha": {
+			"name": "@types/storejs",
+			"version": "0.0.13-alpha",
+			"description": "Type definitions for store.js from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Vincent Bortone",
+				"email": "https://github.com/vbortone/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/storejs@0.0.13-alpha",
+			"_shasum": "22a799d34cf24e9b36faf98ad7016f88b4fc604f",
+			"_from": "output\\storejs",
+			"_resolved": "file:output\\storejs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "22a799d34cf24e9b36faf98ad7016f88b4fc604f",
+				"size": 1105,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/storejs-0.0.13-alpha.tgz_1463511632653_0.021768071921542287"
+			},
+			"directories": {},
+			"publish_time": 1463511636879,
+			"_cnpm_publish_time": 1463511636879,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.2",
+		"ts2.0": "2.0.2",
+		"ts2.1": "2.0.2",
+		"ts2.2": "2.0.2",
+		"ts2.3": "2.0.2",
+		"ts2.4": "2.0.2",
+		"ts2.5": "2.0.2",
+		"ts2.6": "2.0.2",
+		"ts2.7": "2.0.2",
+		"ts2.8": "2.0.2",
+		"ts2.9": "2.0.2",
+		"ts3.0": "2.0.2"
+	},
+	"time": {
+		"modified": "2018-05-18T00:20:45.000Z",
+		"created": "2016-05-17T19:00:36.879Z",
+		"2.0.2": "2018-03-16T22:11:27.572Z",
+		"2.0.1": "2018-01-25T18:00:41.265Z",
+		"2.0.0": "2017-09-18T21:25:06.611Z",
+		"1.3.3": "2017-09-18T14:17:23.703Z",
+		"1.3.2": "2017-08-21T22:04:47.731Z",
+		"1.3.1": "2017-01-24T21:43:27.226Z",
+		"1.3.0": "2016-12-15T16:52:35.910Z",
+		"0.0.27": "2016-09-19T18:14:46.472Z",
+		"0.0.26": "2016-07-14T16:07:42.127Z",
+		"0.0.25-alpha": "2016-07-08T21:38:35.328Z",
+		"0.0.24-alpha": "2016-07-04T01:22:37.459Z",
+		"0.0.23-alpha": "2016-07-02T03:29:01.379Z",
+		"0.0.22-alpha": "2016-07-02T00:03:06.638Z",
+		"0.0.21-alpha": "2016-07-01T20:44:05.852Z",
+		"0.0.20-alpha": "2016-05-25T06:00:17.775Z",
+		"0.0.19-alpha": "2016-05-20T20:44:57.979Z",
+		"0.0.14-alpha": "2016-05-19T22:28:46.681Z",
+		"0.0.13-alpha": "2016-05-17T19:00:36.879Z"
+	},
+	"_distfiles": {
+		"storejs-2.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-2.0.2.tgz",
+			"sha": "e1f6ab3a7e933ee10dd0614eeb522ab95fae8046",
+			"registry": "cnpmjs"
+		},
+		"storejs-2.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-2.0.1.tgz",
+			"sha": "0e75fbdb88762c870e1a84ac3f4f98dcc271ddf9",
+			"registry": "cnpmjs"
+		},
+		"storejs-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-2.0.0.tgz",
+			"sha": "78d92b67924001dc96774bdf1c8340cf46e8b5db",
+			"registry": "cnpmjs"
+		},
+		"storejs-1.3.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-1.3.3.tgz",
+			"sha": "20b3471e042e371f55d2bf9da7bf8b89f19c371d",
+			"registry": "cnpmjs"
+		},
+		"storejs-1.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-1.3.2.tgz",
+			"sha": "4fd7e6aef634197ab7c4e5b7e9b9a2491078a76e",
+			"registry": "cnpmjs"
+		},
+		"storejs-1.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-1.3.1.tgz",
+			"sha": "c190ce9f478c3241d9e316d4566a079ee5734f7f",
+			"registry": "cnpmjs"
+		},
+		"storejs-1.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-1.3.0.tgz",
+			"sha": "be7f359b5a9f6acdae8babdb773c34b980c18cd3",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.27.tgz",
+			"sha": "cb88d460658212944ad4aad0f53fcee830cb6680",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.26.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.26.tgz",
+			"sha": "8e3ae11c3b87d651a837205ba87715ce09a6b649",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.25-alpha.tgz",
+			"sha": "e61f41650e1096e5d9ed8f113118aa472eb88aee",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.24-alpha.tgz",
+			"sha": "722a3df14ea0aa4e27d5fd1b5eb729fea159001a",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.23-alpha.tgz",
+			"sha": "a83305d737b7f069a7aa8b4d951d838886b91c27",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.22-alpha.tgz",
+			"sha": "d299b2038ddf764ae33c2f82da84b337192331fc",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.21-alpha.tgz",
+			"sha": "70084dc67cf8dce47e0e21a935f7d93d65e232f0",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.20-alpha.tgz",
+			"sha": "d6d9b857348a5a0fdd913c36a68a586e0603fa83",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.19-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.19-alpha.tgz",
+			"sha": "a092b428f426fb20dacb0f9512a5735d5604f82f",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.14-alpha.tgz",
+			"sha": "49911f3298da203600afb25ba6575ae300e0d78b",
+			"registry": "cnpmjs"
+		},
+		"storejs-0.0.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/storejs/download/@types/storejs-0.0.13-alpha.tgz",
+			"sha": "22a799d34cf24e9b36faf98ad7016f88b4fc604f",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1528443498668
+		}
+	},
+	"_rev": "1-1b9cc07ad44a6f24",
+	"readme": "# Installation\r\n> `npm install --save @types/storejs`\r\n\r\n# Summary\r\nThis package contains type definitions for store.js (https://github.com/marcuswestin/store.js/).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/storejs\r\n\r\nAdditional Details\r\n * Last updated: Fri, 16 Mar 2018 22:10:47 GMT\r\n * Dependencies: none\r\n * Global values: engine, store\r\n\r\n# Credits\r\nThese definitions were written by Vincent Bortone <https://github.com/vbortone>, harry0000 <https://github.com/harry0000>."
+}

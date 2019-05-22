@@ -1,0 +1,1206 @@
+{
+	"name": "@types/d3-selection",
+	"versions": {
+		"1.3.3": {
+			"name": "@types/d3-selection",
+			"version": "1.3.3",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "denisname",
+					"url": "https://github.com/denisname",
+					"githubUsername": "denisname"
+				}
+			],
+			"main": "",
+			"types": "index",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "1ac239dd46062af5d40e64ecf50d0813edf279ed08f8e8724856ee9f3200ce3c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.3.3",
+			"dist": {
+				"shasum": "9f89da68c78b6a1f940bf34b90f98b0201da908d",
+				"size": 12825,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.3.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-selection_1.3.3_1541445317964_0.12640601672485663"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1541445318092,
+			"_cnpm_publish_time": 1541445318092
+		},
+		"1.3.2": {
+			"name": "@types/d3-selection",
+			"version": "1.3.2",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "bee5598b451b7c4e490706f19e71adea86d8f9af4bfb891ea322dda74e144c5d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.3.2",
+			"dist": {
+				"shasum": "dd5661a560ba9ce3aba823c424b8d4a1bc7e833f",
+				"size": 12789,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-selection_1.3.2_1533688922852_0.11002154597479086"
+			},
+			"publish_time": 1533688922971,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1533688922971
+		},
+		"1.3.1": {
+			"name": "@types/d3-selection",
+			"version": "1.3.1",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "c7497d8badc69642d2ab8d3101c6e6f8cbe3c9e736586836e37633aaa696eefb",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.3.1",
+			"dist": {
+				"shasum": "c6227f4e39d429cc429ce3882fd533facc7f014c",
+				"size": 12785,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-selection_1.3.1_1527117249910_0.6966761809304585"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527117250014,
+			"_cnpm_publish_time": 1527117250014
+		},
+		"1.3.0": {
+			"name": "@types/d3-selection",
+			"version": "1.3.0",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "983892c1d99b7dc43b59040d7e6c3af220bf8a81398dbe704fc84b20abb9ef2d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.3.0",
+			"dist": {
+				"shasum": "acede3d22c18ec085cc401d4fdab9f040e1a73c7",
+				"size": 12836,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-selection_1.3.0_1518106186894_0.5864670556869536"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518106186987,
+			"_cnpm_publish_time": 1518106186987
+		},
+		"1.2.0": {
+			"name": "@types/d3-selection",
+			"version": "1.2.0",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "97301c650cb84b4220f40465c7871b6e7eb5a61315ac5343797bf6f5e1203cf7",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.2.0",
+			"dist": {
+				"shasum": "f0a4cca0a0e4187c336c6712a82600cdcd24093f",
+				"size": 12646,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-selection-1.2.0.tgz_1511371075475_0.8963311605621129"
+			},
+			"directories": {},
+			"publish_time": 1511371075567,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511371075567
+		},
+		"1.1.0": {
+			"name": "@types/d3-selection",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7c172e376b7d05621e64f5616c1bbb993b7dbfe1be22344b82a813458c41b683",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.1.0",
+			"dist": {
+				"shasum": "59b88f10d2cff7d9ffd7fe986b3aaef3de048224",
+				"size": 12508,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.1.0.tgz_1495148316207_0.006510418839752674"
+			},
+			"directories": {},
+			"publish_time": 1495148316477,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1495148316477
+		},
+		"1.0.15": {
+			"name": "@types/d3-selection",
+			"version": "1.0.15",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a8af9a8bc0e260acce3378aeb25e200c1d41c381714f7853a2975b961aac0a14",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.0.15",
+			"dist": {
+				"shasum": "2cd305e72f1ebe3eebc9a9263bd3e34cc0321456",
+				"size": 12299,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.15.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.15.tgz_1492451726825_0.8095078896731138"
+			},
+			"directories": {},
+			"publish_time": 1492451727086,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492451727086
+		},
+		"1.0.14": {
+			"name": "@types/d3-selection",
+			"version": "1.0.14",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d6c2087e177d1641cf256f4baad9eac903fe28ab8dc8fff297f380f54d37098e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.0.14",
+			"dist": {
+				"shasum": "ba99e3043f9579dc42047ef2e5424bd99d14c88d",
+				"size": 11632,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.14.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.14.tgz_1490909466819_0.015768949408084154"
+			},
+			"directories": {},
+			"publish_time": 1490909467127,
+			"_cnpm_publish_time": 1490909467127,
+			"_hasShrinkwrap": false
+		},
+		"1.0.13": {
+			"name": "@types/d3-selection",
+			"version": "1.0.13",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6c604e598499aeb11b6a8058a6be8058403228b30dc4fc0ba80cf6c3a60a08ce",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.0.13",
+			"dist": {
+				"shasum": "a62e30fe7c9663e490d8b001ac733da084c535c1",
+				"size": 11642,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.13.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.13.tgz_1490638525766_0.9880523616448045"
+			},
+			"directories": {},
+			"publish_time": 1490638525990,
+			"_cnpm_publish_time": 1490638525990,
+			"_hasShrinkwrap": false
+		},
+		"1.0.12": {
+			"name": "@types/d3-selection",
+			"version": "1.0.12",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e54582791b16dfd39a9de75ff25711ddd44961f4955fbca19a35caff27d7cbf1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.0.12",
+			"dist": {
+				"shasum": "d820651343c4e2e5b7a967451fd676a231452131",
+				"size": 11659,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.12.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.12.tgz_1489426432575_0.23121406533755362"
+			},
+			"directories": {},
+			"publish_time": 1489426434475,
+			"_cnpm_publish_time": 1489426434475,
+			"_hasShrinkwrap": false
+		},
+		"1.0.11": {
+			"name": "@types/d3-selection",
+			"version": "1.0.11",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1d97e8b4d52a7c4f6c3d830e195cfeb7da5de1a084b5956a56d33bb6ab765f72",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.0.11",
+			"dist": {
+				"shasum": "c845158630c84bd86f8d3c134b3e4cc3e11cb168",
+				"size": 11699,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.11.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.11.tgz_1489192332474_0.24251727503724396"
+			},
+			"directories": {},
+			"publish_time": 1489192334390,
+			"_cnpm_publish_time": 1489192334390,
+			"_hasShrinkwrap": false
+		},
+		"1.0.10": {
+			"name": "@types/d3-selection",
+			"version": "1.0.10",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e54582791b16dfd39a9de75ff25711ddd44961f4955fbca19a35caff27d7cbf1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.0.10",
+			"dist": {
+				"shasum": "dcfb0ddfcdfb1ad26aea4351323771e1aea96e84",
+				"size": 11921,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.10.tgz_1487863407266_0.42606140160933137"
+			},
+			"directories": {},
+			"publish_time": 1487863409048,
+			"_cnpm_publish_time": 1487863409048,
+			"_hasShrinkwrap": false
+		},
+		"1.0.9": {
+			"name": "@types/d3-selection",
+			"version": "1.0.9",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b4329366de273715ad3044d77a07316e81755907f9f4c47f7468f2a25a00268f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.0.9",
+			"dist": {
+				"shasum": "9065f95f931468eb2a5ad5ba57531a8bb3c1e1f1",
+				"size": 11829,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.9.tgz_1483648860183_0.6371897417120636"
+			},
+			"directories": {},
+			"publish_time": 1483648860416,
+			"_cnpm_publish_time": 1483648860416,
+			"_hasShrinkwrap": false
+		},
+		"1.0.8": {
+			"name": "@types/d3-selection",
+			"version": "1.0.8",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "496dc82db3b2799539c94a678962a86e2d6c6a0f942b68fa46cfc3965bde8730",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-selection@1.0.8",
+			"dist": {
+				"shasum": "7192015781dcbd8669420aea9fcf37573c25a4b8",
+				"size": 11831,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.8.tgz_1483380579069_0.523191490676254"
+			},
+			"directories": {},
+			"publish_time": 1483380581126,
+			"_cnpm_publish_time": 1483380581126,
+			"_hasShrinkwrap": false
+		},
+		"1.0.7": {
+			"name": "@types/d3-selection",
+			"version": "1.0.7",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "4a1edb3c0560ae16cf58365083dee75540c681dd4121a50c7bff519bfaf28472",
+			"_id": "@types/d3-selection@1.0.7",
+			"dist": {
+				"shasum": "aa83e92d7e3ebeae3a12b4a5098f805be055b562",
+				"size": 11861,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.7.tgz_1481829918043_0.4515733108855784"
+			},
+			"directories": {},
+			"publish_time": 1481829920211,
+			"_cnpm_publish_time": 1481829920211,
+			"_hasShrinkwrap": false
+		},
+		"1.0.6": {
+			"name": "@types/d3-selection",
+			"version": "1.0.6",
+			"description": "TypeScript definitions for D3JS d3-selection module",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3109c07ac913eae63b47a92884dcf30b9b01958c7c7c33e264c1f9bab2047582",
+			"_id": "@types/d3-selection@1.0.6",
+			"dist": {
+				"shasum": "d14e1b767b5325bd271cdd5fb9dcd7c31200b055",
+				"size": 11896,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.6.tgz_1480973309305_0.16087979497388005"
+			},
+			"directories": {},
+			"publish_time": 1480973309529,
+			"_cnpm_publish_time": 1480973309529,
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "@types/d3-selection",
+			"version": "1.0.5",
+			"description": "TypeScript definitions for D3JS d3-selection module v1.0.2",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b130b6c60c1dc12ce717f0255aed9ab03563f8cc68f5fe187489814a976659ef",
+			"_id": "@types/d3-selection@1.0.5",
+			"dist": {
+				"shasum": "c4116d1002d0b4f7642cf9f702cae8d58ea0a05f",
+				"size": 11738,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.5.tgz_1475508282391_0.47929972084239125"
+			},
+			"directories": {},
+			"publish_time": 1475508282623,
+			"_cnpm_publish_time": 1475508282623,
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "@types/d3-selection",
+			"version": "1.0.4",
+			"description": "TypeScript definitions for D3JS d3-selection module v1.0.2",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "7c5da8c494b1947f57ca10c3fb4631c257cdb85ed8a8212f6692d68792a41364",
+			"_id": "@types/d3-selection@1.0.4",
+			"dist": {
+				"shasum": "d0b35a9db63965b5c98b44507bcace5863872ebe",
+				"size": 5033,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-1.0.4.tgz_1473706878457_0.6251713323872536"
+			},
+			"directories": {},
+			"publish_time": 1473706878699,
+			"_cnpm_publish_time": 1473706878699,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/d3-selection",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for D3JS d3-selection module 1.0.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-selection@0.0.3",
+			"dist": {
+				"shasum": "129d959e5e9ece41e30d1a3f45d92c7ac1039e14",
+				"size": 4581,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-0.0.3.tgz_1472150345226_0.7561294527258724"
+			},
+			"directories": {},
+			"publish_time": 1472150345762,
+			"_cnpm_publish_time": 1472150345762,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/d3-selection",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for D3JS d3-selection module 1.0.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-selection@0.0.2",
+			"dist": {
+				"shasum": "082f36039def9995affcc44c6f4485fe4a2d035f",
+				"size": 4573,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-0.0.2.tgz_1471888648027_0.934871715027839"
+			},
+			"directories": {},
+			"publish_time": 1471888648242,
+			"_cnpm_publish_time": 1471888648242,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/d3-selection",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for D3JS d3-selection module 1.0.0",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-selection@0.0.1",
+			"dist": {
+				"shasum": "b8dea3d8c09b5899798cba98d10a1741f83cca52",
+				"size": 4778,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-selection-0.0.1.tgz_1470688552722_0.2477566609159112"
+			},
+			"directories": {},
+			"publish_time": 1470688556105,
+			"_cnpm_publish_time": 1470688556105,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.3.3",
+		"ts2.0": "1.3.3",
+		"ts2.1": "1.3.3",
+		"ts2.2": "1.3.3",
+		"ts2.3": "1.3.3",
+		"ts2.4": "1.3.3",
+		"ts2.5": "1.3.3",
+		"ts2.6": "1.3.3",
+		"ts2.7": "1.3.3",
+		"ts2.8": "1.3.3",
+		"ts2.9": "1.3.3",
+		"ts3.0": "1.3.3",
+		"ts3.1": "1.3.3",
+		"ts3.2": "1.3.3"
+	},
+	"time": {
+		"modified": "2018-11-05T19:15:32.000Z",
+		"created": "2016-08-08T20:35:56.105Z",
+		"1.3.3": "2018-11-05T19:15:18.092Z",
+		"1.3.2": "2018-08-08T00:42:02.971Z",
+		"1.3.1": "2018-05-23T23:14:10.014Z",
+		"1.3.0": "2018-02-08T16:09:46.987Z",
+		"1.2.0": "2017-11-22T17:17:55.567Z",
+		"1.1.0": "2017-05-18T22:58:36.477Z",
+		"1.0.15": "2017-04-17T17:55:27.086Z",
+		"1.0.14": "2017-03-30T21:31:07.127Z",
+		"1.0.13": "2017-03-27T18:15:25.990Z",
+		"1.0.12": "2017-03-13T17:33:54.475Z",
+		"1.0.11": "2017-03-11T00:32:14.390Z",
+		"1.0.10": "2017-02-23T15:23:29.048Z",
+		"1.0.9": "2017-01-05T20:41:00.416Z",
+		"1.0.8": "2017-01-02T18:09:41.126Z",
+		"1.0.7": "2016-12-15T19:25:20.211Z",
+		"1.0.6": "2016-12-05T21:28:29.529Z",
+		"1.0.5": "2016-10-03T15:24:42.623Z",
+		"1.0.4": "2016-09-12T19:01:18.699Z",
+		"0.0.3": "2016-08-25T18:39:05.762Z",
+		"0.0.2": "2016-08-22T17:57:28.242Z",
+		"0.0.1": "2016-08-08T20:35:56.105Z"
+	},
+	"_distfiles": {
+		"d3-selection-1.3.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.3.3.tgz",
+			"sha": "9f89da68c78b6a1f940bf34b90f98b0201da908d",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.3.2.tgz",
+			"sha": "dd5661a560ba9ce3aba823c424b8d4a1bc7e833f",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.3.1.tgz",
+			"sha": "c6227f4e39d429cc429ce3882fd533facc7f014c",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.3.0.tgz",
+			"sha": "acede3d22c18ec085cc401d4fdab9f040e1a73c7",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.2.0.tgz",
+			"sha": "f0a4cca0a0e4187c336c6712a82600cdcd24093f",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.1.0.tgz",
+			"sha": "59b88f10d2cff7d9ffd7fe986b3aaef3de048224",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.15.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.15.tgz",
+			"sha": "2cd305e72f1ebe3eebc9a9263bd3e34cc0321456",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.14.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.14.tgz",
+			"sha": "ba99e3043f9579dc42047ef2e5424bd99d14c88d",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.13.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.13.tgz",
+			"sha": "a62e30fe7c9663e490d8b001ac733da084c535c1",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.12.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.12.tgz",
+			"sha": "d820651343c4e2e5b7a967451fd676a231452131",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.11.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.11.tgz",
+			"sha": "c845158630c84bd86f8d3c134b3e4cc3e11cb168",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.10.tgz",
+			"sha": "dcfb0ddfcdfb1ad26aea4351323771e1aea96e84",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.9.tgz",
+			"sha": "9065f95f931468eb2a5ad5ba57531a8bb3c1e1f1",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.8.tgz",
+			"sha": "7192015781dcbd8669420aea9fcf37573c25a4b8",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.7.tgz",
+			"sha": "aa83e92d7e3ebeae3a12b4a5098f805be055b562",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.6.tgz",
+			"sha": "d14e1b767b5325bd271cdd5fb9dcd7c31200b055",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.5.tgz",
+			"sha": "c4116d1002d0b4f7642cf9f702cae8d58ea0a05f",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-1.0.4.tgz",
+			"sha": "d0b35a9db63965b5c98b44507bcace5863872ebe",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-0.0.3.tgz",
+			"sha": "129d959e5e9ece41e30d1a3f45d92c7ac1039e14",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-0.0.2.tgz",
+			"sha": "082f36039def9995affcc44c6f4485fe4a2d035f",
+			"registry": "cnpmjs"
+		},
+		"d3-selection-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-selection/download/@types/d3-selection-0.0.1.tgz",
+			"sha": "b8dea3d8c09b5899798cba98d10a1741f83cca52",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833453903
+		}
+	},
+	"_rev": "1-9660b37c733ea781",
+	"readme": "# Installation\r\n> `npm install --save @types/d3-selection`\r\n\r\n# Summary\r\nThis package contains type definitions for D3JS d3-selection module (https://github.com/d3/d3-selection/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/d3-selection\r\n\r\nAdditional Details\r\n * Last updated: Mon, 05 Nov 2018 19:15:11 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, denisname <https://github.com/denisname>."
+}

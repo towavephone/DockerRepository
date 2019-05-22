@@ -1,0 +1,774 @@
+{
+	"name": "@types/escape-string-regexp",
+	"versions": {
+		"0.0.32": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "kruncher",
+					"url": "https://github.com/kruncher",
+					"githubUsername": "kruncher"
+				},
+				{
+					"name": "faergeek",
+					"url": "https://github.com/faergeek",
+					"githubUsername": "faergeek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "0179388deefd2f80f29373e75e5372b8307fa891ce58d97c3240795f939cf3af",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/escape-string-regexp@0.0.32",
+			"dist": {
+				"shasum": "296005808f51d27fb2a2de8d1ca080a91ee3375c",
+				"size": 1533,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/escape-string-regexp-0.0.32.tgz_1509150334750_0.3180817295797169"
+			},
+			"directories": {},
+			"publish_time": 1509150334828,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509150334828
+		},
+		"0.0.31": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "kruncher",
+					"url": "https://github.com/kruncher"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7bffbef70bcd6f696aacec9b96f17ebb6de2d10b24243f977fc074e051318c34",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/escape-string-regexp@0.0.31",
+			"dist": {
+				"shasum": "c443a34199d47ac9e81893e7bc88aac699b47870",
+				"size": 1485,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/escape-string-regexp-0.0.31.tgz_1503352285469_0.20205217134207487"
+			},
+			"directories": {},
+			"publish_time": 1503352285527,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352285527
+		},
+		"0.0.30": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"license": "MIT",
+			"author": "kruncher <https://github.com/kruncher/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "1432a2c807d7e2bcbec5debbf1a431ee8b524d6bc5af0e93c8f2462636dd3d62",
+			"_id": "@types/escape-string-regexp@0.0.30",
+			"dist": {
+				"shasum": "8cfaf0b5d2e46943d6efd77d3f4d18bfa1c9f225",
+				"size": 996,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.30.tgz_1474306247425_0.18285808409564197"
+			},
+			"directories": {},
+			"publish_time": 1474306250714,
+			"_cnpm_publish_time": 1474306250714,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-string-regexp@0.0.29",
+			"_shasum": "c9812a90ab9420684cedf046090998d4f68634d8",
+			"_from": "output\\escape-string-regexp",
+			"_resolved": "file:output\\escape-string-regexp",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c9812a90ab9420684cedf046090998d4f68634d8",
+				"size": 966,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.29.tgz_1468506689447_0.7041235459037125"
+			},
+			"directories": {},
+			"publish_time": 1468506692031,
+			"_cnpm_publish_time": 1468506692031,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28-alpha": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.28-alpha",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-string-regexp@0.0.28-alpha",
+			"_shasum": "8ed1739214473e9b98f0fc71983b61361dabf27e",
+			"_from": "output\\escape-string-regexp",
+			"_resolved": "file:output\\escape-string-regexp",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8ed1739214473e9b98f0fc71983b61361dabf27e",
+				"size": 971,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.28-alpha.tgz_1468008435620_0.5474347984418273"
+			},
+			"directories": {},
+			"publish_time": 1468008438252,
+			"_cnpm_publish_time": 1468008438252,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-string-regexp@0.0.27-alpha",
+			"_shasum": "fcc2e14df9e13da6acbafacb48fcbcd257c57b37",
+			"_from": "output\\escape-string-regexp",
+			"_resolved": "file:output\\escape-string-regexp",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fcc2e14df9e13da6acbafacb48fcbcd257c57b37",
+				"size": 973,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.27-alpha.tgz_1467591110962_0.12607845081947744"
+			},
+			"directories": {},
+			"publish_time": 1467591114615,
+			"_cnpm_publish_time": 1467591114615,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-string-regexp@0.0.26-alpha",
+			"_shasum": "44dafd81d2652b428543dbd87fb9331a945fc55b",
+			"_from": "output\\escape-string-regexp",
+			"_resolved": "file:output\\escape-string-regexp",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "44dafd81d2652b428543dbd87fb9331a945fc55b",
+				"size": 971,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.26-alpha.tgz_1467426001723_0.8314102501608431"
+			},
+			"directories": {},
+			"publish_time": 1467426005264,
+			"_cnpm_publish_time": 1467426005264,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-string-regexp@0.0.25-alpha",
+			"_shasum": "2f882727e7d0968893946469e5305163abe4971e",
+			"_from": "output\\escape-string-regexp",
+			"_resolved": "file:output\\escape-string-regexp",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2f882727e7d0968893946469e5305163abe4971e",
+				"size": 971,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.25-alpha.tgz_1467413120649_0.0009185641538351774"
+			},
+			"directories": {},
+			"publish_time": 1467413122973,
+			"_cnpm_publish_time": 1467413122973,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-string-regexp@0.0.24-alpha",
+			"_shasum": "faf7e345bb651c9b42e52853b15ef526e49338ff",
+			"_from": "output\\escape-string-regexp",
+			"_resolved": "file:output\\escape-string-regexp",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "faf7e345bb651c9b42e52853b15ef526e49338ff",
+				"size": 963,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.24-alpha.tgz_1467400907358_0.45997763029299676"
+			},
+			"directories": {},
+			"publish_time": 1467400907987,
+			"_cnpm_publish_time": 1467400907987,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-string-regexp@0.0.23-alpha",
+			"_shasum": "39f187282d3b36eccd5c9e827231ee6e084082f8",
+			"_from": "output\\escape-string-regexp",
+			"_resolved": "file:output\\escape-string-regexp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "39f187282d3b36eccd5c9e827231ee6e084082f8",
+				"size": 939,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.23-alpha.tgz_1464151823508_0.7205971870571375"
+			},
+			"directories": {},
+			"publish_time": 1464151826127,
+			"_cnpm_publish_time": 1464151826127,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-string-regexp@0.0.22-alpha",
+			"_shasum": "88c7e5357388a8cf73def358a87ce88cacadcd82",
+			"_from": "output\\escape-string-regexp",
+			"_resolved": "file:output\\escape-string-regexp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "88c7e5357388a8cf73def358a87ce88cacadcd82",
+				"size": 939,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.22-alpha.tgz_1463772725282_0.7995032237377018"
+			},
+			"directories": {},
+			"publish_time": 1463772727588,
+			"_cnpm_publish_time": 1463772727588,
+			"_hasShrinkwrap": false
+		},
+		"0.0.17-alpha": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.17-alpha",
+			"description": "Type definitions for escape-string-regexp from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-string-regexp@0.0.17-alpha",
+			"_shasum": "7f18d467d376b00328283da84d181cceeca98657",
+			"_from": "output\\escape-string-regexp",
+			"_resolved": "file:output\\escape-string-regexp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7f18d467d376b00328283da84d181cceeca98657",
+				"size": 952,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.17-alpha.tgz_1463690836544_0.0071550102438777685"
+			},
+			"directories": {},
+			"publish_time": 1463690841206,
+			"_cnpm_publish_time": 1463690841206,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/escape-string-regexp",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for escape-string-regexp from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "kruncher",
+				"email": "https://github.com/kruncher/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-string-regexp@0.0.16-alpha",
+			"_shasum": "4c60c31d098428bbbb021def17a45efa2bb2df59",
+			"_from": "output\\escape-string-regexp",
+			"_resolved": "file:output\\escape-string-regexp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4c60c31d098428bbbb021def17a45efa2bb2df59",
+				"size": 946,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-string-regexp-0.0.16-alpha.tgz_1463460709216_0.552095711696893"
+			},
+			"directories": {},
+			"publish_time": 1463460712754,
+			"_cnpm_publish_time": 1463460712754,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "@types/escape-string-regexp",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for escape-string-regexp",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "kruncher",
+					"url": "https://github.com/kruncher",
+					"githubUsername": "kruncher"
+				},
+				{
+					"name": "faergeek",
+					"url": "https://github.com/faergeek",
+					"githubUsername": "faergeek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "ad8c2c4a30dfaa3e07bead0501c28ec13501ff7c071f156169c5951ec8ea95f0",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/escape-string-regexp@1.0.0",
+			"dist": {
+				"shasum": "052d16d87db583b72daceae4eaabddb66954424c",
+				"size": 1529,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/escape-string-regexp_1.0.0_1532138837501_0.6424256480395254"
+			},
+			"publish_time": 1532138837702,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1532138837702
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0",
+		"ts2.0": "1.0.0",
+		"ts2.1": "1.0.0",
+		"ts2.2": "1.0.0",
+		"ts2.3": "1.0.0",
+		"ts2.4": "1.0.0",
+		"ts2.5": "1.0.0",
+		"ts2.6": "1.0.0",
+		"ts2.7": "1.0.0",
+		"ts2.8": "1.0.0",
+		"ts2.9": "1.0.0",
+		"ts3.0": "1.0.0",
+		"ts3.1": "1.0.0",
+		"ts3.2": "1.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:10:41.000Z",
+		"created": "2016-05-17T04:51:52.754Z",
+		"1.0.0": "2018-07-21T02:07:17.702Z",
+		"0.0.32": "2017-10-28T00:25:34.828Z",
+		"0.0.31": "2017-08-21T21:51:25.527Z",
+		"0.0.30": "2016-09-19T17:30:50.714Z",
+		"0.0.29": "2016-07-14T14:31:32.031Z",
+		"0.0.28-alpha": "2016-07-08T20:07:18.252Z",
+		"0.0.27-alpha": "2016-07-04T00:11:54.615Z",
+		"0.0.26-alpha": "2016-07-02T02:20:05.264Z",
+		"0.0.25-alpha": "2016-07-01T22:45:22.973Z",
+		"0.0.24-alpha": "2016-07-01T19:21:47.987Z",
+		"0.0.23-alpha": "2016-05-25T04:50:26.127Z",
+		"0.0.22-alpha": "2016-05-20T19:32:07.588Z",
+		"0.0.17-alpha": "2016-05-19T20:47:21.206Z",
+		"0.0.16-alpha": "2016-05-17T04:51:52.754Z"
+	},
+	"_distfiles": {
+		"escape-string-regexp-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.32.tgz",
+			"sha": "296005808f51d27fb2a2de8d1ca080a91ee3375c",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.31.tgz",
+			"sha": "c443a34199d47ac9e81893e7bc88aac699b47870",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.30.tgz",
+			"sha": "8cfaf0b5d2e46943d6efd77d3f4d18bfa1c9f225",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.29.tgz",
+			"sha": "c9812a90ab9420684cedf046090998d4f68634d8",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.28-alpha.tgz",
+			"sha": "8ed1739214473e9b98f0fc71983b61361dabf27e",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.27-alpha.tgz",
+			"sha": "fcc2e14df9e13da6acbafacb48fcbcd257c57b37",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.26-alpha.tgz",
+			"sha": "44dafd81d2652b428543dbd87fb9331a945fc55b",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.25-alpha.tgz",
+			"sha": "2f882727e7d0968893946469e5305163abe4971e",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.24-alpha.tgz",
+			"sha": "faf7e345bb651c9b42e52853b15ef526e49338ff",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.23-alpha.tgz",
+			"sha": "39f187282d3b36eccd5c9e827231ee6e084082f8",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.22-alpha.tgz",
+			"sha": "88c7e5357388a8cf73def358a87ce88cacadcd82",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.17-alpha.tgz",
+			"sha": "7f18d467d376b00328283da84d181cceeca98657",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-0.0.16-alpha.tgz",
+			"sha": "4c60c31d098428bbbb021def17a45efa2bb2df59",
+			"registry": "cnpmjs"
+		},
+		"escape-string-regexp-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-string-regexp/download/@types/escape-string-regexp-1.0.0.tgz",
+			"sha": "052d16d87db583b72daceae4eaabddb66954424c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833454910
+		}
+	},
+	"_rev": "2-8ec9dc07d3804dde",
+	"readme": "# Installation\r\n> `npm install --save @types/escape-string-regexp`\r\n\r\n# Summary\r\nThis package contains type definitions for escape-string-regexp (https://github.com/sindresorhus/escape-string-regexp).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/escape-string-regexp\r\n\r\nAdditional Details\r\n * Last updated: Sat, 21 Jul 2018 02:05:50 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by kruncher <https://github.com/kruncher>, faergeek <https://github.com/faergeek>."
+}

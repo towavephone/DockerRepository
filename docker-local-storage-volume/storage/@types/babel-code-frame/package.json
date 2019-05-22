@@ -1,0 +1,182 @@
+{
+	"name": "@types/babel-code-frame",
+	"versions": {
+		"6.20.1": {
+			"name": "@types/babel-code-frame",
+			"version": "6.20.1",
+			"description": "TypeScript definitions for babel-code-frame",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mohsen Azimi",
+					"url": "https://github.com/mohsen1"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "abe36c6d60d02d191e1ac0d367c17f00afb96436ce71360dff9e5fa68e06a453",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/babel-code-frame@6.20.1",
+			"dist": {
+				"shasum": "e79a40ea81435034df7b46b5e32e8ed638aea4dd",
+				"size": 1149,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/babel-code-frame/download/@types/babel-code-frame-6.20.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/babel-code-frame-6.20.1.tgz_1490921439425_0.8396215939428657"
+			},
+			"directories": {},
+			"publish_time": 1490921441476,
+			"_cnpm_publish_time": 1490921441476,
+			"_hasShrinkwrap": false
+		},
+		"6.20.0": {
+			"name": "@types/babel-code-frame",
+			"version": "6.20.0",
+			"description": "TypeScript definitions for babel-code-frame",
+			"license": "MIT",
+			"author": "Mohsen Azimi <https://github.com/mohsen1>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "eb2858b0b901433a87c173502661a37216ebe4d92bf4ecfcd38082e9644c7982",
+			"_id": "@types/babel-code-frame@6.20.0",
+			"dist": {
+				"shasum": "05477b2adab210785824881481a65917335e5b68",
+				"size": 1302,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/babel-code-frame/download/@types/babel-code-frame-6.20.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/babel-code-frame-6.20.0.tgz_1481477575496_0.9728502035140991"
+			},
+			"directories": {},
+			"publish_time": 1481477575741,
+			"_cnpm_publish_time": 1481477575741,
+			"_hasShrinkwrap": false
+		},
+		"6.16.0": {
+			"name": "@types/babel-code-frame",
+			"version": "6.16.0",
+			"description": "TypeScript definitions for babel-code-frame",
+			"license": "MIT",
+			"author": "Mohsen Azimi <https://github.com/mohsen1>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3f42c8bb6d77dcdaad6f321d2676ddf1b0962b4937546c5cc3f5b824dc53a20c",
+			"_id": "@types/babel-code-frame@6.16.0",
+			"dist": {
+				"shasum": "4ba310bd3be0d9d118dadb988d2468bde7657295",
+				"size": 1295,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/babel-code-frame/download/@types/babel-code-frame-6.16.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/babel-code-frame-6.16.0.tgz_1481208395659_0.17593311448581517"
+			},
+			"directories": {},
+			"publish_time": 1481208395883,
+			"_cnpm_publish_time": 1481208395883,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "6.20.1",
+		"ts2.0": "6.20.1",
+		"ts2.1": "6.20.1",
+		"ts2.2": "6.20.1",
+		"ts2.3": "6.20.1",
+		"ts2.4": "6.20.1",
+		"ts2.5": "6.20.1",
+		"ts2.6": "6.20.1",
+		"ts2.7": "6.20.1",
+		"ts2.8": "6.20.1",
+		"ts2.9": "6.20.1",
+		"ts3.0": "6.20.1",
+		"ts3.1": "6.20.1",
+		"ts3.2": "6.20.1"
+	},
+	"time": {
+		"modified": "2018-10-10T19:56:26.000Z",
+		"created": "2016-12-08T14:46:35.883Z",
+		"6.20.1": "2017-03-31T00:50:41.476Z",
+		"6.20.0": "2016-12-11T17:32:55.741Z",
+		"6.16.0": "2016-12-08T14:46:35.883Z"
+	},
+	"_distfiles": {
+		"babel-code-frame-6.20.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/babel-code-frame/download/@types/babel-code-frame-6.20.1.tgz",
+			"sha": "e79a40ea81435034df7b46b5e32e8ed638aea4dd",
+			"registry": "cnpmjs"
+		},
+		"babel-code-frame-6.20.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/babel-code-frame/download/@types/babel-code-frame-6.20.0.tgz",
+			"sha": "05477b2adab210785824881481a65917335e5b68",
+			"registry": "cnpmjs"
+		},
+		"babel-code-frame-6.16.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/babel-code-frame/download/@types/babel-code-frame-6.16.0.tgz",
+			"sha": "4ba310bd3be0d9d118dadb988d2468bde7657295",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833444944
+		}
+	},
+	"_rev": "2-d7edf2fb18f6ea1f",
+	"readme": "# Installation\r\n> `npm install --save @types/babel-code-frame`\r\n\r\n# Summary\r\nThis package contains type definitions for babel-code-frame (https://github.com/babel/babel/tree/master/packages).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/babel-code-frame\r\n\r\nAdditional Details\r\n * Last updated: Fri, 31 Mar 2017 00:49:50 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Mohsen Azimi <https://github.com/mohsen1>."
+}

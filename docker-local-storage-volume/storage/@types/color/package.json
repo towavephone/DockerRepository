@@ -1,0 +1,620 @@
+{
+	"name": "@types/color",
+	"versions": {
+		"2.0.1": {
+			"name": "@types/color",
+			"version": "2.0.1",
+			"description": "TypeScript definitions for color",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Junyoung Clare Jang",
+					"url": "https://github.com/Airlun",
+					"githubUsername": "Airlun"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/color-convert": "*"
+			},
+			"typesPublisherContentHash": "dc8934148a5894399c975ff19280e242abf345e3d0d1386c6c71789e789c94cb",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/color@2.0.1",
+			"dist": {
+				"shasum": "73a7eefe83e42dcc888b13ae74dc0ec9de6bf815",
+				"size": 2285,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-2.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/color-2.0.1.tgz_1517078495824_0.6977729401551187"
+			},
+			"directories": {},
+			"publish_time": 1517078496129,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1517078496129
+		},
+		"3.0.0": {
+			"name": "@types/color",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for color",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Junyoung Clare Jang",
+					"url": "https://github.com/Airlun",
+					"githubUsername": "Airlun"
+				},
+				{
+					"name": "James W. Lane",
+					"url": "https://github.com/jameswlane",
+					"githubUsername": "jameswlane"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/color-convert": "*"
+			},
+			"typesPublisherContentHash": "7e31fde8dd1b3f137fb7c42dc7bfa000951f7157864f809e8c85602b6cb97c10",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/color@3.0.0",
+			"dist": {
+				"shasum": "40f8a6bf2fd86e969876b339a837d8ff1b0a6e30",
+				"size": 2328,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/color-3.0.0.tgz_1517078494407_0.26078172377310693"
+			},
+			"directories": {},
+			"publish_time": 1517078494513,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1517078494513
+		},
+		"1.0.5": {
+			"name": "@types/color",
+			"version": "1.0.5",
+			"description": "TypeScript definitions for color",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e5e9c4520e1b4a31ce993a25cb14540b4c67af279b07c909cffa2ef3f0528245",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/color@1.0.5",
+			"dist": {
+				"shasum": "e0e9bbdc33620988f1fa1bba5db04210cb766b87",
+				"size": 2120,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-1.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/color-1.0.5.tgz_1501681672761_0.2167030773125589"
+			},
+			"directories": {},
+			"publish_time": 1501681673694,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501681673694
+		},
+		"2.0.0": {
+			"name": "@types/color",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for color",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Junyoung Clare Jang",
+					"url": "https://github.com/Airlun"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/color-convert": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ef39d47f1730430d1f601fd01caf66fedc0df8490219ad555b54423296ff6385",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/color@2.0.0",
+			"dist": {
+				"shasum": "73c5db00fcf15426d5a12f9af943eed03d7e0984",
+				"size": 2275,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/color-2.0.0.tgz_1501681666792_0.5337363528087735"
+			},
+			"directories": {},
+			"publish_time": 1501681667754,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501681667754
+		},
+		"1.0.4": {
+			"name": "@types/color",
+			"version": "1.0.4",
+			"description": "TypeScript definitions for color",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b88fb4c8b8d6fa3b49924eb5b618452117408ebe64500ce72f77259e082bc8df",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/color@1.0.4",
+			"dist": {
+				"shasum": "d5f696590fd167057e7abc6fe2dd4385bebcf283",
+				"size": 2118,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/color-1.0.4.tgz_1495487042742_0.19866890320554376"
+			},
+			"directories": {},
+			"publish_time": 1495487042843,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1495487042843
+		},
+		"1.0.3": {
+			"name": "@types/color",
+			"version": "1.0.3",
+			"description": "TypeScript definitions for color",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c8275c385b2d58731fa2e4ab3175a7c1fc1cb0c63b035613d74f1b7c7a0896a9",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/color@1.0.3",
+			"dist": {
+				"shasum": "54d11f765780cc7e274f15044ac033978a92d349",
+				"size": 2112,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-1.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/color-1.0.3.tgz_1493946754725_0.3461733756121248"
+			},
+			"directories": {},
+			"publish_time": 1493946756651,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493946756651
+		},
+		"1.0.2": {
+			"name": "@types/color",
+			"version": "1.0.2",
+			"description": "TypeScript definitions for color",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fb29d1a91c108819fc8a6f77d41dd81dd6ab58dbc105b885c80cfd7ef8c9844a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/color@1.0.2",
+			"dist": {
+				"shasum": "349a6040fbe5ba2076b8cab94cfc2fc674abc691",
+				"size": 2087,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/color-1.0.2.tgz_1493925405946_0.6250171093270183"
+			},
+			"directories": {},
+			"publish_time": 1493925408079,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493925408079
+		},
+		"1.0.1": {
+			"name": "@types/color",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for color",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "132bc13d0ca475d181ae26f6aeddec66b9c0296b56cddbdfde0d0c33c2f8d910",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/color@1.0.1",
+			"dist": {
+				"shasum": "45c10d456fffe6cacbf5971fe081272fe1b4e851",
+				"size": 1391,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/color-1.0.1.tgz_1491604038903_0.23896804288960993"
+			},
+			"directories": {},
+			"publish_time": 1491604040842,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1491604040842
+		},
+		"0.12.1": {
+			"name": "@types/color",
+			"version": "0.12.1",
+			"description": "TypeScript definitions for color",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c844459bb43e9e37ff0aa1e7c8a3c5178b9d8b47f97e9cb185e3c9d4a8a84fbf",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/color@0.12.1",
+			"dist": {
+				"shasum": "00b7c2e468dffcbc6eeeb7d1412eb5e5d454f229",
+				"size": 1522,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-0.12.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/color-0.12.1.tgz_1488291772937_0.4469919824041426"
+			},
+			"directories": {},
+			"publish_time": 1488291773158,
+			"_cnpm_publish_time": 1488291773158,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "@types/color",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for color",
+			"license": "MIT",
+			"author": "Karol Janyst <https://github.com/LKay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "49c97b00b235d5a40562fa48d93d2c6ee8073dc3449129472c8ed711d83d2d2a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/color@1.0.0",
+			"dist": {
+				"shasum": "165dc6b3a4f1205e3499c005119388af8d15fc74",
+				"size": 1554,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/color-1.0.0.tgz_1482831913855_0.3716363657731563"
+			},
+			"directories": {},
+			"publish_time": 1482831914069,
+			"_cnpm_publish_time": 1482831914069,
+			"_hasShrinkwrap": false
+		},
+		"0.12.0": {
+			"name": "@types/color",
+			"version": "0.12.0",
+			"description": "TypeScript definitions for color v0.12.0",
+			"license": "MIT",
+			"author": "Karol Janyst <https://github.com/LKay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "08d3c0e4122061bb32503634daf9f6c65a3e4d679b8b0c628445824aaf7c14a1",
+			"_id": "@types/color@0.12.0",
+			"dist": {
+				"shasum": "4bb346903b874df834534b08a7b724ef91424261",
+				"size": 1724,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/color/download/@types/color-0.12.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/color-0.12.0.tgz_1479152151753_0.15600508777424693"
+			},
+			"directories": {},
+			"publish_time": 1479152153603,
+			"_cnpm_publish_time": 1479152153603,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.0",
+		"ts2.0": "1.0.4",
+		"ts2.1": "1.0.4",
+		"ts2.2": "1.0.4",
+		"ts2.3": "3.0.0",
+		"ts2.4": "3.0.0",
+		"ts2.5": "3.0.0",
+		"ts2.6": "3.0.0",
+		"ts2.7": "3.0.0",
+		"ts2.8": "3.0.0",
+		"ts2.9": "3.0.0",
+		"ts3.0": "3.0.0",
+		"ts3.1": "3.0.0",
+		"ts3.2": "3.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:46.000Z",
+		"created": "2016-11-14T19:35:53.603Z",
+		"2.0.1": "2018-01-27T18:41:36.129Z",
+		"3.0.0": "2018-01-27T18:41:34.513Z",
+		"1.0.5": "2017-08-02T13:47:53.694Z",
+		"2.0.0": "2017-08-02T13:47:47.754Z",
+		"1.0.4": "2017-05-22T21:04:02.843Z",
+		"1.0.3": "2017-05-05T01:12:36.651Z",
+		"1.0.2": "2017-05-04T19:16:48.079Z",
+		"1.0.1": "2017-04-07T22:27:20.842Z",
+		"0.12.1": "2017-02-28T14:22:53.158Z",
+		"1.0.0": "2016-12-27T09:45:14.069Z",
+		"0.12.0": "2016-11-14T19:35:53.603Z"
+	},
+	"_distfiles": {
+		"color-2.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-2.0.1.tgz",
+			"sha": "73a7eefe83e42dcc888b13ae74dc0ec9de6bf815",
+			"registry": "cnpmjs"
+		},
+		"color-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-3.0.0.tgz",
+			"sha": "40f8a6bf2fd86e969876b339a837d8ff1b0a6e30",
+			"registry": "cnpmjs"
+		},
+		"color-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-1.0.5.tgz",
+			"sha": "e0e9bbdc33620988f1fa1bba5db04210cb766b87",
+			"registry": "cnpmjs"
+		},
+		"color-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-2.0.0.tgz",
+			"sha": "73c5db00fcf15426d5a12f9af943eed03d7e0984",
+			"registry": "cnpmjs"
+		},
+		"color-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-1.0.4.tgz",
+			"sha": "d5f696590fd167057e7abc6fe2dd4385bebcf283",
+			"registry": "cnpmjs"
+		},
+		"color-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-1.0.3.tgz",
+			"sha": "54d11f765780cc7e274f15044ac033978a92d349",
+			"registry": "cnpmjs"
+		},
+		"color-1.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-1.0.2.tgz",
+			"sha": "349a6040fbe5ba2076b8cab94cfc2fc674abc691",
+			"registry": "cnpmjs"
+		},
+		"color-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-1.0.1.tgz",
+			"sha": "45c10d456fffe6cacbf5971fe081272fe1b4e851",
+			"registry": "cnpmjs"
+		},
+		"color-0.12.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-0.12.1.tgz",
+			"sha": "00b7c2e468dffcbc6eeeb7d1412eb5e5d454f229",
+			"registry": "cnpmjs"
+		},
+		"color-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-1.0.0.tgz",
+			"sha": "165dc6b3a4f1205e3499c005119388af8d15fc74",
+			"registry": "cnpmjs"
+		},
+		"color-0.12.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/color/download/@types/color-0.12.0.tgz",
+			"sha": "4bb346903b874df834534b08a7b724ef91424261",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"33cd-9xydI/3ZBkpWuHn/uyB12h0gSZI\"",
+			"fetched": 1541833453159
+		}
+	},
+	"_rev": "2-2958dd3222b82705",
+	"readme": "# Installation\r\n> `npm install --save @types/color`\r\n\r\n# Summary\r\nThis package contains type definitions for color (https://github.com/qix-/color#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/color/v2\r\n\r\nAdditional Details\r\n * Last updated: Sat, 27 Jan 2018 18:39:47 GMT\r\n * Dependencies: color-convert\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Junyoung Clare Jang <https://github.com/Airlun>."
+}

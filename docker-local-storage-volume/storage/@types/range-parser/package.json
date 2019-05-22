@@ -1,0 +1,190 @@
+{
+	"name": "@types/range-parser",
+	"versions": {
+		"1.2.2": {
+			"name": "@types/range-parser",
+			"version": "1.2.2",
+			"description": "TypeScript definitions for range-parser",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tomek Łaziuk",
+					"url": "https://github.com/tlaziuk",
+					"githubUsername": "tlaziuk"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "9aa07423616e63016ffbf0e487540e74ec37bb06827861d502a5a3653e8831e9",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/range-parser@1.2.2",
+			"dist": {
+				"shasum": "fa8e1ad1d474688a757140c91de6dace6f4abc8d",
+				"size": 1886,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/range-parser/download/@types/range-parser-1.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/range-parser_1.2.2_1528157125632_0.19075074453775498"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1528157125693,
+			"_cnpm_publish_time": 1528157125693
+		},
+		"1.2.1": {
+			"name": "@types/range-parser",
+			"version": "1.2.1",
+			"description": "TypeScript definitions for range-parser",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tomek Łaziuk",
+					"url": "https://github.com/tlaziuk"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "03972cff5d6102c2b5e14224a112cb83a99fd55ccbf831c6ba9953809199f9a8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/range-parser@1.2.1",
+			"dist": {
+				"shasum": "d5ea5a43288953f7ae0ff4fdca7beee55e1efb1e",
+				"size": 949,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/range-parser/download/@types/range-parser-1.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/range-parser-1.2.1.tgz_1490983644025_0.13351211254484951"
+			},
+			"directories": {},
+			"publish_time": 1490983645837,
+			"_cnpm_publish_time": 1490983645837,
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "@types/range-parser",
+			"version": "1.2.0",
+			"description": "TypeScript definitions for range-parser",
+			"license": "MIT",
+			"author": "Tomek Łaziuk <https://github.com/tlaziuk>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ef6c0b6cc4719620c4c92a0ce00d45a9b4f0b5e1d6d91245fc80e32d9886f21d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/range-parser@1.2.0",
+			"dist": {
+				"shasum": "9de85d972f138909c0f71205157bb707908df088",
+				"size": 1146,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/range-parser/download/@types/range-parser-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/range-parser-1.2.0.tgz_1486765496963_0.6287025790661573"
+			},
+			"directories": {},
+			"publish_time": 1486765498914,
+			"_cnpm_publish_time": 1486765498914,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.2",
+		"ts2.0": "1.2.2",
+		"ts2.1": "1.2.2",
+		"ts2.2": "1.2.2",
+		"ts2.3": "1.2.2",
+		"ts2.4": "1.2.2",
+		"ts2.5": "1.2.2",
+		"ts2.6": "1.2.2",
+		"ts2.7": "1.2.2",
+		"ts2.8": "1.2.2",
+		"ts2.9": "1.2.2",
+		"ts3.0": "1.2.2",
+		"ts3.1": "1.2.2",
+		"ts3.2": "1.2.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:26:06.000Z",
+		"created": "2017-02-10T22:24:58.914Z",
+		"1.2.2": "2018-06-05T00:05:25.693Z",
+		"1.2.1": "2017-03-31T18:07:25.837Z",
+		"1.2.0": "2017-02-10T22:24:58.914Z"
+	},
+	"_distfiles": {
+		"range-parser-1.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/range-parser/download/@types/range-parser-1.2.2.tgz",
+			"sha": "fa8e1ad1d474688a757140c91de6dace6f4abc8d",
+			"registry": "cnpmjs"
+		},
+		"range-parser-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/range-parser/download/@types/range-parser-1.2.1.tgz",
+			"sha": "d5ea5a43288953f7ae0ff4fdca7beee55e1efb1e",
+			"registry": "cnpmjs"
+		},
+		"range-parser-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/range-parser/download/@types/range-parser-1.2.0.tgz",
+			"sha": "9de85d972f138909c0f71205157bb707908df088",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"11e0-8fcAMaiMj7U5Lq+7vMlJPgPAVnQ\"",
+			"fetched": 1541833487577
+		}
+	},
+	"_rev": "4-a6cd0f78982f0cba",
+	"readme": "# Installation\r\n> `npm install --save @types/range-parser`\r\n\r\n# Summary\r\nThis package contains type definitions for range-parser (https://github.com/jshttp/range-parser).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/range-parser\r\n\r\nAdditional Details\r\n * Last updated: Tue, 05 Jun 2018 00:03:07 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tomek Łaziuk <https://github.com/tlaziuk>."
+}

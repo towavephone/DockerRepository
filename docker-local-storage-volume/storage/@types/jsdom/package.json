@@ -1,0 +1,1325 @@
+{
+	"name": "@types/jsdom",
+	"versions": {
+		"11.0.5": {
+			"name": "@types/jsdom",
+			"version": "11.0.5",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonard Thieu",
+					"url": "https://github.com/leonard-thieu",
+					"githubUsername": "leonard-thieu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"parse5": "^3.0.2",
+				"@types/events": "*",
+				"@types/tough-cookie": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "55ee2c7377aa535bde0d7add263f21b10233635ad424e7a77bdab915a31261a3",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jsdom@11.0.5",
+			"dist": {
+				"shasum": "b12fffc73eb3731b218e9665a50f023b6b84b5cb",
+				"size": 4376,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom_11.0.5_1528262241531_0.24045533265678865"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1528262241614,
+			"_cnpm_publish_time": 1528262241614
+		},
+		"11.0.4": {
+			"name": "@types/jsdom",
+			"version": "11.0.4",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonard Thieu",
+					"url": "https://github.com/leonard-thieu",
+					"githubUsername": "leonard-thieu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"parse5": "^3.0.2",
+				"@types/tough-cookie": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "8274925fce1421e7e398e6ed60e6a418567bfb208738eba216a2c645e44cde68",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jsdom@11.0.4",
+			"dist": {
+				"shasum": "a645db4704cf7e4f811f583926ad12525c719400",
+				"size": 4394,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom-11.0.4.tgz_1510268107902_0.23516276176087558"
+			},
+			"directories": {},
+			"publish_time": 1510268108074,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510268108074
+		},
+		"11.0.3": {
+			"name": "@types/jsdom",
+			"version": "11.0.3",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonard Thieu",
+					"url": "https://github.com/leonard-thieu",
+					"githubUsername": "leonard-thieu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"parse5": "^3.0.2",
+				"@types/tough-cookie": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "390cf6e7875b9b367eeefb26299847e87c3364eaf6b4be555e2de1d3e5a5a630",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jsdom@11.0.3",
+			"dist": {
+				"shasum": "f973264511c82a286fcac999068c4734100b0491",
+				"size": 3131,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom-11.0.3.tgz_1508956825497_0.18252689950168133"
+			},
+			"directories": {},
+			"publish_time": 1508956825586,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508956825586
+		},
+		"11.0.2": {
+			"name": "@types/jsdom",
+			"version": "11.0.2",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonard Thieu",
+					"url": "https://github.com/leonard-thieu",
+					"githubUsername": "leonard-thieu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"parse5": "^3.0.2",
+				"@types/tough-cookie": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "cd9bcdf5d7c5e03813fa7489c91b69878daeca2420c48665252726a184a41394",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jsdom@11.0.2",
+			"dist": {
+				"shasum": "57e14d79f35b486670eeb79d04d05158509d2318",
+				"size": 3120,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom-11.0.2.tgz_1504216341259_0.038546370109543204"
+			},
+			"directories": {},
+			"publish_time": 1504216341388,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504216341388
+		},
+		"11.0.1": {
+			"name": "@types/jsdom",
+			"version": "11.0.1",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonard Thieu",
+					"url": "https://github.com/leonard-thieu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"parse5": "^3.0.2",
+				"@types/tough-cookie": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a31c37cd3e0602cbe4e6a265651af374d8d76eb1677f8550a99cc5b7fff370b6",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jsdom@11.0.1",
+			"dist": {
+				"shasum": "6de58d77a47eff95fc5b687ad57141eb9632e1af",
+				"size": 3114,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom-11.0.1.tgz_1498859171018_0.3719696050975472"
+			},
+			"directories": {},
+			"publish_time": 1498859171122,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498859171122
+		},
+		"2.0.32": {
+			"name": "@types/jsdom",
+			"version": "2.0.32",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*",
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7c7b5258f8d28615ea008c83f7b599255ace1c9a41a6efcc80072de122ce3b40",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jsdom@2.0.32",
+			"dist": {
+				"shasum": "e6caa025893a4d6806bf4f66d0f414634f01bad1",
+				"size": 4218,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom-2.0.32.tgz_1497557783885_0.454697233857587"
+			},
+			"directories": {},
+			"publish_time": 1497557783989,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497557783989
+		},
+		"11.0.0": {
+			"name": "@types/jsdom",
+			"version": "11.0.0",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonard Thieu",
+					"url": "https://github.com/leonard-thieu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"parse5": "^3.0.2",
+				"@types/tough-cookie": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e4a5cc7d3925371eb47b9042b76093f7fc4bcc28006f8c8bd77d7fa9464c86cf",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jsdom@11.0.0",
+			"dist": {
+				"shasum": "7ce7deaa1843601ed043f51a0de84fb940574184",
+				"size": 3234,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom-11.0.0.tgz_1496409988409_0.956883120117709"
+			},
+			"directories": {},
+			"publish_time": 1496409989309,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496409989309
+		},
+		"2.0.31": {
+			"name": "@types/jsdom",
+			"version": "2.0.31",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*",
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fc90759f122f659fc5b2ef6b94c1ec18ecefc0a2e41e416863358d7bfe0b8870",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/jsdom@2.0.31",
+			"dist": {
+				"shasum": "ca0728210276571761e28fb9f974ff77098ec937",
+				"size": 4213,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom-2.0.31.tgz_1496367352827_0.5221550099086016"
+			},
+			"directories": {},
+			"publish_time": 1496367352930,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496367352930
+		},
+		"2.0.30": {
+			"name": "@types/jsdom",
+			"version": "2.0.30",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*",
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "75062a538f0175f8ce8653cd6d8e51d94ea5f03290a28d9011c53d87d02df8ae",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/jsdom@2.0.30",
+			"dist": {
+				"shasum": "37f8aae61a33742da062fa2b9f8c7b90016725ac",
+				"size": 3721,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.30.tgz_1487010640701_0.7416092241182923"
+			},
+			"directories": {},
+			"publish_time": 1487010640923,
+			"_cnpm_publish_time": 1487010640923,
+			"_hasShrinkwrap": false
+		},
+		"2.0.29": {
+			"name": "@types/jsdom",
+			"version": "2.0.29",
+			"description": "TypeScript definitions for jsdom 2.0.0",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*",
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "d8e7ca3c9b7af72e5e734387a86ce861b01cec66e622a6d29afcfc7d06ac781e",
+			"_id": "@types/jsdom@2.0.29",
+			"dist": {
+				"shasum": "b4efaa56b24b8b14a5f435a4badc6770bd0f8755",
+				"size": 3721,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.29.tgz_1474307048597_0.44528607022948563"
+			},
+			"directories": {},
+			"publish_time": 1474307051614,
+			"_cnpm_publish_time": 1474307051614,
+			"_hasShrinkwrap": false
+		},
+		"2.0.28": {
+			"name": "@types/jsdom",
+			"version": "2.0.28",
+			"description": "TypeScript definitions for jsdom 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*",
+				"@types/jquery": "1.10.*"
+			},
+			"_id": "@types/jsdom@2.0.28",
+			"_shasum": "a7ec3958f4081356174c4282971d92df68af0df6",
+			"_from": "output\\jsdom",
+			"_resolved": "file:output\\jsdom",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a7ec3958f4081356174c4282971d92df68af0df6",
+				"size": 3699,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.28.tgz_1468508942252_0.23213178222067654"
+			},
+			"directories": {},
+			"publish_time": 1468508944934,
+			"_cnpm_publish_time": 1468508944934,
+			"_hasShrinkwrap": false
+		},
+		"2.0.27-alpha": {
+			"name": "@types/jsdom",
+			"version": "2.0.27-alpha",
+			"description": "TypeScript definitions for jsdom 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha",
+				"@types/jquery": "1.10.26-alpha"
+			},
+			"_id": "@types/jsdom@2.0.27-alpha",
+			"_shasum": "4fdbc71bf9d6867627fafd284e50f3f3e5314f4f",
+			"_from": "output\\jsdom",
+			"_resolved": "file:output\\jsdom",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4fdbc71bf9d6867627fafd284e50f3f3e5314f4f",
+				"size": 3706,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.27-alpha.tgz_1468010255624_0.39613280538469553"
+			},
+			"directories": {},
+			"publish_time": 1468010258447,
+			"_cnpm_publish_time": 1468010258447,
+			"_hasShrinkwrap": false
+		},
+		"2.0.26-alpha": {
+			"name": "@types/jsdom",
+			"version": "2.0.26-alpha",
+			"description": "TypeScript definitions for jsdom 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha",
+				"@types/jquery": "1.10.25-alpha"
+			},
+			"_id": "@types/jsdom@2.0.26-alpha",
+			"_shasum": "ef11fae7ca48147922bde5096ffcbfe19f641629",
+			"_from": "output\\jsdom",
+			"_resolved": "file:output\\jsdom",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ef11fae7ca48147922bde5096ffcbfe19f641629",
+				"size": 3703,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.26-alpha.tgz_1467592789227_0.2744633057154715"
+			},
+			"directories": {},
+			"publish_time": 1467592792419,
+			"_cnpm_publish_time": 1467592792419,
+			"_hasShrinkwrap": false
+		},
+		"2.0.25-alpha": {
+			"name": "@types/jsdom",
+			"version": "2.0.25-alpha",
+			"description": "TypeScript definitions for jsdom 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha",
+				"@types/jquery": "1.10.24-alpha"
+			},
+			"_id": "@types/jsdom@2.0.25-alpha",
+			"_shasum": "99da51acd89739edba71ef3245eb491876178c5e",
+			"_from": "output\\jsdom",
+			"_resolved": "file:output\\jsdom",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "99da51acd89739edba71ef3245eb491876178c5e",
+				"size": 3707,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.25-alpha.tgz_1467427470851_0.3839398785494268"
+			},
+			"directories": {},
+			"publish_time": 1467427471418,
+			"_cnpm_publish_time": 1467427471418,
+			"_hasShrinkwrap": false
+		},
+		"2.0.24-alpha": {
+			"name": "@types/jsdom",
+			"version": "2.0.24-alpha",
+			"description": "TypeScript definitions for jsdom 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha",
+				"@types/jquery": "1.10.23-alpha"
+			},
+			"_id": "@types/jsdom@2.0.24-alpha",
+			"_shasum": "580dc6b1fc1f3c409736887c0974a818369dd9e8",
+			"_from": "output\\jsdom",
+			"_resolved": "file:output\\jsdom",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "580dc6b1fc1f3c409736887c0974a818369dd9e8",
+				"size": 3703,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.24-alpha.tgz_1467414913109_0.5433891706634313"
+			},
+			"directories": {},
+			"publish_time": 1467414913710,
+			"_cnpm_publish_time": 1467414913710,
+			"_hasShrinkwrap": false
+		},
+		"2.0.23-alpha": {
+			"name": "@types/jsdom",
+			"version": "2.0.23-alpha",
+			"description": "TypeScript definitions for jsdom 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*",
+				"@types/jquery": "1.10.*"
+			},
+			"_id": "@types/jsdom@2.0.23-alpha",
+			"_shasum": "55c3c87476a5156e1071aead26d9bc9e294bdb02",
+			"_from": "output\\jsdom",
+			"_resolved": "file:output\\jsdom",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "55c3c87476a5156e1071aead26d9bc9e294bdb02",
+				"size": 3687,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.23-alpha.tgz_1467402746222_0.4659261454362422"
+			},
+			"directories": {},
+			"publish_time": 1467402748597,
+			"_cnpm_publish_time": 1467402748597,
+			"_hasShrinkwrap": false
+		},
+		"2.0.22-alpha": {
+			"name": "@types/jsdom",
+			"version": "2.0.22-alpha",
+			"description": "TypeScript definitions for jsdom 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*",
+				"@types/jquery": "*"
+			},
+			"_id": "@types/jsdom@2.0.22-alpha",
+			"_shasum": "a3308a226665fac168c2ed6927f83d965818493d",
+			"_from": "output\\jsdom",
+			"_resolved": "file:output\\jsdom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a3308a226665fac168c2ed6927f83d965818493d",
+				"size": 3668,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.22-alpha.tgz_1464153443681_0.7471810253337026"
+			},
+			"directories": {},
+			"publish_time": 1464153444170,
+			"_cnpm_publish_time": 1464153444170,
+			"_hasShrinkwrap": false
+		},
+		"2.0.21-alpha": {
+			"name": "@types/jsdom",
+			"version": "2.0.21-alpha",
+			"description": "TypeScript definitions for jsdom 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*",
+				"@types/jquery": "*"
+			},
+			"_id": "@types/jsdom@2.0.21-alpha",
+			"_shasum": "dbeba1b6c0eac6e3b6b9a5d38a9d7a38fccc8247",
+			"_from": "output\\jsdom",
+			"_resolved": "file:output\\jsdom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dbeba1b6c0eac6e3b6b9a5d38a9d7a38fccc8247",
+				"size": 3670,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.21-alpha.tgz_1463774348840_0.01720568141900003"
+			},
+			"directories": {},
+			"publish_time": 1463774350914,
+			"_cnpm_publish_time": 1463774350914,
+			"_hasShrinkwrap": false
+		},
+		"2.0.16-alpha": {
+			"name": "@types/jsdom",
+			"version": "2.0.16-alpha",
+			"description": "Type definitions for jsdom 2.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*",
+				"@types/jquery": "*"
+			},
+			"_id": "@types/jsdom@2.0.16-alpha",
+			"_shasum": "45999bc313164f9034958d1bf5558aea821995ea",
+			"_from": "output\\jsdom",
+			"_resolved": "file:output\\jsdom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "45999bc313164f9034958d1bf5558aea821995ea",
+				"size": 3671,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.16-alpha.tgz_1463693225740_0.7611105116084218"
+			},
+			"directories": {},
+			"publish_time": 1463693231126,
+			"_cnpm_publish_time": 1463693231126,
+			"_hasShrinkwrap": false
+		},
+		"2.0.15-alpha": {
+			"name": "@types/jsdom",
+			"version": "2.0.15-alpha",
+			"description": "Type definitions for jsdom 2.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsdom@2.0.15-alpha",
+			"_shasum": "408de5de83f9143af1e08a84e5ed1938c6caecde",
+			"_from": "output\\jsdom",
+			"_resolved": "file:output\\jsdom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "408de5de83f9143af1e08a84e5ed1938c6caecde",
+				"size": 3624,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsdom-2.0.15-alpha.tgz_1463462673218_0.3508024059701711"
+			},
+			"directories": {},
+			"publish_time": 1463462676982,
+			"_cnpm_publish_time": 1463462676982,
+			"_hasShrinkwrap": false
+		},
+		"12.2.0": {
+			"name": "@types/jsdom",
+			"version": "12.2.0",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonard Thieu",
+					"url": "https://github.com/leonard-thieu",
+					"githubUsername": "leonard-thieu"
+				},
+				{
+					"name": "Johan Palmfjord",
+					"url": "https://github.com/palmfjord",
+					"githubUsername": "palmfjord"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"parse5": "^4.0.0",
+				"@types/tough-cookie": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "c4f2211010ecff0a6245368a4b89e7e1b4b8ae72a3e14769154bd3a9779e59b6",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jsdom@12.2.0",
+			"dist": {
+				"shasum": "e898ec448a8f9a7418f0456d57b72b6dd51599b4",
+				"size": 4853,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-12.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom_12.2.0_1539193202349_0.6849457457007033"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539193202461,
+			"_cnpm_publish_time": 1539193202461
+		},
+		"11.12.0": {
+			"name": "@types/jsdom",
+			"version": "11.12.0",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonard Thieu",
+					"url": "https://github.com/leonard-thieu",
+					"githubUsername": "leonard-thieu"
+				},
+				{
+					"name": "Johan Palmfjord",
+					"url": "https://github.com/palmfjord",
+					"githubUsername": "palmfjord"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"parse5": "^4.0.0",
+				"@types/events": "*",
+				"@types/tough-cookie": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "265ac95f4e764ca77d279835bdcc626132f09b4e9b252962194561991f371b97",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jsdom@11.12.0",
+			"dist": {
+				"shasum": "00ddc6f0a1b04c2f5ff6fb23eb59360ca65f12ae",
+				"size": 4778,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.12.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom_11.12.0_1536881996274_0.7490662695409331"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536881996453,
+			"_cnpm_publish_time": 1536881996453
+		},
+		"11.0.6": {
+			"name": "@types/jsdom",
+			"version": "11.0.6",
+			"description": "TypeScript definitions for jsdom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Leonard Thieu",
+					"url": "https://github.com/leonard-thieu",
+					"githubUsername": "leonard-thieu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"parse5": "^4.0.0",
+				"@types/events": "*",
+				"@types/tough-cookie": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "f633a100b8e9df550043f8d019685f8323014049090f0032186ca9bbb60760be",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/jsdom@11.0.6",
+			"dist": {
+				"shasum": "20d6e8c83f15fef0b40c39b3faebe8bc7587d86e",
+				"size": 4387,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsdom_11.0.6_1529453519593_0.7602614141691488"
+			},
+			"publish_time": 1529453519660,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1529453519660
+		}
+	},
+	"dist-tags": {
+		"latest": "12.2.0",
+		"ts2.0": "2.0.30",
+		"ts2.1": "2.0.30",
+		"ts2.2": "12.2.0",
+		"ts2.3": "12.2.0",
+		"ts2.4": "12.2.0",
+		"ts2.5": "12.2.0",
+		"ts2.6": "12.2.0",
+		"ts2.7": "12.2.0",
+		"ts2.8": "12.2.0",
+		"ts2.9": "12.2.0",
+		"ts3.0": "12.2.0",
+		"ts3.1": "12.2.0",
+		"ts3.2": "12.2.0"
+	},
+	"time": {
+		"modified": "2018-10-10T17:41:18.000Z",
+		"created": "2016-05-17T05:24:36.982Z",
+		"12.2.0": "2018-10-10T17:40:02.461Z",
+		"11.12.0": "2018-09-13T23:39:56.453Z",
+		"11.0.6": "2018-06-20T00:11:59.660Z",
+		"11.0.5": "2018-06-06T05:17:21.614Z",
+		"11.0.4": "2017-11-09T22:55:08.074Z",
+		"11.0.3": "2017-10-25T18:40:25.586Z",
+		"11.0.2": "2017-08-31T21:52:21.388Z",
+		"11.0.1": "2017-06-30T21:46:11.122Z",
+		"2.0.32": "2017-06-15T20:16:23.989Z",
+		"11.0.0": "2017-06-02T13:26:29.309Z",
+		"2.0.31": "2017-06-02T01:35:52.930Z",
+		"2.0.30": "2017-02-13T18:30:40.923Z",
+		"2.0.29": "2016-09-19T17:44:11.614Z",
+		"2.0.28": "2016-07-14T15:09:04.934Z",
+		"2.0.27-alpha": "2016-07-08T20:37:38.447Z",
+		"2.0.26-alpha": "2016-07-04T00:39:52.419Z",
+		"2.0.25-alpha": "2016-07-02T02:44:31.418Z",
+		"2.0.24-alpha": "2016-07-01T23:15:13.710Z",
+		"2.0.23-alpha": "2016-07-01T19:52:28.597Z",
+		"2.0.22-alpha": "2016-05-25T05:17:24.170Z",
+		"2.0.21-alpha": "2016-05-20T19:59:10.914Z",
+		"2.0.16-alpha": "2016-05-19T21:27:11.126Z",
+		"2.0.15-alpha": "2016-05-17T05:24:36.982Z"
+	},
+	"_distfiles": {
+		"jsdom-11.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.5.tgz",
+			"sha": "b12fffc73eb3731b218e9665a50f023b6b84b5cb",
+			"registry": "cnpmjs"
+		},
+		"jsdom-11.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.4.tgz",
+			"sha": "a645db4704cf7e4f811f583926ad12525c719400",
+			"registry": "cnpmjs"
+		},
+		"jsdom-11.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.3.tgz",
+			"sha": "f973264511c82a286fcac999068c4734100b0491",
+			"registry": "cnpmjs"
+		},
+		"jsdom-11.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.2.tgz",
+			"sha": "57e14d79f35b486670eeb79d04d05158509d2318",
+			"registry": "cnpmjs"
+		},
+		"jsdom-11.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.1.tgz",
+			"sha": "6de58d77a47eff95fc5b687ad57141eb9632e1af",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.32.tgz",
+			"sha": "e6caa025893a4d6806bf4f66d0f414634f01bad1",
+			"registry": "cnpmjs"
+		},
+		"jsdom-11.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.0.tgz",
+			"sha": "7ce7deaa1843601ed043f51a0de84fb940574184",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.31.tgz",
+			"sha": "ca0728210276571761e28fb9f974ff77098ec937",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.30.tgz",
+			"sha": "37f8aae61a33742da062fa2b9f8c7b90016725ac",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.29.tgz",
+			"sha": "b4efaa56b24b8b14a5f435a4badc6770bd0f8755",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.28.tgz",
+			"sha": "a7ec3958f4081356174c4282971d92df68af0df6",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.27-alpha.tgz",
+			"sha": "4fdbc71bf9d6867627fafd284e50f3f3e5314f4f",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.26-alpha.tgz",
+			"sha": "ef11fae7ca48147922bde5096ffcbfe19f641629",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.25-alpha.tgz",
+			"sha": "99da51acd89739edba71ef3245eb491876178c5e",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.24-alpha.tgz",
+			"sha": "580dc6b1fc1f3c409736887c0974a818369dd9e8",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.23-alpha.tgz",
+			"sha": "55c3c87476a5156e1071aead26d9bc9e294bdb02",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.22-alpha.tgz",
+			"sha": "a3308a226665fac168c2ed6927f83d965818493d",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.21-alpha.tgz",
+			"sha": "dbeba1b6c0eac6e3b6b9a5d38a9d7a38fccc8247",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.16-alpha.tgz",
+			"sha": "45999bc313164f9034958d1bf5558aea821995ea",
+			"registry": "cnpmjs"
+		},
+		"jsdom-2.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-2.0.15-alpha.tgz",
+			"sha": "408de5de83f9143af1e08a84e5ed1938c6caecde",
+			"registry": "cnpmjs"
+		},
+		"jsdom-12.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-12.2.0.tgz",
+			"sha": "e898ec448a8f9a7418f0456d57b72b6dd51599b4",
+			"registry": "cnpmjs"
+		},
+		"jsdom-11.12.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.12.0.tgz",
+			"sha": "00ddc6f0a1b04c2f5ff6fb23eb59360ca65f12ae",
+			"registry": "cnpmjs"
+		},
+		"jsdom-11.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsdom/download/@types/jsdom-11.0.6.tgz",
+			"sha": "20d6e8c83f15fef0b40c39b3faebe8bc7587d86e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833458092
+		}
+	},
+	"_rev": "2-b55b679620bd9dff",
+	"readme": "# Installation\r\n> `npm install --save @types/jsdom`\r\n\r\n# Summary\r\nThis package contains type definitions for jsdom (https://github.com/tmpvar/jsdom#readme).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/jsdom\r\n\r\nAdditional Details\r\n * Last updated: Wed, 10 Oct 2018 17:39:25 GMT\r\n * Dependencies: parse5, tough-cookie, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Leonard Thieu <https://github.com/leonard-thieu>, Johan Palmfjord <https://github.com/palmfjord>."
+}

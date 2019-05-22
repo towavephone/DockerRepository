@@ -1,0 +1,259 @@
+{
+	"name": "@types/download",
+	"versions": {
+		"6.2.2": {
+			"name": "@types/download",
+			"version": "6.2.2",
+			"description": "TypeScript definitions for download",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/decompress": "*",
+				"@types/got": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "da2abac0e452d76ac887ebb87133a2a5ec60c87c914393e458cd8133107d34ca",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/download@6.2.2",
+			"dist": {
+				"shasum": "11385a3fd6e1f3300362fb52db119420ecc0fb34",
+				"size": 1819,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/download/download/@types/download-6.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/download_6.2.2_1521741193596_0.0044758752139530955"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521741193736,
+			"_cnpm_publish_time": 1521741193736
+		},
+		"6.2.1": {
+			"name": "@types/download",
+			"version": "6.2.1",
+			"description": "TypeScript definitions for download",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "a502a5ddd9ceb2ee032e2700d507d675df80d6703ca1d4c29c12de4b24c7c46d",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/download@6.2.1",
+			"dist": {
+				"shasum": "56427bd11bebf8002e09abb7a5383dc870af7240",
+				"size": 1846,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/download/download/@types/download-6.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/download-6.2.1.tgz_1515009906324_0.304608354344964"
+			},
+			"directories": {},
+			"publish_time": 1515009906386,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515009906386
+		},
+		"6.2.0": {
+			"name": "@types/download",
+			"version": "6.2.0",
+			"description": "TypeScript definitions for download",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "53bb9cfc1fa34776715a226ea0f76a30844550b8f4362f46c2ebeee2345f65aa",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/download@6.2.0",
+			"dist": {
+				"shasum": "595665c7a861a47d8162c352ff1e587068f3d1dd",
+				"size": 1836,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/download/download/@types/download-6.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/download-6.2.0.tgz_1511295756771_0.26505677262321115"
+			},
+			"directories": {},
+			"publish_time": 1511295756835,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511295756835
+		},
+		"6.2.3": {
+			"name": "@types/download",
+			"version": "6.2.3",
+			"description": "TypeScript definitions for download",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/got": "^8",
+				"@types/decompress": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "bd18f4c6d518429f1d92eae3eb95b3758f150822bf296b7f4a6adeba03bb9ae9",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/download@6.2.3",
+			"dist": {
+				"shasum": "9bb00b4dbfd3530d562287b8d64f054c76704f7a",
+				"size": 1818,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/download/download/@types/download-6.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/download_6.2.3_1540929181734_0.4582366653119192"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1540929181998,
+			"_cnpm_publish_time": 1540929181998
+		}
+	},
+	"dist-tags": {
+		"latest": "6.2.3",
+		"ts2.2": "6.2.1",
+		"ts2.3": "6.2.3",
+		"ts2.4": "6.2.3",
+		"ts2.5": "6.2.3",
+		"ts2.6": "6.2.3",
+		"ts2.7": "6.2.3",
+		"ts2.8": "6.2.3",
+		"ts2.9": "6.2.3",
+		"ts3.0": "6.2.3",
+		"ts3.1": "6.2.3",
+		"ts3.2": "6.2.3"
+	},
+	"time": {
+		"modified": "2018-10-30T19:53:14.000Z",
+		"created": "2017-11-21T20:22:36.835Z",
+		"6.2.3": "2018-10-30T19:53:01.998Z",
+		"6.2.2": "2018-03-22T17:53:13.736Z",
+		"6.2.1": "2018-01-03T20:05:06.386Z",
+		"6.2.0": "2017-11-21T20:22:36.835Z"
+	},
+	"_distfiles": {
+		"download-6.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/download/download/@types/download-6.2.2.tgz",
+			"sha": "11385a3fd6e1f3300362fb52db119420ecc0fb34",
+			"registry": "cnpmjs"
+		},
+		"download-6.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/download/download/@types/download-6.2.1.tgz",
+			"sha": "56427bd11bebf8002e09abb7a5383dc870af7240",
+			"registry": "cnpmjs"
+		},
+		"download-6.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/download/download/@types/download-6.2.0.tgz",
+			"sha": "595665c7a861a47d8162c352ff1e587068f3d1dd",
+			"registry": "cnpmjs"
+		},
+		"download-6.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/download/download/@types/download-6.2.3.tgz",
+			"sha": "9bb00b4dbfd3530d562287b8d64f054c76704f7a",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1656-sEEPGqfbhVMq8f9kPvpzxV2qtQ4\"",
+			"fetched": 1541833454579
+		}
+	},
+	"_rev": "2-88673f896b3b828c",
+	"readme": "# Installation\r\n> `npm install --save @types/download`\r\n\r\n# Summary\r\nThis package contains type definitions for download (https://github.com/kevva/download).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/download\r\n\r\nAdditional Details\r\n * Last updated: Tue, 30 Oct 2018 19:52:56 GMT\r\n * Dependencies: got, decompress, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Nico Jansen <https://github.com/nicojs>."
+}

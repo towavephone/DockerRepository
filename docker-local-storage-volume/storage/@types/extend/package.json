@@ -1,0 +1,660 @@
+{
+	"name": "@types/extend",
+	"versions": {
+		"3.0.0": {
+			"name": "@types/extend",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for extend",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stefan Steinhart",
+					"url": "https://github.com/reppners",
+					"githubUsername": "reppners"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b1d0d691e3a44cc872e5e2962c396f20469f22e4a9a14875e73edcb218b71abb",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/extend@3.0.0",
+			"dist": {
+				"shasum": "d269e5af1463cd6344272abd814c8a833b914d07",
+				"size": 1609,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/extend-3.0.0.tgz_1507591365886_0.9792162629310042"
+			},
+			"directories": {},
+			"publish_time": 1507591365970,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507591365970
+		},
+		"2.0.30": {
+			"name": "@types/extend",
+			"version": "2.0.30",
+			"description": "TypeScript definitions for extend v2.0.0",
+			"license": "MIT",
+			"author": "Stefan Steinhart <https://github.com/reppners>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "bf4229ed5afe427b3abdaf7a98688fc4420e5bb68cb87463e9d4ec630d4cca6a",
+			"_id": "@types/extend@2.0.30",
+			"dist": {
+				"shasum": "58cc93f621d0a358d3fec9bd6e739bc60ec7e275",
+				"size": 1024,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.30.tgz_1474306318030_0.6947702998295426"
+			},
+			"directories": {},
+			"publish_time": 1474306321115,
+			"_cnpm_publish_time": 1474306321115,
+			"_hasShrinkwrap": false
+		},
+		"2.0.29": {
+			"name": "@types/extend",
+			"version": "2.0.29",
+			"description": "TypeScript definitions for extend v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Steinhart",
+				"email": "https://github.com/reppners"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/extend@2.0.29",
+			"_shasum": "eed31bc4b2997823f68cce5dc377480bbc874a3b",
+			"_from": "output\\extend",
+			"_resolved": "file:output\\extend",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "eed31bc4b2997823f68cce5dc377480bbc874a3b",
+				"size": 999,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.29.tgz_1468506839014_0.10490502486936748"
+			},
+			"directories": {},
+			"publish_time": 1468506839511,
+			"_cnpm_publish_time": 1468506839511,
+			"_hasShrinkwrap": false
+		},
+		"2.0.28-alpha": {
+			"name": "@types/extend",
+			"version": "2.0.28-alpha",
+			"description": "TypeScript definitions for extend v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Steinhart",
+				"email": "https://github.com/reppners"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/extend@2.0.28-alpha",
+			"_shasum": "157e1ae770b392f8c9e54cd7750c00af018fb6de",
+			"_from": "output\\extend",
+			"_resolved": "file:output\\extend",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "157e1ae770b392f8c9e54cd7750c00af018fb6de",
+				"size": 1004,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.28-alpha.tgz_1468008487573_0.01371845556423068"
+			},
+			"directories": {},
+			"publish_time": 1468008488921,
+			"_cnpm_publish_time": 1468008488921,
+			"_hasShrinkwrap": false
+		},
+		"2.0.27-alpha": {
+			"name": "@types/extend",
+			"version": "2.0.27-alpha",
+			"description": "TypeScript definitions for extend v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Steinhart",
+				"email": "https://github.com/reppners"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/extend@2.0.27-alpha",
+			"_shasum": "54e63fc62a36c6fc4f88244e22b71bb02bf7e827",
+			"_from": "output\\extend",
+			"_resolved": "file:output\\extend",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "54e63fc62a36c6fc4f88244e22b71bb02bf7e827",
+				"size": 1001,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.27-alpha.tgz_1467591181141_0.2965468873735517"
+			},
+			"directories": {},
+			"publish_time": 1467591181695,
+			"_cnpm_publish_time": 1467591181695,
+			"_hasShrinkwrap": false
+		},
+		"2.0.26-alpha": {
+			"name": "@types/extend",
+			"version": "2.0.26-alpha",
+			"description": "TypeScript definitions for extend v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Steinhart",
+				"email": "https://github.com/reppners"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/extend@2.0.26-alpha",
+			"_shasum": "daec757c7cd4aa1760323e360f68660b0f1bb1ad",
+			"_from": "output\\extend",
+			"_resolved": "file:output\\extend",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "daec757c7cd4aa1760323e360f68660b0f1bb1ad",
+				"size": 1003,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.26-alpha.tgz_1467425970371_0.7894730526022613"
+			},
+			"directories": {},
+			"publish_time": 1467425970863,
+			"_cnpm_publish_time": 1467425970863,
+			"_hasShrinkwrap": false
+		},
+		"2.0.25-alpha": {
+			"name": "@types/extend",
+			"version": "2.0.25-alpha",
+			"description": "TypeScript definitions for extend v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Steinhart",
+				"email": "https://github.com/reppners"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/extend@2.0.25-alpha",
+			"_shasum": "ea22acb4e3123d78f52c4560ba40835595be0f7f",
+			"_from": "output\\extend",
+			"_resolved": "file:output\\extend",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ea22acb4e3123d78f52c4560ba40835595be0f7f",
+				"size": 1004,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.25-alpha.tgz_1467413104427_0.6071624280884862"
+			},
+			"directories": {},
+			"publish_time": 1467413106866,
+			"_cnpm_publish_time": 1467413106866,
+			"_hasShrinkwrap": false
+		},
+		"2.0.24-alpha": {
+			"name": "@types/extend",
+			"version": "2.0.24-alpha",
+			"description": "TypeScript definitions for extend v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Steinhart",
+				"email": "https://github.com/reppners"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/extend@2.0.24-alpha",
+			"_shasum": "d57888f94225d1d12c69bd52385823cb7479325d",
+			"_from": "output\\extend",
+			"_resolved": "file:output\\extend",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d57888f94225d1d12c69bd52385823cb7479325d",
+				"size": 1001,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.24-alpha.tgz_1467400776342_0.7757312953472137"
+			},
+			"directories": {},
+			"publish_time": 1467400779859,
+			"_cnpm_publish_time": 1467400779859,
+			"_hasShrinkwrap": false
+		},
+		"2.0.23-alpha": {
+			"name": "@types/extend",
+			"version": "2.0.23-alpha",
+			"description": "TypeScript definitions for extend v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Steinhart",
+				"email": "https://github.com/reppners"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/extend@2.0.23-alpha",
+			"_shasum": "0a301315424d4f412a1b0652cea94d0ff790ff7b",
+			"_from": "output\\extend",
+			"_resolved": "file:output\\extend",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0a301315424d4f412a1b0652cea94d0ff790ff7b",
+				"size": 973,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.23-alpha.tgz_1464151956063_0.5251891047228128"
+			},
+			"directories": {},
+			"publish_time": 1464151956511,
+			"_cnpm_publish_time": 1464151956511,
+			"_hasShrinkwrap": false
+		},
+		"2.0.22-alpha": {
+			"name": "@types/extend",
+			"version": "2.0.22-alpha",
+			"description": "TypeScript definitions for extend v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Steinhart",
+				"email": "https://github.com/reppners"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/extend@2.0.22-alpha",
+			"_shasum": "024a03ad56e49261a1336a92d4360984e9606516",
+			"_from": "output\\extend",
+			"_resolved": "file:output\\extend",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "024a03ad56e49261a1336a92d4360984e9606516",
+				"size": 973,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.22-alpha.tgz_1463772852277_0.14027325925417244"
+			},
+			"directories": {},
+			"publish_time": 1463772854350,
+			"_cnpm_publish_time": 1463772854350,
+			"_hasShrinkwrap": false
+		},
+		"2.0.17-alpha": {
+			"name": "@types/extend",
+			"version": "2.0.17-alpha",
+			"description": "Type definitions for extend v2.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Steinhart",
+				"email": "https://github.com/reppners"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/extend@2.0.17-alpha",
+			"_shasum": "234d2d00c0af2d4fb24c6f3906c53ae4c5bba035",
+			"_from": "output\\extend",
+			"_resolved": "file:output\\extend",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "234d2d00c0af2d4fb24c6f3906c53ae4c5bba035",
+				"size": 985,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.17-alpha.tgz_1463691037116_0.5778296627104282"
+			},
+			"directories": {},
+			"publish_time": 1463691037795,
+			"_cnpm_publish_time": 1463691037795,
+			"_hasShrinkwrap": false
+		},
+		"2.0.16-alpha": {
+			"name": "@types/extend",
+			"version": "2.0.16-alpha",
+			"description": "Type definitions for extend v2.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Stefan Steinhart",
+				"email": "https://github.com/reppners"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/extend@2.0.16-alpha",
+			"_shasum": "c41f6e2a5c741c982b54e0e6e288f030d1be7106",
+			"_from": "output\\extend",
+			"_resolved": "file:output\\extend",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c41f6e2a5c741c982b54e0e6e288f030d1be7106",
+				"size": 969,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/extend-2.0.16-alpha.tgz_1463460856461_0.5559285234194249"
+			},
+			"directories": {},
+			"publish_time": 1463460859866,
+			"_cnpm_publish_time": 1463460859866,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.0",
+		"ts2.0": "3.0.0",
+		"ts2.1": "3.0.0",
+		"ts2.2": "3.0.0",
+		"ts2.3": "3.0.0",
+		"ts2.4": "3.0.0",
+		"ts2.5": "3.0.0",
+		"ts2.6": "3.0.0",
+		"ts2.7": "3.0.0",
+		"ts2.8": "3.0.0",
+		"ts2.9": "3.0.0",
+		"ts3.0": "3.0.0",
+		"ts3.1": "3.0.0",
+		"ts3.2": "3.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:11:01.000Z",
+		"created": "2016-05-17T04:54:19.866Z",
+		"3.0.0": "2017-10-09T23:22:45.970Z",
+		"2.0.30": "2016-09-19T17:32:01.115Z",
+		"2.0.29": "2016-07-14T14:33:59.511Z",
+		"2.0.28-alpha": "2016-07-08T20:08:08.921Z",
+		"2.0.27-alpha": "2016-07-04T00:13:01.695Z",
+		"2.0.26-alpha": "2016-07-02T02:19:30.863Z",
+		"2.0.25-alpha": "2016-07-01T22:45:06.866Z",
+		"2.0.24-alpha": "2016-07-01T19:19:39.859Z",
+		"2.0.23-alpha": "2016-05-25T04:52:36.511Z",
+		"2.0.22-alpha": "2016-05-20T19:34:14.350Z",
+		"2.0.17-alpha": "2016-05-19T20:50:37.795Z",
+		"2.0.16-alpha": "2016-05-17T04:54:19.866Z"
+	},
+	"_distfiles": {
+		"extend-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-3.0.0.tgz",
+			"sha": "d269e5af1463cd6344272abd814c8a833b914d07",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.30.tgz",
+			"sha": "58cc93f621d0a358d3fec9bd6e739bc60ec7e275",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.29.tgz",
+			"sha": "eed31bc4b2997823f68cce5dc377480bbc874a3b",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.28-alpha.tgz",
+			"sha": "157e1ae770b392f8c9e54cd7750c00af018fb6de",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.27-alpha.tgz",
+			"sha": "54e63fc62a36c6fc4f88244e22b71bb02bf7e827",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.26-alpha.tgz",
+			"sha": "daec757c7cd4aa1760323e360f68660b0f1bb1ad",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.25-alpha.tgz",
+			"sha": "ea22acb4e3123d78f52c4560ba40835595be0f7f",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.24-alpha.tgz",
+			"sha": "d57888f94225d1d12c69bd52385823cb7479325d",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.23-alpha.tgz",
+			"sha": "0a301315424d4f412a1b0652cea94d0ff790ff7b",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.22-alpha.tgz",
+			"sha": "024a03ad56e49261a1336a92d4360984e9606516",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.17-alpha.tgz",
+			"sha": "234d2d00c0af2d4fb24c6f3906c53ae4c5bba035",
+			"registry": "cnpmjs"
+		},
+		"extend-2.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/extend/download/@types/extend-2.0.16-alpha.tgz",
+			"sha": "c41f6e2a5c741c982b54e0e6e288f030d1be7106",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"39f9-/C7zPMMURMtv5OpEdRILhmjOU2U\"",
+			"fetched": 1541833455205
+		}
+	},
+	"_rev": "2-dc189950be91158e",
+	"readme": "# Installation\r\n> `npm install --save @types/extend`\r\n\r\n# Summary\r\nThis package contains type definitions for extend (https://www.npmjs.com/package/extend).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/extend\r\n\r\nAdditional Details\r\n * Last updated: Mon, 09 Oct 2017 23:22:01 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Stefan Steinhart <https://github.com/reppners>."
+}

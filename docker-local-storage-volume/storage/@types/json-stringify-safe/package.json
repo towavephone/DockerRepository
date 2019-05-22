@@ -1,0 +1,88 @@
+{
+	"name": "@types/json-stringify-safe",
+	"versions": {
+		"5.0.0": {
+			"name": "@types/json-stringify-safe",
+			"version": "5.0.0",
+			"description": "TypeScript definitions for json-stringify-safe",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "97ac79875c0e4ad3621220955ca17005aac90825830dc1b7924eda4d29615203",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/json-stringify-safe@5.0.0",
+			"dist": {
+				"shasum": "df34d054419d39323a3730966bacba02ac5e474e",
+				"size": 1590,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/json-stringify-safe/download/@types/json-stringify-safe-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/json-stringify-safe-5.0.0.tgz_1502921246449_0.11624209908768535"
+			},
+			"directories": {},
+			"publish_time": 1502921246618,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502921246618
+		}
+	},
+	"dist-tags": {
+		"latest": "5.0.0",
+		"ts2.0": "5.0.0",
+		"ts2.1": "5.0.0",
+		"ts2.2": "5.0.0",
+		"ts2.3": "5.0.0",
+		"ts2.4": "5.0.0",
+		"ts2.5": "5.0.0",
+		"ts2.6": "5.0.0",
+		"ts2.7": "5.0.0",
+		"ts2.8": "5.0.0",
+		"ts2.9": "5.0.0",
+		"ts3.0": "5.0.0",
+		"ts3.1": "5.0.0",
+		"ts3.2": "5.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:56.000Z",
+		"created": "2017-08-16T22:07:26.618Z",
+		"5.0.0": "2017-08-16T22:07:26.618Z"
+	},
+	"_distfiles": {
+		"json-stringify-safe-5.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/json-stringify-safe/download/@types/json-stringify-safe-5.0.0.tgz",
+			"sha": "df34d054419d39323a3730966bacba02ac5e474e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"97e-BbJEgiXH8rVDnfsQ6BHzyn4O9J4\"",
+			"fetched": 1541833457979
+		}
+	},
+	"_rev": "2-84f4b1ffdfbe2692",
+	"readme": "# Installation\r\n> `npm install --save @types/json-stringify-safe`\r\n\r\n# Summary\r\nThis package contains type definitions for json-stringify-safe (https://github.com/isaacs/json-stringify-safe).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/json-stringify-safe\r\n\r\nAdditional Details\r\n * Last updated: Wed, 16 Aug 2017 22:06:59 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by BendingBender <https://github.com/BendingBender>."
+}

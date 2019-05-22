@@ -1,0 +1,1020 @@
+{
+	"name": "@types/vinyl",
+	"versions": {
+		"2.0.2": {
+			"name": "@types/vinyl",
+			"version": "2.0.2",
+			"description": "TypeScript definitions for vinyl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame",
+					"githubUsername": "vvakame"
+				},
+				{
+					"name": "jedmao",
+					"url": "https://github.com/jedmao",
+					"githubUsername": "jedmao"
+				},
+				{
+					"name": "Georgii Dolzhykov",
+					"url": "https://github.com/thorn0",
+					"githubUsername": "thorn0"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "b53d89f08676c28e6e767716f404ded121530be93c17f1ee1545509826c3832e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/vinyl@2.0.2",
+			"dist": {
+				"shasum": "4f3b8dae8f5828d3800ef709b0cff488ee852de3",
+				"size": 4069,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-2.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/vinyl-2.0.2.tgz_1514045161767_0.22778125945478678"
+			},
+			"directories": {},
+			"publish_time": 1514045161831,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514045161831
+		},
+		"2.0.1": {
+			"name": "@types/vinyl",
+			"version": "2.0.1",
+			"description": "TypeScript definitions for vinyl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame"
+				},
+				{
+					"name": "jedmao",
+					"url": "https://github.com/jedmao"
+				},
+				{
+					"name": "Georgii Dolzhykov",
+					"url": "https://github.com/thorn0"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "9ffb0bf4da107c004e6ca9eea762da61b966f39a0b4f6a78915813bcb8de42f5",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/vinyl@2.0.1",
+			"dist": {
+				"shasum": "6b414dfdcd4a785e8e76e87565ed29e79490d9b7",
+				"size": 4054,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-2.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/vinyl-2.0.1.tgz_1503353171327_0.6129933884367347"
+			},
+			"directories": {},
+			"publish_time": 1503353171464,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503353171464
+		},
+		"0.4.1": {
+			"name": "@types/vinyl",
+			"version": "0.4.1",
+			"description": "TypeScript definitions for vinyl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vvakame",
+					"url": "https://github.com/vvakame/"
+				},
+				{
+					"name": "jedmao",
+					"url": "https://github.com/jedmao"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "079e7a15407ce3c4815fcd8aec0d62a0ee7efd2c1ba67892fb7feed3c8be405b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/vinyl@0.4.1",
+			"dist": {
+				"shasum": "5e8062002d070fe16e76caf6e2f08d1de0275047",
+				"size": 1609,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-0.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-0.4.1.tgz_1488407684874_0.30339848226867616"
+			},
+			"directories": {},
+			"publish_time": 1488407686801,
+			"_cnpm_publish_time": 1488407686801,
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "@types/vinyl",
+			"version": "0.4.0",
+			"description": "TypeScript definitions for vinyl",
+			"license": "MIT",
+			"author": "vvakame <https://github.com/vvakame/>, jedmao <https://github.com/jedmao>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "382610f92c70c4439a4129b1298f4a0bb5072e1cdb65babde19d6dbb8d1fa0d3",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/vinyl@0.4.0",
+			"dist": {
+				"shasum": "3037980f0e7dfccc32b14ab56d8a281363290918",
+				"size": 1784,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-0.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-0.4.0.tgz_1484074738878_0.19504623650573194"
+			},
+			"directories": {},
+			"publish_time": 1484074740627,
+			"_cnpm_publish_time": 1484074740627,
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "@types/vinyl",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for vinyl",
+			"license": "MIT",
+			"author": "vvakame <https://github.com/vvakame/>, jedmao <https://github.com/jedmao>, Georgii Dolzhykov <https://github.com/thorn0>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b875b3cdca65a3045dc53944d75b5ddebe77a1f002096abddad689645786e89e",
+			"_id": "@types/vinyl@2.0.0",
+			"dist": {
+				"shasum": "fd213bf7f4136dde21fe1895500b12c186f8c268",
+				"size": 3549,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/vinyl-2.0.0.tgz_1480446163271_0.6720847182441503"
+			},
+			"directories": {},
+			"publish_time": 1480446163492,
+			"_cnpm_publish_time": 1480446163492,
+			"_hasShrinkwrap": false
+		},
+		"1.2.30": {
+			"name": "@types/vinyl",
+			"version": "1.2.30",
+			"description": "TypeScript definitions for vinyl 1.2.0",
+			"license": "MIT",
+			"author": "vvakame <https://github.com/vvakame/>, jedmao <https://github.com/jedmao>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "a60f6d74b57cbc40bbd16a7df37c77c562a97e9f0e6bb5f6eb6450c5e70a715d",
+			"_id": "@types/vinyl@1.2.30",
+			"dist": {
+				"shasum": "9115c0c45c40c575738906be9fb4df6f5b9e5013",
+				"size": 1982,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.2.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.2.30.tgz_1474846543410_0.3040974100586027"
+			},
+			"directories": {},
+			"publish_time": 1474846545939,
+			"_cnpm_publish_time": 1474846545939,
+			"_hasShrinkwrap": false
+		},
+		"1.1.29": {
+			"name": "@types/vinyl",
+			"version": "1.1.29",
+			"description": "TypeScript definitions for vinyl 1.1.0",
+			"license": "MIT",
+			"author": "vvakame <https://github.com/vvakame/>, jedmao <https://github.com/jedmao>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "da8f5e5bd997a6d304488b8d11ad5dd9cf15fbec94a3c2a8687e9dda6facabbf",
+			"_id": "@types/vinyl@1.1.29",
+			"dist": {
+				"shasum": "9f2f5a7ff4c8385bdbcc96e210bb3f80cad55ab7",
+				"size": 1950,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.29.tgz_1474309107641_0.25574759277515113"
+			},
+			"directories": {},
+			"publish_time": 1474309110807,
+			"_cnpm_publish_time": 1474309110807,
+			"_hasShrinkwrap": false
+		},
+		"1.1.28": {
+			"name": "@types/vinyl",
+			"version": "1.1.28",
+			"description": "TypeScript definitions for vinyl 1.1.0",
+			"license": "MIT",
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/vinyl@1.1.28",
+			"_shasum": "ad938ee2f2e0ab5ad369020e5678e5c5a701f17c",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ad938ee2f2e0ab5ad369020e5678e5c5a701f17c",
+				"size": 1941,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.28.tgz_1468934112466_0.49153777793981135"
+			},
+			"directories": {},
+			"publish_time": 1468934112700,
+			"_cnpm_publish_time": 1468934112700,
+			"_hasShrinkwrap": false
+		},
+		"1.1.27": {
+			"name": "@types/vinyl",
+			"version": "1.1.27",
+			"description": "TypeScript definitions for vinyl 1.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/vinyl@1.1.27",
+			"_shasum": "5a53c7b56a107b2c590f050dbdd02755003560f6",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5a53c7b56a107b2c590f050dbdd02755003560f6",
+				"size": 2070,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.27.tgz_1468513245563_0.8287928642239422"
+			},
+			"directories": {},
+			"publish_time": 1468513248236,
+			"_cnpm_publish_time": 1468513248236,
+			"_hasShrinkwrap": false
+		},
+		"1.1.26-alpha": {
+			"name": "@types/vinyl",
+			"version": "1.1.26-alpha",
+			"description": "TypeScript definitions for vinyl 1.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/vinyl@1.1.26-alpha",
+			"_shasum": "ace26fd4ca0aad5326b371b30ec91248ab8d3ed0",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ace26fd4ca0aad5326b371b30ec91248ab8d3ed0",
+				"size": 2075,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.26-alpha.tgz_1468013985690_0.6823284127749503"
+			},
+			"directories": {},
+			"publish_time": 1468013987136,
+			"_cnpm_publish_time": 1468013987136,
+			"_hasShrinkwrap": false
+		},
+		"1.1.25-alpha": {
+			"name": "@types/vinyl",
+			"version": "1.1.25-alpha",
+			"description": "TypeScript definitions for vinyl 1.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/vinyl@1.1.25-alpha",
+			"_shasum": "0250046a98cabf193e3ddd76ab1f70db71f66dfc",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0250046a98cabf193e3ddd76ab1f70db71f66dfc",
+				"size": 2073,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.25-alpha.tgz_1467595924996_0.9771244418807328"
+			},
+			"directories": {},
+			"publish_time": 1467595928319,
+			"_cnpm_publish_time": 1467595928319,
+			"_hasShrinkwrap": false
+		},
+		"1.1.24-alpha": {
+			"name": "@types/vinyl",
+			"version": "1.1.24-alpha",
+			"description": "TypeScript definitions for vinyl 1.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.25-alpha"
+			},
+			"_id": "@types/vinyl@1.1.24-alpha",
+			"_shasum": "32a52f0cafb109f3193e4979d846ba41cc2daa07",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "32a52f0cafb109f3193e4979d846ba41cc2daa07",
+				"size": 2079,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.24-alpha.tgz_1467430734249_0.9382143407128751"
+			},
+			"directories": {},
+			"publish_time": 1467430737739,
+			"_cnpm_publish_time": 1467430737739,
+			"_hasShrinkwrap": false
+		},
+		"1.1.23-alpha": {
+			"name": "@types/vinyl",
+			"version": "1.1.23-alpha",
+			"description": "TypeScript definitions for vinyl 1.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/vinyl@1.1.23-alpha",
+			"_shasum": "e32a48c6550203b6d1808bc3e249d2654adb4623",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e32a48c6550203b6d1808bc3e249d2654adb4623",
+				"size": 2075,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.23-alpha.tgz_1467418184098_0.7507362519390881"
+			},
+			"directories": {},
+			"publish_time": 1467418187615,
+			"_cnpm_publish_time": 1467418187615,
+			"_hasShrinkwrap": false
+		},
+		"1.1.22-alpha": {
+			"name": "@types/vinyl",
+			"version": "1.1.22-alpha",
+			"description": "TypeScript definitions for vinyl 1.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/vinyl@1.1.22-alpha",
+			"_shasum": "dc1d5255298a244bb75a3f7361d5866565659413",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dc1d5255298a244bb75a3f7361d5866565659413",
+				"size": 2064,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.22-alpha.tgz_1467406372543_0.7574239964596927"
+			},
+			"directories": {},
+			"publish_time": 1467406375806,
+			"_cnpm_publish_time": 1467406375806,
+			"_hasShrinkwrap": false
+		},
+		"1.1.21-alpha": {
+			"name": "@types/vinyl",
+			"version": "1.1.21-alpha",
+			"description": "TypeScript definitions for vinyl 1.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/vinyl@1.1.21-alpha",
+			"_shasum": "a4da17bee8e8ac5b8359b5bddcfdd4ac79e2b15d",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a4da17bee8e8ac5b8359b5bddcfdd4ac79e2b15d",
+				"size": 2041,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.21-alpha.tgz_1464156519747_0.753519477089867"
+			},
+			"directories": {},
+			"publish_time": 1464156522158,
+			"_cnpm_publish_time": 1464156522158,
+			"_hasShrinkwrap": false
+		},
+		"1.1.20-alpha": {
+			"name": "@types/vinyl",
+			"version": "1.1.20-alpha",
+			"description": "TypeScript definitions for vinyl 1.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/vinyl@1.1.20-alpha",
+			"_shasum": "48491cf28bf8bdc28a4f3bc32ab10cc9e2b136f0",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "48491cf28bf8bdc28a4f3bc32ab10cc9e2b136f0",
+				"size": 2040,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.20-alpha.tgz_1463777616114_0.6642670042347163"
+			},
+			"directories": {},
+			"publish_time": 1463777618258,
+			"_cnpm_publish_time": 1463777618258,
+			"_hasShrinkwrap": false
+		},
+		"1.1.15-alpha": {
+			"name": "@types/vinyl",
+			"version": "1.1.15-alpha",
+			"description": "Type definitions for vinyl 1.1.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"fs\"": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/vinyl@1.1.15-alpha",
+			"_shasum": "e710a79479e2ed13b7f48425a2236d9a8cd68cd9",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e710a79479e2ed13b7f48425a2236d9a8cd68cd9",
+				"size": 2066,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.15-alpha.tgz_1463697646153_0.6232925846707076"
+			},
+			"directories": {},
+			"publish_time": 1463697652830,
+			"_cnpm_publish_time": 1463697652830,
+			"_hasShrinkwrap": false
+		},
+		"1.1.14-alpha": {
+			"name": "@types/vinyl",
+			"version": "1.1.14-alpha",
+			"description": "Type definitions for vinyl 1.1.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "vvakame",
+				"email": "https://github.com/vvakame/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"fs\"": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/vinyl@1.1.14-alpha",
+			"_shasum": "cac88487795b52b5886618fef61493c17eac5d50",
+			"_from": "output\\vinyl",
+			"_resolved": "file:output\\vinyl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cac88487795b52b5886618fef61493c17eac5d50",
+				"size": 2057,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/vinyl-1.1.14-alpha.tgz_1463512351927_0.10461432859301567"
+			},
+			"directories": {},
+			"publish_time": 1463512355970,
+			"_cnpm_publish_time": 1463512355970,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.2",
+		"ts2.0": "2.0.2",
+		"ts2.1": "2.0.2",
+		"ts2.2": "2.0.2",
+		"ts2.3": "2.0.2",
+		"ts2.4": "2.0.2",
+		"ts2.5": "2.0.2",
+		"ts2.6": "2.0.2",
+		"ts2.7": "2.0.2",
+		"ts2.8": "2.0.2",
+		"ts2.9": "2.0.2",
+		"ts3.0": "2.0.2",
+		"ts3.1": "2.0.2",
+		"ts3.2": "2.0.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:32:38.000Z",
+		"created": "2016-05-17T19:12:35.970Z",
+		"2.0.2": "2017-12-23T16:06:01.831Z",
+		"2.0.1": "2017-08-21T22:06:11.464Z",
+		"0.4.1": "2017-03-01T22:34:46.801Z",
+		"0.4.0": "2017-01-10T18:59:00.627Z",
+		"2.0.0": "2016-11-29T19:02:43.492Z",
+		"1.2.30": "2016-09-25T23:35:45.939Z",
+		"1.1.29": "2016-09-19T18:18:30.807Z",
+		"1.1.28": "2016-07-19T13:15:12.700Z",
+		"1.1.27": "2016-07-14T16:20:48.236Z",
+		"1.1.26-alpha": "2016-07-08T21:39:47.136Z",
+		"1.1.25-alpha": "2016-07-04T01:32:08.319Z",
+		"1.1.24-alpha": "2016-07-02T03:38:57.739Z",
+		"1.1.23-alpha": "2016-07-02T00:09:47.615Z",
+		"1.1.22-alpha": "2016-07-01T20:52:55.806Z",
+		"1.1.21-alpha": "2016-05-25T06:08:42.158Z",
+		"1.1.20-alpha": "2016-05-20T20:53:38.258Z",
+		"1.1.15-alpha": "2016-05-19T22:40:52.830Z",
+		"1.1.14-alpha": "2016-05-17T19:12:35.970Z"
+	},
+	"_distfiles": {
+		"vinyl-2.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-2.0.2.tgz",
+			"sha": "4f3b8dae8f5828d3800ef709b0cff488ee852de3",
+			"registry": "cnpmjs"
+		},
+		"vinyl-2.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-2.0.1.tgz",
+			"sha": "6b414dfdcd4a785e8e76e87565ed29e79490d9b7",
+			"registry": "cnpmjs"
+		},
+		"vinyl-0.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-0.4.1.tgz",
+			"sha": "5e8062002d070fe16e76caf6e2f08d1de0275047",
+			"registry": "cnpmjs"
+		},
+		"vinyl-0.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-0.4.0.tgz",
+			"sha": "3037980f0e7dfccc32b14ab56d8a281363290918",
+			"registry": "cnpmjs"
+		},
+		"vinyl-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-2.0.0.tgz",
+			"sha": "fd213bf7f4136dde21fe1895500b12c186f8c268",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.2.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.2.30.tgz",
+			"sha": "9115c0c45c40c575738906be9fb4df6f5b9e5013",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.29.tgz",
+			"sha": "9f2f5a7ff4c8385bdbcc96e210bb3f80cad55ab7",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.28.tgz",
+			"sha": "ad938ee2f2e0ab5ad369020e5678e5c5a701f17c",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.27.tgz",
+			"sha": "5a53c7b56a107b2c590f050dbdd02755003560f6",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.26-alpha.tgz",
+			"sha": "ace26fd4ca0aad5326b371b30ec91248ab8d3ed0",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.25-alpha.tgz",
+			"sha": "0250046a98cabf193e3ddd76ab1f70db71f66dfc",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.24-alpha.tgz",
+			"sha": "32a52f0cafb109f3193e4979d846ba41cc2daa07",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.23-alpha.tgz",
+			"sha": "e32a48c6550203b6d1808bc3e249d2654adb4623",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.22-alpha.tgz",
+			"sha": "dc1d5255298a244bb75a3f7361d5866565659413",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.21-alpha.tgz",
+			"sha": "a4da17bee8e8ac5b8359b5bddcfdd4ac79e2b15d",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.20-alpha.tgz",
+			"sha": "48491cf28bf8bdc28a4f3bc32ab10cc9e2b136f0",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.15-alpha.tgz",
+			"sha": "e710a79479e2ed13b7f48425a2236d9a8cd68cd9",
+			"registry": "cnpmjs"
+		},
+		"vinyl-1.1.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/vinyl/download/@types/vinyl-1.1.14-alpha.tgz",
+			"sha": "cac88487795b52b5886618fef61493c17eac5d50",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833468396
+		}
+	},
+	"_rev": "4-097d6b826331b26b",
+	"readme": "# Installation\r\n> `npm install --save @types/vinyl`\r\n\r\n# Summary\r\nThis package contains type definitions for vinyl (https://github.com/gulpjs/vinyl).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/vinyl\r\n\r\nAdditional Details\r\n * Last updated: Sat, 23 Dec 2017 16:04:56 GMT\r\n * Dependencies: fs, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by vvakame <https://github.com/vvakame>, jedmao <https://github.com/jedmao>, Georgii Dolzhykov <https://github.com/thorn0>."
+}

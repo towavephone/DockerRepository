@@ -1,0 +1,1616 @@
+{
+	"name": "@types/inquirer",
+	"versions": {
+		"0.0.41": {
+			"name": "@types/inquirer",
+			"version": "0.0.41",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo",
+					"githubUsername": "tkQubo"
+				},
+				{
+					"name": "Parvez",
+					"url": "https://github.com/ppathan",
+					"githubUsername": "ppathan"
+				},
+				{
+					"name": "Jouderian",
+					"url": "https://github.com/jouderianjr",
+					"githubUsername": "jouderianjr"
+				},
+				{
+					"name": "Qibang",
+					"url": "https://github.com/bang88",
+					"githubUsername": "bang88"
+				},
+				{
+					"name": "Jason Dreyzehner",
+					"url": "https://github.com/bitjson",
+					"githubUsername": "bitjson"
+				},
+				{
+					"name": "Synarque",
+					"url": "https://github.com/synarque",
+					"githubUsername": "synarque"
+				},
+				{
+					"name": "Justin Rockwood",
+					"url": "https://github.com/jrockwood",
+					"githubUsername": "jrockwood"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"typesPublisherContentHash": "14121759027cea8d8d162f9003fe1c959ec59a086f33a243b3059b20b91abe14",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.41",
+			"dist": {
+				"shasum": "0c33027dcd0b0dde234e22afa454f2c75d8b30d2",
+				"size": 4539,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.41.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/inquirer_0.0.41_1522787176661_0.9092039296083916"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522787176705,
+			"_cnpm_publish_time": 1522787176705
+		},
+		"0.0.40": {
+			"name": "@types/inquirer",
+			"version": "0.0.40",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo",
+					"githubUsername": "tkQubo"
+				},
+				{
+					"name": "Parvez",
+					"url": "https://github.com/ppathan",
+					"githubUsername": "ppathan"
+				},
+				{
+					"name": "Jouderian",
+					"url": "https://github.com/jouderianjr",
+					"githubUsername": "jouderianjr"
+				},
+				{
+					"name": "Qibang",
+					"url": "https://github.com/bang88",
+					"githubUsername": "bang88"
+				},
+				{
+					"name": "Jason Dreyzehner",
+					"url": "https://github.com/bitjson",
+					"githubUsername": "bitjson"
+				},
+				{
+					"name": "Synarque",
+					"url": "https://github.com/synarque",
+					"githubUsername": "synarque"
+				},
+				{
+					"name": "Justin Rockwood",
+					"url": "https://github.com/jrockwood",
+					"githubUsername": "jrockwood"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"typesPublisherContentHash": "20482c7ad349b340b58c37101181cdfb073f84d23bc70786a7eb0ad73a1f0855",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.40",
+			"dist": {
+				"shasum": "16513dce5ae36f1f5d3b1fc642453c7a853b6a86",
+				"size": 4534,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.40.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/inquirer_0.0.40_1522185375005_0.5638522388095624"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522185375297,
+			"_cnpm_publish_time": 1522185375297
+		},
+		"0.0.39": {
+			"name": "@types/inquirer",
+			"version": "0.0.39",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo",
+					"githubUsername": "tkQubo"
+				},
+				{
+					"name": "Parvez",
+					"url": "https://github.com/ppathan",
+					"githubUsername": "ppathan"
+				},
+				{
+					"name": "Jouderian",
+					"url": "https://github.com/jouderianjr",
+					"githubUsername": "jouderianjr"
+				},
+				{
+					"name": "Qibang",
+					"url": "https://github.com/bang88",
+					"githubUsername": "bang88"
+				},
+				{
+					"name": "Jason Dreyzehner",
+					"url": "https://github.com/bitjson",
+					"githubUsername": "bitjson"
+				},
+				{
+					"name": "Synarque",
+					"url": "https://github.com/synarque",
+					"githubUsername": "synarque"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"typesPublisherContentHash": "84765b84348bfeefa066f716374b6d0b6b245ba118553165152c18efedcdccab",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.39",
+			"dist": {
+				"shasum": "7d3086d4b8d41bd460b135c56388507adf83fe3d",
+				"size": 4407,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.39.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/inquirer_0.0.39_1522176807331_0.7214238819720484"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522176807392,
+			"_cnpm_publish_time": 1522176807392
+		},
+		"0.0.38": {
+			"name": "@types/inquirer",
+			"version": "0.0.38",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo",
+					"githubUsername": "tkQubo"
+				},
+				{
+					"name": "Parvez",
+					"url": "https://github.com/ppathan",
+					"githubUsername": "ppathan"
+				},
+				{
+					"name": "Jouderian",
+					"url": "https://github.com/jouderianjr",
+					"githubUsername": "jouderianjr"
+				},
+				{
+					"name": "Qibang",
+					"url": "https://github.com/bang88",
+					"githubUsername": "bang88"
+				},
+				{
+					"name": "Jason Dreyzehner",
+					"url": "https://github.com/bitjson",
+					"githubUsername": "bitjson"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"typesPublisherContentHash": "a210f4c6fafaabc32080b7b405684786f0f7dc59c573909f7293956ef9063e42",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.38",
+			"dist": {
+				"shasum": "5c682b87152ebe8d759c875f2edbc56d787c6b99",
+				"size": 4353,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.38.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/inquirer_0.0.38_1521155972972_0.560999682124389"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521155973040,
+			"_cnpm_publish_time": 1521155973040
+		},
+		"0.0.37": {
+			"name": "@types/inquirer",
+			"version": "0.0.37",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo",
+					"githubUsername": "tkQubo"
+				},
+				{
+					"name": "Parvez",
+					"url": "https://github.com/ppathan",
+					"githubUsername": "ppathan"
+				},
+				{
+					"name": "Jouderian",
+					"url": "https://github.com/jouderianjr",
+					"githubUsername": "jouderianjr"
+				},
+				{
+					"name": "Qibang",
+					"url": "https://github.com/bang88",
+					"githubUsername": "bang88"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"typesPublisherContentHash": "bd27cb95e14ae3f32554d26ddda9ffb2eb5e2258394f53a21936983d71774049",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.37",
+			"dist": {
+				"shasum": "1f65b8a280fe008cb437b8f7ab9710b098297a10",
+				"size": 4310,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.37.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/inquirer_0.0.37_1520551642557_0.4331361359025936"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520551642601,
+			"_cnpm_publish_time": 1520551642601
+		},
+		"0.0.36": {
+			"name": "@types/inquirer",
+			"version": "0.0.36",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo",
+					"githubUsername": "tkQubo"
+				},
+				{
+					"name": "Parvez",
+					"url": "https://github.com/ppathan",
+					"githubUsername": "ppathan"
+				},
+				{
+					"name": "Jouderian",
+					"url": "https://github.com/jouderianjr",
+					"githubUsername": "jouderianjr"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"typesPublisherContentHash": "2082596eb9d3f59f865c772e6c862bb23e8c98db581dac6ba483107e5fc747f8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.36",
+			"dist": {
+				"shasum": "d27aae262b127ffc2e6dbf8e14e8caf7f7c059a3",
+				"size": 4218,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/inquirer-0.0.36.tgz_1513207455943_0.9757110138889402"
+			},
+			"directories": {},
+			"publish_time": 1513207456010,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513207456010
+		},
+		"0.0.35": {
+			"name": "@types/inquirer",
+			"version": "0.0.35",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo"
+				},
+				{
+					"name": "Parvez",
+					"url": "https://github.com/ppathan"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a38f1bac14751702e319b2f4ec9e1cd78510b98f71771e920ad27b397b3231c1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.35",
+			"dist": {
+				"shasum": "e054657cf2d10963823957d4d06ec244f05c65be",
+				"size": 4150,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/inquirer-0.0.35.tgz_1497373049485_0.26429138728417456"
+			},
+			"directories": {},
+			"publish_time": 1497373049621,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497373049621
+		},
+		"0.0.34": {
+			"name": "@types/inquirer",
+			"version": "0.0.34",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "8dfad1784f11da8c5bea0587927773ea63c9d29055350cb153045d52048faf52",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.34",
+			"dist": {
+				"shasum": "7e250ae8d012dad853f5b9e42d45851ca3948597",
+				"size": 4089,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.34.tgz_1493312347746_0.8874098011292517"
+			},
+			"directories": {},
+			"publish_time": 1493312348025,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493312348025
+		},
+		"0.0.33": {
+			"name": "@types/inquirer",
+			"version": "0.0.33",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fe8c58f4cadc1bcb779fac67a0999f56af8f989bad238022dfae30fc1f853ebf",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.33",
+			"dist": {
+				"shasum": "9d96cbca1118364e10c1bbe8637ea53c06e8c3f2",
+				"size": 4010,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.33.tgz_1492451779522_0.8025142522528768"
+			},
+			"directories": {},
+			"publish_time": 1492451779769,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492451779769
+		},
+		"0.0.32": {
+			"name": "@types/inquirer",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "377c692bf84e6eb4e7121ecb6bab2613efda88950fa6f0978946e0d29c66b5f4",
+			"_id": "@types/inquirer@0.0.32",
+			"dist": {
+				"shasum": "a4a08e83741c500a7c3c8e7776014f7f8a65870d",
+				"size": 3535,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.32.tgz_1479848428749_0.701922400854528"
+			},
+			"directories": {},
+			"publish_time": 1479848428966,
+			"_cnpm_publish_time": 1479848428966,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/inquirer",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "949aeedea7fe95398db01a61e3cab23c5b19f887ea3f03737af5b15fdf474ff2",
+			"_id": "@types/inquirer@0.0.31",
+			"dist": {
+				"shasum": "913bad44f37efc2ab5286e6460af9031a7982b86",
+				"size": 3530,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.31.tgz_1479152169252_0.15732535510323942"
+			},
+			"directories": {},
+			"publish_time": 1479152171042,
+			"_cnpm_publish_time": 1479152171042,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/inquirer",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "e49628f0cf3d851d5a6dc5557d57d8a6da92cbef1e96ad50edab3c2bc5e0f279",
+			"_id": "@types/inquirer@0.0.30",
+			"dist": {
+				"shasum": "2e30a40ff188c9830ec0d4c71f99ee65972de5b7",
+				"size": 3524,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.30.tgz_1477509986103_0.4648967634420842"
+			},
+			"directories": {},
+			"publish_time": 1477509989830,
+			"_cnpm_publish_time": 1477509989830,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/inquirer",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkQubo>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "4b1ea18bbdf542edfe129479301b4ec1d35d9258a9d0608a898baa749ee93a7d",
+			"_id": "@types/inquirer@0.0.29",
+			"dist": {
+				"shasum": "52349d4be855462f404517fc444e666eafcafc58",
+				"size": 3513,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.29.tgz_1474306827774_0.2726771819870919"
+			},
+			"directories": {},
+			"publish_time": 1474306828022,
+			"_cnpm_publish_time": 1474306828022,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/inquirer",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for Inquirer.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/through": "0.0.*",
+				"@types/rx": "2.5.*"
+			},
+			"_id": "@types/inquirer@0.0.28",
+			"_shasum": "876b0dd919b9ff48464c7792baa2a2e8f876a3f3",
+			"_from": "output\\inquirer",
+			"_resolved": "file:output\\inquirer",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "876b0dd919b9ff48464c7792baa2a2e8f876a3f3",
+				"size": 3503,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.28.tgz_1468508129112_0.25846747029572725"
+			},
+			"directories": {},
+			"publish_time": 1468508129687,
+			"_cnpm_publish_time": 1468508129687,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/inquirer",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for Inquirer.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/through": "0.0.26-alpha",
+				"@types/rx": "2.5.26-alpha"
+			},
+			"_id": "@types/inquirer@0.0.27-alpha",
+			"_shasum": "915640d6ffa36f24f67b66e526cf28cf63467e9f",
+			"_from": "output\\inquirer",
+			"_resolved": "file:output\\inquirer",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "915640d6ffa36f24f67b66e526cf28cf63467e9f",
+				"size": 3503,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.27-alpha.tgz_1468009616078_0.9357269459869713"
+			},
+			"directories": {},
+			"publish_time": 1468009616576,
+			"_cnpm_publish_time": 1468009616576,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/inquirer",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for Inquirer.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/through": "0.0.25-alpha",
+				"@types/rx": "2.5.25-alpha"
+			},
+			"_id": "@types/inquirer@0.0.26-alpha",
+			"_shasum": "20368c345df0dd1cf020b2e04ca7de9d4e66cf9e",
+			"_from": "output\\inquirer",
+			"_resolved": "file:output\\inquirer",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "20368c345df0dd1cf020b2e04ca7de9d4e66cf9e",
+				"size": 3505,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.26-alpha.tgz_1467592101281_0.6219620169140399"
+			},
+			"directories": {},
+			"publish_time": 1467592101831,
+			"_cnpm_publish_time": 1467592101831,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/inquirer",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for Inquirer.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/through": "0.0.23-alpha",
+				"@types/rx": "2.5.23-alpha"
+			},
+			"_id": "@types/inquirer@0.0.25-alpha",
+			"_shasum": "aa4aef0cdad4729d4d2812948fbaee7443dd1ab0",
+			"_from": "output\\inquirer",
+			"_resolved": "file:output\\inquirer",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "aa4aef0cdad4729d4d2812948fbaee7443dd1ab0",
+				"size": 3504,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.25-alpha.tgz_1467427285296_0.7910707502160221"
+			},
+			"directories": {},
+			"publish_time": 1467427288475,
+			"_cnpm_publish_time": 1467427288475,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/inquirer",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for Inquirer.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/through": "0.0.22-alpha",
+				"@types/rx": "2.5.22-alpha"
+			},
+			"_id": "@types/inquirer@0.0.24-alpha",
+			"_shasum": "d7b774c65351752871a1682f847b4577e1f93ec3",
+			"_from": "output\\inquirer",
+			"_resolved": "file:output\\inquirer",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d7b774c65351752871a1682f847b4577e1f93ec3",
+				"size": 3505,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.24-alpha.tgz_1467414340994_0.829271944006905"
+			},
+			"directories": {},
+			"publish_time": 1467414344455,
+			"_cnpm_publish_time": 1467414344455,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/inquirer",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for Inquirer.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/through": "0.0.*",
+				"@types/rx": "2.5.*"
+			},
+			"_id": "@types/inquirer@0.0.23-alpha",
+			"_shasum": "3fe79c97291a065cba62d0cdb1a56cfd78d56319",
+			"_from": "output\\inquirer",
+			"_resolved": "file:output\\inquirer",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3fe79c97291a065cba62d0cdb1a56cfd78d56319",
+				"size": 3493,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.23-alpha.tgz_1467402027937_0.5583771970123053"
+			},
+			"directories": {},
+			"publish_time": 1467402030101,
+			"_cnpm_publish_time": 1467402030101,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/inquirer",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for Inquirer.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"_id": "@types/inquirer@0.0.22-alpha",
+			"_shasum": "c384faaf27a3aeb47dc6de42cf55bed07f42860f",
+			"_from": "output\\inquirer",
+			"_resolved": "file:output\\inquirer",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c384faaf27a3aeb47dc6de42cf55bed07f42860f",
+				"size": 3469,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.22-alpha.tgz_1464152872355_0.5871757757849991"
+			},
+			"directories": {},
+			"publish_time": 1464152874815,
+			"_cnpm_publish_time": 1464152874815,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/inquirer",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for Inquirer.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"_id": "@types/inquirer@0.0.21-alpha",
+			"_shasum": "d6640620860395619bde825b81b7797984f639a9",
+			"_from": "output\\inquirer",
+			"_resolved": "file:output\\inquirer",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d6640620860395619bde825b81b7797984f639a9",
+				"size": 3469,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.21-alpha.tgz_1463773762297_0.6044905572198331"
+			},
+			"directories": {},
+			"publish_time": 1463773764882,
+			"_cnpm_publish_time": 1463773764882,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/inquirer",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for Inquirer.js from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('through'": "*",
+				"@types/rx": "*"
+			},
+			"_id": "@types/inquirer@0.0.16-alpha",
+			"_shasum": "0a12cf30126cfae025d29ec954a5ab0f83f0e2a7",
+			"_from": "output\\inquirer",
+			"_resolved": "file:output\\inquirer",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0a12cf30126cfae025d29ec954a5ab0f83f0e2a7",
+				"size": 3488,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.16-alpha.tgz_1463692393670_0.5722844570409507"
+			},
+			"directories": {},
+			"publish_time": 1463692398846,
+			"_cnpm_publish_time": 1463692398846,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/inquirer",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for Inquirer.js from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkQubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('through'": "*"
+			},
+			"_id": "@types/inquirer@0.0.15-alpha",
+			"_shasum": "db8d40e0b68214362b53e58bda45e8393b8c3019",
+			"_from": "output\\inquirer",
+			"_resolved": "file:output\\inquirer",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "db8d40e0b68214362b53e58bda45e8393b8c3019",
+				"size": 3465,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/inquirer-0.0.15-alpha.tgz_1463461985411_0.6816981427837163"
+			},
+			"directories": {},
+			"publish_time": 1463461988979,
+			"_cnpm_publish_time": 1463461988979,
+			"_hasShrinkwrap": false
+		},
+		"0.0.43": {
+			"name": "@types/inquirer",
+			"version": "0.0.43",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo",
+					"githubUsername": "tkQubo"
+				},
+				{
+					"name": "Parvez",
+					"url": "https://github.com/ppathan",
+					"githubUsername": "ppathan"
+				},
+				{
+					"name": "Jouderian",
+					"url": "https://github.com/jouderianjr",
+					"githubUsername": "jouderianjr"
+				},
+				{
+					"name": "Qibang",
+					"url": "https://github.com/bang88",
+					"githubUsername": "bang88"
+				},
+				{
+					"name": "Jason Dreyzehner",
+					"url": "https://github.com/bitjson",
+					"githubUsername": "bitjson"
+				},
+				{
+					"name": "Synarque",
+					"url": "https://github.com/synarque",
+					"githubUsername": "synarque"
+				},
+				{
+					"name": "Justin Rockwood",
+					"url": "https://github.com/jrockwood",
+					"githubUsername": "jrockwood"
+				},
+				{
+					"name": "Keith Kelly",
+					"url": "https://github.com/kwkelly",
+					"githubUsername": "kwkelly"
+				},
+				{
+					"name": "Junyoung Clare Jang",
+					"url": "https://github.com/Ailrun",
+					"githubUsername": "Ailrun"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"typesPublisherContentHash": "1769a27f830505c71232bbde63db4e7bc10f2b0e394d6bcca4afdb608658e11b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.43",
+			"dist": {
+				"shasum": "1eb0bbb4648e6cc568bd396c1e989f620ad01273",
+				"size": 4704,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.43.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/inquirer_0.0.43_1534365784999_0.06116700984086543"
+			},
+			"publish_time": 1534365785059,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1534365785059
+		},
+		"0.0.42": {
+			"name": "@types/inquirer",
+			"version": "0.0.42",
+			"description": "TypeScript definitions for Inquirer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkQubo",
+					"githubUsername": "tkQubo"
+				},
+				{
+					"name": "Parvez",
+					"url": "https://github.com/ppathan",
+					"githubUsername": "ppathan"
+				},
+				{
+					"name": "Jouderian",
+					"url": "https://github.com/jouderianjr",
+					"githubUsername": "jouderianjr"
+				},
+				{
+					"name": "Qibang",
+					"url": "https://github.com/bang88",
+					"githubUsername": "bang88"
+				},
+				{
+					"name": "Jason Dreyzehner",
+					"url": "https://github.com/bitjson",
+					"githubUsername": "bitjson"
+				},
+				{
+					"name": "Synarque",
+					"url": "https://github.com/synarque",
+					"githubUsername": "synarque"
+				},
+				{
+					"name": "Justin Rockwood",
+					"url": "https://github.com/jrockwood",
+					"githubUsername": "jrockwood"
+				},
+				{
+					"name": "Keith Kelly",
+					"url": "https://github.com/kwkelly",
+					"githubUsername": "kwkelly"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/through": "*",
+				"@types/rx": "*"
+			},
+			"typesPublisherContentHash": "2dbe117ffffdd4b5484626d4fa790304692c813e19117a6919f7fad404a2a829",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/inquirer@0.0.42",
+			"dist": {
+				"shasum": "2310fd8623053bead72247adae416aa32bacdf0c",
+				"size": 4669,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.42.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/inquirer_0.0.42_1529362186969_0.08896570739807053"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1529362187161,
+			"_cnpm_publish_time": 1529362187161
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.43",
+		"ts2.0": "0.0.43",
+		"ts2.1": "0.0.43",
+		"ts2.2": "0.0.43",
+		"ts2.3": "0.0.43",
+		"ts2.4": "0.0.43",
+		"ts2.5": "0.0.43",
+		"ts2.6": "0.0.43",
+		"ts2.7": "0.0.43",
+		"ts2.8": "0.0.43",
+		"ts2.9": "0.0.43",
+		"ts3.0": "0.0.43",
+		"ts3.1": "0.0.43",
+		"ts3.2": "0.0.43"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:56.000Z",
+		"created": "2016-05-17T05:13:08.979Z",
+		"0.0.43": "2018-08-15T20:43:05.059Z",
+		"0.0.42": "2018-06-18T22:49:47.161Z",
+		"0.0.41": "2018-04-03T20:26:16.705Z",
+		"0.0.40": "2018-03-27T21:16:15.297Z",
+		"0.0.39": "2018-03-27T18:53:27.392Z",
+		"0.0.38": "2018-03-15T23:19:33.040Z",
+		"0.0.37": "2018-03-08T23:27:22.601Z",
+		"0.0.36": "2017-12-13T23:24:16.010Z",
+		"0.0.35": "2017-06-13T16:57:29.621Z",
+		"0.0.34": "2017-04-27T16:59:08.025Z",
+		"0.0.33": "2017-04-17T17:56:19.769Z",
+		"0.0.32": "2016-11-22T21:00:28.966Z",
+		"0.0.31": "2016-11-14T19:36:11.042Z",
+		"0.0.30": "2016-10-26T19:26:29.830Z",
+		"0.0.29": "2016-09-19T17:40:28.022Z",
+		"0.0.28": "2016-07-14T14:55:29.687Z",
+		"0.0.27-alpha": "2016-07-08T20:26:56.576Z",
+		"0.0.26-alpha": "2016-07-04T00:28:21.831Z",
+		"0.0.25-alpha": "2016-07-02T02:41:28.475Z",
+		"0.0.24-alpha": "2016-07-01T23:05:44.455Z",
+		"0.0.23-alpha": "2016-07-01T19:40:30.101Z",
+		"0.0.22-alpha": "2016-05-25T05:07:54.815Z",
+		"0.0.21-alpha": "2016-05-20T19:49:24.882Z",
+		"0.0.16-alpha": "2016-05-19T21:13:18.846Z",
+		"0.0.15-alpha": "2016-05-17T05:13:08.979Z"
+	},
+	"_distfiles": {
+		"inquirer-0.0.41.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.41.tgz",
+			"sha": "0c33027dcd0b0dde234e22afa454f2c75d8b30d2",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.40.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.40.tgz",
+			"sha": "16513dce5ae36f1f5d3b1fc642453c7a853b6a86",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.39.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.39.tgz",
+			"sha": "7d3086d4b8d41bd460b135c56388507adf83fe3d",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.38.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.38.tgz",
+			"sha": "5c682b87152ebe8d759c875f2edbc56d787c6b99",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.37.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.37.tgz",
+			"sha": "1f65b8a280fe008cb437b8f7ab9710b098297a10",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.36.tgz",
+			"sha": "d27aae262b127ffc2e6dbf8e14e8caf7f7c059a3",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.35.tgz",
+			"sha": "e054657cf2d10963823957d4d06ec244f05c65be",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.34.tgz",
+			"sha": "7e250ae8d012dad853f5b9e42d45851ca3948597",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.33.tgz",
+			"sha": "9d96cbca1118364e10c1bbe8637ea53c06e8c3f2",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.32.tgz",
+			"sha": "a4a08e83741c500a7c3c8e7776014f7f8a65870d",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.31.tgz",
+			"sha": "913bad44f37efc2ab5286e6460af9031a7982b86",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.30.tgz",
+			"sha": "2e30a40ff188c9830ec0d4c71f99ee65972de5b7",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.29.tgz",
+			"sha": "52349d4be855462f404517fc444e666eafcafc58",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.28.tgz",
+			"sha": "876b0dd919b9ff48464c7792baa2a2e8f876a3f3",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.27-alpha.tgz",
+			"sha": "915640d6ffa36f24f67b66e526cf28cf63467e9f",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.26-alpha.tgz",
+			"sha": "20368c345df0dd1cf020b2e04ca7de9d4e66cf9e",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.25-alpha.tgz",
+			"sha": "aa4aef0cdad4729d4d2812948fbaee7443dd1ab0",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.24-alpha.tgz",
+			"sha": "d7b774c65351752871a1682f847b4577e1f93ec3",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.23-alpha.tgz",
+			"sha": "3fe79c97291a065cba62d0cdb1a56cfd78d56319",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.22-alpha.tgz",
+			"sha": "c384faaf27a3aeb47dc6de42cf55bed07f42860f",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.21-alpha.tgz",
+			"sha": "d6640620860395619bde825b81b7797984f639a9",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.16-alpha.tgz",
+			"sha": "0a12cf30126cfae025d29ec954a5ab0f83f0e2a7",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.15-alpha.tgz",
+			"sha": "db8d40e0b68214362b53e58bda45e8393b8c3019",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.43.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.43.tgz",
+			"sha": "1eb0bbb4648e6cc568bd396c1e989f620ad01273",
+			"registry": "cnpmjs"
+		},
+		"inquirer-0.0.42.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/inquirer/download/@types/inquirer-0.0.42.tgz",
+			"sha": "2310fd8623053bead72247adae416aa32bacdf0c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833456882
+		}
+	},
+	"_rev": "2-106601eb5b865d63",
+	"readme": "# Installation\r\n> `npm install --save @types/inquirer`\r\n\r\n# Summary\r\nThis package contains type definitions for Inquirer.js (https://github.com/SBoudrias/Inquirer.js).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/inquirer\r\n\r\nAdditional Details\r\n * Last updated: Wed, 15 Aug 2018 20:42:04 GMT\r\n * Dependencies: through, rx\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Qubo <https://github.com/tkQubo>, Parvez <https://github.com/ppathan>, Jouderian <https://github.com/jouderianjr>, Qibang <https://github.com/bang88>, Jason Dreyzehner <https://github.com/bitjson>, Synarque <https://github.com/synarque>, Justin Rockwood <https://github.com/jrockwood>, Keith Kelly <https://github.com/kwkelly>, Junyoung Clare Jang <https://github.com/Ailrun>."
+}

@@ -1,0 +1,281 @@
+{
+	"name": "@types/browser-resolve",
+	"versions": {
+		"0.0.5": {
+			"name": "@types/browser-resolve",
+			"version": "0.0.5",
+			"description": "TypeScript definitions for browser-resolve",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mario Nebl",
+					"url": "https://github.com/marionebl"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/resolve": "*"
+			},
+			"typesPublisherContentHash": "9e9aff0a9ce4b4e84be9f09f4892b6ec0a9e770230466b465a59c7f3968bc8d1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/browser-resolve@0.0.5",
+			"dist": {
+				"shasum": "4d7ea4babcbfa45752a5cdc016c0a0fc4dc4de7d",
+				"size": 1988,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/browser-resolve/download/@types/browser-resolve-0.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/browser-resolve-0.0.5.tgz_1503352172584_0.0883183570113033"
+			},
+			"directories": {},
+			"publish_time": 1503352172667,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352172667
+		},
+		"0.0.4": {
+			"name": "@types/browser-resolve",
+			"version": "0.0.4",
+			"description": "TypeScript definitions for browser-resolve",
+			"license": "MIT",
+			"author": "Mario Nebl <https://github.com/marionebl/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/resolve": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "2190d4227e7c458c345797a3c273c2b716cfb2db91922c0a7711f8ab7e484fc9",
+			"_id": "@types/browser-resolve@0.0.4",
+			"dist": {
+				"shasum": "de48436fcdee8b2d41c841e1f7405ca88c8bea72",
+				"size": 1510,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/browser-resolve/download/@types/browser-resolve-0.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/browser-resolve-0.0.4.tgz_1474302620207_0.3254946849774569"
+			},
+			"directories": {},
+			"publish_time": 1474302622133,
+			"_cnpm_publish_time": 1474302622133,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/browser-resolve",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for browser-resolve",
+			"license": "MIT",
+			"author": "Mario Nebl <https://github.com/marionebl/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/resolve": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/browser-resolve@0.0.3",
+			"dist": {
+				"shasum": "bed79f88d0dafff709470b55ad65a6fd68b41dab",
+				"size": 1502,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/browser-resolve/download/@types/browser-resolve-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/browser-resolve-0.0.3.tgz_1472150172398_0.23907195776700974"
+			},
+			"directories": {},
+			"publish_time": 1472150172956,
+			"_cnpm_publish_time": 1472150172956,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/browser-resolve",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for browser-resolve",
+			"license": "MIT",
+			"author": "Mario Nebl <https://github.com/marionebl/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/resolve": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/browser-resolve@0.0.2",
+			"dist": {
+				"shasum": "3cdce220c5e417cc3136b169989c134b7e61f66a",
+				"size": 1502,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/browser-resolve/download/@types/browser-resolve-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/browser-resolve-0.0.2.tgz_1471466196051_0.2887407506350428"
+			},
+			"directories": {},
+			"publish_time": 1471466198021,
+			"_cnpm_publish_time": 1471466198021,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/browser-resolve",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for browser-resolve",
+			"license": "MIT",
+			"author": "Mario Nebl <https://github.com/marionebl/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "browser-resolve.d.ts",
+			"_id": "@types/browser-resolve@0.0.1",
+			"dist": {
+				"shasum": "54316e539221efcb2d7276d94957805fb504934c",
+				"size": 7680,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/browser-resolve/download/@types/browser-resolve-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/browser-resolve-0.0.1.tgz_1470152897916_0.41446189139969647"
+			},
+			"directories": {},
+			"publish_time": 1470152898922,
+			"_cnpm_publish_time": 1470152898922,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.5",
+		"ts2.0": "0.0.5",
+		"ts2.1": "0.0.5",
+		"ts2.2": "0.0.5",
+		"ts2.3": "0.0.5",
+		"ts2.4": "0.0.5",
+		"ts2.5": "0.0.5",
+		"ts2.6": "0.0.5",
+		"ts2.7": "0.0.5",
+		"ts2.8": "0.0.5",
+		"ts2.9": "0.0.5",
+		"ts3.0": "0.0.5",
+		"ts3.1": "0.0.5",
+		"ts3.2": "0.0.5"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:06.000Z",
+		"created": "2016-08-02T15:48:18.922Z",
+		"0.0.5": "2017-08-21T21:49:32.667Z",
+		"0.0.4": "2016-09-19T16:30:22.133Z",
+		"0.0.3": "2016-08-25T18:36:12.956Z",
+		"0.0.2": "2016-08-17T20:36:38.021Z",
+		"0.0.1": "2016-08-02T15:48:18.922Z"
+	},
+	"_distfiles": {
+		"browser-resolve-0.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/browser-resolve/download/@types/browser-resolve-0.0.5.tgz",
+			"sha": "4d7ea4babcbfa45752a5cdc016c0a0fc4dc4de7d",
+			"registry": "cnpmjs"
+		},
+		"browser-resolve-0.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/browser-resolve/download/@types/browser-resolve-0.0.4.tgz",
+			"sha": "de48436fcdee8b2d41c841e1f7405ca88c8bea72",
+			"registry": "cnpmjs"
+		},
+		"browser-resolve-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/browser-resolve/download/@types/browser-resolve-0.0.3.tgz",
+			"sha": "bed79f88d0dafff709470b55ad65a6fd68b41dab",
+			"registry": "cnpmjs"
+		},
+		"browser-resolve-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/browser-resolve/download/@types/browser-resolve-0.0.2.tgz",
+			"sha": "3cdce220c5e417cc3136b169989c134b7e61f66a",
+			"registry": "cnpmjs"
+		},
+		"browser-resolve-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/browser-resolve/download/@types/browser-resolve-0.0.1.tgz",
+			"sha": "54316e539221efcb2d7276d94957805fb504934c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"19c1-NDQXuNe9QCM+YMJbHg+AbxLb9oU\"",
+			"fetched": 1541833452948
+		}
+	},
+	"_rev": "2-3a13cfbd91d5ee2d",
+	"readme": "# Installation\r\n> `npm install --save @types/browser-resolve`\r\n\r\n# Summary\r\nThis package contains type definitions for browser-resolve (https://github.com/defunctzombie/node-browser-resolve).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/browser-resolve\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 21:49:18 GMT\r\n * Dependencies: resolve\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Mario Nebl <https://github.com/marionebl>."
+}

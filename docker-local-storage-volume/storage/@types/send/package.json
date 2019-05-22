@@ -1,0 +1,249 @@
+{
+	"name": "@types/send",
+	"versions": {
+		"0.14.4": {
+			"name": "@types/send",
+			"version": "0.14.4",
+			"description": "TypeScript definitions for send",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mike Jerred",
+					"url": "https://github.com/MikeJerred",
+					"githubUsername": "MikeJerred"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/mime": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "8729699d94c105256ee497230a62b6070ff55bf902f3fa38ff49d295363288f4",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/send@0.14.4",
+			"dist": {
+				"shasum": "d70458b030305999db619a7b057f7105058bd0ff",
+				"size": 3440,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/send/download/@types/send-0.14.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/send-0.14.4.tgz_1510240681712_0.869967294158414"
+			},
+			"directories": {},
+			"publish_time": 1510240681781,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510240681781
+		},
+		"0.14.3": {
+			"name": "@types/send",
+			"version": "0.14.3",
+			"description": "TypeScript definitions for send",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mike Jerred",
+					"url": "https://github.com/MikeJerred"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/mime": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f75f96ec9dfdcff7fc8f9b9f17bb9ba0d257fe979a1e9db18d36a587b1d3429a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/send@0.14.3",
+			"dist": {
+				"shasum": "707a8233c2cc46a6835afe4974032f8c28c9291c",
+				"size": 3421,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/send/download/@types/send-0.14.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/send-0.14.3.tgz_1499265107753_0.18156875763088465"
+			},
+			"directories": {},
+			"publish_time": 1499265107938,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1499265107938
+		},
+		"0.14.2": {
+			"name": "@types/send",
+			"version": "0.14.2",
+			"description": "TypeScript definitions for send v0.14.1",
+			"license": "MIT",
+			"author": "Mike Jerred <https://github.com/MikeJerred>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/mime": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "3383e45092cb7e9dd336efeebe74a5ca3a8869e5409f2d24fd41056b6b395179",
+			"_id": "@types/send@0.14.2",
+			"dist": {
+				"shasum": "7e7f7d4c08248e9f57ea2133038c34c46e9d5564",
+				"size": 2947,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/send/download/@types/send-0.14.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/send-0.14.2.tgz_1478301593461_0.7983790358994156"
+			},
+			"directories": {},
+			"publish_time": 1478301595271,
+			"_cnpm_publish_time": 1478301595271,
+			"_hasShrinkwrap": false
+		},
+		"0.14.1": {
+			"name": "@types/send",
+			"version": "0.14.1",
+			"description": "TypeScript definitions for send v0.14.1",
+			"license": "MIT",
+			"author": "Mike Jerred <https://github.com/MikeJerred>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/mime": "*"
+			},
+			"peerDependencies": {},
+			"typings": "send.d.ts",
+			"typesPublisherContentHash": "a1b2985771edfff4744b1f7662d166616485a999b0e5db18aac7910a60fe5fa4",
+			"_id": "@types/send@0.14.1",
+			"dist": {
+				"shasum": "1cb1c03805f9434916b428c3098b21f9273bee98",
+				"size": 2988,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/send/download/@types/send-0.14.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/send-0.14.1.tgz_1477510105244_0.4656780061777681"
+			},
+			"directories": {},
+			"publish_time": 1477510108620,
+			"_cnpm_publish_time": 1477510108620,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.14.4",
+		"ts2.0": "0.14.3",
+		"ts2.1": "0.14.3",
+		"ts2.2": "0.14.4",
+		"ts2.3": "0.14.4",
+		"ts2.4": "0.14.4",
+		"ts2.5": "0.14.4",
+		"ts2.6": "0.14.4",
+		"ts2.7": "0.14.4",
+		"ts2.8": "0.14.4",
+		"ts2.9": "0.14.4",
+		"ts3.0": "0.14.4",
+		"ts3.1": "0.14.4",
+		"ts3.2": "0.14.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:28:16.000Z",
+		"created": "2016-10-26T19:28:28.620Z",
+		"0.14.4": "2017-11-09T15:18:01.781Z",
+		"0.14.3": "2017-07-05T14:31:47.938Z",
+		"0.14.2": "2016-11-04T23:19:55.271Z",
+		"0.14.1": "2016-10-26T19:28:28.620Z"
+	},
+	"_distfiles": {
+		"send-0.14.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/send/download/@types/send-0.14.4.tgz",
+			"sha": "d70458b030305999db619a7b057f7105058bd0ff",
+			"registry": "cnpmjs"
+		},
+		"send-0.14.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/send/download/@types/send-0.14.3.tgz",
+			"sha": "707a8233c2cc46a6835afe4974032f8c28c9291c",
+			"registry": "cnpmjs"
+		},
+		"send-0.14.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/send/download/@types/send-0.14.2.tgz",
+			"sha": "7e7f7d4c08248e9f57ea2133038c34c46e9d5564",
+			"registry": "cnpmjs"
+		},
+		"send-0.14.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/send/download/@types/send-0.14.1.tgz",
+			"sha": "1cb1c03805f9434916b428c3098b21f9273bee98",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1606-gpaV/Dub/ZHR/12fOwZfRJ6s1oE\"",
+			"fetched": 1541833488148
+		}
+	},
+	"_rev": "2-d26b89b7c1c60690",
+	"readme": "# Installation\r\n> `npm install --save @types/send`\r\n\r\n# Summary\r\nThis package contains type definitions for send (https://github.com/pillarjs/send).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/send\r\n\r\nAdditional Details\r\n * Last updated: Thu, 09 Nov 2017 15:17:54 GMT\r\n * Dependencies: stream, fs, mime, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Mike Jerred <https://github.com/MikeJerred>."
+}

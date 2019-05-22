@@ -1,0 +1,326 @@
+{
+	"name": "@types/lodash.debounce",
+	"versions": {
+		"4.0.3": {
+			"name": "@types/lodash.debounce",
+			"version": "4.0.3",
+			"description": "TypeScript definitions for lodash.debounce",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "dc32d14b9f2180134b7810c4cf59abb8fdcb0c63c63ab53f8275d0008b0482a9",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.debounce@4.0.3",
+			"dist": {
+				"shasum": "d712aee9e6136be77f70523ed9f0fc049a6cf15a",
+				"size": 1591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.debounce/download/@types/lodash.debounce-4.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.debounce-4.0.3.tgz_1502228868698_0.182092527160421"
+			},
+			"directories": {},
+			"publish_time": 1502228868750,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228868750
+		},
+		"4.0.2": {
+			"name": "@types/lodash.debounce",
+			"version": "4.0.2",
+			"description": "TypeScript definitions for lodash.debounce",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "9c404924a2814490cacbfc38b72dd7f7c78d9cc01ade06eba424a6492411e6c8",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.debounce@4.0.2",
+			"dist": {
+				"shasum": "67971d60867dd2ceea80483b30f8ad38548800e2",
+				"size": 873,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.debounce/download/@types/lodash.debounce-4.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.debounce-4.0.2.tgz_1490212503806_0.8607108811847866"
+			},
+			"directories": {},
+			"publish_time": 1490212505676,
+			"_cnpm_publish_time": 1490212505676,
+			"_hasShrinkwrap": false
+		},
+		"4.0.1": {
+			"name": "@types/lodash.debounce",
+			"version": "4.0.1",
+			"description": "TypeScript definitions for lodash.debounce",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "94f5b04e21b4ec677d6c03edfabbe0192036ba281a511636e0b9a5bcc4d18b37",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.debounce@4.0.1",
+			"dist": {
+				"shasum": "bdcfbc098a1cecc522c62ed7cbf42779e4a047a4",
+				"size": 1045,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.debounce/download/@types/lodash.debounce-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.debounce-4.0.1.tgz_1485553518596_0.08926897984929383"
+			},
+			"directories": {},
+			"publish_time": 1485553518812,
+			"_cnpm_publish_time": 1485553518812,
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "@types/lodash.debounce",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for lodash.debounce",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "eafade9dda851c4646a80eecc617e0400f5b430f22b3704118a094a3db56fb24",
+			"_id": "@types/lodash.debounce@4.0.0",
+			"dist": {
+				"shasum": "630f543ddee00c65a6efd5ba49ca36e78438fdb7",
+				"size": 1019,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.debounce/download/@types/lodash.debounce-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.debounce-4.0.0.tgz_1480973377504_0.488591288914904"
+			},
+			"directories": {},
+			"publish_time": 1480973379274,
+			"_cnpm_publish_time": 1480973379274,
+			"_hasShrinkwrap": false
+		},
+		"4.0.4": {
+			"name": "@types/lodash.debounce",
+			"version": "4.0.4",
+			"description": "TypeScript definitions for lodash.debounce",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "cd15bcc872592b3d428119fc417313dc66ebbc705ea2fbc68df3c03b90fc8068",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.debounce@4.0.4",
+			"dist": {
+				"shasum": "a3d082628ef1bb1964c2b6a2d4f45acae7209e7a",
+				"size": 1597,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.debounce/download/@types/lodash.debounce-4.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.debounce_4.0.4_1532392785906_0.9538271732299954"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532392785971,
+			"_cnpm_publish_time": 1532392785971
+		}
+	},
+	"dist-tags": {
+		"latest": "4.0.4",
+		"ts2.0": "4.0.0",
+		"ts2.1": "4.0.1",
+		"ts2.2": "4.0.3",
+		"ts2.3": "4.0.3",
+		"ts2.4": "4.0.3",
+		"ts2.5": "4.0.3",
+		"ts2.6": "4.0.4",
+		"ts2.7": "4.0.4",
+		"ts2.8": "4.0.4",
+		"ts2.9": "4.0.4",
+		"ts3.0": "4.0.4",
+		"ts3.1": "4.0.4",
+		"ts3.2": "4.0.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:16:03.000Z",
+		"created": "2016-12-05T21:29:39.274Z",
+		"4.0.4": "2018-07-24T00:39:45.971Z",
+		"4.0.3": "2017-08-08T21:47:48.750Z",
+		"4.0.2": "2017-03-22T19:55:05.676Z",
+		"4.0.1": "2017-01-27T21:45:18.812Z",
+		"4.0.0": "2016-12-05T21:29:39.274Z"
+	},
+	"_distfiles": {
+		"lodash.debounce-4.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.debounce/download/@types/lodash.debounce-4.0.3.tgz",
+			"sha": "d712aee9e6136be77f70523ed9f0fc049a6cf15a",
+			"registry": "cnpmjs"
+		},
+		"lodash.debounce-4.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.debounce/download/@types/lodash.debounce-4.0.2.tgz",
+			"sha": "67971d60867dd2ceea80483b30f8ad38548800e2",
+			"registry": "cnpmjs"
+		},
+		"lodash.debounce-4.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.debounce/download/@types/lodash.debounce-4.0.1.tgz",
+			"sha": "bdcfbc098a1cecc522c62ed7cbf42779e4a047a4",
+			"registry": "cnpmjs"
+		},
+		"lodash.debounce-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.debounce/download/@types/lodash.debounce-4.0.0.tgz",
+			"sha": "630f543ddee00c65a6efd5ba49ca36e78438fdb7",
+			"registry": "cnpmjs"
+		},
+		"lodash.debounce-4.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.debounce/download/@types/lodash.debounce-4.0.4.tgz",
+			"sha": "a3d082628ef1bb1964c2b6a2d4f45acae7209e7a",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1e04-bX6HXzaZkdepi/MAcpnxbIfPsbQ\"",
+			"fetched": 1541833484379
+		}
+	},
+	"_rev": "2-1695b02203304e1f",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.debounce`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.debounce (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.debounce\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

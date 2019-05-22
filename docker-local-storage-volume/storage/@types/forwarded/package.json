@@ -1,0 +1,89 @@
+{
+	"name": "@types/forwarded",
+	"versions": {
+		"0.1.0": {
+			"name": "@types/forwarded",
+			"version": "0.1.0",
+			"description": "TypeScript definitions for forwarded",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "ad10d2673e6abc19d82a3ffaa1abbccb11c7d83b592f03341818756f9f4d0394",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/forwarded@0.1.0",
+			"dist": {
+				"shasum": "8191cf6f7c9934f3f6f75036d6f027a3dfcf1d94",
+				"size": 1525,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/forwarded/download/@types/forwarded-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/forwarded-0.1.0.tgz_1502921237878_0.88319180929102"
+			},
+			"directories": {},
+			"publish_time": 1502921237950,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502921237950
+		}
+	},
+	"dist-tags": {
+		"latest": "0.1.0",
+		"ts2.0": "0.1.0",
+		"ts2.1": "0.1.0",
+		"ts2.2": "0.1.0",
+		"ts2.3": "0.1.0",
+		"ts2.4": "0.1.0",
+		"ts2.5": "0.1.0",
+		"ts2.6": "0.1.0",
+		"ts2.7": "0.1.0",
+		"ts2.8": "0.1.0",
+		"ts2.9": "0.1.0",
+		"ts3.0": "0.1.0",
+		"ts3.1": "0.1.0",
+		"ts3.2": "0.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:11:46.000Z",
+		"created": "2017-08-16T22:07:17.950Z",
+		"0.1.0": "2017-08-16T22:07:17.950Z"
+	},
+	"_distfiles": {
+		"forwarded-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/forwarded/download/@types/forwarded-0.1.0.tgz",
+			"sha": "8191cf6f7c9934f3f6f75036d6f027a3dfcf1d94",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833455631
+		}
+	},
+	"_rev": "2-61fbe1553d3c489d",
+	"readme": "# Installation\r\n> `npm install --save @types/forwarded`\r\n\r\n# Summary\r\nThis package contains type definitions for forwarded (https://github.com/jshttp/forwarded).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/forwarded\r\n\r\nAdditional Details\r\n * Last updated: Wed, 16 Aug 2017 22:06:59 GMT\r\n * Dependencies: http, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by BendingBender <https://github.com/BendingBender>."
+}

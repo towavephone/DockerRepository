@@ -1,0 +1,386 @@
+{
+	"name": "@types/js-base64",
+	"versions": {
+		"2.3.1": {
+			"name": "@types/js-base64",
+			"version": "2.3.1",
+			"description": "TypeScript definitions for js-base64",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Denis Carriere",
+					"url": "https://github.com/DenisCarriere",
+					"githubUsername": "DenisCarriere"
+				},
+				{
+					"name": "Tommy Lent",
+					"url": "https://github.com/tlent",
+					"githubUsername": "tlent"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "67767cf45f76acda8a404d727c45a33b235d6dd4aef90b6fbcb6799f2daa7bff",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/js-base64@2.3.1",
+			"dist": {
+				"shasum": "c39f14f129408a3d96a1105a650d8b2b6eeb4168",
+				"size": 1746,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-2.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/js-base64-2.3.1.tgz_1513287289434_0.6321306312456727"
+			},
+			"directories": {},
+			"publish_time": 1513287289523,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513287289523
+		},
+		"2.3.0": {
+			"name": "@types/js-base64",
+			"version": "2.3.0",
+			"description": "TypeScript definitions for js-base64",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Denis Carriere",
+					"url": "https://github.com/DenisCarriere",
+					"githubUsername": "DenisCarriere"
+				},
+				{
+					"name": "Tommy Lent",
+					"url": "https://github.com/tlent",
+					"githubUsername": "tlent"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "45768af20219b8b3d41fc94a179a2567fc5f90c86b49081fe19a62f31a9cce25",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/js-base64@2.3.0",
+			"dist": {
+				"shasum": "6029e6e3bf116a1aa5569dfb9ea30d17fc5b20c0",
+				"size": 1799,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-2.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/js-base64-2.3.0.tgz_1508893541647_0.13462569913826883"
+			},
+			"directories": {},
+			"publish_time": 1508893541702,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508893541702
+		},
+		"2.1.5": {
+			"name": "@types/js-base64",
+			"version": "2.1.5",
+			"description": "TypeScript definitions for js-base64 v2.1.9",
+			"license": "MIT",
+			"author": "Denis Carriere <https://github.com/DenisCarriere>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "bab9e056804f5a1ca8e0bf6f7c98b3bc7888d7a50b626711754a9ef3f63a7cb9",
+			"_id": "@types/js-base64@2.1.5",
+			"dist": {
+				"shasum": "31b6d36a66a4c59ae3f31b5e16bfd6b832a6eb41",
+				"size": 1205,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-2.1.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/js-base64-2.1.5.tgz_1477510003612_0.554757930804044"
+			},
+			"directories": {},
+			"publish_time": 1477510006859,
+			"_cnpm_publish_time": 1477510006859,
+			"_hasShrinkwrap": false
+		},
+		"2.1.4": {
+			"name": "@types/js-base64",
+			"version": "2.1.4",
+			"description": "TypeScript definitions for js-base64 v2.1.9",
+			"license": "MIT",
+			"author": "Denis Carriere <https://github.com/DenisCarriere>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "e541e3c4cb279fb8d7222d0a8bfaa82ac3f10700c4ede28c8d0404e4d925a6a2",
+			"_id": "@types/js-base64@2.1.4",
+			"dist": {
+				"shasum": "0c2a022db3013628abd19a530ea5bc0e4e95ac74",
+				"size": 1203,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-2.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/js-base64-2.1.4.tgz_1475701085617_0.7947690379805863"
+			},
+			"directories": {},
+			"publish_time": 1475701085864,
+			"_cnpm_publish_time": 1475701085864,
+			"_hasShrinkwrap": false
+		},
+		"2.1.3": {
+			"name": "@types/js-base64",
+			"version": "2.1.3",
+			"description": "TypeScript definitions for js-base64 v2.1.9",
+			"license": "MIT",
+			"author": "Denis Carriere <https://github.com/DenisCarriere>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "js-base64.d.ts",
+			"typesPublisherContentHash": "68c7b73ade1f32f4ec0a8e755d23a9deb5f6ba74cc3e4e1be39012be4ceb2c16",
+			"_id": "@types/js-base64@2.1.3",
+			"dist": {
+				"shasum": "7ea3c53e77e9353b3cdfb4dcd2da6ced4d572535",
+				"size": 1157,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-2.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-base64-2.1.3.tgz_1474307036637_0.14049449167214334"
+			},
+			"directories": {},
+			"publish_time": 1474307039717,
+			"_cnpm_publish_time": 1474307039717,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/js-base64",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for js-base64 v2.1.9",
+			"license": "MIT",
+			"author": "Denis Carriere <https://github.com/DenisCarriere>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "js-base64.d.ts",
+			"_id": "@types/js-base64@0.0.2",
+			"dist": {
+				"shasum": "01b0cc87b5a6f08e353a715348c5c9805678370b",
+				"size": 1145,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-base64-0.0.2.tgz_1472150794340_0.6244300021789968"
+			},
+			"directories": {},
+			"publish_time": 1472150794901,
+			"_cnpm_publish_time": 1472150794901,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/js-base64",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for js-base64 v2.1.9",
+			"license": "MIT",
+			"author": "Denis Carriere <https://github.com/DenisCarriere>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "js-base64.d.ts",
+			"_id": "@types/js-base64@0.0.1",
+			"dist": {
+				"shasum": "d979dd78f0e9e2c5a308269b6c618dedfeb7d2e8",
+				"size": 1145,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-base64-0.0.1.tgz_1470688606058_0.6211788039654493"
+			},
+			"directories": {},
+			"publish_time": 1470688609677,
+			"_cnpm_publish_time": 1470688609677,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.3.1",
+		"ts2.0": "2.3.1",
+		"ts2.1": "2.3.1",
+		"ts2.2": "2.3.1",
+		"ts2.3": "2.3.1",
+		"ts2.4": "2.3.1",
+		"ts2.5": "2.3.1",
+		"ts2.6": "2.3.1",
+		"ts2.7": "2.3.1",
+		"ts2.8": "2.3.1",
+		"ts2.9": "2.3.1",
+		"ts3.0": "2.3.1",
+		"ts3.1": "2.3.1",
+		"ts3.2": "2.3.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:46.000Z",
+		"created": "2016-08-08T20:36:49.677Z",
+		"2.3.1": "2017-12-14T21:34:49.523Z",
+		"2.3.0": "2017-10-25T01:05:41.702Z",
+		"2.1.5": "2016-10-26T19:26:46.859Z",
+		"2.1.4": "2016-10-05T20:58:05.864Z",
+		"2.1.3": "2016-09-19T17:43:59.717Z",
+		"0.0.2": "2016-08-25T18:46:34.901Z",
+		"0.0.1": "2016-08-08T20:36:49.677Z"
+	},
+	"_distfiles": {
+		"js-base64-2.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-2.3.1.tgz",
+			"sha": "c39f14f129408a3d96a1105a650d8b2b6eeb4168",
+			"registry": "cnpmjs"
+		},
+		"js-base64-2.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-2.3.0.tgz",
+			"sha": "6029e6e3bf116a1aa5569dfb9ea30d17fc5b20c0",
+			"registry": "cnpmjs"
+		},
+		"js-base64-2.1.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-2.1.5.tgz",
+			"sha": "31b6d36a66a4c59ae3f31b5e16bfd6b832a6eb41",
+			"registry": "cnpmjs"
+		},
+		"js-base64-2.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-2.1.4.tgz",
+			"sha": "0c2a022db3013628abd19a530ea5bc0e4e95ac74",
+			"registry": "cnpmjs"
+		},
+		"js-base64-2.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-2.1.3.tgz",
+			"sha": "7ea3c53e77e9353b3cdfb4dcd2da6ced4d572535",
+			"registry": "cnpmjs"
+		},
+		"js-base64-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-0.0.2.tgz",
+			"sha": "01b0cc87b5a6f08e353a715348c5c9805678370b",
+			"registry": "cnpmjs"
+		},
+		"js-base64-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-base64/download/@types/js-base64-0.0.1.tgz",
+			"sha": "d979dd78f0e9e2c5a308269b6c618dedfeb7d2e8",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833457824
+		}
+	},
+	"_rev": "2-d993102ac43e733e",
+	"readme": "# Installation\r\n> `npm install --save @types/js-base64`\r\n\r\n# Summary\r\nThis package contains type definitions for js-base64 (https://github.com/dankogai/js-base64).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/js-base64\r\n\r\nAdditional Details\r\n * Last updated: Thu, 14 Dec 2017 21:33:44 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Denis Carriere <https://github.com/DenisCarriere>, Tommy Lent <https://github.com/tlent>."
+}

@@ -1,0 +1,473 @@
+{
+	"name": "@types/d3-interpolate",
+	"versions": {
+		"1.3.0": {
+			"name": "@types/d3-interpolate",
+			"version": "1.3.0",
+			"description": "TypeScript definitions for D3JS d3-interpolate module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "denisname",
+					"url": "https://github.com/denisname",
+					"githubUsername": "denisname"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-color": "*"
+			},
+			"typesPublisherContentHash": "20b7b6e6554d27c67e94593ae60f2da350b18ff5383b63c278b0a7bc9c981c40",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/d3-interpolate@1.3.0",
+			"dist": {
+				"shasum": "65b9627900bfdd82474875d9b23d574a4388af7c",
+				"size": 5631,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-1.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-interpolate_1.3.0_1538051897686_0.5993990128263542"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538051897872,
+			"_cnpm_publish_time": 1538051897872
+		},
+		"1.2.0": {
+			"name": "@types/d3-interpolate",
+			"version": "1.2.0",
+			"description": "TypeScript definitions for D3JS d3-interpolate module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-color": "*"
+			},
+			"typesPublisherContentHash": "f8486d18b3243e781f82755ce5926e94defcd45a7fec0efae8a37e0b3e59c0cc",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-interpolate@1.2.0",
+			"dist": {
+				"shasum": "b5587e013f8afbbc0194046e6a66bb7b8f1c8619",
+				"size": 2518,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-interpolate_1.2.0_1527870519281_0.04067615194567065"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527870519349,
+			"_cnpm_publish_time": 1527870519349
+		},
+		"1.1.6": {
+			"name": "@types/d3-interpolate",
+			"version": "1.1.6",
+			"description": "TypeScript definitions for D3JS d3-interpolate module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-color": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "dc467ccc2e63deb1dec295e1a3f22471a1865fec841f020201bd631cc9928cf7",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-interpolate@1.1.6",
+			"dist": {
+				"shasum": "64041b15c9c032c348da1b22baabc59fa4d16136",
+				"size": 2415,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-1.1.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-interpolate-1.1.6.tgz_1495209024770_0.30971892457455397"
+			},
+			"directories": {},
+			"publish_time": 1495209024860,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1495209024860
+		},
+		"1.1.5": {
+			"name": "@types/d3-interpolate",
+			"version": "1.1.5",
+			"description": "TypeScript definitions for D3JS d3-interpolate module v1.1.1",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-color": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "1faa9b47b1acd88d569f3f68e85a5f38fba178a26dd8e9124fddabd9915e1640",
+			"_id": "@types/d3-interpolate@1.1.5",
+			"dist": {
+				"shasum": "956485bb0f75c07b49b33f7b44a35cfa9f7f4f46",
+				"size": 1835,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-1.1.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-interpolate-1.1.5.tgz_1473706864881_0.03863186831586063"
+			},
+			"directories": {},
+			"publish_time": 1473706867758,
+			"_cnpm_publish_time": 1473706867758,
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "@types/d3-interpolate",
+			"version": "0.0.4",
+			"description": "TypeScript definitions for D3JS d3-interpolate module 1.1.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-color": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-interpolate@0.0.4",
+			"dist": {
+				"shasum": "28e415d73f6d432535cd8500bf7ebd81c8610697",
+				"size": 1829,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-0.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-interpolate-0.0.4.tgz_1472150327425_0.8083941086661071"
+			},
+			"directories": {},
+			"publish_time": 1472150329214,
+			"_cnpm_publish_time": 1472150329214,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/d3-interpolate",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for D3JS d3-interpolate module 1.1.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-color": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-interpolate@0.0.3",
+			"dist": {
+				"shasum": "e940a690c3820cd94d3527fca370574b3e20129a",
+				"size": 1829,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-interpolate-0.0.3.tgz_1471888635929_0.26434407802298665"
+			},
+			"directories": {},
+			"publish_time": 1471888638762,
+			"_cnpm_publish_time": 1471888638762,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/d3-interpolate",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for D3JS d3-interpolate module 1.1.0",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-color": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-interpolate@0.0.2",
+			"dist": {
+				"shasum": "ed3e7a54076f69fd752746fafdd3d701abc233cf",
+				"size": 1826,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-interpolate-0.0.2.tgz_1470921483442_0.3543646028265357"
+			},
+			"directories": {},
+			"publish_time": 1470921483670,
+			"_cnpm_publish_time": 1470921483670,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/d3-interpolate",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for D3JS d3-interpolate module 1.1.0",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-interpolate@0.0.1",
+			"dist": {
+				"shasum": "1ac51f374738168fe76c964d527419187292a7f4",
+				"size": 1810,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-interpolate-0.0.1.tgz_1470688534318_0.7965616520959884"
+			},
+			"directories": {},
+			"publish_time": 1470688537870,
+			"_cnpm_publish_time": 1470688537870,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.3.0",
+		"ts2.0": "1.2.0",
+		"ts2.1": "1.2.0",
+		"ts2.2": "1.2.0",
+		"ts2.3": "1.3.0",
+		"ts2.4": "1.3.0",
+		"ts2.5": "1.3.0",
+		"ts2.6": "1.3.0",
+		"ts2.7": "1.3.0",
+		"ts2.8": "1.3.0",
+		"ts2.9": "1.3.0",
+		"ts3.0": "1.3.0",
+		"ts3.1": "1.3.0",
+		"ts3.2": "1.3.0"
+	},
+	"time": {
+		"modified": "2018-09-27T12:38:30.000Z",
+		"created": "2016-08-08T20:35:37.870Z",
+		"1.3.0": "2018-09-27T12:38:17.872Z",
+		"1.2.0": "2018-06-01T16:28:39.349Z",
+		"1.1.6": "2017-05-19T15:50:24.860Z",
+		"1.1.5": "2016-09-12T19:01:07.758Z",
+		"0.0.4": "2016-08-25T18:38:49.214Z",
+		"0.0.3": "2016-08-22T17:57:18.762Z",
+		"0.0.2": "2016-08-11T13:18:03.670Z",
+		"0.0.1": "2016-08-08T20:35:37.870Z"
+	},
+	"_distfiles": {
+		"d3-interpolate-1.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-1.3.0.tgz",
+			"sha": "65b9627900bfdd82474875d9b23d574a4388af7c",
+			"registry": "cnpmjs"
+		},
+		"d3-interpolate-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-1.2.0.tgz",
+			"sha": "b5587e013f8afbbc0194046e6a66bb7b8f1c8619",
+			"registry": "cnpmjs"
+		},
+		"d3-interpolate-1.1.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-1.1.6.tgz",
+			"sha": "64041b15c9c032c348da1b22baabc59fa4d16136",
+			"registry": "cnpmjs"
+		},
+		"d3-interpolate-1.1.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-1.1.5.tgz",
+			"sha": "956485bb0f75c07b49b33f7b44a35cfa9f7f4f46",
+			"registry": "cnpmjs"
+		},
+		"d3-interpolate-0.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-0.0.4.tgz",
+			"sha": "28e415d73f6d432535cd8500bf7ebd81c8610697",
+			"registry": "cnpmjs"
+		},
+		"d3-interpolate-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-0.0.3.tgz",
+			"sha": "e940a690c3820cd94d3527fca370574b3e20129a",
+			"registry": "cnpmjs"
+		},
+		"d3-interpolate-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-0.0.2.tgz",
+			"sha": "ed3e7a54076f69fd752746fafdd3d701abc233cf",
+			"registry": "cnpmjs"
+		},
+		"d3-interpolate-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-interpolate/download/@types/d3-interpolate-0.0.1.tgz",
+			"sha": "1ac51f374738168fe76c964d527419187292a7f4",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"2be7-Td4qBY4Wgk193Xi+E8aV1dbIc7I\"",
+			"fetched": 1541833453913
+		}
+	},
+	"_rev": "1-481589ea0e1044b4",
+	"readme": "# Installation\r\n> `npm install --save @types/d3-interpolate`\r\n\r\n# Summary\r\nThis package contains type definitions for D3JS d3-interpolate module (https://github.com/d3/d3-interpolate/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/d3-interpolate\r\n\r\nAdditional Details\r\n * Last updated: Thu, 27 Sep 2018 12:34:12 GMT\r\n * Dependencies: d3-color\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, denisname <https://github.com/denisname>."
+}

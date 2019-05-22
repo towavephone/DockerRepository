@@ -1,0 +1,728 @@
+{
+	"name": "@types/ansi-styles",
+	"versions": {
+		"3.2.0": {
+			"name": "@types/ansi-styles",
+			"version": "3.2.0",
+			"description": "TypeScript definitions for ansi-styles",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "bryn austin bellomy",
+					"url": "https://github.com/brynbellomy",
+					"githubUsername": "brynbellomy"
+				},
+				{
+					"name": "plylrnsdy",
+					"url": "https://github.com/plylrnsdy",
+					"githubUsername": "plylrnsdy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/color-name": "*"
+			},
+			"typesPublisherContentHash": "a7777bf5b2b4da0f8e588e263ab3ac415f63a484b9c4e8728b1cca29387764b8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ansi-styles@3.2.0",
+			"dist": {
+				"shasum": "fc9622eeed20a4d92bc5c28cb3507b748a4c7eba",
+				"size": 2571,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-3.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ansi-styles_3.2.0_1525797344456_0.7497846581640288"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525797344531,
+			"_cnpm_publish_time": 1525797344531
+		},
+		"2.0.30": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.30",
+			"description": "TypeScript definitions for ansi-styles 2.0.1",
+			"license": "MIT",
+			"author": "bryn austin bellomy <https://github.com/brynbellomy>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "33f75c6de956b275764af00a0c85f4ffd75c1de1178300a980481d1bfb8fd8e5",
+			"_id": "@types/ansi-styles@2.0.30",
+			"dist": {
+				"shasum": "9a645299020a224afc6a8cd055195850b3c2af85",
+				"size": 1160,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.30.tgz_1474302141394_0.9085936199408025"
+			},
+			"directories": {},
+			"publish_time": 1474302142895,
+			"_cnpm_publish_time": 1474302142895,
+			"_hasShrinkwrap": false
+		},
+		"2.0.29": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.29",
+			"description": "TypeScript definitions for ansi-styles 2.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "bryn austin bellomy",
+				"email": "https://github.com/brynbellomy"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansi-styles@2.0.29",
+			"_shasum": "c7f6803bb33a967cc5e57460a69a8e33c0d7610a",
+			"_from": "output\\ansi-styles",
+			"_resolved": "file:output\\ansi-styles",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c7f6803bb33a967cc5e57460a69a8e33c0d7610a",
+				"size": 1139,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.29.tgz_1468504956681_0.3316334611736238"
+			},
+			"directories": {},
+			"publish_time": 1468504959244,
+			"_cnpm_publish_time": 1468504959244,
+			"_hasShrinkwrap": false
+		},
+		"2.0.28-alpha": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.28-alpha",
+			"description": "TypeScript definitions for ansi-styles 2.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "bryn austin bellomy",
+				"email": "https://github.com/brynbellomy"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansi-styles@2.0.28-alpha",
+			"_shasum": "64f57995ae19255acad9735014f8e217d8acc620",
+			"_from": "output\\ansi-styles",
+			"_resolved": "file:output\\ansi-styles",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "64f57995ae19255acad9735014f8e217d8acc620",
+				"size": 1144,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.28-alpha.tgz_1468006166426_0.5707829880993813"
+			},
+			"directories": {},
+			"publish_time": 1468006168982,
+			"_cnpm_publish_time": 1468006168982,
+			"_hasShrinkwrap": false
+		},
+		"2.0.27-alpha": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.27-alpha",
+			"description": "TypeScript definitions for ansi-styles 2.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "bryn austin bellomy",
+				"email": "https://github.com/brynbellomy"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansi-styles@2.0.27-alpha",
+			"_shasum": "26c4c43453a98fd4355827ae5d2ac5f2712e0a72",
+			"_from": "output\\ansi-styles",
+			"_resolved": "file:output\\ansi-styles",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "26c4c43453a98fd4355827ae5d2ac5f2712e0a72",
+				"size": 1142,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.27-alpha.tgz_1467589443545_0.9548412181902677"
+			},
+			"directories": {},
+			"publish_time": 1467589444087,
+			"_cnpm_publish_time": 1467589444087,
+			"_hasShrinkwrap": false
+		},
+		"2.0.26-alpha": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.26-alpha",
+			"description": "TypeScript definitions for ansi-styles 2.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "bryn austin bellomy",
+				"email": "https://github.com/brynbellomy"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansi-styles@2.0.26-alpha",
+			"_shasum": "897a59617f057a8527731d4dbf7161df2e0890d5",
+			"_from": "output\\ansi-styles",
+			"_resolved": "file:output\\ansi-styles",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "897a59617f057a8527731d4dbf7161df2e0890d5",
+				"size": 1144,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.26-alpha.tgz_1467424731103_0.0782572973985225"
+			},
+			"directories": {},
+			"publish_time": 1467424734863,
+			"_cnpm_publish_time": 1467424734863,
+			"_hasShrinkwrap": false
+		},
+		"2.0.25-alpha": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.25-alpha",
+			"description": "TypeScript definitions for ansi-styles 2.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "bryn austin bellomy",
+				"email": "https://github.com/brynbellomy"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansi-styles@2.0.25-alpha",
+			"_shasum": "e3f984b834e323c72c3c5dd824fb76864b1b5edb",
+			"_from": "output\\ansi-styles",
+			"_resolved": "file:output\\ansi-styles",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e3f984b834e323c72c3c5dd824fb76864b1b5edb",
+				"size": 1143,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.25-alpha.tgz_1467411215010_0.8056114881765097"
+			},
+			"directories": {},
+			"publish_time": 1467411218315,
+			"_cnpm_publish_time": 1467411218315,
+			"_hasShrinkwrap": false
+		},
+		"2.0.24-alpha": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.24-alpha",
+			"description": "TypeScript definitions for ansi-styles 2.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "bryn austin bellomy",
+				"email": "https://github.com/brynbellomy"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansi-styles@2.0.24-alpha",
+			"_shasum": "0eb33de2bc2a9fcc60c5a73076442a2dde7c3b2f",
+			"_from": "output\\ansi-styles",
+			"_resolved": "file:output\\ansi-styles",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0eb33de2bc2a9fcc60c5a73076442a2dde7c3b2f",
+				"size": 1139,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.24-alpha.tgz_1467399160462_0.3699200327973813"
+			},
+			"directories": {},
+			"publish_time": 1467399163983,
+			"_cnpm_publish_time": 1467399163983,
+			"_hasShrinkwrap": false
+		},
+		"2.0.23-alpha": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.23-alpha",
+			"description": "TypeScript definitions for ansi-styles 2.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "bryn austin bellomy",
+				"email": "https://github.com/brynbellomy"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansi-styles@2.0.23-alpha",
+			"_shasum": "95d002567f5f65034778f3fa9c0006eb3be49ed6",
+			"_from": "output\\ansi-styles",
+			"_resolved": "file:output\\ansi-styles",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "95d002567f5f65034778f3fa9c0006eb3be49ed6",
+				"size": 1115,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.23-alpha.tgz_1464150463468_0.671142875449732"
+			},
+			"directories": {},
+			"publish_time": 1464150464853,
+			"_cnpm_publish_time": 1464150464853,
+			"_hasShrinkwrap": false
+		},
+		"2.0.22-alpha": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.22-alpha",
+			"description": "TypeScript definitions for ansi-styles 2.0.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "bryn austin bellomy",
+				"email": "https://github.com/brynbellomy"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansi-styles@2.0.22-alpha",
+			"_shasum": "938489382743904a334a5c1acecc0a8b5ae319c7",
+			"_from": "output\\ansi-styles",
+			"_resolved": "file:output\\ansi-styles",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "938489382743904a334a5c1acecc0a8b5ae319c7",
+				"size": 1112,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.22-alpha.tgz_1463771319028_0.9684032374061644"
+			},
+			"directories": {},
+			"publish_time": 1463771319983,
+			"_cnpm_publish_time": 1463771319983,
+			"_hasShrinkwrap": false
+		},
+		"2.0.17-alpha": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.17-alpha",
+			"description": "Type definitions for ansi-styles 2.0.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "bryn austin bellomy",
+				"email": "https://github.com/brynbellomy"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansi-styles@2.0.17-alpha",
+			"_shasum": "cc19f33feb9af1ee22d52e6589ed03966240e70b",
+			"_from": "output\\ansi-styles",
+			"_resolved": "file:output\\ansi-styles",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cc19f33feb9af1ee22d52e6589ed03966240e70b",
+				"size": 1116,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.17-alpha.tgz_1463688860038_0.06824953923933208"
+			},
+			"directories": {},
+			"publish_time": 1463688863385,
+			"_cnpm_publish_time": 1463688863385,
+			"_hasShrinkwrap": false
+		},
+		"2.0.16-alpha": {
+			"name": "@types/ansi-styles",
+			"version": "2.0.16-alpha",
+			"description": "Type definitions for ansi-styles 2.0.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "bryn austin bellomy",
+				"email": "https://github.com/brynbellomy"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansi-styles@2.0.16-alpha",
+			"_shasum": "1d5b944e65c4f1cdc164abd5e90ab12819144dd3",
+			"_from": "output\\ansi-styles",
+			"_resolved": "file:output\\ansi-styles",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1d5b944e65c4f1cdc164abd5e90ab12819144dd3",
+				"size": 1108,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ansi-styles-2.0.16-alpha.tgz_1463459147750_0.8758745884988457"
+			},
+			"directories": {},
+			"publish_time": 1463459151587,
+			"_cnpm_publish_time": 1463459151587,
+			"_hasShrinkwrap": false
+		},
+		"3.2.1": {
+			"name": "@types/ansi-styles",
+			"version": "3.2.1",
+			"description": "TypeScript definitions for ansi-styles",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "bryn austin bellomy",
+					"url": "https://github.com/brynbellomy",
+					"githubUsername": "brynbellomy"
+				},
+				{
+					"name": "plylrnsdy",
+					"url": "https://github.com/plylrnsdy",
+					"githubUsername": "plylrnsdy"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/color-name": "*"
+			},
+			"typesPublisherContentHash": "50b24ec920c2485b4f60275b44c5d6346466630df3901a2c53a90509bd684660",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/ansi-styles@3.2.1",
+			"dist": {
+				"shasum": "49e996bb6e0b7957ca831205df31eb9a0702492c",
+				"size": 2575,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-3.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ansi-styles_3.2.1_1539806705156_0.7399138846638524"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539806705297,
+			"_cnpm_publish_time": 1539806705297
+		}
+	},
+	"dist-tags": {
+		"latest": "3.2.1",
+		"ts2.0": "3.2.0",
+		"ts2.1": "3.2.1",
+		"ts2.2": "3.2.1",
+		"ts2.3": "3.2.1",
+		"ts2.4": "3.2.1",
+		"ts2.5": "3.2.1",
+		"ts2.6": "3.2.1",
+		"ts2.7": "3.2.1",
+		"ts2.8": "3.2.1",
+		"ts2.9": "3.2.1",
+		"ts3.0": "3.2.1",
+		"ts3.1": "3.2.1",
+		"ts3.2": "3.2.1"
+	},
+	"time": {
+		"modified": "2018-10-17T20:05:24.000Z",
+		"created": "2016-05-17T04:25:51.587Z",
+		"3.2.1": "2018-10-17T20:05:05.297Z",
+		"3.2.0": "2018-05-08T16:35:44.531Z",
+		"2.0.30": "2016-09-19T16:22:22.895Z",
+		"2.0.29": "2016-07-14T14:02:39.244Z",
+		"2.0.28-alpha": "2016-07-08T19:29:28.982Z",
+		"2.0.27-alpha": "2016-07-03T23:44:04.087Z",
+		"2.0.26-alpha": "2016-07-02T01:58:54.863Z",
+		"2.0.25-alpha": "2016-07-01T22:13:38.315Z",
+		"2.0.24-alpha": "2016-07-01T18:52:43.983Z",
+		"2.0.23-alpha": "2016-05-25T04:27:44.853Z",
+		"2.0.22-alpha": "2016-05-20T19:08:39.983Z",
+		"2.0.17-alpha": "2016-05-19T20:14:23.385Z",
+		"2.0.16-alpha": "2016-05-17T04:25:51.587Z"
+	},
+	"_distfiles": {
+		"ansi-styles-3.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-3.2.0.tgz",
+			"sha": "fc9622eeed20a4d92bc5c28cb3507b748a4c7eba",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.30.tgz",
+			"sha": "9a645299020a224afc6a8cd055195850b3c2af85",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.29.tgz",
+			"sha": "c7f6803bb33a967cc5e57460a69a8e33c0d7610a",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.28-alpha.tgz",
+			"sha": "64f57995ae19255acad9735014f8e217d8acc620",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.27-alpha.tgz",
+			"sha": "26c4c43453a98fd4355827ae5d2ac5f2712e0a72",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.26-alpha.tgz",
+			"sha": "897a59617f057a8527731d4dbf7161df2e0890d5",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.25-alpha.tgz",
+			"sha": "e3f984b834e323c72c3c5dd824fb76864b1b5edb",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.24-alpha.tgz",
+			"sha": "0eb33de2bc2a9fcc60c5a73076442a2dde7c3b2f",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.23-alpha.tgz",
+			"sha": "95d002567f5f65034778f3fa9c0006eb3be49ed6",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.22-alpha.tgz",
+			"sha": "938489382743904a334a5c1acecc0a8b5ae319c7",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.17-alpha.tgz",
+			"sha": "cc19f33feb9af1ee22d52e6589ed03966240e70b",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-2.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-2.0.16-alpha.tgz",
+			"sha": "1d5b944e65c4f1cdc164abd5e90ab12819144dd3",
+			"registry": "cnpmjs"
+		},
+		"ansi-styles-3.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansi-styles/download/@types/ansi-styles-3.2.1.tgz",
+			"sha": "49e996bb6e0b7957ca831205df31eb9a0702492c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"41a4-1DJFnlZLmbmtlbnWXzWIPDkVXgA\"",
+			"fetched": 1541833444625
+		}
+	},
+	"_rev": "2-27eaba0ac050700e",
+	"readme": "# Installation\r\n> `npm install --save @types/ansi-styles`\r\n\r\n# Summary\r\nThis package contains type definitions for ansi-styles (https://github.com/sindresorhus/ansi-styles).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ansi-styles\r\n\r\nAdditional Details\r\n * Last updated: Wed, 17 Oct 2018 20:04:14 GMT\r\n * Dependencies: color-name\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by bryn austin bellomy <https://github.com/brynbellomy>, plylrnsdy <https://github.com/plylrnsdy>."
+}

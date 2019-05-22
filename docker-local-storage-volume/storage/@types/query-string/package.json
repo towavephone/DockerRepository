@@ -1,0 +1,1254 @@
+{
+	"name": "@types/query-string",
+	"versions": {
+		"5.1.0": {
+			"name": "@types/query-string",
+			"version": "5.1.0",
+			"description": "TypeScript definitions for query-string",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/SamVerschueren",
+					"githubUsername": "SamVerschueren"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				},
+				{
+					"name": "HuHuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "Madara Uchiha",
+					"url": "https://github.com/MadaraUchiha",
+					"githubUsername": "MadaraUchiha"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "f8f285057cc348af089df592868f7a231b4347cbcc93d8188d2c2bec50adcb04",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/query-string@5.1.0",
+			"dist": {
+				"shasum": "7f40cdea49ddafa0ea4f3db35fb6c24d3bfd4dcc",
+				"size": 1890,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-5.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/query-string_5.1.0_1518555544381_0.9261686426111344"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518555544491,
+			"_cnpm_publish_time": 1518555544491
+		},
+		"5.0.1": {
+			"name": "@types/query-string",
+			"version": "5.0.1",
+			"description": "TypeScript definitions for query-string",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/SamVerschueren",
+					"githubUsername": "SamVerschueren"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				},
+				{
+					"name": "HuHuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "f879052b6cc0d20b01dfdecaa67df255a6b680bf4f0fb97e2d32fad00cbae7fa",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/query-string@5.0.1",
+			"dist": {
+				"shasum": "6cb41c724cb1644d56c2d1dae7c7b204e706b39e",
+				"size": 1835,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-5.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/query-string-5.0.1.tgz_1508948544083_0.6255170162767172"
+			},
+			"directories": {},
+			"publish_time": 1508948544144,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508948544144
+		},
+		"5.0.0": {
+			"name": "@types/query-string",
+			"version": "5.0.0",
+			"description": "TypeScript definitions for query-string",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/SamVerschueren"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff"
+				},
+				{
+					"name": "HuHuanming",
+					"url": "https://github.com/huhuanming"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ccfa9716f34d961c8ec8c90515926ed5e49a72343b4d7dcfec887eb90f785085",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/query-string@5.0.0",
+			"dist": {
+				"shasum": "5dbebd24d0abeb555d0dd9704c33462d84a45e69",
+				"size": 1837,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/query-string-5.0.0.tgz_1501261668759_0.12749793054535985"
+			},
+			"directories": {},
+			"publish_time": 1501261668877,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501261668877
+		},
+		"4.3.1": {
+			"name": "@types/query-string",
+			"version": "4.3.1",
+			"description": "TypeScript definitions for query-string",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/SamVerschueren"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d3db1a644c0495b74ef36629c4a6ef675b57a946d2bb34573f5dfa66fb6c17c6",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/query-string@4.3.1",
+			"dist": {
+				"shasum": "59ea5c75d425817370158789aa4f6197e5abd987",
+				"size": 1105,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-4.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/query-string-4.3.1.tgz_1490983641091_0.8964554695412517"
+			},
+			"directories": {},
+			"publish_time": 1490983642926,
+			"_cnpm_publish_time": 1490983642926,
+			"_hasShrinkwrap": false
+		},
+		"4.3.0": {
+			"name": "@types/query-string",
+			"version": "4.3.0",
+			"description": "TypeScript definitions for query-string",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/SamVerschueren"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "4c13d6714ac2e7024513337c80486d15b36e3276bcb6d95f4a2865f52732e793",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/query-string@4.3.0",
+			"dist": {
+				"shasum": "617f2919e753968199fa7ce7ca7c4d9d9702780d",
+				"size": 1125,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-4.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/query-string-4.3.0.tgz_1490206785461_0.46422266704030335"
+			},
+			"directories": {},
+			"publish_time": 1490206787270,
+			"_cnpm_publish_time": 1490206787270,
+			"_hasShrinkwrap": false
+		},
+		"3.0.32": {
+			"name": "@types/query-string",
+			"version": "3.0.32",
+			"description": "TypeScript definitions for query-string",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/SamVerschueren"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fd294708b7e3422ece71b71d05dfd559616f7ff5c4a99e35a9d63b837fca3c9a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/query-string@3.0.32",
+			"dist": {
+				"shasum": "c780ae7ec1322df4db88fc5644f9c8298c6426a9",
+				"size": 1058,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.32.tgz_1489191324651_0.9697982294019312"
+			},
+			"directories": {},
+			"publish_time": 1489191324873,
+			"_cnpm_publish_time": 1489191324873,
+			"_hasShrinkwrap": false
+		},
+		"3.0.31": {
+			"name": "@types/query-string",
+			"version": "3.0.31",
+			"description": "TypeScript definitions for query-string",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/SamVerschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "39703fbe09f6ff2c9ef559c26db994c0d794064ab6b21922460cb2cfdb1d652e",
+			"_id": "@types/query-string@3.0.31",
+			"dist": {
+				"shasum": "9b5020ffbf7434afb092ca15f05c3fc000284fa4",
+				"size": 1221,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.31.tgz_1480547367698_0.952378707472235"
+			},
+			"directories": {},
+			"publish_time": 1480547367923,
+			"_cnpm_publish_time": 1480547367923,
+			"_hasShrinkwrap": false
+		},
+		"3.0.30": {
+			"name": "@types/query-string",
+			"version": "3.0.30",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/SamVerschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "ad0b78d4b6c271f8a80a3aaf1a19745e8e5eaa48a5aa9223e07c6cd50e050ec4",
+			"_id": "@types/query-string@3.0.30",
+			"dist": {
+				"shasum": "8b1a2b382ccf2e4793ec41a9a004cc5b2a43a072",
+				"size": 1265,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.30.tgz_1479848460895_0.8218324361369014"
+			},
+			"directories": {},
+			"publish_time": 1479848461110,
+			"_cnpm_publish_time": 1479848461110,
+			"_hasShrinkwrap": false
+		},
+		"3.0.29": {
+			"name": "@types/query-string",
+			"version": "3.0.29",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/SamVerschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "c76902e2f10cf0259134df74d6384f8fd0211336e541e051c9c1905004c69422",
+			"_id": "@types/query-string@3.0.29",
+			"dist": {
+				"shasum": "345133ad57de6562806b8950c8ae8a68d9879cb0",
+				"size": 1261,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.29.tgz_1477510053955_0.466289269272238"
+			},
+			"directories": {},
+			"publish_time": 1477510057379,
+			"_cnpm_publish_time": 1477510057379,
+			"_hasShrinkwrap": false
+		},
+		"3.0.28": {
+			"name": "@types/query-string",
+			"version": "3.0.28",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/SamVerschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "5f31dd4fa28a5c9be2354cef9ac8338f443a6906692ffab81e91f0d0f48e817b",
+			"_id": "@types/query-string@3.0.28",
+			"dist": {
+				"shasum": "e0089d0a3236450faaa5861b5448107552768029",
+				"size": 1185,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.28.tgz_1474308308132_0.43801353964954615"
+			},
+			"directories": {},
+			"publish_time": 1474308308378,
+			"_cnpm_publish_time": 1474308308378,
+			"_hasShrinkwrap": false
+		},
+		"3.0.27": {
+			"name": "@types/query-string",
+			"version": "3.0.27",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/SamVerschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/query-string@3.0.27",
+			"_shasum": "c5b22faa587568979a33b77b78328048d7a9104d",
+			"_from": "output\\query-string",
+			"_resolved": "file:output\\query-string",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c5b22faa587568979a33b77b78328048d7a9104d",
+				"size": 1157,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.27.tgz_1468511296475_0.3640450176317245"
+			},
+			"directories": {},
+			"publish_time": 1468511298595,
+			"_cnpm_publish_time": 1468511298595,
+			"_hasShrinkwrap": false
+		},
+		"3.0.26-alpha": {
+			"name": "@types/query-string",
+			"version": "3.0.26-alpha",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/SamVerschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/query-string@3.0.26-alpha",
+			"_shasum": "ae91a8e40f7b8b457d7c55a700f5f5c3faccbfa4",
+			"_from": "output\\query-string",
+			"_resolved": "file:output\\query-string",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ae91a8e40f7b8b457d7c55a700f5f5c3faccbfa4",
+				"size": 1165,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.26-alpha.tgz_1468012651795_0.5364842533599585"
+			},
+			"directories": {},
+			"publish_time": 1468012653112,
+			"_cnpm_publish_time": 1468012653112,
+			"_hasShrinkwrap": false
+		},
+		"3.0.25-alpha": {
+			"name": "@types/query-string",
+			"version": "3.0.25-alpha",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/SamVerschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/query-string@3.0.25-alpha",
+			"_shasum": "0d3ef1444ee3c3064985e36f65e2b744c3fe4692",
+			"_from": "output\\query-string",
+			"_resolved": "file:output\\query-string",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0d3ef1444ee3c3064985e36f65e2b744c3fe4692",
+				"size": 1166,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.25-alpha.tgz_1467594472630_0.9651826319750398"
+			},
+			"directories": {},
+			"publish_time": 1467594475935,
+			"_cnpm_publish_time": 1467594475935,
+			"_hasShrinkwrap": false
+		},
+		"3.0.24-alpha": {
+			"name": "@types/query-string",
+			"version": "3.0.24-alpha",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/SamVerschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/query-string@3.0.24-alpha",
+			"_shasum": "cfbb8d0c5d2c8a3c0d28e5499d21fd589ce77c8f",
+			"_from": "output\\query-string",
+			"_resolved": "file:output\\query-string",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cfbb8d0c5d2c8a3c0d28e5499d21fd589ce77c8f",
+				"size": 1165,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.24-alpha.tgz_1467429468649_0.34226893237791955"
+			},
+			"directories": {},
+			"publish_time": 1467429469222,
+			"_cnpm_publish_time": 1467429469222,
+			"_hasShrinkwrap": false
+		},
+		"3.0.23-alpha": {
+			"name": "@types/query-string",
+			"version": "3.0.23-alpha",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/SamVerschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/query-string@3.0.23-alpha",
+			"_shasum": "f1544efc13235c53120e9e99861d05d5bc927deb",
+			"_from": "output\\query-string",
+			"_resolved": "file:output\\query-string",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f1544efc13235c53120e9e99861d05d5bc927deb",
+				"size": 1164,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.23-alpha.tgz_1467417051208_0.2792810294777155"
+			},
+			"directories": {},
+			"publish_time": 1467417054723,
+			"_cnpm_publish_time": 1467417054723,
+			"_hasShrinkwrap": false
+		},
+		"3.0.22-alpha": {
+			"name": "@types/query-string",
+			"version": "3.0.22-alpha",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/SamVerschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/query-string@3.0.22-alpha",
+			"_shasum": "0a2efad2661b0863ff8cda5e891d753a51578503",
+			"_from": "output\\query-string",
+			"_resolved": "file:output\\query-string",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0a2efad2661b0863ff8cda5e891d753a51578503",
+				"size": 1161,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.22-alpha.tgz_1467404899797_0.26188128301873803"
+			},
+			"directories": {},
+			"publish_time": 1467404901898,
+			"_cnpm_publish_time": 1467404901898,
+			"_hasShrinkwrap": false
+		},
+		"3.0.21-alpha": {
+			"name": "@types/query-string",
+			"version": "3.0.21-alpha",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/SamVerschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/query-string@3.0.21-alpha",
+			"_shasum": "8b8170a8e2e1221895b239e59b296d4fcd68559b",
+			"_from": "output\\query-string",
+			"_resolved": "file:output\\query-string",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8b8170a8e2e1221895b239e59b296d4fcd68559b",
+				"size": 1132,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.21-alpha.tgz_1464155099418_0.3115680064074695"
+			},
+			"directories": {},
+			"publish_time": 1464155099931,
+			"_cnpm_publish_time": 1464155099931,
+			"_hasShrinkwrap": false
+		},
+		"3.0.20-alpha": {
+			"name": "@types/query-string",
+			"version": "3.0.20-alpha",
+			"description": "TypeScript definitions for query-string v3.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/SamVerschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/query-string@3.0.20-alpha",
+			"_shasum": "bb35e79ec9520f474800290ce83f672961aab763",
+			"_from": "output\\query-string",
+			"_resolved": "file:output\\query-string",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bb35e79ec9520f474800290ce83f672961aab763",
+				"size": 1131,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.20-alpha.tgz_1463776137326_0.06095395633019507"
+			},
+			"directories": {},
+			"publish_time": 1463776137722,
+			"_cnpm_publish_time": 1463776137722,
+			"_hasShrinkwrap": false
+		},
+		"3.0.15-alpha": {
+			"name": "@types/query-string",
+			"version": "3.0.15-alpha",
+			"description": "Type definitions for query-string v3.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/SamVerschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/query-string@3.0.15-alpha",
+			"_shasum": "dad124107172cad375c65a40764adcc929f80f12",
+			"_from": "output\\query-string",
+			"_resolved": "file:output\\query-string",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dad124107172cad375c65a40764adcc929f80f12",
+				"size": 1141,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.15-alpha.tgz_1463695566635_0.03212231118232012"
+			},
+			"directories": {},
+			"publish_time": 1463695571555,
+			"_cnpm_publish_time": 1463695571555,
+			"_hasShrinkwrap": false
+		},
+		"3.0.14-alpha": {
+			"name": "@types/query-string",
+			"version": "3.0.14-alpha",
+			"description": "Type definitions for query-string v3.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/SamVerschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/query-string@3.0.14-alpha",
+			"_shasum": "0ef0ee164ae6408b93efff116467fc093156b783",
+			"_from": "output\\query-string",
+			"_resolved": "file:output\\query-string",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0ef0ee164ae6408b93efff116467fc093156b783",
+				"size": 1130,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/query-string-3.0.14-alpha.tgz_1463510501578_0.9638927774503827"
+			},
+			"directories": {},
+			"publish_time": 1463510505490,
+			"_cnpm_publish_time": 1463510505490,
+			"_hasShrinkwrap": false
+		},
+		"6.1.1": {
+			"name": "@types/query-string",
+			"version": "6.1.1",
+			"description": "TypeScript definitions for query-string",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/SamVerschueren",
+					"githubUsername": "SamVerschueren"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				},
+				{
+					"name": "HuHuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "Madara Uchiha",
+					"url": "https://github.com/MadaraUchiha",
+					"githubUsername": "MadaraUchiha"
+				},
+				{
+					"name": "Josh Holmer",
+					"url": "https://github.com/shssoichiro",
+					"githubUsername": "shssoichiro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "17d1e86e1c830de7776278316d9a03960aaea5152914749e037c24ad276160c2",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/query-string@6.1.1",
+			"dist": {
+				"shasum": "1cfd9209c8dbd91b940192c8a2b7005d2a743e6f",
+				"size": 1972,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-6.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/query-string_6.1.1_1539211555145_0.9667397084787013"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539211555257,
+			"_cnpm_publish_time": 1539211555257
+		},
+		"6.1.0": {
+			"name": "@types/query-string",
+			"version": "6.1.0",
+			"description": "TypeScript definitions for query-string",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/SamVerschueren",
+					"githubUsername": "SamVerschueren"
+				},
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff",
+					"githubUsername": "tkrotoff"
+				},
+				{
+					"name": "HuHuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "Madara Uchiha",
+					"url": "https://github.com/MadaraUchiha",
+					"githubUsername": "MadaraUchiha"
+				},
+				{
+					"name": "Josh Holmer",
+					"url": "https://github.com/shssoichiro",
+					"githubUsername": "shssoichiro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "bb52c1ff5ff03627123d93b64c2fbcb87bfabdf4213394f48e11b882fa4f64dd",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/query-string@6.1.0",
+			"dist": {
+				"shasum": "5f721f9503bdf517d474c66cf4423da5dd2d5698",
+				"size": 1932,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/query-string/download/@types/query-string-6.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/query-string_6.1.0_1529362355600_0.4881581561339303"
+			},
+			"publish_time": 1529362355741,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1529362355741
+		}
+	},
+	"dist-tags": {
+		"latest": "6.1.1",
+		"ts2.0": "3.0.32",
+		"ts2.1": "3.0.32",
+		"ts2.2": "6.1.1",
+		"ts2.3": "6.1.1",
+		"ts2.4": "6.1.1",
+		"ts2.5": "6.1.1",
+		"ts2.6": "6.1.1",
+		"ts2.7": "6.1.1",
+		"ts2.8": "6.1.1",
+		"ts2.9": "6.1.1",
+		"ts3.0": "6.1.1",
+		"ts3.1": "6.1.1",
+		"ts3.2": "6.1.1"
+	},
+	"time": {
+		"modified": "2018-10-10T22:46:09.000Z",
+		"created": "2016-05-17T18:41:45.490Z",
+		"6.1.1": "2018-10-10T22:45:55.257Z",
+		"6.1.0": "2018-06-18T22:52:35.741Z",
+		"5.1.0": "2018-02-13T20:59:04.491Z",
+		"5.0.1": "2017-10-25T16:22:24.144Z",
+		"5.0.0": "2017-07-28T17:07:48.877Z",
+		"4.3.1": "2017-03-31T18:07:22.926Z",
+		"4.3.0": "2017-03-22T18:19:47.270Z",
+		"3.0.32": "2017-03-11T00:15:24.873Z",
+		"3.0.31": "2016-11-30T23:09:27.923Z",
+		"3.0.30": "2016-11-22T21:01:01.110Z",
+		"3.0.29": "2016-10-26T19:27:37.379Z",
+		"3.0.28": "2016-09-19T18:05:08.378Z",
+		"3.0.27": "2016-07-14T15:48:18.595Z",
+		"3.0.26-alpha": "2016-07-08T21:17:33.112Z",
+		"3.0.25-alpha": "2016-07-04T01:07:55.935Z",
+		"3.0.24-alpha": "2016-07-02T03:17:49.222Z",
+		"3.0.23-alpha": "2016-07-01T23:50:54.723Z",
+		"3.0.22-alpha": "2016-07-01T20:28:21.898Z",
+		"3.0.21-alpha": "2016-05-25T05:44:59.931Z",
+		"3.0.20-alpha": "2016-05-20T20:28:57.722Z",
+		"3.0.15-alpha": "2016-05-19T22:06:11.555Z",
+		"3.0.14-alpha": "2016-05-17T18:41:45.490Z"
+	},
+	"_distfiles": {
+		"query-string-5.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-5.1.0.tgz",
+			"sha": "7f40cdea49ddafa0ea4f3db35fb6c24d3bfd4dcc",
+			"registry": "cnpmjs"
+		},
+		"query-string-5.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-5.0.1.tgz",
+			"sha": "6cb41c724cb1644d56c2d1dae7c7b204e706b39e",
+			"registry": "cnpmjs"
+		},
+		"query-string-5.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-5.0.0.tgz",
+			"sha": "5dbebd24d0abeb555d0dd9704c33462d84a45e69",
+			"registry": "cnpmjs"
+		},
+		"query-string-4.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-4.3.1.tgz",
+			"sha": "59ea5c75d425817370158789aa4f6197e5abd987",
+			"registry": "cnpmjs"
+		},
+		"query-string-4.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-4.3.0.tgz",
+			"sha": "617f2919e753968199fa7ce7ca7c4d9d9702780d",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.32.tgz",
+			"sha": "c780ae7ec1322df4db88fc5644f9c8298c6426a9",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.31.tgz",
+			"sha": "9b5020ffbf7434afb092ca15f05c3fc000284fa4",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.30.tgz",
+			"sha": "8b1a2b382ccf2e4793ec41a9a004cc5b2a43a072",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.29.tgz",
+			"sha": "345133ad57de6562806b8950c8ae8a68d9879cb0",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.28.tgz",
+			"sha": "e0089d0a3236450faaa5861b5448107552768029",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.27.tgz",
+			"sha": "c5b22faa587568979a33b77b78328048d7a9104d",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.26-alpha.tgz",
+			"sha": "ae91a8e40f7b8b457d7c55a700f5f5c3faccbfa4",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.25-alpha.tgz",
+			"sha": "0d3ef1444ee3c3064985e36f65e2b744c3fe4692",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.24-alpha.tgz",
+			"sha": "cfbb8d0c5d2c8a3c0d28e5499d21fd589ce77c8f",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.23-alpha.tgz",
+			"sha": "f1544efc13235c53120e9e99861d05d5bc927deb",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.22-alpha.tgz",
+			"sha": "0a2efad2661b0863ff8cda5e891d753a51578503",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.21-alpha.tgz",
+			"sha": "8b8170a8e2e1221895b239e59b296d4fcd68559b",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.20-alpha.tgz",
+			"sha": "bb35e79ec9520f474800290ce83f672961aab763",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.15-alpha.tgz",
+			"sha": "dad124107172cad375c65a40764adcc929f80f12",
+			"registry": "cnpmjs"
+		},
+		"query-string-3.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-3.0.14-alpha.tgz",
+			"sha": "0ef0ee164ae6408b93efff116467fc093156b783",
+			"registry": "cnpmjs"
+		},
+		"query-string-6.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-6.1.1.tgz",
+			"sha": "1cfd9209c8dbd91b940192c8a2b7005d2a743e6f",
+			"registry": "cnpmjs"
+		},
+		"query-string-6.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/query-string/download/@types/query-string-6.1.0.tgz",
+			"sha": "5f721f9503bdf517d474c66cf4423da5dd2d5698",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833487417
+		}
+	},
+	"_rev": "2-508f5a3f19efd857",
+	"readme": "# Installation\r\n> `npm install --save @types/query-string`\r\n\r\n# Summary\r\nThis package contains type definitions for query-string (https://github.com/sindresorhus/query-string).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/query-string\r\n\r\nAdditional Details\r\n * Last updated: Wed, 10 Oct 2018 22:44:29 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Sam Verschueren <https://github.com/SamVerschueren>, Tanguy Krotoff <https://github.com/tkrotoff>, HuHuanming <https://github.com/huhuanming>, Madara Uchiha <https://github.com/MadaraUchiha>, Josh Holmer <https://github.com/shssoichiro>."
+}

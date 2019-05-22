@@ -1,0 +1,719 @@
+{
+	"name": "cloneable-readable",
+	"versions": {
+		"1.1.2": {
+			"name": "cloneable-readable",
+			"version": "1.1.2",
+			"description": "Clone a Readable stream, safely",
+			"main": "index.js",
+			"scripts": {
+				"test": "standard && tape test.js | tap-spec"
+			},
+			"precommit": "test",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mcollina/cloneable-readable.git"
+			},
+			"keywords": [
+				"readable",
+				"stream",
+				"clone"
+			],
+			"author": {
+				"name": "Matteo Collina",
+				"email": "hello@matteocollina.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/mcollina/cloneable-readable/issues"
+			},
+			"homepage": "https://github.com/mcollina/cloneable-readable#readme",
+			"devDependencies": {
+				"flush-write-stream": "^1.0.0",
+				"from2": "^2.1.1",
+				"pre-commit": "^1.1.2",
+				"readable-stream": "^2.3.5",
+				"standard": "^11.0.0",
+				"tap-spec": "^4.1.1",
+				"tape": "^4.9.0"
+			},
+			"dependencies": {
+				"inherits": "^2.0.1",
+				"process-nextick-args": "^2.0.0",
+				"readable-stream": "^2.3.5"
+			},
+			"gitHead": "5890475314bfb2def062fd6d158c62cfec20ebdf",
+			"_id": "cloneable-readable@1.1.2",
+			"_npmVersion": "5.7.1",
+			"_nodeVersion": "8.10.0",
+			"_npmUser": {
+				"name": "matteo.collina",
+				"email": "hello@matteocollina.com"
+			},
+			"dist": {
+				"shasum": "d591dee4a8f8bc15da43ce97dceeba13d43e2a65",
+				"size": 4688,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-1.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "matteo.collina",
+					"email": "hello@matteocollina.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cloneable-readable_1.1.2_1521057710710_0.17257328641252445"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521057710758,
+			"_cnpm_publish_time": 1521057710758
+		},
+		"1.1.1": {
+			"name": "cloneable-readable",
+			"version": "1.1.1",
+			"description": "Clone a Readable stream, safely",
+			"main": "index.js",
+			"scripts": {
+				"test": "standard && tape test.js | tap-spec"
+			},
+			"precommit": "test",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mcollina/cloneable-readable.git"
+			},
+			"keywords": [
+				"readable",
+				"stream",
+				"clone"
+			],
+			"author": {
+				"name": "Matteo Collina",
+				"email": "hello@matteocollina.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/mcollina/cloneable-readable/issues"
+			},
+			"homepage": "https://github.com/mcollina/cloneable-readable#readme",
+			"devDependencies": {
+				"flush-write-stream": "^1.0.0",
+				"from2": "^2.1.1",
+				"pre-commit": "^1.1.2",
+				"readable-stream": "^2.3.5",
+				"standard": "^11.0.0",
+				"tap-spec": "^4.1.1",
+				"tape": "^4.9.0"
+			},
+			"dependencies": {
+				"inherits": "^2.0.1",
+				"process-nextick-args": "^2.0.0",
+				"readable-stream": "^2.3.5"
+			},
+			"gitHead": "146631cd395ff4363299766d756a8aa2a99c1a09",
+			"_id": "cloneable-readable@1.1.1",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "8.10.0",
+			"_npmUser": {
+				"name": "matteo.collina",
+				"email": "hello@matteocollina.com"
+			},
+			"dist": {
+				"shasum": "c27a4f3a943ca37bed9b01c7d572ee61b1302b15",
+				"size": 4488,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-1.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "matteo.collina",
+					"email": "hello@matteocollina.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cloneable-readable_1.1.1_1520423201523_0.48061495956447065"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520423202793,
+			"_cnpm_publish_time": 1520423202793
+		},
+		"1.1.0": {
+			"name": "cloneable-readable",
+			"version": "1.1.0",
+			"description": "Clone a Readable stream, safely",
+			"main": "index.js",
+			"scripts": {
+				"test": "standard && tape test.js | tap-spec"
+			},
+			"precommit": "test",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mcollina/cloneable-readable.git"
+			},
+			"keywords": [
+				"readable",
+				"stream",
+				"clone"
+			],
+			"author": {
+				"name": "Matteo Collina",
+				"email": "hello@matteocollina.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/mcollina/cloneable-readable/issues"
+			},
+			"homepage": "https://github.com/mcollina/cloneable-readable#readme",
+			"devDependencies": {
+				"flush-write-stream": "^1.0.0",
+				"from2": "^2.1.1",
+				"pre-commit": "^1.1.2",
+				"readable-stream": "^2.3.5",
+				"standard": "^11.0.0",
+				"tap-spec": "^4.1.1",
+				"tape": "^4.9.0"
+			},
+			"dependencies": {
+				"inherits": "^2.0.1",
+				"process-nextick-args": "^2.0.0"
+			},
+			"gitHead": "48ab14dcffd1b96685cd75e42753929dd4a2090c",
+			"_id": "cloneable-readable@1.1.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "8.10.0",
+			"_npmUser": {
+				"name": "matteo.collina",
+				"email": "hello@matteocollina.com"
+			},
+			"dist": {
+				"shasum": "00dab54fbeeedc2c5e2b755f6cfb4195cca51803",
+				"size": 4482,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "matteo.collina",
+					"email": "hello@matteocollina.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cloneable-readable_1.1.0_1520420166124_0.023788489691681125"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520420166159,
+			"_cnpm_publish_time": 1520420166159
+		},
+		"1.0.0": {
+			"name": "cloneable-readable",
+			"version": "1.0.0",
+			"description": "Clone a Readable stream, safely",
+			"main": "index.js",
+			"scripts": {
+				"test": "standard && tape test.js | tap-spec"
+			},
+			"precommit": "test",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mcollina/cloneable-readable.git"
+			},
+			"keywords": [
+				"readable",
+				"stream",
+				"clone"
+			],
+			"author": {
+				"name": "Matteo Collina",
+				"email": "hello@matteocollina.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/mcollina/cloneable-readable/issues"
+			},
+			"homepage": "https://github.com/mcollina/cloneable-readable#readme",
+			"devDependencies": {
+				"flush-write-stream": "^1.0.0",
+				"from2": "^2.1.1",
+				"pre-commit": "^1.1.2",
+				"readable-stream": "^2.1.0",
+				"standard": "^8.0.0",
+				"tap-spec": "^4.1.1",
+				"tape": "^4.6.0"
+			},
+			"dependencies": {
+				"inherits": "^2.0.1",
+				"process-nextick-args": "^1.0.6",
+				"through2": "^2.0.1"
+			},
+			"gitHead": "9d887ebaec81a5f59593b6d7b69c3c522bf5d425",
+			"_id": "cloneable-readable@1.0.0",
+			"_shasum": "a6290d413f217a61232f95e458ff38418cfb0117",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.8.1",
+			"_npmUser": {
+				"name": "matteo.collina",
+				"email": "hello@matteocollina.com"
+			},
+			"dist": {
+				"shasum": "a6290d413f217a61232f95e458ff38418cfb0117",
+				"size": 4379,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "matteo.collina",
+					"email": "hello@matteocollina.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cloneable-readable-1.0.0.tgz_1477399717263_0.541040712967515"
+			},
+			"directories": {},
+			"publish_time": 1477399719281,
+			"_cnpm_publish_time": 1477399719281,
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "cloneable-readable",
+			"version": "0.5.0",
+			"description": "Clone a Readable stream, safely",
+			"main": "index.js",
+			"scripts": {
+				"test": "standard && tape test.js | tap-spec"
+			},
+			"precommit": "test",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mcollina/cloneable-readable.git"
+			},
+			"keywords": [
+				"readable",
+				"stream",
+				"clone"
+			],
+			"author": {
+				"name": "Matteo Collina",
+				"email": "hello@matteocollina.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/mcollina/cloneable-readable/issues"
+			},
+			"homepage": "https://github.com/mcollina/cloneable-readable#readme",
+			"devDependencies": {
+				"flush-write-stream": "^1.0.0",
+				"from2": "^2.1.1",
+				"pre-commit": "^1.1.2",
+				"readable-stream": "^2.1.0",
+				"standard": "^8.0.0",
+				"tap-spec": "^4.1.1",
+				"tape": "^4.6.0"
+			},
+			"dependencies": {
+				"inherits": "^2.0.1",
+				"process-nextick-args": "^1.0.6",
+				"through2": "^2.0.1"
+			},
+			"gitHead": "eeacbed40312015c09c3a2805e860d0cb7336c66",
+			"_id": "cloneable-readable@0.5.0",
+			"_shasum": "ad47421f05a8a8ee64fbd21b02b2244409d43510",
+			"_from": ".",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.5.0",
+			"_npmUser": {
+				"name": "matteo.collina",
+				"email": "hello@matteocollina.com"
+			},
+			"dist": {
+				"shasum": "ad47421f05a8a8ee64fbd21b02b2244409d43510",
+				"size": 4377,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-0.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "matteo.collina",
+					"email": "hello@matteocollina.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cloneable-readable-0.5.0.tgz_1474440194518_0.9048315470572561"
+			},
+			"directories": {},
+			"publish_time": 1474440198455,
+			"_cnpm_publish_time": 1474440198455,
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "cloneable-readable",
+			"version": "0.4.0",
+			"description": "Clone a Readable stream, safely",
+			"main": "index.js",
+			"scripts": {
+				"test": "standard && tape test.js | tap-spec"
+			},
+			"precommit": "test",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mcollina/cloneable-readable.git"
+			},
+			"keywords": [
+				"readable",
+				"stream",
+				"clone"
+			],
+			"author": {
+				"name": "Matteo Collina",
+				"email": "hello@matteocollina.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/mcollina/cloneable-readable/issues"
+			},
+			"homepage": "https://github.com/mcollina/cloneable-readable#readme",
+			"devDependencies": {
+				"flush-write-stream": "^1.0.0",
+				"from2": "^2.1.1",
+				"pre-commit": "^1.1.2",
+				"readable-stream": "^2.1.0",
+				"standard": "^8.0.0",
+				"tap-spec": "^4.1.1",
+				"tape": "^4.6.0"
+			},
+			"dependencies": {
+				"inherits": "^2.0.1",
+				"process-nextick-args": "^1.0.6",
+				"through2": "^2.0.1"
+			},
+			"gitHead": "23eb598b0fc27e3292bd1689a7692773be50800f",
+			"_id": "cloneable-readable@0.4.0",
+			"_shasum": "7ba99d6dd814e38b51b90f44e68e0e24ebcec71a",
+			"_from": ".",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.5.0",
+			"_npmUser": {
+				"name": "matteo.collina",
+				"email": "hello@matteocollina.com"
+			},
+			"dist": {
+				"shasum": "7ba99d6dd814e38b51b90f44e68e0e24ebcec71a",
+				"size": 3831,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-0.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "matteo.collina",
+					"email": "hello@matteocollina.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cloneable-readable-0.4.0.tgz_1474185268446_0.408287538215518"
+			},
+			"directories": {},
+			"publish_time": 1474185270280,
+			"_cnpm_publish_time": 1474185270280,
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "cloneable-readable",
+			"version": "0.3.0",
+			"description": "Clone a Readable stream, safely",
+			"main": "index.js",
+			"scripts": {
+				"test": "standard && tape test.js | tap-spec"
+			},
+			"precommit": "test",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mcollina/cloneable-readable.git"
+			},
+			"keywords": [
+				"readable",
+				"stream",
+				"clone"
+			],
+			"author": {
+				"name": "Matteo Collina",
+				"email": "hello@matteocollina.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/mcollina/cloneable-readable/issues"
+			},
+			"homepage": "https://github.com/mcollina/cloneable-readable#readme",
+			"devDependencies": {
+				"flush-write-stream": "^1.0.0",
+				"from2": "^2.1.1",
+				"pre-commit": "^1.1.2",
+				"readable-stream": "^2.1.0",
+				"standard": "^8.0.0",
+				"tap-spec": "^4.1.1",
+				"tape": "^4.6.0"
+			},
+			"dependencies": {
+				"inherits": "^2.0.1",
+				"pump": "^1.0.1",
+				"process-nextick-args": "^1.0.6",
+				"through2": "^2.0.1"
+			},
+			"gitHead": "5897edd1ef6f79334cd32e919704d1991bb055d5",
+			"_id": "cloneable-readable@0.3.0",
+			"_shasum": "e2ac1fd2451cec1b139ef505b5c28eda41c7b969",
+			"_from": ".",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.5.0",
+			"_npmUser": {
+				"name": "matteo.collina",
+				"email": "hello@matteocollina.com"
+			},
+			"dist": {
+				"shasum": "e2ac1fd2451cec1b139ef505b5c28eda41c7b969",
+				"size": 3326,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "matteo.collina",
+					"email": "hello@matteocollina.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cloneable-readable-0.3.0.tgz_1473310399982_0.9754711699206382"
+			},
+			"directories": {},
+			"publish_time": 1473310400206,
+			"_cnpm_publish_time": 1473310400206,
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "cloneable-readable",
+			"version": "0.2.0",
+			"description": "Clone a Readable stream, safely",
+			"main": "index.js",
+			"scripts": {
+				"test": "standard && tape test.js | tap-spec"
+			},
+			"precommit": "test",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mcollina/cloneable-readable.git"
+			},
+			"keywords": [
+				"readable",
+				"stream",
+				"clone"
+			],
+			"author": {
+				"name": "Matteo Collina",
+				"email": "hello@matteocollina.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/mcollina/cloneable-readable/issues"
+			},
+			"homepage": "https://github.com/mcollina/cloneable-readable#readme",
+			"devDependencies": {
+				"flush-write-stream": "^1.0.0",
+				"from2": "^2.1.1",
+				"pre-commit": "^1.1.2",
+				"readable-stream": "^2.1.0",
+				"standard": "^8.0.0",
+				"tap-spec": "^4.1.1",
+				"tape": "^4.6.0"
+			},
+			"dependencies": {
+				"inherits": "^2.0.1",
+				"pump": "^1.0.1",
+				"through2": "^2.0.1"
+			},
+			"gitHead": "bed59ae345db4a88ccc03759fb5227a3411e5097",
+			"_id": "cloneable-readable@0.2.0",
+			"_shasum": "107b411232fdb6163222250f6350fa49611128d7",
+			"_from": ".",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.5.0",
+			"_npmUser": {
+				"name": "matteo.collina",
+				"email": "hello@matteocollina.com"
+			},
+			"dist": {
+				"shasum": "107b411232fdb6163222250f6350fa49611128d7",
+				"size": 3212,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "matteo.collina",
+					"email": "hello@matteocollina.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cloneable-readable-0.2.0.tgz_1472714017515_0.792123552877456"
+			},
+			"directories": {},
+			"publish_time": 1472714019121,
+			"_cnpm_publish_time": 1472714019121,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "cloneable-readable",
+			"version": "0.1.0",
+			"description": "Clone a Readable stream, safely",
+			"main": "index.js",
+			"scripts": {
+				"test": "standard && tape test.js | tap-spec"
+			},
+			"precommit": "test",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mcollina/cloneable-readable.git"
+			},
+			"keywords": [
+				"readable",
+				"stream",
+				"clone"
+			],
+			"author": {
+				"name": "Matteo Collina",
+				"email": "hello@matteocollina.com"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/mcollina/cloneable-readable/issues"
+			},
+			"homepage": "https://github.com/mcollina/cloneable-readable#readme",
+			"devDependencies": {
+				"flush-write-stream": "^1.0.0",
+				"from2": "^2.1.1",
+				"pre-commit": "^1.1.2",
+				"readable-stream": "^2.1.0",
+				"standard": "^6.0.8",
+				"tap-spec": "^4.1.1",
+				"tape": "^4.5.1"
+			},
+			"dependencies": {
+				"inherits": "^2.0.1",
+				"pump": "^1.0.1",
+				"through2": "^2.0.1"
+			},
+			"gitHead": "c515e948726dd9759284652784cc5200cc211905",
+			"_id": "cloneable-readable@0.1.0",
+			"_shasum": "f6d5f98db8b5490ae42cdf8bab431a332c837ea6",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "matteo.collina",
+				"email": "hello@matteocollina.com"
+			},
+			"dist": {
+				"shasum": "f6d5f98db8b5490ae42cdf8bab431a332c837ea6",
+				"size": 2887,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "matteo.collina",
+					"email": "hello@matteocollina.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cloneable-readable-0.1.0.tgz_1461661604229_0.2806196433957666"
+			},
+			"directories": {},
+			"publish_time": 1461661606503,
+			"_cnpm_publish_time": 1461661606503,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.2"
+	},
+	"time": {
+		"modified": "2018-03-14T20:01:59.000Z",
+		"created": "2016-04-26T09:06:46.503Z",
+		"1.1.2": "2018-03-14T20:01:50.758Z",
+		"1.1.1": "2018-03-07T11:46:42.793Z",
+		"1.1.0": "2018-03-07T10:56:06.159Z",
+		"1.0.0": "2016-10-25T12:48:39.281Z",
+		"0.5.0": "2016-09-21T06:43:18.455Z",
+		"0.4.0": "2016-09-18T07:54:30.280Z",
+		"0.3.0": "2016-09-08T04:53:20.206Z",
+		"0.2.0": "2016-09-01T07:13:39.121Z",
+		"0.1.0": "2016-04-26T09:06:46.503Z"
+	},
+	"_distfiles": {
+		"cloneable-readable-1.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-1.1.2.tgz",
+			"sha": "d591dee4a8f8bc15da43ce97dceeba13d43e2a65",
+			"registry": "cnpmjs"
+		},
+		"cloneable-readable-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-1.1.1.tgz",
+			"sha": "c27a4f3a943ca37bed9b01c7d572ee61b1302b15",
+			"registry": "cnpmjs"
+		},
+		"cloneable-readable-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-1.1.0.tgz",
+			"sha": "00dab54fbeeedc2c5e2b755f6cfb4195cca51803",
+			"registry": "cnpmjs"
+		},
+		"cloneable-readable-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-1.0.0.tgz",
+			"sha": "a6290d413f217a61232f95e458ff38418cfb0117",
+			"registry": "cnpmjs"
+		},
+		"cloneable-readable-0.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-0.5.0.tgz",
+			"sha": "ad47421f05a8a8ee64fbd21b02b2244409d43510",
+			"registry": "cnpmjs"
+		},
+		"cloneable-readable-0.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-0.4.0.tgz",
+			"sha": "7ba99d6dd814e38b51b90f44e68e0e24ebcec71a",
+			"registry": "cnpmjs"
+		},
+		"cloneable-readable-0.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-0.3.0.tgz",
+			"sha": "e2ac1fd2451cec1b139ef505b5c28eda41c7b969",
+			"registry": "cnpmjs"
+		},
+		"cloneable-readable-0.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-0.2.0.tgz",
+			"sha": "107b411232fdb6163222250f6350fa49611128d7",
+			"registry": "cnpmjs"
+		},
+		"cloneable-readable-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/cloneable-readable/download/cloneable-readable-0.1.0.tgz",
+			"sha": "f6d5f98db8b5490ae42cdf8bab431a332c837ea6",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"40db-jpObyG9SOKhjsuNVgM4bZGJwBFU\"",
+			"fetched": 1527747726822
+		}
+	},
+	"_rev": "12-bdc017e098dd0589",
+	"readme": "# cloneable-readable\n\n[![Build Status](https://travis-ci.org/mcollina/cloneable-readable.svg?branch=master)](https://travis-ci.org/mcollina/cloneable-readable)\n\nClone a Readable stream, safely.\n\n```js\n'use strict'\n\nvar cloneable = require('cloneable-readable')\nvar fs = require('fs')\nvar pump = require('pump')\n\nvar stream = cloneable(fs.createReadStream('./package.json'))\n\npump(stream.clone(), fs.createWriteStream('./out1'))\n\n// simulate some asynchronicity\nsetImmediate(function () {\n  pump(stream, fs.createWriteStream('./out2'))\n})\n```\n\n**cloneable-readable** automatically handles `objectMode: true`.\n\nThis module comes out of an healthy discussion on the 'right' way to\nclone a Readable in https://github.com/gulpjs/vinyl/issues/85\nand https://github.com/nodejs/readable-stream/issues/202. This is my take.\n\n**YOU MUST PIPE ALL CLONES TO START THE FLOW**\n\nYou can also attach `'data'` and `'readable'` events to them.\n\n## API\n\n### cloneable(stream)\n\nCreate a `Cloneable` stream.\nA Cloneable has a `clone()` method to create more clones.\nAll clones must be resumed/piped to start the flow.\n\n### cloneable.isCloneable(stream)\n\nCheck if `stream` needs to be wrapped in a `Cloneable` or not.\n\n## Acknowledgements\n\nThis project was kindly sponsored by [nearForm](http://nearform.com).\n\n## License\n\nMIT"
+}

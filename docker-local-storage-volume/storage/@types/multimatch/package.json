@@ -1,0 +1,195 @@
+{
+	"name": "@types/multimatch",
+	"versions": {
+		"2.1.2": {
+			"name": "@types/multimatch",
+			"version": "2.1.2",
+			"description": "TypeScript definitions for multimatch",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stephen Lautier",
+					"url": "https://github.com/stephenlautier",
+					"githubUsername": "stephenlautier"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "bd5bc1139fc841121966e73db86decd3424bf040535e9b48e7ee7aabe9a1fcb7",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/multimatch@2.1.2",
+			"dist": {
+				"shasum": "7d705c35b6ec6ae94f2dbfc384adb05f0974e6d7",
+				"size": 2316,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/multimatch/download/@types/multimatch-2.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/multimatch-2.1.2.tgz_1508893986672_0.9827428921125829"
+			},
+			"directories": {},
+			"publish_time": 1508893986734,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508893986734
+		},
+		"2.1.1": {
+			"name": "@types/multimatch",
+			"version": "2.1.1",
+			"description": "TypeScript definitions for multimatch",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stephen Lautier",
+					"url": "https://github.com/stephenlautier"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "17c95d6cd57caa0d18814b9acf6d0cf252e4a1562f71843a1218b8f5808f5d62",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/multimatch@2.1.1",
+			"dist": {
+				"shasum": "e8d8485e1a6ffbae7311fa06323e974fdb566ea2",
+				"size": 1648,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/multimatch/download/@types/multimatch-2.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/multimatch-2.1.1.tgz_1490988344776_0.47799575864337385"
+			},
+			"directories": {},
+			"publish_time": 1490988346831,
+			"_cnpm_publish_time": 1490988346831,
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "@types/multimatch",
+			"version": "2.1.0",
+			"description": "TypeScript definitions for multimatch",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stephen Lautier",
+					"url": "https://github.com/stephenlautier"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "430b5765e8d9bc9502ffa936fd224dfdaee4228364365200339e283e1a2ca181",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/multimatch@2.1.0",
+			"dist": {
+				"shasum": "1bb802f8de70370e8234417862dedcd400ba627d",
+				"size": 1641,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/multimatch/download/@types/multimatch-2.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/multimatch-2.1.0.tgz_1490826541484_0.794302374124527"
+			},
+			"directories": {},
+			"publish_time": 1490826543501,
+			"_cnpm_publish_time": 1490826543501,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.1.2",
+		"ts2.0": "2.1.2",
+		"ts2.1": "2.1.2",
+		"ts2.2": "2.1.2",
+		"ts2.3": "2.1.2",
+		"ts2.4": "2.1.2",
+		"ts2.5": "2.1.2",
+		"ts2.6": "2.1.2",
+		"ts2.7": "2.1.2",
+		"ts2.8": "2.1.2",
+		"ts2.9": "2.1.2",
+		"ts3.0": "2.1.2",
+		"ts3.1": "2.1.2",
+		"ts3.2": "2.1.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:20:16.000Z",
+		"created": "2017-03-29T22:29:03.501Z",
+		"2.1.2": "2017-10-25T01:13:06.734Z",
+		"2.1.1": "2017-03-31T19:25:46.831Z",
+		"2.1.0": "2017-03-29T22:29:03.501Z"
+	},
+	"_distfiles": {
+		"multimatch-2.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/multimatch/download/@types/multimatch-2.1.2.tgz",
+			"sha": "7d705c35b6ec6ae94f2dbfc384adb05f0974e6d7",
+			"registry": "cnpmjs"
+		},
+		"multimatch-2.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/multimatch/download/@types/multimatch-2.1.1.tgz",
+			"sha": "e8d8485e1a6ffbae7311fa06323e974fdb566ea2",
+			"registry": "cnpmjs"
+		},
+		"multimatch-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/multimatch/download/@types/multimatch-2.1.0.tgz",
+			"sha": "1bb802f8de70370e8234417862dedcd400ba627d",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1204-SPIrEFax/9eXZ17sdEgqsTG28PA\"",
+			"fetched": 1541835897237
+		}
+	},
+	"_rev": "2-562c8e3c34cc8cd3",
+	"readme": "# Installation\r\n> `npm install --save @types/multimatch`\r\n\r\n# Summary\r\nThis package contains type definitions for multimatch (https://github.com/sindresorhus/multimatch).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/multimatch\r\n\r\nAdditional Details\r\n * Last updated: Wed, 25 Oct 2017 01:11:51 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Stephen Lautier <https://github.com/stephenlautier>."
+}

@@ -1,0 +1,1679 @@
+{
+	"name": "lodash-compat",
+	"versions": {
+		"3.10.2": {
+			"name": "lodash-compat",
+			"version": "3.10.2",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/lodash/lodash-compat.git"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.10.2",
+			"_shasum": "c6940128a9d30f8e902cd2cf99fd0cba4ecfc183",
+			"_from": ".",
+			"_npmVersion": "2.14.15",
+			"_nodeVersion": "5.4.0",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"dist": {
+				"shasum": "c6940128a9d30f8e902cd2cf99fd0cba4ecfc183",
+				"size": 175542,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.10.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"directories": {},
+			"publish_time": 1453735752096,
+			"_cnpm_publish_time": 1453735752096,
+			"_hasShrinkwrap": false
+		},
+		"3.10.1": {
+			"name": "lodash-compat",
+			"version": "3.10.1",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/lodash/lodash-compat.git"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.10.1",
+			"_shasum": "4c58a1ee914043c07875f6fb306b7d0e1c23395c",
+			"_from": ".",
+			"_npmVersion": "2.13.1",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "4c58a1ee914043c07875f6fb306b7d0e1c23395c",
+				"size": 175681,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.10.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1438667922559,
+			"_cnpm_publish_time": 1438667922559,
+			"_hasShrinkwrap": false
+		},
+		"3.10.0": {
+			"name": "lodash-compat",
+			"version": "3.10.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/lodash/lodash-compat.git"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.10.0",
+			"_shasum": "d8b40e1637739f7d605c8a1aee8e74c27174ef07",
+			"_from": ".",
+			"_npmVersion": "2.12.0",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "d8b40e1637739f7d605c8a1aee8e74c27174ef07",
+				"size": 175732,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.10.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1435677039037,
+			"_cnpm_publish_time": 1435677039037,
+			"_hasShrinkwrap": false
+		},
+		"3.9.3": {
+			"name": "lodash-compat",
+			"version": "3.9.3",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/lodash/lodash-compat.git"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.9.3",
+			"_shasum": "bab5bd013375e89b2b74323b78261b5cb1a78159",
+			"_from": ".",
+			"_npmVersion": "2.10.1",
+			"_nodeVersion": "2.0.2",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "bab5bd013375e89b2b74323b78261b5cb1a78159",
+				"size": 175129,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.9.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432604768056,
+			"_cnpm_publish_time": 1432604768056,
+			"_hasShrinkwrap": false
+		},
+		"3.9.2": {
+			"name": "lodash-compat",
+			"version": "3.9.2",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/lodash/lodash-compat.git"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.9.2",
+			"_shasum": "e3b2d2e2cba8fd8d5c3feca8f70793f44d80722e",
+			"_from": ".",
+			"_npmVersion": "2.10.1",
+			"_nodeVersion": "2.0.2",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "e3b2d2e2cba8fd8d5c3feca8f70793f44d80722e",
+				"size": 175034,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.9.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432500948344,
+			"_cnpm_publish_time": 1432500948344,
+			"_hasShrinkwrap": false
+		},
+		"3.9.1": {
+			"name": "lodash-compat",
+			"version": "3.9.1",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/lodash/lodash-compat.git"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.9.1",
+			"_shasum": "7f24ef449740b3e8cfe58d57fe911d0022748b5e",
+			"_from": ".",
+			"_npmVersion": "2.9.0",
+			"_nodeVersion": "2.0.2",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "7f24ef449740b3e8cfe58d57fe911d0022748b5e",
+				"size": 174907,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.9.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432069381751,
+			"_cnpm_publish_time": 1432069381751,
+			"_hasShrinkwrap": false
+		},
+		"3.9.0": {
+			"name": "lodash-compat",
+			"version": "3.9.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/lodash/lodash-compat.git"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.9.0",
+			"_shasum": "e051beb554bdc0d86ab67fa0251a878de0f0b652",
+			"_from": ".",
+			"_npmVersion": "2.10.0",
+			"_nodeVersion": "0.12.3",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "e051beb554bdc0d86ab67fa0251a878de0f0b652",
+				"size": 174558,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.9.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432059829380,
+			"_cnpm_publish_time": 1432059829380,
+			"_hasShrinkwrap": false
+		},
+		"3.8.0": {
+			"name": "lodash-compat",
+			"version": "3.8.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/lodash/lodash-compat.git"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.8.0",
+			"_shasum": "e0cfd3d2b27ca20600a09634b119a2d1af62cd4c",
+			"_from": ".",
+			"_npmVersion": "2.9.0",
+			"_nodeVersion": "0.12.2",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "e0cfd3d2b27ca20600a09634b119a2d1af62cd4c",
+				"size": 175962,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.8.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1430495030664,
+			"_cnpm_publish_time": 1430495030664,
+			"_hasShrinkwrap": false
+		},
+		"3.7.0": {
+			"name": "lodash-compat",
+			"version": "3.7.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash-compat"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.7.0",
+			"_shasum": "9e5102c70191119e6cdd40d01dc11e7a30a2f4f3",
+			"_from": ".",
+			"_npmVersion": "2.7.6",
+			"_nodeVersion": "0.12.2",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "9e5102c70191119e6cdd40d01dc11e7a30a2f4f3",
+				"size": 174684,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.7.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1429198982797,
+			"_cnpm_publish_time": 1429198982797,
+			"_hasShrinkwrap": false
+		},
+		"3.6.0": {
+			"name": "lodash-compat",
+			"version": "3.6.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash-compat"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.6.0",
+			"_shasum": "7666ecfc8e1fddae4f863c4c92d4a3f5b1fb20ae",
+			"_from": ".",
+			"_npmVersion": "2.7.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "7666ecfc8e1fddae4f863c4c92d4a3f5b1fb20ae",
+				"size": 168770,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.6.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1427297014185,
+			"_cnpm_publish_time": 1427297014185,
+			"_hasShrinkwrap": false
+		},
+		"3.5.0": {
+			"name": "lodash-compat",
+			"version": "3.5.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash-compat"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.5.0",
+			"_shasum": "75f105fa4fe829896db0ca0662fdf3970c98f5f5",
+			"_from": ".",
+			"_npmVersion": "2.7.0",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "75f105fa4fe829896db0ca0662fdf3970c98f5f5",
+				"size": 164608,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.5.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1425877005174,
+			"_cnpm_publish_time": 1425877005174,
+			"_hasShrinkwrap": false
+		},
+		"3.4.0": {
+			"name": "lodash-compat",
+			"version": "3.4.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash-compat"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.4.0",
+			"_shasum": "306ab017e98d0f189e7ebc26cbd5afb83f813646",
+			"_from": ".",
+			"_npmVersion": "2.6.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "306ab017e98d0f189e7ebc26cbd5afb83f813646",
+				"size": 164255,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.4.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1425660035602,
+			"_cnpm_publish_time": 1425660035602,
+			"_hasShrinkwrap": false
+		},
+		"3.3.1": {
+			"name": "lodash-compat",
+			"version": "3.3.1",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash-compat"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.3.1",
+			"_shasum": "9a8e8034288f3ac325eb59270a101069e2c22a28",
+			"_from": ".",
+			"_npmVersion": "2.6.0",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "9a8e8034288f3ac325eb59270a101069e2c22a28",
+				"size": 161683,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.3.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1424792834522,
+			"_cnpm_publish_time": 1424792834522,
+			"_hasShrinkwrap": false
+		},
+		"3.3.0": {
+			"name": "lodash-compat",
+			"version": "3.3.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash-compat"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.3.0",
+			"_shasum": "9fb55981fc637da822d4315188eef626128a0cc2",
+			"_from": ".",
+			"_npmVersion": "2.5.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "9fb55981fc637da822d4315188eef626128a0cc2",
+				"size": 161620,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.3.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1424451838102,
+			"_cnpm_publish_time": 1424451838102,
+			"_hasShrinkwrap": false
+		},
+		"3.2.0": {
+			"name": "lodash-compat",
+			"version": "3.2.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash-compat"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.2.0",
+			"_shasum": "df177b5ec5c6eb6eccbc3a7e9b19716403dc81b9",
+			"_from": ".",
+			"_npmVersion": "2.5.0",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "df177b5ec5c6eb6eccbc3a7e9b19716403dc81b9",
+				"size": 161128,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.2.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1423760387768,
+			"_cnpm_publish_time": 1423760387768,
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "lodash-compat",
+			"version": "3.1.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash-compat"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.1.0",
+			"_shasum": "57246b9432d1c06dc397681908788625ca62a766",
+			"_from": ".",
+			"_npmVersion": "2.3.0",
+			"_nodeVersion": "0.10.35",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "57246b9432d1c06dc397681908788625ca62a766",
+				"size": 156254,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.1.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1422982828678,
+			"_cnpm_publish_time": 1422982828678,
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "lodash-compat",
+			"version": "3.0.1",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash-compat"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.0.1",
+			"_shasum": "2320242dd36ecd32e3ee53e4b1a32bd69c1398ca",
+			"_from": ".",
+			"_npmVersion": "2.3.0",
+			"_nodeVersion": "0.10.35",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "2320242dd36ecd32e3ee53e4b1a32bd69c1398ca",
+				"size": 155977,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.0.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1422610678019,
+			"_cnpm_publish_time": 1422610678019,
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "lodash-compat",
+			"version": "3.0.0",
+			"description": "The compatibility build of lodash modular utilities.",
+			"homepage": "https://lodash.com/",
+			"icon": "https://lodash.com/icon.svg",
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"compatibility",
+				"modules",
+				"stdlib",
+				"util"
+			],
+			"author": {
+				"name": "John-David Dalton",
+				"email": "john.david.dalton@gmail.com",
+				"url": "http://allyoucanleet.com/"
+			},
+			"contributors": [
+				{
+					"name": "John-David Dalton",
+					"email": "john.david.dalton@gmail.com",
+					"url": "http://allyoucanleet.com/"
+				},
+				{
+					"name": "Benjamin Tan",
+					"email": "demoneaux@gmail.com",
+					"url": "https://d10.github.io/"
+				},
+				{
+					"name": "Blaine Bublitz",
+					"email": "blaine@iceddev.com",
+					"url": "http://www.iceddev.com/"
+				},
+				{
+					"name": "Kit Cambridge",
+					"email": "github@kitcambridge.be",
+					"url": "http://kitcambridge.be/"
+				},
+				{
+					"name": "Mathias Bynens",
+					"email": "mathias@qiwi.be",
+					"url": "https://mathiasbynens.be/"
+				}
+			],
+			"bugs": {
+				"url": "https://github.com/lodash/lodash/issues"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/lodash/lodash-compat"
+			},
+			"scripts": {
+				"test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+			},
+			"_id": "lodash-compat@3.0.0",
+			"_shasum": "04c19c740745748e68fb11caa42626ac6375e08d",
+			"_from": ".",
+			"_npmVersion": "2.3.0",
+			"_nodeVersion": "0.10.35",
+			"_npmUser": {
+				"name": "jdalton",
+				"email": "john.david.dalton@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jdalton",
+					"email": "john.david.dalton@gmail.com"
+				},
+				{
+					"name": "mathias",
+					"email": "mathias@qiwi.be"
+				}
+			],
+			"dist": {
+				"shasum": "04c19c740745748e68fb11caa42626ac6375e08d",
+				"size": 155964,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1422285269235,
+			"_cnpm_publish_time": 1422285269235,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "3.10.2"
+	},
+	"time": {
+		"modified": "2017-03-28T10:27:52.000Z",
+		"created": "2015-01-26T15:14:29.235Z",
+		"3.10.2": "2016-01-25T15:29:12.096Z",
+		"3.10.1": "2015-08-04T05:58:42.559Z",
+		"3.10.0": "2015-06-30T15:10:39.037Z",
+		"3.9.3": "2015-05-26T01:46:08.056Z",
+		"3.9.2": "2015-05-24T20:55:48.344Z",
+		"3.9.1": "2015-05-19T21:03:01.751Z",
+		"3.9.0": "2015-05-19T18:23:49.380Z",
+		"3.8.0": "2015-05-01T15:43:50.664Z",
+		"3.7.0": "2015-04-16T15:43:02.797Z",
+		"3.6.0": "2015-03-25T15:23:34.185Z",
+		"3.5.0": "2015-03-09T04:56:45.174Z",
+		"3.4.0": "2015-03-06T16:40:35.602Z",
+		"3.3.1": "2015-02-24T15:47:14.522Z",
+		"3.3.0": "2015-02-20T17:03:58.102Z",
+		"3.2.0": "2015-02-12T16:59:47.768Z",
+		"3.1.0": "2015-02-03T17:00:28.678Z",
+		"3.0.1": "2015-01-30T09:37:58.019Z",
+		"3.0.0": "2015-01-26T15:14:29.235Z"
+	},
+	"_distfiles": {
+		"lodash-compat-3.10.2.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.10.2.tgz",
+			"sha": "c6940128a9d30f8e902cd2cf99fd0cba4ecfc183",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.10.1.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.10.1.tgz",
+			"sha": "4c58a1ee914043c07875f6fb306b7d0e1c23395c",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.10.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.10.0.tgz",
+			"sha": "d8b40e1637739f7d605c8a1aee8e74c27174ef07",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.9.3.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.9.3.tgz",
+			"sha": "bab5bd013375e89b2b74323b78261b5cb1a78159",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.9.2.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.9.2.tgz",
+			"sha": "e3b2d2e2cba8fd8d5c3feca8f70793f44d80722e",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.9.1.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.9.1.tgz",
+			"sha": "7f24ef449740b3e8cfe58d57fe911d0022748b5e",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.9.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.9.0.tgz",
+			"sha": "e051beb554bdc0d86ab67fa0251a878de0f0b652",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.8.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.8.0.tgz",
+			"sha": "e0cfd3d2b27ca20600a09634b119a2d1af62cd4c",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.7.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.7.0.tgz",
+			"sha": "9e5102c70191119e6cdd40d01dc11e7a30a2f4f3",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.6.0.tgz",
+			"sha": "7666ecfc8e1fddae4f863c4c92d4a3f5b1fb20ae",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.5.0.tgz",
+			"sha": "75f105fa4fe829896db0ca0662fdf3970c98f5f5",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.4.0.tgz",
+			"sha": "306ab017e98d0f189e7ebc26cbd5afb83f813646",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.3.1.tgz",
+			"sha": "9a8e8034288f3ac325eb59270a101069e2c22a28",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.3.0.tgz",
+			"sha": "9fb55981fc637da822d4315188eef626128a0cc2",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.2.0.tgz",
+			"sha": "df177b5ec5c6eb6eccbc3a7e9b19716403dc81b9",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.1.0.tgz",
+			"sha": "57246b9432d1c06dc397681908788625ca62a766",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.0.1.tgz",
+			"sha": "2320242dd36ecd32e3ee53e4b1a32bd69c1398ca",
+			"registry": "cnpmjs"
+		},
+		"lodash-compat-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/lodash-compat/download/lodash-compat-3.0.0.tgz",
+			"sha": "04c19c740745748e68fb11caa42626ac6375e08d",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"7fdd-fAUfwsx7e3ek6HEfv/ei1e6K6l8\"",
+			"fetched": 1527747717633
+		}
+	},
+	"_rev": "11-dab1f976becdffc5",
+	"readme": "# lodash-compat v3.10.2\n\nThe compatibility build of [lodash](https://lodash.com/) exported as [Node.js](https://nodejs.org/) modules.\n\n## Discontinued\n\nThis package has been discontinued. No further development is expected.\n\n## Installation\n\nUsing npm:\n\n```bash\n$ {sudo -H} npm i -g npm\n$ npm i --save lodash-compat\n```\n\nIn Node.js:\n\n```js\n// load the compatibility build\nvar _ = require('lodash-compat');\n// or a method category\nvar array = require('lodash-compat/array');\n// or a method\nvar chunk = require('lodash-compat/array/chunk');\n```\n\nSee the [package source](https://github.com/lodash/lodash-compat/tree/3.10.2-npm) for more details."
+}

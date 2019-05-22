@@ -1,0 +1,84 @@
+{
+	"name": "@types/os-homedir",
+	"versions": {
+		"1.0.0": {
+			"name": "@types/os-homedir",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for os-homedir",
+			"license": "MIT",
+			"author": "Mohamed Hegazy <https://github.com/mhegazy>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "0ee021ba467a924a44517cd7e134338406e9ac7a22288fe1ea8502bd1bb44c52",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/os-homedir@1.0.0",
+			"dist": {
+				"shasum": "b134048d1567ce1b1524abc1e73cd36df6ad8ead",
+				"size": 966,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-homedir/download/@types/os-homedir-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/os-homedir-1.0.0.tgz_1483053129485_0.4756742804311216"
+			},
+			"directories": {},
+			"publish_time": 1483053129702,
+			"_cnpm_publish_time": 1483053129702,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0",
+		"ts2.0": "1.0.0",
+		"ts2.1": "1.0.0",
+		"ts2.2": "1.0.0",
+		"ts2.3": "1.0.0",
+		"ts2.4": "1.0.0",
+		"ts2.5": "1.0.0",
+		"ts2.6": "1.0.0",
+		"ts2.7": "1.0.0",
+		"ts2.8": "1.0.0",
+		"ts2.9": "1.0.0",
+		"ts3.0": "1.0.0",
+		"ts3.1": "1.0.0",
+		"ts3.2": "1.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:23:16.000Z",
+		"created": "2016-12-29T23:12:09.702Z",
+		"1.0.0": "2016-12-29T23:12:09.702Z"
+	},
+	"_distfiles": {
+		"os-homedir-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-homedir/download/@types/os-homedir-1.0.0.tgz",
+			"sha": "b134048d1567ce1b1524abc1e73cd36df6ad8ead",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"96b-kN01GXuOsHsxZsV7fdWzCs9myfA\"",
+			"fetched": 1541833486602
+		}
+	},
+	"_rev": "2-d0f34584af6cae1e",
+	"readme": "# Installation\r\n> `npm install --save @types/os-homedir`\r\n\r\n# Summary\r\nThis package contains type definitions for os-homedir (https://github.com/sindresorhus/os-homedir#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/os-homedir\r\n\r\nAdditional Details\r\n * Last updated: Thu, 29 Dec 2016 23:09:21 GMT\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Mohamed Hegazy <https://github.com/mhegazy>."
+}

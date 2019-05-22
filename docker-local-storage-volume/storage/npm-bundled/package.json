@@ -1,0 +1,312 @@
+{
+	"name": "npm-bundled",
+	"versions": {
+		"1.0.3": {
+			"name": "npm-bundled",
+			"version": "1.0.3",
+			"description": "list things in node_modules that are bundledDependencies, or transitive dependencies thereof",
+			"main": "index.js",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/npm-bundled.git"
+			},
+			"author": {
+				"name": "Isaac Z. Schlueter",
+				"email": "i@izs.me",
+				"url": "http://blog.izs.me/"
+			},
+			"license": "ISC",
+			"devDependencies": {
+				"mkdirp": "^0.5.1",
+				"mutate-fs": "^1.1.0",
+				"rimraf": "^2.6.1",
+				"tap": "^10.3.2"
+			},
+			"scripts": {
+				"test": "tap test/*.js -J --100",
+				"preversion": "npm test",
+				"postversion": "npm publish",
+				"postpublish": "git push origin --all; git push origin --tags"
+			},
+			"files": [
+				"index.js"
+			],
+			"gitHead": "77a4481aafcdd10729dfda47632d05c339395669",
+			"bugs": {
+				"url": "https://github.com/npm/npm-bundled/issues"
+			},
+			"homepage": "https://github.com/npm/npm-bundled#readme",
+			"_id": "npm-bundled@1.0.3",
+			"_npmVersion": "5.0.0",
+			"_nodeVersion": "8.0.0-pre",
+			"_npmUser": {
+				"name": "isaacs",
+				"email": "i@izs.me"
+			},
+			"dist": {
+				"shasum": "7e71703d973af3370a9591bafe3a63aca0be2308",
+				"size": 2986,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/npm-bundled/download/npm-bundled-1.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "isaacs",
+					"email": "i@izs.me"
+				},
+				{
+					"name": "zkat",
+					"email": "kat@sykosomatic.org"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/npm-bundled-1.0.3.tgz_1496082674163_0.7330161512363702"
+			},
+			"directories": {},
+			"publish_time": 1496082674332,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496082674332
+		},
+		"1.0.2": {
+			"name": "npm-bundled",
+			"version": "1.0.2",
+			"description": "list things in node_modules that are bundledDependencies, or transitive dependencies thereof",
+			"main": "index.js",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/npm-bundled.git"
+			},
+			"author": {
+				"name": "Isaac Z. Schlueter",
+				"email": "i@izs.me",
+				"url": "http://blog.izs.me/"
+			},
+			"license": "ISC",
+			"devDependencies": {
+				"mkdirp": "^0.5.1",
+				"mutate-fs": "^1.1.0",
+				"rimraf": "^2.6.1",
+				"tap": "^10.3.2"
+			},
+			"scripts": {
+				"test": "tap test/*.js -J --100",
+				"preversion": "npm test",
+				"postversion": "npm publish",
+				"postpublish": "git push origin --all; git push origin --tags"
+			},
+			"files": [
+				"index.js"
+			],
+			"gitHead": "a7eb30329c4f6a076954097e447209a1caf70b33",
+			"bugs": {
+				"url": "https://github.com/npm/npm-bundled/issues"
+			},
+			"homepage": "https://github.com/npm/npm-bundled#readme",
+			"_id": "npm-bundled@1.0.2",
+			"_npmVersion": "5.0.0",
+			"_nodeVersion": "8.0.0-pre",
+			"_npmUser": {
+				"name": "isaacs",
+				"email": "i@izs.me"
+			},
+			"dist": {
+				"shasum": "eaf2b45d21ab6a2146e7e1b7f18426edb39ba42a",
+				"size": 2966,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/npm-bundled/download/npm-bundled-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "isaacs",
+					"email": "i@izs.me"
+				},
+				{
+					"name": "zkat",
+					"email": "kat@sykosomatic.org"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/npm-bundled-1.0.2.tgz_1496074462950_0.4532763354945928"
+			},
+			"directories": {},
+			"publish_time": 1496074463049,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496074463049
+		},
+		"1.0.1": {
+			"name": "npm-bundled",
+			"version": "1.0.1",
+			"description": "list things in node_modules that are bundledDependencies, or transitive dependencies thereof",
+			"main": "index.js",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/npm-bundled.git"
+			},
+			"author": {
+				"name": "Isaac Z. Schlueter",
+				"email": "i@izs.me",
+				"url": "http://blog.izs.me/"
+			},
+			"license": "ISC",
+			"devDependencies": {
+				"mkdirp": "^0.5.1",
+				"mutate-fs": "^1.1.0",
+				"rimraf": "^2.6.1",
+				"tap": "^10.3.2"
+			},
+			"scripts": {
+				"test": "tap test/*.js -J --100",
+				"preversion": "npm test",
+				"postversion": "npm publish",
+				"postpublish": "git push origin --all; git push origin --tags"
+			},
+			"files": [
+				"index.js"
+			],
+			"gitHead": "f8b8caa0a7cf7733f39db044d3b03834c95dfabd",
+			"bugs": {
+				"url": "https://github.com/npm/npm-bundled/issues"
+			},
+			"homepage": "https://github.com/npm/npm-bundled#readme",
+			"_id": "npm-bundled@1.0.1",
+			"_npmVersion": "5.0.0",
+			"_nodeVersion": "8.0.0-pre",
+			"_npmUser": {
+				"name": "isaacs",
+				"email": "i@izs.me"
+			},
+			"dist": {
+				"shasum": "a62b7e1e424d337a3abfc7621d88a2d53a4fe159",
+				"size": 2940,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/npm-bundled/download/npm-bundled-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "isaacs",
+					"email": "i@izs.me"
+				},
+				{
+					"name": "zkat",
+					"email": "kat@sykosomatic.org"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/npm-bundled-1.0.1.tgz_1496033352931_0.6128222134429961"
+			},
+			"directories": {},
+			"publish_time": 1496033353072,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496033353072
+		},
+		"1.0.0": {
+			"name": "npm-bundled",
+			"version": "1.0.0",
+			"description": "list things in node_modules that are bundledDependencies, or transitive dependencies thereof",
+			"main": "index.js",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/npm-bundled.git"
+			},
+			"author": {
+				"name": "Isaac Z. Schlueter",
+				"email": "i@izs.me",
+				"url": "http://blog.izs.me/"
+			},
+			"license": "ISC",
+			"devDependencies": {
+				"mkdirp": "^0.5.1",
+				"mutate-fs": "^1.1.0",
+				"rimraf": "^2.6.1",
+				"tap": "^10.3.2"
+			},
+			"scripts": {
+				"test": "tap test/*.js -J --100",
+				"preversion": "npm test",
+				"postversion": "npm publish",
+				"postpublish": "git push origin --all; git push origin --tags"
+			},
+			"gitHead": "28f6116b2f99733bcbad1153d279113919babd72",
+			"bugs": {
+				"url": "https://github.com/npm/npm-bundled/issues"
+			},
+			"homepage": "https://github.com/npm/npm-bundled#readme",
+			"_id": "npm-bundled@1.0.0",
+			"_npmVersion": "5.0.0",
+			"_nodeVersion": "8.0.0-pre",
+			"_npmUser": {
+				"name": "isaacs",
+				"email": "i@izs.me"
+			},
+			"dist": {
+				"shasum": "72171452c17da572cb533da5d91e06b5f3775a06",
+				"size": 4320,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/npm-bundled/download/npm-bundled-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "isaacs",
+					"email": "i@izs.me"
+				},
+				{
+					"name": "zkat",
+					"email": "kat@sykosomatic.org"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/npm-bundled-1.0.0.tgz_1496033214996_0.765760192181915"
+			},
+			"directories": {},
+			"publish_time": 1496033215130,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496033215130
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.3"
+	},
+	"time": {
+		"modified": "2017-05-29T18:31:18.000Z",
+		"created": "2017-05-29T04:46:55.130Z",
+		"1.0.3": "2017-05-29T18:31:14.332Z",
+		"1.0.2": "2017-05-29T16:14:23.049Z",
+		"1.0.1": "2017-05-29T04:49:13.072Z",
+		"1.0.0": "2017-05-29T04:46:55.130Z"
+	},
+	"_distfiles": {
+		"npm-bundled-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/npm-bundled/download/npm-bundled-1.0.3.tgz",
+			"sha": "7e71703d973af3370a9591bafe3a63aca0be2308",
+			"registry": "cnpmjs"
+		},
+		"npm-bundled-1.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/npm-bundled/download/npm-bundled-1.0.2.tgz",
+			"sha": "eaf2b45d21ab6a2146e7e1b7f18426edb39ba42a",
+			"registry": "cnpmjs"
+		},
+		"npm-bundled-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/npm-bundled/download/npm-bundled-1.0.1.tgz",
+			"sha": "a62b7e1e424d337a3abfc7621d88a2d53a4fe159",
+			"registry": "cnpmjs"
+		},
+		"npm-bundled-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/npm-bundled/download/npm-bundled-1.0.0.tgz",
+			"sha": "72171452c17da572cb533da5d91e06b5f3775a06",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"202f-f3cy3DNXg4prLHhVBavMVklUATg\"",
+			"fetched": 1527747745614
+		}
+	},
+	"_rev": "12-79d5a9213ac7997d",
+	"readme": "# npm-bundled\n\nRun this in a node package, and it'll tell you which things in\nnode_modules are bundledDependencies, or transitive dependencies of\nbundled dependencies.\n\n## USAGE\n\nTo get the list of deps at the top level that are bundled (or\ntransitive deps of a bundled dep) run this:\n\n```js\nconst bundled = require('npm-bundled')\n\n// async version\nbundled({ path: '/path/to/pkg/defaults/to/cwd'}, (er, list) => {\n  // er means it had an error, which is _hella_ weird\n  // list is a list of package names, like `fooblz` or `@corp/blerg`\n  // the might not all be deps of the top level, because transitives\n})\n\n// async promise version\nbundled({ path: '/path/to/pkg/defaults/to/cwd'}).then(list => {\n  // so promisey!\n  // actually the callback version returns a promise, too, it just\n  // attaches the supplied callback to the promise\n})\n\n// sync version, throws if there's an error\nconst list = bundled({ path: '/path/to/pkg/defaults/to/cwd'})\n```\n\nThat's basically all you need to know.  If you care to dig into it,\nyou can also use the `bundled.Walker` and `bundled.WalkerSync`\nclasses to get fancy.\n\nThis library does not write anything to the filesystem, but it _may_\nhave undefined behavior if the structure of `node_modules` changes\nwhile it's reading deps.\n\nAll symlinks are followed.  This means that it can lead to surprising\nresults if a symlinked bundled dependency has a missing dependency\nthat is satisfied at the top level.  Since package creation resolves\nsymlinks as well, this is an edge case where package creation and\ndevelopment environment are not going to be aligned, and is best\navoided."
+}

@@ -1,0 +1,659 @@
+{
+	"name": "@types/decamelize",
+	"versions": {
+		"1.2.0": {
+			"name": "@types/decamelize",
+			"version": "1.2.0",
+			"description": "TypeScript definitions for decamelize",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Sam Verschueren",
+					"url": "https://github.com/samverschueren"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2e85f5f6c0901cd86fd14db26cd31cf8b3596b7f7f3a9cd39f7c1068c6aad88a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/decamelize@1.2.0",
+			"dist": {
+				"shasum": "aabc2306e6c229356636cab7fcb823cfe170f056",
+				"size": 1497,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/decamelize-1.2.0.tgz_1502490199683_0.008791866712272167"
+			},
+			"directories": {},
+			"publish_time": 1502490200278,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502490200278
+		},
+		"0.0.30": {
+			"name": "@types/decamelize",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for decamelize",
+			"license": "MIT",
+			"author": "Sam Verschueren <https://github.com/samverschueren>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "ce4020d6b79d6796945d861349a244e58f4f01886939d7f617d4a3e2c293fd9b",
+			"_id": "@types/decamelize@0.0.30",
+			"dist": {
+				"shasum": "a05673d152d9942e946e19b3d0584a445c665bd1",
+				"size": 1013,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.30.tgz_1474303510498_0.26884365803562105"
+			},
+			"directories": {},
+			"publish_time": 1474303512532,
+			"_cnpm_publish_time": 1474303512532,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/decamelize",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for decamelize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/decamelize@0.0.29",
+			"_shasum": "9d07708841eb0bd39ee3be1e47927a993dfbd2ca",
+			"_from": "output\\decamelize",
+			"_resolved": "file:output\\decamelize",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9d07708841eb0bd39ee3be1e47927a993dfbd2ca",
+				"size": 986,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.29.tgz_1468506234441_0.47626014589332044"
+			},
+			"directories": {},
+			"publish_time": 1468506236599,
+			"_cnpm_publish_time": 1468506236599,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28-alpha": {
+			"name": "@types/decamelize",
+			"version": "0.0.28-alpha",
+			"description": "TypeScript definitions for decamelize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/decamelize@0.0.28-alpha",
+			"_shasum": "ac5c8f2121601bc2053fa2bd61b60c4f21322d76",
+			"_from": "output\\decamelize",
+			"_resolved": "file:output\\decamelize",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ac5c8f2121601bc2053fa2bd61b60c4f21322d76",
+				"size": 987,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.28-alpha.tgz_1468007523188_0.6441428533289582"
+			},
+			"directories": {},
+			"publish_time": 1468007525835,
+			"_cnpm_publish_time": 1468007525835,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/decamelize",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for decamelize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/decamelize@0.0.27-alpha",
+			"_shasum": "8149f8a7a017480dc7363cf3bf7ee141a9b14d38",
+			"_from": "output\\decamelize",
+			"_resolved": "file:output\\decamelize",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8149f8a7a017480dc7363cf3bf7ee141a9b14d38",
+				"size": 988,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.27-alpha.tgz_1467590720481_0.1956176881212741"
+			},
+			"directories": {},
+			"publish_time": 1467590723999,
+			"_cnpm_publish_time": 1467590723999,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/decamelize",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for decamelize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/decamelize@0.0.26-alpha",
+			"_shasum": "e49c5d2556d87a1c08bd0c23995f4933273f6889",
+			"_from": "output\\decamelize",
+			"_resolved": "file:output\\decamelize",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e49c5d2556d87a1c08bd0c23995f4933273f6889",
+				"size": 987,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.26-alpha.tgz_1467425771620_0.4844164315145463"
+			},
+			"directories": {},
+			"publish_time": 1467425775038,
+			"_cnpm_publish_time": 1467425775038,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/decamelize",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for decamelize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/decamelize@0.0.25-alpha",
+			"_shasum": "ede4c90dc31dd7fd8536e9b6f148ac98324ba369",
+			"_from": "output\\decamelize",
+			"_resolved": "file:output\\decamelize",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ede4c90dc31dd7fd8536e9b6f148ac98324ba369",
+				"size": 989,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.25-alpha.tgz_1467412355822_0.5626988008152694"
+			},
+			"directories": {},
+			"publish_time": 1467412359386,
+			"_cnpm_publish_time": 1467412359386,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/decamelize",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for decamelize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/decamelize@0.0.24-alpha",
+			"_shasum": "b5b3fc0572b3e3439fd858953e7469179b4c4da2",
+			"_from": "output\\decamelize",
+			"_resolved": "file:output\\decamelize",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b5b3fc0572b3e3439fd858953e7469179b4c4da2",
+				"size": 986,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.24-alpha.tgz_1467400632485_0.5132702896371484"
+			},
+			"directories": {},
+			"publish_time": 1467400635004,
+			"_cnpm_publish_time": 1467400635004,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/decamelize",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for decamelize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/decamelize@0.0.23-alpha",
+			"_shasum": "f1973183a3b1987ec77fd4cbfc3a130889158a6c",
+			"_from": "output\\decamelize",
+			"_resolved": "file:output\\decamelize",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f1973183a3b1987ec77fd4cbfc3a130889158a6c",
+				"size": 960,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.23-alpha.tgz_1464151461595_0.5337163512594998"
+			},
+			"directories": {},
+			"publish_time": 1464151464007,
+			"_cnpm_publish_time": 1464151464007,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/decamelize",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for decamelize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/decamelize@0.0.22-alpha",
+			"_shasum": "327decbb0c6b8cd709f8c1a724cdd470a289bb48",
+			"_from": "output\\decamelize",
+			"_resolved": "file:output\\decamelize",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "327decbb0c6b8cd709f8c1a724cdd470a289bb48",
+				"size": 958,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.22-alpha.tgz_1463772353900_0.2313835930544883"
+			},
+			"directories": {},
+			"publish_time": 1463772354278,
+			"_cnpm_publish_time": 1463772354278,
+			"_hasShrinkwrap": false
+		},
+		"0.0.17-alpha": {
+			"name": "@types/decamelize",
+			"version": "0.0.17-alpha",
+			"description": "Type definitions for decamelize from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/decamelize@0.0.17-alpha",
+			"_shasum": "13db467c254618f3df4b89f114e4faea28e2a3ab",
+			"_from": "output\\decamelize",
+			"_resolved": "file:output\\decamelize",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "13db467c254618f3df4b89f114e4faea28e2a3ab",
+				"size": 967,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.17-alpha.tgz_1463690311712_0.7697942107915878"
+			},
+			"directories": {},
+			"publish_time": 1463690313951,
+			"_cnpm_publish_time": 1463690313951,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/decamelize",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for decamelize from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Sam Verschueren",
+				"email": "https://github.com/samverschueren"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/decamelize@0.0.16-alpha",
+			"_shasum": "d94f61d24619ed6f400c619b52419092b06dbf84",
+			"_from": "output\\decamelize",
+			"_resolved": "file:output\\decamelize",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d94f61d24619ed6f400c619b52419092b06dbf84",
+				"size": 956,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/decamelize-0.0.16-alpha.tgz_1463460282890_0.18107299064286053"
+			},
+			"directories": {},
+			"publish_time": 1463460286414,
+			"_cnpm_publish_time": 1463460286414,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.0",
+		"ts2.0": "1.2.0",
+		"ts2.1": "1.2.0",
+		"ts2.2": "1.2.0",
+		"ts2.3": "1.2.0",
+		"ts2.4": "1.2.0",
+		"ts2.5": "1.2.0",
+		"ts2.6": "1.2.0",
+		"ts2.7": "1.2.0",
+		"ts2.8": "1.2.0",
+		"ts2.9": "1.2.0",
+		"ts3.0": "1.2.0",
+		"ts3.1": "1.2.0",
+		"ts3.2": "1.2.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:09:31.000Z",
+		"created": "2016-05-17T04:44:46.414Z",
+		"1.2.0": "2017-08-11T22:23:20.278Z",
+		"0.0.30": "2016-09-19T16:45:12.532Z",
+		"0.0.29": "2016-07-14T14:23:56.599Z",
+		"0.0.28-alpha": "2016-07-08T19:52:05.835Z",
+		"0.0.27-alpha": "2016-07-04T00:05:23.999Z",
+		"0.0.26-alpha": "2016-07-02T02:16:15.038Z",
+		"0.0.25-alpha": "2016-07-01T22:32:39.386Z",
+		"0.0.24-alpha": "2016-07-01T19:17:15.004Z",
+		"0.0.23-alpha": "2016-05-25T04:44:24.007Z",
+		"0.0.22-alpha": "2016-05-20T19:25:54.278Z",
+		"0.0.17-alpha": "2016-05-19T20:38:33.951Z",
+		"0.0.16-alpha": "2016-05-17T04:44:46.414Z"
+	},
+	"_distfiles": {
+		"decamelize-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-1.2.0.tgz",
+			"sha": "aabc2306e6c229356636cab7fcb823cfe170f056",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.30.tgz",
+			"sha": "a05673d152d9942e946e19b3d0584a445c665bd1",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.29.tgz",
+			"sha": "9d07708841eb0bd39ee3be1e47927a993dfbd2ca",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.28-alpha.tgz",
+			"sha": "ac5c8f2121601bc2053fa2bd61b60c4f21322d76",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.27-alpha.tgz",
+			"sha": "8149f8a7a017480dc7363cf3bf7ee141a9b14d38",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.26-alpha.tgz",
+			"sha": "e49c5d2556d87a1c08bd0c23995f4933273f6889",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.25-alpha.tgz",
+			"sha": "ede4c90dc31dd7fd8536e9b6f148ac98324ba369",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.24-alpha.tgz",
+			"sha": "b5b3fc0572b3e3439fd858953e7469179b4c4da2",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.23-alpha.tgz",
+			"sha": "f1973183a3b1987ec77fd4cbfc3a130889158a6c",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.22-alpha.tgz",
+			"sha": "327decbb0c6b8cd709f8c1a724cdd470a289bb48",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.17-alpha.tgz",
+			"sha": "13db467c254618f3df4b89f114e4faea28e2a3ab",
+			"registry": "cnpmjs"
+		},
+		"decamelize-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decamelize/download/@types/decamelize-0.0.16-alpha.tgz",
+			"sha": "d94f61d24619ed6f400c619b52419092b06dbf84",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833454434
+		}
+	},
+	"_rev": "2-343f87db9ee140ee",
+	"readme": "# Installation\r\n> `npm install --save @types/decamelize`\r\n\r\n# Summary\r\nThis package contains type definitions for decamelize (https://github.com/sindresorhus/decamelize).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/decamelize\r\n\r\nAdditional Details\r\n * Last updated: Fri, 11 Aug 2017 22:23:07 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Sam Verschueren <https://github.com/samverschueren>."
+}

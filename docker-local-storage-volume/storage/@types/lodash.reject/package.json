@@ -1,0 +1,325 @@
+{
+	"name": "@types/lodash.reject",
+	"versions": {
+		"4.6.3": {
+			"name": "@types/lodash.reject",
+			"version": "4.6.3",
+			"description": "TypeScript definitions for lodash.reject",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "466678f8e550cad9e4109faba786a6e1d9137f0a6ee75223cb1abbfb73211aa7",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.reject@4.6.3",
+			"dist": {
+				"shasum": "5d228e17f97bfe0ccdccea8d3a80d16c13a4be20",
+				"size": 1590,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.reject/download/@types/lodash.reject-4.6.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.reject-4.6.3.tgz_1502229088534_0.5234929504804313"
+			},
+			"directories": {},
+			"publish_time": 1502229088591,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502229088591
+		},
+		"4.6.2": {
+			"name": "@types/lodash.reject",
+			"version": "4.6.2",
+			"description": "TypeScript definitions for lodash.reject",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c371cba9d3c37dc591d243487a66c6522256fd0bdcd4676de32ba50f416c0337",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.reject@4.6.2",
+			"dist": {
+				"shasum": "8131c373dd4c7c532be91a9afb24b8ecf8e901d3",
+				"size": 870,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.reject/download/@types/lodash.reject-4.6.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.reject-4.6.2.tgz_1490212809750_0.8259767203126103"
+			},
+			"directories": {},
+			"publish_time": 1490212809979,
+			"_cnpm_publish_time": 1490212809979,
+			"_hasShrinkwrap": false
+		},
+		"4.6.1": {
+			"name": "@types/lodash.reject",
+			"version": "4.6.1",
+			"description": "TypeScript definitions for lodash.reject",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f3d1e1628752a81eecca924c165a2044e39149e3204f07177c5575986dbfd598",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.reject@4.6.1",
+			"dist": {
+				"shasum": "85d7edd64e8a3798c43b79ea8beff1bca70d7696",
+				"size": 1039,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.reject/download/@types/lodash.reject-4.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.reject-4.6.1.tgz_1485553796567_0.17148979869671166"
+			},
+			"directories": {},
+			"publish_time": 1485553796780,
+			"_cnpm_publish_time": 1485553796780,
+			"_hasShrinkwrap": false
+		},
+		"4.6.0": {
+			"name": "@types/lodash.reject",
+			"version": "4.6.0",
+			"description": "TypeScript definitions for lodash.reject",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7295c539b6a313b798c5f422509009ffe119139539f9ed36ddcce0a86ce0e949",
+			"_id": "@types/lodash.reject@4.6.0",
+			"dist": {
+				"shasum": "487ded27a60623aeeb5a25af129738877ca306be",
+				"size": 1015,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.reject/download/@types/lodash.reject-4.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.reject-4.6.0.tgz_1480973645862_0.4542435600887984"
+			},
+			"directories": {},
+			"publish_time": 1480973646076,
+			"_cnpm_publish_time": 1480973646076,
+			"_hasShrinkwrap": false
+		},
+		"4.6.4": {
+			"name": "@types/lodash.reject",
+			"version": "4.6.4",
+			"description": "TypeScript definitions for lodash.reject",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "9ea3e396d2342872e1fa9c97337d854b85ce71f119af175189ed812b1551c81c",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.reject@4.6.4",
+			"dist": {
+				"shasum": "d79e4eafd50d29bc262f59fe1834fd17eb4b001a",
+				"size": 1595,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.reject/download/@types/lodash.reject-4.6.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.reject_4.6.4_1532393521770_0.9085520951386006"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532393521841,
+			"_cnpm_publish_time": 1532393521841
+		}
+	},
+	"dist-tags": {
+		"latest": "4.6.4",
+		"ts2.0": "4.6.0",
+		"ts2.1": "4.6.1",
+		"ts2.2": "4.6.3",
+		"ts2.3": "4.6.3",
+		"ts2.4": "4.6.3",
+		"ts2.5": "4.6.3",
+		"ts2.6": "4.6.4",
+		"ts2.7": "4.6.4",
+		"ts2.8": "4.6.4",
+		"ts2.9": "4.6.4",
+		"ts3.0": "4.6.4",
+		"ts3.1": "4.6.4",
+		"ts3.2": "4.6.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:17:11.000Z",
+		"created": "2016-12-05T21:34:06.076Z",
+		"4.6.4": "2018-07-24T00:52:01.841Z",
+		"4.6.3": "2017-08-08T21:51:28.591Z",
+		"4.6.2": "2017-03-22T20:00:09.979Z",
+		"4.6.1": "2017-01-27T21:49:56.780Z",
+		"4.6.0": "2016-12-05T21:34:06.076Z"
+	},
+	"_distfiles": {
+		"lodash.reject-4.6.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.reject/download/@types/lodash.reject-4.6.3.tgz",
+			"sha": "5d228e17f97bfe0ccdccea8d3a80d16c13a4be20",
+			"registry": "cnpmjs"
+		},
+		"lodash.reject-4.6.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.reject/download/@types/lodash.reject-4.6.2.tgz",
+			"sha": "8131c373dd4c7c532be91a9afb24b8ecf8e901d3",
+			"registry": "cnpmjs"
+		},
+		"lodash.reject-4.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.reject/download/@types/lodash.reject-4.6.1.tgz",
+			"sha": "85d7edd64e8a3798c43b79ea8beff1bca70d7696",
+			"registry": "cnpmjs"
+		},
+		"lodash.reject-4.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.reject/download/@types/lodash.reject-4.6.0.tgz",
+			"sha": "487ded27a60623aeeb5a25af129738877ca306be",
+			"registry": "cnpmjs"
+		},
+		"lodash.reject-4.6.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.reject/download/@types/lodash.reject-4.6.4.tgz",
+			"sha": "d79e4eafd50d29bc262f59fe1834fd17eb4b001a",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833484814
+		}
+	},
+	"_rev": "2-5214e9b0102e1ad2",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.reject`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.reject (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.reject\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:12 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

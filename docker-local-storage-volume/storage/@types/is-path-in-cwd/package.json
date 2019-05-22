@@ -1,0 +1,84 @@
+{
+	"name": "@types/is-path-in-cwd",
+	"versions": {
+		"1.0.0": {
+			"name": "@types/is-path-in-cwd",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for is-path-in-cwd",
+			"license": "MIT",
+			"author": "Mohamed Hegazy <https://github.com/mhegazy>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5405989d1fdcd4ce4b16a73b65c59e53cd7a6a106e7a60156c65bd50f830007c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/is-path-in-cwd@1.0.0",
+			"dist": {
+				"shasum": "b48c5f76968be3b278dd800f7153c0bd27c41321",
+				"size": 973,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-path-in-cwd/download/@types/is-path-in-cwd-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-path-in-cwd-1.0.0.tgz_1483053076709_0.01002836530096829"
+			},
+			"directories": {},
+			"publish_time": 1483053076927,
+			"_cnpm_publish_time": 1483053076927,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0",
+		"ts2.0": "1.0.0",
+		"ts2.1": "1.0.0",
+		"ts2.2": "1.0.0",
+		"ts2.3": "1.0.0",
+		"ts2.4": "1.0.0",
+		"ts2.5": "1.0.0",
+		"ts2.6": "1.0.0",
+		"ts2.7": "1.0.0",
+		"ts2.8": "1.0.0",
+		"ts2.9": "1.0.0",
+		"ts3.0": "1.0.0",
+		"ts3.1": "1.0.0",
+		"ts3.2": "1.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:01.000Z",
+		"created": "2016-12-29T23:11:16.927Z",
+		"1.0.0": "2016-12-29T23:11:16.927Z"
+	},
+	"_distfiles": {
+		"is-path-in-cwd-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-path-in-cwd/download/@types/is-path-in-cwd-1.0.0.tgz",
+			"sha": "b48c5f76968be3b278dd800f7153c0bd27c41321",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"999-vF7NFkS/TVK5fePy86x9TTPH1Og\"",
+			"fetched": 1541833457461
+		}
+	},
+	"_rev": "2-1b5a80209c1c7b2e",
+	"readme": "# Installation\r\n> `npm install --save @types/is-path-in-cwd`\r\n\r\n# Summary\r\nThis package contains type definitions for is-path-in-cwd (https://github.com/sindresorhus/is-path-in-cwd).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/is-path-in-cwd\r\n\r\nAdditional Details\r\n * Last updated: Thu, 29 Dec 2016 23:09:06 GMT\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Mohamed Hegazy <https://github.com/mhegazy>."
+}

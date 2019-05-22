@@ -1,0 +1,89 @@
+{
+	"name": "@types/braces",
+	"versions": {
+		"2.3.0": {
+			"name": "@types/braces",
+			"version": "2.3.0",
+			"description": "TypeScript definitions for braces",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "vemoo",
+					"url": "https://github.com/vemoo",
+					"githubUsername": "vemoo"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "731b40a14e044056151ec4cd17873a4c2ccc16093a4456ad716d748542c34410",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/braces@2.3.0",
+			"dist": {
+				"shasum": "d00ec0a76562b2acb6f29330be33a093e33ed25c",
+				"size": 2727,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/braces/download/@types/braces-2.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/braces-2.3.0.tgz_1513899030980_0.12010958860628307"
+			},
+			"directories": {},
+			"publish_time": 1513899031387,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513899031387
+		}
+	},
+	"dist-tags": {
+		"latest": "2.3.0",
+		"ts2.0": "2.3.0",
+		"ts2.1": "2.3.0",
+		"ts2.2": "2.3.0",
+		"ts2.3": "2.3.0",
+		"ts2.4": "2.3.0",
+		"ts2.5": "2.3.0",
+		"ts2.6": "2.3.0",
+		"ts2.7": "2.3.0",
+		"ts2.8": "2.3.0",
+		"ts2.9": "2.3.0",
+		"ts3.0": "2.3.0",
+		"ts3.1": "2.3.0",
+		"ts3.2": "2.3.0"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:06.000Z",
+		"created": "2017-12-21T23:30:31.387Z",
+		"2.3.0": "2017-12-21T23:30:31.387Z"
+	},
+	"_distfiles": {
+		"braces-2.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/braces/download/@types/braces-2.3.0.tgz",
+			"sha": "d00ec0a76562b2acb6f29330be33a093e33ed25c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"8d5-CRjpP2v/DbAdrAPAip2VquH5bBg\"",
+			"fetched": 1541833452945
+		}
+	},
+	"_rev": "2-d2deaebad01400c8",
+	"readme": "# Installation\r\n> `npm install --save @types/braces`\r\n\r\n# Summary\r\nThis package contains type definitions for braces (https://github.com/micromatch/braces).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/braces\r\n\r\nAdditional Details\r\n * Last updated: Thu, 21 Dec 2017 23:29:46 GMT\r\n * Dependencies: none\r\n * Global values: braces\r\n\r\n# Credits\r\nThese definitions were written by vemoo <https://github.com/vemoo>."
+}

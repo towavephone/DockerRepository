@@ -1,0 +1,626 @@
+{
+	"name": "datatables.net-bs",
+	"versions": {
+		"1.10.16": {
+			"name": "datatables.net-bs",
+			"version": "1.10.16",
+			"description": "DataTables for jQuery with styling for [Bootstrap 3](http://getbootstrap.com/)",
+			"files": [
+				"js/dataTables.bootstrap.js",
+				"css/dataTables.bootstrap.css"
+			],
+			"main": "js/dataTables.bootstrap.js",
+			"style": "css/dataTables.bootstrap.css",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"Bootstrap"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": "1.10.16"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Bootstrap.git"
+			},
+			"_id": "datatables.net-bs@1.10.16",
+			"dist": {
+				"shasum": "b0854f5b374f713ae3db4156c7cea8a760c3de76",
+				"size": 4208,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.16.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "npm@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/datatables.net-bs-1.10.16.tgz_1504260141364_0.17552526900544763"
+			},
+			"directories": {},
+			"publish_time": 1504260142372,
+			"_cnpm_publish_time": 1504260142372,
+			"_hasShrinkwrap": false
+		},
+		"1.10.15": {
+			"name": "datatables.net-bs",
+			"version": "1.10.15",
+			"description": "DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)",
+			"files": [
+				"js/dataTables.bootstrap.js",
+				"css/dataTables.bootstrap.css"
+			],
+			"main": "js/dataTables.bootstrap.js",
+			"style": "css/dataTables.bootstrap.css",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"Bootstrap"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Bootstrap.git"
+			},
+			"_id": "datatables.net-bs@1.10.15",
+			"dist": {
+				"shasum": "b2c2261007d84ca5b5abf56c18edc227e0da1a4d",
+				"size": 4188,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.15.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-bs-1.10.15.tgz_1492503998638_0.7297385323327035"
+			},
+			"directories": {},
+			"publish_time": 1492503999364,
+			"_cnpm_publish_time": 1492503999364,
+			"_hasShrinkwrap": false
+		},
+		"1.10.14": {
+			"name": "datatables.net-bs",
+			"version": "1.10.14",
+			"description": "DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)",
+			"files": [
+				"js/dataTables.bootstrap.js",
+				"css/dataTables.bootstrap.css"
+			],
+			"main": "js/dataTables.bootstrap.js",
+			"style": "css/dataTables.bootstrap.css",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"Bootstrap"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Bootstrap.git"
+			},
+			"_id": "datatables.net-bs@1.10.14",
+			"dist": {
+				"shasum": "3016b236fa6b2d08ac47348118980954f69ba55d",
+				"size": 4192,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.14.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-bs-1.10.14.tgz_1492457815464_0.34389926469884813"
+			},
+			"directories": {},
+			"publish_time": 1492457817233,
+			"_cnpm_publish_time": 1492457817233,
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "datatables.net-bs",
+			"version": "2.1.1",
+			"description": "DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)",
+			"files": [
+				"js/dataTables.bootstrap.js",
+				"css/dataTables.bootstrap.css"
+			],
+			"main": "js/dataTables.bootstrap.js",
+			"style": "css/dataTables.bootstrap.css",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"Bootstrap"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Bootstrap.git"
+			},
+			"_id": "datatables.net-bs@2.1.1",
+			"dist": {
+				"shasum": "704108972891949d094bf44f53d0654d9fee7bce",
+				"size": 4183,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-2.1.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-bs-2.1.1.tgz_1484741845429_0.2925586092751473"
+			},
+			"directories": {},
+			"publish_time": 1484741847353,
+			"_cnpm_publish_time": 1484741847353,
+			"deprecated": "Incorrect version published. Please use the latest non-deprecated version - 1.10.13 at the time of writing",
+			"_hasShrinkwrap": false
+		},
+		"1.10.13": {
+			"name": "datatables.net-bs",
+			"version": "1.10.13",
+			"description": "DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)",
+			"files": [
+				"js/dataTables.bootstrap.js",
+				"css/dataTables.bootstrap.css"
+			],
+			"main": "js/dataTables.bootstrap.js",
+			"style": "css/dataTables.bootstrap.css",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"Bootstrap"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Bootstrap.git"
+			},
+			"_id": "datatables.net-bs@1.10.13",
+			"dist": {
+				"shasum": "794ab40a21afdf8b40ff762f7ea9a06ead9f8a2c",
+				"size": 4184,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.13.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-bs-1.10.13.tgz_1481036672016_0.5573162799701095"
+			},
+			"directories": {},
+			"publish_time": 1481036673900,
+			"_cnpm_publish_time": 1481036673900,
+			"_hasShrinkwrap": false
+		},
+		"1.10.12": {
+			"name": "datatables.net-bs",
+			"version": "1.10.12",
+			"description": "DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)",
+			"files": [
+				"js/dataTables.bootstrap.js",
+				"css/dataTables.bootstrap.css"
+			],
+			"main": "js/dataTables.bootstrap.js",
+			"style": "css/dataTables.bootstrap.css",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"Bootstrap"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DataTables/Dist-DataTables-Bootstrap.git"
+			},
+			"_id": "datatables.net-bs@1.10.12",
+			"dist": {
+				"shasum": "514830c325ec4349ad6c0a4c6689143fcc93697b",
+				"size": 4190,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.12.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-bs-1.10.12.tgz_1463749396992_0.4270231924019754"
+			},
+			"directories": {},
+			"publish_time": 1463749400431,
+			"_cnpm_publish_time": 1463749400431,
+			"_hasShrinkwrap": false
+		},
+		"1.10.11": {
+			"name": "datatables.net-bs",
+			"version": "1.10.11",
+			"description": "DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)",
+			"files": [
+				"js/dataTables.bootstrap.js",
+				"css/dataTables.bootstrap.css"
+			],
+			"main": "./js/dataTables.bootstrap.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"Bootstrap"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"_id": "datatables.net-bs@1.10.11",
+			"dist": {
+				"shasum": "aae16041994bf600e6bd56288be2f23e902e39a1",
+				"size": 4144,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.11.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-5-east.internal.npmjs.com",
+				"tmp": "tmp/datatables.net-bs-1.10.11.tgz_1455201470587_0.8450382631272078"
+			},
+			"directories": {},
+			"publish_time": 1455201472316,
+			"_cnpm_publish_time": 1455201472316,
+			"_hasShrinkwrap": false
+		},
+		"1.10.10": {
+			"name": "datatables.net-bs",
+			"version": "1.10.10",
+			"description": "DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)",
+			"files": [
+				"js/dataTables.bootstrap.js",
+				"css/dataTables.bootstrap.css"
+			],
+			"main": "./js/dataTables.bootstrap.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"Bootstrap"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"_id": "datatables.net-bs@1.10.10",
+			"dist": {
+				"shasum": "f8cf7a4e4210e72673dd5b1fe14e8e9b861d428a",
+				"size": 4412,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.10.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.6",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "allan@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"directories": {},
+			"publish_time": 1446889824466,
+			"_cnpm_publish_time": 1446889824466,
+			"_hasShrinkwrap": false
+		},
+		"1.10.9": {
+			"name": "datatables.net-bs",
+			"version": "1.10.9",
+			"description": "DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)",
+			"files": [
+				"js/dataTables.bootstrap.js",
+				"css/dataTables.bootstrap.css"
+			],
+			"main": "./js/dataTables.bootstrap.js",
+			"keywords": [
+				"filter",
+				"sort",
+				"DataTables",
+				"jQuery",
+				"table",
+				"Bootstrap"
+			],
+			"homepage": "https://datatables.net",
+			"bugs": {
+				"url": "https://datatables.net/forums"
+			},
+			"license": "MIT",
+			"author": {
+				"name": "SpryMedia Ltd",
+				"url": "http://datatables.net"
+			},
+			"dependencies": {
+				"jquery": ">=1.7",
+				"datatables.net": ">=1.10.9"
+			},
+			"gitHead": "dda5c9324b738eabd204a96f898f7c28ca5e170a",
+			"_id": "datatables.net-bs@1.10.9",
+			"scripts": {},
+			"_shasum": "aee0e2c3f3784fe2d6ca72360da1cce4b07959db",
+			"_from": ".",
+			"_npmVersion": "2.14.4",
+			"_nodeVersion": "4.1.1",
+			"_npmUser": {
+				"name": "datatables",
+				"email": "npm@datatables.net"
+			},
+			"maintainers": [
+				{
+					"name": "datatables",
+					"email": "npm@datatables.net"
+				}
+			],
+			"dist": {
+				"shasum": "aee0e2c3f3784fe2d6ca72360da1cce4b07959db",
+				"size": 4168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.9.tgz"
+			},
+			"directories": {},
+			"publish_time": 1444226741195,
+			"_cnpm_publish_time": 1444226741195,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.10.16"
+	},
+	"time": {
+		"modified": "2017-09-12T12:37:54.000Z",
+		"created": "2015-10-07T14:05:41.195Z",
+		"1.10.16": "2017-09-01T10:02:22.372Z",
+		"1.10.15": "2017-04-18T08:26:39.364Z",
+		"1.10.14": "2017-04-17T19:36:57.233Z",
+		"2.1.1": "2017-01-18T12:17:27.353Z",
+		"1.10.13": "2016-12-06T15:04:33.900Z",
+		"1.10.12": "2016-05-20T13:03:20.431Z",
+		"1.10.11": "2016-02-11T14:37:52.316Z",
+		"1.10.10": "2015-11-07T09:50:24.466Z",
+		"1.10.9": "2015-10-07T14:05:41.195Z"
+	},
+	"_distfiles": {
+		"datatables.net-bs-1.10.16.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.16.tgz",
+			"sha": "b0854f5b374f713ae3db4156c7cea8a760c3de76",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-bs-1.10.15.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.15.tgz",
+			"sha": "b2c2261007d84ca5b5abf56c18edc227e0da1a4d",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-bs-1.10.14.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.14.tgz",
+			"sha": "3016b236fa6b2d08ac47348118980954f69ba55d",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-bs-2.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-2.1.1.tgz",
+			"sha": "704108972891949d094bf44f53d0654d9fee7bce",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-bs-1.10.13.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.13.tgz",
+			"sha": "794ab40a21afdf8b40ff762f7ea9a06ead9f8a2c",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-bs-1.10.12.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.12.tgz",
+			"sha": "514830c325ec4349ad6c0a4c6689143fcc93697b",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-bs-1.10.11.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.11.tgz",
+			"sha": "aae16041994bf600e6bd56288be2f23e902e39a1",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-bs-1.10.10.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.10.tgz",
+			"sha": "f8cf7a4e4210e72673dd5b1fe14e8e9b861d428a",
+			"registry": "cnpmjs"
+		},
+		"datatables.net-bs-1.10.9.tgz": {
+			"url": "https://registry.npm.taobao.org/datatables.net-bs/download/datatables.net-bs-1.10.9.tgz",
+			"sha": "aee0e2c3f3784fe2d6ca72360da1cce4b07959db",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3a4e-gtEI7rmgYD6cyto6/gYrQAQRLOc\"",
+			"fetched": 1527747699510
+		}
+	},
+	"_rev": "11-2c25d63a03538751",
+	"readme": "# DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)\n\nThis package contains distribution files required to style [DataTables library](https://datatables.net) for [jQuery](http://jquery.com/) with styling for [Bootstrap](http://getbootstrap.com/).\n\nDataTables is a table enhancing library which adds features such as paging, ordering, search, scrolling and many more to a static HTML page. A comprehensive API is also available that can be used to manipulate the table. Please refer to the [DataTables web-site](//datatables.net) for a full range of documentation and examples.\n\n\n## Installation\n\n### Browser\n\nFor inclusion of this library using a standard `<script>` tag, rather than using this package, it is recommended that you use the [DataTables download builder](//datatables.net/download) which can create CDN or locally hosted packages for you, will all dependencies satisfied.\n\n### npm\n\n```\nnpm install datatables.net-bs\n```\n\n```\nvar $ = require( 'jquery' );\nrequire( 'datatables.net-bs' )( window, $ );\n```\n\n### bower\n\n```\nbower install --save datatables.net-bs\n```\n\n\n\n## Documentation\n\nFull documentation of the DataTables options, API and plug-in interface are available on the DOCS_LINK. The site also contains information on the wide variety of plug-ins that are available for DataTables, which can be used to enhance and customise your table even further.\n\n\n## Bug / Support\n\nSupport for DataTables is available through the [DataTables forums](//datatables.net/forums) and [commercial support options](//datatables.net/support) are available.\n\n\n### Contributing\n\nIf you are thinking of contributing code to DataTables, first of all, thank you! All fixes, patches and enhancements to DataTables are very warmly welcomed. This repository is a distribution repo, so patches and issues sent to this repo will not be accepted. Instead, please direct pull requests to the [DataTables/DataTablesSrc](http://github.com/DataTables/DataTablesSrc). For issues / bugs, please direct your questions to the [DataTables forums](//datatables.net/forums).\n\n\n## License\n\nThis software is released under the [MIT license](//datatables.net/license). You are free to use, modify and distribute this software, but all copyright information must remain."
+}

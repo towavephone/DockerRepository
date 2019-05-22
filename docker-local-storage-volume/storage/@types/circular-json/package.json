@@ -1,0 +1,712 @@
+{
+	"name": "@types/circular-json",
+	"versions": {
+		"0.4.0": {
+			"name": "@types/circular-json",
+			"version": "0.4.0",
+			"description": "TypeScript definitions for circular-json",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jonathan Pevarnek",
+					"url": "https://github.com/jpevarnek",
+					"githubUsername": "jpevarnek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "ff15aa6cdc371cc7479b4a9e2efc5987c46feb952787cfd7ed507a434ecb33f8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/circular-json@0.4.0",
+			"dist": {
+				"shasum": "7401f7e218cfe87ad4c43690da5658b9acaf51be",
+				"size": 1570,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/circular-json-0.4.0.tgz_1508516265807_0.7425678742583841"
+			},
+			"directories": {},
+			"publish_time": 1508516265927,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508516265927
+		},
+		"0.1.31": {
+			"name": "@types/circular-json",
+			"version": "0.1.31",
+			"description": "TypeScript definitions for circular-json",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jonathan Pevarnek",
+					"url": "https://github.com/jpevarnek"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "f2c7be4517cbc180d6cc365cac4ed7d40a3e9fcbaf79eea70871ce1429fd1b74",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/circular-json@0.1.31",
+			"dist": {
+				"shasum": "f9f7be29a74ac5391f4de91375556515e3ba86c1",
+				"size": 1600,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/circular-json-0.1.31.tgz_1503352196340_0.5163879110477865"
+			},
+			"directories": {},
+			"publish_time": 1503352196470,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352196470
+		},
+		"0.1.30": {
+			"name": "@types/circular-json",
+			"version": "0.1.30",
+			"description": "TypeScript definitions for circular-json v0.1.6",
+			"license": "MIT",
+			"author": "Jonathan Pevarnek <https://github.com/jpevarnek/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "fe5d07cb50ac1809655609cf14993e9e3190342821ada3242a36a1298cc41418",
+			"_id": "@types/circular-json@0.1.30",
+			"dist": {
+				"shasum": "9dea3974ae28b9aa87fa2cf23106bcd0a3e9329e",
+				"size": 1118,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.30.tgz_1474302913822_0.5376542380545288"
+			},
+			"directories": {},
+			"publish_time": 1474302915765,
+			"_cnpm_publish_time": 1474302915765,
+			"_hasShrinkwrap": false
+		},
+		"0.1.29": {
+			"name": "@types/circular-json",
+			"version": "0.1.29",
+			"description": "TypeScript definitions for circular-json v0.1.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jonathan Pevarnek",
+				"email": "https://github.com/jpevarnek/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/circular-json@0.1.29",
+			"_shasum": "061ccff856b03eb4e1e064b256cb18b30538e161",
+			"_from": "output\\circular-json",
+			"_resolved": "file:output\\circular-json",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "061ccff856b03eb4e1e064b256cb18b30538e161",
+				"size": 1101,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.29.tgz_1468505784632_0.2652591769583523"
+			},
+			"directories": {},
+			"publish_time": 1468505787236,
+			"_cnpm_publish_time": 1468505787236,
+			"_hasShrinkwrap": false
+		},
+		"0.1.28-alpha": {
+			"name": "@types/circular-json",
+			"version": "0.1.28-alpha",
+			"description": "TypeScript definitions for circular-json v0.1.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jonathan Pevarnek",
+				"email": "https://github.com/jpevarnek/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/circular-json@0.1.28-alpha",
+			"_shasum": "855b38e8a93721a39a8f9247dc6363738c4cb842",
+			"_from": "output\\circular-json",
+			"_resolved": "file:output\\circular-json",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "855b38e8a93721a39a8f9247dc6363738c4cb842",
+				"size": 1101,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.28-alpha.tgz_1468007482031_0.8541573311667889"
+			},
+			"directories": {},
+			"publish_time": 1468007482479,
+			"_cnpm_publish_time": 1468007482479,
+			"_hasShrinkwrap": false
+		},
+		"0.1.27-alpha": {
+			"name": "@types/circular-json",
+			"version": "0.1.27-alpha",
+			"description": "TypeScript definitions for circular-json v0.1.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jonathan Pevarnek",
+				"email": "https://github.com/jpevarnek/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/circular-json@0.1.27-alpha",
+			"_shasum": "24ec6f207a4fbff95a45290290a56d24afcc9d76",
+			"_from": "output\\circular-json",
+			"_resolved": "file:output\\circular-json",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "24ec6f207a4fbff95a45290290a56d24afcc9d76",
+				"size": 1101,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.27-alpha.tgz_1467590091830_0.22678342345170677"
+			},
+			"directories": {},
+			"publish_time": 1467590092355,
+			"_cnpm_publish_time": 1467590092355,
+			"_hasShrinkwrap": false
+		},
+		"0.1.26-alpha": {
+			"name": "@types/circular-json",
+			"version": "0.1.26-alpha",
+			"description": "TypeScript definitions for circular-json v0.1.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jonathan Pevarnek",
+				"email": "https://github.com/jpevarnek/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/circular-json@0.1.26-alpha",
+			"_shasum": "b9c80d8ff3dd43820284d75d93de4811eeb8e57b",
+			"_from": "output\\circular-json",
+			"_resolved": "file:output\\circular-json",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b9c80d8ff3dd43820284d75d93de4811eeb8e57b",
+				"size": 1102,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.26-alpha.tgz_1467425489952_0.07829561457037926"
+			},
+			"directories": {},
+			"publish_time": 1467425490502,
+			"_cnpm_publish_time": 1467425490502,
+			"_hasShrinkwrap": false
+		},
+		"0.1.25-alpha": {
+			"name": "@types/circular-json",
+			"version": "0.1.25-alpha",
+			"description": "TypeScript definitions for circular-json v0.1.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jonathan Pevarnek",
+				"email": "https://github.com/jpevarnek/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/circular-json@0.1.25-alpha",
+			"_shasum": "034b5c47edc205fa27ecf479cb276bd34fd21025",
+			"_from": "output\\circular-json",
+			"_resolved": "file:output\\circular-json",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "034b5c47edc205fa27ecf479cb276bd34fd21025",
+				"size": 1103,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.25-alpha.tgz_1467411904803_0.04463740484789014"
+			},
+			"directories": {},
+			"publish_time": 1467411907220,
+			"_cnpm_publish_time": 1467411907220,
+			"_hasShrinkwrap": false
+		},
+		"0.1.24-alpha": {
+			"name": "@types/circular-json",
+			"version": "0.1.24-alpha",
+			"description": "TypeScript definitions for circular-json v0.1.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jonathan Pevarnek",
+				"email": "https://github.com/jpevarnek/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/circular-json@0.1.24-alpha",
+			"_shasum": "b5af5872059314c902ded8787eda2fa5c0aeefc7",
+			"_from": "output\\circular-json",
+			"_resolved": "file:output\\circular-json",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b5af5872059314c902ded8787eda2fa5c0aeefc7",
+				"size": 1100,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.24-alpha.tgz_1467399869323_0.926291168667376"
+			},
+			"directories": {},
+			"publish_time": 1467399871851,
+			"_cnpm_publish_time": 1467399871851,
+			"_hasShrinkwrap": false
+		},
+		"0.1.23-alpha": {
+			"name": "@types/circular-json",
+			"version": "0.1.23-alpha",
+			"description": "TypeScript definitions for circular-json v0.1.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jonathan Pevarnek",
+				"email": "https://github.com/jpevarnek/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/circular-json@0.1.23-alpha",
+			"_shasum": "efc82c6d3f00b13cbb07a0a91326b018c4d3d12b",
+			"_from": "output\\circular-json",
+			"_resolved": "file:output\\circular-json",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "efc82c6d3f00b13cbb07a0a91326b018c4d3d12b",
+				"size": 1073,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.23-alpha.tgz_1464151075148_0.8195658454205841"
+			},
+			"directories": {},
+			"publish_time": 1464151075631,
+			"_cnpm_publish_time": 1464151075631,
+			"_hasShrinkwrap": false
+		},
+		"0.1.22-alpha": {
+			"name": "@types/circular-json",
+			"version": "0.1.22-alpha",
+			"description": "TypeScript definitions for circular-json v0.1.6",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jonathan Pevarnek",
+				"email": "https://github.com/jpevarnek/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/circular-json@0.1.22-alpha",
+			"_shasum": "64f495226e6e3488db048677da91d3d116a62ea7",
+			"_from": "output\\circular-json",
+			"_resolved": "file:output\\circular-json",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "64f495226e6e3488db048677da91d3d116a62ea7",
+				"size": 1071,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.22-alpha.tgz_1463771977697_0.3218956971541047"
+			},
+			"directories": {},
+			"publish_time": 1463771980086,
+			"_cnpm_publish_time": 1463771980086,
+			"_hasShrinkwrap": false
+		},
+		"0.1.17-alpha": {
+			"name": "@types/circular-json",
+			"version": "0.1.17-alpha",
+			"description": "Type definitions for circular-json v0.1.6 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jonathan Pevarnek",
+				"email": "https://github.com/jpevarnek/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/circular-json@0.1.17-alpha",
+			"_shasum": "79d35de5e7a643623563b669397569b6355fb8e7",
+			"_from": "output\\circular-json",
+			"_resolved": "file:output\\circular-json",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "79d35de5e7a643623563b669397569b6355fb8e7",
+				"size": 1077,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.17-alpha.tgz_1463689776066_0.9468872006982565"
+			},
+			"directories": {},
+			"publish_time": 1463689776855,
+			"_cnpm_publish_time": 1463689776855,
+			"_hasShrinkwrap": false
+		},
+		"0.1.16-alpha": {
+			"name": "@types/circular-json",
+			"version": "0.1.16-alpha",
+			"description": "Type definitions for circular-json v0.1.6 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jonathan Pevarnek",
+				"email": "https://github.com/jpevarnek/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/circular-json@0.1.16-alpha",
+			"_shasum": "1895e8d7830de07c601cd939ee348907a7582339",
+			"_from": "output\\circular-json",
+			"_resolved": "file:output\\circular-json",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1895e8d7830de07c601cd939ee348907a7582339",
+				"size": 1072,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/circular-json-0.1.16-alpha.tgz_1463459880127_0.9393902143929154"
+			},
+			"directories": {},
+			"publish_time": 1463459883966,
+			"_cnpm_publish_time": 1463459883966,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.4.0",
+		"ts2.0": "0.4.0",
+		"ts2.1": "0.4.0",
+		"ts2.2": "0.4.0",
+		"ts2.3": "0.4.0",
+		"ts2.4": "0.4.0",
+		"ts2.5": "0.4.0",
+		"ts2.6": "0.4.0",
+		"ts2.7": "0.4.0",
+		"ts2.8": "0.4.0",
+		"ts2.9": "0.4.0",
+		"ts3.0": "0.4.0",
+		"ts3.1": "0.4.0",
+		"ts3.2": "0.4.0"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:36.000Z",
+		"created": "2016-05-17T04:38:03.966Z",
+		"0.4.0": "2017-10-20T16:17:45.927Z",
+		"0.1.31": "2017-08-21T21:49:56.470Z",
+		"0.1.30": "2016-09-19T16:35:15.765Z",
+		"0.1.29": "2016-07-14T14:16:27.236Z",
+		"0.1.28-alpha": "2016-07-08T19:51:22.479Z",
+		"0.1.27-alpha": "2016-07-03T23:54:52.355Z",
+		"0.1.26-alpha": "2016-07-02T02:11:30.502Z",
+		"0.1.25-alpha": "2016-07-01T22:25:07.220Z",
+		"0.1.24-alpha": "2016-07-01T19:04:31.851Z",
+		"0.1.23-alpha": "2016-05-25T04:37:55.631Z",
+		"0.1.22-alpha": "2016-05-20T19:19:40.086Z",
+		"0.1.17-alpha": "2016-05-19T20:29:36.855Z",
+		"0.1.16-alpha": "2016-05-17T04:38:03.966Z"
+	},
+	"_distfiles": {
+		"circular-json-0.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.4.0.tgz",
+			"sha": "7401f7e218cfe87ad4c43690da5658b9acaf51be",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.31.tgz",
+			"sha": "f9f7be29a74ac5391f4de91375556515e3ba86c1",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.30.tgz",
+			"sha": "9dea3974ae28b9aa87fa2cf23106bcd0a3e9329e",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.29.tgz",
+			"sha": "061ccff856b03eb4e1e064b256cb18b30538e161",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.28-alpha.tgz",
+			"sha": "855b38e8a93721a39a8f9247dc6363738c4cb842",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.27-alpha.tgz",
+			"sha": "24ec6f207a4fbff95a45290290a56d24afcc9d76",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.26-alpha.tgz",
+			"sha": "b9c80d8ff3dd43820284d75d93de4811eeb8e57b",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.25-alpha.tgz",
+			"sha": "034b5c47edc205fa27ecf479cb276bd34fd21025",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.24-alpha.tgz",
+			"sha": "b5af5872059314c902ded8787eda2fa5c0aeefc7",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.23-alpha.tgz",
+			"sha": "efc82c6d3f00b13cbb07a0a91326b018c4d3d12b",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.22-alpha.tgz",
+			"sha": "64f495226e6e3488db048677da91d3d116a62ea7",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.17-alpha.tgz",
+			"sha": "79d35de5e7a643623563b669397569b6355fb8e7",
+			"registry": "cnpmjs"
+		},
+		"circular-json-0.1.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/circular-json/download/@types/circular-json-0.1.16-alpha.tgz",
+			"sha": "1895e8d7830de07c601cd939ee348907a7582339",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"4138-ZktmyKj+tsOLYiqowVtKGtlV2pk\"",
+			"fetched": 1541833453153
+		}
+	},
+	"_rev": "2-b846a75d7e313cd1",
+	"readme": "# Installation\r\n> `npm install --save @types/circular-json`\r\n\r\n# Summary\r\nThis package contains type definitions for circular-json (https://github.com/WebReflection/circular-json).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/circular-json\r\n\r\nAdditional Details\r\n * Last updated: Fri, 20 Oct 2017 16:16:56 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Jonathan Pevarnek <https://github.com/jpevarnek>."
+}

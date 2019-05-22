@@ -1,0 +1,84 @@
+{
+	"name": "@types/path-is-absolute",
+	"versions": {
+		"1.0.0": {
+			"name": "@types/path-is-absolute",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for path-is-absolute",
+			"license": "MIT",
+			"author": "Mohamed Hegazy <https://github.com/mhegazy>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "0165f2dd067d29766f802f07ca76555555aee613dd411f2cebba16527b92b6e5",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/path-is-absolute@1.0.0",
+			"dist": {
+				"shasum": "af642f74c8216113d17c30154b83153acb758257",
+				"size": 1008,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-is-absolute/download/@types/path-is-absolute-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/path-is-absolute-1.0.0.tgz_1483053131833_0.4095490735489875"
+			},
+			"directories": {},
+			"publish_time": 1483053132050,
+			"_cnpm_publish_time": 1483053132050,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0",
+		"ts2.0": "1.0.0",
+		"ts2.1": "1.0.0",
+		"ts2.2": "1.0.0",
+		"ts2.3": "1.0.0",
+		"ts2.4": "1.0.0",
+		"ts2.5": "1.0.0",
+		"ts2.6": "1.0.0",
+		"ts2.7": "1.0.0",
+		"ts2.8": "1.0.0",
+		"ts2.9": "1.0.0",
+		"ts3.0": "1.0.0",
+		"ts3.1": "1.0.0",
+		"ts3.2": "1.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:25:01.000Z",
+		"created": "2016-12-29T23:12:12.050Z",
+		"1.0.0": "2016-12-29T23:12:12.050Z"
+	},
+	"_distfiles": {
+		"path-is-absolute-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-is-absolute/download/@types/path-is-absolute-1.0.0.tgz",
+			"sha": "af642f74c8216113d17c30154b83153acb758257",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"9ba-QvmMRNYEvqQ/JTIGczxpKfuTOqU\"",
+			"fetched": 1541833486669
+		}
+	},
+	"_rev": "2-6589ea9d18b66345",
+	"readme": "# Installation\r\n> `npm install --save @types/path-is-absolute`\r\n\r\n# Summary\r\nThis package contains type definitions for path-is-absolute (https://github.com/sindresorhus/path-is-absolute#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/path-is-absolute\r\n\r\nAdditional Details\r\n * Last updated: Thu, 29 Dec 2016 23:09:21 GMT\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Mohamed Hegazy <https://github.com/mhegazy>."
+}

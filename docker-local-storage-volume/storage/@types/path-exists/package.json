@@ -1,0 +1,716 @@
+{
+	"name": "@types/path-exists",
+	"versions": {
+		"3.0.0": {
+			"name": "@types/path-exists",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for path-exists",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Shogo Iwano",
+					"url": "https://github.com/shiwano"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5a1d8b0782b27d396e0207f36d8b5746f3280e8e420cfd6daccabafc5954bc0e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/path-exists@3.0.0",
+			"dist": {
+				"shasum": "ba6b2b477fcf5cf7dc84ac3ba2bcdbcfe323f4fe",
+				"size": 1551,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/path-exists-3.0.0.tgz_1502287950551_0.29967513238079846"
+			},
+			"directories": {},
+			"publish_time": 1502287951463,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502287951463
+		},
+		"1.0.30": {
+			"name": "@types/path-exists",
+			"version": "1.0.30",
+			"description": "TypeScript definitions for path-exists",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Shogo Iwano",
+					"url": "https://github.com/shiwano"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b1edce77d51b6997d0e3e65016b762760b6616d888bd64ebb42e6fe273baef11",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/path-exists@1.0.30",
+			"dist": {
+				"shasum": "8f7afb81f5015b87cdcc433129e6344ad0981990",
+				"size": 1548,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/path-exists-1.0.30.tgz_1502287566514_0.00016219890676438808"
+			},
+			"directories": {},
+			"publish_time": 1502287566642,
+			"_cnpm_publish_time": 1502287566642,
+			"_hasShrinkwrap": false
+		},
+		"1.0.29": {
+			"name": "@types/path-exists",
+			"version": "1.0.29",
+			"description": "TypeScript definitions for path-exists 1.0.0",
+			"license": "MIT",
+			"author": "Shogo Iwano <https://github.com/shiwano>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "40ea616ef7c0e9511bf4427ce630a6c531a63c91c5c3b62a0683a7287b03ac41",
+			"_id": "@types/path-exists@1.0.29",
+			"dist": {
+				"shasum": "4b5c625d4aa77f28bc756633e0232bb21b7eb6b9",
+				"size": 1061,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.29.tgz_1474308076659_0.6097300169058144"
+			},
+			"directories": {},
+			"publish_time": 1474308079696,
+			"_cnpm_publish_time": 1474308079696,
+			"_hasShrinkwrap": false
+		},
+		"1.0.28": {
+			"name": "@types/path-exists",
+			"version": "1.0.28",
+			"description": "TypeScript definitions for path-exists 1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Shogo Iwano",
+				"email": "https://github.com/shiwano"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/path-exists@1.0.28",
+			"_shasum": "242c9f4a418eb62e70103abb5805c31f4a0a2b45",
+			"_from": "output\\path-exists",
+			"_resolved": "file:output\\path-exists",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "242c9f4a418eb62e70103abb5805c31f4a0a2b45",
+				"size": 1032,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.28.tgz_1468510861649_0.2975240482483059"
+			},
+			"directories": {},
+			"publish_time": 1468510863839,
+			"_cnpm_publish_time": 1468510863839,
+			"_hasShrinkwrap": false
+		},
+		"1.0.27-alpha": {
+			"name": "@types/path-exists",
+			"version": "1.0.27-alpha",
+			"description": "TypeScript definitions for path-exists 1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Shogo Iwano",
+				"email": "https://github.com/shiwano"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/path-exists@1.0.27-alpha",
+			"_shasum": "4a39b36afa2831c9eb69db528489ff063ba3d254",
+			"_from": "output\\path-exists",
+			"_resolved": "file:output\\path-exists",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4a39b36afa2831c9eb69db528489ff063ba3d254",
+				"size": 1040,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.27-alpha.tgz_1468012179730_0.1752482671290636"
+			},
+			"directories": {},
+			"publish_time": 1468012182500,
+			"_cnpm_publish_time": 1468012182500,
+			"_hasShrinkwrap": false
+		},
+		"1.0.26-alpha": {
+			"name": "@types/path-exists",
+			"version": "1.0.26-alpha",
+			"description": "TypeScript definitions for path-exists 1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Shogo Iwano",
+				"email": "https://github.com/shiwano"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/path-exists@1.0.26-alpha",
+			"_shasum": "b59f3468ae4ebe387f4ff165a1d1955f74fec9bd",
+			"_from": "output\\path-exists",
+			"_resolved": "file:output\\path-exists",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b59f3468ae4ebe387f4ff165a1d1955f74fec9bd",
+				"size": 1039,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.26-alpha.tgz_1467594383004_0.28602748247794807"
+			},
+			"directories": {},
+			"publish_time": 1467594386239,
+			"_cnpm_publish_time": 1467594386239,
+			"_hasShrinkwrap": false
+		},
+		"1.0.25-alpha": {
+			"name": "@types/path-exists",
+			"version": "1.0.25-alpha",
+			"description": "TypeScript definitions for path-exists 1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Shogo Iwano",
+				"email": "https://github.com/shiwano"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/path-exists@1.0.25-alpha",
+			"_shasum": "c411721d0b4b28c63a2aad951b6c62650f724d01",
+			"_from": "output\\path-exists",
+			"_resolved": "file:output\\path-exists",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c411721d0b4b28c63a2aad951b6c62650f724d01",
+				"size": 1043,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.25-alpha.tgz_1467429077800_0.31855592248030007"
+			},
+			"directories": {},
+			"publish_time": 1467429078335,
+			"_cnpm_publish_time": 1467429078335,
+			"_hasShrinkwrap": false
+		},
+		"1.0.24-alpha": {
+			"name": "@types/path-exists",
+			"version": "1.0.24-alpha",
+			"description": "TypeScript definitions for path-exists 1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Shogo Iwano",
+				"email": "https://github.com/shiwano"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/path-exists@1.0.24-alpha",
+			"_shasum": "1a4c72f121f2325d23a42350cf532dfce1032dff",
+			"_from": "output\\path-exists",
+			"_resolved": "file:output\\path-exists",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1a4c72f121f2325d23a42350cf532dfce1032dff",
+				"size": 1039,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.24-alpha.tgz_1467416687381_0.42851970507763326"
+			},
+			"directories": {},
+			"publish_time": 1467416687946,
+			"_cnpm_publish_time": 1467416687946,
+			"_hasShrinkwrap": false
+		},
+		"1.0.23-alpha": {
+			"name": "@types/path-exists",
+			"version": "1.0.23-alpha",
+			"description": "TypeScript definitions for path-exists 1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Shogo Iwano",
+				"email": "https://github.com/shiwano"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/path-exists@1.0.23-alpha",
+			"_shasum": "202eb6d67ade18ab994d28ed8ba882924ed70fc0",
+			"_from": "output\\path-exists",
+			"_resolved": "file:output\\path-exists",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "202eb6d67ade18ab994d28ed8ba882924ed70fc0",
+				"size": 1034,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.23-alpha.tgz_1467404308782_0.6766830612905324"
+			},
+			"directories": {},
+			"publish_time": 1467404310837,
+			"_cnpm_publish_time": 1467404310837,
+			"_hasShrinkwrap": false
+		},
+		"1.0.22-alpha": {
+			"name": "@types/path-exists",
+			"version": "1.0.22-alpha",
+			"description": "TypeScript definitions for path-exists 1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Shogo Iwano",
+				"email": "https://github.com/shiwano"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/path-exists@1.0.22-alpha",
+			"_shasum": "98660078effbb2b1381088a259f595c7a9d31950",
+			"_from": "output\\path-exists",
+			"_resolved": "file:output\\path-exists",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "98660078effbb2b1381088a259f595c7a9d31950",
+				"size": 1008,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.22-alpha.tgz_1464154791891_0.8200090748723596"
+			},
+			"directories": {},
+			"publish_time": 1464154794298,
+			"_cnpm_publish_time": 1464154794298,
+			"_hasShrinkwrap": false
+		},
+		"1.0.21-alpha": {
+			"name": "@types/path-exists",
+			"version": "1.0.21-alpha",
+			"description": "TypeScript definitions for path-exists 1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Shogo Iwano",
+				"email": "https://github.com/shiwano"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/path-exists@1.0.21-alpha",
+			"_shasum": "f808c21a683c732780ce8f07f9aa29876094df46",
+			"_from": "output\\path-exists",
+			"_resolved": "file:output\\path-exists",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f808c21a683c732780ce8f07f9aa29876094df46",
+				"size": 1004,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.21-alpha.tgz_1463775807375_0.9596799528226256"
+			},
+			"directories": {},
+			"publish_time": 1463775809714,
+			"_cnpm_publish_time": 1463775809714,
+			"_hasShrinkwrap": false
+		},
+		"1.0.16-alpha": {
+			"name": "@types/path-exists",
+			"version": "1.0.16-alpha",
+			"description": "Type definitions for path-exists 1.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Shogo Iwano",
+				"email": "https://github.com/shiwano"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/path-exists@1.0.16-alpha",
+			"_shasum": "34f0a01bb70a5e2ccb562d73424af416ea53ca9c",
+			"_from": "output\\path-exists",
+			"_resolved": "file:output\\path-exists",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "34f0a01bb70a5e2ccb562d73424af416ea53ca9c",
+				"size": 1017,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.16-alpha.tgz_1463695113771_0.2699548932723701"
+			},
+			"directories": {},
+			"publish_time": 1463695114591,
+			"_cnpm_publish_time": 1463695114591,
+			"_hasShrinkwrap": false
+		},
+		"1.0.15-alpha": {
+			"name": "@types/path-exists",
+			"version": "1.0.15-alpha",
+			"description": "Type definitions for path-exists 1.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Shogo Iwano",
+				"email": "https://github.com/shiwano"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/path-exists@1.0.15-alpha",
+			"_shasum": "91b30638cc4889442bdf7c18b349be4459544a3e",
+			"_from": "output\\path-exists",
+			"_resolved": "file:output\\path-exists",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "91b30638cc4889442bdf7c18b349be4459544a3e",
+				"size": 1011,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/path-exists-1.0.15-alpha.tgz_1463510094974_0.12390271434560418"
+			},
+			"directories": {},
+			"publish_time": 1463510095523,
+			"_cnpm_publish_time": 1463510095523,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.0",
+		"ts2.0": "3.0.0",
+		"ts2.1": "3.0.0",
+		"ts2.2": "3.0.0",
+		"ts2.3": "3.0.0",
+		"ts2.4": "3.0.0",
+		"ts2.5": "3.0.0",
+		"ts2.6": "3.0.0",
+		"ts2.7": "3.0.0",
+		"ts2.8": "3.0.0",
+		"ts2.9": "3.0.0",
+		"ts3.0": "3.0.0",
+		"ts3.1": "3.0.0",
+		"ts3.2": "3.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:25:01.000Z",
+		"created": "2016-05-17T18:34:55.523Z",
+		"3.0.0": "2017-08-09T14:12:31.463Z",
+		"1.0.30": "2017-08-09T14:06:06.642Z",
+		"1.0.29": "2016-09-19T18:01:19.696Z",
+		"1.0.28": "2016-07-14T15:41:03.839Z",
+		"1.0.27-alpha": "2016-07-08T21:09:42.500Z",
+		"1.0.26-alpha": "2016-07-04T01:06:26.239Z",
+		"1.0.25-alpha": "2016-07-02T03:11:18.335Z",
+		"1.0.24-alpha": "2016-07-01T23:44:47.946Z",
+		"1.0.23-alpha": "2016-07-01T20:18:30.837Z",
+		"1.0.22-alpha": "2016-05-25T05:39:54.298Z",
+		"1.0.21-alpha": "2016-05-20T20:23:29.714Z",
+		"1.0.16-alpha": "2016-05-19T21:58:34.591Z",
+		"1.0.15-alpha": "2016-05-17T18:34:55.523Z"
+	},
+	"_distfiles": {
+		"path-exists-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-3.0.0.tgz",
+			"sha": "ba6b2b477fcf5cf7dc84ac3ba2bcdbcfe323f4fe",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.30.tgz",
+			"sha": "8f7afb81f5015b87cdcc433129e6344ad0981990",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.29.tgz",
+			"sha": "4b5c625d4aa77f28bc756633e0232bb21b7eb6b9",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.28.tgz",
+			"sha": "242c9f4a418eb62e70103abb5805c31f4a0a2b45",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.27-alpha.tgz",
+			"sha": "4a39b36afa2831c9eb69db528489ff063ba3d254",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.26-alpha.tgz",
+			"sha": "b59f3468ae4ebe387f4ff165a1d1955f74fec9bd",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.25-alpha.tgz",
+			"sha": "c411721d0b4b28c63a2aad951b6c62650f724d01",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.24-alpha.tgz",
+			"sha": "1a4c72f121f2325d23a42350cf532dfce1032dff",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.23-alpha.tgz",
+			"sha": "202eb6d67ade18ab994d28ed8ba882924ed70fc0",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.22-alpha.tgz",
+			"sha": "98660078effbb2b1381088a259f595c7a9d31950",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.21-alpha.tgz",
+			"sha": "f808c21a683c732780ce8f07f9aa29876094df46",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.16-alpha.tgz",
+			"sha": "34f0a01bb70a5e2ccb562d73424af416ea53ca9c",
+			"registry": "cnpmjs"
+		},
+		"path-exists-1.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/path-exists/download/@types/path-exists-1.0.15-alpha.tgz",
+			"sha": "91b30638cc4889442bdf7c18b349be4459544a3e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833486667
+		}
+	},
+	"_rev": "2-ff1bab61d9bbd94e",
+	"readme": "# Installation\r\n> `npm install --save @types/path-exists`\r\n\r\n# Summary\r\nThis package contains type definitions for path-exists (https://github.com/sindresorhus/path-exists).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/path-exists\r\n\r\nAdditional Details\r\n * Last updated: Wed, 09 Aug 2017 14:12:23 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Shogo Iwano <https://github.com/shiwano>, BendingBender <https://github.com/BendingBender>."
+}

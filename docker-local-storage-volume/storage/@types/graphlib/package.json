@@ -1,0 +1,236 @@
+{
+	"name": "@types/graphlib",
+	"versions": {
+		"2.1.4": {
+			"name": "@types/graphlib",
+			"version": "2.1.4",
+			"description": "TypeScript definitions for graphlib",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dan Vanderkam",
+					"url": "http://danvk.org/"
+				},
+				{
+					"name": "Dan Mironenko",
+					"url": "wolfson@bracketedrebels.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2d78ce72da272c8124dc789e1fb972f14327d76a64db56ee1cdc72188f2149dd",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/graphlib@2.1.4",
+			"dist": {
+				"shasum": "1b517f4111e07766555cf1bd9304bec9053b0240",
+				"size": 5283,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/graphlib/download/@types/graphlib-2.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/graphlib-2.1.4.tgz_1491604046188_0.6399234482087195"
+			},
+			"directories": {},
+			"publish_time": 1491604048253,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1491604048253
+		},
+		"2.1.3": {
+			"name": "@types/graphlib",
+			"version": "2.1.3",
+			"description": "TypeScript definitions for graphlib",
+			"license": "MIT",
+			"author": "Dan Vanderkam <http://danvk.org/>, Dan Mironenko <wolfson@bracketedrebels.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e6de71059beeb001b8e88e6ca460a386b445159645d52151ae3640cf86907d41",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/graphlib@2.1.3",
+			"dist": {
+				"shasum": "81df4b1d757b8f25b18f20ea7717869cb32fa117",
+				"size": 5422,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/graphlib/download/@types/graphlib-2.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/graphlib-2.1.3.tgz_1484860717995_0.12177176424302161"
+			},
+			"directories": {},
+			"publish_time": 1484860719884,
+			"_cnpm_publish_time": 1484860719884,
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "@types/graphlib",
+			"version": "2.1.2",
+			"description": "TypeScript definitions for graphlib 2.1.1",
+			"license": "MIT",
+			"author": "Dan Vanderkam <http://danvk.org/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "fa4a837818223eccb57a90843a6f37d81a0baf8fb9e42d5724802eb81a76433a",
+			"_id": "@types/graphlib@2.1.2",
+			"dist": {
+				"shasum": "eaf5bdaa7e5c5c1c1ab24c5842af5cc2faa981ea",
+				"size": 3933,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/graphlib/download/@types/graphlib-2.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/graphlib-2.1.2.tgz_1475701027278_0.5252704070881009"
+			},
+			"directories": {},
+			"publish_time": 1475701027502,
+			"_cnpm_publish_time": 1475701027502,
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "@types/graphlib",
+			"version": "2.1.1",
+			"description": "TypeScript definitions for graphlib 2.1.1",
+			"license": "MIT",
+			"author": "Dan Vanderkam <http://danvk.org/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "graphlib.d.ts",
+			"typesPublisherContentHash": "88825779e8feaebb0dee71b2b33fc94a523361461006f3c1182306111ad56773",
+			"_id": "@types/graphlib@2.1.1",
+			"dist": {
+				"shasum": "8149d8e6d3f875e0adb43df5c92d32b9955e790c",
+				"size": 3921,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/graphlib/download/@types/graphlib-2.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/graphlib-2.1.1.tgz_1474306503355_0.5703607888426632"
+			},
+			"directories": {},
+			"publish_time": 1474306503609,
+			"_cnpm_publish_time": 1474306503609,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.1.4",
+		"ts2.0": "2.1.4",
+		"ts2.1": "2.1.4",
+		"ts2.2": "2.1.4",
+		"ts2.3": "2.1.4",
+		"ts2.4": "2.1.4",
+		"ts2.5": "2.1.4",
+		"ts2.6": "2.1.4",
+		"ts2.7": "2.1.4",
+		"ts2.8": "2.1.4",
+		"ts2.9": "2.1.4",
+		"ts3.0": "2.1.4",
+		"ts3.1": "2.1.4",
+		"ts3.2": "2.1.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:12:51.000Z",
+		"created": "2016-09-19T17:35:03.609Z",
+		"2.1.4": "2017-04-07T22:27:28.253Z",
+		"2.1.3": "2017-01-19T21:18:39.884Z",
+		"2.1.2": "2016-10-05T20:57:07.502Z",
+		"2.1.1": "2016-09-19T17:35:03.609Z"
+	},
+	"_distfiles": {
+		"graphlib-2.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/graphlib/download/@types/graphlib-2.1.4.tgz",
+			"sha": "1b517f4111e07766555cf1bd9304bec9053b0240",
+			"registry": "cnpmjs"
+		},
+		"graphlib-2.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/graphlib/download/@types/graphlib-2.1.3.tgz",
+			"sha": "81df4b1d757b8f25b18f20ea7717869cb32fa117",
+			"registry": "cnpmjs"
+		},
+		"graphlib-2.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/graphlib/download/@types/graphlib-2.1.2.tgz",
+			"sha": "eaf5bdaa7e5c5c1c1ab24c5842af5cc2faa981ea",
+			"registry": "cnpmjs"
+		},
+		"graphlib-2.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/graphlib/download/@types/graphlib-2.1.1.tgz",
+			"sha": "8149d8e6d3f875e0adb43df5c92d32b9955e790c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1612-BtUTsZuucuAi1S4ah/F+V+Vnhe4\"",
+			"fetched": 1541833456009
+		}
+	},
+	"_rev": "1-b4c3d253c1dc2dff",
+	"readme": "# Installation\r\n> `npm install --save @types/graphlib`\r\n\r\n# Summary\r\nThis package contains type definitions for graphlib (https://github.com/cpettitt/graphlib).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/graphlib\r\n\r\nAdditional Details\r\n * Last updated: Fri, 07 Apr 2017 22:26:35 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Dan Vanderkam <http://danvk.org/>, Dan Mironenko <wolfson@bracketedrebels.com>."
+}

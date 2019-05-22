@@ -1,0 +1,3237 @@
+{
+	"name": "@types/sinon",
+	"versions": {
+		"5.0.1": {
+			"name": "@types/sinon",
+			"version": "5.0.1",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b9bef08824d1ac8a4788fa5585326fc1e180f6385cb62e31c7dd76e683d159e2",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/sinon@5.0.1",
+			"dist": {
+				"shasum": "a15b36ec42f1f53166617491feabd1734cb03e21",
+				"size": 5537,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_5.0.1_1527644574540_0.0738416614272317"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527644574627,
+			"_cnpm_publish_time": 1527644574627
+		},
+		"5.0.0": {
+			"name": "@types/sinon",
+			"version": "5.0.0",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "6f7452ca688018dda9f23057ba059aa3e40ed23c996520cbc55cd8e5a8fadfb5",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/sinon@5.0.0",
+			"dist": {
+				"shasum": "e5d49a422f64b2c658bbeb8529679c9a6a0b5a3a",
+				"size": 5536,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_5.0.0_1527182196898_0.6834045112018894"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527182196959,
+			"_cnpm_publish_time": 1527182196959
+		},
+		"4.3.3": {
+			"name": "@types/sinon",
+			"version": "4.3.3",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b67d8134cedc1738e4956a350bf61589807cfb97d3e393e3ee7c0c0682292942",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@4.3.3",
+			"dist": {
+				"shasum": "97cbbfddc3282b5fd40c7abf80b99db426fd4237",
+				"size": 5335,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.3.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_4.3.3_1525985984083_0.8013994801041215"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525985984170,
+			"_cnpm_publish_time": 1525985984170
+		},
+		"4.3.2": {
+			"name": "@types/sinon",
+			"version": "4.3.2",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "5b0ae56875f61554f7c4ff7eca073f87b1c10d9346cc0285a3a6a514463e3560",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/sinon@4.3.2",
+			"dist": {
+				"shasum": "678d5de09913969da895169204e9e455476c9527",
+				"size": 5426,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_4.3.2_1525899444635_0.61429595131906"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525899444723,
+			"_cnpm_publish_time": 1525899444723
+		},
+		"4.3.1": {
+			"name": "@types/sinon",
+			"version": "4.3.1",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b67d8134cedc1738e4956a350bf61589807cfb97d3e393e3ee7c0c0682292942",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@4.3.1",
+			"dist": {
+				"shasum": "32458f9b166cd44c23844eee4937814276f35199",
+				"size": 5355,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_4.3.1_1522874982196_0.7569024482331907"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522874982248,
+			"_cnpm_publish_time": 1522874982248
+		},
+		"4.3.0": {
+			"name": "@types/sinon",
+			"version": "4.3.0",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b7ed13f77cb43e1c4b3b9779ce65e66adeabca420beedb00a1256d2e87b58909",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@4.3.0",
+			"dist": {
+				"shasum": "7f53915994a00ccea24f4e0c24709822ed11a3b1",
+				"size": 5303,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_4.3.0_1519860224520_0.5039093776122574"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1519860224571,
+			"_cnpm_publish_time": 1519860224571
+		},
+		"4.1.4": {
+			"name": "@types/sinon",
+			"version": "4.1.4",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "bbae50eee7ad3010c0ffea201901e9c2cda19f369c9ab142d8268cced5a28718",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@4.1.4",
+			"dist": {
+				"shasum": "2e334094d680d488c073524938bf734f2639a378",
+				"size": 5293,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_4.1.4_1519685561903_0.2938652179223864"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1519685562737,
+			"_cnpm_publish_time": 1519685562737
+		},
+		"4.1.3": {
+			"name": "@types/sinon",
+			"version": "4.1.3",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7841666db40b2736ddb0111473f6b4c6792a2a6ca2bc73813a45f8da8767c09b",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@4.1.3",
+			"dist": {
+				"shasum": "2ee25e0e302f31e78a945650a60029e08878eaf8",
+				"size": 5271,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-4.1.3.tgz_1515708503471_0.6303264871239662"
+			},
+			"directories": {},
+			"publish_time": 1515708503540,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515708503540
+		},
+		"4.1.2": {
+			"name": "@types/sinon",
+			"version": "4.1.2",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "3c8b3f7de2e56f28278c5d0f00adc0617d2badab167a8c296316758eb3ee6b1d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@4.1.2",
+			"dist": {
+				"shasum": "9085db9cc3288b0f12daceee20a26c4afd9c2dcd",
+				"size": 5242,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-4.1.2.tgz_1513098904935_0.7843102312181145"
+			},
+			"directories": {},
+			"publish_time": 1513098905059,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513098905059
+		},
+		"4.1.1": {
+			"name": "@types/sinon",
+			"version": "4.1.1",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "1fc55d9dc3044c552abd2ff4c98e50d19e4e7fd9766bd2766303097c706b59e8",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@4.1.1",
+			"dist": {
+				"shasum": "1adf3c8a9359bfa1750a4152cb538cfae4748118",
+				"size": 5135,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-4.1.1.tgz_1513035283515_0.6727251240517944"
+			},
+			"directories": {},
+			"publish_time": 1513035283665,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513035283665
+		},
+		"4.1.0": {
+			"name": "@types/sinon",
+			"version": "4.1.0",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "99f5e7ca7fc5166339a9701e775d1e3bddef23cb0a316e77822e8f04eaf8a25e",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@4.1.0",
+			"dist": {
+				"shasum": "cdfb934d656b2c888e51f53e95900c7bbca11c08",
+				"size": 5119,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-4.1.0.tgz_1512591059129_0.4061508511658758"
+			},
+			"directories": {},
+			"publish_time": 1512591059226,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1512591059226
+		},
+		"4.0.0": {
+			"name": "@types/sinon",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "2287c7d6c482399af04e129fb8aa06091d8eec379a1664582f0a51d7a8eb8fe8",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@4.0.0",
+			"dist": {
+				"shasum": "9a93ffa4ee1329e85166278a5ed99f81dc4c8362",
+				"size": 5134,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-4.0.0.tgz_1510617042135_0.2730438821017742"
+			},
+			"directories": {},
+			"publish_time": 1510617042266,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510617042266
+		},
+		"2.3.7": {
+			"name": "@types/sinon",
+			"version": "2.3.7",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "15a1f7644f96657a06009479bef47d6aa7bd18c9ea9343aaff830a7254837cc3",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@2.3.7",
+			"dist": {
+				"shasum": "e92c2fed3297eae078d78d1da032b26788b4af86",
+				"size": 5106,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-2.3.7.tgz_1508948711655_0.25972418673336506"
+			},
+			"directories": {},
+			"publish_time": 1508948711761,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508948711761
+		},
+		"2.3.6": {
+			"name": "@types/sinon",
+			"version": "2.3.6",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "c014e23bbd2c06de662833ad9e777e15af06bb013b1098bf585d739fdf7beb67",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@2.3.6",
+			"dist": {
+				"shasum": "ff600951c756286e38ce14d0b0e2924e38a91006",
+				"size": 5099,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-2.3.6.tgz_1507666216705_0.7535984294954687"
+			},
+			"directories": {},
+			"publish_time": 1507666216846,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507666216846
+		},
+		"2.3.5": {
+			"name": "@types/sinon",
+			"version": "2.3.5",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "f378bc1ed5c019baf17985f8bf4c1b2745a45a411357f214ea2204615ef08cba",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@2.3.5",
+			"dist": {
+				"shasum": "68f1e0ac15f2eb6cc682b7af87cd517acc77b589",
+				"size": 5069,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-2.3.5.tgz_1505844946998_0.1798541306052357"
+			},
+			"directories": {},
+			"publish_time": 1505844947144,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505844947144
+		},
+		"2.3.4": {
+			"name": "@types/sinon",
+			"version": "2.3.4",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "c16d3fa4643db7361db087c266a0fdc89ccef266d1a41d40ee916b40dda7beb7",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@2.3.4",
+			"dist": {
+				"shasum": "2b3aa82dfc791eeff1d970b657a77eafff2899ff",
+				"size": 5034,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-2.3.4.tgz_1505177124558_0.7407126550097018"
+			},
+			"directories": {},
+			"publish_time": 1505177124634,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505177124634
+		},
+		"2.3.3": {
+			"name": "@types/sinon",
+			"version": "2.3.3",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7f81c70d880072cdcf3865d05e66b22421df4318a9382c409ddc7108f399e934",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@2.3.3",
+			"dist": {
+				"shasum": "1f20b96f954b4997a09c1c0a20264aaba6b00147",
+				"size": 5010,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-2.3.3.tgz_1500406037422_0.636677130125463"
+			},
+			"directories": {},
+			"publish_time": 1500406037514,
+			"_cnpm_publish_time": 1500406037514,
+			"_hasShrinkwrap": false
+		},
+		"2.3.2": {
+			"name": "@types/sinon",
+			"version": "2.3.2",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c0cd4da96cfb229169887f3f164632aacf6acff6f14942a943099458029fc6cc",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@2.3.2",
+			"dist": {
+				"shasum": "1e1e99e67162d78e2db17816892bf93bf5209885",
+				"size": 4993,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-2.3.2.tgz_1498511340834_0.5076179672032595"
+			},
+			"directories": {},
+			"publish_time": 1498511340909,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498511340909
+		},
+		"2.3.1": {
+			"name": "@types/sinon",
+			"version": "2.3.1",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5aaa05a2bef009d62872edde40c39196b919b83b9b974729a9692d070ab6aac5",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/sinon@2.3.1",
+			"dist": {
+				"shasum": "5e214093e9e2345219ab0f31bf310c9790ad0712",
+				"size": 4979,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-2.3.1.tgz_1496692766382_0.8616802492178977"
+			},
+			"directories": {},
+			"publish_time": 1496692766461,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496692766461
+		},
+		"2.3.0": {
+			"name": "@types/sinon",
+			"version": "2.3.0",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bd5feb237fa036100d90f1b939d270f31d9a3d79c41f94e246323cbe341ba7e1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@2.3.0",
+			"dist": {
+				"shasum": "2cd3a0d53991d7a7b2a9179633c2a73795d853b6",
+				"size": 4695,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon-2.3.0.tgz_1496423227445_0.09128573490306735"
+			},
+			"directories": {},
+			"publish_time": 1496423228356,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496423228356
+		},
+		"2.2.2": {
+			"name": "@types/sinon",
+			"version": "2.2.2",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d49fe374bb84617dd440199f0a9290bbfcfeae020346443d65d757fc83e61b87",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@2.2.2",
+			"dist": {
+				"shasum": "a80da4868ba08accacbce4d37276f35e1ba0a52f",
+				"size": 4597,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sinon-2.2.2.tgz_1494967558578_0.22312775370664895"
+			},
+			"directories": {},
+			"publish_time": 1494967559175,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1494967559175
+		},
+		"2.2.1": {
+			"name": "@types/sinon",
+			"version": "2.2.1",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.con/lumaxis"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "883db8f7f2661f08a629e547041f72077a350dd28f24e0b090feea964d420618",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@2.2.1",
+			"dist": {
+				"shasum": "93d8e623c3fafc08d5cddb990c4f14e8040cbbc9",
+				"size": 4337,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-2.2.1.tgz_1493917553890_0.08847725577652454"
+			},
+			"directories": {},
+			"publish_time": 1493917557236,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493917557236
+		},
+		"2.2.0": {
+			"name": "@types/sinon",
+			"version": "2.2.0",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.con/lumaxis"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a2da26f24c9340402847ea5bee7599725f4acda590e9c1c5ceb48f9c958652eb",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@2.2.0",
+			"dist": {
+				"shasum": "de795c98cf1c1b6b84d0e9aaaabaebbc18e00ecf",
+				"size": 4336,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sinon-2.2.0.tgz_1493838710277_0.21934663434512913"
+			},
+			"directories": {},
+			"publish_time": 1493838710528,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493838710528
+		},
+		"2.1.3": {
+			"name": "@types/sinon",
+			"version": "2.1.3",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "69c1a21329670219294ed3d39e3b635b97e091c115f2fa7dfca65a846e6fdf04",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@2.1.3",
+			"dist": {
+				"shasum": "90e7b02348455e0d5781d1467a8a61b9bd91a468",
+				"size": 4209,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-2.1.3.tgz_1493047058835_0.15023716911673546"
+			},
+			"directories": {},
+			"publish_time": 1493047060697,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493047060697
+		},
+		"2.1.2": {
+			"name": "@types/sinon",
+			"version": "2.1.2",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3c8a609b968d875d72b1fa71b2a7e3230b8d8b68e5e417adb3405f7ced706628",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@2.1.2",
+			"dist": {
+				"shasum": "88dbbd29910c4fd1b5fbd3c733a723f277eab583",
+				"size": 3509,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sinon-2.1.2.tgz_1491326584055_0.24403039598837495"
+			},
+			"directories": {},
+			"publish_time": 1491326584324,
+			"_cnpm_publish_time": 1491326584324,
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "@types/sinon",
+			"version": "2.1.1",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "44f1be92872ff54e1a5efb696b694f5223212fd57e8f7f7467bf3d08b1b6b19b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@2.1.1",
+			"dist": {
+				"shasum": "becda9bbc3443acf3f9e0d031c0b8e0711e9dfe3",
+				"size": 3500,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-2.1.1.tgz_1490980249027_0.40173285524360836"
+			},
+			"directories": {},
+			"publish_time": 1490980250905,
+			"_cnpm_publish_time": 1490980250905,
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "@types/sinon",
+			"version": "2.1.0",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d1a0299bfaab54ee3cad70e4e64bb180260214b19a838344295f527a46f7e9a2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@2.1.0",
+			"dist": {
+				"shasum": "b9a9b8f34c6c5ec8e3f57c6a8ea71b6d69c69df5",
+				"size": 3477,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-2.1.0.tgz_1490812381824_0.20412278710864484"
+			},
+			"directories": {},
+			"publish_time": 1490812383521,
+			"_cnpm_publish_time": 1490812383521,
+			"_hasShrinkwrap": false
+		},
+		"1.16.36": {
+			"name": "@types/sinon",
+			"version": "1.16.36",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d363ab97c35c6b4fab23ba5212f5e9a59207d9f4794290967ebb909df98add54",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@1.16.36",
+			"dist": {
+				"shasum": "74bb6ed7928597c1b3fb1b009005e94dc6eae357",
+				"size": 3449,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.36.tgz_1490045693116_0.709432797273621"
+			},
+			"directories": {},
+			"publish_time": 1490045693354,
+			"_cnpm_publish_time": 1490045693354,
+			"_hasShrinkwrap": false
+		},
+		"1.16.35": {
+			"name": "@types/sinon",
+			"version": "1.16.35",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"author": "William Sears <https://github.com/mrbigdog2u>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2535c12b0e6d1f3a7c91dd921aa5e181e295fc49aafb2d591f3acaea13f940f8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@1.16.35",
+			"dist": {
+				"shasum": "ee687cc42d1a79448256f1c012a33a0840e85c5c",
+				"size": 3616,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.35.tgz_1486589488847_0.8375182410236448"
+			},
+			"directories": {},
+			"publish_time": 1486589490611,
+			"_cnpm_publish_time": 1486589490611,
+			"_hasShrinkwrap": false
+		},
+		"1.16.34": {
+			"name": "@types/sinon",
+			"version": "1.16.34",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"author": "William Sears <https://github.com/mrbigdog2u>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "acc72ff6ff596d2f5dd1aa0dc77e7f20b5b68fa4fa70c6b5feeac9c8113feb8f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sinon@1.16.34",
+			"dist": {
+				"shasum": "a9761fff33d0f7b3fe61875b577778a2576a9a03",
+				"size": 3592,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.34.tgz_1483119857415_0.1843766886740923"
+			},
+			"directories": {},
+			"publish_time": 1483119857641,
+			"_cnpm_publish_time": 1483119857641,
+			"_hasShrinkwrap": false
+		},
+		"1.16.33": {
+			"name": "@types/sinon",
+			"version": "1.16.33",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"author": "William Sears <https://github.com/mrbigdog2u>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "295f744c5dfc004824fdaa92d9595c0b8aad134676af999565ebda301e1c29aa",
+			"_id": "@types/sinon@1.16.33",
+			"dist": {
+				"shasum": "28e022572f6fb8edd60b3ae0e0955181dc3250e5",
+				"size": 3573,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.33.tgz_1481583096474_0.6868657458107919"
+			},
+			"directories": {},
+			"publish_time": 1481583098462,
+			"_cnpm_publish_time": 1481583098462,
+			"_hasShrinkwrap": false
+		},
+		"1.16.32": {
+			"name": "@types/sinon",
+			"version": "1.16.32",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"license": "MIT",
+			"author": "William Sears <https://github.com/mrbigdog2u>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "92d9254b9c9ac10bb2321301a4d7ee1a2d3e34d1b85c1a320e69d84242f31936",
+			"_id": "@types/sinon@1.16.32",
+			"dist": {
+				"shasum": "b3246844902d7cb33f376b369b176a65a144af7e",
+				"size": 3639,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.32.tgz_1479319320368_0.38659756863489747"
+			},
+			"directories": {},
+			"publish_time": 1479319320593,
+			"_cnpm_publish_time": 1479319320593,
+			"_hasShrinkwrap": false
+		},
+		"1.16.31": {
+			"name": "@types/sinon",
+			"version": "1.16.31",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"license": "MIT",
+			"author": "William Sears <https://github.com/mrbigdog2u>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "f24d5ee2839287861383b42207376074cb5fe6f140f49b01e065c6e3a084c8db",
+			"_id": "@types/sinon@1.16.31",
+			"dist": {
+				"shasum": "421deb2160e732171fc9ff558892ac15cb0fdef3",
+				"size": 3629,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.31.tgz_1474846539813_0.40559474448673427"
+			},
+			"directories": {},
+			"publish_time": 1474846542298,
+			"_cnpm_publish_time": 1474846542298,
+			"_hasShrinkwrap": false
+		},
+		"1.16.30": {
+			"name": "@types/sinon",
+			"version": "1.16.30",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"license": "MIT",
+			"author": "William Sears <https://github.com/mrbigdog2u>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b43556cca28d407c0679f1a0357680fe7155a8c89e4cae31ac8f36495fec869e",
+			"_id": "@types/sinon@1.16.30",
+			"dist": {
+				"shasum": "7ff06fa21fd81de7b51173ddadb9141cc925b54c",
+				"size": 3491,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.30.tgz_1474308718307_0.5561319838743657"
+			},
+			"directories": {},
+			"publish_time": 1474308721389,
+			"_cnpm_publish_time": 1474308721389,
+			"_hasShrinkwrap": false
+		},
+		"1.16.29": {
+			"name": "@types/sinon",
+			"version": "1.16.29",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"license": "MIT",
+			"author": "William Sears <https://github.com/mrbigdog2u>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/sinon@1.16.29",
+			"dist": {
+				"shasum": "3fca5dc916a3fa4f7efe8e51557fa2c31dde1454",
+				"size": 3486,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.29.tgz_1472151606731_0.48764760908670723"
+			},
+			"directories": {},
+			"publish_time": 1472151606956,
+			"_cnpm_publish_time": 1472151606956,
+			"_hasShrinkwrap": false
+		},
+		"1.16.28": {
+			"name": "@types/sinon",
+			"version": "1.16.28",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"license": "MIT",
+			"author": "William Sears <https://github.com/mrbigdog2u>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/sinon@1.16.28",
+			"dist": {
+				"shasum": "11bdcb59607e0f55fb4ae0e2918220ff95a5bb6e",
+				"size": 3484,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.28.tgz_1471621344561_0.40053596068173647"
+			},
+			"directories": {},
+			"publish_time": 1471621345847,
+			"_cnpm_publish_time": 1471621345847,
+			"_hasShrinkwrap": false
+		},
+		"1.16.27": {
+			"name": "@types/sinon",
+			"version": "1.16.27",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"license": "MIT",
+			"author": "William Sears <https://github.com/mrbigdog2u>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/sinon@1.16.27",
+			"dist": {
+				"shasum": "e3bedc22446e9f1bde48ad4a274f21963f03a811",
+				"size": 21504,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.27.tgz_1470154266201_0.2271180704701692"
+			},
+			"directories": {},
+			"publish_time": 1470154267171,
+			"_cnpm_publish_time": 1470154267171,
+			"_hasShrinkwrap": false
+		},
+		"1.16.26": {
+			"name": "@types/sinon",
+			"version": "1.16.26",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Sears",
+				"email": "https://github.com/mrbigdog2u"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/sinon@1.16.26",
+			"_shasum": "78325e3a4e0ebf8eaa517fa8d4482e3b1b3ae24f",
+			"_from": "output\\sinon",
+			"_resolved": "file:output\\sinon",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "78325e3a4e0ebf8eaa517fa8d4482e3b1b3ae24f",
+				"size": 3477,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.26.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.26.tgz_1468512224548_0.6016826024278998"
+			},
+			"directories": {},
+			"publish_time": 1468512228627,
+			"_cnpm_publish_time": 1468512228627,
+			"_hasShrinkwrap": false
+		},
+		"1.16.25-alpha": {
+			"name": "@types/sinon",
+			"version": "1.16.25-alpha",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Sears",
+				"email": "https://github.com/mrbigdog2u"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/sinon@1.16.25-alpha",
+			"_shasum": "2ffd0a6511f76fe59c483a8e7d880d9b14700906",
+			"_from": "output\\sinon",
+			"_resolved": "file:output\\sinon",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2ffd0a6511f76fe59c483a8e7d880d9b14700906",
+				"size": 3481,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.25-alpha.tgz_1468013411066_0.30732974456623197"
+			},
+			"directories": {},
+			"publish_time": 1468013413726,
+			"_cnpm_publish_time": 1468013413726,
+			"_hasShrinkwrap": false
+		},
+		"1.16.24-alpha": {
+			"name": "@types/sinon",
+			"version": "1.16.24-alpha",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Sears",
+				"email": "https://github.com/mrbigdog2u"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/sinon@1.16.24-alpha",
+			"_shasum": "29f121f242593c3ff3884ef6336e9aa81d7f95f4",
+			"_from": "output\\sinon",
+			"_resolved": "file:output\\sinon",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "29f121f242593c3ff3884ef6336e9aa81d7f95f4",
+				"size": 3485,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.24-alpha.tgz_1467595167762_0.046247649705037475"
+			},
+			"directories": {},
+			"publish_time": 1467595171358,
+			"_cnpm_publish_time": 1467595171358,
+			"_hasShrinkwrap": false
+		},
+		"1.16.23-alpha": {
+			"name": "@types/sinon",
+			"version": "1.16.23-alpha",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Sears",
+				"email": "https://github.com/mrbigdog2u"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/sinon@1.16.23-alpha",
+			"_shasum": "fbc12bb46b9070b4952182eb9f9c838fe831d1e1",
+			"_from": "output\\sinon",
+			"_resolved": "file:output\\sinon",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fbc12bb46b9070b4952182eb9f9c838fe831d1e1",
+				"size": 3482,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.23-alpha.tgz_1467430064097_0.2350382157601416"
+			},
+			"directories": {},
+			"publish_time": 1467430067339,
+			"_cnpm_publish_time": 1467430067339,
+			"_hasShrinkwrap": false
+		},
+		"1.16.22-alpha": {
+			"name": "@types/sinon",
+			"version": "1.16.22-alpha",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Sears",
+				"email": "https://github.com/mrbigdog2u"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/sinon@1.16.22-alpha",
+			"_shasum": "12353f81642908f2cf3142c39b12a87954e74555",
+			"_from": "output\\sinon",
+			"_resolved": "file:output\\sinon",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "12353f81642908f2cf3142c39b12a87954e74555",
+				"size": 3484,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.22-alpha.tgz_1467417602503_0.18721291841939092"
+			},
+			"directories": {},
+			"publish_time": 1467417604665,
+			"_cnpm_publish_time": 1467417604665,
+			"_hasShrinkwrap": false
+		},
+		"1.16.21-alpha": {
+			"name": "@types/sinon",
+			"version": "1.16.21-alpha",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Sears",
+				"email": "https://github.com/mrbigdog2u"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/sinon@1.16.21-alpha",
+			"_shasum": "6910c30542e655047bb9e5227065aab33e00604d",
+			"_from": "output\\sinon",
+			"_resolved": "file:output\\sinon",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6910c30542e655047bb9e5227065aab33e00604d",
+				"size": 3469,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.21-alpha.tgz_1467405177006_0.8197985109873116"
+			},
+			"directories": {},
+			"publish_time": 1467405180702,
+			"_cnpm_publish_time": 1467405180702,
+			"_hasShrinkwrap": false
+		},
+		"1.16.20-alpha": {
+			"name": "@types/sinon",
+			"version": "1.16.20-alpha",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Sears",
+				"email": "https://github.com/mrbigdog2u"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/sinon@1.16.20-alpha",
+			"_shasum": "35163c4bdf1652145a4eb37e3a5e2ebc20255fc1",
+			"_from": "output\\sinon",
+			"_resolved": "file:output\\sinon",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "35163c4bdf1652145a4eb37e3a5e2ebc20255fc1",
+				"size": 3454,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.20-alpha.tgz_1464155800806_0.9944614795967937"
+			},
+			"directories": {},
+			"publish_time": 1464155803259,
+			"_cnpm_publish_time": 1464155803259,
+			"_hasShrinkwrap": false
+		},
+		"1.16.19-alpha": {
+			"name": "@types/sinon",
+			"version": "1.16.19-alpha",
+			"description": "TypeScript definitions for Sinon 1.16.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Sears",
+				"email": "https://github.com/mrbigdog2u"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/sinon@1.16.19-alpha",
+			"_shasum": "606d269688b669b1dc07b1d82967a5cb410b7d7f",
+			"_from": "output\\sinon",
+			"_resolved": "file:output\\sinon",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "606d269688b669b1dc07b1d82967a5cb410b7d7f",
+				"size": 3454,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.19-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.19-alpha.tgz_1463776880266_0.5274092014878988"
+			},
+			"directories": {},
+			"publish_time": 1463776880703,
+			"_cnpm_publish_time": 1463776880703,
+			"_hasShrinkwrap": false
+		},
+		"1.16.14-alpha": {
+			"name": "@types/sinon",
+			"version": "1.16.14-alpha",
+			"description": "Type definitions for Sinon 1.16.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Sears",
+				"email": "https://github.com/mrbigdog2u"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/sinon@1.16.14-alpha",
+			"_shasum": "e300d09268872aae65b4de97b2f0d05b6ec59f65",
+			"_from": "output\\sinon",
+			"_resolved": "file:output\\sinon",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e300d09268872aae65b4de97b2f0d05b6ec59f65",
+				"size": 3467,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.14-alpha.tgz_1463696593914_0.37694616452790797"
+			},
+			"directories": {},
+			"publish_time": 1463696598642,
+			"_cnpm_publish_time": 1463696598642,
+			"_hasShrinkwrap": false
+		},
+		"1.16.13-alpha": {
+			"name": "@types/sinon",
+			"version": "1.16.13-alpha",
+			"description": "Type definitions for Sinon 1.16.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Sears",
+				"email": "https://github.com/mrbigdog2u"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/sinon@1.16.13-alpha",
+			"_shasum": "534c685fd8fc0f2a6d4ef902630a0aead5aae3aa",
+			"_from": "output\\sinon",
+			"_resolved": "file:output\\sinon",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "534c685fd8fc0f2a6d4ef902630a0aead5aae3aa",
+				"size": 3457,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sinon-1.16.13-alpha.tgz_1463511371982_0.8631667541339993"
+			},
+			"directories": {},
+			"publish_time": 1463511374661,
+			"_cnpm_publish_time": 1463511374661,
+			"_hasShrinkwrap": false
+		},
+		"5.0.5": {
+			"name": "@types/sinon",
+			"version": "5.0.5",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Greg Jednaszewski",
+					"url": "https://github.com/gjednaszewski",
+					"githubUsername": "gjednaszewski"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "3a598c46f222beb673a732a453005bebeed1a0cb81dc89517c186312d0ccb3be",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/sinon@5.0.5",
+			"dist": {
+				"shasum": "de600fa07eb1ec9d5f55669d5bac46a75fc88115",
+				"size": 15143,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_5.0.5_1539020709269_0.26851252008779003"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539020709388,
+			"_cnpm_publish_time": 1539020709388
+		},
+		"5.0.4": {
+			"name": "@types/sinon",
+			"version": "5.0.4",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Greg Jednaszewski",
+					"url": "https://github.com/gjednaszewski",
+					"githubUsername": "gjednaszewski"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "ec461727c071095ca7d7fce78d78ef2de596ececf78923b1731c37e7e97d3c0b",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/sinon@5.0.4",
+			"dist": {
+				"shasum": "a765b390b373cf01a3b19b0c97f9eb4bb2a168b1",
+				"size": 15143,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_5.0.4_1538763305875_0.16098629277747167"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538763306022,
+			"_cnpm_publish_time": 1538763306022
+		},
+		"5.0.3": {
+			"name": "@types/sinon",
+			"version": "5.0.3",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				},
+				{
+					"name": "Greg Jednaszewski",
+					"url": "https://github.com/gjednaszewski",
+					"githubUsername": "gjednaszewski"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "3bd5d79c9274a8076316dd3284b0a0c6e23592ed8187c81e181cc35b729785a8",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/sinon@5.0.3",
+			"dist": {
+				"shasum": "2b1840122f372350c563e3ceda2f447b55f3a927",
+				"size": 15113,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_5.0.3_1538589972130_0.1348124404834179"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538589972433,
+			"_cnpm_publish_time": 1538589972433
+		},
+		"5.0.2": {
+			"name": "@types/sinon",
+			"version": "5.0.2",
+			"description": "TypeScript definitions for Sinon",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Sears",
+					"url": "https://github.com/mrbigdog2u",
+					"githubUsername": "mrbigdog2u"
+				},
+				{
+					"name": "Jonathan Little",
+					"url": "https://github.com/rationull",
+					"githubUsername": "rationull"
+				},
+				{
+					"name": "Lukas Spieß",
+					"url": "https://github.com/lumaxis",
+					"githubUsername": "lumaxis"
+				},
+				{
+					"name": "Nico Jansen",
+					"url": "https://github.com/nicojs",
+					"githubUsername": "nicojs"
+				},
+				{
+					"name": "James Garbutt",
+					"url": "https://github.com/43081j",
+					"githubUsername": "43081j"
+				},
+				{
+					"name": "Josh Goldberg",
+					"url": "https://github.com/joshuakgoldberg",
+					"githubUsername": "joshuakgoldberg"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "dd4dd0b8152a55bdf5f9b881597d0b999d130f742731e4824b7304d2c8c48273",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/sinon@5.0.2",
+			"dist": {
+				"shasum": "7a9d64df40b26dd48d673f745addc2fdb2bda193",
+				"size": 15029,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sinon_5.0.2_1535410937114_0.14797145674800483"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535410937221,
+			"_cnpm_publish_time": 1535410937221
+		}
+	},
+	"dist-tags": {
+		"latest": "5.0.5",
+		"ts2.0": "2.3.0",
+		"ts2.1": "2.3.0",
+		"ts2.2": "2.3.0",
+		"ts2.3": "4.3.3",
+		"ts2.4": "4.3.3",
+		"ts2.5": "4.3.3",
+		"ts2.6": "4.3.3",
+		"ts2.7": "4.3.3",
+		"ts2.8": "5.0.5",
+		"ts2.9": "5.0.5",
+		"ts3.0": "5.0.5",
+		"ts3.1": "5.0.5",
+		"ts3.2": "5.0.5"
+	},
+	"time": {
+		"modified": "2018-10-08T17:48:09.000Z",
+		"created": "2016-05-17T18:56:14.661Z",
+		"5.0.5": "2018-10-08T17:45:09.388Z",
+		"5.0.4": "2018-10-05T18:15:06.022Z",
+		"5.0.3": "2018-10-03T18:06:12.433Z",
+		"5.0.2": "2018-08-27T23:02:17.221Z",
+		"5.0.1": "2018-05-30T01:42:54.627Z",
+		"5.0.0": "2018-05-24T17:16:36.959Z",
+		"4.3.3": "2018-05-10T20:59:44.170Z",
+		"4.3.2": "2018-05-09T20:57:24.723Z",
+		"4.3.1": "2018-04-04T20:49:42.248Z",
+		"4.3.0": "2018-02-28T23:23:44.571Z",
+		"4.1.4": "2018-02-26T22:52:42.737Z",
+		"4.1.3": "2018-01-11T22:08:23.540Z",
+		"4.1.2": "2017-12-12T17:15:05.059Z",
+		"4.1.1": "2017-12-11T23:34:43.665Z",
+		"4.1.0": "2017-12-06T20:10:59.226Z",
+		"4.0.0": "2017-11-13T23:50:42.266Z",
+		"2.3.7": "2017-10-25T16:25:11.761Z",
+		"2.3.6": "2017-10-10T20:10:16.846Z",
+		"2.3.5": "2017-09-19T18:15:47.144Z",
+		"2.3.4": "2017-09-12T00:45:24.634Z",
+		"2.3.3": "2017-07-18T19:27:17.514Z",
+		"2.3.2": "2017-06-26T21:09:00.909Z",
+		"2.3.1": "2017-06-05T19:59:26.461Z",
+		"2.3.0": "2017-06-02T17:07:08.356Z",
+		"2.2.2": "2017-05-16T20:45:59.175Z",
+		"2.2.1": "2017-05-04T17:05:57.236Z",
+		"2.2.0": "2017-05-03T19:11:50.528Z",
+		"2.1.3": "2017-04-24T15:17:40.697Z",
+		"2.1.2": "2017-04-04T17:23:04.324Z",
+		"2.1.1": "2017-03-31T17:10:50.905Z",
+		"2.1.0": "2017-03-29T18:33:03.521Z",
+		"1.16.36": "2017-03-20T21:34:53.354Z",
+		"1.16.35": "2017-02-08T21:31:30.611Z",
+		"1.16.34": "2016-12-30T17:44:17.641Z",
+		"1.16.33": "2016-12-12T22:51:38.462Z",
+		"1.16.32": "2016-11-16T18:02:00.593Z",
+		"1.16.31": "2016-09-25T23:35:42.298Z",
+		"1.16.30": "2016-09-19T18:12:01.389Z",
+		"1.16.29": "2016-08-25T19:00:06.956Z",
+		"1.16.28": "2016-08-19T15:42:25.847Z",
+		"1.16.27": "2016-08-02T16:11:07.171Z",
+		"1.16.26": "2016-07-14T16:03:48.627Z",
+		"1.16.25-alpha": "2016-07-08T21:30:13.726Z",
+		"1.16.24-alpha": "2016-07-04T01:19:31.358Z",
+		"1.16.23-alpha": "2016-07-02T03:27:47.339Z",
+		"1.16.22-alpha": "2016-07-02T00:00:04.665Z",
+		"1.16.21-alpha": "2016-07-01T20:33:00.702Z",
+		"1.16.20-alpha": "2016-05-25T05:56:43.259Z",
+		"1.16.19-alpha": "2016-05-20T20:41:20.703Z",
+		"1.16.14-alpha": "2016-05-19T22:23:18.642Z",
+		"1.16.13-alpha": "2016-05-17T18:56:14.661Z"
+	},
+	"_distfiles": {
+		"sinon-5.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.1.tgz",
+			"sha": "a15b36ec42f1f53166617491feabd1734cb03e21",
+			"registry": "cnpmjs"
+		},
+		"sinon-5.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.0.tgz",
+			"sha": "e5d49a422f64b2c658bbeb8529679c9a6a0b5a3a",
+			"registry": "cnpmjs"
+		},
+		"sinon-4.3.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.3.3.tgz",
+			"sha": "97cbbfddc3282b5fd40c7abf80b99db426fd4237",
+			"registry": "cnpmjs"
+		},
+		"sinon-4.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.3.2.tgz",
+			"sha": "678d5de09913969da895169204e9e455476c9527",
+			"registry": "cnpmjs"
+		},
+		"sinon-4.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.3.1.tgz",
+			"sha": "32458f9b166cd44c23844eee4937814276f35199",
+			"registry": "cnpmjs"
+		},
+		"sinon-4.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.3.0.tgz",
+			"sha": "7f53915994a00ccea24f4e0c24709822ed11a3b1",
+			"registry": "cnpmjs"
+		},
+		"sinon-4.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.1.4.tgz",
+			"sha": "2e334094d680d488c073524938bf734f2639a378",
+			"registry": "cnpmjs"
+		},
+		"sinon-4.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.1.3.tgz",
+			"sha": "2ee25e0e302f31e78a945650a60029e08878eaf8",
+			"registry": "cnpmjs"
+		},
+		"sinon-4.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.1.2.tgz",
+			"sha": "9085db9cc3288b0f12daceee20a26c4afd9c2dcd",
+			"registry": "cnpmjs"
+		},
+		"sinon-4.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.1.1.tgz",
+			"sha": "1adf3c8a9359bfa1750a4152cb538cfae4748118",
+			"registry": "cnpmjs"
+		},
+		"sinon-4.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.1.0.tgz",
+			"sha": "cdfb934d656b2c888e51f53e95900c7bbca11c08",
+			"registry": "cnpmjs"
+		},
+		"sinon-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-4.0.0.tgz",
+			"sha": "9a93ffa4ee1329e85166278a5ed99f81dc4c8362",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.3.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.7.tgz",
+			"sha": "e92c2fed3297eae078d78d1da032b26788b4af86",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.3.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.6.tgz",
+			"sha": "ff600951c756286e38ce14d0b0e2924e38a91006",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.3.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.5.tgz",
+			"sha": "68f1e0ac15f2eb6cc682b7af87cd517acc77b589",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.3.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.4.tgz",
+			"sha": "2b3aa82dfc791eeff1d970b657a77eafff2899ff",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.3.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.3.tgz",
+			"sha": "1f20b96f954b4997a09c1c0a20264aaba6b00147",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.2.tgz",
+			"sha": "1e1e99e67162d78e2db17816892bf93bf5209885",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.1.tgz",
+			"sha": "5e214093e9e2345219ab0f31bf310c9790ad0712",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.3.0.tgz",
+			"sha": "2cd3a0d53991d7a7b2a9179633c2a73795d853b6",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.2.2.tgz",
+			"sha": "a80da4868ba08accacbce4d37276f35e1ba0a52f",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.2.1.tgz",
+			"sha": "93d8e623c3fafc08d5cddb990c4f14e8040cbbc9",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.2.0.tgz",
+			"sha": "de795c98cf1c1b6b84d0e9aaaabaebbc18e00ecf",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.1.3.tgz",
+			"sha": "90e7b02348455e0d5781d1467a8a61b9bd91a468",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.1.2.tgz",
+			"sha": "88dbbd29910c4fd1b5fbd3c733a723f277eab583",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.1.1.tgz",
+			"sha": "becda9bbc3443acf3f9e0d031c0b8e0711e9dfe3",
+			"registry": "cnpmjs"
+		},
+		"sinon-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-2.1.0.tgz",
+			"sha": "b9a9b8f34c6c5ec8e3f57c6a8ea71b6d69c69df5",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.36.tgz",
+			"sha": "74bb6ed7928597c1b3fb1b009005e94dc6eae357",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.35.tgz",
+			"sha": "ee687cc42d1a79448256f1c012a33a0840e85c5c",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.34.tgz",
+			"sha": "a9761fff33d0f7b3fe61875b577778a2576a9a03",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.33.tgz",
+			"sha": "28e022572f6fb8edd60b3ae0e0955181dc3250e5",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.32.tgz",
+			"sha": "b3246844902d7cb33f376b369b176a65a144af7e",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.31.tgz",
+			"sha": "421deb2160e732171fc9ff558892ac15cb0fdef3",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.30.tgz",
+			"sha": "7ff06fa21fd81de7b51173ddadb9141cc925b54c",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.29.tgz",
+			"sha": "3fca5dc916a3fa4f7efe8e51557fa2c31dde1454",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.28.tgz",
+			"sha": "11bdcb59607e0f55fb4ae0e2918220ff95a5bb6e",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.27.tgz",
+			"sha": "e3bedc22446e9f1bde48ad4a274f21963f03a811",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.26.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.26.tgz",
+			"sha": "78325e3a4e0ebf8eaa517fa8d4482e3b1b3ae24f",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.25-alpha.tgz",
+			"sha": "2ffd0a6511f76fe59c483a8e7d880d9b14700906",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.24-alpha.tgz",
+			"sha": "29f121f242593c3ff3884ef6336e9aa81d7f95f4",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.23-alpha.tgz",
+			"sha": "fbc12bb46b9070b4952182eb9f9c838fe831d1e1",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.22-alpha.tgz",
+			"sha": "12353f81642908f2cf3142c39b12a87954e74555",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.21-alpha.tgz",
+			"sha": "6910c30542e655047bb9e5227065aab33e00604d",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.20-alpha.tgz",
+			"sha": "35163c4bdf1652145a4eb37e3a5e2ebc20255fc1",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.19-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.19-alpha.tgz",
+			"sha": "606d269688b669b1dc07b1d82967a5cb410b7d7f",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.14-alpha.tgz",
+			"sha": "e300d09268872aae65b4de97b2f0d05b6ec59f65",
+			"registry": "cnpmjs"
+		},
+		"sinon-1.16.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-1.16.13-alpha.tgz",
+			"sha": "534c685fd8fc0f2a6d4ef902630a0aead5aae3aa",
+			"registry": "cnpmjs"
+		},
+		"sinon-5.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.5.tgz",
+			"sha": "de600fa07eb1ec9d5f55669d5bac46a75fc88115",
+			"registry": "cnpmjs"
+		},
+		"sinon-5.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.4.tgz",
+			"sha": "a765b390b373cf01a3b19b0c97f9eb4bb2a168b1",
+			"registry": "cnpmjs"
+		},
+		"sinon-5.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.3.tgz",
+			"sha": "2b1840122f372350c563e3ceda2f447b55f3a927",
+			"registry": "cnpmjs"
+		},
+		"sinon-5.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sinon/download/@types/sinon-5.0.2.tgz",
+			"sha": "7a9d64df40b26dd48d673f745addc2fdb2bda193",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"10476-GzyX4Fznajm0C8cuwKL/7gitcNY\"",
+			"fetched": 1541833279384
+		}
+	},
+	"_rev": "2-45c9202c58f865ce",
+	"readme": "# Installation\r\n> `npm install --save @types/sinon`\r\n\r\n# Summary\r\nThis package contains type definitions for Sinon (http://sinonjs.org/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/sinon\r\n\r\nAdditional Details\r\n * Last updated: Mon, 08 Oct 2018 17:40:37 GMT\r\n * Dependencies: none\r\n * Global values: sinon\r\n\r\n# Credits\r\nThese definitions were written by William Sears <https://github.com/mrbigdog2u>, Jonathan Little <https://github.com/rationull>, Lukas Spieß <https://github.com/lumaxis>, Nico Jansen <https://github.com/nicojs>, James Garbutt <https://github.com/43081j>, Josh Goldberg <https://github.com/joshuakgoldberg>, Greg Jednaszewski <https://github.com/gjednaszewski>."
+}

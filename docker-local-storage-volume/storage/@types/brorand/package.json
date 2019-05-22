@@ -1,0 +1,626 @@
+{
+	"name": "@types/brorand",
+	"versions": {
+		"1.0.30": {
+			"name": "@types/brorand",
+			"version": "1.0.30",
+			"description": "TypeScript definitions for Brorand v1.0.5",
+			"license": "MIT",
+			"author": "Ilya Mochalov <https://github.com/chrootsu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b4d4ddfaee307bb25578cc24268b33a0b906f3cdeee8aa76ac159639005f545e",
+			"_id": "@types/brorand@1.0.30",
+			"dist": {
+				"shasum": "36669854509d770e13037c5804cc8095fc1ca2bb",
+				"size": 1144,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.30.tgz_1474302390516_0.9455383701715618"
+			},
+			"directories": {},
+			"publish_time": 1474302392547,
+			"_cnpm_publish_time": 1474302392547,
+			"_hasShrinkwrap": false
+		},
+		"1.0.29": {
+			"name": "@types/brorand",
+			"version": "1.0.29",
+			"description": "TypeScript definitions for Brorand v1.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/brorand@1.0.29",
+			"_shasum": "bbf334343fd4a97f3d29063b54101ddf5610b8d8",
+			"_from": "output\\brorand",
+			"_resolved": "file:output\\brorand",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bbf334343fd4a97f3d29063b54101ddf5610b8d8",
+				"size": 1127,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.29.tgz_1468505515374_0.4993227703962475"
+			},
+			"directories": {},
+			"publish_time": 1468505517839,
+			"_cnpm_publish_time": 1468505517839,
+			"_hasShrinkwrap": false
+		},
+		"1.0.28-alpha": {
+			"name": "@types/brorand",
+			"version": "1.0.28-alpha",
+			"description": "TypeScript definitions for Brorand v1.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/brorand@1.0.28-alpha",
+			"_shasum": "8587b6318f573aa446cbef2fb59f31681026ca66",
+			"_from": "output\\brorand",
+			"_resolved": "file:output\\brorand",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8587b6318f573aa446cbef2fb59f31681026ca66",
+				"size": 1134,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.28-alpha.tgz_1468006956568_0.4216334109660238"
+			},
+			"directories": {},
+			"publish_time": 1468006959107,
+			"_cnpm_publish_time": 1468006959107,
+			"_hasShrinkwrap": false
+		},
+		"1.0.27-alpha": {
+			"name": "@types/brorand",
+			"version": "1.0.27-alpha",
+			"description": "TypeScript definitions for Brorand v1.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/brorand@1.0.27-alpha",
+			"_shasum": "8f48e639ffe7034cbe88cc9857ce434a387d39fe",
+			"_from": "output\\brorand",
+			"_resolved": "file:output\\brorand",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8f48e639ffe7034cbe88cc9857ce434a387d39fe",
+				"size": 1135,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.27-alpha.tgz_1467589929349_0.26677933312021196"
+			},
+			"directories": {},
+			"publish_time": 1467589933019,
+			"_cnpm_publish_time": 1467589933019,
+			"_hasShrinkwrap": false
+		},
+		"1.0.26-alpha": {
+			"name": "@types/brorand",
+			"version": "1.0.26-alpha",
+			"description": "TypeScript definitions for Brorand v1.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/brorand@1.0.26-alpha",
+			"_shasum": "2210314592230336baa83b0ca65b4b5df35f6352",
+			"_from": "output\\brorand",
+			"_resolved": "file:output\\brorand",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2210314592230336baa83b0ca65b4b5df35f6352",
+				"size": 1135,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.26-alpha.tgz_1467425091314_0.4019517838023603"
+			},
+			"directories": {},
+			"publish_time": 1467425094887,
+			"_cnpm_publish_time": 1467425094887,
+			"_hasShrinkwrap": false
+		},
+		"1.0.25-alpha": {
+			"name": "@types/brorand",
+			"version": "1.0.25-alpha",
+			"description": "TypeScript definitions for Brorand v1.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha"
+			},
+			"_id": "@types/brorand@1.0.25-alpha",
+			"_shasum": "9355d025649e0308e6e284f89a0498825b18c253",
+			"_from": "output\\brorand",
+			"_resolved": "file:output\\brorand",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9355d025649e0308e6e284f89a0498825b18c253",
+				"size": 1136,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.25-alpha.tgz_1467411610943_0.6912606658879668"
+			},
+			"directories": {},
+			"publish_time": 1467411613373,
+			"_cnpm_publish_time": 1467411613373,
+			"_hasShrinkwrap": false
+		},
+		"1.0.24-alpha": {
+			"name": "@types/brorand",
+			"version": "1.0.24-alpha",
+			"description": "TypeScript definitions for Brorand v1.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/brorand@1.0.24-alpha",
+			"_shasum": "bcbbc8a196dd59d8de86b9e0cf0b4dbc25251943",
+			"_from": "output\\brorand",
+			"_resolved": "file:output\\brorand",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bcbbc8a196dd59d8de86b9e0cf0b4dbc25251943",
+				"size": 1130,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.24-alpha.tgz_1467399589403_0.5613150561694056"
+			},
+			"directories": {},
+			"publish_time": 1467399592699,
+			"_cnpm_publish_time": 1467399592699,
+			"_hasShrinkwrap": false
+		},
+		"1.0.23-alpha": {
+			"name": "@types/brorand",
+			"version": "1.0.23-alpha",
+			"description": "TypeScript definitions for Brorand v1.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/brorand@1.0.23-alpha",
+			"_shasum": "ea377e56997f3de9a087d5fffc8ecfeeac99e2f3",
+			"_from": "output\\brorand",
+			"_resolved": "file:output\\brorand",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ea377e56997f3de9a087d5fffc8ecfeeac99e2f3",
+				"size": 1102,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.23-alpha.tgz_1464150879084_0.9708795000333339"
+			},
+			"directories": {},
+			"publish_time": 1464150881674,
+			"_cnpm_publish_time": 1464150881674,
+			"_hasShrinkwrap": false
+		},
+		"1.0.22-alpha": {
+			"name": "@types/brorand",
+			"version": "1.0.22-alpha",
+			"description": "TypeScript definitions for Brorand v1.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/brorand@1.0.22-alpha",
+			"_shasum": "4ffa49917b946a5137037ce924eb105fc201cdd1",
+			"_from": "output\\brorand",
+			"_resolved": "file:output\\brorand",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4ffa49917b946a5137037ce924eb105fc201cdd1",
+				"size": 1099,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.22-alpha.tgz_1463771764100_0.47198601975105703"
+			},
+			"directories": {},
+			"publish_time": 1463771766391,
+			"_cnpm_publish_time": 1463771766391,
+			"_hasShrinkwrap": false
+		},
+		"1.0.17-alpha": {
+			"name": "@types/brorand",
+			"version": "1.0.17-alpha",
+			"description": "Type definitions for Brorand v1.0.5 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/brorand@1.0.17-alpha",
+			"_shasum": "9fa9a1ee3ebac2657fcd5231ff65ac18dac872a8",
+			"_from": "output\\brorand",
+			"_resolved": "file:output\\brorand",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9fa9a1ee3ebac2657fcd5231ff65ac18dac872a8",
+				"size": 1108,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.17-alpha.tgz_1463689487625_0.16773618012666702"
+			},
+			"directories": {},
+			"publish_time": 1463689490961,
+			"_cnpm_publish_time": 1463689490961,
+			"_hasShrinkwrap": false
+		},
+		"1.0.16-alpha": {
+			"name": "@types/brorand",
+			"version": "1.0.16-alpha",
+			"description": "Type definitions for Brorand v1.0.5 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ilya Mochalov",
+				"email": "https://github.com/chrootsu"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/brorand@1.0.16-alpha",
+			"_shasum": "84e97fa9f8a3ba334d79ad92384a14b48c44a513",
+			"_from": "output\\brorand",
+			"_resolved": "file:output\\brorand",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "84e97fa9f8a3ba334d79ad92384a14b48c44a513",
+				"size": 1085,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/brorand-1.0.16-alpha.tgz_1463459654856_0.7874588067643344"
+			},
+			"directories": {},
+			"publish_time": 1463459655410,
+			"_cnpm_publish_time": 1463459655410,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.30",
+		"ts2.0": "1.0.30",
+		"ts2.1": "1.0.30",
+		"ts2.2": "1.0.30",
+		"ts2.3": "1.0.30",
+		"ts2.4": "1.0.30",
+		"ts2.5": "1.0.30",
+		"ts2.6": "1.0.30",
+		"ts2.7": "1.0.30",
+		"ts2.8": "1.0.30",
+		"ts2.9": "1.0.30",
+		"ts3.0": "1.0.30",
+		"ts3.1": "1.0.30",
+		"ts3.2": "1.0.30"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:06.000Z",
+		"created": "2016-05-17T04:34:15.410Z",
+		"1.0.30": "2016-09-19T16:26:32.547Z",
+		"1.0.29": "2016-07-14T14:11:57.839Z",
+		"1.0.28-alpha": "2016-07-08T19:42:39.107Z",
+		"1.0.27-alpha": "2016-07-03T23:52:13.019Z",
+		"1.0.26-alpha": "2016-07-02T02:04:54.887Z",
+		"1.0.25-alpha": "2016-07-01T22:20:13.373Z",
+		"1.0.24-alpha": "2016-07-01T18:59:52.699Z",
+		"1.0.23-alpha": "2016-05-25T04:34:41.674Z",
+		"1.0.22-alpha": "2016-05-20T19:16:06.391Z",
+		"1.0.17-alpha": "2016-05-19T20:24:50.961Z",
+		"1.0.16-alpha": "2016-05-17T04:34:15.410Z"
+	},
+	"_distfiles": {
+		"brorand-1.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.30.tgz",
+			"sha": "36669854509d770e13037c5804cc8095fc1ca2bb",
+			"registry": "cnpmjs"
+		},
+		"brorand-1.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.29.tgz",
+			"sha": "bbf334343fd4a97f3d29063b54101ddf5610b8d8",
+			"registry": "cnpmjs"
+		},
+		"brorand-1.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.28-alpha.tgz",
+			"sha": "8587b6318f573aa446cbef2fb59f31681026ca66",
+			"registry": "cnpmjs"
+		},
+		"brorand-1.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.27-alpha.tgz",
+			"sha": "8f48e639ffe7034cbe88cc9857ce434a387d39fe",
+			"registry": "cnpmjs"
+		},
+		"brorand-1.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.26-alpha.tgz",
+			"sha": "2210314592230336baa83b0ca65b4b5df35f6352",
+			"registry": "cnpmjs"
+		},
+		"brorand-1.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.25-alpha.tgz",
+			"sha": "9355d025649e0308e6e284f89a0498825b18c253",
+			"registry": "cnpmjs"
+		},
+		"brorand-1.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.24-alpha.tgz",
+			"sha": "bcbbc8a196dd59d8de86b9e0cf0b4dbc25251943",
+			"registry": "cnpmjs"
+		},
+		"brorand-1.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.23-alpha.tgz",
+			"sha": "ea377e56997f3de9a087d5fffc8ecfeeac99e2f3",
+			"registry": "cnpmjs"
+		},
+		"brorand-1.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.22-alpha.tgz",
+			"sha": "4ffa49917b946a5137037ce924eb105fc201cdd1",
+			"registry": "cnpmjs"
+		},
+		"brorand-1.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.17-alpha.tgz",
+			"sha": "9fa9a1ee3ebac2657fcd5231ff65ac18dac872a8",
+			"registry": "cnpmjs"
+		},
+		"brorand-1.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/brorand/download/@types/brorand-1.0.16-alpha.tgz",
+			"sha": "84e97fa9f8a3ba334d79ad92384a14b48c44a513",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833452958
+		}
+	},
+	"_rev": "2-abd9de3437190662",
+	"readme": "# Installation\r\n> `npm install --save @types/brorand`\r\n\r\n# Summary\r\nThis package contains type definitions for Brorand v1.0.5 (https://github.com/indutny/brorand).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/brorand\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 16:15:23 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: node\r\n * Module Dependencies: none\r\n * Global values: Brorand\r\n\r\n# Credits\r\nThese definitions were written by Ilya Mochalov <https://github.com/chrootsu>."
+}

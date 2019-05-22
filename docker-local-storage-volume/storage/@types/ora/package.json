@@ -1,0 +1,1161 @@
+{
+	"name": "@types/ora",
+	"versions": {
+		"1.3.4": {
+			"name": "@types/ora",
+			"version": "1.3.4",
+			"description": "TypeScript definitions for ora",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Basarat Ali Syed",
+					"url": "https://github.com/basarat",
+					"githubUsername": "basarat"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver",
+					"githubUsername": "screendriver"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "Aleh Zasypkin",
+					"url": "https://github.com/azasypkin",
+					"githubUsername": "azasypkin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "f5a28b7c44f47860497dec4fdbd1b1da6a3f602cfaa01dacbd3916da752ac218",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ora@1.3.4",
+			"dist": {
+				"shasum": "b7fbbea8dac9851eb1918a761e2f4fae4cec03f5",
+				"size": 2275,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-1.3.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ora_1.3.4_1522787188196_0.14651908918739398"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522787188280,
+			"_cnpm_publish_time": 1522787188280
+		},
+		"1.3.3": {
+			"name": "@types/ora",
+			"version": "1.3.3",
+			"description": "TypeScript definitions for ora",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Basarat Ali Syed",
+					"url": "https://github.com/basarat",
+					"githubUsername": "basarat"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver",
+					"githubUsername": "screendriver"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "Aleh Zasypkin",
+					"url": "https://github.com/azasypkin",
+					"githubUsername": "azasypkin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "43b18fc570c6e9170be952edb5e90bc2c2e3fd22375eda4fac5fc6e02c8e099c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ora@1.3.3",
+			"dist": {
+				"shasum": "d3186418c3cf37a831799b376beca4a8e1bfca2d",
+				"size": 2265,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-1.3.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ora_1.3.3_1521156001632_0.055435435095666064"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521156001704,
+			"_cnpm_publish_time": 1521156001704
+		},
+		"1.3.2": {
+			"name": "@types/ora",
+			"version": "1.3.2",
+			"description": "TypeScript definitions for ora",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Basarat Ali Syed",
+					"url": "https://github.com/basarat",
+					"githubUsername": "basarat"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver",
+					"githubUsername": "screendriver"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "Aleh Zasypkin",
+					"url": "https://github.com/azasypkin",
+					"githubUsername": "azasypkin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "3761569dafbabf2e8b98ea6553fe2bb8113e0e5f0dea46b811f96350d4259610",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ora@1.3.2",
+			"dist": {
+				"shasum": "ded29aeec023deaa1e56b99cb51234954f35a7cd",
+				"size": 2256,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-1.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ora_1.3.2_1519685553612_0.02362171702540139"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1519685553742,
+			"_cnpm_publish_time": 1519685553742
+		},
+		"1.3.1": {
+			"name": "@types/ora",
+			"version": "1.3.1",
+			"description": "TypeScript definitions for ora",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Basarat Ali Syed",
+					"url": "https://github.com/basarat"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "285798b02292465820ec1b599dd12f74011ad19d7de56a645ea0115c47f4fd82",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ora@1.3.1",
+			"dist": {
+				"shasum": "53db0e10b7ea2f014548e87ea81c755986502e52",
+				"size": 2197,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-1.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ora-1.3.1.tgz_1503352828345_0.17358351033180952"
+			},
+			"directories": {},
+			"publish_time": 1503352828469,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352828469
+		},
+		"1.3.0": {
+			"name": "@types/ora",
+			"version": "1.3.0",
+			"description": "TypeScript definitions for ora",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Basarat Ali Syed",
+					"url": "https://github.com/basarat/"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "266896d59d08b37ca62578038f8c9aadc74332e22018fc19b25c6adca19a0c0d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ora@1.3.0",
+			"dist": {
+				"shasum": "bcf38dd7afa5c698762376e4793f7b607a87c772",
+				"size": 2208,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-1.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ora-1.3.0.tgz_1500750690863_0.03272607130929828"
+			},
+			"directories": {},
+			"publish_time": 1500750690936,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500750690936
+		},
+		"0.3.32": {
+			"name": "@types/ora",
+			"version": "0.3.32",
+			"description": "TypeScript definitions for ora",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Basarat Ali Syed",
+					"url": "https://github.com/basarat/"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ff176322608df52141e24a0612bf1539285e70f29a1b7c5d3969de723d26e112",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ora@0.3.32",
+			"dist": {
+				"shasum": "60842f56a0676b094780d1a8181df7802753cfc9",
+				"size": 1803,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.3.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ora-0.3.32.tgz_1500750645048_0.049886084627360106"
+			},
+			"directories": {},
+			"publish_time": 1500750645121,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500750645121
+		},
+		"0.3.31": {
+			"name": "@types/ora",
+			"version": "0.3.31",
+			"description": "TypeScript definitions for ora v0.3.0",
+			"license": "MIT",
+			"author": "Basarat Ali Syed <https://github.com/basarat/>, Christian Rackerseder <https://www.echooff.de/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "31596486d1b905759a2d691fc5a1f2e08fba6db08b013cc7352ca3d4736a4e59",
+			"_id": "@types/ora@0.3.31",
+			"dist": {
+				"shasum": "1a4bf16bd62ec2764b8f40b0e2f4d85c21292f83",
+				"size": 1300,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.3.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ora-0.3.31.tgz_1479152208018_0.7732576422858983"
+			},
+			"directories": {},
+			"publish_time": 1479152208244,
+			"_cnpm_publish_time": 1479152208244,
+			"_hasShrinkwrap": false
+		},
+		"0.3.30": {
+			"name": "@types/ora",
+			"version": "0.3.30",
+			"description": "TypeScript definitions for ora v0.3.0",
+			"license": "MIT",
+			"author": "Basarat Ali Syed <https://github.com/basarat/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "588de8dc02cdda1e91def42e26d39519552ea544158205d6c085a98e5f7cc45a",
+			"_id": "@types/ora@0.3.30",
+			"dist": {
+				"shasum": "c5505f0dc9917eb9b7561984471c03ea11558b7f",
+				"size": 1295,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.3.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/ora-0.3.30.tgz_1477510044727_0.6026283889077604"
+			},
+			"directories": {},
+			"publish_time": 1477510048289,
+			"_cnpm_publish_time": 1477510048289,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/ora",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for ora",
+			"license": "MIT",
+			"author": "Basarat Ali Syed <https://github.com/basarat/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "3ee0ee0cdf2243c43e11690976d961e1d3f29dff8303e0abe47a3ca81c245468",
+			"_id": "@types/ora@0.0.29",
+			"dist": {
+				"shasum": "43e3fdc971450dafd203269074ce7a8cb06b0d06",
+				"size": 1172,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.29.tgz_1474307885779_0.19966572616249323"
+			},
+			"directories": {},
+			"publish_time": 1474307888733,
+			"_cnpm_publish_time": 1474307888733,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/ora",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for ora",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Basarat Ali Syed",
+				"email": "https://github.com/basarat/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ora@0.0.28",
+			"_shasum": "cc7f677a93abcf9033bd6000e25f4fe4872d7347",
+			"_from": "output\\ora",
+			"_resolved": "file:output\\ora",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cc7f677a93abcf9033bd6000e25f4fe4872d7347",
+				"size": 1155,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.28.tgz_1468510688144_0.620396780082956"
+			},
+			"directories": {},
+			"publish_time": 1468510690289,
+			"_cnpm_publish_time": 1468510690289,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/ora",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for ora",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Basarat Ali Syed",
+				"email": "https://github.com/basarat/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ora@0.0.27-alpha",
+			"_shasum": "b92d9a72d1d3c5fac619664c381293e26e7b6330",
+			"_from": "output\\ora",
+			"_resolved": "file:output\\ora",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b92d9a72d1d3c5fac619664c381293e26e7b6330",
+				"size": 1156,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.27-alpha.tgz_1468011636983_0.15957510354928672"
+			},
+			"directories": {},
+			"publish_time": 1468011639431,
+			"_cnpm_publish_time": 1468011639431,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/ora",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for ora",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Basarat Ali Syed",
+				"email": "https://github.com/basarat/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ora@0.0.26-alpha",
+			"_shasum": "1781353a4d31f352f767dcdc311d9807c78c6297",
+			"_from": "output\\ora",
+			"_resolved": "file:output\\ora",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1781353a4d31f352f767dcdc311d9807c78c6297",
+				"size": 1159,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.26-alpha.tgz_1467593882321_0.772157468367368"
+			},
+			"directories": {},
+			"publish_time": 1467593885862,
+			"_cnpm_publish_time": 1467593885862,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/ora",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for ora",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Basarat Ali Syed",
+				"email": "https://github.com/basarat/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ora@0.0.25-alpha",
+			"_shasum": "3f71e1cda626b902bf9aa4173b493d0daca14310",
+			"_from": "output\\ora",
+			"_resolved": "file:output\\ora",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3f71e1cda626b902bf9aa4173b493d0daca14310",
+				"size": 1156,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.25-alpha.tgz_1467428944976_0.015354029135778546"
+			},
+			"directories": {},
+			"publish_time": 1467428948211,
+			"_cnpm_publish_time": 1467428948211,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/ora",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for ora",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Basarat Ali Syed",
+				"email": "https://github.com/basarat/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ora@0.0.24-alpha",
+			"_shasum": "6c60297706cd76a32cb1225a8b9f35a966f0249d",
+			"_from": "output\\ora",
+			"_resolved": "file:output\\ora",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6c60297706cd76a32cb1225a8b9f35a966f0249d",
+				"size": 1156,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.24-alpha.tgz_1467416068625_0.8864195351488888"
+			},
+			"directories": {},
+			"publish_time": 1467416072183,
+			"_cnpm_publish_time": 1467416072183,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/ora",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for ora",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Basarat Ali Syed",
+				"email": "https://github.com/basarat/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ora@0.0.23-alpha",
+			"_shasum": "5d3afa5409b42730196753fdaf735390dbd178fc",
+			"_from": "output\\ora",
+			"_resolved": "file:output\\ora",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5d3afa5409b42730196753fdaf735390dbd178fc",
+				"size": 1152,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.23-alpha.tgz_1467404260403_0.8904911074787378"
+			},
+			"directories": {},
+			"publish_time": 1467404264307,
+			"_cnpm_publish_time": 1467404264307,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/ora",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for ora",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Basarat Ali Syed",
+				"email": "https://github.com/basarat/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ora@0.0.22-alpha",
+			"_shasum": "d6c5e107d1836c1ac844f8f16674a907a8437365",
+			"_from": "output\\ora",
+			"_resolved": "file:output\\ora",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d6c5e107d1836c1ac844f8f16674a907a8437365",
+				"size": 1120,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.22-alpha.tgz_1464154662113_0.07867363607510924"
+			},
+			"directories": {},
+			"publish_time": 1464154664506,
+			"_cnpm_publish_time": 1464154664506,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/ora",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for ora",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Basarat Ali Syed",
+				"email": "https://github.com/basarat/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ora@0.0.21-alpha",
+			"_shasum": "e0c0fcff109f8258b43bc5b9c99251e5daf64082",
+			"_from": "output\\ora",
+			"_resolved": "file:output\\ora",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e0c0fcff109f8258b43bc5b9c99251e5daf64082",
+				"size": 1120,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.21-alpha.tgz_1463775688466_0.7681869948282838"
+			},
+			"directories": {},
+			"publish_time": 1463775689565,
+			"_cnpm_publish_time": 1463775689565,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/ora",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for ora from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Basarat Ali Syed",
+				"email": "https://github.com/basarat/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ora@0.0.16-alpha",
+			"_shasum": "d7444995d09ebf23f3ec9dfa7ac096a0c2199816",
+			"_from": "output\\ora",
+			"_resolved": "file:output\\ora",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d7444995d09ebf23f3ec9dfa7ac096a0c2199816",
+				"size": 1130,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.16-alpha.tgz_1463694957522_0.931000042008236"
+			},
+			"directories": {},
+			"publish_time": 1463694958211,
+			"_cnpm_publish_time": 1463694958211,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/ora",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for ora from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Basarat Ali Syed",
+				"email": "https://github.com/basarat/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ora@0.0.15-alpha",
+			"_shasum": "d7c252af460a6402101a7c522d08bc38c777638a",
+			"_from": "output\\ora",
+			"_resolved": "file:output\\ora",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d7c252af460a6402101a7c522d08bc38c777638a",
+				"size": 1122,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ora-0.0.15-alpha.tgz_1463509936674_0.5729623907245696"
+			},
+			"directories": {},
+			"publish_time": 1463509937190,
+			"_cnpm_publish_time": 1463509937190,
+			"_hasShrinkwrap": false
+		},
+		"0.3.33": {
+			"name": "@types/ora",
+			"version": "0.3.33",
+			"description": "TypeScript definitions for ora",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Basarat Ali Syed",
+					"url": "https://github.com/basarat",
+					"githubUsername": "basarat"
+				},
+				{
+					"name": "Christian Rackerseder",
+					"url": "https://github.com/screendriver",
+					"githubUsername": "screendriver"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "38dd2ec997692550c183a65d6b318087e74d9143fd2b3918bf0a0a163e550ef8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/ora@0.3.33",
+			"dist": {
+				"shasum": "4158ca7433574ff3e447746967d66a07598d180c",
+				"size": 1808,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ora/download/@types/ora-0.3.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/ora_0.3.33_1534616117552_0.2807676196952793"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1534616117637,
+			"_cnpm_publish_time": 1534616117637
+		}
+	},
+	"dist-tags": {
+		"latest": "1.3.4",
+		"ts2.0": "1.3.4",
+		"ts2.1": "1.3.4",
+		"ts2.2": "1.3.4",
+		"ts2.3": "1.3.4",
+		"ts2.4": "1.3.4",
+		"ts2.5": "1.3.4",
+		"ts2.6": "1.3.4",
+		"ts2.7": "1.3.4",
+		"ts2.8": "1.3.4",
+		"ts2.9": "1.3.4",
+		"ts3.0": "1.3.4",
+		"ts3.1": "1.3.4",
+		"ts3.2": "1.3.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:23:16.000Z",
+		"created": "2016-05-17T18:32:17.190Z",
+		"0.3.33": "2018-08-18T18:15:17.637Z",
+		"1.3.4": "2018-04-03T20:26:28.280Z",
+		"1.3.3": "2018-03-15T23:20:01.704Z",
+		"1.3.2": "2018-02-26T22:52:33.742Z",
+		"1.3.1": "2017-08-21T22:00:28.469Z",
+		"1.3.0": "2017-07-22T19:11:30.936Z",
+		"0.3.32": "2017-07-22T19:10:45.121Z",
+		"0.3.31": "2016-11-14T19:36:48.244Z",
+		"0.3.30": "2016-10-26T19:27:28.289Z",
+		"0.0.29": "2016-09-19T17:58:08.733Z",
+		"0.0.28": "2016-07-14T15:38:10.289Z",
+		"0.0.27-alpha": "2016-07-08T21:00:39.431Z",
+		"0.0.26-alpha": "2016-07-04T00:58:05.862Z",
+		"0.0.25-alpha": "2016-07-02T03:09:08.211Z",
+		"0.0.24-alpha": "2016-07-01T23:34:32.183Z",
+		"0.0.23-alpha": "2016-07-01T20:17:44.307Z",
+		"0.0.22-alpha": "2016-05-25T05:37:44.506Z",
+		"0.0.21-alpha": "2016-05-20T20:21:29.565Z",
+		"0.0.16-alpha": "2016-05-19T21:55:58.211Z",
+		"0.0.15-alpha": "2016-05-17T18:32:17.190Z"
+	},
+	"_distfiles": {
+		"ora-1.3.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-1.3.4.tgz",
+			"sha": "b7fbbea8dac9851eb1918a761e2f4fae4cec03f5",
+			"registry": "cnpmjs"
+		},
+		"ora-1.3.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-1.3.3.tgz",
+			"sha": "d3186418c3cf37a831799b376beca4a8e1bfca2d",
+			"registry": "cnpmjs"
+		},
+		"ora-1.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-1.3.2.tgz",
+			"sha": "ded29aeec023deaa1e56b99cb51234954f35a7cd",
+			"registry": "cnpmjs"
+		},
+		"ora-1.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-1.3.1.tgz",
+			"sha": "53db0e10b7ea2f014548e87ea81c755986502e52",
+			"registry": "cnpmjs"
+		},
+		"ora-1.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-1.3.0.tgz",
+			"sha": "bcf38dd7afa5c698762376e4793f7b607a87c772",
+			"registry": "cnpmjs"
+		},
+		"ora-0.3.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.3.32.tgz",
+			"sha": "60842f56a0676b094780d1a8181df7802753cfc9",
+			"registry": "cnpmjs"
+		},
+		"ora-0.3.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.3.31.tgz",
+			"sha": "1a4bf16bd62ec2764b8f40b0e2f4d85c21292f83",
+			"registry": "cnpmjs"
+		},
+		"ora-0.3.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.3.30.tgz",
+			"sha": "c5505f0dc9917eb9b7561984471c03ea11558b7f",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.29.tgz",
+			"sha": "43e3fdc971450dafd203269074ce7a8cb06b0d06",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.28.tgz",
+			"sha": "cc7f677a93abcf9033bd6000e25f4fe4872d7347",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.27-alpha.tgz",
+			"sha": "b92d9a72d1d3c5fac619664c381293e26e7b6330",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.26-alpha.tgz",
+			"sha": "1781353a4d31f352f767dcdc311d9807c78c6297",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.25-alpha.tgz",
+			"sha": "3f71e1cda626b902bf9aa4173b493d0daca14310",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.24-alpha.tgz",
+			"sha": "6c60297706cd76a32cb1225a8b9f35a966f0249d",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.23-alpha.tgz",
+			"sha": "5d3afa5409b42730196753fdaf735390dbd178fc",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.22-alpha.tgz",
+			"sha": "d6c5e107d1836c1ac844f8f16674a907a8437365",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.21-alpha.tgz",
+			"sha": "e0c0fcff109f8258b43bc5b9c99251e5daf64082",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.16-alpha.tgz",
+			"sha": "d7444995d09ebf23f3ec9dfa7ac096a0c2199816",
+			"registry": "cnpmjs"
+		},
+		"ora-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.0.15-alpha.tgz",
+			"sha": "d7c252af460a6402101a7c522d08bc38c777638a",
+			"registry": "cnpmjs"
+		},
+		"ora-0.3.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ora/download/@types/ora-0.3.33.tgz",
+			"sha": "4158ca7433574ff3e447746967d66a07598d180c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"602b-cvwu3s15KhePOjsVEHiUlXR14ZI\"",
+			"fetched": 1541833486242
+		}
+	},
+	"_rev": "2-801aa38346720b0c",
+	"readme": "# Installation\r\n> `npm install --save @types/ora`\r\n\r\n# Summary\r\nThis package contains type definitions for ora (https://github.com/sindresorhus/ora).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ora\r\n\r\nAdditional Details\r\n * Last updated: Tue, 03 Apr 2018 20:25:19 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Basarat Ali Syed <https://github.com/basarat>, Christian Rackerseder <https://github.com/screendriver>, BendingBender <https://github.com/BendingBender>, Aleh Zasypkin <https://github.com/azasypkin>."
+}

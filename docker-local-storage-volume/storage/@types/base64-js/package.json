@@ -1,0 +1,269 @@
+{
+	"name": "@types/base64-js",
+	"versions": {
+		"1.2.5": {
+			"name": "@types/base64-js",
+			"version": "1.2.5",
+			"description": "TypeScript definitions for base64-js 1.2",
+			"license": "MIT",
+			"author": "Peter Safranek <https://github.com/pe8ter>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "359c9d66a25f21a130733e1ebecada07cf1201d883220fcfa0418b463f6e13c1",
+			"_id": "@types/base64-js@1.2.5",
+			"dist": {
+				"shasum": "582b2476169a6cba460a214d476c744441d873d5",
+				"size": 1022,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/base64-js/download/@types/base64-js-1.2.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/base64-js-1.2.5.tgz_1476996346173_0.875824379036203"
+			},
+			"directories": {},
+			"publish_time": 1476996347250,
+			"_cnpm_publish_time": 1476996347250,
+			"_hasShrinkwrap": false
+		},
+		"1.1.4": {
+			"name": "@types/base64-js",
+			"version": "1.1.4",
+			"description": "TypeScript definitions for base64-js v1.1.2",
+			"license": "MIT",
+			"author": "Peter Safranek <https://github.com/pe8ter>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "6189fa8e85873c975065839f574cda416c89ad6a711d5ffd5ca36488e3de3e6f",
+			"_id": "@types/base64-js@1.1.4",
+			"dist": {
+				"shasum": "00cc4ffceeef1842ab59a2724a41613fd5c3fbc2",
+				"size": 1006,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/base64-js/download/@types/base64-js-1.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/base64-js-1.1.4.tgz_1474302144382_0.06606300571002066"
+			},
+			"directories": {},
+			"publish_time": 1474302146355,
+			"_cnpm_publish_time": 1474302146355,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/base64-js",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for base64-js v1.1.2",
+			"license": "MIT",
+			"author": "Peter Safranek <https://github.com/pe8ter>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/base64-js@0.0.3",
+			"dist": {
+				"shasum": "c43f2b72342cdc3553b79b63ac4c59bb1b1e857e",
+				"size": 993,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/base64-js/download/@types/base64-js-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/base64-js-0.0.3.tgz_1472150128943_0.36579048819839954"
+			},
+			"directories": {},
+			"publish_time": 1472150129567,
+			"_cnpm_publish_time": 1472150129567,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/base64-js",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for base64-js v1.1.2",
+			"license": "MIT",
+			"author": "Peter Safranek <https://github.com/pe8ter>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/base64-js@0.0.2",
+			"dist": {
+				"shasum": "8325ce0a20c4fe5db2ce122640d28de5f09ed201",
+				"size": 993,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/base64-js/download/@types/base64-js-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/base64-js-0.0.2.tgz_1471528400484_0.42908545630052686"
+			},
+			"directories": {},
+			"publish_time": 1471528402539,
+			"_cnpm_publish_time": 1471528402539,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/base64-js",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for base64-js v1.1.2",
+			"license": "MIT",
+			"author": "Peter Safranek <https://github.com/pe8ter>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "base64-js.d.ts",
+			"_id": "@types/base64-js@0.0.1",
+			"dist": {
+				"shasum": "755b514befda221dca1650cc4c2ec75944e0f577",
+				"size": 6144,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/base64-js/download/@types/base64-js-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/base64-js-0.0.1.tgz_1470152854007_0.9454147117212415"
+			},
+			"directories": {},
+			"publish_time": 1470152855860,
+			"_cnpm_publish_time": 1470152855860,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.5",
+		"ts2.0": "1.2.5",
+		"ts2.1": "1.2.5",
+		"ts2.2": "1.2.5",
+		"ts2.3": "1.2.5",
+		"ts2.4": "1.2.5",
+		"ts2.5": "1.2.5",
+		"ts2.6": "1.2.5",
+		"ts2.7": "1.2.5",
+		"ts2.8": "1.2.5",
+		"ts2.9": "1.2.5",
+		"ts3.0": "1.2.5",
+		"ts3.1": "1.2.5",
+		"ts3.2": "1.2.5"
+	},
+	"time": {
+		"modified": "2018-10-10T19:56:31.000Z",
+		"created": "2016-08-02T15:47:35.860Z",
+		"1.2.5": "2016-10-20T20:45:47.250Z",
+		"1.1.4": "2016-09-19T16:22:26.355Z",
+		"0.0.3": "2016-08-25T18:35:29.567Z",
+		"0.0.2": "2016-08-18T13:53:22.539Z",
+		"0.0.1": "2016-08-02T15:47:35.860Z"
+	},
+	"_distfiles": {
+		"base64-js-1.2.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/base64-js/download/@types/base64-js-1.2.5.tgz",
+			"sha": "582b2476169a6cba460a214d476c744441d873d5",
+			"registry": "cnpmjs"
+		},
+		"base64-js-1.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/base64-js/download/@types/base64-js-1.1.4.tgz",
+			"sha": "00cc4ffceeef1842ab59a2724a41613fd5c3fbc2",
+			"registry": "cnpmjs"
+		},
+		"base64-js-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/base64-js/download/@types/base64-js-0.0.3.tgz",
+			"sha": "c43f2b72342cdc3553b79b63ac4c59bb1b1e857e",
+			"registry": "cnpmjs"
+		},
+		"base64-js-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/base64-js/download/@types/base64-js-0.0.2.tgz",
+			"sha": "8325ce0a20c4fe5db2ce122640d28de5f09ed201",
+			"registry": "cnpmjs"
+		},
+		"base64-js-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/base64-js/download/@types/base64-js-0.0.1.tgz",
+			"sha": "755b514befda221dca1650cc4c2ec75944e0f577",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1925-PPpilfF8tuEoJjpgFZkNIv/8rao\"",
+			"fetched": 1541833452648
+		}
+	},
+	"_rev": "2-7de6506e444291b6",
+	"readme": "# Installation\r\n> `npm install --save @types/base64-js`\r\n\r\n# Summary\r\nThis package contains type definitions for base64-js 1.2 (https://github.com/beatgammit/base64-js).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/base64-js\r\n\r\nAdditional Details\r\n * Last updated: Thu, 20 Oct 2016 20:45:15 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Peter Safranek <https://github.com/pe8ter>."
+}

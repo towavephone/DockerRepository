@@ -1,0 +1,261 @@
+{
+	"name": "@types/decompress",
+	"versions": {
+		"4.2.2": {
+			"name": "@types/decompress",
+			"version": "4.2.2",
+			"description": "TypeScript definitions for decompress",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "York Yao",
+					"url": "https://github.com/plantain-00",
+					"githubUsername": "plantain-00"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "478c140bf5b07a4ca3b4ec405b9998c278be6abb5aba80b5166a1bb59e8bc674",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/decompress@4.2.2",
+			"dist": {
+				"shasum": "38a299e981862a898e5ac84eb1adc9329a0bad56",
+				"size": 1801,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decompress/download/@types/decompress-4.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/decompress_4.2.2_1523575819344_0.9351083119602364"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523575819432,
+			"_cnpm_publish_time": 1523575819432
+		},
+		"4.2.1": {
+			"name": "@types/decompress",
+			"version": "4.2.1",
+			"description": "TypeScript definitions for decompress",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "York Yao",
+					"url": "https://github.com/plantain-00",
+					"githubUsername": "plantain-00"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "731f4b0672ece18ddaf50226813d8a79b79e12d27c77e8566ef61996832011fc",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/decompress@4.2.1",
+			"dist": {
+				"shasum": "28aa680af11c09058b22ebbc7fe443a0b22545a2",
+				"size": 1797,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decompress/download/@types/decompress-4.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/decompress_4.2.1_1521741190953_0.45709395765860394"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521741191047,
+			"_cnpm_publish_time": 1521741191047
+		},
+		"4.2.0": {
+			"name": "@types/decompress",
+			"version": "4.2.0",
+			"description": "TypeScript definitions for decompress",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "York Yao",
+					"url": "https://github.com/plantain-00",
+					"githubUsername": "plantain-00"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "aca5f8cf191a82ba06157c698cbb62f047ce4af858aa9ba3f41e65381039e3af",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/decompress@4.2.0",
+			"dist": {
+				"shasum": "ce067d27c7edeb418138f348a5b5eed2abb82315",
+				"size": 1767,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decompress/download/@types/decompress-4.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/decompress-4.2.0.tgz_1507762900466_0.5960616921074688"
+			},
+			"directories": {},
+			"publish_time": 1507762900721,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507762900721
+		},
+		"4.2.3": {
+			"name": "@types/decompress",
+			"version": "4.2.3",
+			"description": "TypeScript definitions for decompress",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "York Yao",
+					"url": "https://github.com/plantain-00",
+					"githubUsername": "plantain-00"
+				},
+				{
+					"name": "Jesse Bethke",
+					"url": "https://github.com/jbethke",
+					"githubUsername": "jbethke"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "0e95800d60335c4dc88a1b57f565abc1f52dcd42e6a29127ed907a6622fee6fc",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/decompress@4.2.3",
+			"dist": {
+				"shasum": "98eed48af80001038aa05690b2094915f296fe65",
+				"size": 1854,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/decompress/download/@types/decompress-4.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/decompress_4.2.3_1528917591286_0.5106258806134483"
+			},
+			"publish_time": 1528917591349,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1528917591349
+		}
+	},
+	"dist-tags": {
+		"latest": "4.2.3",
+		"ts2.0": "4.2.3",
+		"ts2.1": "4.2.3",
+		"ts2.2": "4.2.3",
+		"ts2.3": "4.2.3",
+		"ts2.4": "4.2.3",
+		"ts2.5": "4.2.3",
+		"ts2.6": "4.2.3",
+		"ts2.7": "4.2.3",
+		"ts2.8": "4.2.3",
+		"ts2.9": "4.2.3",
+		"ts3.0": "4.2.3",
+		"ts3.1": "4.2.3",
+		"ts3.2": "4.2.3"
+	},
+	"time": {
+		"modified": "2018-10-10T20:09:36.000Z",
+		"created": "2017-10-11T23:01:40.721Z",
+		"4.2.3": "2018-06-13T19:19:51.349Z",
+		"4.2.2": "2018-04-12T23:30:19.432Z",
+		"4.2.1": "2018-03-22T17:53:11.047Z",
+		"4.2.0": "2017-10-11T23:01:40.721Z"
+	},
+	"_distfiles": {
+		"decompress-4.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decompress/download/@types/decompress-4.2.2.tgz",
+			"sha": "38a299e981862a898e5ac84eb1adc9329a0bad56",
+			"registry": "cnpmjs"
+		},
+		"decompress-4.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decompress/download/@types/decompress-4.2.1.tgz",
+			"sha": "28aa680af11c09058b22ebbc7fe443a0b22545a2",
+			"registry": "cnpmjs"
+		},
+		"decompress-4.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decompress/download/@types/decompress-4.2.0.tgz",
+			"sha": "ce067d27c7edeb418138f348a5b5eed2abb82315",
+			"registry": "cnpmjs"
+		},
+		"decompress-4.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/decompress/download/@types/decompress-4.2.3.tgz",
+			"sha": "98eed48af80001038aa05690b2094915f296fe65",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"16e5-dR/RMzqkuEn7+oXQzqcGIbejKZc\"",
+			"fetched": 1541833454248
+		}
+	},
+	"_rev": "2-aca233e67a509536",
+	"readme": "# Installation\r\n> `npm install --save @types/decompress`\r\n\r\n# Summary\r\nThis package contains type definitions for decompress (https://github.com/kevva/decompress#readme).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/decompress\r\n\r\nAdditional Details\r\n * Last updated: Wed, 13 Jun 2018 19:16:56 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by York Yao <https://github.com/plantain-00>, Jesse Bethke <https://github.com/jbethke>."
+}

@@ -1,0 +1,699 @@
+{
+	"name": "eslint-plugin-markdown",
+	"versions": {
+		"1.0.0-beta.8": {
+			"name": "eslint-plugin-markdown",
+			"version": "1.0.0-beta.8",
+			"description": "An ESLint plugin to lint JavaScript in Markdown code fences.",
+			"license": "MIT",
+			"author": {
+				"name": "Brandon Mills",
+				"url": "https://github.com/btmills"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/eslint/eslint-plugin-markdown.git"
+			},
+			"bugs": {
+				"url": "https://github.com/eslint/eslint-plugin-markdown/issues"
+			},
+			"homepage": "https://github.com/eslint/eslint-plugin-markdown#readme",
+			"keywords": [
+				"eslint",
+				"eslintplugin",
+				"markdown",
+				"lint",
+				"linter"
+			],
+			"scripts": {
+				"lint": "eslint Makefile.js lib/**/*.js tests/lib/plugin.js",
+				"test": "npm run lint && npm run test-cov",
+				"test-cov": "istanbul cover _mocha -- -c tests/lib/**/*.js",
+				"release": "eslint-release",
+				"ci-release": "eslint-ci-release",
+				"gh-release": "eslint-gh-release",
+				"alpharelease": "eslint-prerelease alpha",
+				"betarelease": "eslint-prerelease beta"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js",
+				"lib/index.js",
+				"lib/processor.js"
+			],
+			"devDependencies": {
+				"chai": "^3.0.0",
+				"eslint": "^2.2.0",
+				"eslint-config-eslint": "^3.0.0",
+				"eslint-release": "^0.10.2",
+				"istanbul": "^0.4.5",
+				"mocha": "^2.2.5"
+			},
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"remark-parse": "^3.0.0",
+				"unified": "^6.1.2"
+			},
+			"readmeFilename": "README.md",
+			"gitHead": "9ab617382b0583dd75a0bf968bca1f7459bb77bc",
+			"_id": "eslint-plugin-markdown@1.0.0-beta.8",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.3",
+			"_npmUser": {
+				"name": "eslint",
+				"email": "nicholas+eslint@nczconsulting.com"
+			},
+			"dist": {
+				"shasum": "8d10707fdc551dc28ed9e14bd03c18f776e2fb76",
+				"size": 5224,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "btmills",
+					"email": "mills.brandont@gmail.com"
+				},
+				{
+					"name": "eslint",
+					"email": "nicholas+eslint@nczconsulting.com"
+				},
+				{
+					"name": "ivolodin",
+					"email": "ivolodin@gmail.com"
+				},
+				{
+					"name": "nzakas",
+					"email": "nicholas@nczconsulting.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/eslint-plugin-markdown_1.0.0-beta.8_1523222288528_0.8478862937408953"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523222288600,
+			"_cnpm_publish_time": 1523222288600
+		},
+		"1.0.0-beta.7": {
+			"name": "eslint-plugin-markdown",
+			"version": "1.0.0-beta.7",
+			"description": "An ESLint plugin to lint JavaScript in Markdown code fences.",
+			"license": "MIT",
+			"author": {
+				"name": "Brandon Mills",
+				"url": "https://github.com/btmills"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/eslint/eslint-plugin-markdown.git"
+			},
+			"bugs": {
+				"url": "https://github.com/eslint/eslint-plugin-markdown/issues"
+			},
+			"homepage": "https://github.com/eslint/eslint-plugin-markdown#readme",
+			"keywords": [
+				"eslint",
+				"eslintplugin",
+				"markdown",
+				"lint",
+				"linter"
+			],
+			"scripts": {
+				"lint": "eslint Makefile.js lib/**/*.js tests/lib/plugin.js",
+				"test": "npm run lint && npm run test-cov",
+				"test-cov": "istanbul cover _mocha -- -c tests/lib/**/*.js",
+				"release": "eslint-release",
+				"ci-release": "eslint-ci-release",
+				"gh-release": "eslint-gh-release",
+				"alpharelease": "eslint-prerelease alpha",
+				"betarelease": "eslint-prerelease beta"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js",
+				"lib/index.js",
+				"lib/processor.js"
+			],
+			"devDependencies": {
+				"chai": "^3.0.0",
+				"eslint": "^2.2.0",
+				"eslint-config-eslint": "^3.0.0",
+				"eslint-release": "^0.10.2",
+				"istanbul": "^0.4.5",
+				"mocha": "^2.2.5"
+			},
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"remark-parse": "^3.0.0",
+				"unified": "^6.1.2"
+			},
+			"gitHead": "7ed8342c0eb2cf517bb37bde461607f0a11e496d",
+			"_id": "eslint-plugin-markdown@1.0.0-beta.7",
+			"_shasum": "12e73a4127c4a4b79d966f9f475851dd0f78f7e7",
+			"_from": ".",
+			"_npmVersion": "4.5.0",
+			"_nodeVersion": "6.10.3",
+			"_npmUser": {
+				"name": "eslint",
+				"email": "nicholas+eslint@nczconsulting.com"
+			},
+			"dist": {
+				"shasum": "12e73a4127c4a4b79d966f9f475851dd0f78f7e7",
+				"size": 5017,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "btmills",
+					"email": "mills.brandont@gmail.com"
+				},
+				{
+					"name": "eslint",
+					"email": "nicholas+eslint@nczconsulting.com"
+				},
+				{
+					"name": "ivolodin",
+					"email": "ivolodin@gmail.com"
+				},
+				{
+					"name": "nzakas",
+					"email": "nicholas@nczconsulting.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/eslint-plugin-markdown-1.0.0-beta.7.tgz_1499026463164_0.1683483445085585"
+			},
+			"directories": {},
+			"publish_time": 1499026463303,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1499026463303
+		},
+		"1.0.0-beta.6": {
+			"name": "eslint-plugin-markdown",
+			"version": "1.0.0-beta.6",
+			"description": "An ESLint plugin to lint JavaScript in Markdown code fences.",
+			"license": "MIT",
+			"author": {
+				"name": "Brandon Mills",
+				"url": "https://github.com/btmills"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/eslint/eslint-plugin-markdown.git"
+			},
+			"bugs": {
+				"url": "https://github.com/eslint/eslint-plugin-markdown/issues"
+			},
+			"homepage": "https://github.com/eslint/eslint-plugin-markdown#readme",
+			"keywords": [
+				"eslint",
+				"eslintplugin",
+				"markdown",
+				"lint",
+				"linter"
+			],
+			"scripts": {
+				"lint": "eslint Makefile.js lib/**/*.js tests/lib/plugin.js",
+				"test": "npm run lint && npm run test-cov",
+				"test-cov": "istanbul cover _mocha -- -c tests/lib/**/*.js",
+				"release": "eslint-release",
+				"ci-release": "eslint-ci-release",
+				"gh-release": "eslint-gh-release",
+				"alpharelease": "eslint-prerelease alpha",
+				"betarelease": "eslint-prerelease beta"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js",
+				"lib/index.js",
+				"lib/processor.js"
+			],
+			"devDependencies": {
+				"chai": "^3.0.0",
+				"eslint": "^2.2.0",
+				"eslint-config-eslint": "^3.0.0",
+				"eslint-release": "^0.10.2",
+				"istanbul": "^0.4.5",
+				"mocha": "^2.2.5"
+			},
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"remark-parse": "^3.0.0",
+				"unified": "^6.1.2"
+			},
+			"gitHead": "65e296d71ce5ccd3b598ff1aa4c4ae9fb56442e7",
+			"_id": "eslint-plugin-markdown@1.0.0-beta.6",
+			"_shasum": "d9e62666eea4e76387e85f502df668abdfbd4395",
+			"_from": ".",
+			"_npmVersion": "2.15.8",
+			"_nodeVersion": "4.4.7",
+			"_npmUser": {
+				"name": "eslint",
+				"email": "nicholas+eslint@nczconsulting.com"
+			},
+			"dist": {
+				"shasum": "d9e62666eea4e76387e85f502df668abdfbd4395",
+				"size": 4520,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "btmills",
+					"email": "mills.brandont@gmail.com"
+				},
+				{
+					"name": "eslint",
+					"email": "nicholas+eslint@nczconsulting.com"
+				},
+				{
+					"name": "ivolodin",
+					"email": "ivolodin@gmail.com"
+				},
+				{
+					"name": "nzakas",
+					"email": "nicholas@nczconsulting.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/eslint-plugin-markdown-1.0.0-beta.6.tgz_1493514990035_0.9429082840215415"
+			},
+			"directories": {},
+			"publish_time": 1493514991882,
+			"_cnpm_publish_time": 1493514991882,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-beta.4": {
+			"name": "eslint-plugin-markdown",
+			"version": "1.0.0-beta.4",
+			"description": "An ESLint plugin to lint JavaScript in Markdown code fences.",
+			"license": "MIT",
+			"author": {
+				"name": "Brandon Mills",
+				"url": "https://github.com/btmills"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/eslint/eslint-plugin-markdown.git"
+			},
+			"bugs": {
+				"url": "https://github.com/eslint/eslint-plugin-markdown/issues"
+			},
+			"homepage": "https://github.com/eslint/eslint-plugin-markdown#readme",
+			"keywords": [
+				"eslint",
+				"eslintplugin",
+				"markdown",
+				"lint",
+				"linter"
+			],
+			"scripts": {
+				"test": "eslint --ext .js --ext .md . && mocha tests"
+			},
+			"main": "index.js",
+			"files": [
+				"lib/*.js",
+				"index.js",
+				"LICENSE",
+				"README.md"
+			],
+			"devDependencies": {
+				"chai": "^3.0.0",
+				"eslint": "^2.2.0",
+				"eslint-config-eslint": "^3.0.0",
+				"mocha": "^2.2.5"
+			},
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"parse5": "^2.2.2",
+				"remark": "^5.0.0"
+			},
+			"gitHead": "c84a63171c85a1ffec9b4fd41b55f29bb2117b21",
+			"_id": "eslint-plugin-markdown@1.0.0-beta.4",
+			"_shasum": "82a19971399e4b1b62f7d4ac6424687c2c07ee7a",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.7.1",
+			"_npmUser": {
+				"name": "btmills",
+				"email": "mills.brandont@gmail.com"
+			},
+			"dist": {
+				"shasum": "82a19971399e4b1b62f7d4ac6424687c2c07ee7a",
+				"size": 4216,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "btmills",
+					"email": "mills.brandont@gmail.com"
+				},
+				{
+					"name": "eslint",
+					"email": "nicholas+eslint@nczconsulting.com"
+				},
+				{
+					"name": "ivolodin",
+					"email": "ivolodin@gmail.com"
+				},
+				{
+					"name": "nzakas",
+					"email": "nicholas@nczconsulting.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/eslint-plugin-markdown-1.0.0-beta.4.tgz_1488662554242_0.9874107467476279"
+			},
+			"directories": {},
+			"publish_time": 1488662556092,
+			"_cnpm_publish_time": 1488662556092,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-beta.3": {
+			"name": "eslint-plugin-markdown",
+			"version": "1.0.0-beta.3",
+			"description": "An ESLint plugin to lint JavaScript in Markdown code fences.",
+			"license": "MIT",
+			"author": {
+				"name": "Brandon Mills",
+				"url": "https://github.com/btmills"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/eslint/eslint-plugin-markdown.git"
+			},
+			"bugs": {
+				"url": "https://github.com/eslint/eslint-plugin-markdown/issues"
+			},
+			"homepage": "https://github.com/eslint/eslint-plugin-markdown#readme",
+			"keywords": [
+				"eslint",
+				"eslintplugin",
+				"markdown",
+				"lint",
+				"linter"
+			],
+			"scripts": {
+				"test": "eslint --ext .js --ext .md . && mocha tests"
+			},
+			"main": "index.js",
+			"files": [
+				"lib/*.js",
+				"index.js",
+				"LICENSE",
+				"README.md"
+			],
+			"devDependencies": {
+				"chai": "^3.0.0",
+				"eslint": "^2.2.0",
+				"eslint-config-eslint": "^3.0.0",
+				"mocha": "^2.2.5"
+			},
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"parse5": "^2.2.2",
+				"remark": "^4.1.1"
+			},
+			"gitHead": "3930bc77549d1d074912b6919700761c03bcb106",
+			"_id": "eslint-plugin-markdown@1.0.0-beta.3",
+			"_shasum": "84762b7507b82f01a0c8694a4de4ca70ef56ae03",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "btmills",
+				"email": "mills.brandont@gmail.com"
+			},
+			"dist": {
+				"shasum": "84762b7507b82f01a0c8694a4de4ca70ef56ae03",
+				"size": 4225,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "btmills",
+					"email": "mills.brandont@gmail.com"
+				},
+				{
+					"name": "eslint",
+					"email": "nicholas+eslint@nczconsulting.com"
+				},
+				{
+					"name": "ivolodin",
+					"email": "ivolodin@gmail.com"
+				},
+				{
+					"name": "nzakas",
+					"email": "nicholas@nczconsulting.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/eslint-plugin-markdown-1.0.0-beta.3.tgz_1477534288688_0.6577547874767333"
+			},
+			"directories": {},
+			"publish_time": 1477534290963,
+			"_cnpm_publish_time": 1477534290963,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-beta.2": {
+			"name": "eslint-plugin-markdown",
+			"version": "1.0.0-beta.2",
+			"description": "An ESLint plugin to lint JavaScript in Markdown code fences.",
+			"license": "MIT",
+			"author": {
+				"name": "Brandon Mills",
+				"url": "https://github.com/btmills"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/eslint/eslint-plugin-markdown.git"
+			},
+			"bugs": {
+				"url": "https://github.com/eslint/eslint-plugin-markdown/issues"
+			},
+			"homepage": "https://github.com/eslint/eslint-plugin-markdown#readme",
+			"keywords": [
+				"eslint",
+				"eslintplugin",
+				"markdown",
+				"lint",
+				"linter"
+			],
+			"scripts": {
+				"test": "eslint --ext .js --ext .md . && mocha tests"
+			},
+			"main": "index.js",
+			"files": [
+				"lib/*.js",
+				"index.js",
+				"LICENSE",
+				"README.md"
+			],
+			"devDependencies": {
+				"chai": "^3.0.0",
+				"eslint": "^2.2.0",
+				"eslint-config-eslint": "^3.0.0",
+				"mocha": "^2.2.5"
+			},
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"remark": "^4.1.1"
+			},
+			"gitHead": "fa006d51e2b98250dc378b0797f75d7987453e4b",
+			"_id": "eslint-plugin-markdown@1.0.0-beta.2",
+			"_shasum": "c7f1edce2e04ef83071647afc23f04e452ae9732",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "btmills",
+				"email": "mills.brandont@gmail.com"
+			},
+			"dist": {
+				"shasum": "c7f1edce2e04ef83071647afc23f04e452ae9732",
+				"size": 3180,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "btmills",
+					"email": "mills.brandont@gmail.com"
+				},
+				{
+					"name": "eslint",
+					"email": "nicholas+eslint@nczconsulting.com"
+				},
+				{
+					"name": "ivolodin",
+					"email": "ivolodin@gmail.com"
+				},
+				{
+					"name": "nzakas",
+					"email": "nicholas@nczconsulting.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/eslint-plugin-markdown-1.0.0-beta.2.tgz_1461537534695_0.2570176396984607"
+			},
+			"directories": {},
+			"publish_time": 1461537536828,
+			"_cnpm_publish_time": 1461537536828,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-beta.1": {
+			"name": "eslint-plugin-markdown",
+			"version": "1.0.0-beta.1",
+			"description": "An ESLint plugin to lint JavaScript in Markdown code fences.",
+			"license": "MIT",
+			"author": {
+				"name": "Brandon Mills",
+				"url": "https://github.com/btmills"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/eslint/eslint-plugin-markdown.git"
+			},
+			"bugs": {
+				"url": "https://github.com/eslint/eslint-plugin-markdown/issues"
+			},
+			"homepage": "https://github.com/eslint/eslint-plugin-markdown#readme",
+			"keywords": [
+				"eslint",
+				"eslintplugin",
+				"markdown",
+				"lint",
+				"linter"
+			],
+			"scripts": {
+				"test": "eslint --ext .js --ext .md . && mocha tests"
+			},
+			"main": "index.js",
+			"files": [
+				"lib/*.js",
+				"index.js",
+				"LICENSE",
+				"README.md"
+			],
+			"devDependencies": {
+				"chai": "^3.0.0",
+				"eslint": "^2.0.0-beta.1",
+				"eslint-config-eslint": "^2.0.0",
+				"mocha": "^2.2.5"
+			},
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"remark": "^3.2.0"
+			},
+			"gitHead": "a4d25cd5c1d7ef2ac6c94cd8683140a1a963dbde",
+			"_id": "eslint-plugin-markdown@1.0.0-beta.1",
+			"_shasum": "48b0b35f2df1bafa060b8ecc6dafba8181e35ef9",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "5.4.1",
+			"_npmUser": {
+				"name": "btmills",
+				"email": "mills.brandont@gmail.com"
+			},
+			"dist": {
+				"shasum": "48b0b35f2df1bafa060b8ecc6dafba8181e35ef9",
+				"size": 2953,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "btmills",
+					"email": "mills.brandont@gmail.com"
+				},
+				{
+					"name": "eslint",
+					"email": "nicholas+eslint@nczconsulting.com"
+				},
+				{
+					"name": "ivolodin",
+					"email": "ivolodin@gmail.com"
+				},
+				{
+					"name": "nzakas",
+					"email": "nicholas@nczconsulting.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1453066133879,
+			"_cnpm_publish_time": 1453066133879,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0-beta.6",
+		"next": "1.0.0-beta.8"
+	},
+	"time": {
+		"modified": "2018-04-08T21:18:19.000Z",
+		"created": "2016-01-17T21:28:53.879Z",
+		"1.0.0-beta.8": "2018-04-08T21:18:08.600Z",
+		"1.0.0-beta.7": "2017-07-02T20:14:23.303Z",
+		"1.0.0-beta.6": "2017-04-30T01:16:31.882Z",
+		"1.0.0-beta.4": "2017-03-04T21:22:36.092Z",
+		"1.0.0-beta.3": "2016-10-27T02:11:30.963Z",
+		"1.0.0-beta.2": "2016-04-24T22:38:56.828Z",
+		"1.0.0-beta.1": "2016-01-17T21:28:53.879Z"
+	},
+	"_distfiles": {
+		"eslint-plugin-markdown-1.0.0-beta.8.tgz": {
+			"url": "https://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.8.tgz",
+			"sha": "8d10707fdc551dc28ed9e14bd03c18f776e2fb76",
+			"registry": "cnpmjs"
+		},
+		"eslint-plugin-markdown-1.0.0-beta.7.tgz": {
+			"url": "https://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.7.tgz",
+			"sha": "12e73a4127c4a4b79d966f9f475851dd0f78f7e7",
+			"registry": "cnpmjs"
+		},
+		"eslint-plugin-markdown-1.0.0-beta.6.tgz": {
+			"url": "https://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.6.tgz",
+			"sha": "d9e62666eea4e76387e85f502df668abdfbd4395",
+			"registry": "cnpmjs"
+		},
+		"eslint-plugin-markdown-1.0.0-beta.4.tgz": {
+			"url": "https://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.4.tgz",
+			"sha": "82a19971399e4b1b62f7d4ac6424687c2c07ee7a",
+			"registry": "cnpmjs"
+		},
+		"eslint-plugin-markdown-1.0.0-beta.3.tgz": {
+			"url": "https://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.3.tgz",
+			"sha": "84762b7507b82f01a0c8694a4de4ca70ef56ae03",
+			"registry": "cnpmjs"
+		},
+		"eslint-plugin-markdown-1.0.0-beta.2.tgz": {
+			"url": "https://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.2.tgz",
+			"sha": "c7f1edce2e04ef83071647afc23f04e452ae9732",
+			"registry": "cnpmjs"
+		},
+		"eslint-plugin-markdown-1.0.0-beta.1.tgz": {
+			"url": "https://registry.npm.taobao.org/eslint-plugin-markdown/download/eslint-plugin-markdown-1.0.0-beta.1.tgz",
+			"sha": "48b0b35f2df1bafa060b8ecc6dafba8181e35ef9",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"46cd-TdpzC70Nq4zUPcMuvzbYSHbQRUE\"",
+			"fetched": 1528451131438
+		}
+	},
+	"_rev": "1-5e16c74283bc1b1f",
+	"readme": "# eslint-plugin-markdown\n\n![Screenshot](screenshot.png)\n\nAn [ESLint](http://eslint.org/) plugin to lint JavaScript in Markdown.\n\nSupported extensions are `.markdown`, `.mdown`, `.mkdn`, and `.md`.\n\n## Usage\n\nInstall the plugin:\n\n```sh\nnpm install --save-dev eslint eslint-plugin-markdown\n```\n\nAdd it to your `.eslintrc`:\n\n```json\n{\n    \"plugins\": [\n        \"markdown\"\n    ]\n}\n```\n\nRun ESLint on `.md` files:\n\n```sh\neslint --ext md .\n```\n\nIt will lint `js`, `javascript`, `jsx`, or `node` [fenced code blocks](https://help.github.com/articles/github-flavored-markdown/#fenced-code-blocks) in your Markdown documents:\n\n    ```js\n    // This gets linted\n    var answer = 6 * 7;\n    console.log(answer);\n    ```\n\n    ```JavaScript\n    // This also gets linted\n\n    /* eslint quotes: [2, \"double\"] */\n\n    function hello() {\n        console.log(\"Hello, world!\");\n    }\n    hello();\n    ```\n\n    ```jsx\n    // This gets linted too\n    var div = <div className=\"jsx\"></div>;\n    ```\n\n    ```node\n    // And this\n    console.log(process.version);\n    ```\n\nBlocks that don't specify either `js`, `javascript`, `jsx`, or `node` syntax are ignored:\n\n    ```\n    This is plain text and doesn't get linted.\n    ```\n\n    ```python\n    print(\"This doesn't get linted either.\")\n    ```\n\n## Configuration Comments\n\nThe processor will convert HTML comments immediately preceding a code block into JavaScript block comments and insert them at the beginning of the source code that it passes to ESLint. This permits configuring ESLint via configuration comments while keeping the configuration comments themselves hidden when the markdown is rendered. Comment bodies are passed through unmodified, so the plugin supports any [configuration comments](http://eslint.org/docs/user-guide/configuring) supported by ESLint itself.\n\nThis example enables the `browser` environment, disables the `no-alert` rule, and configures the `quotes` rule to prefer single quotes:\n\n    <!-- eslint-env browser -->\n    <!-- eslint-disable no-alert -->\n    <!-- eslint quotes: [\"error\", \"single\"] -->\n\n    ```js\n    alert('Hello, world!');\n    ```\n\nEach code block in a file is linted separately, so configuration comments apply only to the code block that immediately follows.\n\n    Assuming `no-alert` is enabled in `.eslintrc`, the first code block will have no error from `no-alert`:\n\n    <!-- eslint-env browser -->\n    <!-- eslint-disable no-alert -->\n\n    ```js\n    alert(\"Hello, world!\");\n    ```\n\n    But the next code block will have an error from `no-alert`:\n\n    <!-- eslint-env browser -->\n\n    ```js\n    alert(\"Hello, world!\");\n    ```\n\n## Unsatisfiable Rules\n\nSince code blocks are not files themselves but embedded inside a Markdown document, some rules do not apply to Markdown code blocks, and messages from these rules are automatically suppressed:\n\n- `eol-last`\n\n## Contributing\n\n```sh\n$ git clone https://github.com/eslint/eslint-plugin-markdown.git\n$ cd eslint-plugin-markdown\n$ npm link\n$ npm link eslint-plugin-markdown\n$ npm test\n```\n\nThis project follows the [ESLint contribution guidelines](http://eslint.org/docs/developer-guide/contributing/)."
+}

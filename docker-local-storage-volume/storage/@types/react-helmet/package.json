@@ -1,0 +1,1947 @@
+{
+	"name": "@types/react-helmet",
+	"versions": {
+		"5.0.6": {
+			"name": "@types/react-helmet",
+			"version": "5.0.6",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb",
+					"githubUsername": "evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh",
+					"githubUsername": "isman-usoh"
+				},
+				{
+					"name": "François Nguyen",
+					"url": "https://github.com/lith-light-g",
+					"githubUsername": "lith-light-g"
+				},
+				{
+					"name": "Kok Sam",
+					"url": "https://github.com/sammkj",
+					"githubUsername": "sammkj"
+				},
+				{
+					"name": "Yui T.",
+					"url": "https://github.com/yuit",
+					"githubUsername": "yuit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "227dccecac04ff28a762d8da0ae0369d3abd2ca8e67a07f40e683dab4c3fd949",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-helmet@5.0.6",
+			"dist": {
+				"shasum": "49607cbb72e1bb7dcefa9174cb591434d3b6f0af",
+				"size": 2031,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-helmet_5.0.6_1524781778471_0.11546800175951222"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524781778604,
+			"_cnpm_publish_time": 1524781778604
+		},
+		"5.0.5": {
+			"name": "@types/react-helmet",
+			"version": "5.0.5",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb",
+					"githubUsername": "evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh",
+					"githubUsername": "isman-usoh"
+				},
+				{
+					"name": "François Nguyen",
+					"url": "https://github.com/lith-light-g",
+					"githubUsername": "lith-light-g"
+				},
+				{
+					"name": "Kok Sam",
+					"url": "https://github.com/sammkj",
+					"githubUsername": "sammkj"
+				},
+				{
+					"name": "Yui T.",
+					"url": "https://github.com/yuit",
+					"githubUsername": "yuit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "3e00dbcb0b0c8d176b8f2b1a407310fd65b120f16be449fc350b2639bda2355a",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-helmet@5.0.5",
+			"dist": {
+				"shasum": "30a12b0431732a20882f0fa9b75bf56ff91700d3",
+				"size": 2023,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-helmet_5.0.5_1520013270836_0.5695795968815422"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520013270902,
+			"_cnpm_publish_time": 1520013270902
+		},
+		"5.0.4": {
+			"name": "@types/react-helmet",
+			"version": "5.0.4",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb",
+					"githubUsername": "evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh",
+					"githubUsername": "isman-usoh"
+				},
+				{
+					"name": "François Nguyen",
+					"url": "https://github.com/lith-light-g",
+					"githubUsername": "lith-light-g"
+				},
+				{
+					"name": "Kok Sam",
+					"url": "https://github.com/sammkj",
+					"githubUsername": "sammkj"
+				},
+				{
+					"name": "Yui T.",
+					"url": "https://github.com/yuit",
+					"githubUsername": "yuit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "c1dfab7a2fa8fd6e0ad8c6d5a1ef922cea5c03e57d65d026b3d1b265241f5c18",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-helmet@5.0.4",
+			"dist": {
+				"shasum": "e8c8277bf4b0f43ba6ba8d6cd098fc53b518f975",
+				"size": 2019,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-helmet_5.0.4_1518469338572_0.6239839004397183"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518469338646,
+			"_cnpm_publish_time": 1518469338646
+		},
+		"4.0.2": {
+			"name": "@types/react-helmet",
+			"version": "4.0.2",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb",
+					"githubUsername": "evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh",
+					"githubUsername": "isman-usoh"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "91d4b0c745672d75cbbdcae92a865973913aea99e6e9bfcb3bc42d16d408daca",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-helmet@4.0.2",
+			"dist": {
+				"shasum": "a2d3217e981f261a3b8192528356cf83796bb62a",
+				"size": 1826,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-4.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-helmet_4.0.2_1518469251118_0.9529283663421086"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518469251177,
+			"_cnpm_publish_time": 1518469251177
+		},
+		"5.0.3": {
+			"name": "@types/react-helmet",
+			"version": "5.0.3",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh"
+				},
+				{
+					"name": "François Nguyen",
+					"url": "https://github.com/lith-light-g"
+				},
+				{
+					"name": "Kok Sam",
+					"url": "https://github.com/sammkj"
+				},
+				{
+					"name": "Yui T.",
+					"url": "https://github.com/yuit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2d7b87656ad8eec4607ecacbdd3ad3041abcd4990d278f63b09f7f79d1e7819c",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-helmet@5.0.3",
+			"dist": {
+				"shasum": "614e706cb73120936c7c067404809f8c2f1a840c",
+				"size": 2002,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-helmet-5.0.3.tgz_1498239361425_0.7397547820582986"
+			},
+			"directories": {},
+			"publish_time": 1498239361512,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498239361512
+		},
+		"4.0.1": {
+			"name": "@types/react-helmet",
+			"version": "4.0.1",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2d9f804161344f6739767c7d66fc7de88777e333cc383291ce1253c1db2ad513",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-helmet@4.0.1",
+			"dist": {
+				"shasum": "9a54edf9fc59828cba22ef7104d05c60d401465e",
+				"size": 1825,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-helmet-4.0.1.tgz_1498239339021_0.8652964239008725"
+			},
+			"directories": {},
+			"publish_time": 1498239339173,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498239339173
+		},
+		"5.0.2": {
+			"name": "@types/react-helmet",
+			"version": "5.0.2",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh"
+				},
+				{
+					"name": "François Nguyen",
+					"url": "https://github.com/lith-light-g"
+				},
+				{
+					"name": "Kok Sam",
+					"url": "https://github.com/sammkj"
+				},
+				{
+					"name": "Yui T.",
+					"url": "https://github.com/yuit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "00d966820a0123003e52cbd04752907fb232710acf8c4e5053e6a26e9176a495",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-helmet@5.0.2",
+			"dist": {
+				"shasum": "31226b08f2f799b81c6319588f2aed6250367e13",
+				"size": 2007,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-5.0.2.tgz_1493402054706_0.20501875667832792"
+			},
+			"directories": {},
+			"publish_time": 1493402054953,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493402054953
+		},
+		"5.0.1": {
+			"name": "@types/react-helmet",
+			"version": "5.0.1",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh"
+				},
+				{
+					"name": "François Nguyen",
+					"url": "https://github.com/lith-light-g"
+				},
+				{
+					"name": "Kok Sam",
+					"url": "https://github.com/sammkj"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5b2192c61377f55098eaf3e35f499d859616a8f96167f368688b21700e89b43e",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-helmet@5.0.1",
+			"dist": {
+				"shasum": "20d16000ba364008fba13774acc9d50a94167c3f",
+				"size": 1934,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-5.0.1.tgz_1492528387267_0.9657786081079394"
+			},
+			"directories": {},
+			"publish_time": 1492528387503,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492528387503
+		},
+		"5.0.0": {
+			"name": "@types/react-helmet",
+			"version": "5.0.0",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh"
+				},
+				{
+					"name": "François Nguyen",
+					"url": "https://github.com/lith-light-g"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fff5c8940fcec7a53cdc5beb050beb8f6c16660cdbd93e1df53cdb22d70cce6d",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-helmet@5.0.0",
+			"dist": {
+				"shasum": "f955bc7d0efbc25315f1067631c1d30eddd88ac8",
+				"size": 1172,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-5.0.0.tgz_1490812374778_0.3037113023456186"
+			},
+			"directories": {},
+			"publish_time": 1490812376371,
+			"_cnpm_publish_time": 1490812376371,
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "@types/react-helmet",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6f4813176de979bd0ca44d727c4940d18b34e6eb4a7575861ace5042cfa901bd",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-helmet@4.0.0",
+			"dist": {
+				"shasum": "e47ba3633f4fa0bbc011bd963da78fb6094c3ee4",
+				"size": 1140,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-4.0.0.tgz_1490807958628_0.5236778212711215"
+			},
+			"directories": {},
+			"publish_time": 1490807958947,
+			"_cnpm_publish_time": 1490807958947,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/react-helmet",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"author": "Evan Bremer <https://github.com/evanbb>, Isman Usoh <https://github.com/isman-usoh>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "000f2a2eeff28a9ecfcfe60371e3d65520c7452ac52fde579fa3578c71746e88",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-helmet@0.0.28",
+			"dist": {
+				"shasum": "8a823e852980585df23b41912af026f02f5eae28",
+				"size": 1308,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.28.tgz_1485207281725_0.3146904231980443"
+			},
+			"directories": {},
+			"publish_time": 1485207281945,
+			"_cnpm_publish_time": 1485207281945,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/react-helmet",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"author": "Evan Bremer <https://github.com/evanbb>, Isman Usoh <https://github.com/isman-usoh>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5a22b9d1c6d0d2a77bec400d45c295c01f0fa224277530a3d57612b9fc84d109",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/react-helmet@0.0.27",
+			"dist": {
+				"shasum": "c80e326e9768a7de2a15cf04047d86c2c1f21350",
+				"size": 1279,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.27.tgz_1482886657685_0.36779146385379136"
+			},
+			"directories": {},
+			"publish_time": 1482886659769,
+			"_cnpm_publish_time": 1482886659769,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26": {
+			"name": "@types/react-helmet",
+			"version": "0.0.26",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"author": "Evan Bremer <https://github.com/evanbb>, Isman Usoh <https://github.com/isman-usoh>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "649a1e03dd3558112b9523d15c9f44049270ff82822b7c7014690994a47f50d2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/react-helmet@0.0.26",
+			"dist": {
+				"shasum": "712c84435c24b0768632228eb35a8e4e3e450a6b",
+				"size": 1275,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.26.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.26.tgz_1482882820501_0.9110921814572066"
+			},
+			"directories": {},
+			"publish_time": 1482882820725,
+			"_cnpm_publish_time": 1482882820725,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25": {
+			"name": "@types/react-helmet",
+			"version": "0.0.25",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"author": "Evan Bremer <https://github.com/evanbb>, Isman Usoh <https://github.com/isman-usoh>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "736cc78e823483c4cb897feed0c24f8514cc0a7dbd04bc3067a132a350b2ef01",
+			"_id": "@types/react-helmet@0.0.25",
+			"dist": {
+				"shasum": "7fdad63a40c7231bdcb50a16a4cfa844d696efe4",
+				"size": 1291,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.25.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.25.tgz_1479152231934_0.033710192423313856"
+			},
+			"directories": {},
+			"publish_time": 1479152233799,
+			"_cnpm_publish_time": 1479152233799,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24": {
+			"name": "@types/react-helmet",
+			"version": "0.0.24",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"author": "Evan Bremer <https://github.com/evanbb>, Isman Usoh <https://github.com/isman-usoh>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "3bc0b5cf250c66ed42fec92d7cd895ac02010676fc4f1dc23837315ba98a8bd5",
+			"_id": "@types/react-helmet@0.0.24",
+			"dist": {
+				"shasum": "56a2fa217e4e6c463cfdf1809059b7eae1d5ac0a",
+				"size": 1295,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.24.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.24.tgz_1474308493086_0.4930764951277524"
+			},
+			"directories": {},
+			"publish_time": 1474308496141,
+			"_cnpm_publish_time": 1474308496141,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23": {
+			"name": "@types/react-helmet",
+			"version": "0.0.23",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"author": "Evan Bremer <https://github.com/evanbb>, Isman Usoh <https://github.com/isman-usoh>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-helmet@0.0.23",
+			"dist": {
+				"shasum": "455405e069e3e0f46ecc37a0aa600a6185fb28fc",
+				"size": 1288,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.23.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.23.tgz_1472151343368_0.9322116733528674"
+			},
+			"directories": {},
+			"publish_time": 1472151343952,
+			"_cnpm_publish_time": 1472151343952,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22": {
+			"name": "@types/react-helmet",
+			"version": "0.0.22",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"author": "Evan Bremer <https://github.com/evanbb>, Isman Usoh <https://github.com/isman-usoh>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-helmet@0.0.22",
+			"dist": {
+				"shasum": "376012ab3b05d5aafc4fd1439e84fd539ed9985d",
+				"size": 1290,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.22.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.22.tgz_1471888721783_0.12186900898814201"
+			},
+			"directories": {},
+			"publish_time": 1471888722001,
+			"_cnpm_publish_time": 1471888722001,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21": {
+			"name": "@types/react-helmet",
+			"version": "0.0.21",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"author": "Evan Bremer <https://github.com/evanbb>, Isman Usoh <https://github.com/isman-usoh>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-helmet@0.0.21",
+			"dist": {
+				"shasum": "49299cfc791017d77d8548ec567a54322cb5e590",
+				"size": 1278,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.21.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.21.tgz_1471621153572_0.7844728578347713"
+			},
+			"directories": {},
+			"publish_time": 1471621154802,
+			"_cnpm_publish_time": 1471621154802,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20": {
+			"name": "@types/react-helmet",
+			"version": "0.0.20",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"author": "Evan Bremer <https://github.com/evanbb>, Isman Usoh <https://github.com/isman-usoh>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-helmet@0.0.20",
+			"dist": {
+				"shasum": "4606eb08c1d4f2f1dfa77747b1d4e8ccd7dad0a1",
+				"size": 7168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.20.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.20.tgz_1470154016684_0.8843922147061676"
+			},
+			"directories": {},
+			"publish_time": 1470154018695,
+			"_cnpm_publish_time": 1470154018695,
+			"_hasShrinkwrap": false
+		},
+		"0.0.19": {
+			"name": "@types/react-helmet",
+			"version": "0.0.19",
+			"description": "TypeScript definitions for react-helmet",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"_id": "@types/react-helmet@0.0.19",
+			"_shasum": "2f0e2d8102e17c6690292e42cdd73729d58cfcb1",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2f0e2d8102e17c6690292e42cdd73729d58cfcb1",
+				"size": 1247,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.19.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.19.tgz_1468511481758_0.3883902744855732"
+			},
+			"directories": {},
+			"publish_time": 1468511484262,
+			"_cnpm_publish_time": 1468511484262,
+			"_hasShrinkwrap": false
+		},
+		"0.0.18-alpha": {
+			"name": "@types/react-helmet",
+			"version": "0.0.18-alpha",
+			"description": "TypeScript definitions for react-helmet",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.26-alpha"
+			},
+			"_id": "@types/react-helmet@0.0.18-alpha",
+			"_shasum": "47025814fd5d1918b9fb40f07a8536c11afd3d94",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "47025814fd5d1918b9fb40f07a8536c11afd3d94",
+				"size": 1250,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.18-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.18-alpha.tgz_1468276181207_0.7254970658104867"
+			},
+			"directories": {},
+			"publish_time": 1468276181671,
+			"_cnpm_publish_time": 1468276181671,
+			"_hasShrinkwrap": false
+		},
+		"0.0.17-alpha": {
+			"name": "@types/react-helmet",
+			"version": "0.0.17-alpha",
+			"description": "TypeScript definitions for react-helmet",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.26-alpha"
+			},
+			"_id": "@types/react-helmet@0.0.17-alpha",
+			"_shasum": "da609f2bee43999b25655ce5d15ca7e94ede3c8d",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "da609f2bee43999b25655ce5d15ca7e94ede3c8d",
+				"size": 1246,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.17-alpha.tgz_1468012474238_0.504013350000605"
+			},
+			"directories": {},
+			"publish_time": 1468012474683,
+			"_cnpm_publish_time": 1468012474683,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/react-helmet",
+			"version": "0.0.16-alpha",
+			"description": "TypeScript definitions for react-helmet",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.25-alpha"
+			},
+			"_id": "@types/react-helmet@0.0.16-alpha",
+			"_shasum": "634d6fbe656d95b0cce3fd93631c694933f3e706",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "634d6fbe656d95b0cce3fd93631c694933f3e706",
+				"size": 1246,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.16-alpha.tgz_1467594529415_0.43844572198577225"
+			},
+			"directories": {},
+			"publish_time": 1467594533043,
+			"_cnpm_publish_time": 1467594533043,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/react-helmet",
+			"version": "0.0.15-alpha",
+			"description": "TypeScript definitions for react-helmet",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.24-alpha"
+			},
+			"_id": "@types/react-helmet@0.0.15-alpha",
+			"_shasum": "c72002a98680a68999068cd3d1c490788a700b55",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c72002a98680a68999068cd3d1c490788a700b55",
+				"size": 1246,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.15-alpha.tgz_1467429526720_0.18439604598097503"
+			},
+			"directories": {},
+			"publish_time": 1467429527227,
+			"_cnpm_publish_time": 1467429527227,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/react-helmet",
+			"version": "0.0.14-alpha",
+			"description": "TypeScript definitions for react-helmet",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.23-alpha"
+			},
+			"_id": "@types/react-helmet@0.0.14-alpha",
+			"_shasum": "7c1b53b2fb004943b8e91f011684939078963429",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7c1b53b2fb004943b8e91f011684939078963429",
+				"size": 1245,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.14-alpha.tgz_1467417205714_0.7296706496272236"
+			},
+			"directories": {},
+			"publish_time": 1467417209115,
+			"_cnpm_publish_time": 1467417209115,
+			"_hasShrinkwrap": false
+		},
+		"0.0.13-alpha": {
+			"name": "@types/react-helmet",
+			"version": "0.0.13-alpha",
+			"description": "TypeScript definitions for react-helmet",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"_id": "@types/react-helmet@0.0.13-alpha",
+			"_shasum": "01f809d0ed895dd97af32dddb964df878fda8e3e",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "01f809d0ed895dd97af32dddb964df878fda8e3e",
+				"size": 1236,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.13-alpha.tgz_1467404797031_0.17307896027341485"
+			},
+			"directories": {},
+			"publish_time": 1467404797582,
+			"_cnpm_publish_time": 1467404797582,
+			"_hasShrinkwrap": false
+		},
+		"0.0.12-alpha": {
+			"name": "@types/react-helmet",
+			"version": "0.0.12-alpha",
+			"description": "TypeScript definitions for react-helmet",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-helmet@0.0.12-alpha",
+			"_shasum": "189bbae49e5a6a4ff830fc75fdd491c99b576800",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "189bbae49e5a6a4ff830fc75fdd491c99b576800",
+				"size": 1219,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.12-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.12-alpha.tgz_1464155259764_0.7544270814396441"
+			},
+			"directories": {},
+			"publish_time": 1464155260198,
+			"_cnpm_publish_time": 1464155260198,
+			"_hasShrinkwrap": false
+		},
+		"0.0.11-alpha": {
+			"name": "@types/react-helmet",
+			"version": "0.0.11-alpha",
+			"description": "TypeScript definitions for react-helmet",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-helmet@0.0.11-alpha",
+			"_shasum": "aacdbef6bc89542a20af7f2ea8e8847d47fc5276",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "aacdbef6bc89542a20af7f2ea8e8847d47fc5276",
+				"size": 1218,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.11-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.11-alpha.tgz_1463776309251_0.0181052356492728"
+			},
+			"directories": {},
+			"publish_time": 1463776311614,
+			"_cnpm_publish_time": 1463776311614,
+			"_hasShrinkwrap": false
+		},
+		"0.0.6-alpha": {
+			"name": "@types/react-helmet",
+			"version": "0.0.6-alpha",
+			"description": "Type definitions for react-helmet from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-helmet@0.0.6-alpha",
+			"_shasum": "5610f56896480d6c51651c27af47650a84a5de7c",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5610f56896480d6c51651c27af47650a84a5de7c",
+				"size": 1229,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.6-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.6-alpha.tgz_1463695792382_0.44589901552535594"
+			},
+			"directories": {},
+			"publish_time": 1463695793086,
+			"_cnpm_publish_time": 1463695793086,
+			"_hasShrinkwrap": false
+		},
+		"0.0.5-alpha": {
+			"name": "@types/react-helmet",
+			"version": "0.0.5-alpha",
+			"description": "Type definitions for react-helmet from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Evan Bremer",
+				"email": "https://github.com/evanbb"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-helmet@0.0.5-alpha",
+			"_shasum": "1e7029299a6cf06dbae08b9adcc508df1eacd0a5",
+			"_from": "output\\react-helmet",
+			"_resolved": "file:output\\react-helmet",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1e7029299a6cf06dbae08b9adcc508df1eacd0a5",
+				"size": 1220,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.5-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-helmet-0.0.5-alpha.tgz_1463510682406_0.34006125666201115"
+			},
+			"directories": {},
+			"publish_time": 1463510686518,
+			"_cnpm_publish_time": 1463510686518,
+			"_hasShrinkwrap": false
+		},
+		"4.0.4": {
+			"name": "@types/react-helmet",
+			"version": "4.0.4",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb",
+					"githubUsername": "evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh",
+					"githubUsername": "isman-usoh"
+				}
+			],
+			"main": "",
+			"types": "index",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "0b998acbe6f4fd74839d5501c74896bdde454f316b17991d321ba47031e70799",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-helmet@4.0.4",
+			"dist": {
+				"shasum": "77a858af78dc4fc3d3c1b9928b43ebd7f9c334f3",
+				"size": 1813,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-4.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-helmet_4.0.4_1541712753405_0.6453085578067594"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1541712753556,
+			"_cnpm_publish_time": 1541712753556
+		},
+		"5.0.7": {
+			"name": "@types/react-helmet",
+			"version": "5.0.7",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb",
+					"githubUsername": "evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh",
+					"githubUsername": "isman-usoh"
+				},
+				{
+					"name": "François Nguyen",
+					"url": "https://github.com/lith-light-g",
+					"githubUsername": "lith-light-g"
+				},
+				{
+					"name": "Kok Sam",
+					"url": "https://github.com/sammkj",
+					"githubUsername": "sammkj"
+				},
+				{
+					"name": "Yui T.",
+					"url": "https://github.com/yuit",
+					"githubUsername": "yuit"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "1250532a0c5986068c3d214336b22922c012b519fb55e313691ac112be024ac9",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-helmet@5.0.7",
+			"dist": {
+				"shasum": "1cae65b2c37fe54cf56f40cd388836d4619dbc51",
+				"size": 2033,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-helmet_5.0.7_1533346844750_0.046789060521716275"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533346844869,
+			"_cnpm_publish_time": 1533346844869
+		},
+		"4.0.3": {
+			"name": "@types/react-helmet",
+			"version": "4.0.3",
+			"description": "TypeScript definitions for react-helmet",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Evan Bremer",
+					"url": "https://github.com/evanbb",
+					"githubUsername": "evanbb"
+				},
+				{
+					"name": "Isman Usoh",
+					"url": "https://github.com/isman-usoh",
+					"githubUsername": "isman-usoh"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "5d2a1d0edb750359d37ba64cd737ec1050ffb6e511062ca6e059ee9c8302e291",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-helmet@4.0.3",
+			"dist": {
+				"shasum": "44426b0e9e0d89d4cbb2d8ed6fb8c148723377ea",
+				"size": 1822,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-4.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-helmet_4.0.3_1533346836847_0.5893034652345175"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533346836910,
+			"_cnpm_publish_time": 1533346836910
+		}
+	},
+	"dist-tags": {
+		"latest": "5.0.7",
+		"ts2.0": "0.0.27",
+		"ts2.1": "5.0.2",
+		"ts2.2": "5.0.2",
+		"ts2.3": "5.0.3",
+		"ts2.4": "5.0.3",
+		"ts2.5": "5.0.3",
+		"ts2.6": "5.0.6",
+		"ts2.7": "5.0.6",
+		"ts2.8": "5.0.7",
+		"ts2.9": "5.0.7",
+		"ts3.0": "5.0.7",
+		"ts3.1": "5.0.7",
+		"ts3.2": "5.0.7"
+	},
+	"time": {
+		"modified": "2018-11-08T21:32:48.000Z",
+		"created": "2016-05-17T18:44:46.518Z",
+		"4.0.4": "2018-11-08T21:32:33.556Z",
+		"5.0.7": "2018-08-04T01:40:44.869Z",
+		"4.0.3": "2018-08-04T01:40:36.910Z",
+		"5.0.6": "2018-04-26T22:29:38.604Z",
+		"5.0.5": "2018-03-02T17:54:30.902Z",
+		"5.0.4": "2018-02-12T21:02:18.646Z",
+		"4.0.2": "2018-02-12T21:00:51.177Z",
+		"5.0.3": "2017-06-23T17:36:01.512Z",
+		"4.0.1": "2017-06-23T17:35:39.173Z",
+		"5.0.2": "2017-04-28T17:54:14.953Z",
+		"5.0.1": "2017-04-18T15:13:07.503Z",
+		"5.0.0": "2017-03-29T18:32:56.371Z",
+		"4.0.0": "2017-03-29T17:19:18.947Z",
+		"0.0.28": "2017-01-23T21:34:41.945Z",
+		"0.0.27": "2016-12-28T00:57:39.769Z",
+		"0.0.26": "2016-12-27T23:53:40.725Z",
+		"0.0.25": "2016-11-14T19:37:13.799Z",
+		"0.0.24": "2016-09-19T18:08:16.141Z",
+		"0.0.23": "2016-08-25T18:55:43.952Z",
+		"0.0.22": "2016-08-22T17:58:42.001Z",
+		"0.0.21": "2016-08-19T15:39:14.802Z",
+		"0.0.20": "2016-08-02T16:06:58.695Z",
+		"0.0.19": "2016-07-14T15:51:24.262Z",
+		"0.0.18-alpha": "2016-07-11T22:29:41.671Z",
+		"0.0.17-alpha": "2016-07-08T21:14:34.683Z",
+		"0.0.16-alpha": "2016-07-04T01:08:53.043Z",
+		"0.0.15-alpha": "2016-07-02T03:18:47.227Z",
+		"0.0.14-alpha": "2016-07-01T23:53:29.115Z",
+		"0.0.13-alpha": "2016-07-01T20:26:37.582Z",
+		"0.0.12-alpha": "2016-05-25T05:47:40.198Z",
+		"0.0.11-alpha": "2016-05-20T20:31:51.614Z",
+		"0.0.6-alpha": "2016-05-19T22:09:53.086Z",
+		"0.0.5-alpha": "2016-05-17T18:44:46.518Z"
+	},
+	"_distfiles": {
+		"react-helmet-5.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.6.tgz",
+			"sha": "49607cbb72e1bb7dcefa9174cb591434d3b6f0af",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-5.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.5.tgz",
+			"sha": "30a12b0431732a20882f0fa9b75bf56ff91700d3",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-5.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.4.tgz",
+			"sha": "e8c8277bf4b0f43ba6ba8d6cd098fc53b518f975",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-4.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-4.0.2.tgz",
+			"sha": "a2d3217e981f261a3b8192528356cf83796bb62a",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-5.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.3.tgz",
+			"sha": "614e706cb73120936c7c067404809f8c2f1a840c",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-4.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-4.0.1.tgz",
+			"sha": "9a54edf9fc59828cba22ef7104d05c60d401465e",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-5.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.2.tgz",
+			"sha": "31226b08f2f799b81c6319588f2aed6250367e13",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-5.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.1.tgz",
+			"sha": "20d16000ba364008fba13774acc9d50a94167c3f",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-5.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.0.tgz",
+			"sha": "f955bc7d0efbc25315f1067631c1d30eddd88ac8",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-4.0.0.tgz",
+			"sha": "e47ba3633f4fa0bbc011bd963da78fb6094c3ee4",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.28.tgz",
+			"sha": "8a823e852980585df23b41912af026f02f5eae28",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.27.tgz",
+			"sha": "c80e326e9768a7de2a15cf04047d86c2c1f21350",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.26.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.26.tgz",
+			"sha": "712c84435c24b0768632228eb35a8e4e3e450a6b",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.25.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.25.tgz",
+			"sha": "7fdad63a40c7231bdcb50a16a4cfa844d696efe4",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.24.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.24.tgz",
+			"sha": "56a2fa217e4e6c463cfdf1809059b7eae1d5ac0a",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.23.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.23.tgz",
+			"sha": "455405e069e3e0f46ecc37a0aa600a6185fb28fc",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.22.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.22.tgz",
+			"sha": "376012ab3b05d5aafc4fd1439e84fd539ed9985d",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.21.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.21.tgz",
+			"sha": "49299cfc791017d77d8548ec567a54322cb5e590",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.20.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.20.tgz",
+			"sha": "4606eb08c1d4f2f1dfa77747b1d4e8ccd7dad0a1",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.19.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.19.tgz",
+			"sha": "2f0e2d8102e17c6690292e42cdd73729d58cfcb1",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.18-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.18-alpha.tgz",
+			"sha": "47025814fd5d1918b9fb40f07a8536c11afd3d94",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.17-alpha.tgz",
+			"sha": "da609f2bee43999b25655ce5d15ca7e94ede3c8d",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.16-alpha.tgz",
+			"sha": "634d6fbe656d95b0cce3fd93631c694933f3e706",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.15-alpha.tgz",
+			"sha": "c72002a98680a68999068cd3d1c490788a700b55",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.14-alpha.tgz",
+			"sha": "7c1b53b2fb004943b8e91f011684939078963429",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.13-alpha.tgz",
+			"sha": "01f809d0ed895dd97af32dddb964df878fda8e3e",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.12-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.12-alpha.tgz",
+			"sha": "189bbae49e5a6a4ff830fc75fdd491c99b576800",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.11-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.11-alpha.tgz",
+			"sha": "aacdbef6bc89542a20af7f2ea8e8847d47fc5276",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.6-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.6-alpha.tgz",
+			"sha": "5610f56896480d6c51651c27af47650a84a5de7c",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-0.0.5-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-0.0.5-alpha.tgz",
+			"sha": "1e7029299a6cf06dbae08b9adcc508df1eacd0a5",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-4.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-4.0.4.tgz",
+			"sha": "77a858af78dc4fc3d3c1b9928b43ebd7f9c334f3",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-5.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-5.0.7.tgz",
+			"sha": "1cae65b2c37fe54cf56f40cd388836d4619dbc51",
+			"registry": "cnpmjs"
+		},
+		"react-helmet-4.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-helmet/download/@types/react-helmet-4.0.3.tgz",
+			"sha": "44426b0e9e0d89d4cbb2d8ed6fb8c148723377ea",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833276768
+		}
+	},
+	"_rev": "2-3f8b3a04e74283ce",
+	"readme": "# Installation\r\n> `npm install --save @types/react-helmet`\r\n\r\n# Summary\r\nThis package contains type definitions for react-helmet (https://github.com/nfl/react-helmet).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-helmet/v4\r\n\r\nAdditional Details\r\n * Last updated: Thu, 08 Nov 2018 21:32:15 GMT\r\n * Dependencies: react\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Evan Bremer <https://github.com/evanbb>, Isman Usoh <https://github.com/isman-usoh>."
+}

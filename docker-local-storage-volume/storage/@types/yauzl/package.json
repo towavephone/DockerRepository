@@ -1,0 +1,92 @@
+{
+	"name": "@types/yauzl",
+	"versions": {
+		"2.9.0": {
+			"name": "@types/yauzl",
+			"version": "2.9.0",
+			"description": "TypeScript definitions for yauzl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Florian Keller",
+					"url": "https://github.com/ffflorian",
+					"githubUsername": "ffflorian"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/events": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "ec5e2d67caf9069fa31dd349d4cb0f54f152493a58053d270318967ba80ed46d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/yauzl@2.9.0",
+			"dist": {
+				"shasum": "b8427df4659c77a9f5f1bf684a1f54a5159032f6",
+				"size": 2331,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/yauzl/download/@types/yauzl-2.9.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/yauzl_2.9.0_1519685566987_0.8814565883716894"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1519685567030,
+			"_cnpm_publish_time": 1519685567030
+		}
+	},
+	"dist-tags": {
+		"latest": "2.9.0",
+		"ts2.0": "2.9.0",
+		"ts2.1": "2.9.0",
+		"ts2.2": "2.9.0",
+		"ts2.3": "2.9.0",
+		"ts2.4": "2.9.0",
+		"ts2.5": "2.9.0",
+		"ts2.6": "2.9.0",
+		"ts2.7": "2.9.0",
+		"ts2.8": "2.9.0",
+		"ts2.9": "2.9.0",
+		"ts3.0": "2.9.0",
+		"ts3.1": "2.9.0",
+		"ts3.2": "2.9.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:34:46.000Z",
+		"created": "2018-02-26T22:52:47.030Z",
+		"2.9.0": "2018-02-26T22:52:47.030Z"
+	},
+	"_distfiles": {
+		"yauzl-2.9.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/yauzl/download/@types/yauzl-2.9.0.tgz",
+			"sha": "b8427df4659c77a9f5f1bf684a1f54a5159032f6",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"916-X18sCR959GmiZEu58QcRuCbKPyw\"",
+			"fetched": 1541833490253
+		}
+	},
+	"_rev": "2-853b57dd7c7ee1c3",
+	"readme": "# Installation\r\n> `npm install --save @types/yauzl`\r\n\r\n# Summary\r\nThis package contains type definitions for yauzl (https://github.com/thejoshwolfe/yauzl).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/yauzl\r\n\r\nAdditional Details\r\n * Last updated: Mon, 26 Feb 2018 22:52:03 GMT\r\n * Dependencies: events, stream, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Florian Keller <https://github.com/ffflorian>."
+}

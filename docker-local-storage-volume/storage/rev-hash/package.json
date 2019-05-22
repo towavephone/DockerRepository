@@ -1,0 +1,179 @@
+{
+	"name": "rev-hash",
+	"versions": {
+		"2.0.0": {
+			"name": "rev-hash",
+			"version": "2.0.0",
+			"description": "Create a hash for file revving",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/sindresorhus/rev-hash.git"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=4"
+			},
+			"scripts": {
+				"test": "xo && ava"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"hash",
+				"crypto",
+				"md5",
+				"rev",
+				"revving",
+				"web",
+				"buffer",
+				"string",
+				"file",
+				"cache",
+				"caching"
+			],
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"gitHead": "3074712f01305f4ae06076cb7b634376a12c87af",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/rev-hash/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/rev-hash#readme",
+			"_id": "rev-hash@2.0.0",
+			"_shasum": "7720a236ed0c258df3e64bec03ec048b05b924c4",
+			"_from": ".",
+			"_npmVersion": "2.15.11",
+			"_nodeVersion": "4.8.3",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "7720a236ed0c258df3e64bec03ec048b05b924c4",
+				"size": 1742,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/rev-hash/download/rev-hash-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rev-hash-2.0.0.tgz_1498222181704_0.42197213461622596"
+			},
+			"directories": {},
+			"publish_time": 1498222182626,
+			"_cnpm_publish_time": 1498222182626,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "rev-hash",
+			"version": "1.0.0",
+			"description": "Create a hash for file revving",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/rev-hash"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "node test.js"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"hash",
+				"crypto",
+				"md5",
+				"rev",
+				"revving",
+				"web",
+				"buffer",
+				"file",
+				"cache",
+				"caching"
+			],
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"gitHead": "6a9e4a83dec51c82964e9117949b8eb504ed25c1",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/rev-hash/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/rev-hash",
+			"_id": "rev-hash@1.0.0",
+			"_shasum": "96993959ea9bfb1c59b13adf02ac2e34bb373603",
+			"_from": ".",
+			"_npmVersion": "2.9.1",
+			"_nodeVersion": "0.12.3",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "96993959ea9bfb1c59b13adf02ac2e34bb373603",
+				"size": 1666,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/rev-hash/download/rev-hash-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1432309362493,
+			"_cnpm_publish_time": 1432309362493,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.0"
+	},
+	"time": {
+		"modified": "2017-06-23T15:33:56.000Z",
+		"created": "2015-05-22T15:42:42.493Z",
+		"2.0.0": "2017-06-23T12:49:42.626Z",
+		"1.0.0": "2015-05-22T15:42:42.493Z"
+	},
+	"_distfiles": {
+		"rev-hash-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/rev-hash/download/rev-hash-2.0.0.tgz",
+			"sha": "7720a236ed0c258df3e64bec03ec048b05b924c4",
+			"registry": "cnpmjs"
+		},
+		"rev-hash-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/rev-hash/download/rev-hash-1.0.0.tgz",
+			"sha": "96993959ea9bfb1c59b13adf02ac2e34bb373603",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"109b-2C3zgtKX8tv5gmNThNbMm5AILyU\"",
+			"fetched": 1527747708572
+		}
+	},
+	"_rev": "12-cd9f6841ed645ad1",
+	"readme": "# rev-hash [![Build Status](https://travis-ci.org/sindresorhus/rev-hash.svg?branch=master)](https://travis-ci.org/sindresorhus/rev-hash)\n\n> Create a hash for file revving\n\nIt will create an `md5` hash from an input buffer or string, and truncate it to 10 characters, which is unique enough for this purpose.\n\nIf you think you need a different hash algorithm or a longer hash, [you're wrong](http://blog.risingstack.com/automatic-cache-busting-for-your-css/).\n\n\n## Install\n\n```\n$ npm install rev-hash\n```\n\n\n## Usage\n\n```js\nconst fs = require('fs');\nconst revHash = require('rev-hash');\n\nrevHash(fs.readFileSync('unicorn.png'));\n//=> 'bb9d8fe615'\n\nrevHash('Lorem ipsum dolor sit amet');\n//=> 'fea80f2db0'\n```\n\n\n## API\n\n### revHash(input)\n\n#### input\n\nType: `Buffer` `string`\n\nData to create a hash from.\n\n\n## License\n\nMIT © [Sindre Sorhus](https://sindresorhus.com)"
+}

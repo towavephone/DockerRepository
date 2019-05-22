@@ -1,0 +1,607 @@
+{
+	"name": "@types/ansicolors",
+	"versions": {
+		"0.0.30": {
+			"name": "@types/ansicolors",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for ansicolors",
+			"license": "MIT",
+			"author": "rogierschouten <https://github.com/rogierschouten>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "954211bb2044220a0efd299d6cb3ded4766045cd4aff5e0eb331e6ae4f250151",
+			"_id": "@types/ansicolors@0.0.30",
+			"dist": {
+				"shasum": "bb51f04b818dbda587f969b59353d056124e754f",
+				"size": 993,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.30.tgz_1474301887007_0.5969204157590866"
+			},
+			"directories": {},
+			"publish_time": 1474301889022,
+			"_cnpm_publish_time": 1474301889022,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/ansicolors",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for ansicolors",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rogierschouten",
+				"email": "https://github.com/rogierschouten"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansicolors@0.0.29",
+			"_shasum": "fccac4e9889d8cc21ae6f7950f952b9c38e6d9a4",
+			"_from": "output\\ansicolors",
+			"_resolved": "file:output\\ansicolors",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fccac4e9889d8cc21ae6f7950f952b9c38e6d9a4",
+				"size": 965,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.29.tgz_1468504962459_0.9718540583271533"
+			},
+			"directories": {},
+			"publish_time": 1468504964878,
+			"_cnpm_publish_time": 1468504964878,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28-alpha": {
+			"name": "@types/ansicolors",
+			"version": "0.0.28-alpha",
+			"description": "TypeScript definitions for ansicolors",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rogierschouten",
+				"email": "https://github.com/rogierschouten"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansicolors@0.0.28-alpha",
+			"_shasum": "390d18998f2710a3a129d6ab1cffd984809b1404",
+			"_from": "output\\ansicolors",
+			"_resolved": "file:output\\ansicolors",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "390d18998f2710a3a129d6ab1cffd984809b1404",
+				"size": 972,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.28-alpha.tgz_1468006372892_0.5717940235044807"
+			},
+			"directories": {},
+			"publish_time": 1468006375507,
+			"_cnpm_publish_time": 1468006375507,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/ansicolors",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for ansicolors",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rogierschouten",
+				"email": "https://github.com/rogierschouten"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansicolors@0.0.27-alpha",
+			"_shasum": "0195fa34749518bf76fa0276fbdce5fe2c2aaf9c",
+			"_from": "output\\ansicolors",
+			"_resolved": "file:output\\ansicolors",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0195fa34749518bf76fa0276fbdce5fe2c2aaf9c",
+				"size": 970,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.27-alpha.tgz_1467589385343_0.3112368055153638"
+			},
+			"directories": {},
+			"publish_time": 1467589385807,
+			"_cnpm_publish_time": 1467589385807,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/ansicolors",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for ansicolors",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rogierschouten",
+				"email": "https://github.com/rogierschouten"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansicolors@0.0.26-alpha",
+			"_shasum": "6c4603e6e2f258e4b7d73e64b21f452050acae66",
+			"_from": "output\\ansicolors",
+			"_resolved": "file:output\\ansicolors",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6c4603e6e2f258e4b7d73e64b21f452050acae66",
+				"size": 973,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.26-alpha.tgz_1467424702633_0.7456190697848797"
+			},
+			"directories": {},
+			"publish_time": 1467424706083,
+			"_cnpm_publish_time": 1467424706083,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/ansicolors",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for ansicolors",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rogierschouten",
+				"email": "https://github.com/rogierschouten"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansicolors@0.0.25-alpha",
+			"_shasum": "7fc6fe12414491647102c408fcd6f187dfcaf91a",
+			"_from": "output\\ansicolors",
+			"_resolved": "file:output\\ansicolors",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7fc6fe12414491647102c408fcd6f187dfcaf91a",
+				"size": 970,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.25-alpha.tgz_1467411212854_0.3028732289094478"
+			},
+			"directories": {},
+			"publish_time": 1467411213427,
+			"_cnpm_publish_time": 1467411213427,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/ansicolors",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for ansicolors",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rogierschouten",
+				"email": "https://github.com/rogierschouten"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansicolors@0.0.24-alpha",
+			"_shasum": "3a0c33656c9593d1b3b3f6eadd175bfb4777f031",
+			"_from": "output\\ansicolors",
+			"_resolved": "file:output\\ansicolors",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3a0c33656c9593d1b3b3f6eadd175bfb4777f031",
+				"size": 968,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.24-alpha.tgz_1467398973173_0.5554798357188702"
+			},
+			"directories": {},
+			"publish_time": 1467398973750,
+			"_cnpm_publish_time": 1467398973750,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/ansicolors",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for ansicolors",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rogierschouten",
+				"email": "https://github.com/rogierschouten"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansicolors@0.0.23-alpha",
+			"_shasum": "ad5bfa3c93b2629a068f1b9294d6d3ba8a4d94aa",
+			"_from": "output\\ansicolors",
+			"_resolved": "file:output\\ansicolors",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ad5bfa3c93b2629a068f1b9294d6d3ba8a4d94aa",
+				"size": 938,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.23-alpha.tgz_1464150467435_0.6306645469740033"
+			},
+			"directories": {},
+			"publish_time": 1464150467934,
+			"_cnpm_publish_time": 1464150467934,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/ansicolors",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for ansicolors",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rogierschouten",
+				"email": "https://github.com/rogierschouten"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansicolors@0.0.22-alpha",
+			"_shasum": "79df362604549ad7fff30557db0b3c38c27986d7",
+			"_from": "output\\ansicolors",
+			"_resolved": "file:output\\ansicolors",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "79df362604549ad7fff30557db0b3c38c27986d7",
+				"size": 936,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.22-alpha.tgz_1463771323813_0.9611622686497867"
+			},
+			"directories": {},
+			"publish_time": 1463771325003,
+			"_cnpm_publish_time": 1463771325003,
+			"_hasShrinkwrap": false
+		},
+		"0.0.17-alpha": {
+			"name": "@types/ansicolors",
+			"version": "0.0.17-alpha",
+			"description": "Type definitions for ansicolors from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rogierschouten",
+				"email": "https://github.com/rogierschouten"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansicolors@0.0.17-alpha",
+			"_shasum": "b15f1dbd61ef62084310df782ae177ac6c9f5599",
+			"_from": "output\\ansicolors",
+			"_resolved": "file:output\\ansicolors",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b15f1dbd61ef62084310df782ae177ac6c9f5599",
+				"size": 944,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.17-alpha.tgz_1463688867068_0.7627203413285315"
+			},
+			"directories": {},
+			"publish_time": 1463688869527,
+			"_cnpm_publish_time": 1463688869527,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/ansicolors",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for ansicolors from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rogierschouten",
+				"email": "https://github.com/rogierschouten"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/ansicolors@0.0.16-alpha",
+			"_shasum": "abc92f9898a4047cd4f23a53a67b448947fa2333",
+			"_from": "output\\ansicolors",
+			"_resolved": "file:output\\ansicolors",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "abc92f9898a4047cd4f23a53a67b448947fa2333",
+				"size": 940,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/ansicolors-0.0.16-alpha.tgz_1463459153713_0.13952295412309468"
+			},
+			"directories": {},
+			"publish_time": 1463459154398,
+			"_cnpm_publish_time": 1463459154398,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.30",
+		"ts2.0": "0.0.30",
+		"ts2.1": "0.0.30",
+		"ts2.2": "0.0.30",
+		"ts2.3": "0.0.30",
+		"ts2.4": "0.0.30",
+		"ts2.5": "0.0.30",
+		"ts2.6": "0.0.30",
+		"ts2.7": "0.0.30",
+		"ts2.8": "0.0.30",
+		"ts2.9": "0.0.30",
+		"ts3.0": "0.0.30",
+		"ts3.1": "0.0.30",
+		"ts3.2": "0.0.30"
+	},
+	"time": {
+		"modified": "2018-10-10T19:53:36.000Z",
+		"created": "2016-05-17T04:25:54.398Z",
+		"0.0.30": "2016-09-19T16:18:09.022Z",
+		"0.0.29": "2016-07-14T14:02:44.878Z",
+		"0.0.28-alpha": "2016-07-08T19:32:55.507Z",
+		"0.0.27-alpha": "2016-07-03T23:43:05.807Z",
+		"0.0.26-alpha": "2016-07-02T01:58:26.083Z",
+		"0.0.25-alpha": "2016-07-01T22:13:33.427Z",
+		"0.0.24-alpha": "2016-07-01T18:49:33.750Z",
+		"0.0.23-alpha": "2016-05-25T04:27:47.934Z",
+		"0.0.22-alpha": "2016-05-20T19:08:45.003Z",
+		"0.0.17-alpha": "2016-05-19T20:14:29.527Z",
+		"0.0.16-alpha": "2016-05-17T04:25:54.398Z"
+	},
+	"_distfiles": {
+		"ansicolors-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.30.tgz",
+			"sha": "bb51f04b818dbda587f969b59353d056124e754f",
+			"registry": "cnpmjs"
+		},
+		"ansicolors-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.29.tgz",
+			"sha": "fccac4e9889d8cc21ae6f7950f952b9c38e6d9a4",
+			"registry": "cnpmjs"
+		},
+		"ansicolors-0.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.28-alpha.tgz",
+			"sha": "390d18998f2710a3a129d6ab1cffd984809b1404",
+			"registry": "cnpmjs"
+		},
+		"ansicolors-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.27-alpha.tgz",
+			"sha": "0195fa34749518bf76fa0276fbdce5fe2c2aaf9c",
+			"registry": "cnpmjs"
+		},
+		"ansicolors-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.26-alpha.tgz",
+			"sha": "6c4603e6e2f258e4b7d73e64b21f452050acae66",
+			"registry": "cnpmjs"
+		},
+		"ansicolors-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.25-alpha.tgz",
+			"sha": "7fc6fe12414491647102c408fcd6f187dfcaf91a",
+			"registry": "cnpmjs"
+		},
+		"ansicolors-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.24-alpha.tgz",
+			"sha": "3a0c33656c9593d1b3b3f6eadd175bfb4777f031",
+			"registry": "cnpmjs"
+		},
+		"ansicolors-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.23-alpha.tgz",
+			"sha": "ad5bfa3c93b2629a068f1b9294d6d3ba8a4d94aa",
+			"registry": "cnpmjs"
+		},
+		"ansicolors-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.22-alpha.tgz",
+			"sha": "79df362604549ad7fff30557db0b3c38c27986d7",
+			"registry": "cnpmjs"
+		},
+		"ansicolors-0.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.17-alpha.tgz",
+			"sha": "b15f1dbd61ef62084310df782ae177ac6c9f5599",
+			"registry": "cnpmjs"
+		},
+		"ansicolors-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/ansicolors/download/@types/ansicolors-0.0.16-alpha.tgz",
+			"sha": "abc92f9898a4047cd4f23a53a67b448947fa2333",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3795-hlgmzrDhz2QPDiH59hU9wHZp6Yk\"",
+			"fetched": 1541833444605
+		}
+	},
+	"_rev": "2-d7257104a0049e6e",
+	"readme": "# Installation\r\n> `npm install --save @types/ansicolors`\r\n\r\n# Summary\r\nThis package contains type definitions for ansicolors (https://github.com/thlorenz/ansicolors).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/ansicolors\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 16:15:22 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: colors\r\n\r\n# Credits\r\nThese definitions were written by rogierschouten <https://github.com/rogierschouten>."
+}

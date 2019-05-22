@@ -1,0 +1,387 @@
+{
+	"name": "@types/webpack-hot-middleware",
+	"versions": {
+		"2.16.3": {
+			"name": "@types/webpack-hot-middleware",
+			"version": "2.16.3",
+			"description": "TypeScript definitions for webpack-hot-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "Ron Martinez",
+					"url": "https://github.com/icylace",
+					"githubUsername": "icylace"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"typesPublisherContentHash": "57c271eb9d7d8d3f618b8de42a042d7ddb8ef66aec8a6fff65390bc4d431aa6d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/webpack-hot-middleware@2.16.3",
+			"dist": {
+				"shasum": "c262ab826afae16030c15049e3c997849f9c8461",
+				"size": 1787,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.16.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-hot-middleware_2.16.3_1520648506163_0.7628929770887087"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520648506329,
+			"_cnpm_publish_time": 1520648506329
+		},
+		"2.16.2": {
+			"name": "@types/webpack-hot-middleware",
+			"version": "2.16.2",
+			"description": "TypeScript definitions for webpack-hot-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "Ron Martinez",
+					"url": "https://github.com/icylace",
+					"githubUsername": "icylace"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"typesPublisherContentHash": "a4f30dfcf326106c513f4ab2b915fd921e9e251bcfa07e144d34ca632c3c71c6",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/webpack-hot-middleware@2.16.2",
+			"dist": {
+				"shasum": "b5b31732ecf0d1aec0d2c53604e83de7976714ce",
+				"size": 1789,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.16.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-hot-middleware-2.16.2.tgz_1510745471469_0.07463281112723053"
+			},
+			"directories": {},
+			"publish_time": 1510745471589,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510745471589
+		},
+		"2.16.1": {
+			"name": "@types/webpack-hot-middleware",
+			"version": "2.16.1",
+			"description": "TypeScript definitions for webpack-hot-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"typesPublisherContentHash": "79fa3e172e797c7c98892e7856b8ba632bb0544430071533240874b318b4e210",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/webpack-hot-middleware@2.16.1",
+			"dist": {
+				"shasum": "926034f99e77a7e98fd06feaf5b04304abe3f46c",
+				"size": 1751,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.16.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-hot-middleware-2.16.1.tgz_1510241042539_0.05092325620353222"
+			},
+			"directories": {},
+			"publish_time": 1510241043543,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510241043543
+		},
+		"2.16.0": {
+			"name": "@types/webpack-hot-middleware",
+			"version": "2.16.0",
+			"description": "TypeScript definitions for webpack-hot-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"typesPublisherContentHash": "3b6213363a88e4724c18e95ca45ae306aea69652f54b274a574a071fdbaa747c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/webpack-hot-middleware@2.16.0",
+			"dist": {
+				"shasum": "4fe6b0bc077b43d4341c0c5b212d9198ab8b79a3",
+				"size": 1736,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.16.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-hot-middleware-2.16.0.tgz_1504822243766_0.7003522515296936"
+			},
+			"directories": {},
+			"publish_time": 1504822243964,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504822243964
+		},
+		"2.15.0": {
+			"name": "@types/webpack-hot-middleware",
+			"version": "2.15.0",
+			"description": "TypeScript definitions for webpack-hot-middleware",
+			"license": "MIT",
+			"author": "Benjamin Lim <https://github.com/bumbleblym>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "419c02c1a414bf69ed65a1c250d652f0c902c063af1762557d98940024e44d4b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/webpack-hot-middleware@2.15.0",
+			"dist": {
+				"shasum": "15c93c44ff2b6369d898df7ef42a374e8ba6780e",
+				"size": 1208,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.15.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/webpack-hot-middleware-2.15.0.tgz_1484689236537_0.26013599266298115"
+			},
+			"directories": {},
+			"publish_time": 1484689236754,
+			"_cnpm_publish_time": 1484689236754,
+			"_hasShrinkwrap": false
+		},
+		"2.16.4": {
+			"name": "@types/webpack-hot-middleware",
+			"version": "2.16.4",
+			"description": "TypeScript definitions for webpack-hot-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "Ron Martinez",
+					"url": "https://github.com/icylace",
+					"githubUsername": "icylace"
+				},
+				{
+					"name": "Chris Abrams",
+					"url": "https://github.com/chrisabrams",
+					"githubUsername": "chrisabrams"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"typesPublisherContentHash": "c6aca1bf7471e918c98ab52cfe14e730b437d5c6652ea37c427a5a776af9878d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/webpack-hot-middleware@2.16.4",
+			"dist": {
+				"shasum": "258ecf2ae0ee80a988cc65547b24608fe10be440",
+				"size": 1841,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.16.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-hot-middleware_2.16.4_1531168525551_0.3958161527636008"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1531168525607,
+			"_cnpm_publish_time": 1531168525607
+		}
+	},
+	"dist-tags": {
+		"latest": "2.16.4",
+		"ts2.0": "2.16.0",
+		"ts2.1": "2.16.0",
+		"ts2.2": "2.16.2",
+		"ts2.3": "2.16.4",
+		"ts2.4": "2.16.4",
+		"ts2.5": "2.16.4",
+		"ts2.6": "2.16.4",
+		"ts2.7": "2.16.4",
+		"ts2.8": "2.16.4",
+		"ts2.9": "2.16.4",
+		"ts3.0": "2.16.4",
+		"ts3.1": "2.16.4",
+		"ts3.2": "2.16.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:34:21.000Z",
+		"created": "2017-01-17T21:40:36.754Z",
+		"2.16.4": "2018-07-09T20:35:25.607Z",
+		"2.16.3": "2018-03-10T02:21:46.329Z",
+		"2.16.2": "2017-11-15T11:31:11.589Z",
+		"2.16.1": "2017-11-09T15:24:03.543Z",
+		"2.16.0": "2017-09-07T22:10:43.964Z",
+		"2.15.0": "2017-01-17T21:40:36.754Z"
+	},
+	"_distfiles": {
+		"webpack-hot-middleware-2.16.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.16.3.tgz",
+			"sha": "c262ab826afae16030c15049e3c997849f9c8461",
+			"registry": "cnpmjs"
+		},
+		"webpack-hot-middleware-2.16.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.16.2.tgz",
+			"sha": "b5b31732ecf0d1aec0d2c53604e83de7976714ce",
+			"registry": "cnpmjs"
+		},
+		"webpack-hot-middleware-2.16.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.16.1.tgz",
+			"sha": "926034f99e77a7e98fd06feaf5b04304abe3f46c",
+			"registry": "cnpmjs"
+		},
+		"webpack-hot-middleware-2.16.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.16.0.tgz",
+			"sha": "4fe6b0bc077b43d4341c0c5b212d9198ab8b79a3",
+			"registry": "cnpmjs"
+		},
+		"webpack-hot-middleware-2.15.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.15.0.tgz",
+			"sha": "15c93c44ff2b6369d898df7ef42a374e8ba6780e",
+			"registry": "cnpmjs"
+		},
+		"webpack-hot-middleware-2.16.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-hot-middleware/download/@types/webpack-hot-middleware-2.16.4.tgz",
+			"sha": "258ecf2ae0ee80a988cc65547b24608fe10be440",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"23cf-+MlTpU9Qnsa7Xr5lTJiJWFDkxg8\"",
+			"fetched": 1541833279876
+		}
+	},
+	"_rev": "2-dc17f9b7390fe2ad",
+	"readme": "# Installation\r\n> `npm install --save @types/webpack-hot-middleware`\r\n\r\n# Summary\r\nThis package contains type definitions for webpack-hot-middleware (https://github.com/glenjamin/webpack-hot-middleware#readme).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/webpack-hot-middleware\r\n\r\nAdditional Details\r\n * Last updated: Mon, 09 Jul 2018 20:32:27 GMT\r\n * Dependencies: connect, webpack\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Benjamin Lim <https://github.com/bumbleblym>, Ron Martinez <https://github.com/icylace>, Chris Abrams <https://github.com/chrisabrams>."
+}

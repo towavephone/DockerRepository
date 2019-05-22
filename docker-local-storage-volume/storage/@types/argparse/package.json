@@ -1,0 +1,900 @@
+{
+	"name": "@types/argparse",
+	"versions": {
+		"1.0.34": {
+			"name": "@types/argparse",
+			"version": "1.0.34",
+			"description": "TypeScript definitions for argparse",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrew Schurman",
+					"url": "https://github.com/arcticwaters",
+					"githubUsername": "arcticwaters"
+				},
+				{
+					"name": "Tomasz Łaziuk",
+					"url": "https://github.com/tlaziuk",
+					"githubUsername": "tlaziuk"
+				},
+				{
+					"name": "Sebastian Silbermann",
+					"url": "https://github.com/eps1lon",
+					"githubUsername": "eps1lon"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7fde5dbf0f934a39da120aa6df87d511b4347c64585bbd1fe5a0e0df6801b348",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/argparse@1.0.34",
+			"dist": {
+				"shasum": "3ee09ced0285c7577d879c51b8cf092125591e68",
+				"size": 2358,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/argparse_1.0.34_1527870489047_0.9964836479494887"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527870489109,
+			"_cnpm_publish_time": 1527870489109
+		},
+		"1.0.33": {
+			"name": "@types/argparse",
+			"version": "1.0.33",
+			"description": "TypeScript definitions for argparse",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrew Schurman",
+					"url": "https://github.com/arcticwaters",
+					"githubUsername": "arcticwaters"
+				},
+				{
+					"name": "Tomasz Łaziuk",
+					"url": "https://github.com/tlaziuk",
+					"githubUsername": "tlaziuk"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "c9ee8462be505c590614c2d0d5504169c7b818c9a7426b0eb9220ca876e7e48d",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/argparse@1.0.33",
+			"dist": {
+				"shasum": "2728669427cdd74a99e53c9f457ca2866a37c52d",
+				"size": 2317,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/argparse-1.0.33.tgz_1505769891168_0.36810365226119757"
+			},
+			"directories": {},
+			"publish_time": 1505769891259,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505769891259
+		},
+		"1.0.32": {
+			"name": "@types/argparse",
+			"version": "1.0.32",
+			"description": "TypeScript definitions for argparse",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrew Schurman",
+					"url": "https://github.com/arcticwaters",
+					"githubUsername": "arcticwaters"
+				},
+				{
+					"name": "Tomasz Łaziuk",
+					"url": "https://github.com/tlaziuk",
+					"githubUsername": "tlaziuk"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e2f3faa48bf7c7096baced17c7d9c50ed25b7fe4f9af4cf68fad1331f913449c",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/argparse@1.0.32",
+			"dist": {
+				"shasum": "d2cdc073e4eae72515d60ae7a5866e535cdeb69a",
+				"size": 2318,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/argparse-1.0.32.tgz_1504709710930_0.9378212697338313"
+			},
+			"directories": {},
+			"publish_time": 1504709711038,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504709711038
+		},
+		"1.0.31": {
+			"name": "@types/argparse",
+			"version": "1.0.31",
+			"description": "TypeScript definitions for argparse",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrew Schurman",
+					"url": "https://github.com/arcticwaters"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "aefac1612a0991fb98051d3b6901306886c002e668352629e5afa6d755e62d12",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/argparse@1.0.31",
+			"dist": {
+				"shasum": "2c946d0b947bdfb1963fb180a4a7cce26e01b9c6",
+				"size": 2079,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/argparse-1.0.31.tgz_1503352059252_0.6817578237969428"
+			},
+			"directories": {},
+			"publish_time": 1503352059325,
+			"_cnpm_publish_time": 1503352059325,
+			"_hasShrinkwrap": false
+		},
+		"1.0.30": {
+			"name": "@types/argparse",
+			"version": "1.0.30",
+			"description": "TypeScript definitions for argparse v1.0.3",
+			"license": "MIT",
+			"author": "Andrew Schurman <http://github.com/arcticwaters>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "d624df77887b670b8bbe82994c2516d828af957616d58cc87b65c6fdac334029",
+			"_id": "@types/argparse@1.0.30",
+			"dist": {
+				"shasum": "513c248995e5e695d1f665af462c77c4d1c179d6",
+				"size": 1608,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.30.tgz_1474302060178_0.8665382964536548"
+			},
+			"directories": {},
+			"publish_time": 1474302062174,
+			"_cnpm_publish_time": 1474302062174,
+			"_hasShrinkwrap": false
+		},
+		"1.0.29": {
+			"name": "@types/argparse",
+			"version": "1.0.29",
+			"description": "TypeScript definitions for argparse v1.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Andrew Schurman",
+				"email": "http://github.com/arcticwaters"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/argparse@1.0.29",
+			"_shasum": "b6d364e5189609329c806fb1de197a73f3e76bca",
+			"_from": "output\\argparse",
+			"_resolved": "file:output\\argparse",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b6d364e5189609329c806fb1de197a73f3e76bca",
+				"size": 1593,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.29.tgz_1468505040069_0.019118936965242028"
+			},
+			"directories": {},
+			"publish_time": 1468505040540,
+			"_cnpm_publish_time": 1468505040540,
+			"_hasShrinkwrap": false
+		},
+		"1.0.28-alpha": {
+			"name": "@types/argparse",
+			"version": "1.0.28-alpha",
+			"description": "TypeScript definitions for argparse v1.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Andrew Schurman",
+				"email": "http://github.com/arcticwaters"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/argparse@1.0.28-alpha",
+			"_shasum": "9d75d16aabf0aaac62e04befb8f6a8bcad613cdc",
+			"_from": "output\\argparse",
+			"_resolved": "file:output\\argparse",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9d75d16aabf0aaac62e04befb8f6a8bcad613cdc",
+				"size": 1596,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.28-alpha.tgz_1468006257607_0.9135451626498252"
+			},
+			"directories": {},
+			"publish_time": 1468006260313,
+			"_cnpm_publish_time": 1468006260313,
+			"_hasShrinkwrap": false
+		},
+		"1.0.27-alpha": {
+			"name": "@types/argparse",
+			"version": "1.0.27-alpha",
+			"description": "TypeScript definitions for argparse v1.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Andrew Schurman",
+				"email": "http://github.com/arcticwaters"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/argparse@1.0.27-alpha",
+			"_shasum": "f8106267fa45b91e4c143d6b59dc78225e69981f",
+			"_from": "output\\argparse",
+			"_resolved": "file:output\\argparse",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f8106267fa45b91e4c143d6b59dc78225e69981f",
+				"size": 1596,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.27-alpha.tgz_1467589515886_0.43272066372446716"
+			},
+			"directories": {},
+			"publish_time": 1467589519239,
+			"_cnpm_publish_time": 1467589519239,
+			"_hasShrinkwrap": false
+		},
+		"1.0.26-alpha": {
+			"name": "@types/argparse",
+			"version": "1.0.26-alpha",
+			"description": "TypeScript definitions for argparse v1.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Andrew Schurman",
+				"email": "http://github.com/arcticwaters"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/argparse@1.0.26-alpha",
+			"_shasum": "97d410d1016c04183a4860dc71e10eefeb359d76",
+			"_from": "output\\argparse",
+			"_resolved": "file:output\\argparse",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "97d410d1016c04183a4860dc71e10eefeb359d76",
+				"size": 1596,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.26-alpha.tgz_1467424473857_0.42416489333845675"
+			},
+			"directories": {},
+			"publish_time": 1467424474558,
+			"_cnpm_publish_time": 1467424474558,
+			"_hasShrinkwrap": false
+		},
+		"1.0.25-alpha": {
+			"name": "@types/argparse",
+			"version": "1.0.25-alpha",
+			"description": "TypeScript definitions for argparse v1.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Andrew Schurman",
+				"email": "http://github.com/arcticwaters"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/argparse@1.0.25-alpha",
+			"_shasum": "c10c94ea73e0558ebdb4c8c1313db5de99bce430",
+			"_from": "output\\argparse",
+			"_resolved": "file:output\\argparse",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c10c94ea73e0558ebdb4c8c1313db5de99bce430",
+				"size": 1597,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.25-alpha.tgz_1467411194101_0.676280627027154"
+			},
+			"directories": {},
+			"publish_time": 1467411197447,
+			"_cnpm_publish_time": 1467411197447,
+			"_hasShrinkwrap": false
+		},
+		"1.0.24-alpha": {
+			"name": "@types/argparse",
+			"version": "1.0.24-alpha",
+			"description": "TypeScript definitions for argparse v1.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Andrew Schurman",
+				"email": "http://github.com/arcticwaters"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/argparse@1.0.24-alpha",
+			"_shasum": "9247b658e5747b4a4bee593ef81962c58375d30c",
+			"_from": "output\\argparse",
+			"_resolved": "file:output\\argparse",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9247b658e5747b4a4bee593ef81962c58375d30c",
+				"size": 1584,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.24-alpha.tgz_1467399200718_0.06395525974221528"
+			},
+			"directories": {},
+			"publish_time": 1467399204067,
+			"_cnpm_publish_time": 1467399204067,
+			"_hasShrinkwrap": false
+		},
+		"1.0.23-alpha": {
+			"name": "@types/argparse",
+			"version": "1.0.23-alpha",
+			"description": "TypeScript definitions for argparse v1.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Andrew Schurman",
+				"email": "http://github.com/arcticwaters"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/argparse@1.0.23-alpha",
+			"_shasum": "a8ca1fac0f9e6b049668a72f38f2a50d91901b4e",
+			"_from": "output\\argparse",
+			"_resolved": "file:output\\argparse",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a8ca1fac0f9e6b049668a72f38f2a50d91901b4e",
+				"size": 1567,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.23-alpha.tgz_1464150521191_0.4494148667436093"
+			},
+			"directories": {},
+			"publish_time": 1464150523711,
+			"_cnpm_publish_time": 1464150523711,
+			"_hasShrinkwrap": false
+		},
+		"1.0.22-alpha": {
+			"name": "@types/argparse",
+			"version": "1.0.22-alpha",
+			"description": "TypeScript definitions for argparse v1.0.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Andrew Schurman",
+				"email": "http://github.com/arcticwaters"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/argparse@1.0.22-alpha",
+			"_shasum": "758f27539df8941a654efc0b273d33d4de9ddc9f",
+			"_from": "output\\argparse",
+			"_resolved": "file:output\\argparse",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "758f27539df8941a654efc0b273d33d4de9ddc9f",
+				"size": 1563,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.22-alpha.tgz_1463771393063_0.2588017275556922"
+			},
+			"directories": {},
+			"publish_time": 1463771395030,
+			"_cnpm_publish_time": 1463771395030,
+			"_hasShrinkwrap": false
+		},
+		"1.0.17-alpha": {
+			"name": "@types/argparse",
+			"version": "1.0.17-alpha",
+			"description": "Type definitions for argparse v1.0.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Andrew Schurman",
+				"email": "http://github.com/arcticwaters"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/argparse@1.0.17-alpha",
+			"_shasum": "5e853cc8005f59b0406909049397e6444d6b5879",
+			"_from": "output\\argparse",
+			"_resolved": "file:output\\argparse",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5e853cc8005f59b0406909049397e6444d6b5879",
+				"size": 1578,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.17-alpha.tgz_1463688954071_0.3695260169915855"
+			},
+			"directories": {},
+			"publish_time": 1463688954778,
+			"_cnpm_publish_time": 1463688954778,
+			"_hasShrinkwrap": false
+		},
+		"1.0.16-alpha": {
+			"name": "@types/argparse",
+			"version": "1.0.16-alpha",
+			"description": "Type definitions for argparse v1.0.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Andrew Schurman",
+				"email": "http://github.com/arcticwaters"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/argparse@1.0.16-alpha",
+			"_shasum": "b904139418f95e98dd70796d06eadaf9efbb6fca",
+			"_from": "output\\argparse",
+			"_resolved": "file:output\\argparse",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b904139418f95e98dd70796d06eadaf9efbb6fca",
+				"size": 1571,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/argparse-1.0.16-alpha.tgz_1463459223696_0.3487495183944702"
+			},
+			"directories": {},
+			"publish_time": 1463459227522,
+			"_cnpm_publish_time": 1463459227522,
+			"_hasShrinkwrap": false
+		},
+		"1.0.35": {
+			"name": "@types/argparse",
+			"version": "1.0.35",
+			"description": "TypeScript definitions for argparse",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Andrew Schurman",
+					"url": "https://github.com/arcticwaters",
+					"githubUsername": "arcticwaters"
+				},
+				{
+					"name": "Tomasz Łaziuk",
+					"url": "https://github.com/tlaziuk",
+					"githubUsername": "tlaziuk"
+				},
+				{
+					"name": "Sebastian Silbermann",
+					"url": "https://github.com/eps1lon",
+					"githubUsername": "eps1lon"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "024762cbfc36d2f21e0e9e36f656dcbbe6213426cbfb5a215ee8eceb9af75f6f",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/argparse@1.0.35",
+			"dist": {
+				"shasum": "b3acbd331a82854cca16d6015599d267b7272ec9",
+				"size": 2363,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/argparse_1.0.35_1538185611272_0.18062431998371187"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538185611425,
+			"_cnpm_publish_time": 1538185611425
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.35",
+		"ts2.0": "1.0.31",
+		"ts2.1": "1.0.31",
+		"ts2.2": "1.0.35",
+		"ts2.3": "1.0.35",
+		"ts2.4": "1.0.35",
+		"ts2.5": "1.0.35",
+		"ts2.6": "1.0.35",
+		"ts2.7": "1.0.35",
+		"ts2.8": "1.0.35",
+		"ts2.9": "1.0.35",
+		"ts3.0": "1.0.35",
+		"ts3.1": "1.0.35",
+		"ts3.2": "1.0.35"
+	},
+	"time": {
+		"modified": "2018-09-29T01:47:03.000Z",
+		"created": "2016-05-17T04:27:07.522Z",
+		"1.0.35": "2018-09-29T01:46:51.425Z",
+		"1.0.34": "2018-06-01T16:28:09.109Z",
+		"1.0.33": "2017-09-18T21:24:51.259Z",
+		"1.0.32": "2017-09-06T14:55:11.038Z",
+		"1.0.31": "2017-08-21T21:47:39.325Z",
+		"1.0.30": "2016-09-19T16:21:02.174Z",
+		"1.0.29": "2016-07-14T14:04:00.540Z",
+		"1.0.28-alpha": "2016-07-08T19:31:00.313Z",
+		"1.0.27-alpha": "2016-07-03T23:45:19.239Z",
+		"1.0.26-alpha": "2016-07-02T01:54:34.558Z",
+		"1.0.25-alpha": "2016-07-01T22:13:17.447Z",
+		"1.0.24-alpha": "2016-07-01T18:53:24.067Z",
+		"1.0.23-alpha": "2016-05-25T04:28:43.711Z",
+		"1.0.22-alpha": "2016-05-20T19:09:55.030Z",
+		"1.0.17-alpha": "2016-05-19T20:15:54.778Z",
+		"1.0.16-alpha": "2016-05-17T04:27:07.522Z"
+	},
+	"_distfiles": {
+		"argparse-1.0.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.34.tgz",
+			"sha": "3ee09ced0285c7577d879c51b8cf092125591e68",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.33.tgz",
+			"sha": "2728669427cdd74a99e53c9f457ca2866a37c52d",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.32.tgz",
+			"sha": "d2cdc073e4eae72515d60ae7a5866e535cdeb69a",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.31.tgz",
+			"sha": "2c946d0b947bdfb1963fb180a4a7cce26e01b9c6",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.30.tgz",
+			"sha": "513c248995e5e695d1f665af462c77c4d1c179d6",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.29.tgz",
+			"sha": "b6d364e5189609329c806fb1de197a73f3e76bca",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.28-alpha.tgz",
+			"sha": "9d75d16aabf0aaac62e04befb8f6a8bcad613cdc",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.27-alpha.tgz",
+			"sha": "f8106267fa45b91e4c143d6b59dc78225e69981f",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.26-alpha.tgz",
+			"sha": "97d410d1016c04183a4860dc71e10eefeb359d76",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.25-alpha.tgz",
+			"sha": "c10c94ea73e0558ebdb4c8c1313db5de99bce430",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.24-alpha.tgz",
+			"sha": "9247b658e5747b4a4bee593ef81962c58375d30c",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.23-alpha.tgz",
+			"sha": "a8ca1fac0f9e6b049668a72f38f2a50d91901b4e",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.22-alpha.tgz",
+			"sha": "758f27539df8941a654efc0b273d33d4de9ddc9f",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.17-alpha.tgz",
+			"sha": "5e853cc8005f59b0406909049397e6444d6b5879",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.16-alpha.tgz",
+			"sha": "b904139418f95e98dd70796d06eadaf9efbb6fca",
+			"registry": "cnpmjs"
+		},
+		"argparse-1.0.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/argparse/download/@types/argparse-1.0.35.tgz",
+			"sha": "b3acbd331a82854cca16d6015599d267b7272ec9",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833444607
+		}
+	},
+	"_rev": "2-30792e7a559a2182",
+	"readme": "# Installation\r\n> `npm install --save @types/argparse`\r\n\r\n# Summary\r\nThis package contains type definitions for argparse (https://github.com/nodeca/argparse).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/argparse\r\n\r\nAdditional Details\r\n * Last updated: Sat, 29 Sep 2018 01:46:47 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Andrew Schurman <https://github.com/arcticwaters>, Tomasz Łaziuk <https://github.com/tlaziuk>, Sebastian Silbermann <https://github.com/eps1lon>."
+}

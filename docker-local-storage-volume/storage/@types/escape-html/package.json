@@ -1,0 +1,659 @@
+{
+	"name": "@types/escape-html",
+	"versions": {
+		"0.0.20": {
+			"name": "@types/escape-html",
+			"version": "0.0.20",
+			"description": "TypeScript definitions for escape-html",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Elisée MAURER",
+					"url": "https://github.com/elisee"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "aba0dedf471036338db625914f33e3e35d7e1128fcc09c348dec895cb48158cd",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/escape-html@0.0.20",
+			"dist": {
+				"shasum": "cae698714dd61ebee5ab3f2aeb9a34ba1011735a",
+				"size": 1490,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.20.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/escape-html-0.0.20.tgz_1503352288302_0.09043027739971876"
+			},
+			"directories": {},
+			"publish_time": 1503352288365,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352288365
+		},
+		"0.0.19": {
+			"name": "@types/escape-html",
+			"version": "0.0.19",
+			"description": "TypeScript definitions for escape-html",
+			"license": "MIT",
+			"author": "Elisée MAURER <https://github.com/elisee/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "3ad68363a7dc19253b9da6ed4b6f08607d3f44809eca2a90b7501009995cd275",
+			"_id": "@types/escape-html@0.0.19",
+			"dist": {
+				"shasum": "595ff7bd7ee510af54517819de24abdcea6f3507",
+				"size": 1015,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.19.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.19.tgz_1474306202021_0.7511973872315139"
+			},
+			"directories": {},
+			"publish_time": 1474306205184,
+			"_cnpm_publish_time": 1474306205184,
+			"_hasShrinkwrap": false
+		},
+		"0.0.18": {
+			"name": "@types/escape-html",
+			"version": "0.0.18",
+			"description": "TypeScript definitions for escape-html",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-html@0.0.18",
+			"_shasum": "a70a04f1524cedfa74c52043876b43edceb0aff6",
+			"_from": "output\\escape-html",
+			"_resolved": "file:output\\escape-html",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a70a04f1524cedfa74c52043876b43edceb0aff6",
+				"size": 989,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.18.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.18.tgz_1468506678022_0.5978932611178607"
+			},
+			"directories": {},
+			"publish_time": 1468506680605,
+			"_cnpm_publish_time": 1468506680605,
+			"_hasShrinkwrap": false
+		},
+		"0.0.17-alpha": {
+			"name": "@types/escape-html",
+			"version": "0.0.17-alpha",
+			"description": "TypeScript definitions for escape-html",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-html@0.0.17-alpha",
+			"_shasum": "3299abb15d21b791034cfebe7586d52098760b0e",
+			"_from": "output\\escape-html",
+			"_resolved": "file:output\\escape-html",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3299abb15d21b791034cfebe7586d52098760b0e",
+				"size": 993,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.17-alpha.tgz_1468008365327_0.16437757341191173"
+			},
+			"directories": {},
+			"publish_time": 1468008365812,
+			"_cnpm_publish_time": 1468008365812,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/escape-html",
+			"version": "0.0.16-alpha",
+			"description": "TypeScript definitions for escape-html",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-html@0.0.16-alpha",
+			"_shasum": "e324c09882bc6a175ed45ca4a722e7f98e33edd4",
+			"_from": "output\\escape-html",
+			"_resolved": "file:output\\escape-html",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e324c09882bc6a175ed45ca4a722e7f98e33edd4",
+				"size": 994,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.16-alpha.tgz_1467591224294_0.09647920005954802"
+			},
+			"directories": {},
+			"publish_time": 1467591227776,
+			"_cnpm_publish_time": 1467591227776,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/escape-html",
+			"version": "0.0.15-alpha",
+			"description": "TypeScript definitions for escape-html",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-html@0.0.15-alpha",
+			"_shasum": "189511c18d47c26d0b39e4aeb7d4bc3cecdb1f2a",
+			"_from": "output\\escape-html",
+			"_resolved": "file:output\\escape-html",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "189511c18d47c26d0b39e4aeb7d4bc3cecdb1f2a",
+				"size": 992,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.15-alpha.tgz_1467426186613_0.05109889153391123"
+			},
+			"directories": {},
+			"publish_time": 1467426187139,
+			"_cnpm_publish_time": 1467426187139,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/escape-html",
+			"version": "0.0.14-alpha",
+			"description": "TypeScript definitions for escape-html",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-html@0.0.14-alpha",
+			"_shasum": "136f786e7e2a74a753443829b2bc507cd168003c",
+			"_from": "output\\escape-html",
+			"_resolved": "file:output\\escape-html",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "136f786e7e2a74a753443829b2bc507cd168003c",
+				"size": 994,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.14-alpha.tgz_1467412861414_0.35361385089345276"
+			},
+			"directories": {},
+			"publish_time": 1467412863816,
+			"_cnpm_publish_time": 1467412863816,
+			"_hasShrinkwrap": false
+		},
+		"0.0.13-alpha": {
+			"name": "@types/escape-html",
+			"version": "0.0.13-alpha",
+			"description": "TypeScript definitions for escape-html",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-html@0.0.13-alpha",
+			"_shasum": "fde6ddabf3b8d85606dd1d9b1f94ee27724cb4d0",
+			"_from": "output\\escape-html",
+			"_resolved": "file:output\\escape-html",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fde6ddabf3b8d85606dd1d9b1f94ee27724cb4d0",
+				"size": 991,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.13-alpha.tgz_1467400838736_0.9547097613103688"
+			},
+			"directories": {},
+			"publish_time": 1467400842039,
+			"_cnpm_publish_time": 1467400842039,
+			"_hasShrinkwrap": false
+		},
+		"0.0.12-alpha": {
+			"name": "@types/escape-html",
+			"version": "0.0.12-alpha",
+			"description": "TypeScript definitions for escape-html",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-html@0.0.12-alpha",
+			"_shasum": "b347613f0d2475a09a258b1e0cc7cd2d6ba266d9",
+			"_from": "output\\escape-html",
+			"_resolved": "file:output\\escape-html",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b347613f0d2475a09a258b1e0cc7cd2d6ba266d9",
+				"size": 962,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.12-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.12-alpha.tgz_1464151815928_0.43715364299714565"
+			},
+			"directories": {},
+			"publish_time": 1464151816434,
+			"_cnpm_publish_time": 1464151816434,
+			"_hasShrinkwrap": false
+		},
+		"0.0.11-alpha": {
+			"name": "@types/escape-html",
+			"version": "0.0.11-alpha",
+			"description": "TypeScript definitions for escape-html",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-html@0.0.11-alpha",
+			"_shasum": "aca13a66573a6a507960f25fabaa416cdf11d969",
+			"_from": "output\\escape-html",
+			"_resolved": "file:output\\escape-html",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "aca13a66573a6a507960f25fabaa416cdf11d969",
+				"size": 960,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.11-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.11-alpha.tgz_1463772718390_0.6389466596301645"
+			},
+			"directories": {},
+			"publish_time": 1463772718774,
+			"_cnpm_publish_time": 1463772718774,
+			"_hasShrinkwrap": false
+		},
+		"0.0.6-alpha": {
+			"name": "@types/escape-html",
+			"version": "0.0.6-alpha",
+			"description": "Type definitions for escape-html from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-html@0.0.6-alpha",
+			"_shasum": "afecade840364cbb2aa38c2787870a4a29ab82d6",
+			"_from": "output\\escape-html",
+			"_resolved": "file:output\\escape-html",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "afecade840364cbb2aa38c2787870a4a29ab82d6",
+				"size": 969,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.6-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.6-alpha.tgz_1463690822857_0.7395387897267938"
+			},
+			"directories": {},
+			"publish_time": 1463690827530,
+			"_cnpm_publish_time": 1463690827530,
+			"_hasShrinkwrap": false
+		},
+		"0.0.5-alpha": {
+			"name": "@types/escape-html",
+			"version": "0.0.5-alpha",
+			"description": "Type definitions for escape-html from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Elisée MAURER",
+				"email": "https://github.com/elisee/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/escape-html@0.0.5-alpha",
+			"_shasum": "bbb8908850b543c6b474cc19a5ee0727886de0e5",
+			"_from": "output\\escape-html",
+			"_resolved": "file:output\\escape-html",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bbb8908850b543c6b474cc19a5ee0727886de0e5",
+				"size": 961,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.5-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/escape-html-0.0.5-alpha.tgz_1463460700272_0.5179444022942334"
+			},
+			"directories": {},
+			"publish_time": 1463460700890,
+			"_cnpm_publish_time": 1463460700890,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.20",
+		"ts2.0": "0.0.20",
+		"ts2.1": "0.0.20",
+		"ts2.2": "0.0.20",
+		"ts2.3": "0.0.20",
+		"ts2.4": "0.0.20",
+		"ts2.5": "0.0.20",
+		"ts2.6": "0.0.20",
+		"ts2.7": "0.0.20",
+		"ts2.8": "0.0.20",
+		"ts2.9": "0.0.20",
+		"ts3.0": "0.0.20",
+		"ts3.1": "0.0.20",
+		"ts3.2": "0.0.20"
+	},
+	"time": {
+		"modified": "2018-10-10T20:10:41.000Z",
+		"created": "2016-05-17T04:51:40.890Z",
+		"0.0.20": "2017-08-21T21:51:28.365Z",
+		"0.0.19": "2016-09-19T17:30:05.184Z",
+		"0.0.18": "2016-07-14T14:31:20.605Z",
+		"0.0.17-alpha": "2016-07-08T20:06:05.812Z",
+		"0.0.16-alpha": "2016-07-04T00:13:47.776Z",
+		"0.0.15-alpha": "2016-07-02T02:23:07.139Z",
+		"0.0.14-alpha": "2016-07-01T22:41:03.816Z",
+		"0.0.13-alpha": "2016-07-01T19:20:42.039Z",
+		"0.0.12-alpha": "2016-05-25T04:50:16.434Z",
+		"0.0.11-alpha": "2016-05-20T19:31:58.774Z",
+		"0.0.6-alpha": "2016-05-19T20:47:07.530Z",
+		"0.0.5-alpha": "2016-05-17T04:51:40.890Z"
+	},
+	"_distfiles": {
+		"escape-html-0.0.20.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.20.tgz",
+			"sha": "cae698714dd61ebee5ab3f2aeb9a34ba1011735a",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.19.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.19.tgz",
+			"sha": "595ff7bd7ee510af54517819de24abdcea6f3507",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.18.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.18.tgz",
+			"sha": "a70a04f1524cedfa74c52043876b43edceb0aff6",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.17-alpha.tgz",
+			"sha": "3299abb15d21b791034cfebe7586d52098760b0e",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.16-alpha.tgz",
+			"sha": "e324c09882bc6a175ed45ca4a722e7f98e33edd4",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.15-alpha.tgz",
+			"sha": "189511c18d47c26d0b39e4aeb7d4bc3cecdb1f2a",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.14-alpha.tgz",
+			"sha": "136f786e7e2a74a753443829b2bc507cd168003c",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.13-alpha.tgz",
+			"sha": "fde6ddabf3b8d85606dd1d9b1f94ee27724cb4d0",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.12-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.12-alpha.tgz",
+			"sha": "b347613f0d2475a09a258b1e0cc7cd2d6ba266d9",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.11-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.11-alpha.tgz",
+			"sha": "aca13a66573a6a507960f25fabaa416cdf11d969",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.6-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.6-alpha.tgz",
+			"sha": "afecade840364cbb2aa38c2787870a4a29ab82d6",
+			"registry": "cnpmjs"
+		},
+		"escape-html-0.0.5-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/escape-html/download/@types/escape-html-0.0.5-alpha.tgz",
+			"sha": "bbb8908850b543c6b474cc19a5ee0727886de0e5",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3b5b-mmplvzYUQLXXIx0Ia5P4Mmu7IoY\"",
+			"fetched": 1541833454903
+		}
+	},
+	"_rev": "2-91f5e1d4d6bbf281",
+	"readme": "# Installation\r\n> `npm install --save @types/escape-html`\r\n\r\n# Summary\r\nThis package contains type definitions for escape-html (https://github.com/component/escape-html).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/escape-html\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 21:49:18 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Elisée MAURER <https://github.com/elisee>."
+}

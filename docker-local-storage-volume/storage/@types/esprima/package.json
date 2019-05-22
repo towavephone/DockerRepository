@@ -1,0 +1,1133 @@
+{
+	"name": "@types/esprima",
+	"versions": {
+		"4.0.2": {
+			"name": "@types/esprima",
+			"version": "4.0.2",
+			"description": "TypeScript definitions for Esprima",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "teppeis",
+					"url": "https://github.com/teppeis",
+					"githubUsername": "teppeis"
+				},
+				{
+					"name": "RReverser",
+					"url": "https://github.com/RReverser",
+					"githubUsername": "RReverser"
+				},
+				{
+					"name": "peter-scott",
+					"url": "https://github.com/peter-scott",
+					"githubUsername": "peter-scott"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"typesPublisherContentHash": "8ca9dba5c1c46956ec3278e9c3d35be391412e807210b4d17873ce8ada9d02f4",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/esprima@4.0.2",
+			"dist": {
+				"shasum": "0303602d0644086d4802635d7abc9ac0eec57207",
+				"size": 2370,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-4.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/esprima_4.0.2_1525191937639_0.7924372277713658"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525191937790,
+			"_cnpm_publish_time": 1525191937790
+		},
+		"4.0.1": {
+			"name": "@types/esprima",
+			"version": "4.0.1",
+			"description": "TypeScript definitions for Esprima",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "teppeis",
+					"url": "https://github.com/teppeis",
+					"githubUsername": "teppeis"
+				},
+				{
+					"name": "RReverser",
+					"url": "https://github.com/RReverser",
+					"githubUsername": "RReverser"
+				},
+				{
+					"name": "peter-scott",
+					"url": "https://github.com/peter-scott",
+					"githubUsername": "peter-scott"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"typesPublisherContentHash": "e98814f35e48f656e17e4c5f2e571a757509be1d429bebcd8ca32d42181b51de",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/esprima@4.0.1",
+			"dist": {
+				"shasum": "40f6fb3a3a50ebcaa4dfca17f41e7f10e687df03",
+				"size": 2366,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/esprima-4.0.1.tgz_1505743736563_0.7846982483752072"
+			},
+			"directories": {},
+			"publish_time": 1505743737558,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505743737558
+		},
+		"2.1.35": {
+			"name": "@types/esprima",
+			"version": "2.1.35",
+			"description": "TypeScript definitions for Esprima",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "teppeis",
+					"url": "https://github.com/teppeis",
+					"githubUsername": "teppeis"
+				},
+				{
+					"name": "RReverser",
+					"url": "https://github.com/RReverser",
+					"githubUsername": "RReverser"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"typesPublisherContentHash": "281cae743126e2f9592f9832c5e98e90bd74916629642355101c1841ad8ab95f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/esprima@2.1.35",
+			"dist": {
+				"shasum": "8f5c1c2bb25ea5e11bf479c06e1f46eafcc782bf",
+				"size": 2364,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/esprima-2.1.35.tgz_1504188364493_0.4742807017173618"
+			},
+			"directories": {},
+			"publish_time": 1504188364661,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504188364661
+		},
+		"4.0.0": {
+			"name": "@types/esprima",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for Esprima",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "teppeis",
+					"url": "https://github.com/teppeis",
+					"githubUsername": "teppeis"
+				},
+				{
+					"name": "RReverser",
+					"url": "https://github.com/RReverser",
+					"githubUsername": "RReverser"
+				},
+				{
+					"name": "peter-scott",
+					"url": "https://github.com/peter-scott",
+					"githubUsername": "peter-scott"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"typesPublisherContentHash": "d6fe4fe5bb148ecef7ec4fc201d8d87ddd72f8d0fd32e0736ceeadb80b28cd55",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/esprima@4.0.0",
+			"dist": {
+				"shasum": "846e0ea76e019e1a0f93449006f742bcfc549403",
+				"size": 2346,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/esprima-4.0.0.tgz_1504188362503_0.6640651531051844"
+			},
+			"directories": {},
+			"publish_time": 1504188363558,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504188363558
+		},
+		"2.1.34": {
+			"name": "@types/esprima",
+			"version": "2.1.34",
+			"description": "TypeScript definitions for Esprima",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "teppeis",
+					"url": "https://github.com/teppeis"
+				},
+				{
+					"name": "RReverser",
+					"url": "https://github.com/RReverser"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ed31757798b04c7923fced5d1fa32c607bb2784129b3ea76fe5d6aee5c4aecf2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/esprima@2.1.34",
+			"dist": {
+				"shasum": "6e26aadaa60c51304da29a2ad2183a7166a52474",
+				"size": 2355,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/esprima-2.1.34.tgz_1500919310990_0.7035793194081634"
+			},
+			"directories": {},
+			"publish_time": 1500919311340,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500919311340
+		},
+		"2.1.33": {
+			"name": "@types/esprima",
+			"version": "2.1.33",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"license": "MIT",
+			"author": "teppeis <https://github.com/teppeis>, RReverser <https://github.com/RReverser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "ddf6bfd06604edba9ac82753a18e869d5769edb51de82ede7cca26f273a97eba",
+			"_id": "@types/esprima@2.1.33",
+			"dist": {
+				"shasum": "c132313f0d19733e5ddb2054b6853deafe7af63d",
+				"size": 1816,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.33.tgz_1474314935620_0.0152926507871598"
+			},
+			"directories": {},
+			"publish_time": 1474314938684,
+			"_cnpm_publish_time": 1474314938684,
+			"_hasShrinkwrap": false
+		},
+		"2.1.32": {
+			"name": "@types/esprima",
+			"version": "2.1.32",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"license": "MIT",
+			"author": "teppeis <https://github.com/teppeis>, RReverser <https://github.com/RReverser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "00aa6d884b184292356bf4f974410c50179d52641e0298225d64a934dc22ad72",
+			"_id": "@types/esprima@2.1.32",
+			"dist": {
+				"shasum": "5816cc880d55f9efdc0fb5b6ff097e2d67300c97",
+				"size": 1631,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.32.tgz_1474303571834_0.5626760814338923"
+			},
+			"directories": {},
+			"publish_time": 1474303573695,
+			"_cnpm_publish_time": 1474303573695,
+			"_hasShrinkwrap": false
+		},
+		"2.1.31": {
+			"name": "@types/esprima",
+			"version": "2.1.31",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"license": "MIT",
+			"author": "teppeis <https://github.com/teppeis>, RReverser <https://github.com/RReverser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/esprima@2.1.31",
+			"dist": {
+				"shasum": "7534ae5d3d034131242ba960741564557c2a049b",
+				"size": 1628,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.31.tgz_1472150476633_0.17187371291220188"
+			},
+			"directories": {},
+			"publish_time": 1472150478190,
+			"_cnpm_publish_time": 1472150478190,
+			"_hasShrinkwrap": false
+		},
+		"2.1.30": {
+			"name": "@types/esprima",
+			"version": "2.1.30",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"license": "MIT",
+			"author": "teppeis <https://github.com/teppeis>, RReverser <https://github.com/RReverser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/esprima@2.1.30",
+			"dist": {
+				"shasum": "df02b4e4d88f87666e089d635c5161302e21f500",
+				"size": 1628,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.30.tgz_1470688584137_0.4333691387437284"
+			},
+			"directories": {},
+			"publish_time": 1470688587941,
+			"_cnpm_publish_time": 1470688587941,
+			"_hasShrinkwrap": false
+		},
+		"2.1.29": {
+			"name": "@types/esprima",
+			"version": "2.1.29",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"license": "MIT",
+			"author": "teppeis <https://github.com/teppeis>, RReverser <https://github.com/RReverser>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/estree": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/esprima@2.1.29",
+			"dist": {
+				"shasum": "577af071e021ec390b6b37057e80514e55f8f8ff",
+				"size": 9216,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.29.tgz_1470153115797_0.5934227858670056"
+			},
+			"directories": {},
+			"publish_time": 1470153116817,
+			"_cnpm_publish_time": 1470153116817,
+			"_hasShrinkwrap": false
+		},
+		"2.1.28": {
+			"name": "@types/esprima",
+			"version": "2.1.28",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "teppeis",
+				"email": "https://github.com/teppeis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.*"
+			},
+			"_id": "@types/esprima@2.1.28",
+			"_shasum": "813cd6a9e23782a69d4dc33e30418bf71f913e59",
+			"_from": "output\\esprima",
+			"_resolved": "file:output\\esprima",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "813cd6a9e23782a69d4dc33e30418bf71f913e59",
+				"size": 1596,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.28.tgz_1468506694208_0.05084383091889322"
+			},
+			"directories": {},
+			"publish_time": 1468506697635,
+			"_cnpm_publish_time": 1468506697635,
+			"_hasShrinkwrap": false
+		},
+		"2.1.27-alpha": {
+			"name": "@types/esprima",
+			"version": "2.1.27-alpha",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "teppeis",
+				"email": "https://github.com/teppeis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.27-alpha"
+			},
+			"_id": "@types/esprima@2.1.27-alpha",
+			"_shasum": "cd5708881d29c74f47ffe9fcfd2c9362fd51ae9f",
+			"_from": "output\\esprima",
+			"_resolved": "file:output\\esprima",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cd5708881d29c74f47ffe9fcfd2c9362fd51ae9f",
+				"size": 1597,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.27-alpha.tgz_1468008482720_0.42017789790406823"
+			},
+			"directories": {},
+			"publish_time": 1468008484103,
+			"_cnpm_publish_time": 1468008484103,
+			"_hasShrinkwrap": false
+		},
+		"2.1.26-alpha": {
+			"name": "@types/esprima",
+			"version": "2.1.26-alpha",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "teppeis",
+				"email": "https://github.com/teppeis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.26-alpha"
+			},
+			"_id": "@types/esprima@2.1.26-alpha",
+			"_shasum": "d94c1316f12e7b42ac025c98dd0ba713f4612248",
+			"_from": "output\\esprima",
+			"_resolved": "file:output\\esprima",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d94c1316f12e7b42ac025c98dd0ba713f4612248",
+				"size": 1600,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.26-alpha.tgz_1467591229598_0.7070010956376791"
+			},
+			"directories": {},
+			"publish_time": 1467591233095,
+			"_cnpm_publish_time": 1467591233095,
+			"_hasShrinkwrap": false
+		},
+		"2.1.25-alpha": {
+			"name": "@types/esprima",
+			"version": "2.1.25-alpha",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "teppeis",
+				"email": "https://github.com/teppeis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.24-alpha"
+			},
+			"_id": "@types/esprima@2.1.25-alpha",
+			"_shasum": "8ac21f498acaeb3e548f75ff159c502c0d7276a8",
+			"_from": "output\\esprima",
+			"_resolved": "file:output\\esprima",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8ac21f498acaeb3e548f75ff159c502c0d7276a8",
+				"size": 1601,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.25-alpha.tgz_1467426142545_0.801863631233573"
+			},
+			"directories": {},
+			"publish_time": 1467426145667,
+			"_cnpm_publish_time": 1467426145667,
+			"_hasShrinkwrap": false
+		},
+		"2.1.24-alpha": {
+			"name": "@types/esprima",
+			"version": "2.1.24-alpha",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "teppeis",
+				"email": "https://github.com/teppeis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.23-alpha"
+			},
+			"_id": "@types/esprima@2.1.24-alpha",
+			"_shasum": "c669b61a1e368b9197f0b55880c7d72058d6f503",
+			"_from": "output\\esprima",
+			"_resolved": "file:output\\esprima",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c669b61a1e368b9197f0b55880c7d72058d6f503",
+				"size": 1601,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.24-alpha.tgz_1467413085185_0.6810762875247747"
+			},
+			"directories": {},
+			"publish_time": 1467413088646,
+			"_cnpm_publish_time": 1467413088646,
+			"_hasShrinkwrap": false
+		},
+		"2.1.23-alpha": {
+			"name": "@types/esprima",
+			"version": "2.1.23-alpha",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "teppeis",
+				"email": "https://github.com/teppeis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "0.0.*"
+			},
+			"_id": "@types/esprima@2.1.23-alpha",
+			"_shasum": "8783d455c75cada77eb96ce22f0a8adc947031bc",
+			"_from": "output\\esprima",
+			"_resolved": "file:output\\esprima",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8783d455c75cada77eb96ce22f0a8adc947031bc",
+				"size": 1591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.23-alpha.tgz_1467400659665_0.8273176900111139"
+			},
+			"directories": {},
+			"publish_time": 1467400662049,
+			"_cnpm_publish_time": 1467400662049,
+			"_hasShrinkwrap": false
+		},
+		"2.1.22-alpha": {
+			"name": "@types/esprima",
+			"version": "2.1.22-alpha",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "teppeis",
+				"email": "https://github.com/teppeis"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"_id": "@types/esprima@2.1.22-alpha",
+			"_shasum": "11c9421c86b27ca63cbc5cd6b492ee9da1e87a55",
+			"_from": "output\\esprima",
+			"_resolved": "file:output\\esprima",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "11c9421c86b27ca63cbc5cd6b492ee9da1e87a55",
+				"size": 1579,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.22-alpha.tgz_1464151828120_0.6867919550277293"
+			},
+			"directories": {},
+			"publish_time": 1464151828594,
+			"_cnpm_publish_time": 1464151828594,
+			"_hasShrinkwrap": false
+		},
+		"2.1.21-alpha": {
+			"name": "@types/esprima",
+			"version": "2.1.21-alpha",
+			"description": "TypeScript definitions for Esprima v2.1.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "teppeis",
+				"email": "https://github.com/teppeis"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"_id": "@types/esprima@2.1.21-alpha",
+			"_shasum": "3714f29c420533c3804efc3a0e108094eef16318",
+			"_from": "output\\esprima",
+			"_resolved": "file:output\\esprima",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3714f29c420533c3804efc3a0e108094eef16318",
+				"size": 1577,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.21-alpha.tgz_1463772729802_0.13444314687512815"
+			},
+			"directories": {},
+			"publish_time": 1463772730194,
+			"_cnpm_publish_time": 1463772730194,
+			"_hasShrinkwrap": false
+		},
+		"2.1.16-alpha": {
+			"name": "@types/esprima",
+			"version": "2.1.16-alpha",
+			"description": "Type definitions for Esprima v2.1.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "teppeis",
+				"email": "https://github.com/teppeis"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/estree": "*"
+			},
+			"_id": "@types/esprima@2.1.16-alpha",
+			"_shasum": "2899cc0f1b2a513ef70dcd9e3f8bf5294210aa7a",
+			"_from": "output\\esprima",
+			"_resolved": "file:output\\esprima",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2899cc0f1b2a513ef70dcd9e3f8bf5294210aa7a",
+				"size": 1583,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.16-alpha.tgz_1463690843933_0.07840669667348266"
+			},
+			"directories": {},
+			"publish_time": 1463690844591,
+			"_cnpm_publish_time": 1463690844591,
+			"_hasShrinkwrap": false
+		},
+		"2.1.15-alpha": {
+			"name": "@types/esprima",
+			"version": "2.1.15-alpha",
+			"description": "Type definitions for Esprima v2.1.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "teppeis",
+				"email": "https://github.com/teppeis"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/esprima@2.1.15-alpha",
+			"_shasum": "9de5f070afbf37a24daa884aac5b2c7126fd430f",
+			"_from": "output\\esprima",
+			"_resolved": "file:output\\esprima",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9de5f070afbf37a24daa884aac5b2c7126fd430f",
+				"size": 1551,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/esprima-2.1.15-alpha.tgz_1463460714677_0.4492568946443498"
+			},
+			"directories": {},
+			"publish_time": 1463460718234,
+			"_cnpm_publish_time": 1463460718234,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "4.0.2",
+		"ts2.0": "4.0.2",
+		"ts2.1": "4.0.2",
+		"ts2.2": "4.0.2",
+		"ts2.3": "4.0.2",
+		"ts2.4": "4.0.2",
+		"ts2.5": "4.0.2",
+		"ts2.6": "4.0.2",
+		"ts2.7": "4.0.2",
+		"ts2.8": "4.0.2",
+		"ts2.9": "4.0.2",
+		"ts3.0": "4.0.2",
+		"ts3.1": "4.0.2",
+		"ts3.2": "4.0.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:10:41.000Z",
+		"created": "2016-05-17T04:51:58.234Z",
+		"4.0.2": "2018-05-01T16:25:37.790Z",
+		"4.0.1": "2017-09-18T14:08:57.558Z",
+		"2.1.35": "2017-08-31T14:06:04.661Z",
+		"4.0.0": "2017-08-31T14:06:03.558Z",
+		"2.1.34": "2017-07-24T18:01:51.340Z",
+		"2.1.33": "2016-09-19T19:55:38.684Z",
+		"2.1.32": "2016-09-19T16:46:13.695Z",
+		"2.1.31": "2016-08-25T18:41:18.190Z",
+		"2.1.30": "2016-08-08T20:36:27.941Z",
+		"2.1.29": "2016-08-02T15:51:56.817Z",
+		"2.1.28": "2016-07-14T14:31:37.635Z",
+		"2.1.27-alpha": "2016-07-08T20:08:04.103Z",
+		"2.1.26-alpha": "2016-07-04T00:13:53.095Z",
+		"2.1.25-alpha": "2016-07-02T02:22:25.667Z",
+		"2.1.24-alpha": "2016-07-01T22:44:48.646Z",
+		"2.1.23-alpha": "2016-07-01T19:17:42.049Z",
+		"2.1.22-alpha": "2016-05-25T04:50:28.594Z",
+		"2.1.21-alpha": "2016-05-20T19:32:10.194Z",
+		"2.1.16-alpha": "2016-05-19T20:47:24.591Z",
+		"2.1.15-alpha": "2016-05-17T04:51:58.234Z"
+	},
+	"_distfiles": {
+		"esprima-4.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-4.0.2.tgz",
+			"sha": "0303602d0644086d4802635d7abc9ac0eec57207",
+			"registry": "cnpmjs"
+		},
+		"esprima-4.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-4.0.1.tgz",
+			"sha": "40f6fb3a3a50ebcaa4dfca17f41e7f10e687df03",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.35.tgz",
+			"sha": "8f5c1c2bb25ea5e11bf479c06e1f46eafcc782bf",
+			"registry": "cnpmjs"
+		},
+		"esprima-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-4.0.0.tgz",
+			"sha": "846e0ea76e019e1a0f93449006f742bcfc549403",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.34.tgz",
+			"sha": "6e26aadaa60c51304da29a2ad2183a7166a52474",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.33.tgz",
+			"sha": "c132313f0d19733e5ddb2054b6853deafe7af63d",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.32.tgz",
+			"sha": "5816cc880d55f9efdc0fb5b6ff097e2d67300c97",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.31.tgz",
+			"sha": "7534ae5d3d034131242ba960741564557c2a049b",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.30.tgz",
+			"sha": "df02b4e4d88f87666e089d635c5161302e21f500",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.29.tgz",
+			"sha": "577af071e021ec390b6b37057e80514e55f8f8ff",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.28.tgz",
+			"sha": "813cd6a9e23782a69d4dc33e30418bf71f913e59",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.27-alpha.tgz",
+			"sha": "cd5708881d29c74f47ffe9fcfd2c9362fd51ae9f",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.26-alpha.tgz",
+			"sha": "d94c1316f12e7b42ac025c98dd0ba713f4612248",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.25-alpha.tgz",
+			"sha": "8ac21f498acaeb3e548f75ff159c502c0d7276a8",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.24-alpha.tgz",
+			"sha": "c669b61a1e368b9197f0b55880c7d72058d6f503",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.23-alpha.tgz",
+			"sha": "8783d455c75cada77eb96ce22f0a8adc947031bc",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.22-alpha.tgz",
+			"sha": "11c9421c86b27ca63cbc5cd6b492ee9da1e87a55",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.21-alpha.tgz",
+			"sha": "3714f29c420533c3804efc3a0e108094eef16318",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.16-alpha.tgz",
+			"sha": "2899cc0f1b2a513ef70dcd9e3f8bf5294210aa7a",
+			"registry": "cnpmjs"
+		},
+		"esprima-2.1.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/esprima/download/@types/esprima-2.1.15-alpha.tgz",
+			"sha": "9de5f070afbf37a24daa884aac5b2c7126fd430f",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833455041
+		}
+	},
+	"_rev": "2-a6e43cc44111c43e",
+	"readme": "# Installation\r\n> `npm install --save @types/esprima`\r\n\r\n# Summary\r\nThis package contains type definitions for Esprima (http://esprima.org).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/esprima\r\n\r\nAdditional Details\r\n * Last updated: Tue, 01 May 2018 16:24:24 GMT\r\n * Dependencies: estree\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by teppeis <https://github.com/teppeis>, RReverser <https://github.com/RReverser>, peter-scott <https://github.com/peter-scott>."
+}

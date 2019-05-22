@@ -1,0 +1,116 @@
+{
+	"name": "react-pdd-select",
+	"versions": {
+		"0.0.1-security": {
+			"name": "react-pdd-select",
+			"version": "0.0.1-security",
+			"description": "This package name is not currently in use, but was formerly occupied by another package. To avoid malicious use, npm is hanging on to the package name, but loosely, and we'll probably give it to you if you want it.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/security-holder.git"
+			},
+			"keywords": [],
+			"author": "",
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/npm/security-holder/issues"
+			},
+			"homepage": "https://github.com/npm/security-holder#readme",
+			"gitHead": "9ef10011153183d323ed420df5bb17eaf08ab730",
+			"_id": "react-pdd-select@0.0.1-security",
+			"_shasum": "f7d5c87b77dbb3d444d3f27303507f01fdf422ca",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "kmanion",
+				"email": "kiera@npmjs.com"
+			},
+			"dist": {
+				"shasum": "f7d5c87b77dbb3d444d3f27303507f01fdf422ca",
+				"size": 582,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-pdd-select/download/react-pdd-select-0.0.1-security.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "npm",
+					"email": "npm@npmjs.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-pdd-select-0.0.1-security.tgz_1486679606826_0.5290914156939834"
+			},
+			"directories": {},
+			"publish_time": 1486679608709,
+			"_cnpm_publish_time": 1486679608709,
+			"_hasShrinkwrap": false
+		},
+		"1.0.30": {
+			"name": "react-pdd-select",
+			"version": "1.0.30",
+			"description": "下拉列表",
+			"main": "src/index.jsx",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"下拉列表",
+				"select"
+			],
+			"author": {
+				"name": "邃宇"
+			},
+			"license": "ISC",
+			"dependencies": {},
+			"directories": {
+				"test": "test"
+			},
+			"repository": {
+				"type": "git"
+			},
+			"_id": "react-pdd-select@1.0.30",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "9.2.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-Edg4cVbhahjRryXyy0fVlPAWW1vtal/SPImC5PDm/pTaCFjQWZaVlX8Q2/WM8VF4yp8xQp2i9/2CwJjqPONoSw==",
+				"shasum": "0981ea126a387951bea888441821e1eeb85c951e",
+				"tarball": "http://npmjs.towavephone.com/react-pdd-select/-/react-pdd-select-1.0.30.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.30"
+	},
+	"time": {
+		"modified": "2017-03-31T15:14:56.000Z",
+		"created": "2017-02-09T22:33:28.709Z",
+		"0.0.1-security": "2017-02-09T22:33:28.709Z"
+	},
+	"_distfiles": {
+		"react-pdd-select-0.0.1-security.tgz": {
+			"url": "https://registry.npm.taobao.org/react-pdd-select/download/react-pdd-select-0.0.1-security.tgz",
+			"sha": "f7d5c87b77dbb3d444d3f27303507f01fdf422ca",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {
+		"react-pdd-select-1.0.30.tgz": {
+			"shasum": "0981ea126a387951bea888441821e1eeb85c951e",
+			"version": "1.0.30"
+		}
+	},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1527744593539
+		}
+	},
+	"_rev": "6-ccf3a4b38183be5b",
+	"readme": "ERROR: No README data found!"
+}

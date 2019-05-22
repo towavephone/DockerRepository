@@ -1,0 +1,245 @@
+{
+	"name": "dekko",
+	"versions": {
+		"0.2.1": {
+			"name": "dekko",
+			"version": "0.2.1",
+			"description": "To test whether files and directory structure are valid.",
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint ./index.js ./test",
+				"eslint-fix": "eslint --fix ./index.js ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/dekko.git"
+			},
+			"keywords": [
+				"test",
+				"assert",
+				"directory",
+				"file",
+				"structure"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/dekko/issues"
+			},
+			"homepage": "https://github.com/benjycui/dekko#readme",
+			"dependencies": {
+				"glob": "^7.1.1"
+			},
+			"devDependencies": {
+				"eslint": "^3.10.0",
+				"eslint-config-egg": "^3.2.0",
+				"mocha": "^3.1.2"
+			},
+			"gitHead": "c69bad7e712a99c0d399a1fbb3a197f7d3bed9fd",
+			"_id": "dekko@0.2.1",
+			"_shasum": "ba622f66f6b42ab0cab5c6788aebbda26bdf1252",
+			"_from": ".",
+			"_npmVersion": "3.10.7",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "ba622f66f6b42ab0cab5c6788aebbda26bdf1252",
+				"size": 3352,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dekko/download/dekko-0.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/dekko-0.2.1.tgz_1478939591997_0.24779215594753623"
+			},
+			"directories": {},
+			"publish_time": 1478939593909,
+			"_cnpm_publish_time": 1478939593909,
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "dekko",
+			"version": "0.2.0",
+			"description": "To test whether files and directory structure are valid.",
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint ./index.js ./test",
+				"eslint-fix": "eslint --fix ./index.js ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/dekko.git"
+			},
+			"keywords": [
+				"test",
+				"assert",
+				"directory",
+				"file",
+				"structure"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/dekko/issues"
+			},
+			"homepage": "https://github.com/benjycui/dekko#readme",
+			"dependencies": {
+				"glob": "^7.1.1"
+			},
+			"devDependencies": {
+				"eslint": "^3.10.0",
+				"eslint-config-egg": "^3.2.0",
+				"mocha": "^3.1.2"
+			},
+			"gitHead": "f6f57e7a0714826495f570dce39570deeb29043b",
+			"_id": "dekko@0.2.0",
+			"_shasum": "864e0fe5fd2201cd0d8b135dcad1b0c708ffcea7",
+			"_from": ".",
+			"_npmVersion": "3.10.7",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "864e0fe5fd2201cd0d8b135dcad1b0c708ffcea7",
+				"size": 3343,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dekko/download/dekko-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/dekko-0.2.0.tgz_1478937715011_0.4191034948453307"
+			},
+			"directories": {},
+			"publish_time": 1478937715539,
+			"_cnpm_publish_time": 1478937715539,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "dekko",
+			"version": "0.1.0",
+			"description": "To test whether files and directory structure are valid.",
+			"main": "index.js",
+			"scripts": {
+				"lint": "eslint ./index.js ./test",
+				"eslint-fix": "eslint --fix ./index.js ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/dekko.git"
+			},
+			"keywords": [
+				"test",
+				"assert",
+				"directory",
+				"file",
+				"structure"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/dekko/issues"
+			},
+			"homepage": "https://github.com/benjycui/dekko#readme",
+			"dependencies": {
+				"glob": "^7.1.1"
+			},
+			"devDependencies": {
+				"eslint": "^3.10.0",
+				"eslint-config-egg": "^3.2.0",
+				"mocha": "^3.1.2"
+			},
+			"gitHead": "62822a478977e3a73c83232f57b67656523d7177",
+			"_id": "dekko@0.1.0",
+			"_shasum": "e77fd01e63e92145a3cae653b99827ae77649395",
+			"_from": ".",
+			"_npmVersion": "3.10.7",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "e77fd01e63e92145a3cae653b99827ae77649395",
+				"size": 3185,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dekko/download/dekko-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dekko-0.1.0.tgz_1478935421010_0.11815697653219104"
+			},
+			"directories": {},
+			"publish_time": 1478935421225,
+			"_cnpm_publish_time": 1478935421225,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.2.1"
+	},
+	"time": {
+		"modified": "2017-03-28T18:12:27.000Z",
+		"created": "2016-11-12T07:23:41.225Z",
+		"0.2.1": "2016-11-12T08:33:13.909Z",
+		"0.2.0": "2016-11-12T08:01:55.539Z",
+		"0.1.0": "2016-11-12T07:23:41.225Z"
+	},
+	"_distfiles": {
+		"dekko-0.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/dekko/download/dekko-0.2.1.tgz",
+			"sha": "ba622f66f6b42ab0cab5c6788aebbda26bdf1252",
+			"registry": "cnpmjs"
+		},
+		"dekko-0.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/dekko/download/dekko-0.2.0.tgz",
+			"sha": "864e0fe5fd2201cd0d8b135dcad1b0c708ffcea7",
+			"registry": "cnpmjs"
+		},
+		"dekko-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/dekko/download/dekko-0.1.0.tgz",
+			"sha": "e77fd01e63e92145a3cae653b99827ae77649395",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1d88-m9wmg7Bk7o3AW8aBYSulnhSh9IU\"",
+			"fetched": 1528451130980
+		}
+	},
+	"_rev": "1-26d9d5683aebe8c7",
+	"readme": "# dekko\n\n[![](https://img.shields.io/travis/benjycui/dekko.svg?style=flat-square)](https://travis-ci.org/benjycui/dekko)\n[![npm package](https://img.shields.io/npm/v/dekko.svg?style=flat-square)](https://www.npmjs.org/package/dekko)\n[![NPM downloads](http://img.shields.io/npm/dm/dekko.svg?style=flat-square)](https://npmjs.org/package/dekko)\n[![Dependency Status](https://david-dm.org/benjycui/dekko.svg?style=flat-square)](https://david-dm.org/benjycui/dekko)\n\nNowadays, front-end engineers need to build or compile their code before deploying or publishing. However, building/compiling  is not as stable as we thought. Many factors will affect the output, such as configuration and our own code and even some dependencies. Some outputed file will be empty and even missing, so we need to check them before deploying/publishing.\n\nIt's inconvenient to check those files manually, so here comes `dekko` which is a tool to test whether outputed files or directory structure is valid.\n\n## Usage\n\n```bash\nnpm i --save-dev dekko\n```\n\n```js\nconst $ = require('dekko');\n\n$('dist')\n  .isDirectory()\n  .hasFile('lib.js')\n  .hasFile('lib.min.js');\n```\n\n## API\n\n### $(pattern[, options]): Object\n\n`pattern` and `options` in parameters are the same as [`glob`](https://github.com/isaacs/node-glob)'s. If `pattern` doesn't match any files with the `options`, dekko will throw an error which will stop CI.\n\nThis function will return a `dekko` object with the following methods.\n\n### .isFile(): Object\n\nIf every item in `dekko` object is a file, nothing will happen. Otherwise, `dekko` will throw an error.\n\n### .isDirectory(): Object\n\nIf every item in `dekko` object is a directory, nothing will happen. Otherwise, `dekko` will throw an error.\n\n### .hasFile(name: string): Object\n\nIf every item in `dekko` object has a sub-file with this `name`, nothing will happen. Otherwise, `dekko` will throw an error.\n\n### .hasDirectory(name: string): Object\n\nIf every item in `dekko` object has a sub-directory with this `name`, nothing will happen. Otherwise, `dekko` will throw an error.\n\n### .assert(message: string, pred: Function): Object\n\nSometimes, built-in utility functions are not enough. Then we can use `.assert`, if every item in `dekko` object pass the `pred` function, nothing will happen. Otherwise, `dekko` will throw an error with `message`.\n\n#### pred(filename: string): boolean\n\n`dekko` will pass filename to `pred` one by one. `true` means that file is valid, and `false` means invalid.\n\n### .filter(cond): Object\n\n`.filter` works like `Array.prototype.filter`, and it return a new `dekko` object with filtered items.\n\n## License\n\nMIT"
+}

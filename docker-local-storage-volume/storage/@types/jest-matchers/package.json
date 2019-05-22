@@ -1,0 +1,145 @@
+{
+	"name": "@types/jest-matchers",
+	"versions": {
+		"20.0.1": {
+			"name": "@types/jest-matchers",
+			"version": "20.0.1",
+			"description": "TypeScript definitions for jest-matchers",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Joscha Feth",
+					"url": "https://github.com/joscha",
+					"githubUsername": "joscha"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jest": "*"
+			},
+			"typesPublisherContentHash": "9d6c90da67f85fa893036c941e97b22906748604d3ebf3890aaec20d12bb6b22",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/jest-matchers@20.0.1",
+			"dist": {
+				"shasum": "3662c8672169ffcbf514a7f21f6fd3572febb4ed",
+				"size": 1499,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest-matchers/download/@types/jest-matchers-20.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-matchers-20.0.1.tgz_1510217107582_0.26699552522040904"
+			},
+			"directories": {},
+			"publish_time": 1510217107690,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510217107690
+		},
+		"20.0.0": {
+			"name": "@types/jest-matchers",
+			"version": "20.0.0",
+			"description": "TypeScript definitions for jest-matchers",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Joscha Feth",
+					"url": "https://github.com/joscha"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jest": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ee015227cfd6231c90792772ed4e0e6f8ee6a52326589d33c28899a23aabb0f2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/jest-matchers@20.0.0",
+			"dist": {
+				"shasum": "4323bf22693b0cc33cbdda4a5132e91a6d0ff1f7",
+				"size": 1487,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jest-matchers/download/@types/jest-matchers-20.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jest-matchers-20.0.0.tgz_1497019924503_0.4341698130592704"
+			},
+			"directories": {},
+			"publish_time": 1497019924583,
+			"_cnpm_publish_time": 1497019924583,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "20.0.1",
+		"ts2.0": "20.0.0",
+		"ts2.1": "20.0.0",
+		"ts2.2": "20.0.0",
+		"ts2.3": "20.0.1",
+		"ts2.4": "20.0.1",
+		"ts2.5": "20.0.1",
+		"ts2.6": "20.0.1",
+		"ts2.7": "20.0.1",
+		"ts2.8": "20.0.1",
+		"ts2.9": "20.0.1",
+		"ts3.0": "20.0.1",
+		"ts3.1": "20.0.1",
+		"ts3.2": "20.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:16.000Z",
+		"created": "2017-06-09T14:52:04.583Z",
+		"20.0.1": "2017-11-09T08:45:07.690Z",
+		"20.0.0": "2017-06-09T14:52:04.583Z"
+	},
+	"_distfiles": {
+		"jest-matchers-20.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest-matchers/download/@types/jest-matchers-20.0.1.tgz",
+			"sha": "3662c8672169ffcbf514a7f21f6fd3572febb4ed",
+			"registry": "cnpmjs"
+		},
+		"jest-matchers-20.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jest-matchers/download/@types/jest-matchers-20.0.0.tgz",
+			"sha": "4323bf22693b0cc33cbdda4a5132e91a6d0ff1f7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833457815
+		}
+	},
+	"_rev": "2-7da39070b79edb1b",
+	"readme": "# Installation\r\n> `npm install --save @types/jest-matchers`\r\n\r\n# Summary\r\nThis package contains type definitions for jest-matchers (https://github.com/facebook/jest#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/jest-matchers\r\n\r\nAdditional Details\r\n * Last updated: Thu, 09 Nov 2017 08:43:08 GMT\r\n * Dependencies: jest\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Joscha Feth <https://github.com/joscha>."
+}

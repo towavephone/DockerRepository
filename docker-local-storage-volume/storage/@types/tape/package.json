@@ -1,0 +1,881 @@
+{
+	"name": "@types/tape",
+	"versions": {
+		"4.2.32": {
+			"name": "@types/tape",
+			"version": "4.2.32",
+			"description": "TypeScript definitions for tape",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "Haoqun Jiang",
+					"url": "https://github.com/sodatea",
+					"githubUsername": "sodatea"
+				},
+				{
+					"name": "Dennis Schwartz",
+					"url": "https://github.com/DennisSchwartz",
+					"githubUsername": "DennisSchwartz"
+				},
+				{
+					"name": "Michael Henretty",
+					"url": "https://github.com/mikehenrty",
+					"githubUsername": "mikehenrty"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "024b29305525023a603f8c27fb53b33e18c4be0a8fc834bf6abba7391b13802e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/tape@4.2.32",
+			"dist": {
+				"shasum": "1188330d22c4e822648c344faa070277737982d9",
+				"size": 3353,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/tape_4.2.32_1520554831152_0.0836638749412042"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520554831234,
+			"_cnpm_publish_time": 1520554831234
+		},
+		"4.2.31": {
+			"name": "@types/tape",
+			"version": "4.2.31",
+			"description": "TypeScript definitions for tape",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "Haoqun Jiang",
+					"url": "https://github.com/sodatea",
+					"githubUsername": "sodatea"
+				},
+				{
+					"name": "Dennis Schwartz",
+					"url": "https://github.com/DennisSchwartz",
+					"githubUsername": "DennisSchwartz"
+				},
+				{
+					"name": "Michael Henretty",
+					"url": "https://github.com/mikehenrty",
+					"githubUsername": "mikehenrty"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "2bcfe895d4c874284355e4ed3e7c512da1689273cd64f895ef3c19b3e8cc8206",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/tape@4.2.31",
+			"dist": {
+				"shasum": "d2cd0f2e410d2c288a5eb54c01c04e6b8a301fd2",
+				"size": 3353,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/tape-4.2.31.tgz_1508948748232_0.4363198974169791"
+			},
+			"directories": {},
+			"publish_time": 1508948748321,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508948748321
+		},
+		"4.2.30": {
+			"name": "@types/tape",
+			"version": "4.2.30",
+			"description": "TypeScript definitions for tape",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds"
+				},
+				{
+					"name": "Haoqun Jiang",
+					"url": "https://github.com/sodatea"
+				},
+				{
+					"name": "Dennis Schwartz",
+					"url": "https://github.com/DennisSchwartz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b7bbd53cbd94a1d41bc61a66a5ca1d615d6a23cf93301cbfcf9c79b395ce8bed",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/tape@4.2.30",
+			"dist": {
+				"shasum": "3c1917c4dfd6f27271b9922772513515bc6c46b4",
+				"size": 3288,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.30.tgz_1493838712164_0.621565445093438"
+			},
+			"directories": {},
+			"publish_time": 1493838714053,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493838714053
+		},
+		"4.2.29": {
+			"name": "@types/tape",
+			"version": "4.2.29",
+			"description": "TypeScript definitions for tape",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>, Haoqun Jiang <https://github.com/sodatea>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "60eee333a7a06ef89146d33e4b8936eeccd0b4d39017a465699732757f3c8ebf",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/tape@4.2.29",
+			"dist": {
+				"shasum": "14cf2eb49bf852407eaaefdc53773eb90b32cf56",
+				"size": 2654,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.29.tgz_1486669056147_0.6013342833612114"
+			},
+			"directories": {},
+			"publish_time": 1486669057978,
+			"_cnpm_publish_time": 1486669057978,
+			"_hasShrinkwrap": false
+		},
+		"4.2.28": {
+			"name": "@types/tape",
+			"version": "4.2.28",
+			"description": "TypeScript definitions for tape v4.2.2",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>, Haoqun Jiang <https://github.com/sodatea>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "9aa139628a598547777f224211167a91b7a7f33d49785dbedb5ba82bda190048",
+			"_id": "@types/tape@4.2.28",
+			"dist": {
+				"shasum": "331dad63f78519da362a5fc47d71ad546e0a0157",
+				"size": 2639,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.28.tgz_1474308905535_0.8922988404519856"
+			},
+			"directories": {},
+			"publish_time": 1474308905758,
+			"_cnpm_publish_time": 1474308905758,
+			"_hasShrinkwrap": false
+		},
+		"4.2.27": {
+			"name": "@types/tape",
+			"version": "4.2.27",
+			"description": "TypeScript definitions for tape v4.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/tape@4.2.27",
+			"_shasum": "9734335ed06e13dcc520706aebf97aef52e8fedd",
+			"_from": "output\\tape",
+			"_resolved": "file:output\\tape",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9734335ed06e13dcc520706aebf97aef52e8fedd",
+				"size": 2628,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.27.tgz_1468512675011_0.3863947137724608"
+			},
+			"directories": {},
+			"publish_time": 1468512677594,
+			"_cnpm_publish_time": 1468512677594,
+			"_hasShrinkwrap": false
+		},
+		"4.2.26-alpha": {
+			"name": "@types/tape",
+			"version": "4.2.26-alpha",
+			"description": "TypeScript definitions for tape v4.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/tape@4.2.26-alpha",
+			"_shasum": "1b7736545e141e3747db4fadf2664ccecc1d5520",
+			"_from": "output\\tape",
+			"_resolved": "file:output\\tape",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1b7736545e141e3747db4fadf2664ccecc1d5520",
+				"size": 2638,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.26-alpha.tgz_1468013714495_0.08755597844719887"
+			},
+			"directories": {},
+			"publish_time": 1468013715931,
+			"_cnpm_publish_time": 1468013715931,
+			"_hasShrinkwrap": false
+		},
+		"4.2.25-alpha": {
+			"name": "@types/tape",
+			"version": "4.2.25-alpha",
+			"description": "TypeScript definitions for tape v4.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/tape@4.2.25-alpha",
+			"_shasum": "3c711ca10770ebb5b348ff2b60086314916b24ce",
+			"_from": "output\\tape",
+			"_resolved": "file:output\\tape",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3c711ca10770ebb5b348ff2b60086314916b24ce",
+				"size": 2635,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.25-alpha.tgz_1467595442261_0.4085791523102671"
+			},
+			"directories": {},
+			"publish_time": 1467595442760,
+			"_cnpm_publish_time": 1467595442760,
+			"_hasShrinkwrap": false
+		},
+		"4.2.24-alpha": {
+			"name": "@types/tape",
+			"version": "4.2.24-alpha",
+			"description": "TypeScript definitions for tape v4.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.25-alpha"
+			},
+			"_id": "@types/tape@4.2.24-alpha",
+			"_shasum": "86be56c7fec7b2fc074cafa9c286c08853ba3f52",
+			"_from": "output\\tape",
+			"_resolved": "file:output\\tape",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "86be56c7fec7b2fc074cafa9c286c08853ba3f52",
+				"size": 2637,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.24-alpha.tgz_1467430375301_0.9086648013908416"
+			},
+			"directories": {},
+			"publish_time": 1467430378747,
+			"_cnpm_publish_time": 1467430378747,
+			"_hasShrinkwrap": false
+		},
+		"4.2.23-alpha": {
+			"name": "@types/tape",
+			"version": "4.2.23-alpha",
+			"description": "TypeScript definitions for tape v4.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/tape@4.2.23-alpha",
+			"_shasum": "1193e33569e76df7bf882b1ce049a92d298de66a",
+			"_from": "output\\tape",
+			"_resolved": "file:output\\tape",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1193e33569e76df7bf882b1ce049a92d298de66a",
+				"size": 2637,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.23-alpha.tgz_1467417945703_0.44917364907450974"
+			},
+			"directories": {},
+			"publish_time": 1467417948252,
+			"_cnpm_publish_time": 1467417948252,
+			"_hasShrinkwrap": false
+		},
+		"4.2.22-alpha": {
+			"name": "@types/tape",
+			"version": "4.2.22-alpha",
+			"description": "TypeScript definitions for tape v4.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/tape@4.2.22-alpha",
+			"_shasum": "38850d3fdf0cf9b06dba30d6703ebc2f76965623",
+			"_from": "output\\tape",
+			"_resolved": "file:output\\tape",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "38850d3fdf0cf9b06dba30d6703ebc2f76965623",
+				"size": 2624,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.22-alpha.tgz_1467405963993_0.24280022107996047"
+			},
+			"directories": {},
+			"publish_time": 1467405967414,
+			"_cnpm_publish_time": 1467405967414,
+			"_hasShrinkwrap": false
+		},
+		"4.2.21-alpha": {
+			"name": "@types/tape",
+			"version": "4.2.21-alpha",
+			"description": "TypeScript definitions for tape v4.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/tape@4.2.21-alpha",
+			"_shasum": "c72dd1f4ea58ad3adf7ba90d96349fdcd4f949e1",
+			"_from": "output\\tape",
+			"_resolved": "file:output\\tape",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c72dd1f4ea58ad3adf7ba90d96349fdcd4f949e1",
+				"size": 2608,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.21-alpha.tgz_1464156180632_0.0791843372862786"
+			},
+			"directories": {},
+			"publish_time": 1464156181103,
+			"_cnpm_publish_time": 1464156181103,
+			"_hasShrinkwrap": false
+		},
+		"4.2.20-alpha": {
+			"name": "@types/tape",
+			"version": "4.2.20-alpha",
+			"description": "TypeScript definitions for tape v4.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/tape@4.2.20-alpha",
+			"_shasum": "97d5affc65f48e669e5e803777d7311df7027780",
+			"_from": "output\\tape",
+			"_resolved": "file:output\\tape",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "97d5affc65f48e669e5e803777d7311df7027780",
+				"size": 2605,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.20-alpha.tgz_1463777263930_0.46410882263444364"
+			},
+			"directories": {},
+			"publish_time": 1463777266278,
+			"_cnpm_publish_time": 1463777266278,
+			"_hasShrinkwrap": false
+		},
+		"4.2.15-alpha": {
+			"name": "@types/tape",
+			"version": "4.2.15-alpha",
+			"description": "Type definitions for tape v4.2.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/tape@4.2.15-alpha",
+			"_shasum": "aacc9f876ae325dc6b9ca6af6b7b00449235cd1f",
+			"_from": "output\\tape",
+			"_resolved": "file:output\\tape",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "aacc9f876ae325dc6b9ca6af6b7b00449235cd1f",
+				"size": 2621,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.15-alpha.tgz_1463697132557_0.18728214432485402"
+			},
+			"directories": {},
+			"publish_time": 1463697134759,
+			"_cnpm_publish_time": 1463697134759,
+			"_hasShrinkwrap": false
+		},
+		"4.2.14-alpha": {
+			"name": "@types/tape",
+			"version": "4.2.14-alpha",
+			"description": "Type definitions for tape v4.2.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/tape@4.2.14-alpha",
+			"_shasum": "364d44d15b67e83a928f83bc0d0563f005a754a6",
+			"_from": "output\\tape",
+			"_resolved": "file:output\\tape",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "364d44d15b67e83a928f83bc0d0563f005a754a6",
+				"size": 2612,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tape-4.2.14-alpha.tgz_1463511856420_0.007179733365774155"
+			},
+			"directories": {},
+			"publish_time": 1463511860443,
+			"_cnpm_publish_time": 1463511860443,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "4.2.32",
+		"ts2.0": "4.2.32",
+		"ts2.1": "4.2.32",
+		"ts2.2": "4.2.32",
+		"ts2.3": "4.2.32",
+		"ts2.4": "4.2.32",
+		"ts2.5": "4.2.32",
+		"ts2.6": "4.2.32",
+		"ts2.7": "4.2.32",
+		"ts2.8": "4.2.32",
+		"ts2.9": "4.2.32",
+		"ts3.0": "4.2.32",
+		"ts3.1": "4.2.32",
+		"ts3.2": "4.2.32"
+	},
+	"time": {
+		"modified": "2018-10-10T20:29:18.000Z",
+		"created": "2016-05-17T19:04:20.443Z",
+		"4.2.32": "2018-03-09T00:20:31.234Z",
+		"4.2.31": "2017-10-25T16:25:48.321Z",
+		"4.2.30": "2017-05-03T19:11:54.053Z",
+		"4.2.29": "2017-02-09T19:37:37.978Z",
+		"4.2.28": "2016-09-19T18:15:05.758Z",
+		"4.2.27": "2016-07-14T16:11:17.594Z",
+		"4.2.26-alpha": "2016-07-08T21:35:15.931Z",
+		"4.2.25-alpha": "2016-07-04T01:24:02.760Z",
+		"4.2.24-alpha": "2016-07-02T03:32:58.747Z",
+		"4.2.23-alpha": "2016-07-02T00:05:48.252Z",
+		"4.2.22-alpha": "2016-07-01T20:46:07.414Z",
+		"4.2.21-alpha": "2016-05-25T06:03:01.103Z",
+		"4.2.20-alpha": "2016-05-20T20:47:46.278Z",
+		"4.2.15-alpha": "2016-05-19T22:32:14.759Z",
+		"4.2.14-alpha": "2016-05-17T19:04:20.443Z"
+	},
+	"_distfiles": {
+		"tape-4.2.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.32.tgz",
+			"sha": "1188330d22c4e822648c344faa070277737982d9",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.31.tgz",
+			"sha": "d2cd0f2e410d2c288a5eb54c01c04e6b8a301fd2",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.30.tgz",
+			"sha": "3c1917c4dfd6f27271b9922772513515bc6c46b4",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.29.tgz",
+			"sha": "14cf2eb49bf852407eaaefdc53773eb90b32cf56",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.28.tgz",
+			"sha": "331dad63f78519da362a5fc47d71ad546e0a0157",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.27.tgz",
+			"sha": "9734335ed06e13dcc520706aebf97aef52e8fedd",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.26-alpha.tgz",
+			"sha": "1b7736545e141e3747db4fadf2664ccecc1d5520",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.25-alpha.tgz",
+			"sha": "3c711ca10770ebb5b348ff2b60086314916b24ce",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.24-alpha.tgz",
+			"sha": "86be56c7fec7b2fc074cafa9c286c08853ba3f52",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.23-alpha.tgz",
+			"sha": "1193e33569e76df7bf882b1ce049a92d298de66a",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.22-alpha.tgz",
+			"sha": "38850d3fdf0cf9b06dba30d6703ebc2f76965623",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.21-alpha.tgz",
+			"sha": "c72dd1f4ea58ad3adf7ba90d96349fdcd4f949e1",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.20-alpha.tgz",
+			"sha": "97d5affc65f48e669e5e803777d7311df7027780",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.15-alpha.tgz",
+			"sha": "aacc9f876ae325dc6b9ca6af6b7b00449235cd1f",
+			"registry": "cnpmjs"
+		},
+		"tape-4.2.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tape/download/@types/tape-4.2.14-alpha.tgz",
+			"sha": "364d44d15b67e83a928f83bc0d0563f005a754a6",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833489046
+		}
+	},
+	"_rev": "1-627d9cb42cec7134",
+	"readme": "# Installation\r\n> `npm install --save @types/tape`\r\n\r\n# Summary\r\nThis package contains type definitions for tape (https://github.com/substack/tape).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/tape\r\n\r\nAdditional Details\r\n * Last updated: Fri, 09 Mar 2018 00:09:11 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Bart van der Schoor <https://github.com/Bartvds>, Haoqun Jiang <https://github.com/sodatea>, Dennis Schwartz <https://github.com/DennisSchwartz>, Michael Henretty <https://github.com/mikehenrty>."
+}

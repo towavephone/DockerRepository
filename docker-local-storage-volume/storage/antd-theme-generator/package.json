@@ -1,0 +1,567 @@
+{
+	"name": "antd-theme-generator",
+	"versions": {
+		"1.0.7": {
+			"name": "antd-theme-generator",
+			"version": "1.0.7",
+			"description": "This a script to generate color specific styles less file and which you can use to change theme dynamically in browser",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"dependencies": {
+				"less-bundle-promise": "1.0.4",
+				"postcss": "^6.0.21",
+				"less": "^2.7.2"
+			},
+			"keywords": [
+				"antd",
+				"theme",
+				"less",
+				"dynamic-theme",
+				"css"
+			],
+			"author": {
+				"name": "mzohaibqc",
+				"url": "https://github.com/mzohaibqc"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mzohaibqc/antd-theme-generator.git"
+			},
+			"license": "ISC",
+			"gitHead": "07d521524884f5e93c5e1c93011171b0f99ce2b5",
+			"bugs": {
+				"url": "https://github.com/mzohaibqc/antd-theme-generator/issues"
+			},
+			"homepage": "https://github.com/mzohaibqc/antd-theme-generator#readme",
+			"_id": "antd-theme-generator@1.0.7",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "mzohaibqc",
+				"email": "mzohaib.qc@gmail.com"
+			},
+			"dist": {
+				"shasum": "b7a76f763c87b5bf089870746ca2b9d2fcf6f63e",
+				"size": 164901,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "mzohaibqc",
+					"email": "mzohaib.qc@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/antd-theme-generator_1.0.7_1526444646948_0.534439918088663"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526444647095,
+			"_cnpm_publish_time": 1526444647095
+		},
+		"1.0.6": {
+			"name": "antd-theme-generator",
+			"version": "1.0.6",
+			"description": "This a script to generate color specific styles less file and which you can use to change theme dynamically in browser",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"dependencies": {
+				"less-bundle-promise": "1.0.4",
+				"postcss": "^6.0.21",
+				"less": "^2.7.2"
+			},
+			"keywords": [
+				"antd",
+				"theme",
+				"less",
+				"dynamic-theme",
+				"css"
+			],
+			"author": {
+				"name": "mzohaibqc",
+				"url": "https://github.com/mzohaibqc"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mzohaibqc/antd-theme-generator.git"
+			},
+			"license": "ISC",
+			"gitHead": "07d521524884f5e93c5e1c93011171b0f99ce2b5",
+			"bugs": {
+				"url": "https://github.com/mzohaibqc/antd-theme-generator/issues"
+			},
+			"homepage": "https://github.com/mzohaibqc/antd-theme-generator#readme",
+			"_id": "antd-theme-generator@1.0.6",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "mzohaibqc",
+				"email": "mzohaib.qc@gmail.com"
+			},
+			"dist": {
+				"shasum": "e98fb61465dff132617ee95613b646cfc5ab0f3c",
+				"size": 164858,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "mzohaibqc",
+					"email": "mzohaib.qc@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/antd-theme-generator_1.0.6_1526327285419_0.781318467689073"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526327285586,
+			"_cnpm_publish_time": 1526327285586
+		},
+		"1.0.5": {
+			"name": "antd-theme-generator",
+			"version": "1.0.5",
+			"description": "This a script to generate color specific styles less file and which you can use to change theme dynamically in browser",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"dependencies": {
+				"less-bundle-promise": "1.0.4",
+				"postcss": "^6.0.21",
+				"less": "^3.0.1"
+			},
+			"keywords": [
+				"antd",
+				"theme",
+				"less",
+				"dynamic-theme",
+				"css"
+			],
+			"author": {
+				"name": "mzohaibqc",
+				"url": "https://github.com/mzohaibqc"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mzohaibqc/antd-theme-generator.git"
+			},
+			"license": "ISC",
+			"gitHead": "b778dc8349ac8bc08117a2a4b19baf1c1a059ea5",
+			"bugs": {
+				"url": "https://github.com/mzohaibqc/antd-theme-generator/issues"
+			},
+			"homepage": "https://github.com/mzohaibqc/antd-theme-generator#readme",
+			"_id": "antd-theme-generator@1.0.5",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "mzohaibqc",
+				"email": "mzohaib.qc@gmail.com"
+			},
+			"dist": {
+				"shasum": "f7d0d8f349a5393662f4b1b536972a9c12b0e4c1",
+				"size": 164853,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "mzohaibqc",
+					"email": "mzohaib.qc@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/antd-theme-generator_1.0.5_1526244066989_0.14697328045407532"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526244067109,
+			"_cnpm_publish_time": 1526244067109
+		},
+		"1.0.4": {
+			"name": "antd-theme-generator",
+			"version": "1.0.4",
+			"description": "This a script to generate color specific styles less file and which you can use to change theme dynamically in browser",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"dependencies": {
+				"less-bundle-promise": "1.0.4",
+				"postcss": "^6.0.21",
+				"less": "^3.0.1"
+			},
+			"keywords": [
+				"antd",
+				"theme",
+				"less",
+				"dynamic-theme",
+				"css"
+			],
+			"author": {
+				"name": "mzohaibqc",
+				"url": "https://github.com/mzohaibqc"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mzohaibqc/antd-theme-generator.git"
+			},
+			"license": "ISC",
+			"gitHead": "6dd9dff88704736bc6e45cf3bfc6715f1b2b6084",
+			"bugs": {
+				"url": "https://github.com/mzohaibqc/antd-theme-generator/issues"
+			},
+			"homepage": "https://github.com/mzohaibqc/antd-theme-generator#readme",
+			"_id": "antd-theme-generator@1.0.4",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "mzohaibqc",
+				"email": "mzohaib.qc@gmail.com"
+			},
+			"dist": {
+				"shasum": "efebf0163c64ae0fd49357d7d534169805b79a2e",
+				"size": 164853,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "mzohaibqc",
+					"email": "mzohaib.qc@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/antd-theme-generator_1.0.4_1526240432107_0.650791726340999"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526240432218,
+			"_cnpm_publish_time": 1526240432218
+		},
+		"1.0.3": {
+			"name": "antd-theme-generator",
+			"version": "1.0.3",
+			"description": "This a script to generate color specific styles less file and which you can use to change theme dynamically in browser",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"dependencies": {
+				"less-bundle-promise": "1.0.4",
+				"postcss": "^6.0.21",
+				"less": "^3.0.1"
+			},
+			"keywords": [
+				"antd",
+				"theme",
+				"less",
+				"dynamic-theme",
+				"css"
+			],
+			"author": {
+				"name": "mzohaibqc",
+				"url": "https://github.com/mzohaibqc"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mzohaibqc/antd-theme-generator.git"
+			},
+			"license": "ISC",
+			"gitHead": "49a3e884df200bac5d2c83b1e1d3caadd2e827fc",
+			"bugs": {
+				"url": "https://github.com/mzohaibqc/antd-theme-generator/issues"
+			},
+			"homepage": "https://github.com/mzohaibqc/antd-theme-generator#readme",
+			"_id": "antd-theme-generator@1.0.3",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "mzohaibqc",
+				"email": "mzohaib.qc@gmail.com"
+			},
+			"dist": {
+				"shasum": "2a5f294d16453503b84628b6969ed0f4789ef90e",
+				"size": 163508,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "mzohaibqc",
+					"email": "mzohaib.qc@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/antd-theme-generator_1.0.3_1526145166997_0.5362782492218101"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526145167118,
+			"_cnpm_publish_time": 1526145167118
+		},
+		"1.0.2": {
+			"name": "antd-theme-generator",
+			"version": "1.0.2",
+			"description": "This a script to generate color specific styles less file and which you can use to change theme dynamically in browser",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"dependencies": {
+				"less-bundle-promise": "1.0.4",
+				"postcss": "^6.0.21",
+				"less": "^3.0.1"
+			},
+			"keywords": [
+				"antd",
+				"theme",
+				"less",
+				"dynamic-theme",
+				"css"
+			],
+			"author": {
+				"name": "mzohaibqc",
+				"url": "https://github.com/mzohaibqc"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mzohaibqc/antd-theme-generator.git"
+			},
+			"license": "ISC",
+			"gitHead": "49a3e884df200bac5d2c83b1e1d3caadd2e827fc",
+			"bugs": {
+				"url": "https://github.com/mzohaibqc/antd-theme-generator/issues"
+			},
+			"homepage": "https://github.com/mzohaibqc/antd-theme-generator#readme",
+			"_id": "antd-theme-generator@1.0.2",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "mzohaibqc",
+				"email": "mzohaib.qc@gmail.com"
+			},
+			"dist": {
+				"shasum": "69a1c2cc45cd9f4545a0258a1dd368c0ee3214c0",
+				"size": 163415,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "mzohaibqc",
+					"email": "mzohaib.qc@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/antd-theme-generator_1.0.2_1526135822304_0.21741356842641424"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526135822539,
+			"_cnpm_publish_time": 1526135822539
+		},
+		"1.0.1": {
+			"name": "antd-theme-generator",
+			"version": "1.0.1",
+			"description": "This a script to generate color specific styles less file and which you can use to change theme dynamically in browser",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"dependencies": {
+				"less-bundle-promise": "1.0.4",
+				"postcss": "^6.0.21",
+				"less": "^3.0.1"
+			},
+			"keywords": [
+				"antd",
+				"theme",
+				"less",
+				"dynamic-theme",
+				"css"
+			],
+			"author": {
+				"name": "mzohaibqc",
+				"url": "https://github.com/mzohaibqc"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mzohaibqc/antd-theme-generator.git"
+			},
+			"license": "ISC",
+			"gitHead": "d3dcfa9624b0d052e16c5cef20c283c9859489b2",
+			"bugs": {
+				"url": "https://github.com/mzohaibqc/antd-theme-generator/issues"
+			},
+			"homepage": "https://github.com/mzohaibqc/antd-theme-generator#readme",
+			"_id": "antd-theme-generator@1.0.1",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "mzohaibqc",
+				"email": "mzohaib.qc@gmail.com"
+			},
+			"dist": {
+				"shasum": "7451c527c953b6d23dd49c1bee29fd2f01ab2a7a",
+				"size": 4236,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "mzohaibqc",
+					"email": "mzohaib.qc@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/antd-theme-generator_1.0.1_1526069844634_0.5817560971540652"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526069844702,
+			"_cnpm_publish_time": 1526069844702
+		},
+		"1.0.0": {
+			"name": "antd-theme-generator",
+			"version": "1.0.0",
+			"description": "This a script to generate color specific styles less file and which you can use to change theme dynamically in browser",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"dependencies": {
+				"less-bundle-promise": "1.0.4",
+				"postcss": "^6.0.21",
+				"less": "^3.0.1"
+			},
+			"keywords": [
+				"antd",
+				"theme",
+				"less",
+				"dynamic-theme",
+				"css"
+			],
+			"author": {
+				"name": "mzohaibqc",
+				"url": "https://github.com/mzohaibqc"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/mzohaibqc/antd-theme-generator.git"
+			},
+			"license": "ISC",
+			"gitHead": "aa0586065ba7fed45280da74034805ee8ef7c3f6",
+			"bugs": {
+				"url": "https://github.com/mzohaibqc/antd-theme-generator/issues"
+			},
+			"homepage": "https://github.com/mzohaibqc/antd-theme-generator#readme",
+			"_id": "antd-theme-generator@1.0.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "mzohaibqc",
+				"email": "mzohaib.qc@gmail.com"
+			},
+			"dist": {
+				"shasum": "7dd4b6ec2954a6e22fa930998509f38e6c10b5b5",
+				"size": 4141,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "mzohaibqc",
+					"email": "mzohaib.qc@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/antd-theme-generator_1.0.0_1525375869162_0.9027091959916673"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525375869318,
+			"_cnpm_publish_time": 1525375869318
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.7"
+	},
+	"time": {
+		"modified": "2018-05-16T04:24:25.000Z",
+		"created": "2018-05-03T19:31:09.318Z",
+		"1.0.7": "2018-05-16T04:24:07.095Z",
+		"1.0.6": "2018-05-14T19:48:05.586Z",
+		"1.0.5": "2018-05-13T20:41:07.109Z",
+		"1.0.4": "2018-05-13T19:40:32.218Z",
+		"1.0.3": "2018-05-12T17:12:47.118Z",
+		"1.0.2": "2018-05-12T14:37:02.539Z",
+		"1.0.1": "2018-05-11T20:17:24.702Z",
+		"1.0.0": "2018-05-03T19:31:09.318Z"
+	},
+	"_distfiles": {
+		"antd-theme-generator-1.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.7.tgz",
+			"sha": "b7a76f763c87b5bf089870746ca2b9d2fcf6f63e",
+			"registry": "cnpmjs"
+		},
+		"antd-theme-generator-1.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.6.tgz",
+			"sha": "e98fb61465dff132617ee95613b646cfc5ab0f3c",
+			"registry": "cnpmjs"
+		},
+		"antd-theme-generator-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.5.tgz",
+			"sha": "f7d0d8f349a5393662f4b1b536972a9c12b0e4c1",
+			"registry": "cnpmjs"
+		},
+		"antd-theme-generator-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.4.tgz",
+			"sha": "efebf0163c64ae0fd49357d7d534169805b79a2e",
+			"registry": "cnpmjs"
+		},
+		"antd-theme-generator-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.3.tgz",
+			"sha": "2a5f294d16453503b84628b6969ed0f4789ef90e",
+			"registry": "cnpmjs"
+		},
+		"antd-theme-generator-1.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.2.tgz",
+			"sha": "69a1c2cc45cd9f4545a0258a1dd368c0ee3214c0",
+			"registry": "cnpmjs"
+		},
+		"antd-theme-generator-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.1.tgz",
+			"sha": "7451c527c953b6d23dd49c1bee29fd2f01ab2a7a",
+			"registry": "cnpmjs"
+		},
+		"antd-theme-generator-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/antd-theme-generator/download/antd-theme-generator-1.0.0.tgz",
+			"sha": "7dd4b6ec2954a6e22fa930998509f38e6c10b5b5",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"368e-qXiUhZ0JvYLSdbXD7KoahyginJQ\"",
+			"fetched": 1528451133147
+		}
+	},
+	"_rev": "1-ca95138d2bf620a5",
+	"readme": "# antd-theme-generator\n\nThis script generates color specific styles/less file which you can use to change theme dynamically in browser\n\n## Example:\n\n```\nconst { generateTheme } = require('antd-theme-generator');\n\nconst options = {\n  antDir: path.join(__dirname, './node_modules/antd'),\n  stylesDir: path.join(__dirname, './src/styles'),\n  varFile: path.join(__dirname, './src/styles/variables.less'), // default path is Ant Design default.less file\n  mainLessFile: path.join(__dirname, './src/styles/index.less'),\n  themeVariables: ['@primary-color'],\n  outputFilePath: path.join(__dirname, './public/color.less') // if provided, file will be created with generated less/styles\n}\n\ngenerateTheme(options).then(less => {\n  console.log('Theme generated successfully');\n})\n.catch(error => {\n  console.log('Error', error);\n})\n```\n## Note: include all color variables in `varFile` that you want to change dynamically and assign them unique color codes.\nAdd following lines in your main html file\n\n```\n<link rel=\"stylesheet/less\" type=\"text/css\" href=\"/color.less\" />\n<script>\n  window.less = {\n    async: false,\n    env: 'production'\n  };\n</script>\n<script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/less.js/2.7.2/less.min.js\"></script>\n```\n\nNow you can update colors by updating less avriables like this\n\n```\nwindow.less.modifyVars({\n  '@primary-color': '#0035ff'\n})\n```"
+}

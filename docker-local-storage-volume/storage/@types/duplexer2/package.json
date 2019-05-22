@@ -1,0 +1,140 @@
+{
+	"name": "@types/duplexer2",
+	"versions": {
+		"0.1.1": {
+			"name": "@types/duplexer2",
+			"version": "0.1.1",
+			"description": "TypeScript definitions for duplexer2",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Zlatko Andonovski",
+					"url": "https://github.com/Goldsmith42"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "84eb08030282a3cc1d0d20af46f96b63942fa518d4814966a6a3149c2ad94e84",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/duplexer2@0.1.1",
+			"dist": {
+				"shasum": "2a935d471b6fbab030c355d906fdc79902429e1c",
+				"size": 1579,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/duplexer2/download/@types/duplexer2-0.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/duplexer2-0.1.1.tgz_1503352262107_0.7554039277601987"
+			},
+			"directories": {},
+			"publish_time": 1503352262253,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352262253
+		},
+		"0.1.0": {
+			"name": "@types/duplexer2",
+			"version": "0.1.0",
+			"description": "TypeScript definitions for duplexer2",
+			"license": "MIT",
+			"author": "Zlatko Andonovski <https://github.com/Goldsmith42/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d2955f475acad51e2704ef5232bbcd3e757209e53b0d061188a0ca7b67f3821d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/duplexer2@0.1.0",
+			"dist": {
+				"shasum": "647126eb71cd0a9b0858e98f8bad202478f70894",
+				"size": 1075,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/duplexer2/download/@types/duplexer2-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/duplexer2-0.1.0.tgz_1483981387418_0.1325000503566116"
+			},
+			"directories": {},
+			"publish_time": 1483981389547,
+			"_cnpm_publish_time": 1483981389547,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.1.1",
+		"ts2.0": "0.1.1",
+		"ts2.1": "0.1.1",
+		"ts2.2": "0.1.1",
+		"ts2.3": "0.1.1",
+		"ts2.4": "0.1.1",
+		"ts2.5": "0.1.1",
+		"ts2.6": "0.1.1",
+		"ts2.7": "0.1.1",
+		"ts2.8": "0.1.1",
+		"ts2.9": "0.1.1",
+		"ts3.0": "0.1.1",
+		"ts3.1": "0.1.1",
+		"ts3.2": "0.1.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:10:06.000Z",
+		"created": "2017-01-09T17:03:09.547Z",
+		"0.1.1": "2017-08-21T21:51:02.253Z",
+		"0.1.0": "2017-01-09T17:03:09.547Z"
+	},
+	"_distfiles": {
+		"duplexer2-0.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/duplexer2/download/@types/duplexer2-0.1.1.tgz",
+			"sha": "2a935d471b6fbab030c355d906fdc79902429e1c",
+			"registry": "cnpmjs"
+		},
+		"duplexer2-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/duplexer2/download/@types/duplexer2-0.1.0.tgz",
+			"sha": "647126eb71cd0a9b0858e98f8bad202478f70894",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"d6b-QkwuhPpixqNBpu+cUKZLbycK2dU\"",
+			"fetched": 1541833454908
+		}
+	},
+	"_rev": "2-47e348eb3e2c6f01",
+	"readme": "# Installation\r\n> `npm install --save @types/duplexer2`\r\n\r\n# Summary\r\nThis package contains type definitions for duplexer2 (https://github.com/deoxxa/duplexer2).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/duplexer2\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 21:49:18 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Zlatko Andonovski <https://github.com/Goldsmith42>."
+}

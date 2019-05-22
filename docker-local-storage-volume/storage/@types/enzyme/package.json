@@ -1,0 +1,4138 @@
+{
+	"name": "@types/enzyme",
+	"versions": {
+		"3.1.10": {
+			"name": "@types/enzyme",
+			"version": "3.1.10",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "5eac36d21f922a5b86800ef3b6dff4a2db72fa5c7e342948e677460748ca675a",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/enzyme@3.1.10",
+			"dist": {
+				"shasum": "28108a9864e65699751469551a803a35d2e26160",
+				"size": 6603,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme_3.1.10_1524071135084_0.051407488652065236"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524071135175,
+			"_cnpm_publish_time": 1524071135175
+		},
+		"3.1.9": {
+			"name": "@types/enzyme",
+			"version": "3.1.9",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "7aa11dc960d3d0e9b7ac342d672d8f5283a5bfeca5e12991de6a2dfd0a1ca3fd",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/enzyme@3.1.9",
+			"dist": {
+				"shasum": "fbd97f3beb7cad76fc9c6f04c97d77f4834522ef",
+				"size": 6601,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme_3.1.9_1518449021496_0.5025915690922318"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518449022227,
+			"_cnpm_publish_time": 1518449022227
+		},
+		"3.1.8": {
+			"name": "@types/enzyme",
+			"version": "3.1.8",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "8d741a4e0b3bb5aa7a01646b0680f97b8efed3763264d8c06f68cea4376de28f",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@3.1.8",
+			"dist": {
+				"shasum": "e0a4492994fafb2fccc1726f8b4d9960097a4a8c",
+				"size": 6588,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-3.1.8.tgz_1516737965329_0.9694780446588993"
+			},
+			"directories": {},
+			"publish_time": 1516737965407,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1516737965407
+		},
+		"3.1.7": {
+			"name": "@types/enzyme",
+			"version": "3.1.7",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "4aebfa626a0a6f3249bcf55c5f54d24148c633ee0f375801b942c715fd0913f3",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@3.1.7",
+			"dist": {
+				"shasum": "358a28dda8df6841db665659278437d04571a094",
+				"size": 6581,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-3.1.7.tgz_1516402440201_0.04838567553088069"
+			},
+			"directories": {},
+			"publish_time": 1516402440354,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1516402440354
+		},
+		"3.1.6": {
+			"name": "@types/enzyme",
+			"version": "3.1.6",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "dd72b13a38c3b311a758448134e6da631f17483487920f431a4ccb61d7c9308b",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@3.1.6",
+			"dist": {
+				"shasum": "5b6fd8c5d23d2e1d06eca528b54df81c3ee4cbbf",
+				"size": 6580,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-3.1.6.tgz_1513295013443_0.05574381211772561"
+			},
+			"directories": {},
+			"publish_time": 1513295014049,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513295014049
+		},
+		"3.1.5": {
+			"name": "@types/enzyme",
+			"version": "3.1.5",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "3c1b21f7f883798b35134bbcd4c0e59e628e6276dbb5ae8586a6892b1d890a4c",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@3.1.5",
+			"dist": {
+				"shasum": "6cc31d7f7e552209e244a45d89279f4def4aaade",
+				"size": 6598,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-3.1.5.tgz_1511290342090_0.11698673712089658"
+			},
+			"directories": {},
+			"publish_time": 1511290342168,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511290342168
+		},
+		"3.1.4": {
+			"name": "@types/enzyme",
+			"version": "3.1.4",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "ed5d3290bb689cd2b84448cebd89047b86bc311a92f8e319106df1998ec9327a",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@3.1.4",
+			"dist": {
+				"shasum": "5d6fc570786345a8fb10d9b3643335746612f9d8",
+				"size": 6394,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-3.1.4.tgz_1510375904325_0.21138104633428156"
+			},
+			"directories": {},
+			"publish_time": 1510375904393,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510375904393
+		},
+		"3.1.3": {
+			"name": "@types/enzyme",
+			"version": "3.1.3",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "bb71eaff9199f55e1299de0e77e80ba66fc935c48ee2e65defb94531bea3cc18",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@3.1.3",
+			"dist": {
+				"shasum": "e10f3675c28e555cf968e41538b6632a4dede8ae",
+				"size": 6384,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-3.1.3.tgz_1509557760502_0.8609713143669069"
+			},
+			"directories": {},
+			"publish_time": 1509557760565,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509557760565
+		},
+		"3.1.2": {
+			"name": "@types/enzyme",
+			"version": "3.1.2",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "96e6a9302b35836453b5d517c636f0b8ab20c735644da4f1300cb6e02e4756fe",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@3.1.2",
+			"dist": {
+				"shasum": "399963d6f0aed91ab72a827e4220c486e03ad318",
+				"size": 6381,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-3.1.2.tgz_1509472822651_0.62785326060839"
+			},
+			"directories": {},
+			"publish_time": 1509472822823,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509472822823
+		},
+		"3.1.1": {
+			"name": "@types/enzyme",
+			"version": "3.1.1",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "b4ff779522ca277a65f5050368f202d0c4b06a637a5b3be44f5bbaf86e697401",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@3.1.1",
+			"dist": {
+				"shasum": "102ebd9aa33fa15fd11477b6f701cde18cbe7de0",
+				"size": 6335,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-3.1.1.tgz_1508890918105_0.0408691568300128"
+			},
+			"directories": {},
+			"publish_time": 1508890918173,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508890918173
+		},
+		"3.1.0": {
+			"name": "@types/enzyme",
+			"version": "3.1.0",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "0e5235d0644b49c91a24e2f236d0ddcce4ce869ab5053cb570052edc89feaf37",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@3.1.0",
+			"dist": {
+				"shasum": "6b5b2d85232ee4200c78d4fcf19a97921f438c7c",
+				"size": 6479,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-3.1.0.tgz_1507961605551_0.05004601017571986"
+			},
+			"directories": {},
+			"publish_time": 1507961605625,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507961605625
+		},
+		"2.8.12": {
+			"name": "@types/enzyme",
+			"version": "2.8.12",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "7121f1a9c485b749f25b26ed9cc0f423523db5e5fea5161a64ad095c89f384ba",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.12",
+			"dist": {
+				"shasum": "a669d79ce1760d7241bc4b6fb7535d68669d78ad",
+				"size": 6485,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.12.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.12.tgz_1507645823179_0.36767751164734364"
+			},
+			"directories": {},
+			"publish_time": 1507645823257,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507645823257
+		},
+		"2.8.11": {
+			"name": "@types/enzyme",
+			"version": "2.8.11",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "7360846fbb5a12a3286c11804256d542af7367a23abd1febd1b1f64b071fae67",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.11",
+			"dist": {
+				"shasum": "d8fb69c934ab4e1cd2099d0d390eac72f20d107c",
+				"size": 6436,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.11.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.11.tgz_1507141288104_0.9073324387427419"
+			},
+			"directories": {},
+			"publish_time": 1507141288277,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507141288277
+		},
+		"2.8.10": {
+			"name": "@types/enzyme",
+			"version": "2.8.10",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "36ae0ddb741540e8a126b4a799285f6ff4f70bbe4cafed0222825bf26bc8e53f",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.10",
+			"dist": {
+				"shasum": "deff580e10cd4997a79345aabedcdc584e860438",
+				"size": 6352,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.10.tgz_1507038901806_0.6575363266747445"
+			},
+			"directories": {},
+			"publish_time": 1507038901887,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507038901887
+		},
+		"2.8.9": {
+			"name": "@types/enzyme",
+			"version": "2.8.9",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "085e96edb3d45081b023634481c99119ccab1f7b2ab6d2224cffb34906a8eb93",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.9",
+			"dist": {
+				"shasum": "17db10bb223a2c81ed8ac6ba6fdba52d2639d8d8",
+				"size": 6335,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.9.tgz_1506545299354_0.6669914685189724"
+			},
+			"directories": {},
+			"publish_time": 1506545299563,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506545299563
+		},
+		"2.8.8": {
+			"name": "@types/enzyme",
+			"version": "2.8.8",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "6dbde34b0c3e39715ec16e8f185951cb407fa1506dcb142d2c148191ac625bf1",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.8",
+			"dist": {
+				"shasum": "ddef76ac5435bb6d96c129b2b541d72c0ce75a41",
+				"size": 6230,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.8.tgz_1505851865938_0.818087094463408"
+			},
+			"directories": {},
+			"publish_time": 1505851866446,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505851866446
+		},
+		"2.8.7": {
+			"name": "@types/enzyme",
+			"version": "2.8.7",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "3174c10f9195ea1cd0d736de957ef5ad6b30a7735c76f03118439e07e7ec2b0d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.7",
+			"dist": {
+				"shasum": "999e0f220412342020a8279ff3d7eed2b2b4b618",
+				"size": 6246,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.7.tgz_1504709715788_0.9772446134593338"
+			},
+			"directories": {},
+			"publish_time": 1504709715875,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504709715875
+		},
+		"2.8.6": {
+			"name": "@types/enzyme",
+			"version": "2.8.6",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c12bc4bf6c0210be3ce039185f561d876f7d389f9d7beddd013f016c8b08724f",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.6",
+			"dist": {
+				"shasum": "b508da0860b4fcda2ab851d600e5bfaf695775dd",
+				"size": 6195,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.6.tgz_1502736262513_0.2550234072841704"
+			},
+			"directories": {},
+			"publish_time": 1502736262583,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502736262583
+		},
+		"2.8.5": {
+			"name": "@types/enzyme",
+			"version": "2.8.5",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fe93674d2b97018af2bc6b872549a843f54e5dd85be6a7fc897f2a5750573c36",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.5",
+			"dist": {
+				"shasum": "0bcf505358db8967fea2d86534fce6b901539ce7",
+				"size": 6145,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.5.tgz_1502287481463_0.9820444693323225"
+			},
+			"directories": {},
+			"publish_time": 1502287481648,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502287481648
+		},
+		"2.8.4": {
+			"name": "@types/enzyme",
+			"version": "2.8.4",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "21ef707c34689cdce799d7ade45ae7b0bcee0d7e3777f9489246bc904ebc5bab",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.4",
+			"dist": {
+				"shasum": "0a75487091978a77178920fa0437c0f13a8e2dcd",
+				"size": 6067,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.4.tgz_1500750269908_0.04581983503885567"
+			},
+			"directories": {},
+			"publish_time": 1500750269978,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500750269978
+		},
+		"2.8.3": {
+			"name": "@types/enzyme",
+			"version": "2.8.3",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "30e2d7db331c129139eb4ba67ebdc237f91c91d34407e0f655f6ffbf75af6ef1",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.3",
+			"dist": {
+				"shasum": "1f6b11248d99bf9a625d0552d56b627f73be4c9e",
+				"size": 6085,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.3.tgz_1500558780609_0.05199049785733223"
+			},
+			"directories": {},
+			"publish_time": 1500558781578,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500558781578
+		},
+		"2.8.2": {
+			"name": "@types/enzyme",
+			"version": "2.8.2",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "Tom Crockett",
+					"url": "https://github.com/pelotom"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "9807fb790e061e96bca9223488189a0726c1bf40ea9e1085260b79ea59bf98e8",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.2",
+			"dist": {
+				"shasum": "5cd2582b7c7876d0a34dd9eaeadf6b52263fe88e",
+				"size": 6121,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.2.tgz_1499781719988_0.4185386982280761"
+			},
+			"directories": {},
+			"publish_time": 1499781720083,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1499781720083
+		},
+		"2.8.1": {
+			"name": "@types/enzyme",
+			"version": "2.8.1",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "Tom Crockett",
+					"url": "https://github.com/pelotom"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2e373ed70adc21870c5b8cb9d673e0737c8cb35b16326bf7c549691b504e25a8",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enzyme@2.8.1",
+			"dist": {
+				"shasum": "78b3c6c455b6b437898b54bff6d285d65323578d",
+				"size": 6116,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme-2.8.1.tgz_1498226619488_0.8891199983190745"
+			},
+			"directories": {},
+			"publish_time": 1498226619594,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498226619594
+		},
+		"2.8.0": {
+			"name": "@types/enzyme",
+			"version": "2.8.0",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "Tom Crockett",
+					"url": "https://github.com/pelotom"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "eb4fc888133845ea86300e0be1b4b6a647e13f5f090c51a6cb50dba74acb27f5",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/enzyme@2.8.0",
+			"dist": {
+				"shasum": "84c6204cf89831223a89ab6dc3f490b1e0886352",
+				"size": 6122,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.8.0.tgz_1493832705317_0.4760744229424745"
+			},
+			"directories": {},
+			"publish_time": 1493832705602,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493832705602
+		},
+		"2.7.9": {
+			"name": "@types/enzyme",
+			"version": "2.7.9",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "Tom Crockett",
+					"url": "https://github.com/pelotom"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "373f6f3a399f0110660a4d7637384da78e157e3e427831cee2146f3405877bb8",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/enzyme@2.7.9",
+			"dist": {
+				"shasum": "2d9cb8c6addb3483e9034a47e38eda9301186535",
+				"size": 5878,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.7.9.tgz_1492451754922_0.6952892001718283"
+			},
+			"directories": {},
+			"publish_time": 1492451756696,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492451756696
+		},
+		"2.7.8": {
+			"name": "@types/enzyme",
+			"version": "2.7.8",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "Tom Crockett",
+					"url": "https://github.com/pelotom"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b8bc548e3b3aca22c866b4a374a1a4051ba2e6c49976e5a9d99e5702631326c6",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/enzyme@2.7.8",
+			"dist": {
+				"shasum": "ba9ed2924fcd22e9575dd6cffb8287d55054578f",
+				"size": 5209,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.7.8.tgz_1491939373436_0.35230527305975556"
+			},
+			"directories": {},
+			"publish_time": 1491939373685,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1491939373685
+		},
+		"2.7.7": {
+			"name": "@types/enzyme",
+			"version": "2.7.7",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "Tom Crockett",
+					"url": "https://github.com/pelotom"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://githb.com/jwbay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3e81d59f6652c078c535922141057eea8f4e45cf60c76c7f513e74efd66f0ffc",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/enzyme@2.7.7",
+			"dist": {
+				"shasum": "52688e130fe55185f14844919ec559961488f53d",
+				"size": 5177,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.7.7.tgz_1490973794909_0.5175142840016633"
+			},
+			"directories": {},
+			"publish_time": 1490973795197,
+			"_cnpm_publish_time": 1490973795197,
+			"_hasShrinkwrap": false
+		},
+		"2.7.6": {
+			"name": "@types/enzyme",
+			"version": "2.7.6",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "Tom Crockett",
+					"url": "https://github.com/pelotom"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://githb.com/jwbay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6446f7cdbbf5d65a81397eb2ad0cf8e4c676cc5909191b4e90a07750d07b3ae3",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/enzyme@2.7.6",
+			"dist": {
+				"shasum": "b210dd68e0009a916a7f02f2d168cde1f85d35b9",
+				"size": 5170,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.7.6.tgz_1490056093453_0.22196765476837754"
+			},
+			"directories": {},
+			"publish_time": 1490056095185,
+			"_cnpm_publish_time": 1490056095185,
+			"_hasShrinkwrap": false
+		},
+		"2.7.5": {
+			"name": "@types/enzyme",
+			"version": "2.7.5",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey"
+				},
+				{
+					"name": "Tom Crockett",
+					"url": "https://github.com/pelotom"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://githb.com/jwbay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3de3d8b1626f4b2a45c3cdb7e6114e10dbb5cc1e956774b0a5254a7691bd09c9",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/enzyme@2.7.5",
+			"dist": {
+				"shasum": "a7c52a444cfa7711b16096681d134f4718df8a86",
+				"size": 5441,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.7.5.tgz_1487863414025_0.4896656200289726"
+			},
+			"directories": {},
+			"publish_time": 1487863414249,
+			"_cnpm_publish_time": 1487863414249,
+			"_hasShrinkwrap": false
+		},
+		"2.7.4": {
+			"name": "@types/enzyme",
+			"version": "2.7.4",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>, Ivo Stratev <https://github.com/NoHomey>, Tom Crockett <https://github.com/pelotom>, jwbay <https://githb.com/jwbay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e59c997fab2d00f834e3aefd6b6e7c7cc8f424ab6b9596276902df5605156ed7",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/enzyme@2.7.4",
+			"dist": {
+				"shasum": "62ac5bb7e46703ac8bd427f24d67586d67449321",
+				"size": 5289,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.7.4.tgz_1486509917551_0.006537820212543011"
+			},
+			"directories": {},
+			"publish_time": 1486509917782,
+			"_cnpm_publish_time": 1486509917782,
+			"_hasShrinkwrap": false
+		},
+		"2.7.3": {
+			"name": "@types/enzyme",
+			"version": "2.7.3",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>, Ivo Stratev <https://github.com/NoHomey>, Tom Crockett <https://github.com/pelotom>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c608e96dd83df6fb0592e0148e22168a8cb268d352bb6217c531b96e2c36b3ec",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/enzyme@2.7.3",
+			"dist": {
+				"shasum": "db0927023067d0f442034f96424230d4105f8930",
+				"size": 5274,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.7.3.tgz_1486498761289_0.07003470952622592"
+			},
+			"directories": {},
+			"publish_time": 1486498762999,
+			"_cnpm_publish_time": 1486498762999,
+			"_hasShrinkwrap": false
+		},
+		"2.7.2": {
+			"name": "@types/enzyme",
+			"version": "2.7.2",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>, Ivo Stratev <https://github.com/NoHomey>, Tom Crockett <https://github.com/pelotom>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "dcf3479571de5e9470ad9d50b2f5bafd68a6728ff9a9c2eb14d6a4f98ab9fa3e",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/enzyme@2.7.2",
+			"dist": {
+				"shasum": "b19a457f29d2d1a054a880feb86666b993ed6cdc",
+				"size": 5270,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.7.2.tgz_1485207138334_0.9606694825924933"
+			},
+			"directories": {},
+			"publish_time": 1485207138552,
+			"_cnpm_publish_time": 1485207138552,
+			"_hasShrinkwrap": false
+		},
+		"2.7.1": {
+			"name": "@types/enzyme",
+			"version": "2.7.1",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>, Ivo Stratev <https://github.com/NoHomey>, Tom Crockett <https://github.com/pelotom>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "51c162576eae41108a066437bd6ef24b99382d222f95ee3182fa2cc1932c65d1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/enzyme@2.7.1",
+			"dist": {
+				"shasum": "c49059fa84dd127dc61660fde90b3e5be3985a09",
+				"size": 5231,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.7.1.tgz_1483648861088_0.312392852967605"
+			},
+			"directories": {},
+			"publish_time": 1483648863059,
+			"_cnpm_publish_time": 1483648863059,
+			"_hasShrinkwrap": false
+		},
+		"2.7.0": {
+			"name": "@types/enzyme",
+			"version": "2.7.0",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>, Ivo Stratev <https://github.com/NoHomey>, Tom Crockett <https://github.com/pelotom>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5b8070714361778a32c20ca8d3535ffe702252a13461a863b7c207a7bf75dd54",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/enzyme@2.7.0",
+			"dist": {
+				"shasum": "89e5329f212dc62ddbcb5d9ef91f0ec02cce1e9d",
+				"size": 5234,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.7.0.tgz_1483556863541_0.6103607937693596"
+			},
+			"directories": {},
+			"publish_time": 1483556865521,
+			"_cnpm_publish_time": 1483556865521,
+			"_hasShrinkwrap": false
+		},
+		"2.5.39": {
+			"name": "@types/enzyme",
+			"version": "2.5.39",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>, Ivo Stratev <https://github.com/NoHomey>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "a3280fdfdd4da030ff8b49042fb1bca8ef077051ee73e39c9b827a9389f09f12",
+			"_id": "@types/enzyme@2.5.39",
+			"dist": {
+				"shasum": "735efab43a93285aae169ea968ea0fb259fa8d68",
+				"size": 5241,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.5.39.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.5.39.tgz_1480350623301_0.03222837671637535"
+			},
+			"directories": {},
+			"publish_time": 1480350623541,
+			"_cnpm_publish_time": 1480350623541,
+			"_hasShrinkwrap": false
+		},
+		"2.5.38": {
+			"name": "@types/enzyme",
+			"version": "2.5.38",
+			"description": "TypeScript definitions for Enzyme v2.5.1",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>, Ivo Stratev <https://github.com/NoHomey>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "8dd0d0960373228fef6f752dbd1344c915309f364593f14a5a7d98c713cb3fc1",
+			"_id": "@types/enzyme@2.5.38",
+			"dist": {
+				"shasum": "e18519515c7aeb9a8a11699b8b45406d5b321f85",
+				"size": 5224,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.5.38.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.5.38.tgz_1479152157623_0.3309681515675038"
+			},
+			"directories": {},
+			"publish_time": 1479152157984,
+			"_cnpm_publish_time": 1479152157984,
+			"_hasShrinkwrap": false
+		},
+		"2.5.37": {
+			"name": "@types/enzyme",
+			"version": "2.5.37",
+			"description": "TypeScript definitions for Enzyme v2.5.1",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>, Ivo Stratev <https://github.com/NoHomey>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "4970bb92a3c10d270e2136c0eff937a7a7a0c4d2c3868e5b83f6b0ee83095fff",
+			"_id": "@types/enzyme@2.5.37",
+			"dist": {
+				"shasum": "086af9fe63d79ef8846add1daeb4cf8555a156b1",
+				"size": 5215,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.5.37.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.5.37.tgz_1477509939229_0.10100500751286745"
+			},
+			"directories": {},
+			"publish_time": 1477509939452,
+			"_cnpm_publish_time": 1477509939452,
+			"_hasShrinkwrap": false
+		},
+		"2.4.36": {
+			"name": "@types/enzyme",
+			"version": "2.4.36",
+			"description": "TypeScript definitions for Enzyme v2.4.1",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "d6463314358c7f503b14c4c63f5ba6a7c9c72af016021b5b6b17fc35cdd5d1da",
+			"_id": "@types/enzyme@2.4.36",
+			"dist": {
+				"shasum": "13129679e5c0718af32a9ecebc4cf53fabdd9809",
+				"size": 5079,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.4.36.tgz_1475701009931_0.4379883171059191"
+			},
+			"directories": {},
+			"publish_time": 1475701010175,
+			"_cnpm_publish_time": 1475701010175,
+			"_hasShrinkwrap": false
+		},
+		"2.4.35": {
+			"name": "@types/enzyme",
+			"version": "2.4.35",
+			"description": "TypeScript definitions for Enzyme v2.4.1",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "8b3b193b687ca390e8932496c666c0673e2b1aba1f3e37bf1977d942d1dbf7ea",
+			"_id": "@types/enzyme@2.4.35",
+			"dist": {
+				"shasum": "0df37ee53ee3ed707eb6162ed262bd23a126374d",
+				"size": 5066,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.4.35.tgz_1474934199028_0.18390704598277807"
+			},
+			"directories": {},
+			"publish_time": 1474934201795,
+			"_cnpm_publish_time": 1474934201795,
+			"_hasShrinkwrap": false
+		},
+		"2.4.34": {
+			"name": "@types/enzyme",
+			"version": "2.4.34",
+			"description": "TypeScript definitions for Enzyme v2.4.1",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "53a8bd515cd5e34bee338ffa4e6f0d3534b1a09e49b9823674b098671a136b95",
+			"_id": "@types/enzyme@2.4.34",
+			"dist": {
+				"shasum": "bb2fe05f6f30c21cce3e98db7aa4c5e7030b680a",
+				"size": 5049,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.4.34.tgz_1474489628358_0.1995294066146016"
+			},
+			"directories": {},
+			"publish_time": 1474489628578,
+			"_cnpm_publish_time": 1474489628578,
+			"_hasShrinkwrap": false
+		},
+		"2.4.33": {
+			"name": "@types/enzyme",
+			"version": "2.4.33",
+			"description": "TypeScript definitions for Enzyme v2.4.1",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "627c64ce001645699561adea07de8f2f68a2c974005bbbbe36e55063bb6d15ba",
+			"_id": "@types/enzyme@2.4.33",
+			"dist": {
+				"shasum": "8f0b6dda8930f9ac8f55dfa3a9f1e27517fd1447",
+				"size": 5032,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.4.33.tgz_1474306245536_0.6482999878935516"
+			},
+			"directories": {},
+			"publish_time": 1474306245770,
+			"_cnpm_publish_time": 1474306245770,
+			"_hasShrinkwrap": false
+		},
+		"2.4.32": {
+			"name": "@types/enzyme",
+			"version": "2.4.32",
+			"description": "TypeScript definitions for Enzyme v2.4.1",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/enzyme@2.4.32",
+			"dist": {
+				"shasum": "dede898eb281a718ce6150e15e17ae5572b7bc27",
+				"size": 5034,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.4.32.tgz_1472150461351_0.47419428057037294"
+			},
+			"directories": {},
+			"publish_time": 1472150462930,
+			"_cnpm_publish_time": 1472150462930,
+			"_hasShrinkwrap": false
+		},
+		"2.4.31": {
+			"name": "@types/enzyme",
+			"version": "2.4.31",
+			"description": "TypeScript definitions for Enzyme v2.4.1",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/enzyme@2.4.31",
+			"dist": {
+				"shasum": "4d47dd8a9e29557c26c1c0dafe573fa3c2ada644",
+				"size": 5034,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.4.31.tgz_1471620269130_0.6452190484851599"
+			},
+			"directories": {},
+			"publish_time": 1471620270777,
+			"_cnpm_publish_time": 1471620270777,
+			"_hasShrinkwrap": false
+		},
+		"2.4.30": {
+			"name": "@types/enzyme",
+			"version": "2.4.30",
+			"description": "TypeScript definitions for Enzyme v2.4.1",
+			"license": "MIT",
+			"author": "Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/enzyme@2.4.30",
+			"dist": {
+				"shasum": "4b0e513e670a9026f7905f2182fccd84fd6f4230",
+				"size": 29696,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-2.4.30.tgz_1470153105203_0.8033362179994583"
+			},
+			"directories": {},
+			"publish_time": 1470153106170,
+			"_cnpm_publish_time": 1470153106170,
+			"_hasShrinkwrap": false
+		},
+		"1.2.29": {
+			"name": "@types/enzyme",
+			"version": "1.2.29",
+			"description": "TypeScript definitions for Enzyme v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Marian Palkus",
+				"email": "https://github.com/MarianPalkus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"_id": "@types/enzyme@1.2.29",
+			"_shasum": "306bb243aa5f065676c9d09c9a5ba704135460d7",
+			"_from": "output\\enzyme",
+			"_resolved": "file:output\\enzyme",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "306bb243aa5f065676c9d09c9a5ba704135460d7",
+				"size": 4054,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-1.2.29.tgz_1468506637841_0.21360132656991482"
+			},
+			"directories": {},
+			"publish_time": 1468506641299,
+			"_cnpm_publish_time": 1468506641299,
+			"_hasShrinkwrap": false
+		},
+		"1.2.28-alpha": {
+			"name": "@types/enzyme",
+			"version": "1.2.28-alpha",
+			"description": "TypeScript definitions for Enzyme v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Marian Palkus",
+				"email": "https://github.com/MarianPalkus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.26-alpha"
+			},
+			"_id": "@types/enzyme@1.2.28-alpha",
+			"_shasum": "990e78461bf958381d3cd862190a0a5b79553eb8",
+			"_from": "output\\enzyme",
+			"_resolved": "file:output\\enzyme",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "990e78461bf958381d3cd862190a0a5b79553eb8",
+				"size": 4057,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-1.2.28-alpha.tgz_1468008390413_0.8079334311187267"
+			},
+			"directories": {},
+			"publish_time": 1468008391937,
+			"_cnpm_publish_time": 1468008391937,
+			"_hasShrinkwrap": false
+		},
+		"1.2.27-alpha": {
+			"name": "@types/enzyme",
+			"version": "1.2.27-alpha",
+			"description": "TypeScript definitions for Enzyme v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Marian Palkus",
+				"email": "https://github.com/MarianPalkus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.25-alpha"
+			},
+			"_id": "@types/enzyme@1.2.27-alpha",
+			"_shasum": "abe31eb23a172f8d88556875fb31fb82cb8d75ab",
+			"_from": "output\\enzyme",
+			"_resolved": "file:output\\enzyme",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "abe31eb23a172f8d88556875fb31fb82cb8d75ab",
+				"size": 4058,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-1.2.27-alpha.tgz_1467591132555_0.7087494833394885"
+			},
+			"directories": {},
+			"publish_time": 1467591133123,
+			"_cnpm_publish_time": 1467591133123,
+			"_hasShrinkwrap": false
+		},
+		"1.2.26-alpha": {
+			"name": "@types/enzyme",
+			"version": "1.2.26-alpha",
+			"description": "TypeScript definitions for Enzyme v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Marian Palkus",
+				"email": "https://github.com/MarianPalkus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.23-alpha"
+			},
+			"_id": "@types/enzyme@1.2.26-alpha",
+			"_shasum": "896b7e3b9b72ff901f6a741469cb68e821fba931",
+			"_from": "output\\enzyme",
+			"_resolved": "file:output\\enzyme",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "896b7e3b9b72ff901f6a741469cb68e821fba931",
+				"size": 4058,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-1.2.26-alpha.tgz_1467426159448_0.2261394124943763"
+			},
+			"directories": {},
+			"publish_time": 1467426162615,
+			"_cnpm_publish_time": 1467426162615,
+			"_hasShrinkwrap": false
+		},
+		"1.2.25-alpha": {
+			"name": "@types/enzyme",
+			"version": "1.2.25-alpha",
+			"description": "TypeScript definitions for Enzyme v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Marian Palkus",
+				"email": "https://github.com/MarianPalkus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.22-alpha"
+			},
+			"_id": "@types/enzyme@1.2.25-alpha",
+			"_shasum": "1a26146e0b323db9fc2bb8a133609978638817f2",
+			"_from": "output\\enzyme",
+			"_resolved": "file:output\\enzyme",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1a26146e0b323db9fc2bb8a133609978638817f2",
+				"size": 4057,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-1.2.25-alpha.tgz_1467412745178_0.007119695423170924"
+			},
+			"directories": {},
+			"publish_time": 1467412747730,
+			"_cnpm_publish_time": 1467412747730,
+			"_hasShrinkwrap": false
+		},
+		"1.2.24-alpha": {
+			"name": "@types/enzyme",
+			"version": "1.2.24-alpha",
+			"description": "TypeScript definitions for Enzyme v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Marian Palkus",
+				"email": "https://github.com/MarianPalkus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"_id": "@types/enzyme@1.2.24-alpha",
+			"_shasum": "5ad92fdc99f4a6ae3cea5d04eef27f661af250e6",
+			"_from": "output\\enzyme",
+			"_resolved": "file:output\\enzyme",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5ad92fdc99f4a6ae3cea5d04eef27f661af250e6",
+				"size": 4038,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-1.2.24-alpha.tgz_1467400854178_0.31430263817310333"
+			},
+			"directories": {},
+			"publish_time": 1467400856454,
+			"_cnpm_publish_time": 1467400856454,
+			"_hasShrinkwrap": false
+		},
+		"1.2.23-alpha": {
+			"name": "@types/enzyme",
+			"version": "1.2.23-alpha",
+			"description": "TypeScript definitions for Enzyme v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Marian Palkus",
+				"email": "https://github.com/MarianPalkus"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/enzyme@1.2.23-alpha",
+			"_shasum": "3b62069e7b0e614dbaea502d11ae46de1a49c72e",
+			"_from": "output\\enzyme",
+			"_resolved": "file:output\\enzyme",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3b62069e7b0e614dbaea502d11ae46de1a49c72e",
+				"size": 4024,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-1.2.23-alpha.tgz_1464151783909_0.7636907200794667"
+			},
+			"directories": {},
+			"publish_time": 1464151784410,
+			"_cnpm_publish_time": 1464151784410,
+			"_hasShrinkwrap": false
+		},
+		"1.2.22-alpha": {
+			"name": "@types/enzyme",
+			"version": "1.2.22-alpha",
+			"description": "TypeScript definitions for Enzyme v1.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Marian Palkus",
+				"email": "https://github.com/MarianPalkus"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/enzyme@1.2.22-alpha",
+			"_shasum": "b409126f0281aa1d1f7871edcb45b6ef6f28c24d",
+			"_from": "output\\enzyme",
+			"_resolved": "file:output\\enzyme",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b409126f0281aa1d1f7871edcb45b6ef6f28c24d",
+				"size": 4022,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-1.2.22-alpha.tgz_1463772682437_0.8289775585290045"
+			},
+			"directories": {},
+			"publish_time": 1463772683421,
+			"_cnpm_publish_time": 1463772683421,
+			"_hasShrinkwrap": false
+		},
+		"1.2.17-alpha": {
+			"name": "@types/enzyme",
+			"version": "1.2.17-alpha",
+			"description": "Type definitions for Enzyme v1.2.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Marian Palkus",
+				"email": "https://github.com/MarianPalkus"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"react": "*",
+				"@types/react": "*"
+			},
+			"_id": "@types/enzyme@1.2.17-alpha",
+			"_shasum": "4b92cd7b7e4e70c736dac3b8d0c0fdc5dc8e370d",
+			"_from": "output\\enzyme",
+			"_resolved": "file:output\\enzyme",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4b92cd7b7e4e70c736dac3b8d0c0fdc5dc8e370d",
+				"size": 4039,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/enzyme-1.2.17-alpha.tgz_1463690771288_0.8782713075634092"
+			},
+			"directories": {},
+			"publish_time": 1463690775774,
+			"_cnpm_publish_time": 1463690775774,
+			"_hasShrinkwrap": false
+		},
+		"1.2.16-alpha": {
+			"name": "@types/enzyme",
+			"version": "1.2.16-alpha",
+			"description": "Type definitions for Enzyme v1.2.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Marian Palkus",
+				"email": "https://github.com/MarianPalkus"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"react": "*"
+			},
+			"_id": "@types/enzyme@1.2.16-alpha",
+			"_shasum": "4ce0a264387f39192c6faeb2783254959b8823e5",
+			"_from": "output\\enzyme",
+			"_resolved": "file:output\\enzyme",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4ce0a264387f39192c6faeb2783254959b8823e5",
+				"size": 4018,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/enzyme-1.2.16-alpha.tgz_1463460661206_0.6350678890012205"
+			},
+			"directories": {},
+			"publish_time": 1463460661814,
+			"_cnpm_publish_time": 1463460661814,
+			"_hasShrinkwrap": false
+		},
+		"3.1.15": {
+			"name": "@types/enzyme",
+			"version": "3.1.15",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"types": "index",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "11d4b809a9c9058e439c14bc7d7f9dd8e137a1968bf94344843912bdf133d6fe",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/enzyme@3.1.15",
+			"dist": {
+				"shasum": "fc9a9695ba9f90cd50c4967e64a8c66ec96913d1",
+				"size": 6717,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.15.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme_3.1.15_1541460137163_0.4943830620552059"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1541460137340,
+			"_cnpm_publish_time": 1541460137340
+		},
+		"3.1.14": {
+			"name": "@types/enzyme",
+			"version": "3.1.14",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "64326418d8ae3081426543c1cf8b7a7b65ec0a02f3258da5b6cdf367be9f8093",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/enzyme@3.1.14",
+			"dist": {
+				"shasum": "379c26205f6e0e272f3a51d6bbdd50071a9d03a6",
+				"size": 6750,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.14.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme_3.1.14_1536947207628_0.6264259304083375"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536947207783,
+			"_cnpm_publish_time": 1536947207783
+		},
+		"3.1.13": {
+			"name": "@types/enzyme",
+			"version": "3.1.13",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "44accda0fa2eb9aec2ef1aceca208d35b263c1297cc64de8ce00289382636252",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/enzyme@3.1.13",
+			"dist": {
+				"shasum": "4bbc5c81fa40c9fc7efee25c4a23cb37119a33ea",
+				"size": 6673,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.13.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme_3.1.13_1533344965902_0.5405310430939665"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533344966045,
+			"_cnpm_publish_time": 1533344966045
+		},
+		"3.1.12": {
+			"name": "@types/enzyme",
+			"version": "3.1.12",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "d9413cd1aad236c6aa86322bc93381d30e2898076d9fc57f8fc1fac53c906056",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/enzyme@3.1.12",
+			"dist": {
+				"shasum": "293bb07c1ef5932d37add3879e72e0f5bc614f3c",
+				"size": 6677,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.12.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme_3.1.12_1531760996009_0.9633678684534681"
+			},
+			"publish_time": 1531760996112,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1531760996112
+		},
+		"3.1.11": {
+			"name": "@types/enzyme",
+			"version": "3.1.11",
+			"description": "TypeScript definitions for Enzyme",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marian Palkus",
+					"url": "https://github.com/MarianPalkus",
+					"githubUsername": "MarianPalkus"
+				},
+				{
+					"name": "Cap3",
+					"url": "http://www.cap3.de"
+				},
+				{
+					"name": "Ivo Stratev",
+					"url": "https://github.com/NoHomey",
+					"githubUsername": "NoHomey"
+				},
+				{
+					"name": "jwbay",
+					"url": "https://github.com/jwbay",
+					"githubUsername": "jwbay"
+				},
+				{
+					"name": "huhuanming",
+					"url": "https://github.com/huhuanming",
+					"githubUsername": "huhuanming"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Torgeir Hovden",
+					"url": "https://github.com/thovden",
+					"githubUsername": "thovden"
+				},
+				{
+					"name": "Martin Hochel",
+					"url": "https://github.com/hotell",
+					"githubUsername": "hotell"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/cheerio": "*"
+			},
+			"typesPublisherContentHash": "ed616c4eebb670544d7515dad4df4540339c36fc01075b8c3729af87cdeefad6",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/enzyme@3.1.11",
+			"dist": {
+				"shasum": "0a059d2fe2c686f024ada911d24473cdb2e13903",
+				"size": 6675,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.11.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enzyme_3.1.11_1529713349127_0.9594633339077172"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1529713349318,
+			"_cnpm_publish_time": 1529713349318
+		}
+	},
+	"dist-tags": {
+		"latest": "3.1.15",
+		"ts2.0": "2.7.1",
+		"ts2.1": "2.8.0",
+		"ts2.2": "2.8.0",
+		"ts2.3": "3.1.8",
+		"ts2.4": "3.1.8",
+		"ts2.5": "3.1.8",
+		"ts2.6": "3.1.12",
+		"ts2.7": "3.1.12",
+		"ts2.8": "3.1.15",
+		"ts2.9": "3.1.15",
+		"ts3.0": "3.1.15",
+		"ts3.1": "3.1.15",
+		"ts3.2": "3.1.15"
+	},
+	"time": {
+		"modified": "2018-11-05T23:22:26.000Z",
+		"created": "2016-05-17T04:51:01.814Z",
+		"3.1.15": "2018-11-05T23:22:17.340Z",
+		"3.1.14": "2018-09-14T17:46:47.783Z",
+		"3.1.13": "2018-08-04T01:09:26.045Z",
+		"3.1.12": "2018-07-16T17:09:56.112Z",
+		"3.1.11": "2018-06-23T00:22:29.318Z",
+		"3.1.10": "2018-04-18T17:05:35.175Z",
+		"3.1.9": "2018-02-12T15:23:42.227Z",
+		"3.1.8": "2018-01-23T20:06:05.407Z",
+		"3.1.7": "2018-01-19T22:54:00.354Z",
+		"3.1.6": "2017-12-14T23:43:34.049Z",
+		"3.1.5": "2017-11-21T18:52:22.168Z",
+		"3.1.4": "2017-11-11T04:51:44.393Z",
+		"3.1.3": "2017-11-01T17:36:00.565Z",
+		"3.1.2": "2017-10-31T18:00:22.823Z",
+		"3.1.1": "2017-10-25T00:21:58.173Z",
+		"3.1.0": "2017-10-14T06:13:25.625Z",
+		"2.8.12": "2017-10-10T14:30:23.257Z",
+		"2.8.11": "2017-10-04T18:21:28.277Z",
+		"2.8.10": "2017-10-03T13:55:01.887Z",
+		"2.8.9": "2017-09-27T20:48:19.563Z",
+		"2.8.8": "2017-09-19T20:11:06.446Z",
+		"2.8.7": "2017-09-06T14:55:15.875Z",
+		"2.8.6": "2017-08-14T18:44:22.583Z",
+		"2.8.5": "2017-08-09T14:04:41.648Z",
+		"2.8.4": "2017-07-22T19:04:29.978Z",
+		"2.8.3": "2017-07-20T13:53:01.578Z",
+		"2.8.2": "2017-07-11T14:02:00.083Z",
+		"2.8.1": "2017-06-23T14:03:39.594Z",
+		"2.8.0": "2017-05-03T17:31:45.602Z",
+		"2.7.9": "2017-04-17T17:55:56.696Z",
+		"2.7.8": "2017-04-11T19:36:13.685Z",
+		"2.7.7": "2017-03-31T15:23:15.197Z",
+		"2.7.6": "2017-03-21T00:28:15.185Z",
+		"2.7.5": "2017-02-23T15:23:34.249Z",
+		"2.7.4": "2017-02-07T23:25:17.782Z",
+		"2.7.3": "2017-02-07T20:19:22.999Z",
+		"2.7.2": "2017-01-23T21:32:18.552Z",
+		"2.7.1": "2017-01-05T20:41:03.059Z",
+		"2.7.0": "2017-01-04T19:07:45.521Z",
+		"2.5.39": "2016-11-28T16:30:23.541Z",
+		"2.5.38": "2016-11-14T19:35:57.984Z",
+		"2.5.37": "2016-10-26T19:25:39.452Z",
+		"2.4.36": "2016-10-05T20:56:50.175Z",
+		"2.4.35": "2016-09-26T23:56:41.795Z",
+		"2.4.34": "2016-09-21T20:27:08.578Z",
+		"2.4.33": "2016-09-19T17:30:45.770Z",
+		"2.4.32": "2016-08-25T18:41:02.930Z",
+		"2.4.31": "2016-08-19T15:24:30.777Z",
+		"2.4.30": "2016-08-02T15:51:46.170Z",
+		"1.2.29": "2016-07-14T14:30:41.299Z",
+		"1.2.28-alpha": "2016-07-08T20:06:31.937Z",
+		"1.2.27-alpha": "2016-07-04T00:12:13.123Z",
+		"1.2.26-alpha": "2016-07-02T02:22:42.615Z",
+		"1.2.25-alpha": "2016-07-01T22:39:07.730Z",
+		"1.2.24-alpha": "2016-07-01T19:20:56.454Z",
+		"1.2.23-alpha": "2016-05-25T04:49:44.410Z",
+		"1.2.22-alpha": "2016-05-20T19:31:23.421Z",
+		"1.2.17-alpha": "2016-05-19T20:46:15.774Z",
+		"1.2.16-alpha": "2016-05-17T04:51:01.814Z"
+	},
+	"_distfiles": {
+		"enzyme-3.1.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.10.tgz",
+			"sha": "28108a9864e65699751469551a803a35d2e26160",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.9.tgz",
+			"sha": "fbd97f3beb7cad76fc9c6f04c97d77f4834522ef",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.8.tgz",
+			"sha": "e0a4492994fafb2fccc1726f8b4d9960097a4a8c",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.7.tgz",
+			"sha": "358a28dda8df6841db665659278437d04571a094",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.6.tgz",
+			"sha": "5b6fd8c5d23d2e1d06eca528b54df81c3ee4cbbf",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.5.tgz",
+			"sha": "6cc31d7f7e552209e244a45d89279f4def4aaade",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.4.tgz",
+			"sha": "5d6fc570786345a8fb10d9b3643335746612f9d8",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.3.tgz",
+			"sha": "e10f3675c28e555cf968e41538b6632a4dede8ae",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.2.tgz",
+			"sha": "399963d6f0aed91ab72a827e4220c486e03ad318",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.1.tgz",
+			"sha": "102ebd9aa33fa15fd11477b6f701cde18cbe7de0",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.0.tgz",
+			"sha": "6b5b2d85232ee4200c78d4fcf19a97921f438c7c",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.12.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.12.tgz",
+			"sha": "a669d79ce1760d7241bc4b6fb7535d68669d78ad",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.11.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.11.tgz",
+			"sha": "d8fb69c934ab4e1cd2099d0d390eac72f20d107c",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.10.tgz",
+			"sha": "deff580e10cd4997a79345aabedcdc584e860438",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.9.tgz",
+			"sha": "17db10bb223a2c81ed8ac6ba6fdba52d2639d8d8",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.8.tgz",
+			"sha": "ddef76ac5435bb6d96c129b2b541d72c0ce75a41",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.7.tgz",
+			"sha": "999e0f220412342020a8279ff3d7eed2b2b4b618",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.6.tgz",
+			"sha": "b508da0860b4fcda2ab851d600e5bfaf695775dd",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.5.tgz",
+			"sha": "0bcf505358db8967fea2d86534fce6b901539ce7",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.4.tgz",
+			"sha": "0a75487091978a77178920fa0437c0f13a8e2dcd",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.3.tgz",
+			"sha": "1f6b11248d99bf9a625d0552d56b627f73be4c9e",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.2.tgz",
+			"sha": "5cd2582b7c7876d0a34dd9eaeadf6b52263fe88e",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.1.tgz",
+			"sha": "78b3c6c455b6b437898b54bff6d285d65323578d",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.8.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.8.0.tgz",
+			"sha": "84c6204cf89831223a89ab6dc3f490b1e0886352",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.7.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.9.tgz",
+			"sha": "2d9cb8c6addb3483e9034a47e38eda9301186535",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.7.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.8.tgz",
+			"sha": "ba9ed2924fcd22e9575dd6cffb8287d55054578f",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.7.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.7.tgz",
+			"sha": "52688e130fe55185f14844919ec559961488f53d",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.7.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.6.tgz",
+			"sha": "b210dd68e0009a916a7f02f2d168cde1f85d35b9",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.7.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.5.tgz",
+			"sha": "a7c52a444cfa7711b16096681d134f4718df8a86",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.7.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.4.tgz",
+			"sha": "62ac5bb7e46703ac8bd427f24d67586d67449321",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.7.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.3.tgz",
+			"sha": "db0927023067d0f442034f96424230d4105f8930",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.7.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.2.tgz",
+			"sha": "b19a457f29d2d1a054a880feb86666b993ed6cdc",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.7.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.1.tgz",
+			"sha": "c49059fa84dd127dc61660fde90b3e5be3985a09",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.7.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.7.0.tgz",
+			"sha": "89e5329f212dc62ddbcb5d9ef91f0ec02cce1e9d",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.5.39.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.5.39.tgz",
+			"sha": "735efab43a93285aae169ea968ea0fb259fa8d68",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.5.38.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.5.38.tgz",
+			"sha": "e18519515c7aeb9a8a11699b8b45406d5b321f85",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.5.37.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.5.37.tgz",
+			"sha": "086af9fe63d79ef8846add1daeb4cf8555a156b1",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.4.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.36.tgz",
+			"sha": "13129679e5c0718af32a9ecebc4cf53fabdd9809",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.4.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.35.tgz",
+			"sha": "0df37ee53ee3ed707eb6162ed262bd23a126374d",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.4.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.34.tgz",
+			"sha": "bb2fe05f6f30c21cce3e98db7aa4c5e7030b680a",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.4.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.33.tgz",
+			"sha": "8f0b6dda8930f9ac8f55dfa3a9f1e27517fd1447",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.4.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.32.tgz",
+			"sha": "dede898eb281a718ce6150e15e17ae5572b7bc27",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.4.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.31.tgz",
+			"sha": "4d47dd8a9e29557c26c1c0dafe573fa3c2ada644",
+			"registry": "cnpmjs"
+		},
+		"enzyme-2.4.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-2.4.30.tgz",
+			"sha": "4b0e513e670a9026f7905f2182fccd84fd6f4230",
+			"registry": "cnpmjs"
+		},
+		"enzyme-1.2.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.29.tgz",
+			"sha": "306bb243aa5f065676c9d09c9a5ba704135460d7",
+			"registry": "cnpmjs"
+		},
+		"enzyme-1.2.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.28-alpha.tgz",
+			"sha": "990e78461bf958381d3cd862190a0a5b79553eb8",
+			"registry": "cnpmjs"
+		},
+		"enzyme-1.2.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.27-alpha.tgz",
+			"sha": "abe31eb23a172f8d88556875fb31fb82cb8d75ab",
+			"registry": "cnpmjs"
+		},
+		"enzyme-1.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.26-alpha.tgz",
+			"sha": "896b7e3b9b72ff901f6a741469cb68e821fba931",
+			"registry": "cnpmjs"
+		},
+		"enzyme-1.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.25-alpha.tgz",
+			"sha": "1a26146e0b323db9fc2bb8a133609978638817f2",
+			"registry": "cnpmjs"
+		},
+		"enzyme-1.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.24-alpha.tgz",
+			"sha": "5ad92fdc99f4a6ae3cea5d04eef27f661af250e6",
+			"registry": "cnpmjs"
+		},
+		"enzyme-1.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.23-alpha.tgz",
+			"sha": "3b62069e7b0e614dbaea502d11ae46de1a49c72e",
+			"registry": "cnpmjs"
+		},
+		"enzyme-1.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.22-alpha.tgz",
+			"sha": "b409126f0281aa1d1f7871edcb45b6ef6f28c24d",
+			"registry": "cnpmjs"
+		},
+		"enzyme-1.2.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.17-alpha.tgz",
+			"sha": "4b92cd7b7e4e70c736dac3b8d0c0fdc5dc8e370d",
+			"registry": "cnpmjs"
+		},
+		"enzyme-1.2.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-1.2.16-alpha.tgz",
+			"sha": "4ce0a264387f39192c6faeb2783254959b8823e5",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.15.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.15.tgz",
+			"sha": "fc9a9695ba9f90cd50c4967e64a8c66ec96913d1",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.14.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.14.tgz",
+			"sha": "379c26205f6e0e272f3a51d6bbdd50071a9d03a6",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.13.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.13.tgz",
+			"sha": "4bbc5c81fa40c9fc7efee25c4a23cb37119a33ea",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.12.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.12.tgz",
+			"sha": "293bb07c1ef5932d37add3879e72e0f5bc614f3c",
+			"registry": "cnpmjs"
+		},
+		"enzyme-3.1.11.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enzyme/download/@types/enzyme-3.1.11.tgz",
+			"sha": "0a059d2fe2c686f024ada911d24473cdb2e13903",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833277989
+		}
+	},
+	"_rev": "2-e6e613404336a559",
+	"readme": "# Installation\r\n> `npm install --save @types/enzyme`\r\n\r\n# Summary\r\nThis package contains type definitions for Enzyme (https://github.com/airbnb/enzyme).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/enzyme\r\n\r\nAdditional Details\r\n * Last updated: Mon, 05 Nov 2018 23:22:10 GMT\r\n * Dependencies: react, cheerio\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Marian Palkus <https://github.com/MarianPalkus>, Cap3 <http://www.cap3.de>, Ivo Stratev <https://github.com/NoHomey>, jwbay <https://github.com/jwbay>, huhuanming <https://github.com/huhuanming>, MartynasZilinskas <https://github.com/MartynasZilinskas>, Torgeir Hovden <https://github.com/thovden>, Martin Hochel <https://github.com/hotell>."
+}

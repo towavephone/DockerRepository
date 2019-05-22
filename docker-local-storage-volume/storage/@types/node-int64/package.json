@@ -1,0 +1,689 @@
+{
+	"name": "@types/node-int64",
+	"versions": {
+		"0.4.29": {
+			"name": "@types/node-int64",
+			"version": "0.4.29",
+			"description": "TypeScript definitions for node-int64",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benno Dreissig",
+					"url": "https://github.com/x3cion",
+					"githubUsername": "x3cion"
+				},
+				{
+					"name": "Kevin Greene",
+					"url": "https://github.com/kevin-greene-ck",
+					"githubUsername": "kevin-greene-ck"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "c92d85f010316ebd62dcc49967e39211a5b838afbbc04f4bb52c92db5eb98439",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/node-int64@0.4.29",
+			"dist": {
+				"shasum": "8c7c16a7c1195ae4f8beaa903b0018ac66291d16",
+				"size": 1904,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.4.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/node-int64-0.4.29.tgz_1506466900277_0.21179129742085934"
+			},
+			"directories": {},
+			"publish_time": 1506466900342,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506466900342
+		},
+		"0.4.28": {
+			"name": "@types/node-int64",
+			"version": "0.4.28",
+			"description": "TypeScript definitions for node-int64 v0.4.0",
+			"license": "MIT",
+			"author": "Benno Dreissig <https://github.com/x3cion>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "030f51dc6669ce293ebf30754837ccda6cd0c254d5eabc39d9ef094aff0ac9e2",
+			"_id": "@types/node-int64@0.4.28",
+			"dist": {
+				"shasum": "41276dd272bd5f6d5115a5d688b8fd93d15c46bd",
+				"size": 1262,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.4.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.4.28.tgz_1474307814595_0.9065260174684227"
+			},
+			"directories": {},
+			"publish_time": 1474307814848,
+			"_cnpm_publish_time": 1474307814848,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/node-int64",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for node-int64 v0.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Benno Dreissig",
+				"email": "https://github.com/x3cion"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/node-int64@0.0.27",
+			"_shasum": "26d64eb2642c0afaecce65eb11014fbbe8b6eb60",
+			"_from": "output\\node-int64",
+			"_resolved": "file:output\\node-int64",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "26d64eb2642c0afaecce65eb11014fbbe8b6eb60",
+				"size": 1242,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.0.27.tgz_1468510295649_0.999336875975132"
+			},
+			"directories": {},
+			"publish_time": 1468510297981,
+			"_cnpm_publish_time": 1468510297981,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/node-int64",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for node-int64 v0.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Benno Dreissig",
+				"email": "https://github.com/x3cion"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/node-int64@0.0.26-alpha",
+			"_shasum": "80348e546e73fc196cc43767ef4dbb63f4dfbe63",
+			"_from": "output\\node-int64",
+			"_resolved": "file:output\\node-int64",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "80348e546e73fc196cc43767ef4dbb63f4dfbe63",
+				"size": 1244,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.0.26-alpha.tgz_1468011651801_0.9001852974761277"
+			},
+			"directories": {},
+			"publish_time": 1468011652311,
+			"_cnpm_publish_time": 1468011652311,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/node-int64",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for node-int64 v0.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Benno Dreissig",
+				"email": "https://github.com/x3cion"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/node-int64@0.0.25-alpha",
+			"_shasum": "963d56271c262ca9918157efe1f9bababc1fe83f",
+			"_from": "output\\node-int64",
+			"_resolved": "file:output\\node-int64",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "963d56271c262ca9918157efe1f9bababc1fe83f",
+				"size": 1245,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.0.25-alpha.tgz_1467593742529_0.49645600700750947"
+			},
+			"directories": {},
+			"publish_time": 1467593743051,
+			"_cnpm_publish_time": 1467593743051,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/node-int64",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for node-int64 v0.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Benno Dreissig",
+				"email": "https://github.com/x3cion"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.25-alpha"
+			},
+			"_id": "@types/node-int64@0.0.24-alpha",
+			"_shasum": "c86284b9ae86a6467a1af6de0a1f9840dcaf5541",
+			"_from": "output\\node-int64",
+			"_resolved": "file:output\\node-int64",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c86284b9ae86a6467a1af6de0a1f9840dcaf5541",
+				"size": 1247,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.0.24-alpha.tgz_1467428693361_0.1649354153778404"
+			},
+			"directories": {},
+			"publish_time": 1467428696731,
+			"_cnpm_publish_time": 1467428696731,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/node-int64",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for node-int64 v0.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Benno Dreissig",
+				"email": "https://github.com/x3cion"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/node-int64@0.0.23-alpha",
+			"_shasum": "6470fb98e40a87f8d551f1464061c97b73ec9fd3",
+			"_from": "output\\node-int64",
+			"_resolved": "file:output\\node-int64",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6470fb98e40a87f8d551f1464061c97b73ec9fd3",
+				"size": 1246,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.0.23-alpha.tgz_1467416107366_0.9657884333282709"
+			},
+			"directories": {},
+			"publish_time": 1467416109651,
+			"_cnpm_publish_time": 1467416109651,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/node-int64",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for node-int64 v0.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Benno Dreissig",
+				"email": "https://github.com/x3cion"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/node-int64@0.0.22-alpha",
+			"_shasum": "19b196ccb00bd0794b783af448fde04bcd6c9fe3",
+			"_from": "output\\node-int64",
+			"_resolved": "file:output\\node-int64",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "19b196ccb00bd0794b783af448fde04bcd6c9fe3",
+				"size": 1238,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.0.22-alpha.tgz_1467404015002_0.5744734085164964"
+			},
+			"directories": {},
+			"publish_time": 1467404015534,
+			"_cnpm_publish_time": 1467404015534,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/node-int64",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for node-int64 v0.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Benno Dreissig",
+				"email": "https://github.com/x3cion"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/node-int64@0.0.21-alpha",
+			"_shasum": "876d97325edf3c2041e6e7ef681aa601de826df0",
+			"_from": "output\\node-int64",
+			"_resolved": "file:output\\node-int64",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "876d97325edf3c2041e6e7ef681aa601de826df0",
+				"size": 1216,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.0.21-alpha.tgz_1464154441259_0.924349055159837"
+			},
+			"directories": {},
+			"publish_time": 1464154441705,
+			"_cnpm_publish_time": 1464154441705,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/node-int64",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for node-int64 v0.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Benno Dreissig",
+				"email": "https://github.com/x3cion"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/node-int64@0.0.20-alpha",
+			"_shasum": "5a7027f1e0564eb34ab61b1802189b224467a032",
+			"_from": "output\\node-int64",
+			"_resolved": "file:output\\node-int64",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5a7027f1e0564eb34ab61b1802189b224467a032",
+				"size": 1215,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.0.20-alpha.tgz_1463775437597_0.5899156001396477"
+			},
+			"directories": {},
+			"publish_time": 1463775439965,
+			"_cnpm_publish_time": 1463775439965,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/node-int64",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for node-int64 v0.4.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Benno Dreissig",
+				"email": "https://github.com/x3cion"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/node-int64@0.0.15-alpha",
+			"_shasum": "9da25293b00ae8cc70584920b905747ccbf4aee2",
+			"_from": "output\\node-int64",
+			"_resolved": "file:output\\node-int64",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9da25293b00ae8cc70584920b905747ccbf4aee2",
+				"size": 1224,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.0.15-alpha.tgz_1463694640733_0.4595519306603819"
+			},
+			"directories": {},
+			"publish_time": 1463694641434,
+			"_cnpm_publish_time": 1463694641434,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/node-int64",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for node-int64 v0.4.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Benno Dreissig",
+				"email": "https://github.com/x3cion"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/node-int64@0.0.14-alpha",
+			"_shasum": "ac276225b324f716bdc68f9d1f6ecf0efe56d3f7",
+			"_from": "output\\node-int64",
+			"_resolved": "file:output\\node-int64",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ac276225b324f716bdc68f9d1f6ecf0efe56d3f7",
+				"size": 1212,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-int64-0.0.14-alpha.tgz_1463509637990_0.3329507680609822"
+			},
+			"directories": {},
+			"publish_time": 1463509642578,
+			"_cnpm_publish_time": 1463509642578,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.4.29",
+		"ts2.0": "0.4.29",
+		"ts2.1": "0.4.29",
+		"ts2.2": "0.4.29",
+		"ts2.3": "0.4.29",
+		"ts2.4": "0.4.29",
+		"ts2.5": "0.4.29",
+		"ts2.6": "0.4.29",
+		"ts2.7": "0.4.29",
+		"ts2.8": "0.4.29",
+		"ts2.9": "0.4.29",
+		"ts3.0": "0.4.29",
+		"ts3.1": "0.4.29",
+		"ts3.2": "0.4.29"
+	},
+	"time": {
+		"modified": "2018-10-10T20:22:41.000Z",
+		"created": "2016-05-17T18:27:22.578Z",
+		"0.4.29": "2017-09-26T23:01:40.342Z",
+		"0.4.28": "2016-09-19T17:56:54.848Z",
+		"0.0.27": "2016-07-14T15:31:37.981Z",
+		"0.0.26-alpha": "2016-07-08T21:00:52.311Z",
+		"0.0.25-alpha": "2016-07-04T00:55:43.051Z",
+		"0.0.24-alpha": "2016-07-02T03:04:56.731Z",
+		"0.0.23-alpha": "2016-07-01T23:35:09.651Z",
+		"0.0.22-alpha": "2016-07-01T20:13:35.534Z",
+		"0.0.21-alpha": "2016-05-25T05:34:01.705Z",
+		"0.0.20-alpha": "2016-05-20T20:17:19.965Z",
+		"0.0.15-alpha": "2016-05-19T21:50:41.434Z",
+		"0.0.14-alpha": "2016-05-17T18:27:22.578Z"
+	},
+	"_distfiles": {
+		"node-int64-0.4.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.4.29.tgz",
+			"sha": "8c7c16a7c1195ae4f8beaa903b0018ac66291d16",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.4.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.4.28.tgz",
+			"sha": "41276dd272bd5f6d5115a5d688b8fd93d15c46bd",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.27.tgz",
+			"sha": "26d64eb2642c0afaecce65eb11014fbbe8b6eb60",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.26-alpha.tgz",
+			"sha": "80348e546e73fc196cc43767ef4dbb63f4dfbe63",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.25-alpha.tgz",
+			"sha": "963d56271c262ca9918157efe1f9bababc1fe83f",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.24-alpha.tgz",
+			"sha": "c86284b9ae86a6467a1af6de0a1f9840dcaf5541",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.23-alpha.tgz",
+			"sha": "6470fb98e40a87f8d551f1464061c97b73ec9fd3",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.22-alpha.tgz",
+			"sha": "19b196ccb00bd0794b783af448fde04bcd6c9fe3",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.21-alpha.tgz",
+			"sha": "876d97325edf3c2041e6e7ef681aa601de826df0",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.20-alpha.tgz",
+			"sha": "5a7027f1e0564eb34ab61b1802189b224467a032",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.15-alpha.tgz",
+			"sha": "9da25293b00ae8cc70584920b905747ccbf4aee2",
+			"registry": "cnpmjs"
+		},
+		"node-int64-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-int64/download/@types/node-int64-0.0.14-alpha.tgz",
+			"sha": "ac276225b324f716bdc68f9d1f6ecf0efe56d3f7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3cfa-Qo7znx6HY3FzNjcKQdmj4Ffibhk\"",
+			"fetched": 1541833485739
+		}
+	},
+	"_rev": "2-1632e0bd185f005d",
+	"readme": "# Installation\r\n> `npm install --save @types/node-int64`\r\n\r\n# Summary\r\nThis package contains type definitions for node-int64 (https://github.com/broofa/node-int64).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node-int64\r\n\r\nAdditional Details\r\n * Last updated: Tue, 26 Sep 2017 23:00:43 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Benno Dreissig <https://github.com/x3cion>, Kevin Greene <https://github.com/kevin-greene-ck>."
+}

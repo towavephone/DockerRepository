@@ -1,0 +1,736 @@
+{
+	"name": "@types/debug",
+	"versions": {
+		"0.0.30": {
+			"name": "@types/debug",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for debug",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Seon-Wook Park",
+					"url": "https://github.com/swook"
+				},
+				{
+					"name": "Gal Talmor",
+					"url": "https://github.com/galtalmor"
+				},
+				{
+					"name": "John McLaughlin",
+					"url": "https://github.com/zamb3zi"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e5fc8bd543d6bbe41b682a0483c1bfb3483430ae9c0962e676265d7be4678f8c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/debug@0.0.30",
+			"dist": {
+				"shasum": "dc1e40f7af3b9c815013a7860e6252f6352a84df",
+				"size": 1750,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/debug-0.0.30.tgz_1501768704909_0.5779296571854502"
+			},
+			"directories": {},
+			"publish_time": 1501768705904,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501768705904
+		},
+		"0.0.29": {
+			"name": "@types/debug",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for debug",
+			"license": "MIT",
+			"author": "Seon-Wook Park <https://github.com/swook>, Gal Talmor <https://github.com/galtalmor>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "55d9e340fe9e7b3cc8e3e5007075dd2717e3ec4c32a656da363509f2a4c5b052",
+			"_id": "@types/debug@0.0.29",
+			"dist": {
+				"shasum": "a1e514adfbd92f03a224ba54d693111dbf1f3754",
+				"size": 1186,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.29.tgz_1474302968127_0.3283960362896323"
+			},
+			"directories": {},
+			"publish_time": 1474302970009,
+			"_cnpm_publish_time": 1474302970009,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/debug",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for debug",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Seon-Wook Park",
+				"email": "https://github.com/swook"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/debug@0.0.28",
+			"_shasum": "cf69eca89f1bb433277068d46dfc0c05768180f5",
+			"_from": "output\\debug",
+			"_resolved": "file:output\\debug",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cf69eca89f1bb433277068d46dfc0c05768180f5",
+				"size": 1164,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.28.tgz_1468506228553_0.8791943525429815"
+			},
+			"directories": {},
+			"publish_time": 1468506231040,
+			"_cnpm_publish_time": 1468506231040,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/debug",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for debug",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Seon-Wook Park",
+				"email": "https://github.com/swook"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/debug@0.0.27-alpha",
+			"_shasum": "4f2cc45fd29c1cd3ee980831ce2a55c68cf15721",
+			"_from": "output\\debug",
+			"_resolved": "file:output\\debug",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4f2cc45fd29c1cd3ee980831ce2a55c68cf15721",
+				"size": 1168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.27-alpha.tgz_1468007774220_0.20868422114290297"
+			},
+			"directories": {},
+			"publish_time": 1468007775637,
+			"_cnpm_publish_time": 1468007775637,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/debug",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for debug",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Seon-Wook Park",
+				"email": "https://github.com/swook"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/debug@0.0.26-alpha",
+			"_shasum": "53c4cf0179f8d2eb0c63fca9bb10f6b8cc3bed51",
+			"_from": "output\\debug",
+			"_resolved": "file:output\\debug",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "53c4cf0179f8d2eb0c63fca9bb10f6b8cc3bed51",
+				"size": 1166,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.26-alpha.tgz_1467590617139_0.0193377451505512"
+			},
+			"directories": {},
+			"publish_time": 1467590617707,
+			"_cnpm_publish_time": 1467590617707,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/debug",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for debug",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Seon-Wook Park",
+				"email": "https://github.com/swook"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/debug@0.0.25-alpha",
+			"_shasum": "b853826d12495402f87956b46b62b6802135c388",
+			"_from": "output\\debug",
+			"_resolved": "file:output\\debug",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b853826d12495402f87956b46b62b6802135c388",
+				"size": 1168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.25-alpha.tgz_1467425526169_0.09986915229819715"
+			},
+			"directories": {},
+			"publish_time": 1467425529567,
+			"_cnpm_publish_time": 1467425529567,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/debug",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for debug",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Seon-Wook Park",
+				"email": "https://github.com/swook"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/debug@0.0.24-alpha",
+			"_shasum": "bf2b2d23323eedad0c4ddff6990e6bad121d7999",
+			"_from": "output\\debug",
+			"_resolved": "file:output\\debug",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bf2b2d23323eedad0c4ddff6990e6bad121d7999",
+				"size": 1166,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.24-alpha.tgz_1467412628752_0.7159393127076328"
+			},
+			"directories": {},
+			"publish_time": 1467412632155,
+			"_cnpm_publish_time": 1467412632155,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/debug",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for debug",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Seon-Wook Park",
+				"email": "https://github.com/swook"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/debug@0.0.23-alpha",
+			"_shasum": "10abf34d15bc7886b2aa809129d042ca059b5f3d",
+			"_from": "output\\debug",
+			"_resolved": "file:output\\debug",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "10abf34d15bc7886b2aa809129d042ca059b5f3d",
+				"size": 1156,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.23-alpha.tgz_1467400496951_0.42369182291440666"
+			},
+			"directories": {},
+			"publish_time": 1467400499353,
+			"_cnpm_publish_time": 1467400499353,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/debug",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for debug",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Seon-Wook Park",
+				"email": "https://github.com/swook"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/debug@0.0.22-alpha",
+			"_shasum": "5ef49123532f5f3203646e9f3aa2f5380f1f148c",
+			"_from": "output\\debug",
+			"_resolved": "file:output\\debug",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5ef49123532f5f3203646e9f3aa2f5380f1f148c",
+				"size": 1163,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.22-alpha.tgz_1464151456543_0.323524855542928"
+			},
+			"directories": {},
+			"publish_time": 1464151459199,
+			"_cnpm_publish_time": 1464151459199,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/debug",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for debug",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Seon-Wook Park",
+				"email": "https://github.com/swook"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/debug@0.0.21-alpha",
+			"_shasum": "30bf4de023144f3c36ce0af1de21be071d07612e",
+			"_from": "output\\debug",
+			"_resolved": "file:output\\debug",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "30bf4de023144f3c36ce0af1de21be071d07612e",
+				"size": 1158,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.21-alpha.tgz_1463772351509_0.9298933348618448"
+			},
+			"directories": {},
+			"publish_time": 1463772351902,
+			"_cnpm_publish_time": 1463772351902,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/debug",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for debug from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Seon-Wook Park",
+				"email": "https://github.com/swook"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/debug@0.0.16-alpha",
+			"_shasum": "76ad31efdb059625afa3bb9e36f2cc16992b5026",
+			"_from": "output\\debug",
+			"_resolved": "file:output\\debug",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "76ad31efdb059625afa3bb9e36f2cc16992b5026",
+				"size": 1168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.16-alpha.tgz_1463690305819_0.30377786653116345"
+			},
+			"directories": {},
+			"publish_time": 1463690308226,
+			"_cnpm_publish_time": 1463690308226,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/debug",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for debug from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Seon-Wook Park",
+				"email": "https://github.com/swook"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/debug@0.0.15-alpha",
+			"_shasum": "f228a8605bd63b030950f4e84a33da246facc9b1",
+			"_from": "output\\debug",
+			"_resolved": "file:output\\debug",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f228a8605bd63b030950f4e84a33da246facc9b1",
+				"size": 1157,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/debug-0.0.15-alpha.tgz_1463460280447_0.7932273896876723"
+			},
+			"directories": {},
+			"publish_time": 1463460280986,
+			"_cnpm_publish_time": 1463460280986,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/debug",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for debug",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Seon-Wook Park",
+					"url": "https://github.com/swook",
+					"githubUsername": "swook"
+				},
+				{
+					"name": "Gal Talmor",
+					"url": "https://github.com/galtalmor",
+					"githubUsername": "galtalmor"
+				},
+				{
+					"name": "John McLaughlin",
+					"url": "https://github.com/zamb3zi",
+					"githubUsername": "zamb3zi"
+				},
+				{
+					"name": "Brasten Sager",
+					"url": "https://github.com/brasten",
+					"githubUsername": "brasten"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b8c338a3a9723343255b937e1ffe67b076c6180cd50506dd43195ff710e8ca50",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/debug@0.0.31",
+			"dist": {
+				"shasum": "bac8d8aab6a823e91deb7f79083b2a35fa638f33",
+				"size": 1818,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/debug_0.0.31_1538675211181_0.7010584909870949"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538675211286,
+			"_cnpm_publish_time": 1538675211286
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.31",
+		"ts2.0": "0.0.31",
+		"ts2.1": "0.0.31",
+		"ts2.2": "0.0.31",
+		"ts2.3": "0.0.31",
+		"ts2.4": "0.0.31",
+		"ts2.5": "0.0.31",
+		"ts2.6": "0.0.31",
+		"ts2.7": "0.0.31",
+		"ts2.8": "0.0.31",
+		"ts2.9": "0.0.31",
+		"ts3.0": "0.0.31",
+		"ts3.1": "0.0.31",
+		"ts3.2": "0.0.31"
+	},
+	"time": {
+		"modified": "2018-10-04T17:47:09.000Z",
+		"created": "2016-05-17T04:44:40.986Z",
+		"0.0.31": "2018-10-04T17:46:51.286Z",
+		"0.0.30": "2017-08-03T13:58:25.904Z",
+		"0.0.29": "2016-09-19T16:36:10.009Z",
+		"0.0.28": "2016-07-14T14:23:51.040Z",
+		"0.0.27-alpha": "2016-07-08T19:56:15.637Z",
+		"0.0.26-alpha": "2016-07-04T00:03:37.707Z",
+		"0.0.25-alpha": "2016-07-02T02:12:09.567Z",
+		"0.0.24-alpha": "2016-07-01T22:37:12.155Z",
+		"0.0.23-alpha": "2016-07-01T19:14:59.353Z",
+		"0.0.22-alpha": "2016-05-25T04:44:19.199Z",
+		"0.0.21-alpha": "2016-05-20T19:25:51.902Z",
+		"0.0.16-alpha": "2016-05-19T20:38:28.226Z",
+		"0.0.15-alpha": "2016-05-17T04:44:40.986Z"
+	},
+	"_distfiles": {
+		"debug-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.30.tgz",
+			"sha": "dc1e40f7af3b9c815013a7860e6252f6352a84df",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.29.tgz",
+			"sha": "a1e514adfbd92f03a224ba54d693111dbf1f3754",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.28.tgz",
+			"sha": "cf69eca89f1bb433277068d46dfc0c05768180f5",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.27-alpha.tgz",
+			"sha": "4f2cc45fd29c1cd3ee980831ce2a55c68cf15721",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.26-alpha.tgz",
+			"sha": "53c4cf0179f8d2eb0c63fca9bb10f6b8cc3bed51",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.25-alpha.tgz",
+			"sha": "b853826d12495402f87956b46b62b6802135c388",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.24-alpha.tgz",
+			"sha": "bf2b2d23323eedad0c4ddff6990e6bad121d7999",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.23-alpha.tgz",
+			"sha": "10abf34d15bc7886b2aa809129d042ca059b5f3d",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.22-alpha.tgz",
+			"sha": "5ef49123532f5f3203646e9f3aa2f5380f1f148c",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.21-alpha.tgz",
+			"sha": "30bf4de023144f3c36ce0af1de21be071d07612e",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.16-alpha.tgz",
+			"sha": "76ad31efdb059625afa3bb9e36f2cc16992b5026",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.15-alpha.tgz",
+			"sha": "f228a8605bd63b030950f4e84a33da246facc9b1",
+			"registry": "cnpmjs"
+		},
+		"debug-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/debug/download/@types/debug-0.0.31.tgz",
+			"sha": "bac8d8aab6a823e91deb7f79083b2a35fa638f33",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3f8f-3qp0hTgRHpj3kB9zAq1JvWHPYIE\"",
+			"fetched": 1541833454146
+		}
+	},
+	"_rev": "2-b05d532bd99c414a",
+	"readme": "# Installation\r\n> `npm install --save @types/debug`\r\n\r\n# Summary\r\nThis package contains type definitions for debug (https://github.com/visionmedia/debug).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/debug\r\n\r\nAdditional Details\r\n * Last updated: Thu, 04 Oct 2018 17:46:11 GMT\r\n * Dependencies: none\r\n * Global values: debug\r\n\r\n# Credits\r\nThese definitions were written by Seon-Wook Park <https://github.com/swook>, Gal Talmor <https://github.com/galtalmor>, John McLaughlin <https://github.com/zamb3zi>, Brasten Sager <https://github.com/brasten>."
+}

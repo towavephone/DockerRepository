@@ -1,0 +1,1985 @@
+{
+	"name": "@types/boom",
+	"versions": {
+		"4.3.10": {
+			"name": "@types/boom",
+			"version": "4.3.10",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "https://github.com/rogatty",
+					"githubUsername": "rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "https://github.com/AJamesPhillips",
+					"githubUsername": "AJamesPhillips"
+				},
+				{
+					"name": "Jinesh Shah",
+					"url": "https://github.com/jineshshah36",
+					"githubUsername": "jineshshah36"
+				},
+				{
+					"name": "Daniel Machado",
+					"url": "https://github.com/danielmachado",
+					"githubUsername": "danielmachado"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "3d0e951c613868546420d373f89554e26105e62a67df34b77b6075e67b8d54c6",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/boom@4.3.10",
+			"dist": {
+				"shasum": "39dad8c0614c26b91ef016a57d7eee4ffe4f8a25",
+				"size": 4296,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom_4.3.10_1520550531298_0.12058031094803834"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520550531347,
+			"_cnpm_publish_time": 1520550531347
+		},
+		"7.2.0": {
+			"name": "@types/boom",
+			"version": "7.2.0",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "https://github.com/rogatty",
+					"githubUsername": "rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "https://github.com/AJamesPhillips",
+					"githubUsername": "AJamesPhillips"
+				},
+				{
+					"name": "Jinesh Shah",
+					"url": "https://github.com/jineshshah36",
+					"githubUsername": "jineshshah36"
+				},
+				{
+					"name": "Timon van Spronsen",
+					"url": "https://github.com/TimonVS",
+					"githubUsername": "TimonVS"
+				},
+				{
+					"name": "Daniel Machado",
+					"url": "https://github.com/danielmachado",
+					"githubUsername": "danielmachado"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "78a84d9d521b8d99e15f3d5bf34e8ad449276537939d75e27d3cdfb8f826b51a",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/boom@7.2.0",
+			"dist": {
+				"shasum": "19c36cbb5811a7493f0f2e37f31d42b28df1abc1",
+				"size": 4535,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-7.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom_7.2.0_1520550523448_0.16667565334638623"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520550523499,
+			"_cnpm_publish_time": 1520550523499
+		},
+		"3.2.2": {
+			"name": "@types/boom",
+			"version": "3.2.2",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "https://github.com/rogatty",
+					"githubUsername": "rogatty"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "2e414f6286c378ae808b7b09c88e20330a1bfe79f69f7b1d2fb13f525c4babaf",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/boom@3.2.2",
+			"dist": {
+				"shasum": "6773bb1bbfec111f5ea683874b8d932157d58885",
+				"size": 1988,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-3.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom_3.2.2_1520543934657_0.90643016046308"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520543934725,
+			"_cnpm_publish_time": 1520543934725
+		},
+		"7.1.1": {
+			"name": "@types/boom",
+			"version": "7.1.1",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "https://github.com/rogatty",
+					"githubUsername": "rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "https://github.com/AJamesPhillips",
+					"githubUsername": "AJamesPhillips"
+				},
+				{
+					"name": "Jinesh Shah",
+					"url": "https://github.com/jineshshah36",
+					"githubUsername": "jineshshah36"
+				},
+				{
+					"name": "Timon van Spronsen",
+					"url": "https://github.com/TimonVS",
+					"githubUsername": "TimonVS"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "ad6440b1ea9194dd529e146a960502a0b2b47277485bdbe8229dcf8a650a97e3",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/boom@7.1.1",
+			"dist": {
+				"shasum": "2cb2d59600bf67a341d962921cbf2943f758ff6e",
+				"size": 4468,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-7.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom-7.1.1.tgz_1516224936716_0.41246691858395934"
+			},
+			"directories": {},
+			"publish_time": 1516224936841,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1516224936841
+		},
+		"4.3.9": {
+			"name": "@types/boom",
+			"version": "4.3.9",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "https://github.com/rogatty",
+					"githubUsername": "rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "https://github.com/AJamesPhillips",
+					"githubUsername": "AJamesPhillips"
+				},
+				{
+					"name": "Jinesh Shah",
+					"url": "https://github.com/jineshshah36",
+					"githubUsername": "jineshshah36"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "434db06a596556386ef7cd948d4ea690546538e23a0c26b40d0b758a17c88f9e",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/boom@4.3.9",
+			"dist": {
+				"shasum": "6f9adc1074e81cbf01b8d1ed5878aa1ee89bb22d",
+				"size": 4236,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom-4.3.9.tgz_1515003990992_0.20962767279706895"
+			},
+			"directories": {},
+			"publish_time": 1515003991056,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515003991056
+		},
+		"7.1.0": {
+			"name": "@types/boom",
+			"version": "7.1.0",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "https://github.com/rogatty",
+					"githubUsername": "rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "https://github.com/AJamesPhillips",
+					"githubUsername": "AJamesPhillips"
+				},
+				{
+					"name": "Jinesh Shah",
+					"url": "https://github.com/jineshshah36",
+					"githubUsername": "jineshshah36"
+				},
+				{
+					"name": "Timon van Spronsen",
+					"url": "https://github.com/TimonVS",
+					"githubUsername": "TimonVS"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "5519b7a7e30fa327a316cec7477430d03d68ea37edd12fa020f3ed38e18494d5",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/boom@7.1.0",
+			"dist": {
+				"shasum": "0abcfd71d2ece395f23006c894f41e7a57cd3cd0",
+				"size": 4465,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-7.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom-7.1.0.tgz_1515003989448_0.2560416664928198"
+			},
+			"directories": {},
+			"publish_time": 1515003989517,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515003989517
+		},
+		"4.3.8": {
+			"name": "@types/boom",
+			"version": "4.3.8",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "https://github.com/rogatty",
+					"githubUsername": "rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "https://github.com/AJamesPhillips",
+					"githubUsername": "AJamesPhillips"
+				},
+				{
+					"name": "Jinesh Shah",
+					"url": "https://github.com/jineshshah36",
+					"githubUsername": "jineshshah36"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "adde4a2d1d62399f3f9760f7fab0253ccd70ad4b8e030e1db06815fec316240a",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/boom@4.3.8",
+			"dist": {
+				"shasum": "73acac4aa33d78b030a7797f4a74b4dfb058d418",
+				"size": 4216,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom-4.3.8.tgz_1510179406441_0.4762298371642828"
+			},
+			"directories": {},
+			"publish_time": 1510179406511,
+			"_cnpm_publish_time": 1510179406511,
+			"_hasShrinkwrap": false
+		},
+		"4.3.7": {
+			"name": "@types/boom",
+			"version": "4.3.7",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "https://github.com/rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "https://github.com/AJamesPhillips"
+				},
+				{
+					"name": "Jinesh Shah",
+					"url": "https://github.com/jineshshah36"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "c63c82084c1fc754fc2cda1c239b84e28b45886a77a3f8c4ed9ca9fa9f96d5de",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/boom@4.3.7",
+			"dist": {
+				"shasum": "2771d7b1fd7df70c6860ed30ec6752feaca9f3de",
+				"size": 4206,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom-4.3.7.tgz_1503352170394_0.12153612030670047"
+			},
+			"directories": {},
+			"publish_time": 1503352170592,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352170592
+		},
+		"3.2.1": {
+			"name": "@types/boom",
+			"version": "3.2.1",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "https://github.com/rogatty"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "9cf4947660c17be54cf70648617f3cfe6e7111f40586cf16b13f2dd6625fa3a6",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/boom@3.2.1",
+			"dist": {
+				"shasum": "e201c3b6207ab3e207233932ce5fdc1dcd8d5eb3",
+				"size": 1967,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-3.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom-3.2.1.tgz_1503352102813_0.7198525050189346"
+			},
+			"directories": {},
+			"publish_time": 1503352102890,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352102890
+		},
+		"4.3.6": {
+			"name": "@types/boom",
+			"version": "4.3.6",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "http://github.com/rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "http://github.com/AJamesPhillips"
+				},
+				{
+					"name": "Jinesh Shah",
+					"url": "http://github.com/jineshshah36"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "38373c8a056e78bc47a5ac170bd8b0f86e70234c38b6175c83a505c4270110ae",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/boom@4.3.6",
+			"dist": {
+				"shasum": "2754c710eb16fe1ffa27cf63ac647bc465eef0a6",
+				"size": 4218,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom-4.3.6.tgz_1501596327650_0.05529726669192314"
+			},
+			"directories": {},
+			"publish_time": 1501596328563,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501596328563
+		},
+		"4.3.5": {
+			"name": "@types/boom",
+			"version": "4.3.5",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "http://github.com/rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "http://github.com/AJamesPhillips"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e7b264bf278372cdd0e61bd6ef92cee737ecae7c3851cd0e5dd18d20c008f968",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/boom@4.3.5",
+			"dist": {
+				"shasum": "9ccca31e08c989bce483bd76b2de798526c608f5",
+				"size": 4085,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom-4.3.5.tgz_1497019918700_0.016564996680244803"
+			},
+			"directories": {},
+			"publish_time": 1497019918858,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497019918858
+		},
+		"4.3.4": {
+			"name": "@types/boom",
+			"version": "4.3.4",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "http://github.com/rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "http://github.com/AJamesPhillips"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "25991f80d6cfb8e360be9d611bcd0824bee137d72e6391e5f3cff32482328d8f",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/boom@4.3.4",
+			"dist": {
+				"shasum": "0f5f52345594ff2408da5b42e79fac483138c6f9",
+				"size": 4051,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom-4.3.4.tgz_1496853651407_0.0871318366844207"
+			},
+			"directories": {},
+			"publish_time": 1496853651486,
+			"_cnpm_publish_time": 1496853651486,
+			"_hasShrinkwrap": false
+		},
+		"4.3.3": {
+			"name": "@types/boom",
+			"version": "4.3.3",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "http://github.com/rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "http://github.com/AJamesPhillips"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a8379703019226e048be2f212359f7104f6afe3e182ae0a2f2dd0e9b592c8c05",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/boom@4.3.3",
+			"dist": {
+				"shasum": "8dd00ba57f03d715c28d06d7d44b22e03f691ab2",
+				"size": 3951,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom-4.3.3.tgz_1496367299731_0.9935024371370673"
+			},
+			"directories": {},
+			"publish_time": 1496367299812,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496367299812
+		},
+		"4.3.2": {
+			"name": "@types/boom",
+			"version": "4.3.2",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "http://github.com/rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "http://github.com/AJamesPhillips"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "81f5cc83b44a6b70e46bc39ea55c94afb2a3370cd76353d7f3dfdea0a9c275ab",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/boom@4.3.2",
+			"dist": {
+				"shasum": "8f40fb142322958ff1bb520c2d8d20cf1dd3d468",
+				"size": 3943,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-4.3.2.tgz_1494886890240_0.7388994041830301"
+			},
+			"directories": {},
+			"publish_time": 1494886890471,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1494886890471
+		},
+		"4.3.1": {
+			"name": "@types/boom",
+			"version": "4.3.1",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "http://github.com/rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "http://github.com/AJamesPhillips"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2d2020d26056b22db078d6e55e1be54721175f50a89ad7a73d09b0b1c3dbcfe0",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/boom@4.3.1",
+			"dist": {
+				"shasum": "840c27e041106b1fc0b14e7244f4084fb3d7c558",
+				"size": 3977,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/boom-4.3.1.tgz_1492790450026_0.5771145515609533"
+			},
+			"directories": {},
+			"publish_time": 1492790451969,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492790451969
+		},
+		"4.3.0": {
+			"name": "@types/boom",
+			"version": "4.3.0",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "http://github.com/rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "http://github.com/AJamesPhillips"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "84e1347580f1832313134efc7dab6326afa719432748bf5269cee1088e69ca9d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/boom@4.3.0",
+			"dist": {
+				"shasum": "7a8d05c528a64e22eb8d6ca29d31a70d3884281c",
+				"size": 3193,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-4.3.0.tgz_1491939370845_0.05968960467725992"
+			},
+			"directories": {},
+			"publish_time": 1491939371106,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1491939371106
+		},
+		"3.2.0": {
+			"name": "@types/boom",
+			"version": "3.2.0",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "http://github.com/rogatty"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5369442756c1d57e9a00c94676d7d4a511487b2a76cfbf599759a038b9e1acdb",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/boom@3.2.0",
+			"dist": {
+				"shasum": "546d6a0d52ae61d86f67f839f5277a818ad88fbb",
+				"size": 1285,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-3.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-3.2.0.tgz_1491867600563_0.8305350535083562"
+			},
+			"directories": {},
+			"publish_time": 1491867600815,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1491867600815
+		},
+		"0.0.33": {
+			"name": "@types/boom",
+			"version": "0.0.33",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"author": "Igor Rogatty <http://github.com/rogatty>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5e7727c744fced2d97c1c63fc67a5484f35d3435d5a3d57f35680c00eab3319d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/boom@0.0.33",
+			"dist": {
+				"shasum": "5fffdd8a2f430d9e85e664bb1abaa3932b6a4295",
+				"size": 1465,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-0.0.33.tgz_1484699119697_0.03356117685325444"
+			},
+			"directories": {},
+			"publish_time": 1484699119917,
+			"_cnpm_publish_time": 1484699119917,
+			"_hasShrinkwrap": false
+		},
+		"0.0.32": {
+			"name": "@types/boom",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"author": "Igor Rogatty <http://github.com/rogatty>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "5efce1c1c4630bad41df8e84ebbe697a41eead6238eadde68adc7ae75c39139a",
+			"_id": "@types/boom@0.0.32",
+			"dist": {
+				"shasum": "5dfd349b4e7ebe2c73ca8d39ab05687dd403f9a1",
+				"size": 1468,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-0.0.32.tgz_1474302509454_0.23488768842071295"
+			},
+			"directories": {},
+			"publish_time": 1474302511223,
+			"_cnpm_publish_time": 1474302511223,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/boom",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"author": "Igor Rogatty <http://github.com/rogatty>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/boom@0.0.31",
+			"dist": {
+				"shasum": "46f514ee70a88c1635601b6a6ae4ad58830efb79",
+				"size": 1461,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-0.0.31.tgz_1472150145117_0.8003223189152777"
+			},
+			"directories": {},
+			"publish_time": 1472150146685,
+			"_cnpm_publish_time": 1472150146685,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/boom",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"author": "Igor Rogatty <http://github.com/rogatty>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/boom@0.0.30",
+			"dist": {
+				"shasum": "41078fe6f79aea5019d4581789c2603d1d59c73c",
+				"size": 1458,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/boom-0.0.30.tgz_1471620077773_0.16654165391810238"
+			},
+			"directories": {},
+			"publish_time": 1471620078968,
+			"_cnpm_publish_time": 1471620078968,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/boom",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"author": "Igor Rogatty <http://github.com/rogatty>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/boom@0.0.29",
+			"dist": {
+				"shasum": "4e5feb75939543c5912acfd1538d24da6cd98f35",
+				"size": 8704,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-0.0.29.tgz_1470152874415_0.4564452462363988"
+			},
+			"directories": {},
+			"publish_time": 1470152876445,
+			"_cnpm_publish_time": 1470152876445,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/boom",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for boom",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/boom@0.0.28",
+			"_shasum": "309fe16642ca73b4c94a1fe8d8e97dbf18edeb36",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "309fe16642ca73b4c94a1fe8d8e97dbf18edeb36",
+				"size": 1434,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/boom-0.0.28.tgz_1468505419930_0.8219536023680121"
+			},
+			"directories": {},
+			"publish_time": 1468505422141,
+			"_cnpm_publish_time": 1468505422141,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/boom",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for boom",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/boom@0.0.27-alpha",
+			"_shasum": "b379402936c48def678467bd225cb41d741863ba",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b379402936c48def678467bd225cb41d741863ba",
+				"size": 1437,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/boom-0.0.27-alpha.tgz_1468331983911_0.19492356851696968"
+			},
+			"directories": {},
+			"publish_time": 1468331987144,
+			"_cnpm_publish_time": 1468331987144,
+			"_hasShrinkwrap": false
+		},
+		"4.0.27-alpha": {
+			"name": "@types/boom",
+			"version": "4.0.27-alpha",
+			"description": "TypeScript definitions for boom",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/boom@4.0.27-alpha",
+			"_shasum": "8cecc52cb8b864aadf9a8c2c6a5d1012bbe5ce9c",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8cecc52cb8b864aadf9a8c2c6a5d1012bbe5ce9c",
+				"size": 1438,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-4.0.27-alpha.tgz_1468006825509_0.43858112138696015"
+			},
+			"directories": {},
+			"publish_time": 1468006828136,
+			"_cnpm_publish_time": 1468006828136,
+			"_hasShrinkwrap": false
+		},
+		"4.0.26-alpha": {
+			"name": "@types/boom",
+			"version": "4.0.26-alpha",
+			"description": "TypeScript definitions for boom",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/boom@4.0.26-alpha",
+			"_shasum": "6e9f7a77eca3cab4fbee33b37c36f3f1fbc51426",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6e9f7a77eca3cab4fbee33b37c36f3f1fbc51426",
+				"size": 1440,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/boom-4.0.26-alpha.tgz_1467589685180_0.2142867560032755"
+			},
+			"directories": {},
+			"publish_time": 1467589688631,
+			"_cnpm_publish_time": 1467589688631,
+			"_hasShrinkwrap": false
+		},
+		"4.0.25-alpha": {
+			"name": "@types/boom",
+			"version": "4.0.25-alpha",
+			"description": "TypeScript definitions for boom",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/boom@4.0.25-alpha",
+			"_shasum": "a35158c6383a8e0de46cb7d0cd855bb755cde7b4",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a35158c6383a8e0de46cb7d0cd855bb755cde7b4",
+				"size": 1440,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/boom-4.0.25-alpha.tgz_1467424891141_0.5059948456473649"
+			},
+			"directories": {},
+			"publish_time": 1467424894503,
+			"_cnpm_publish_time": 1467424894503,
+			"_hasShrinkwrap": false
+		},
+		"4.0.24-alpha": {
+			"name": "@types/boom",
+			"version": "4.0.24-alpha",
+			"description": "TypeScript definitions for boom",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha"
+			},
+			"_id": "@types/boom@4.0.24-alpha",
+			"_shasum": "d410a377ae81b3f27f23505967befa96d1737303",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d410a377ae81b3f27f23505967befa96d1737303",
+				"size": 1442,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-4.0.24-alpha.tgz_1467411492039_0.53753831400536"
+			},
+			"directories": {},
+			"publish_time": 1467411492611,
+			"_cnpm_publish_time": 1467411492611,
+			"_hasShrinkwrap": false
+		},
+		"4.0.23-alpha": {
+			"name": "@types/boom",
+			"version": "4.0.23-alpha",
+			"description": "TypeScript definitions for boom",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/boom@4.0.23-alpha",
+			"_shasum": "2913f972714ac8e07a41136dd48c056caff2b9f4",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2913f972714ac8e07a41136dd48c056caff2b9f4",
+				"size": 1439,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/boom-4.0.23-alpha.tgz_1467399388123_0.6861212896183133"
+			},
+			"directories": {},
+			"publish_time": 1467399390340,
+			"_cnpm_publish_time": 1467399390340,
+			"_hasShrinkwrap": false
+		},
+		"4.0.22-alpha": {
+			"name": "@types/boom",
+			"version": "4.0.22-alpha",
+			"description": "TypeScript definitions for boom",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/boom@4.0.22-alpha",
+			"_shasum": "5fd3a6ae387b0f54ddafb94842c6e1b611f9b659",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5fd3a6ae387b0f54ddafb94842c6e1b611f9b659",
+				"size": 1425,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/boom-4.0.22-alpha.tgz_1464150812053_0.1264347021933645"
+			},
+			"directories": {},
+			"publish_time": 1464150814602,
+			"_cnpm_publish_time": 1464150814602,
+			"_hasShrinkwrap": false
+		},
+		"4.0.21-alpha": {
+			"name": "@types/boom",
+			"version": "4.0.21-alpha",
+			"description": "TypeScript definitions for boom",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/boom@4.0.21-alpha",
+			"_shasum": "f23637f88f31b32215d90f2f8577b344adec1e68",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f23637f88f31b32215d90f2f8577b344adec1e68",
+				"size": 1424,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/boom-4.0.21-alpha.tgz_1463771698369_0.7538170679472387"
+			},
+			"directories": {},
+			"publish_time": 1463771700566,
+			"_cnpm_publish_time": 1463771700566,
+			"_hasShrinkwrap": false
+		},
+		"4.0.16-alpha": {
+			"name": "@types/boom",
+			"version": "4.0.16-alpha",
+			"description": "Type definitions for boom from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/boom@4.0.16-alpha",
+			"_shasum": "6c0c19b48ee873c4ba9811f188ca2d79122753ee",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6c0c19b48ee873c4ba9811f188ca2d79122753ee",
+				"size": 1434,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-4.0.16-alpha.tgz_1463689392517_0.7460127933882177"
+			},
+			"directories": {},
+			"publish_time": 1463689393294,
+			"_cnpm_publish_time": 1463689393294,
+			"_hasShrinkwrap": false
+		},
+		"4.0.15-alpha": {
+			"name": "@types/boom",
+			"version": "4.0.15-alpha",
+			"description": "Type definitions for boom from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Igor Rogatty",
+				"email": "http://github.com/rogatty"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/boom@4.0.15-alpha",
+			"_shasum": "61c677e73332bfe5fad0ab4f3a8134116603f591",
+			"_from": "output\\boom",
+			"_resolved": "file:output\\boom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "61c677e73332bfe5fad0ab4f3a8134116603f591",
+				"size": 1409,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/boom-4.0.15-alpha.tgz_1463459576978_0.6398754811380059"
+			},
+			"directories": {},
+			"publish_time": 1463459577642,
+			"_cnpm_publish_time": 1463459577642,
+			"_hasShrinkwrap": false
+		},
+		"7.2.1": {
+			"name": "@types/boom",
+			"version": "7.2.1",
+			"description": "TypeScript definitions for boom",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Igor Rogatty",
+					"url": "https://github.com/rogatty",
+					"githubUsername": "rogatty"
+				},
+				{
+					"name": "AJP",
+					"url": "https://github.com/AJamesPhillips",
+					"githubUsername": "AJamesPhillips"
+				},
+				{
+					"name": "Jinesh Shah",
+					"url": "https://github.com/jineshshah36",
+					"githubUsername": "jineshshah36"
+				},
+				{
+					"name": "Timon van Spronsen",
+					"url": "https://github.com/TimonVS",
+					"githubUsername": "TimonVS"
+				},
+				{
+					"name": "Daniel Machado",
+					"url": "https://github.com/danielmachado",
+					"githubUsername": "danielmachado"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "dc9549e12e19b1196d9aa4ddfacab51f2561257f370a44be56a9bb2ec507ee44",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/boom@7.2.1",
+			"dist": {
+				"shasum": "a21e21ba08cc49d17b26baef98e1a77ee4d6cdb0",
+				"size": 4552,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/boom/download/@types/boom-7.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/boom_7.2.1_1540236621451_0.5974689031943512"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1540236621646,
+			"_cnpm_publish_time": 1540236621646
+		}
+	},
+	"dist-tags": {
+		"latest": "7.2.1",
+		"ts2.0": "4.3.3",
+		"ts2.1": "4.3.3",
+		"ts2.2": "4.3.3",
+		"ts2.3": "4.3.7",
+		"ts2.4": "7.2.1",
+		"ts2.5": "7.2.1",
+		"ts2.6": "7.2.1",
+		"ts2.7": "7.2.1",
+		"ts2.8": "7.2.1",
+		"ts2.9": "7.2.1",
+		"ts3.0": "7.2.1",
+		"ts3.1": "7.2.1",
+		"ts3.2": "7.2.1"
+	},
+	"time": {
+		"modified": "2018-10-22T19:32:33.000Z",
+		"created": "2016-05-17T04:32:57.642Z",
+		"7.2.1": "2018-10-22T19:30:21.646Z",
+		"4.3.10": "2018-03-08T23:08:51.347Z",
+		"7.2.0": "2018-03-08T23:08:43.499Z",
+		"3.2.2": "2018-03-08T21:18:54.725Z",
+		"7.1.1": "2018-01-17T21:35:36.841Z",
+		"4.3.9": "2018-01-03T18:26:31.056Z",
+		"7.1.0": "2018-01-03T18:26:29.517Z",
+		"4.3.8": "2017-11-08T22:16:46.511Z",
+		"4.3.7": "2017-08-21T21:49:30.592Z",
+		"3.2.1": "2017-08-21T21:48:22.890Z",
+		"4.3.6": "2017-08-01T14:05:28.563Z",
+		"4.3.5": "2017-06-09T14:51:58.858Z",
+		"4.3.4": "2017-06-07T16:40:51.486Z",
+		"4.3.3": "2017-06-02T01:34:59.812Z",
+		"4.3.2": "2017-05-15T22:21:30.471Z",
+		"4.3.1": "2017-04-21T16:00:51.969Z",
+		"4.3.0": "2017-04-11T19:36:11.106Z",
+		"3.2.0": "2017-04-10T23:40:00.815Z",
+		"0.0.33": "2017-01-18T00:25:19.917Z",
+		"0.0.32": "2016-09-19T16:28:31.223Z",
+		"0.0.31": "2016-08-25T18:35:46.685Z",
+		"0.0.30": "2016-08-19T15:21:18.968Z",
+		"0.0.29": "2016-08-02T15:47:56.445Z",
+		"0.0.28": "2016-07-14T14:10:22.141Z",
+		"0.0.27-alpha": "2016-07-12T13:59:47.144Z",
+		"4.0.27-alpha": "2016-07-08T19:40:28.136Z",
+		"4.0.26-alpha": "2016-07-03T23:48:08.631Z",
+		"4.0.25-alpha": "2016-07-02T02:01:34.503Z",
+		"4.0.24-alpha": "2016-07-01T22:18:12.611Z",
+		"4.0.23-alpha": "2016-07-01T18:56:30.340Z",
+		"4.0.22-alpha": "2016-05-25T04:33:34.602Z",
+		"4.0.21-alpha": "2016-05-20T19:15:00.566Z",
+		"4.0.16-alpha": "2016-05-19T20:23:13.294Z",
+		"4.0.15-alpha": "2016-05-17T04:32:57.642Z"
+	},
+	"_distfiles": {
+		"boom-4.3.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.10.tgz",
+			"sha": "39dad8c0614c26b91ef016a57d7eee4ffe4f8a25",
+			"registry": "cnpmjs"
+		},
+		"boom-7.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-7.2.0.tgz",
+			"sha": "19c36cbb5811a7493f0f2e37f31d42b28df1abc1",
+			"registry": "cnpmjs"
+		},
+		"boom-3.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-3.2.2.tgz",
+			"sha": "6773bb1bbfec111f5ea683874b8d932157d58885",
+			"registry": "cnpmjs"
+		},
+		"boom-7.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-7.1.1.tgz",
+			"sha": "2cb2d59600bf67a341d962921cbf2943f758ff6e",
+			"registry": "cnpmjs"
+		},
+		"boom-4.3.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.9.tgz",
+			"sha": "6f9adc1074e81cbf01b8d1ed5878aa1ee89bb22d",
+			"registry": "cnpmjs"
+		},
+		"boom-7.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-7.1.0.tgz",
+			"sha": "0abcfd71d2ece395f23006c894f41e7a57cd3cd0",
+			"registry": "cnpmjs"
+		},
+		"boom-4.3.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.8.tgz",
+			"sha": "73acac4aa33d78b030a7797f4a74b4dfb058d418",
+			"registry": "cnpmjs"
+		},
+		"boom-4.3.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.7.tgz",
+			"sha": "2771d7b1fd7df70c6860ed30ec6752feaca9f3de",
+			"registry": "cnpmjs"
+		},
+		"boom-3.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-3.2.1.tgz",
+			"sha": "e201c3b6207ab3e207233932ce5fdc1dcd8d5eb3",
+			"registry": "cnpmjs"
+		},
+		"boom-4.3.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.6.tgz",
+			"sha": "2754c710eb16fe1ffa27cf63ac647bc465eef0a6",
+			"registry": "cnpmjs"
+		},
+		"boom-4.3.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.5.tgz",
+			"sha": "9ccca31e08c989bce483bd76b2de798526c608f5",
+			"registry": "cnpmjs"
+		},
+		"boom-4.3.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.4.tgz",
+			"sha": "0f5f52345594ff2408da5b42e79fac483138c6f9",
+			"registry": "cnpmjs"
+		},
+		"boom-4.3.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.3.tgz",
+			"sha": "8dd00ba57f03d715c28d06d7d44b22e03f691ab2",
+			"registry": "cnpmjs"
+		},
+		"boom-4.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.2.tgz",
+			"sha": "8f40fb142322958ff1bb520c2d8d20cf1dd3d468",
+			"registry": "cnpmjs"
+		},
+		"boom-4.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.1.tgz",
+			"sha": "840c27e041106b1fc0b14e7244f4084fb3d7c558",
+			"registry": "cnpmjs"
+		},
+		"boom-4.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.3.0.tgz",
+			"sha": "7a8d05c528a64e22eb8d6ca29d31a70d3884281c",
+			"registry": "cnpmjs"
+		},
+		"boom-3.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-3.2.0.tgz",
+			"sha": "546d6a0d52ae61d86f67f839f5277a818ad88fbb",
+			"registry": "cnpmjs"
+		},
+		"boom-0.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.33.tgz",
+			"sha": "5fffdd8a2f430d9e85e664bb1abaa3932b6a4295",
+			"registry": "cnpmjs"
+		},
+		"boom-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.32.tgz",
+			"sha": "5dfd349b4e7ebe2c73ca8d39ab05687dd403f9a1",
+			"registry": "cnpmjs"
+		},
+		"boom-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.31.tgz",
+			"sha": "46f514ee70a88c1635601b6a6ae4ad58830efb79",
+			"registry": "cnpmjs"
+		},
+		"boom-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.30.tgz",
+			"sha": "41078fe6f79aea5019d4581789c2603d1d59c73c",
+			"registry": "cnpmjs"
+		},
+		"boom-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.29.tgz",
+			"sha": "4e5feb75939543c5912acfd1538d24da6cd98f35",
+			"registry": "cnpmjs"
+		},
+		"boom-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.28.tgz",
+			"sha": "309fe16642ca73b4c94a1fe8d8e97dbf18edeb36",
+			"registry": "cnpmjs"
+		},
+		"boom-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-0.0.27-alpha.tgz",
+			"sha": "b379402936c48def678467bd225cb41d741863ba",
+			"registry": "cnpmjs"
+		},
+		"boom-4.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.27-alpha.tgz",
+			"sha": "8cecc52cb8b864aadf9a8c2c6a5d1012bbe5ce9c",
+			"registry": "cnpmjs"
+		},
+		"boom-4.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.26-alpha.tgz",
+			"sha": "6e9f7a77eca3cab4fbee33b37c36f3f1fbc51426",
+			"registry": "cnpmjs"
+		},
+		"boom-4.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.25-alpha.tgz",
+			"sha": "a35158c6383a8e0de46cb7d0cd855bb755cde7b4",
+			"registry": "cnpmjs"
+		},
+		"boom-4.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.24-alpha.tgz",
+			"sha": "d410a377ae81b3f27f23505967befa96d1737303",
+			"registry": "cnpmjs"
+		},
+		"boom-4.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.23-alpha.tgz",
+			"sha": "2913f972714ac8e07a41136dd48c056caff2b9f4",
+			"registry": "cnpmjs"
+		},
+		"boom-4.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.22-alpha.tgz",
+			"sha": "5fd3a6ae387b0f54ddafb94842c6e1b611f9b659",
+			"registry": "cnpmjs"
+		},
+		"boom-4.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.21-alpha.tgz",
+			"sha": "f23637f88f31b32215d90f2f8577b344adec1e68",
+			"registry": "cnpmjs"
+		},
+		"boom-4.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.16-alpha.tgz",
+			"sha": "6c0c19b48ee873c4ba9811f188ca2d79122753ee",
+			"registry": "cnpmjs"
+		},
+		"boom-4.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-4.0.15-alpha.tgz",
+			"sha": "61c677e73332bfe5fad0ab4f3a8134116603f591",
+			"registry": "cnpmjs"
+		},
+		"boom-7.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/boom/download/@types/boom-7.2.1.tgz",
+			"sha": "a21e21ba08cc49d17b26baef98e1a77ee4d6cdb0",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"9fd9-EiqoI+ulClw/krc5VQrm2A5wIEE\"",
+			"fetched": 1541833452719
+		}
+	},
+	"_rev": "2-f236e751178c77ca",
+	"readme": "# Installation\r\n> `npm install --save @types/boom`\r\n\r\n# Summary\r\nThis package contains type definitions for boom (https://github.com/hapijs/boom).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/boom\r\n\r\nAdditional Details\r\n * Last updated: Mon, 22 Oct 2018 19:29:27 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Igor Rogatty <https://github.com/rogatty>, AJP <https://github.com/AJamesPhillips>, Jinesh Shah <https://github.com/jineshshah36>, Timon van Spronsen <https://github.com/TimonVS>, Daniel Machado <https://github.com/danielmachado>."
+}

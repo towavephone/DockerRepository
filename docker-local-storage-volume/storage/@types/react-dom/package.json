@@ -1,0 +1,2345 @@
+{
+	"name": "@types/react-dom",
+	"versions": {
+		"16.0.6": {
+			"name": "@types/react-dom",
+			"version": "16.0.6",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Josh Rutherford",
+					"url": "https://github.com/theruther4d",
+					"githubUsername": "theruther4d"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "bfd0d035b09d34e3597e23b46fa5354548523162a1a5651f1d5d7bc118a0fc81",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-dom@16.0.6",
+			"dist": {
+				"shasum": "f1a65a4e7be8ed5d123f8b3b9eacc913e35a1a3c",
+				"size": 5210,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom_16.0.6_1528157133221_0.3553073221223997"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1528157133318,
+			"_cnpm_publish_time": 1528157133318
+		},
+		"16.0.5": {
+			"name": "@types/react-dom",
+			"version": "16.0.5",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Josh Rutherford",
+					"url": "https://github.com/theruther4d",
+					"githubUsername": "theruther4d"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "36ecf49aea372a07a48ba74dd97cd75e08ecf3648028ba5de4da9e271b81896d",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-dom@16.0.5",
+			"dist": {
+				"shasum": "a757457662e3819409229e8f86795ff37b371f96",
+				"size": 5208,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom_16.0.5_1523382602439_0.6069990350479224"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523382602517,
+			"_cnpm_publish_time": 1523382602517
+		},
+		"15.5.7": {
+			"name": "@types/react-dom",
+			"version": "15.5.7",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "^15"
+			},
+			"typesPublisherContentHash": "797b4d838eb60a48fd97b8a34498048b88e28af3b43ff414be6e21b0181db60b",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-dom@15.5.7",
+			"dist": {
+				"shasum": "a5c1c8b315e925d84d59db5ee88ca7e31c5030f9",
+				"size": 4832,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom_15.5.7_1518469132217_0.03221144747711513"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518469132280,
+			"_cnpm_publish_time": 1518469132280
+		},
+		"16.0.4": {
+			"name": "@types/react-dom",
+			"version": "16.0.4",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Josh Rutherford",
+					"url": "https://github.com/theruther4d",
+					"githubUsername": "theruther4d"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "3c0998732070abfd4d2da77805a959a683f4a18a07a861eb32037c55ffadd4b0",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-dom@16.0.4",
+			"dist": {
+				"shasum": "2e8fd45f5443780ed49bf2cdd9809e6091177a7d",
+				"size": 5186,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom_16.0.4_1518469109409_0.7727870216190846"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518469109462,
+			"_cnpm_publish_time": 1518469109462
+		},
+		"16.0.3": {
+			"name": "@types/react-dom",
+			"version": "16.0.3",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Josh Rutherford",
+					"url": "https://github.com/theruther4d",
+					"githubUsername": "theruther4d"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "a1ecd70c2ef3dbfad1349e2130eeab861b8b53a24ba36a0721a3bd23b9504aeb",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-dom@16.0.3",
+			"dist": {
+				"shasum": "8accad7eabdab4cca3e1a56f5ccb57de2da0ff64",
+				"size": 5193,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom-16.0.3.tgz_1510221550694_0.6488400294911116"
+			},
+			"directories": {},
+			"publish_time": 1510221550781,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510221550781
+		},
+		"16.0.2": {
+			"name": "@types/react-dom",
+			"version": "16.0.2",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Josh Rutherford",
+					"url": "https://github.com/theruther4d",
+					"githubUsername": "theruther4d"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "b48be27b62110c1c8cdb242a84728f4ca63499191894c602585adc5f0501882f",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-dom@16.0.2",
+			"dist": {
+				"shasum": "2da9de21fd83f0140b64794ad9c47930230aedae",
+				"size": 5195,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom-16.0.2.tgz_1508425636255_0.3538453681394458"
+			},
+			"directories": {},
+			"publish_time": 1508425636315,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508425636315
+		},
+		"16.0.1": {
+			"name": "@types/react-dom",
+			"version": "16.0.1",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "017784e8cdf5725411b88392581de0655386d03605f61af6fbd88520eeb3b4c2",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-dom@16.0.1",
+			"dist": {
+				"shasum": "de159d00dd70050000f462e8bcff0c08ef803dee",
+				"size": 5114,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom-16.0.1.tgz_1507314554437_0.48500648117624223"
+			},
+			"directories": {},
+			"publish_time": 1507314554581,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507314554581
+		},
+		"16.0.0": {
+			"name": "@types/react-dom",
+			"version": "16.0.0",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "701695d542233e2de31db141afe19e090a37f56ed1cc322c1a9acf1b38dab36e",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-dom@16.0.0",
+			"dist": {
+				"shasum": "7fac396cbd1cf44e112b957c8ef9c7ef401a90b3",
+				"size": 5017,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom-16.0.0.tgz_1507040560175_0.39767697360366583"
+			},
+			"directories": {},
+			"publish_time": 1507040561112,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507040561112
+		},
+		"15.5.6": {
+			"name": "@types/react-dom",
+			"version": "15.5.6",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "^15"
+			},
+			"typesPublisherContentHash": "7a85d1b1aaeb1c268eda6d83f797b9d30fb162e9708630ae805de696a3eb6827",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-dom@15.5.6",
+			"dist": {
+				"shasum": "7794ff7822882b59b899c30294e1b1e62e97757e",
+				"size": 4847,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom-15.5.6.tgz_1507040515307_0.056332001462578773"
+			},
+			"directories": {},
+			"publish_time": 1507040515420,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507040515420
+		},
+		"15.5.5": {
+			"name": "@types/react-dom",
+			"version": "15.5.5",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "25bef6709c9345972c603cdf35edbb97eccd1efbde530fda3e3dd1ced8713e50",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-dom@15.5.5",
+			"dist": {
+				"shasum": "6b117c7697b61fe74132bfe5c72bceb3319433b8",
+				"size": 4827,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom-15.5.5.tgz_1506466908470_0.6040131277404726"
+			},
+			"directories": {},
+			"publish_time": 1506466908529,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506466908529
+		},
+		"15.5.4": {
+			"name": "@types/react-dom",
+			"version": "15.5.4",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "7418f89a8f95d22644af6e021314fb2dbd647df30fc608dbf70d3a6b4b052b56",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-dom@15.5.4",
+			"dist": {
+				"shasum": "3f75ba86a2ce9a7d1d9e7d1ee3f186f3a9652d8f",
+				"size": 4615,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom-15.5.4.tgz_1503352890339_0.41425874806009233"
+			},
+			"directories": {},
+			"publish_time": 1503352890500,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352890500
+		},
+		"15.5.3": {
+			"name": "@types/react-dom",
+			"version": "15.5.3",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7a199f9d2991739bf397fc8da267cf2d1c99d121461477babefbc6981da82901",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-dom@15.5.3",
+			"dist": {
+				"shasum": "4f26d09c5a92bc76728051ab5ee7116617d72f39",
+				"size": 4624,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom-15.5.3.tgz_1502820715985_0.8302796289790422"
+			},
+			"directories": {},
+			"publish_time": 1502820716045,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502820716045
+		},
+		"15.5.2": {
+			"name": "@types/react-dom",
+			"version": "15.5.2",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "544cee2acb06e6d496a3611b44d117f8d680c5bb543987ff0ee7b2db669a389d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-dom@15.5.2",
+			"dist": {
+				"shasum": "f7203c75a1728812355f037ea112611d082555e6",
+				"size": 4684,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom-15.5.2.tgz_1501768815625_0.9753246619366109"
+			},
+			"directories": {},
+			"publish_time": 1501768815807,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501768815807
+		},
+		"15.5.1": {
+			"name": "@types/react-dom",
+			"version": "15.5.1",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e26d52bf300d57089374961d828af107c2d813bf94abc975b68ed8720daca408",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-dom@15.5.1",
+			"dist": {
+				"shasum": "f3c3e14c682785923c7d64583537df319442dec1",
+				"size": 4486,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom-15.5.1.tgz_1498239332195_0.19312917231582105"
+			},
+			"directories": {},
+			"publish_time": 1498239332303,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498239332303
+		},
+		"15.5.0": {
+			"name": "@types/react-dom",
+			"version": "15.5.0",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "960702efe448701815f2c8563e30c357a80c23d541018709d74453db04adeb21",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-dom@15.5.0",
+			"dist": {
+				"shasum": "7f4fb9613d4051141773242f7b6b5f1a46b34bd9",
+				"size": 4476,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-dom-15.5.0.tgz_1492540158473_0.46525457804091275"
+			},
+			"directories": {},
+			"publish_time": 1492540160420,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492540160420
+		},
+		"0.14.23": {
+			"name": "@types/react-dom",
+			"version": "0.14.23",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "0a3e9ebed61848be2f94bbeddfa2ac318587ee312f7c217d7c41276c94b40362",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-dom@0.14.23",
+			"dist": {
+				"shasum": "cecfcfad754b4c2765fe5d29b81b301889ad6c2e",
+				"size": 1577,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.23.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.23.tgz_1486500298410_0.08394796517677605"
+			},
+			"directories": {},
+			"publish_time": 1486500299990,
+			"_cnpm_publish_time": 1486500299990,
+			"_hasShrinkwrap": false
+		},
+		"0.14.22": {
+			"name": "@types/react-dom",
+			"version": "0.14.22",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "54698cfd48a29d48709658875de8eb8d8b153f01b733c780dcab48b9e97f2d04",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-dom@0.14.22",
+			"dist": {
+				"shasum": "a9a9d2c1461dda668a8bbaef8d62f6abc7d6b9bd",
+				"size": 1585,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.22.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.22.tgz_1485814492820_0.5476876413449645"
+			},
+			"directories": {},
+			"publish_time": 1485814493054,
+			"_cnpm_publish_time": 1485814493054,
+			"_hasShrinkwrap": false
+		},
+		"0.14.21": {
+			"name": "@types/react-dom",
+			"version": "0.14.21",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "0a3e9ebed61848be2f94bbeddfa2ac318587ee312f7c217d7c41276c94b40362",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-dom@0.14.21",
+			"dist": {
+				"shasum": "a97e82d85e6802c7bb8b527746c54013b209ce09",
+				"size": 1580,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.21.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.21.tgz_1485207265008_0.8842359182890505"
+			},
+			"directories": {},
+			"publish_time": 1485207266963,
+			"_cnpm_publish_time": 1485207266963,
+			"_hasShrinkwrap": false
+		},
+		"0.14.20": {
+			"name": "@types/react-dom",
+			"version": "0.14.20",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a4c875874e185f514c1891876811c587bafd4f7c225eb098f853dedd6c7dbe44",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/react-dom@0.14.20",
+			"dist": {
+				"shasum": "6e30d66148e78b29ef593fa91ba30d0175190604",
+				"size": 1543,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.20.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.20.tgz_1483056127733_0.5913550700061023"
+			},
+			"directories": {},
+			"publish_time": 1483056127949,
+			"_cnpm_publish_time": 1483056127949,
+			"_hasShrinkwrap": false
+		},
+		"0.14.19": {
+			"name": "@types/react-dom",
+			"version": "0.14.19",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "0706272ecdebbc18fcb2c46153747a4d6a00c9bf5ef75e1aa6edd09ae4281d91",
+			"_id": "@types/react-dom@0.14.19",
+			"dist": {
+				"shasum": "698a14335e32fb1bc61db65f5647c9668a7fc2eb",
+				"size": 1559,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.19.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.19.tgz_1479739699404_0.031492527574300766"
+			},
+			"directories": {},
+			"publish_time": 1479739701401,
+			"_cnpm_publish_time": 1479739701401,
+			"_hasShrinkwrap": false
+		},
+		"0.14.18": {
+			"name": "@types/react-dom",
+			"version": "0.14.18",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "2a6e9aab095621a192c3be426c755fd66ae188a81d225f16c7ba50f9562b384b",
+			"_id": "@types/react-dom@0.14.18",
+			"dist": {
+				"shasum": "af4fb4092f433667f5f094e762b32c294e0010dc",
+				"size": 1556,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.18.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.18.tgz_1476386416053_0.08307689242064953"
+			},
+			"directories": {},
+			"publish_time": 1476386416277,
+			"_cnpm_publish_time": 1476386416277,
+			"_hasShrinkwrap": false
+		},
+		"0.14.17": {
+			"name": "@types/react-dom",
+			"version": "0.14.17",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "98810b5828ba36d3526817944f4f174177c39737c2f7f6ee6e18f977fbd64b92",
+			"_id": "@types/react-dom@0.14.17",
+			"dist": {
+				"shasum": "d8b0dec27e873c218d9075856c6ca1c5db956d5d",
+				"size": 1586,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.17.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.17.tgz_1474308266287_0.8746887783054262"
+			},
+			"directories": {},
+			"publish_time": 1474308266514,
+			"_cnpm_publish_time": 1474308266514,
+			"_hasShrinkwrap": false
+		},
+		"0.14.16": {
+			"name": "@types/react-dom",
+			"version": "0.14.16",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-dom@0.14.16",
+			"dist": {
+				"shasum": "13a948c4ff40b6da1014e07a34c204238e461c6f",
+				"size": 1577,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.16.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.16.tgz_1472151292236_0.2212693092878908"
+			},
+			"directories": {},
+			"publish_time": 1472151294136,
+			"_cnpm_publish_time": 1472151294136,
+			"_hasShrinkwrap": false
+		},
+		"0.14.15": {
+			"name": "@types/react-dom",
+			"version": "0.14.15",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-dom@0.14.15",
+			"dist": {
+				"shasum": "2ea7eb224d132b50c2ecd9d0996446f739cbb380",
+				"size": 1576,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.15.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.15.tgz_1471621117056_0.2314499889034778"
+			},
+			"directories": {},
+			"publish_time": 1471621118302,
+			"_cnpm_publish_time": 1471621118302,
+			"_hasShrinkwrap": false
+		},
+		"0.14.14": {
+			"name": "@types/react-dom",
+			"version": "0.14.14",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-dom@0.14.14",
+			"dist": {
+				"shasum": "7371f5e7c60709647b5aadaa8865d3cadd9b940b",
+				"size": 10240,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.14.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.14.tgz_1469481537881_0.8048389949835837"
+			},
+			"directories": {},
+			"publish_time": 1469481540192,
+			"_cnpm_publish_time": 1469481540192,
+			"_hasShrinkwrap": false
+		},
+		"0.14.13": {
+			"name": "@types/react-dom",
+			"version": "0.14.13",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"_id": "@types/react-dom@0.14.13",
+			"_shasum": "62b4e9888498776945aed8533252ed8042a2105e",
+			"_from": "output\\react-dom",
+			"_resolved": "file:output\\react-dom",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "62b4e9888498776945aed8533252ed8042a2105e",
+				"size": 1543,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.13.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.13.tgz_1468511433350_0.35502577968873084"
+			},
+			"directories": {},
+			"publish_time": 1468511433831,
+			"_cnpm_publish_time": 1468511433831,
+			"_hasShrinkwrap": false
+		},
+		"0.14.12-alpha": {
+			"name": "@types/react-dom",
+			"version": "0.14.12-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.26-alpha"
+			},
+			"_id": "@types/react-dom@0.14.12-alpha",
+			"_shasum": "dcd5a58192e7e3f57dca36ec80d4a8e78f9760c9",
+			"_from": "output\\react-dom",
+			"_resolved": "file:output\\react-dom",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dcd5a58192e7e3f57dca36ec80d4a8e78f9760c9",
+				"size": 1552,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.12-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.12-alpha.tgz_1468012516132_0.16159899183548987"
+			},
+			"directories": {},
+			"publish_time": 1468012516579,
+			"_cnpm_publish_time": 1468012516579,
+			"_hasShrinkwrap": false
+		},
+		"0.14.11-alpha": {
+			"name": "@types/react-dom",
+			"version": "0.14.11-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.25-alpha"
+			},
+			"_id": "@types/react-dom@0.14.11-alpha",
+			"_shasum": "80991940b8cd169ff893ced9184cb8bbda088f76",
+			"_from": "output\\react-dom",
+			"_resolved": "file:output\\react-dom",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "80991940b8cd169ff893ced9184cb8bbda088f76",
+				"size": 1547,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.11-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.11-alpha.tgz_1467594583975_0.24518534331582487"
+			},
+			"directories": {},
+			"publish_time": 1467594584507,
+			"_cnpm_publish_time": 1467594584507,
+			"_hasShrinkwrap": false
+		},
+		"0.14.10-alpha": {
+			"name": "@types/react-dom",
+			"version": "0.14.10-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.24-alpha"
+			},
+			"_id": "@types/react-dom@0.14.10-alpha",
+			"_shasum": "044bdfc811d76f0368c9d73f589c81487304faf7",
+			"_from": "output\\react-dom",
+			"_resolved": "file:output\\react-dom",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "044bdfc811d76f0368c9d73f589c81487304faf7",
+				"size": 1546,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.10-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.10-alpha.tgz_1467429591618_0.6472965003922582"
+			},
+			"directories": {},
+			"publish_time": 1467429594754,
+			"_cnpm_publish_time": 1467429594754,
+			"_hasShrinkwrap": false
+		},
+		"0.14.9-alpha": {
+			"name": "@types/react-dom",
+			"version": "0.14.9-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.23-alpha"
+			},
+			"_id": "@types/react-dom@0.14.9-alpha",
+			"_shasum": "8d04aecaf9b1f55f1eb7ac938aa3db946a2a5a7d",
+			"_from": "output\\react-dom",
+			"_resolved": "file:output\\react-dom",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8d04aecaf9b1f55f1eb7ac938aa3db946a2a5a7d",
+				"size": 1547,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.9-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.9-alpha.tgz_1467417132539_0.3627206252422184"
+			},
+			"directories": {},
+			"publish_time": 1467417133083,
+			"_cnpm_publish_time": 1467417133083,
+			"_hasShrinkwrap": false
+		},
+		"0.14.8-alpha": {
+			"name": "@types/react-dom",
+			"version": "0.14.8-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-dom@0.14.8-alpha",
+			"_shasum": "2ab1e664ad8c3771380a2c6ca458e6c2ec7775c7",
+			"_from": "output\\react-dom",
+			"_resolved": "file:output\\react-dom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2ab1e664ad8c3771380a2c6ca458e6c2ec7775c7",
+				"size": 1511,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.8-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.8-alpha.tgz_1464155247767_0.8170361930970103"
+			},
+			"directories": {},
+			"publish_time": 1464155250195,
+			"_cnpm_publish_time": 1464155250195,
+			"_hasShrinkwrap": false
+		},
+		"0.14.7-alpha": {
+			"name": "@types/react-dom",
+			"version": "0.14.7-alpha",
+			"description": "TypeScript definitions for React v0.14 (react-dom)",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-dom@0.14.7-alpha",
+			"_shasum": "905d0cd36991b398db359c13b8935b8997082b60",
+			"_from": "output\\react-dom",
+			"_resolved": "file:output\\react-dom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "905d0cd36991b398db359c13b8935b8997082b60",
+				"size": 1509,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.7-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.7-alpha.tgz_1463776298325_0.013723423704504967"
+			},
+			"directories": {},
+			"publish_time": 1463776298770,
+			"_cnpm_publish_time": 1463776298770,
+			"_hasShrinkwrap": false
+		},
+		"0.14.2-alpha": {
+			"name": "@types/react-dom",
+			"version": "0.14.2-alpha",
+			"description": "Type definitions for React v0.14 (react-dom) from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"react": "*"
+			},
+			"_id": "@types/react-dom@0.14.2-alpha",
+			"_shasum": "6a8238b3f6e973e5617834584a0bde14ea982e37",
+			"_from": "output\\react-dom",
+			"_resolved": "file:output\\react-dom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6a8238b3f6e973e5617834584a0bde14ea982e37",
+				"size": 1523,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.2-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.2-alpha.tgz_1463695780067_0.12836328148841858"
+			},
+			"directories": {},
+			"publish_time": 1463695780802,
+			"_cnpm_publish_time": 1463695780802,
+			"_hasShrinkwrap": false
+		},
+		"0.14.1-alpha": {
+			"name": "@types/react-dom",
+			"version": "0.14.1-alpha",
+			"description": "Type definitions for React v0.14 (react-dom) from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"react": "*"
+			},
+			"_id": "@types/react-dom@0.14.1-alpha",
+			"_shasum": "3e2d80a4909efb1a81136d4639fedace68a02181",
+			"_from": "output\\react-dom",
+			"_resolved": "file:output\\react-dom",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3e2d80a4909efb1a81136d4639fedace68a02181",
+				"size": 1513,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.1-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dom-0.14.1-alpha.tgz_1463510671028_0.7376063547562808"
+			},
+			"directories": {},
+			"publish_time": 1463510671682,
+			"_cnpm_publish_time": 1463510671682,
+			"_hasShrinkwrap": false
+		},
+		"16.0.9": {
+			"name": "@types/react-dom",
+			"version": "16.0.9",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Josh Rutherford",
+					"url": "https://github.com/theruther4d",
+					"githubUsername": "theruther4d"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "a72fcd94e060e36ee9396fe5c65569f1b87e6c64cce5d2d3461e86fa4b3a865d",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-dom@16.0.9",
+			"dist": {
+				"shasum": "73ceb7abe6703822eab6600e65c5c52efd07fb91",
+				"size": 5203,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom_16.0.9_1539036804577_0.577322188388109"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539036804714,
+			"_cnpm_publish_time": 1539036804714
+		},
+		"16.0.8": {
+			"name": "@types/react-dom",
+			"version": "16.0.8",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Josh Rutherford",
+					"url": "https://github.com/theruther4d",
+					"githubUsername": "theruther4d"
+				},
+				{
+					"name": "JounQin",
+					"url": "https://github.com/JounQin",
+					"githubUsername": "JounQin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "3acfd1c0fb518725f930263c862b2bcfa39236c3dd341111477e7cc26ee28bca",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-dom@16.0.8",
+			"dist": {
+				"shasum": "6e1366ed629cadf55860cbfcc25db533f5d2fa7d",
+				"size": 5256,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom_16.0.8_1538052503230_0.8685257657833692"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538052503378,
+			"_cnpm_publish_time": 1538052503378
+		},
+		"16.0.7": {
+			"name": "@types/react-dom",
+			"version": "16.0.7",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				},
+				{
+					"name": "Josh Rutherford",
+					"url": "https://github.com/theruther4d",
+					"githubUsername": "theruther4d"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "a72fcd94e060e36ee9396fe5c65569f1b87e6c64cce5d2d3461e86fa4b3a865d",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-dom@16.0.7",
+			"dist": {
+				"shasum": "54d0f867a76b90597e8432030d297982f25c20ba",
+				"size": 5209,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom_16.0.7_1533593462745_0.6341683087968648"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533593462848,
+			"_cnpm_publish_time": 1533593462848
+		},
+		"15.5.8": {
+			"name": "@types/react-dom",
+			"version": "15.5.8",
+			"description": "TypeScript definitions for React (react-dom)",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "AssureSign",
+					"url": "http://www.assuresign.com"
+				},
+				{
+					"name": "Microsoft",
+					"url": "https://microsoft.com"
+				},
+				{
+					"name": "MartynasZilinskas",
+					"url": "https://github.com/MartynasZilinskas",
+					"githubUsername": "MartynasZilinskas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "^15"
+			},
+			"typesPublisherContentHash": "5d6885821ae20914eb70b6b86c2cf9ff47c28f522482154ce4544f4031e1e320",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-dom@15.5.8",
+			"dist": {
+				"shasum": "e2fe3d95fc443c2dc2786eba99223f4e0eeeac22",
+				"size": 4835,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dom_15.5.8_1533593223154_0.6626094758786047"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533593223218,
+			"_cnpm_publish_time": 1533593223218
+		}
+	},
+	"dist-tags": {
+		"latest": "16.0.9",
+		"ts2.0": "0.14.20",
+		"ts2.1": "15.5.0",
+		"ts2.2": "15.5.0",
+		"ts2.3": "16.0.3",
+		"ts2.4": "16.0.3",
+		"ts2.5": "16.0.3",
+		"ts2.6": "16.0.6",
+		"ts2.7": "16.0.6",
+		"ts2.8": "16.0.9",
+		"ts2.9": "16.0.9",
+		"ts3.0": "16.0.9",
+		"ts3.1": "16.0.9",
+		"ts3.2": "16.0.9"
+	},
+	"time": {
+		"modified": "2018-10-08T22:13:38.000Z",
+		"created": "2016-05-17T18:44:31.682Z",
+		"16.0.9": "2018-10-08T22:13:24.714Z",
+		"16.0.8": "2018-09-27T12:48:23.378Z",
+		"16.0.7": "2018-08-06T22:11:02.848Z",
+		"15.5.8": "2018-08-06T22:07:03.218Z",
+		"16.0.6": "2018-06-05T00:05:33.318Z",
+		"16.0.5": "2018-04-10T17:50:02.517Z",
+		"15.5.7": "2018-02-12T20:58:52.280Z",
+		"16.0.4": "2018-02-12T20:58:29.462Z",
+		"16.0.3": "2017-11-09T09:59:10.781Z",
+		"16.0.2": "2017-10-19T15:07:16.315Z",
+		"16.0.1": "2017-10-06T18:29:14.581Z",
+		"16.0.0": "2017-10-03T14:22:41.112Z",
+		"15.5.6": "2017-10-03T14:21:55.420Z",
+		"15.5.5": "2017-09-26T23:01:48.529Z",
+		"15.5.4": "2017-08-21T22:01:30.500Z",
+		"15.5.3": "2017-08-15T18:11:56.045Z",
+		"15.5.2": "2017-08-03T14:00:15.807Z",
+		"15.5.1": "2017-06-23T17:35:32.303Z",
+		"15.5.0": "2017-04-18T18:29:20.420Z",
+		"0.14.23": "2017-02-07T20:44:59.990Z",
+		"0.14.22": "2017-01-30T22:14:53.054Z",
+		"0.14.21": "2017-01-23T21:34:26.963Z",
+		"0.14.20": "2016-12-30T00:02:07.949Z",
+		"0.14.19": "2016-11-21T14:48:21.401Z",
+		"0.14.18": "2016-10-13T19:20:16.277Z",
+		"0.14.17": "2016-09-19T18:04:26.514Z",
+		"0.14.16": "2016-08-25T18:54:54.136Z",
+		"0.14.15": "2016-08-19T15:38:38.302Z",
+		"0.14.14": "2016-07-25T21:19:00.192Z",
+		"0.14.13": "2016-07-14T15:50:33.831Z",
+		"0.14.12-alpha": "2016-07-08T21:15:16.579Z",
+		"0.14.11-alpha": "2016-07-04T01:09:44.507Z",
+		"0.14.10-alpha": "2016-07-02T03:19:54.754Z",
+		"0.14.9-alpha": "2016-07-01T23:52:13.083Z",
+		"0.14.8-alpha": "2016-05-25T05:47:30.195Z",
+		"0.14.7-alpha": "2016-05-20T20:31:38.770Z",
+		"0.14.2-alpha": "2016-05-19T22:09:40.802Z",
+		"0.14.1-alpha": "2016-05-17T18:44:31.682Z"
+	},
+	"_distfiles": {
+		"react-dom-16.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.6.tgz",
+			"sha": "f1a65a4e7be8ed5d123f8b3b9eacc913e35a1a3c",
+			"registry": "cnpmjs"
+		},
+		"react-dom-16.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.5.tgz",
+			"sha": "a757457662e3819409229e8f86795ff37b371f96",
+			"registry": "cnpmjs"
+		},
+		"react-dom-15.5.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.7.tgz",
+			"sha": "a5c1c8b315e925d84d59db5ee88ca7e31c5030f9",
+			"registry": "cnpmjs"
+		},
+		"react-dom-16.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.4.tgz",
+			"sha": "2e8fd45f5443780ed49bf2cdd9809e6091177a7d",
+			"registry": "cnpmjs"
+		},
+		"react-dom-16.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.3.tgz",
+			"sha": "8accad7eabdab4cca3e1a56f5ccb57de2da0ff64",
+			"registry": "cnpmjs"
+		},
+		"react-dom-16.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.2.tgz",
+			"sha": "2da9de21fd83f0140b64794ad9c47930230aedae",
+			"registry": "cnpmjs"
+		},
+		"react-dom-16.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.1.tgz",
+			"sha": "de159d00dd70050000f462e8bcff0c08ef803dee",
+			"registry": "cnpmjs"
+		},
+		"react-dom-16.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.0.tgz",
+			"sha": "7fac396cbd1cf44e112b957c8ef9c7ef401a90b3",
+			"registry": "cnpmjs"
+		},
+		"react-dom-15.5.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.6.tgz",
+			"sha": "7794ff7822882b59b899c30294e1b1e62e97757e",
+			"registry": "cnpmjs"
+		},
+		"react-dom-15.5.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.5.tgz",
+			"sha": "6b117c7697b61fe74132bfe5c72bceb3319433b8",
+			"registry": "cnpmjs"
+		},
+		"react-dom-15.5.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.4.tgz",
+			"sha": "3f75ba86a2ce9a7d1d9e7d1ee3f186f3a9652d8f",
+			"registry": "cnpmjs"
+		},
+		"react-dom-15.5.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.3.tgz",
+			"sha": "4f26d09c5a92bc76728051ab5ee7116617d72f39",
+			"registry": "cnpmjs"
+		},
+		"react-dom-15.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.2.tgz",
+			"sha": "f7203c75a1728812355f037ea112611d082555e6",
+			"registry": "cnpmjs"
+		},
+		"react-dom-15.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.1.tgz",
+			"sha": "f3c3e14c682785923c7d64583537df319442dec1",
+			"registry": "cnpmjs"
+		},
+		"react-dom-15.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.0.tgz",
+			"sha": "7f4fb9613d4051141773242f7b6b5f1a46b34bd9",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.23.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.23.tgz",
+			"sha": "cecfcfad754b4c2765fe5d29b81b301889ad6c2e",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.22.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.22.tgz",
+			"sha": "a9a9d2c1461dda668a8bbaef8d62f6abc7d6b9bd",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.21.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.21.tgz",
+			"sha": "a97e82d85e6802c7bb8b527746c54013b209ce09",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.20.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.20.tgz",
+			"sha": "6e30d66148e78b29ef593fa91ba30d0175190604",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.19.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.19.tgz",
+			"sha": "698a14335e32fb1bc61db65f5647c9668a7fc2eb",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.18.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.18.tgz",
+			"sha": "af4fb4092f433667f5f094e762b32c294e0010dc",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.17.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.17.tgz",
+			"sha": "d8b0dec27e873c218d9075856c6ca1c5db956d5d",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.16.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.16.tgz",
+			"sha": "13a948c4ff40b6da1014e07a34c204238e461c6f",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.15.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.15.tgz",
+			"sha": "2ea7eb224d132b50c2ecd9d0996446f739cbb380",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.14.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.14.tgz",
+			"sha": "7371f5e7c60709647b5aadaa8865d3cadd9b940b",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.13.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.13.tgz",
+			"sha": "62b4e9888498776945aed8533252ed8042a2105e",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.12-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.12-alpha.tgz",
+			"sha": "dcd5a58192e7e3f57dca36ec80d4a8e78f9760c9",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.11-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.11-alpha.tgz",
+			"sha": "80991940b8cd169ff893ced9184cb8bbda088f76",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.10-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.10-alpha.tgz",
+			"sha": "044bdfc811d76f0368c9d73f589c81487304faf7",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.9-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.9-alpha.tgz",
+			"sha": "8d04aecaf9b1f55f1eb7ac938aa3db946a2a5a7d",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.8-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.8-alpha.tgz",
+			"sha": "2ab1e664ad8c3771380a2c6ca458e6c2ec7775c7",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.7-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.7-alpha.tgz",
+			"sha": "905d0cd36991b398db359c13b8935b8997082b60",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.2-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.2-alpha.tgz",
+			"sha": "6a8238b3f6e973e5617834584a0bde14ea982e37",
+			"registry": "cnpmjs"
+		},
+		"react-dom-0.14.1-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-0.14.1-alpha.tgz",
+			"sha": "3e2d80a4909efb1a81136d4639fedace68a02181",
+			"registry": "cnpmjs"
+		},
+		"react-dom-16.0.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.9.tgz",
+			"sha": "73ceb7abe6703822eab6600e65c5c52efd07fb91",
+			"registry": "cnpmjs"
+		},
+		"react-dom-16.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.8.tgz",
+			"sha": "6e1366ed629cadf55860cbfcc25db533f5d2fa7d",
+			"registry": "cnpmjs"
+		},
+		"react-dom-16.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-16.0.7.tgz",
+			"sha": "54d0f867a76b90597e8432030d297982f25c20ba",
+			"registry": "cnpmjs"
+		},
+		"react-dom-15.5.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-dom/download/@types/react-dom-15.5.8.tgz",
+			"sha": "e2fe3d95fc443c2dc2786eba99223f4e0eeeac22",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"c190-XBr0Ggm12N/I3ngFiX2dO3ELPY0\"",
+			"fetched": 1541833276752
+		}
+	},
+	"_rev": "3-a1f29562d1f9faab",
+	"readme": "# Installation\r\n> `npm install --save @types/react-dom`\r\n\r\n# Summary\r\nThis package contains type definitions for React (react-dom) (http://facebook.github.io/react/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-dom\r\n\r\nAdditional Details\r\n * Last updated: Mon, 08 Oct 2018 22:12:11 GMT\r\n * Dependencies: react, node\r\n * Global values: ReactDOM, ReactDOMNodeStream, ReactDOMServer\r\n\r\n# Credits\r\nThese definitions were written by Asana <https://asana.com>, AssureSign <http://www.assuresign.com>, Microsoft <https://microsoft.com>, MartynasZilinskas <https://github.com/MartynasZilinskas>, Josh Rutherford <https://github.com/theruther4d>."
+}

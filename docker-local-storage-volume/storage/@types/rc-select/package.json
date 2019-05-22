@@ -1,0 +1,898 @@
+{
+	"name": "@types/rc-select",
+	"versions": {
+		"5.9.31": {
+			"name": "@types/rc-select",
+			"version": "5.9.31",
+			"description": "TypeScript definitions for React Select",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Denis Tirilis",
+					"url": "https://github.com/DenisTirilis",
+					"githubUsername": "DenisTirilis"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "1350324a7a541a2524fb382bb2edfdc331dadf7bbaa91b22b7e0521d709fd5c3",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/rc-select@5.9.31",
+			"dist": {
+				"shasum": "b1fad79fd630839f95bc084c48ef699e53270c3a",
+				"size": 2025,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-select_5.9.31_1518468858844_0.24734153528978142"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518468858889,
+			"_cnpm_publish_time": 1518468858889
+		},
+		"5.9.30": {
+			"name": "@types/rc-select",
+			"version": "5.9.30",
+			"description": "TypeScript definitions for React Select",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Denis Tirilis",
+					"url": "https://github.com/DenisTirilis"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d83a2b650f3ffc6256d15246063b627f20ab51af7ba69c197f55007807c7f739",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-select@5.9.30",
+			"dist": {
+				"shasum": "a7e1fb96d20de1a3aaa26c7bdda51d51c4e37736",
+				"size": 2032,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-select-5.9.30.tgz_1498226653394_0.22938698064535856"
+			},
+			"directories": {},
+			"publish_time": 1498226653480,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498226653480
+		},
+		"5.9.29": {
+			"name": "@types/rc-select",
+			"version": "5.9.29",
+			"description": "TypeScript definitions for React Select",
+			"license": "MIT",
+			"author": "Denis Tirilis <https://github.com/DenisTirilis>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "04a3a9a92eeabaf92d97696b05b1aa8a8507cfaa293e4e85c45348ebbf5b2cbf",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/rc-select@5.9.29",
+			"dist": {
+				"shasum": "a1c02f2e91d66a5a7e743cd68e38c3d6984d7464",
+				"size": 1535,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.29.tgz_1485207162902_0.29577784007415175"
+			},
+			"directories": {},
+			"publish_time": 1485207163118,
+			"_cnpm_publish_time": 1485207163118,
+			"_hasShrinkwrap": false
+		},
+		"5.9.28": {
+			"name": "@types/rc-select",
+			"version": "5.9.28",
+			"description": "TypeScript definitions for React Select v5.9.0",
+			"license": "MIT",
+			"author": "Denis Tirilis <https://github.com/DenisTirilis>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "d980009155c943498d0063aaffb7bf29bae9c4a20e0bc7a5524c494337e590f6",
+			"_id": "@types/rc-select@5.9.28",
+			"dist": {
+				"shasum": "d2ae75ab7bd361a8854b0a463f969a7e4808a35b",
+				"size": 1530,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.28.tgz_1474308209499_0.30857171514071524"
+			},
+			"directories": {},
+			"publish_time": 1474308209722,
+			"_cnpm_publish_time": 1474308209722,
+			"_hasShrinkwrap": false
+		},
+		"5.9.27": {
+			"name": "@types/rc-select",
+			"version": "5.9.27",
+			"description": "TypeScript definitions for React Select v5.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Tirilis",
+				"email": "https://github.com/DenisTirilis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"_id": "@types/rc-select@5.9.27",
+			"_shasum": "d59414f59cec3b673c0c9b581561afe885736404",
+			"_from": "output\\rc-select",
+			"_resolved": "file:output\\rc-select",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d59414f59cec3b673c0c9b581561afe885736404",
+				"size": 1515,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.27.tgz_1468511381051_0.2792093497700989"
+			},
+			"directories": {},
+			"publish_time": 1468511383489,
+			"_cnpm_publish_time": 1468511383489,
+			"_hasShrinkwrap": false
+		},
+		"5.9.26-alpha": {
+			"name": "@types/rc-select",
+			"version": "5.9.26-alpha",
+			"description": "TypeScript definitions for React Select v5.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Tirilis",
+				"email": "https://github.com/DenisTirilis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.26-alpha"
+			},
+			"_id": "@types/rc-select@5.9.26-alpha",
+			"_shasum": "df279b586374075f5e115ca747edb24303417088",
+			"_from": "output\\rc-select",
+			"_resolved": "file:output\\rc-select",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "df279b586374075f5e115ca747edb24303417088",
+				"size": 1519,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.26-alpha.tgz_1468012420547_0.27811141358688474"
+			},
+			"directories": {},
+			"publish_time": 1468012423279,
+			"_cnpm_publish_time": 1468012423279,
+			"_hasShrinkwrap": false
+		},
+		"5.9.24-alpha": {
+			"name": "@types/rc-select",
+			"version": "5.9.24-alpha",
+			"description": "TypeScript definitions for React Select v5.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Tirilis",
+				"email": "https://github.com/DenisTirilis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.25-alpha"
+			},
+			"_id": "@types/rc-select@5.9.24-alpha",
+			"_shasum": "8f59b4de338afa9fd3e9cc7bedac5fe03264721c",
+			"_from": "output\\rc-select",
+			"_resolved": "file:output\\rc-select",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8f59b4de338afa9fd3e9cc7bedac5fe03264721c",
+				"size": 1516,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.24-alpha.tgz_1467594824806_0.08346600132063031"
+			},
+			"directories": {},
+			"publish_time": 1467594825291,
+			"_cnpm_publish_time": 1467594825291,
+			"_hasShrinkwrap": false
+		},
+		"5.9.23-alpha": {
+			"name": "@types/rc-select",
+			"version": "5.9.23-alpha",
+			"description": "TypeScript definitions for React Select v5.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Tirilis",
+				"email": "https://github.com/DenisTirilis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.23-alpha"
+			},
+			"_id": "@types/rc-select@5.9.23-alpha",
+			"_shasum": "265a17c14a03e34574187130e9a03df82d17520c",
+			"_from": "output\\rc-select",
+			"_resolved": "file:output\\rc-select",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "265a17c14a03e34574187130e9a03df82d17520c",
+				"size": 1514,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.23-alpha.tgz_1467429563695_0.3925351200159639"
+			},
+			"directories": {},
+			"publish_time": 1467429566979,
+			"_cnpm_publish_time": 1467429566979,
+			"_hasShrinkwrap": false
+		},
+		"5.9.22-alpha": {
+			"name": "@types/rc-select",
+			"version": "5.9.22-alpha",
+			"description": "TypeScript definitions for React Select v5.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Tirilis",
+				"email": "https://github.com/DenisTirilis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.23-alpha"
+			},
+			"_id": "@types/rc-select@5.9.22-alpha",
+			"_shasum": "34748284d67397e4f3e7fc27d07576b65d5869a6",
+			"_from": "output\\rc-select",
+			"_resolved": "file:output\\rc-select",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "34748284d67397e4f3e7fc27d07576b65d5869a6",
+				"size": 1516,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.22-alpha.tgz_1467417183468_0.8754613066557795"
+			},
+			"directories": {},
+			"publish_time": 1467417184062,
+			"_cnpm_publish_time": 1467417184062,
+			"_hasShrinkwrap": false
+		},
+		"5.9.21-alpha": {
+			"name": "@types/rc-select",
+			"version": "5.9.21-alpha",
+			"description": "TypeScript definitions for React Select v5.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Tirilis",
+				"email": "https://github.com/DenisTirilis"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"_id": "@types/rc-select@5.9.21-alpha",
+			"_shasum": "9d02efd58e85b39fe5cf386432bf858bc0cd8b8e",
+			"_from": "output\\rc-select",
+			"_resolved": "file:output\\rc-select",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9d02efd58e85b39fe5cf386432bf858bc0cd8b8e",
+				"size": 1509,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.21-alpha.tgz_1467404790225_0.8856658868025988"
+			},
+			"directories": {},
+			"publish_time": 1467404790902,
+			"_cnpm_publish_time": 1467404790902,
+			"_hasShrinkwrap": false
+		},
+		"5.9.20-alpha": {
+			"name": "@types/rc-select",
+			"version": "5.9.20-alpha",
+			"description": "TypeScript definitions for React Select v5.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Tirilis",
+				"email": "https://github.com/DenisTirilis"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/rc-select@5.9.20-alpha",
+			"_shasum": "e95dc4985e0412c79752995f0d5cb95acb387481",
+			"_from": "output\\rc-select",
+			"_resolved": "file:output\\rc-select",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e95dc4985e0412c79752995f0d5cb95acb387481",
+				"size": 1492,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.20-alpha.tgz_1464155170383_0.826575847575441"
+			},
+			"directories": {},
+			"publish_time": 1464155172932,
+			"_cnpm_publish_time": 1464155172932,
+			"_hasShrinkwrap": false
+		},
+		"5.9.19-alpha": {
+			"name": "@types/rc-select",
+			"version": "5.9.19-alpha",
+			"description": "TypeScript definitions for React Select v5.9.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Tirilis",
+				"email": "https://github.com/DenisTirilis"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/rc-select@5.9.19-alpha",
+			"_shasum": "a079ad54a685d27f8aada70e161dd25df5b906fe",
+			"_from": "output\\rc-select",
+			"_resolved": "file:output\\rc-select",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a079ad54a685d27f8aada70e161dd25df5b906fe",
+				"size": 1493,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.19-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.19-alpha.tgz_1463776216209_0.6066040887963027"
+			},
+			"directories": {},
+			"publish_time": 1463776218819,
+			"_cnpm_publish_time": 1463776218819,
+			"_hasShrinkwrap": false
+		},
+		"5.9.14-alpha": {
+			"name": "@types/rc-select",
+			"version": "5.9.14-alpha",
+			"description": "Type definitions for React Select v5.9.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Tirilis",
+				"email": "https://github.com/DenisTirilis"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/rc-select@5.9.14-alpha",
+			"_shasum": "878965114dd6471d43c201976a55c92d51560141",
+			"_from": "output\\rc-select",
+			"_resolved": "file:output\\rc-select",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "878965114dd6471d43c201976a55c92d51560141",
+				"size": 1508,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.14-alpha.tgz_1463695689647_0.9799424577504396"
+			},
+			"directories": {},
+			"publish_time": 1463695694670,
+			"_cnpm_publish_time": 1463695694670,
+			"_hasShrinkwrap": false
+		},
+		"5.9.13-alpha": {
+			"name": "@types/rc-select",
+			"version": "5.9.13-alpha",
+			"description": "Type definitions for React Select v5.9.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Tirilis",
+				"email": "https://github.com/DenisTirilis"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/rc-select@5.9.13-alpha",
+			"_shasum": "fcb11f05acafeb4eb192e5a5be62830c9018611d",
+			"_from": "output\\rc-select",
+			"_resolved": "file:output\\rc-select",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fcb11f05acafeb4eb192e5a5be62830c9018611d",
+				"size": 1500,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rc-select-5.9.13-alpha.tgz_1463510589252_0.5370761773083359"
+			},
+			"directories": {},
+			"publish_time": 1463510593406,
+			"_cnpm_publish_time": 1463510593406,
+			"_hasShrinkwrap": false
+		},
+		"5.9.33": {
+			"name": "@types/rc-select",
+			"version": "5.9.33",
+			"description": "TypeScript definitions for React Select",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Denis Tirilis",
+					"url": "https://github.com/DenisTirilis",
+					"githubUsername": "DenisTirilis"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "ec462ecfe63e1095c959301741edee5ec25b760db174e6c6dd9f9c754c17ac5e",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/rc-select@5.9.33",
+			"dist": {
+				"shasum": "7de5c45976b728af41aacc5bc2c9f53e702ad139",
+				"size": 2143,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-select_5.9.33_1535045190779_0.2685418863835134"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535045190884,
+			"_cnpm_publish_time": 1535045190884
+		},
+		"5.9.32": {
+			"name": "@types/rc-select",
+			"version": "5.9.32",
+			"description": "TypeScript definitions for React Select",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Denis Tirilis",
+					"url": "https://github.com/DenisTirilis",
+					"githubUsername": "DenisTirilis"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "2de9cfcf7a3bcae04edd582cab10b351cde8ed23b9771eb229f27124b6077081",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/rc-select@5.9.32",
+			"dist": {
+				"shasum": "fecf63bf24278a04e29b5411bbd5947a04084ef7",
+				"size": 2024,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-select_5.9.32_1533345463985_0.14704088288639805"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533345464067,
+			"_cnpm_publish_time": 1533345464067
+		}
+	},
+	"dist-tags": {
+		"latest": "5.9.33",
+		"ts2.0": "5.9.28",
+		"ts2.1": "5.9.29",
+		"ts2.2": "5.9.29",
+		"ts2.3": "5.9.30",
+		"ts2.4": "5.9.30",
+		"ts2.5": "5.9.30",
+		"ts2.6": "5.9.31",
+		"ts2.7": "5.9.31",
+		"ts2.8": "5.9.33",
+		"ts2.9": "5.9.33",
+		"ts3.0": "5.9.33",
+		"ts3.1": "5.9.33",
+		"ts3.2": "5.9.33"
+	},
+	"time": {
+		"modified": "2018-10-10T20:25:51.000Z",
+		"created": "2016-05-17T18:43:13.406Z",
+		"5.9.33": "2018-08-23T17:26:30.884Z",
+		"5.9.32": "2018-08-04T01:17:44.067Z",
+		"5.9.31": "2018-02-12T20:54:18.889Z",
+		"5.9.30": "2017-06-23T14:04:13.480Z",
+		"5.9.29": "2017-01-23T21:32:43.118Z",
+		"5.9.28": "2016-09-19T18:03:29.722Z",
+		"5.9.27": "2016-07-14T15:49:43.489Z",
+		"5.9.26-alpha": "2016-07-08T21:13:43.279Z",
+		"5.9.24-alpha": "2016-07-04T01:13:45.291Z",
+		"5.9.23-alpha": "2016-07-02T03:19:26.979Z",
+		"5.9.22-alpha": "2016-07-01T23:53:04.062Z",
+		"5.9.21-alpha": "2016-07-01T20:26:30.902Z",
+		"5.9.20-alpha": "2016-05-25T05:46:12.932Z",
+		"5.9.19-alpha": "2016-05-20T20:30:18.819Z",
+		"5.9.14-alpha": "2016-05-19T22:08:14.670Z",
+		"5.9.13-alpha": "2016-05-17T18:43:13.406Z"
+	},
+	"_distfiles": {
+		"rc-select-5.9.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.31.tgz",
+			"sha": "b1fad79fd630839f95bc084c48ef699e53270c3a",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.30.tgz",
+			"sha": "a7e1fb96d20de1a3aaa26c7bdda51d51c4e37736",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.29.tgz",
+			"sha": "a1c02f2e91d66a5a7e743cd68e38c3d6984d7464",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.28.tgz",
+			"sha": "d2ae75ab7bd361a8854b0a463f969a7e4808a35b",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.27.tgz",
+			"sha": "d59414f59cec3b673c0c9b581561afe885736404",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.26-alpha.tgz",
+			"sha": "df279b586374075f5e115ca747edb24303417088",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.24-alpha.tgz",
+			"sha": "8f59b4de338afa9fd3e9cc7bedac5fe03264721c",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.23-alpha.tgz",
+			"sha": "265a17c14a03e34574187130e9a03df82d17520c",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.22-alpha.tgz",
+			"sha": "34748284d67397e4f3e7fc27d07576b65d5869a6",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.21-alpha.tgz",
+			"sha": "9d02efd58e85b39fe5cf386432bf858bc0cd8b8e",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.20-alpha.tgz",
+			"sha": "e95dc4985e0412c79752995f0d5cb95acb387481",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.19-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.19-alpha.tgz",
+			"sha": "a079ad54a685d27f8aada70e161dd25df5b906fe",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.14-alpha.tgz",
+			"sha": "878965114dd6471d43c201976a55c92d51560141",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.13-alpha.tgz",
+			"sha": "fcb11f05acafeb4eb192e5a5be62830c9018611d",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.33.tgz",
+			"sha": "7de5c45976b728af41aacc5bc2c9f53e702ad139",
+			"registry": "cnpmjs"
+		},
+		"rc-select-5.9.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-select/download/@types/rc-select-5.9.32.tgz",
+			"sha": "fecf63bf24278a04e29b5411bbd5947a04084ef7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833487354
+		}
+	},
+	"_rev": "2-580786365488ab4e",
+	"readme": "# Installation\r\n> `npm install --save @types/rc-select`\r\n\r\n# Summary\r\nThis package contains type definitions for React Select (https://github.com/react-component/select).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/rc-select\r\n\r\nAdditional Details\r\n * Last updated: Thu, 23 Aug 2018 17:24:04 GMT\r\n * Dependencies: react\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Denis Tirilis <https://github.com/DenisTirilis>."
+}

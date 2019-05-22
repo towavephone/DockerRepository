@@ -1,0 +1,86 @@
+{
+	"name": "@types/map-obj",
+	"versions": {
+		"2.0.0": {
+			"name": "@types/map-obj",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for map-obj",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2be5229545175dbd7009a12f414c14373f5ab5bd544a65afe9d252eb0a61fd98",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/map-obj@2.0.0",
+			"dist": {
+				"shasum": "1864e942fb9032f216273c33dc1ce5f558d82813",
+				"size": 1722,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/map-obj/download/@types/map-obj-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/map-obj-2.0.0.tgz_1502490204788_0.07910815044306219"
+			},
+			"directories": {},
+			"publish_time": 1502490204854,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502490204854
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.0",
+		"ts2.3": "2.0.0",
+		"ts2.4": "2.0.0",
+		"ts2.5": "2.0.0",
+		"ts2.6": "2.0.0",
+		"ts2.7": "2.0.0",
+		"ts2.8": "2.0.0",
+		"ts2.9": "2.0.0",
+		"ts3.0": "2.0.0",
+		"ts3.1": "2.0.0",
+		"ts3.2": "2.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:18:01.000Z",
+		"created": "2017-08-11T22:23:24.854Z",
+		"2.0.0": "2017-08-11T22:23:24.854Z"
+	},
+	"_distfiles": {
+		"map-obj-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/map-obj/download/@types/map-obj-2.0.0.tgz",
+			"sha": "1864e942fb9032f216273c33dc1ce5f558d82813",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"8d5-8P7Cm1Dd9B8F0cotKVBcBKjm1Yg\"",
+			"fetched": 1541833485236
+		}
+	},
+	"_rev": "2-be060a6c265f284a",
+	"readme": "# Installation\r\n> `npm install --save @types/map-obj`\r\n\r\n# Summary\r\nThis package contains type definitions for map-obj (https://github.com/sindresorhus/map-obj#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/map-obj\r\n\r\nAdditional Details\r\n * Last updated: Fri, 11 Aug 2017 22:23:07 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by BendingBender <https://github.com/BendingBender>."
+}

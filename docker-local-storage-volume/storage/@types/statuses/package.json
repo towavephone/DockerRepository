@@ -1,0 +1,664 @@
+{
+	"name": "@types/statuses",
+	"versions": {
+		"1.3.0": {
+			"name": "@types/statuses",
+			"version": "1.3.0",
+			"description": "TypeScript definitions for statuses",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tanguy Krotoff",
+					"url": "https://github.com/tkrotoff"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1c472183dbef112dc9e6950f4a054008d23c0484338ae0da624e38a8f36bfc90",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/statuses@1.3.0",
+			"dist": {
+				"shasum": "991dce04cedf5f4fc4f66e4fdb9ec4ae1b1dfe29",
+				"size": 1634,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/statuses-1.3.0.tgz_1502740188849_0.5443874646443874"
+			},
+			"directories": {},
+			"publish_time": 1502740188928,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502740188928
+		},
+		"1.2.28": {
+			"name": "@types/statuses",
+			"version": "1.2.28",
+			"description": "TypeScript definitions for statuses v1.2.1",
+			"license": "MIT",
+			"author": "Tanguy Krotoff <https://github.com/tkrotoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "95b25e47f1b7af8eea52f30a23a983aecedd137166ebe6313df9f7ee79df2e17",
+			"_id": "@types/statuses@1.2.28",
+			"dist": {
+				"shasum": "cc5f19d2169416d556cdca05b59b29e45fa497e2",
+				"size": 1077,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.28.tgz_1474308831943_0.254782872274518"
+			},
+			"directories": {},
+			"publish_time": 1474308835081,
+			"_cnpm_publish_time": 1474308835081,
+			"_hasShrinkwrap": false
+		},
+		"1.2.27": {
+			"name": "@types/statuses",
+			"version": "1.2.27",
+			"description": "TypeScript definitions for statuses v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/statuses@1.2.27",
+			"_shasum": "182d8bdbf429c2aaf1e5bb27511a2dbf34c0bf64",
+			"_from": "output\\statuses",
+			"_resolved": "file:output\\statuses",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "182d8bdbf429c2aaf1e5bb27511a2dbf34c0bf64",
+				"size": 1056,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.27.tgz_1468512445340_0.10233282065019011"
+			},
+			"directories": {},
+			"publish_time": 1468512447942,
+			"_cnpm_publish_time": 1468512447942,
+			"_hasShrinkwrap": false
+		},
+		"1.2.26-alpha": {
+			"name": "@types/statuses",
+			"version": "1.2.26-alpha",
+			"description": "TypeScript definitions for statuses v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/statuses@1.2.26-alpha",
+			"_shasum": "81ba96d10c7497a62fe634c92f1dd9a349feef97",
+			"_from": "output\\statuses",
+			"_resolved": "file:output\\statuses",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "81ba96d10c7497a62fe634c92f1dd9a349feef97",
+				"size": 1063,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.26-alpha.tgz_1468013782915_0.5922971789259464"
+			},
+			"directories": {},
+			"publish_time": 1468013785476,
+			"_cnpm_publish_time": 1468013785476,
+			"_hasShrinkwrap": false
+		},
+		"1.2.25-alpha": {
+			"name": "@types/statuses",
+			"version": "1.2.25-alpha",
+			"description": "TypeScript definitions for statuses v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/statuses@1.2.25-alpha",
+			"_shasum": "d83d8b0d5c1e518979290a9595278296304ede8e",
+			"_from": "output\\statuses",
+			"_resolved": "file:output\\statuses",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d83d8b0d5c1e518979290a9595278296304ede8e",
+				"size": 1065,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.25-alpha.tgz_1467595328903_0.7292917349841446"
+			},
+			"directories": {},
+			"publish_time": 1467595332471,
+			"_cnpm_publish_time": 1467595332471,
+			"_hasShrinkwrap": false
+		},
+		"1.2.24-alpha": {
+			"name": "@types/statuses",
+			"version": "1.2.24-alpha",
+			"description": "TypeScript definitions for statuses v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/statuses@1.2.24-alpha",
+			"_shasum": "4a12a9a60bbb8f5f5c82e2172ec4ba682a9d1117",
+			"_from": "output\\statuses",
+			"_resolved": "file:output\\statuses",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4a12a9a60bbb8f5f5c82e2172ec4ba682a9d1117",
+				"size": 1063,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.24-alpha.tgz_1467430268964_0.570864827837795"
+			},
+			"directories": {},
+			"publish_time": 1467430269603,
+			"_cnpm_publish_time": 1467430269603,
+			"_hasShrinkwrap": false
+		},
+		"1.2.23-alpha": {
+			"name": "@types/statuses",
+			"version": "1.2.23-alpha",
+			"description": "TypeScript definitions for statuses v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/statuses@1.2.23-alpha",
+			"_shasum": "a2711791291c23a341669aeaf8991a81e935e0b2",
+			"_from": "output\\statuses",
+			"_resolved": "file:output\\statuses",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a2711791291c23a341669aeaf8991a81e935e0b2",
+				"size": 1063,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.23-alpha.tgz_1467418047415_0.3486653082072735"
+			},
+			"directories": {},
+			"publish_time": 1467418049745,
+			"_cnpm_publish_time": 1467418049745,
+			"_hasShrinkwrap": false
+		},
+		"1.2.22-alpha": {
+			"name": "@types/statuses",
+			"version": "1.2.22-alpha",
+			"description": "TypeScript definitions for statuses v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/statuses@1.2.22-alpha",
+			"_shasum": "5990cfd9c5f4ac76f459f7da768c037a8bb70d92",
+			"_from": "output\\statuses",
+			"_resolved": "file:output\\statuses",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5990cfd9c5f4ac76f459f7da768c037a8bb70d92",
+				"size": 1055,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.22-alpha.tgz_1467405912535_0.1279730130918324"
+			},
+			"directories": {},
+			"publish_time": 1467405913302,
+			"_cnpm_publish_time": 1467405913302,
+			"_hasShrinkwrap": false
+		},
+		"1.2.21-alpha": {
+			"name": "@types/statuses",
+			"version": "1.2.21-alpha",
+			"description": "TypeScript definitions for statuses v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/statuses@1.2.21-alpha",
+			"_shasum": "2baf12293c2fd3a9861ed46bf7dd82ca5683d7a5",
+			"_from": "output\\statuses",
+			"_resolved": "file:output\\statuses",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2baf12293c2fd3a9861ed46bf7dd82ca5683d7a5",
+				"size": 1031,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.21-alpha.tgz_1464156010168_0.6752913254313171"
+			},
+			"directories": {},
+			"publish_time": 1464156010646,
+			"_cnpm_publish_time": 1464156010646,
+			"_hasShrinkwrap": false
+		},
+		"1.2.20-alpha": {
+			"name": "@types/statuses",
+			"version": "1.2.20-alpha",
+			"description": "TypeScript definitions for statuses v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/statuses@1.2.20-alpha",
+			"_shasum": "e7486069246a11bb3e5659b6c98716dcd5ce040c",
+			"_from": "output\\statuses",
+			"_resolved": "file:output\\statuses",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e7486069246a11bb3e5659b6c98716dcd5ce040c",
+				"size": 1029,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.20-alpha.tgz_1463777086076_0.31667831097729504"
+			},
+			"directories": {},
+			"publish_time": 1463777087099,
+			"_cnpm_publish_time": 1463777087099,
+			"_hasShrinkwrap": false
+		},
+		"1.2.15-alpha": {
+			"name": "@types/statuses",
+			"version": "1.2.15-alpha",
+			"description": "Type definitions for statuses v1.2.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/statuses@1.2.15-alpha",
+			"_shasum": "1a9234de53ba9b9b07ad99b52e9b88834ec2ea82",
+			"_from": "output\\statuses",
+			"_resolved": "file:output\\statuses",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1a9234de53ba9b9b07ad99b52e9b88834ec2ea82",
+				"size": 1042,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.15-alpha.tgz_1463696908445_0.9601860791444778"
+			},
+			"directories": {},
+			"publish_time": 1463696913067,
+			"_cnpm_publish_time": 1463696913067,
+			"_hasShrinkwrap": false
+		},
+		"1.2.14-alpha": {
+			"name": "@types/statuses",
+			"version": "1.2.14-alpha",
+			"description": "Type definitions for statuses v1.2.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Tanguy Krotoff",
+				"email": "https://github.com/tkrotoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/statuses@1.2.14-alpha",
+			"_shasum": "79fb4ee4afce79d8aed5afc5f58f9d2c6558eb21",
+			"_from": "output\\statuses",
+			"_resolved": "file:output\\statuses",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "79fb4ee4afce79d8aed5afc5f58f9d2c6558eb21",
+				"size": 1032,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/statuses-1.2.14-alpha.tgz_1463511619476_0.36061994708143175"
+			},
+			"directories": {},
+			"publish_time": 1463511623410,
+			"_cnpm_publish_time": 1463511623410,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.3.0",
+		"ts2.0": "1.3.0",
+		"ts2.1": "1.3.0",
+		"ts2.2": "1.3.0",
+		"ts2.3": "1.3.0",
+		"ts2.4": "1.3.0",
+		"ts2.5": "1.3.0",
+		"ts2.6": "1.3.0",
+		"ts2.7": "1.3.0",
+		"ts2.8": "1.3.0",
+		"ts2.9": "1.3.0",
+		"ts3.0": "1.3.0",
+		"ts3.1": "1.3.0",
+		"ts3.2": "1.3.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:28:51.000Z",
+		"created": "2016-05-17T19:00:23.410Z",
+		"1.3.0": "2017-08-14T19:49:48.928Z",
+		"1.2.28": "2016-09-19T18:13:55.081Z",
+		"1.2.27": "2016-07-14T16:07:27.942Z",
+		"1.2.26-alpha": "2016-07-08T21:36:25.476Z",
+		"1.2.25-alpha": "2016-07-04T01:22:12.471Z",
+		"1.2.24-alpha": "2016-07-02T03:31:09.603Z",
+		"1.2.23-alpha": "2016-07-02T00:07:29.745Z",
+		"1.2.22-alpha": "2016-07-01T20:45:13.302Z",
+		"1.2.21-alpha": "2016-05-25T06:00:10.646Z",
+		"1.2.20-alpha": "2016-05-20T20:44:47.099Z",
+		"1.2.15-alpha": "2016-05-19T22:28:33.067Z",
+		"1.2.14-alpha": "2016-05-17T19:00:23.410Z"
+	},
+	"_distfiles": {
+		"statuses-1.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.3.0.tgz",
+			"sha": "991dce04cedf5f4fc4f66e4fdb9ec4ae1b1dfe29",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.28.tgz",
+			"sha": "cc5f19d2169416d556cdca05b59b29e45fa497e2",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.27.tgz",
+			"sha": "182d8bdbf429c2aaf1e5bb27511a2dbf34c0bf64",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.26-alpha.tgz",
+			"sha": "81ba96d10c7497a62fe634c92f1dd9a349feef97",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.25-alpha.tgz",
+			"sha": "d83d8b0d5c1e518979290a9595278296304ede8e",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.24-alpha.tgz",
+			"sha": "4a12a9a60bbb8f5f5c82e2172ec4ba682a9d1117",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.23-alpha.tgz",
+			"sha": "a2711791291c23a341669aeaf8991a81e935e0b2",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.22-alpha.tgz",
+			"sha": "5990cfd9c5f4ac76f459f7da768c037a8bb70d92",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.21-alpha.tgz",
+			"sha": "2baf12293c2fd3a9861ed46bf7dd82ca5683d7a5",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.20-alpha.tgz",
+			"sha": "e7486069246a11bb3e5659b6c98716dcd5ce040c",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.15-alpha.tgz",
+			"sha": "1a9234de53ba9b9b07ad99b52e9b88834ec2ea82",
+			"registry": "cnpmjs"
+		},
+		"statuses-1.2.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/statuses/download/@types/statuses-1.2.14-alpha.tgz",
+			"sha": "79fb4ee4afce79d8aed5afc5f58f9d2c6558eb21",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3b12-J2lp8W3PXTkt8mNOr56w8uzO1AQ\"",
+			"fetched": 1541833488604
+		}
+	},
+	"_rev": "2-3917045049558872",
+	"readme": "# Installation\r\n> `npm install --save @types/statuses`\r\n\r\n# Summary\r\nThis package contains type definitions for statuses (https://github.com/jshttp/statuses).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/statuses\r\n\r\nAdditional Details\r\n * Last updated: Mon, 14 Aug 2017 19:47:58 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tanguy Krotoff <https://github.com/tkrotoff>, BendingBender <https://github.com/BendingBender>."
+}

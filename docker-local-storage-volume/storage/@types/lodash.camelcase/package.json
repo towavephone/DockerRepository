@@ -1,0 +1,325 @@
+{
+	"name": "@types/lodash.camelcase",
+	"versions": {
+		"4.3.3": {
+			"name": "@types/lodash.camelcase",
+			"version": "4.3.3",
+			"description": "TypeScript definitions for lodash.camelCase",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "16128ba8dcbf699793cecf069416585f912d8a5d54289cc9c886eb72ee1d95bf",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.camelcase@4.3.3",
+			"dist": {
+				"shasum": "ea5fcc4badea2259008df74425cf80d4536385fc",
+				"size": 1596,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.camelcase/download/@types/lodash.camelcase-4.3.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.camelcase-4.3.3.tgz_1502228848320_0.2075267150066793"
+			},
+			"directories": {},
+			"publish_time": 1502228848382,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228848382
+		},
+		"4.3.2": {
+			"name": "@types/lodash.camelcase",
+			"version": "4.3.2",
+			"description": "TypeScript definitions for lodash.camelCase",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bcfcc3ef2251eac66039d8687f8767f9c2f3a39ad7e521c051c7b40768f0a821",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.camelcase@4.3.2",
+			"dist": {
+				"shasum": "fd195ae81b02c6d50f82f25e0d238ee8a76eb006",
+				"size": 878,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.camelcase/download/@types/lodash.camelcase-4.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.camelcase-4.3.2.tgz_1490212477206_0.4455093720462173"
+			},
+			"directories": {},
+			"publish_time": 1490212478952,
+			"_cnpm_publish_time": 1490212478952,
+			"_hasShrinkwrap": false
+		},
+		"4.3.1": {
+			"name": "@types/lodash.camelcase",
+			"version": "4.3.1",
+			"description": "TypeScript definitions for lodash.camelCase",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7ac205782455af5ea1d886dc1ea7dcde40a6d83c1a91a8c186c0e805700d611b",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.camelcase@4.3.1",
+			"dist": {
+				"shasum": "82168afe3eca274b226d3f337a23231fa54ba8db",
+				"size": 1049,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.camelcase/download/@types/lodash.camelcase-4.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.camelcase-4.3.1.tgz_1485553472883_0.8019772158004344"
+			},
+			"directories": {},
+			"publish_time": 1485553474733,
+			"_cnpm_publish_time": 1485553474733,
+			"_hasShrinkwrap": false
+		},
+		"4.3.0": {
+			"name": "@types/lodash.camelcase",
+			"version": "4.3.0",
+			"description": "TypeScript definitions for lodash.camelCase",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7cb38d580714f41f316e64f400dbf29e55210c8ab23f30edae590b7fa42573a1",
+			"_id": "@types/lodash.camelcase@4.3.0",
+			"dist": {
+				"shasum": "fce4455387cc15d0198d744adcb786644c0fcf52",
+				"size": 1025,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.camelcase/download/@types/lodash.camelcase-4.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.camelcase-4.3.0.tgz_1480973338165_0.6982589005492628"
+			},
+			"directories": {},
+			"publish_time": 1480973338478,
+			"_cnpm_publish_time": 1480973338478,
+			"_hasShrinkwrap": false
+		},
+		"4.3.4": {
+			"name": "@types/lodash.camelcase",
+			"version": "4.3.4",
+			"description": "TypeScript definitions for lodash.camelCase",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "9aa010fba401a83539f464de5ea09760c4bbb4de45bdac4462a04d0bae10706d",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.camelcase@4.3.4",
+			"dist": {
+				"shasum": "bdc60ff98f7727787d9ea593e398a3e9bf9f6180",
+				"size": 1593,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.camelcase/download/@types/lodash.camelcase-4.3.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.camelcase_4.3.4_1532392700285_0.7257082345013564"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532392700358,
+			"_cnpm_publish_time": 1532392700358
+		}
+	},
+	"dist-tags": {
+		"latest": "4.3.4",
+		"ts2.0": "4.3.0",
+		"ts2.1": "4.3.1",
+		"ts2.2": "4.3.3",
+		"ts2.3": "4.3.3",
+		"ts2.4": "4.3.3",
+		"ts2.5": "4.3.3",
+		"ts2.6": "4.3.4",
+		"ts2.7": "4.3.4",
+		"ts2.8": "4.3.4",
+		"ts2.9": "4.3.4",
+		"ts3.0": "4.3.4",
+		"ts3.1": "4.3.4",
+		"ts3.2": "4.3.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:15:56.000Z",
+		"created": "2016-12-05T21:28:58.478Z",
+		"4.3.4": "2018-07-24T00:38:20.358Z",
+		"4.3.3": "2017-08-08T21:47:28.382Z",
+		"4.3.2": "2017-03-22T19:54:38.952Z",
+		"4.3.1": "2017-01-27T21:44:34.733Z",
+		"4.3.0": "2016-12-05T21:28:58.478Z"
+	},
+	"_distfiles": {
+		"lodash.camelcase-4.3.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.camelcase/download/@types/lodash.camelcase-4.3.3.tgz",
+			"sha": "ea5fcc4badea2259008df74425cf80d4536385fc",
+			"registry": "cnpmjs"
+		},
+		"lodash.camelcase-4.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.camelcase/download/@types/lodash.camelcase-4.3.2.tgz",
+			"sha": "fd195ae81b02c6d50f82f25e0d238ee8a76eb006",
+			"registry": "cnpmjs"
+		},
+		"lodash.camelcase-4.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.camelcase/download/@types/lodash.camelcase-4.3.1.tgz",
+			"sha": "82168afe3eca274b226d3f337a23231fa54ba8db",
+			"registry": "cnpmjs"
+		},
+		"lodash.camelcase-4.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.camelcase/download/@types/lodash.camelcase-4.3.0.tgz",
+			"sha": "fce4455387cc15d0198d744adcb786644c0fcf52",
+			"registry": "cnpmjs"
+		},
+		"lodash.camelcase-4.3.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.camelcase/download/@types/lodash.camelcase-4.3.4.tgz",
+			"sha": "bdc60ff98f7727787d9ea593e398a3e9bf9f6180",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833484365
+		}
+	},
+	"_rev": "2-949c066b94676f80",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.camelcase`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.camelCase (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.camelcase\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

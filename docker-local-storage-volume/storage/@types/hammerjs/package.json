@@ -1,0 +1,1129 @@
+{
+	"name": "@types/hammerjs",
+	"versions": {
+		"2.0.35": {
+			"name": "@types/hammerjs",
+			"version": "2.0.35",
+			"description": "TypeScript definitions for Hammer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Philip Bulley",
+					"url": "https://github.com/milkisevil"
+				},
+				{
+					"name": "Han Lin Yap",
+					"url": "https://github.com/codler"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "28b5b45b17dcea20341c4623344d9f92d40a4e80caa674dd847909603a0d6230",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/hammerjs@2.0.35",
+			"dist": {
+				"shasum": "7b7c950c7d54593e23bffc8d2b4feba9866a7277",
+				"size": 3623,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/hammerjs-2.0.35.tgz_1503352382693_0.5607734876684844"
+			},
+			"directories": {},
+			"publish_time": 1503352382755,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352382755
+		},
+		"1.1.2": {
+			"name": "@types/hammerjs",
+			"version": "1.1.2",
+			"description": "TypeScript definitions for Hammer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov/"
+				},
+				{
+					"name": "Drew Noakes",
+					"url": "https://drewnoakes.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d35d397c51fc2c04490d2b68ef03b1f5fef4b53f643da1e81b5d0d46d11ce2f0",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/hammerjs@1.1.2",
+			"dist": {
+				"shasum": "b00db9cb84cd6cc30b35cb366fc7c7551eac94c9",
+				"size": 2595,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-1.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/hammerjs-1.1.2.tgz_1497557634561_0.8152548326179385"
+			},
+			"directories": {},
+			"publish_time": 1497557635765,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497557635765
+		},
+		"1.1.1": {
+			"name": "@types/hammerjs",
+			"version": "1.1.1",
+			"description": "TypeScript definitions for Hammer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov/"
+				},
+				{
+					"name": "Drew Noakes",
+					"url": "https://drewnoakes.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ac10cc4ac6a506d5fa5367256bb88890c48784a5b58545f79cfd116bbd35b612",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/hammerjs@1.1.1",
+			"dist": {
+				"shasum": "41f2a7e00b8a5c75864fbb2eea7cdb464f124a85",
+				"size": 1913,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-1.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-1.1.1.tgz_1488291847328_0.9876722116023302"
+			},
+			"directories": {},
+			"publish_time": 1488291849122,
+			"_cnpm_publish_time": 1488291849122,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "@types/hammerjs",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for Hammer.js",
+			"license": "MIT",
+			"author": "Boris Yankov <https://github.com/borisyankov/>, Drew Noakes <https://drewnoakes.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/jquery": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "de74b40cd126f5721307b9fbf0d3b298aecf19db9bfa884a5314bf4b9dddb72a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/hammerjs@1.1.0",
+			"dist": {
+				"shasum": "fbea276730afb83540c7308c57052649d6982ba9",
+				"size": 2097,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-1.1.0.tgz_1484074416796_0.7252763861324638"
+			},
+			"directories": {},
+			"publish_time": 1484074417020,
+			"_cnpm_publish_time": 1484074417020,
+			"_hasShrinkwrap": false
+		},
+		"2.0.34": {
+			"name": "@types/hammerjs",
+			"version": "2.0.34",
+			"description": "TypeScript definitions for Hammer.js",
+			"license": "MIT",
+			"author": "Philip Bulley <https://github.com/milkisevil/>, Han Lin Yap <https://github.com/codler>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "da6e6c2f2084a19ad742fa5e7540ee472daa9fa1ba5d2b9789dfd28bdce5d40e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/hammerjs@2.0.34",
+			"dist": {
+				"shasum": "9cbac4f41cb039436141785e1be50b3ab10a04a9",
+				"size": 3145,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.34.tgz_1482611948054_0.3241238286718726"
+			},
+			"directories": {},
+			"publish_time": 1482611948279,
+			"_cnpm_publish_time": 1482611948279,
+			"_hasShrinkwrap": false
+		},
+		"2.0.33": {
+			"name": "@types/hammerjs",
+			"version": "2.0.33",
+			"description": "TypeScript definitions for Hammer.js 2.0.8",
+			"license": "MIT",
+			"author": "Philip Bulley <https://github.com/milkisevil/>, Han Lin Yap <https://github.com/codler>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "bb313cf173f50bf41f745dfb89f7d35fb1e7e6af9f2faa98eb5a62cec89b816e",
+			"_id": "@types/hammerjs@2.0.33",
+			"dist": {
+				"shasum": "45f57352474181425bb4b65f7313a60426d54bab",
+				"size": 3166,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.33.tgz_1474306706536_0.516965260496363"
+			},
+			"directories": {},
+			"publish_time": 1474306706783,
+			"_cnpm_publish_time": 1474306706783,
+			"_hasShrinkwrap": false
+		},
+		"2.0.32": {
+			"name": "@types/hammerjs",
+			"version": "2.0.32",
+			"description": "TypeScript definitions for Hammer.js 2.0.8",
+			"license": "MIT",
+			"author": "Philip Bulley <https://github.com/milkisevil/>, Han Lin Yap <https://github.com/codler>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/hammerjs@2.0.32",
+			"dist": {
+				"shasum": "e5d293e60b3be749ecb687b82583a82c6fc89185",
+				"size": 3164,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.32.tgz_1472150647550_0.4315554271452129"
+			},
+			"directories": {},
+			"publish_time": 1472150649356,
+			"_cnpm_publish_time": 1472150649356,
+			"_hasShrinkwrap": false
+		},
+		"2.0.31": {
+			"name": "@types/hammerjs",
+			"version": "2.0.31",
+			"description": "TypeScript definitions for Hammer.js 2.0.8",
+			"license": "MIT",
+			"author": "Philip Bulley <https://github.com/milkisevil/>, Han Lin Yap <https://github.com/codler>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/hammerjs@2.0.31",
+			"dist": {
+				"shasum": "8dcec503a7ef9fecc7daeba85c1d47c40c4d7fc2",
+				"size": 3164,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.31.tgz_1471620427947_0.8664292807225138"
+			},
+			"directories": {},
+			"publish_time": 1471620429167,
+			"_cnpm_publish_time": 1471620429167,
+			"_hasShrinkwrap": false
+		},
+		"2.0.30": {
+			"name": "@types/hammerjs",
+			"version": "2.0.30",
+			"description": "TypeScript definitions for Hammer.js 2.0.8",
+			"license": "MIT",
+			"author": "Philip Bulley <https://github.com/milkisevil/>, Han Lin Yap <https://github.com/codler>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/hammerjs@2.0.30",
+			"dist": {
+				"shasum": "440335b41338931992fb9bfa5138166b718a9407",
+				"size": 15360,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.30.tgz_1470153259913_0.28498545149341226"
+			},
+			"directories": {},
+			"publish_time": 1470153262035,
+			"_cnpm_publish_time": 1470153262035,
+			"_hasShrinkwrap": false
+		},
+		"2.0.29": {
+			"name": "@types/hammerjs",
+			"version": "2.0.29",
+			"description": "TypeScript definitions for Hammer.js 2.0.4",
+			"license": "MIT",
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/hammerjs@2.0.29",
+			"_shasum": "0636c0c745d9942f6852690d385b80087e23607a",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0636c0c745d9942f6852690d385b80087e23607a",
+				"size": 2947,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.29.tgz_1468933867887_0.005237467586994171"
+			},
+			"directories": {},
+			"publish_time": 1468933870137,
+			"_cnpm_publish_time": 1468933870137,
+			"_hasShrinkwrap": false
+		},
+		"2.0.28": {
+			"name": "@types/hammerjs",
+			"version": "2.0.28",
+			"description": "TypeScript definitions for Hammer.js 2.0.4",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/hammerjs@2.0.28",
+			"_shasum": "40f4a0221e1395069cd3a46c4aec11b86d5de99b",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "40f4a0221e1395069cd3a46c4aec11b86d5de99b",
+				"size": 3942,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.28.tgz_1468507816432_0.450077278772369"
+			},
+			"directories": {},
+			"publish_time": 1468507816918,
+			"_cnpm_publish_time": 1468507816918,
+			"_hasShrinkwrap": false
+		},
+		"2.0.27-alpha": {
+			"name": "@types/hammerjs",
+			"version": "2.0.27-alpha",
+			"description": "TypeScript definitions for Hammer.js 2.0.4",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/hammerjs@2.0.27-alpha",
+			"_shasum": "b3bb714c7c654d011981e4f38c292c89f2082735",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b3bb714c7c654d011981e4f38c292c89f2082735",
+				"size": 3940,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.27-alpha.tgz_1468009215421_0.03488301066681743"
+			},
+			"directories": {},
+			"publish_time": 1468009217902,
+			"_cnpm_publish_time": 1468009217902,
+			"_hasShrinkwrap": false
+		},
+		"2.0.26-alpha": {
+			"name": "@types/hammerjs",
+			"version": "2.0.26-alpha",
+			"description": "TypeScript definitions for Hammer.js 2.0.4",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/hammerjs@2.0.26-alpha",
+			"_shasum": "5fe76c07608ca8d960aa1dc7b13b52147ffa0f65",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5fe76c07608ca8d960aa1dc7b13b52147ffa0f65",
+				"size": 3939,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.26-alpha.tgz_1467591890840_0.4259162724483758"
+			},
+			"directories": {},
+			"publish_time": 1467591894251,
+			"_cnpm_publish_time": 1467591894251,
+			"_hasShrinkwrap": false
+		},
+		"2.0.25-alpha": {
+			"name": "@types/hammerjs",
+			"version": "2.0.25-alpha",
+			"description": "TypeScript definitions for Hammer.js 2.0.4",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/hammerjs@2.0.25-alpha",
+			"_shasum": "ce954627958d2ddaf9ebeb9ca6fb1551cc1a6f57",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ce954627958d2ddaf9ebeb9ca6fb1551cc1a6f57",
+				"size": 3943,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.25-alpha.tgz_1467426961289_0.2543777471873909"
+			},
+			"directories": {},
+			"publish_time": 1467426961951,
+			"_cnpm_publish_time": 1467426961951,
+			"_hasShrinkwrap": false
+		},
+		"2.0.24-alpha": {
+			"name": "@types/hammerjs",
+			"version": "2.0.24-alpha",
+			"description": "TypeScript definitions for Hammer.js 2.0.4",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/hammerjs@2.0.24-alpha",
+			"_shasum": "184fc26a962429dfdad7d2c6464e242f3e05428c",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "184fc26a962429dfdad7d2c6464e242f3e05428c",
+				"size": 3942,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.24-alpha.tgz_1467413675296_0.7550322217866778"
+			},
+			"directories": {},
+			"publish_time": 1467413675810,
+			"_cnpm_publish_time": 1467413675810,
+			"_hasShrinkwrap": false
+		},
+		"2.0.23-alpha": {
+			"name": "@types/hammerjs",
+			"version": "2.0.23-alpha",
+			"description": "TypeScript definitions for Hammer.js 2.0.4",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/hammerjs@2.0.23-alpha",
+			"_shasum": "b654a1e166ff90573409e11b3b5a85e5eb9d505a",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b654a1e166ff90573409e11b3b5a85e5eb9d505a",
+				"size": 3926,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.23-alpha.tgz_1467401889313_0.809896684018895"
+			},
+			"directories": {},
+			"publish_time": 1467401889794,
+			"_cnpm_publish_time": 1467401889794,
+			"_hasShrinkwrap": false
+		},
+		"2.0.22-alpha": {
+			"name": "@types/hammerjs",
+			"version": "2.0.22-alpha",
+			"description": "TypeScript definitions for Hammer.js 2.0.4",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/hammerjs@2.0.22-alpha",
+			"_shasum": "2dcbe5cc209cd5c6ba39e671fa4c58cd05fb6713",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2dcbe5cc209cd5c6ba39e671fa4c58cd05fb6713",
+				"size": 3909,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.22-alpha.tgz_1464152626040_0.4099795022048056"
+			},
+			"directories": {},
+			"publish_time": 1464152626519,
+			"_cnpm_publish_time": 1464152626519,
+			"_hasShrinkwrap": false
+		},
+		"2.0.21-alpha": {
+			"name": "@types/hammerjs",
+			"version": "2.0.21-alpha",
+			"description": "TypeScript definitions for Hammer.js 2.0.4",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/hammerjs@2.0.21-alpha",
+			"_shasum": "3d16b2e56f5efd836010eaa2a71989bbffe1b258",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3d16b2e56f5efd836010eaa2a71989bbffe1b258",
+				"size": 3911,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.21-alpha.tgz_1463773533177_0.08821833343245089"
+			},
+			"directories": {},
+			"publish_time": 1463773535551,
+			"_cnpm_publish_time": 1463773535551,
+			"_hasShrinkwrap": false
+		},
+		"2.0.16-alpha": {
+			"name": "@types/hammerjs",
+			"version": "2.0.16-alpha",
+			"description": "Type definitions for Hammer.js 2.0.4 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/hammerjs@2.0.16-alpha",
+			"_shasum": "8b95012e25ecd5098faf74da1d2c179dba0c357d",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8b95012e25ecd5098faf74da1d2c179dba0c357d",
+				"size": 3920,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.16-alpha.tgz_1463692073718_0.09343986306339502"
+			},
+			"directories": {},
+			"publish_time": 1463692076043,
+			"_cnpm_publish_time": 1463692076043,
+			"_hasShrinkwrap": false
+		},
+		"2.0.15-alpha": {
+			"name": "@types/hammerjs",
+			"version": "2.0.15-alpha",
+			"description": "Type definitions for Hammer.js 2.0.4 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Philip Bulley",
+				"email": "https://github.com/milkisevil/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/hammerjs@2.0.15-alpha",
+			"_shasum": "2ee19624fcd96cd372a6fbc215fe5c96fbef66ce",
+			"_from": "output\\hammerjs",
+			"_resolved": "file:output\\hammerjs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2ee19624fcd96cd372a6fbc215fe5c96fbef66ce",
+				"size": 3913,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hammerjs-2.0.15-alpha.tgz_1463461684646_0.31196470046415925"
+			},
+			"directories": {},
+			"publish_time": 1463461685210,
+			"_cnpm_publish_time": 1463461685210,
+			"_hasShrinkwrap": false
+		},
+		"2.0.36": {
+			"name": "@types/hammerjs",
+			"version": "2.0.36",
+			"description": "TypeScript definitions for Hammer.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Philip Bulley",
+					"url": "https://github.com/milkisevil",
+					"githubUsername": "milkisevil"
+				},
+				{
+					"name": "Han Lin Yap",
+					"url": "https://github.com/codler",
+					"githubUsername": "codler"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "accf80ac4ca9e090f78699ea336672ddbc1fe25ad9cf30a5dd6b2d8238f60a57",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/hammerjs@2.0.36",
+			"dist": {
+				"shasum": "17ce0a235e9ffbcdcdf5095646b374c2bf615a4c",
+				"size": 3635,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/hammerjs_2.0.36_1536621097627_0.6314690505229597"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536621097727,
+			"_cnpm_publish_time": 1536621097727
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.36",
+		"ts2.0": "2.0.36",
+		"ts2.1": "2.0.36",
+		"ts2.2": "2.0.36",
+		"ts2.3": "2.0.36",
+		"ts2.4": "2.0.36",
+		"ts2.5": "2.0.36",
+		"ts2.6": "2.0.36",
+		"ts2.7": "2.0.36",
+		"ts2.8": "2.0.36",
+		"ts2.9": "2.0.36",
+		"ts3.0": "2.0.36",
+		"ts3.1": "2.0.36",
+		"ts3.2": "2.0.36"
+	},
+	"time": {
+		"modified": "2018-09-10T23:11:59.000Z",
+		"created": "2016-05-17T05:08:05.210Z",
+		"2.0.36": "2018-09-10T23:11:37.727Z",
+		"2.0.35": "2017-08-21T21:53:02.755Z",
+		"1.1.2": "2017-06-15T20:13:55.765Z",
+		"1.1.1": "2017-02-28T14:24:09.122Z",
+		"1.1.0": "2017-01-10T18:53:37.020Z",
+		"2.0.34": "2016-12-24T20:39:08.279Z",
+		"2.0.33": "2016-09-19T17:38:26.783Z",
+		"2.0.32": "2016-08-25T18:44:09.356Z",
+		"2.0.31": "2016-08-19T15:27:09.167Z",
+		"2.0.30": "2016-08-02T15:54:22.035Z",
+		"2.0.29": "2016-07-19T13:11:10.137Z",
+		"2.0.28": "2016-07-14T14:50:16.918Z",
+		"2.0.27-alpha": "2016-07-08T20:20:17.902Z",
+		"2.0.26-alpha": "2016-07-04T00:24:54.251Z",
+		"2.0.25-alpha": "2016-07-02T02:36:01.951Z",
+		"2.0.24-alpha": "2016-07-01T22:54:35.810Z",
+		"2.0.23-alpha": "2016-07-01T19:38:09.794Z",
+		"2.0.22-alpha": "2016-05-25T05:03:46.519Z",
+		"2.0.21-alpha": "2016-05-20T19:45:35.551Z",
+		"2.0.16-alpha": "2016-05-19T21:07:56.043Z",
+		"2.0.15-alpha": "2016-05-17T05:08:05.210Z"
+	},
+	"_distfiles": {
+		"hammerjs-2.0.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.35.tgz",
+			"sha": "7b7c950c7d54593e23bffc8d2b4feba9866a7277",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-1.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-1.1.2.tgz",
+			"sha": "b00db9cb84cd6cc30b35cb366fc7c7551eac94c9",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-1.1.1.tgz",
+			"sha": "41f2a7e00b8a5c75864fbb2eea7cdb464f124a85",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-1.1.0.tgz",
+			"sha": "fbea276730afb83540c7308c57052649d6982ba9",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.34.tgz",
+			"sha": "9cbac4f41cb039436141785e1be50b3ab10a04a9",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.33.tgz",
+			"sha": "45f57352474181425bb4b65f7313a60426d54bab",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.32.tgz",
+			"sha": "e5d293e60b3be749ecb687b82583a82c6fc89185",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.31.tgz",
+			"sha": "8dcec503a7ef9fecc7daeba85c1d47c40c4d7fc2",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.30.tgz",
+			"sha": "440335b41338931992fb9bfa5138166b718a9407",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.29.tgz",
+			"sha": "0636c0c745d9942f6852690d385b80087e23607a",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.28.tgz",
+			"sha": "40f4a0221e1395069cd3a46c4aec11b86d5de99b",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.27-alpha.tgz",
+			"sha": "b3bb714c7c654d011981e4f38c292c89f2082735",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.26-alpha.tgz",
+			"sha": "5fe76c07608ca8d960aa1dc7b13b52147ffa0f65",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.25-alpha.tgz",
+			"sha": "ce954627958d2ddaf9ebeb9ca6fb1551cc1a6f57",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.24-alpha.tgz",
+			"sha": "184fc26a962429dfdad7d2c6464e242f3e05428c",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.23-alpha.tgz",
+			"sha": "b654a1e166ff90573409e11b3b5a85e5eb9d505a",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.22-alpha.tgz",
+			"sha": "2dcbe5cc209cd5c6ba39e671fa4c58cd05fb6713",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.21-alpha.tgz",
+			"sha": "3d16b2e56f5efd836010eaa2a71989bbffe1b258",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.16-alpha.tgz",
+			"sha": "8b95012e25ecd5098faf74da1d2c179dba0c357d",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.15-alpha.tgz",
+			"sha": "2ee19624fcd96cd372a6fbc215fe5c96fbef66ce",
+			"registry": "cnpmjs"
+		},
+		"hammerjs-2.0.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hammerjs/download/@types/hammerjs-2.0.36.tgz",
+			"sha": "17ce0a235e9ffbcdcdf5095646b374c2bf615a4c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"630a-JrkINbKDaonLmbJ7mFIed57msko\"",
+			"fetched": 1541833456262
+		}
+	},
+	"_rev": "2-1e930d21a9871aae",
+	"readme": "# Installation\r\n> `npm install --save @types/hammerjs`\r\n\r\n# Summary\r\nThis package contains type definitions for Hammer.js (http://hammerjs.github.io/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/hammerjs\r\n\r\nAdditional Details\r\n * Last updated: Mon, 10 Sep 2018 23:10:33 GMT\r\n * Dependencies: none\r\n * Global values: Hammer, HammerInput, MouseInput, PointerEventInput, SingleTouchInput, TouchAction, TouchInput, TouchMouseInput\r\n\r\n# Credits\r\nThese definitions were written by Philip Bulley <https://github.com/milkisevil>, Han Lin Yap <https://github.com/codler>."
+}

@@ -1,0 +1,2781 @@
+{
+	"name": "uncontrollable",
+	"versions": {
+		"6.0.0": {
+			"name": "uncontrollable",
+			"version": "6.0.0",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "lib/index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "jest",
+				"tdd": "jest --watch",
+				"lint": "eslint src test",
+				"build": "rimraf lib && babel src --out-dir lib && cp package.json lib/",
+				"prepublishOnly": "npm run build",
+				"semantic-release": "semantic-release",
+				"travis-deploy-once": "travis-deploy-once"
+			},
+			"peerDependencies": {
+				"react": ">=15.0.0"
+			},
+			"jest": {
+				"rootDir": "./test"
+			},
+			"devDependencies": {
+				"@babel/cli": "^7.0.0-beta.46",
+				"@babel/core": "^7.0.0-beta.46",
+				"@semantic-release/changelog": "^2.0.2",
+				"@semantic-release/git": "^4.0.3",
+				"@semantic-release/github": "^4.2.14",
+				"@semantic-release/npm": "^3.2.5",
+				"babel-core": "^7.0.0-0",
+				"babel-eslint": "^8.2.3",
+				"babel-jest": "^22.4.3",
+				"babel-preset-jason": "^4.1.0",
+				"cpy": "^6.0.0",
+				"enzyme": "^3.3.0",
+				"@monastic.panic/enzyme-adapter-react-16": "^1.1.1",
+				"eslint": "^4.19.1",
+				"eslint-config-jason": "^4.0.0",
+				"eslint-plugin-import": "^2.11.0",
+				"eslint-plugin-react": "^7.7.0",
+				"jest": "^22.4.3",
+				"prop-types": "^15.6.1",
+				"react": "^16.3.2",
+				"react-dom": "^16.3.2",
+				"release-script": "^1.0.2",
+				"rimraf": "^2.6.2",
+				"semantic-release": "^15.1.11",
+				"semantic-release-alt-publish-dir": "^2.1.1",
+				"travis-deploy-once": "^5.0.0"
+			},
+			"dependencies": {
+				"invariant": "^2.2.4"
+			},
+			"release": {
+				"verifyConditions": [
+					"@semantic-release/changelog",
+					"@semantic-release/npm",
+					"@semantic-release/git",
+					"@semantic-release/github"
+				],
+				"prepare": [
+					"@semantic-release/changelog",
+					"@semantic-release/npm",
+					"@semantic-release/git"
+				]
+			},
+			"gitHead": "22c0fbb0e16873cdb2cfd7749490ac84483aeebe",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@6.0.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "10.0.0",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "d39a3d5334802a862a0ef4a6e4ba0d19b8ddec4d",
+				"size": 74172,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-6.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uncontrollable_6.0.0_1525286338502_0.5200657523815688"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525286338579,
+			"_cnpm_publish_time": 1525286338579
+		},
+		"5.1.0": {
+			"name": "uncontrollable",
+			"version": "5.1.0",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=15.0.0"
+			},
+			"jest": {
+				"rootDir": "./test"
+			},
+			"dependencies": {
+				"invariant": "^2.2.4"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@5.1.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.10.1",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "7e9a1c50ea24e3c78b625e52d21ff3f758c7bd59",
+				"size": 5956,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-5.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uncontrollable_5.1.0_1522504433354_0.9177088594982392"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522504433438,
+			"_cnpm_publish_time": 1522504433438
+		},
+		"5.0.0": {
+			"name": "uncontrollable",
+			"version": "5.0.0",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=15.0.0"
+			},
+			"jest": {
+				"rootDir": "./test"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@5.0.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "8.9.3",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "ab713baa04df3fcb6ac65bc18f1792fee1729119",
+				"size": 5814,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/uncontrollable_5.0.0_1518112153954_0.44115679864715296"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518112154649,
+			"_cnpm_publish_time": 1518112154649
+		},
+		"4.1.0": {
+			"name": "uncontrollable",
+			"version": "4.1.0",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"jest": {
+				"rootDir": "./test"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@4.1.0",
+			"scripts": {},
+			"_shasum": "e0358291252e1865222d90939b19f2f49f81c1a9",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.10.0",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "e0358291252e1865222d90939b19f2f49f81c1a9",
+				"size": 7148,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uncontrollable-4.1.0.tgz_1492535176682_0.294255078304559"
+			},
+			"directories": {},
+			"publish_time": 1492535178641,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492535178641
+		},
+		"4.0.3": {
+			"name": "uncontrollable",
+			"version": "4.0.3",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@4.0.3",
+			"scripts": {},
+			"_shasum": "06ec76cb9e02914756085d9cea0354fc746b09b4",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "06ec76cb9e02914756085d9cea0354fc746b09b4",
+				"size": 6638,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-4.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uncontrollable-4.0.3.tgz_1471884508191_0.18680998519994318"
+			},
+			"directories": {},
+			"publish_time": 1471884510219,
+			"_cnpm_publish_time": 1471884510219,
+			"_hasShrinkwrap": false
+		},
+		"4.0.2": {
+			"name": "uncontrollable",
+			"version": "4.0.2",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@4.0.2",
+			"scripts": {},
+			"_shasum": "bc184191b26a3bb61c66519e0381a91fa284fe8a",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "bc184191b26a3bb61c66519e0381a91fa284fe8a",
+				"size": 6747,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-4.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uncontrollable-4.0.2.tgz_1471884166390_0.7830292608123273"
+			},
+			"directories": {},
+			"publish_time": 1471884168294,
+			"_cnpm_publish_time": 1471884168294,
+			"_hasShrinkwrap": false
+		},
+		"4.0.1": {
+			"name": "uncontrollable",
+			"version": "4.0.1",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@4.0.1",
+			"scripts": {},
+			"_shasum": "e1f69b7eb97d39b6bee502db179ba2b9fee8d8a2",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "e1f69b7eb97d39b6bee502db179ba2b9fee8d8a2",
+				"size": 6722,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uncontrollable-4.0.1.tgz_1470078071714_0.7825562618672848"
+			},
+			"directories": {},
+			"publish_time": 1470078072677,
+			"_cnpm_publish_time": 1470078072677,
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "uncontrollable",
+			"version": "4.0.0",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@4.0.0",
+			"scripts": {},
+			"_shasum": "a919bd01683c23a27c632d2e236a7e8c4da858fe",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "4.0.0",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "a919bd01683c23a27c632d2e236a7e8c4da858fe",
+				"size": 6683,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uncontrollable-4.0.0.tgz_1467815365596_0.40484395856037736"
+			},
+			"directories": {},
+			"publish_time": 1467815368061,
+			"_cnpm_publish_time": 1467815368061,
+			"_hasShrinkwrap": false
+		},
+		"3.2.4": {
+			"name": "uncontrollable",
+			"version": "3.2.4",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.2.4",
+			"scripts": {},
+			"_shasum": "9ee00172f98c668c04ca260f73b6b0eacd4f65df",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "9ee00172f98c668c04ca260f73b6b0eacd4f65df",
+				"size": 6691,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uncontrollable-3.2.4.tgz_1461245501021_0.6799112288281322"
+			},
+			"directories": {},
+			"publish_time": 1461245502423,
+			"_cnpm_publish_time": 1461245502423,
+			"_hasShrinkwrap": false
+		},
+		"3.3.1": {
+			"name": "uncontrollable",
+			"version": "3.3.1",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.3.1",
+			"scripts": {},
+			"_shasum": "e23b402e7a4c69b1853fb4b43ce34b6480c65b6f",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "e23b402e7a4c69b1853fb4b43ce34b6480c65b6f",
+				"size": 6693,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uncontrollable-3.3.1.tgz_1461245424578_0.7567636938765645"
+			},
+			"directories": {},
+			"publish_time": 1461245426845,
+			"_cnpm_publish_time": 1461245426845,
+			"_hasShrinkwrap": false
+		},
+		"3.3.0": {
+			"name": "uncontrollable",
+			"version": "3.3.0",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.3.0",
+			"scripts": {},
+			"_shasum": "c4fc680ae73e8fd1e0386b4ca22f4da29a686d98",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "c4fc680ae73e8fd1e0386b4ca22f4da29a686d98",
+				"size": 6690,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uncontrollable-3.3.0.tgz_1461245273089_0.1532977654132992"
+			},
+			"directories": {},
+			"publish_time": 1461245274501,
+			"_cnpm_publish_time": 1461245274501,
+			"_hasShrinkwrap": false
+		},
+		"3.2.3": {
+			"name": "uncontrollable",
+			"version": "3.2.3",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run",
+				"clean": "rimraf lib",
+				"copy": "cpy ./README.md ./lib",
+				"tdd": "karma start",
+				"build": "npm run test && npm run clean && babel src --out-dir lib && npm run copy",
+				"release": "release"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"release-script": {
+				"defaultDryRun": "false",
+				"altPkgRootFolder": "lib"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-eslint": "^4.0.5",
+				"babel-loader": "^5.3.2",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"cpy": "^3.4.0",
+				"eslint": "^0.24.1",
+				"imports-loader": "^0.6.3",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": ">=0.11.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.2.3",
+			"_shasum": "8e210c6f80f63085f7705897a2788e9bffbbe2ce",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "4.0.0",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"dist": {
+				"shasum": "8e210c6f80f63085f7705897a2788e9bffbbe2ce",
+				"size": 6740,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uncontrollable-3.2.3.tgz_1459062376788_0.44235215871594846"
+			},
+			"directories": {},
+			"publish_time": 1459062379255,
+			"_cnpm_publish_time": 1459062379255,
+			"_hasShrinkwrap": false
+		},
+		"3.2.1": {
+			"name": "uncontrollable",
+			"version": "3.2.1",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.2.1",
+			"scripts": {},
+			"_shasum": "91548ca99d5c414b6c72bfb485952c6816519562",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "4.1.2",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "91548ca99d5c414b6c72bfb485952c6816519562",
+				"size": 6374,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.2.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1450545652584,
+			"_cnpm_publish_time": 1450545652584,
+			"_hasShrinkwrap": false
+		},
+		"3.2.0": {
+			"name": "uncontrollable",
+			"version": "3.2.0",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.2.0",
+			"scripts": {},
+			"_shasum": "ed99a1daadfafc6e042815da6c8a75fbb1f2dc28",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "4.1.2",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ed99a1daadfafc6e042815da6c8a75fbb1f2dc28",
+				"size": 6380,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.2.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1449595403440,
+			"_cnpm_publish_time": 1449595403440,
+			"_hasShrinkwrap": false
+		},
+		"3.1.4": {
+			"name": "uncontrollable",
+			"version": "3.1.4",
+			"description": "Wrap a controlled react component, to allow specific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.1.4",
+			"scripts": {},
+			"_shasum": "7646fae6bfc86ac033e0fe1ada305e4c51098064",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "4.1.2",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "7646fae6bfc86ac033e0fe1ada305e4c51098064",
+				"size": 6278,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.1.4.tgz"
+			},
+			"directories": {},
+			"publish_time": 1448303579715,
+			"_cnpm_publish_time": 1448303579715,
+			"_hasShrinkwrap": false
+		},
+		"3.1.3": {
+			"name": "uncontrollable",
+			"version": "3.1.3",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.1.3",
+			"scripts": {},
+			"_shasum": "4fdddfba42ffcd83e6186d9c12f18b9102b2514e",
+			"_from": ".",
+			"_npmVersion": "2.14.7",
+			"_nodeVersion": "0.12.3",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "4fdddfba42ffcd83e6186d9c12f18b9102b2514e",
+				"size": 6178,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.1.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1444248132298,
+			"_cnpm_publish_time": 1444248132298,
+			"_hasShrinkwrap": false
+		},
+		"3.1.2": {
+			"name": "uncontrollable",
+			"version": "3.1.2",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0 || ^0.14.0-beta3"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.1.2",
+			"scripts": {},
+			"_shasum": "1272f3647d85e85fe359a677835b99d9dcab4719",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "0.10.36",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "1272f3647d85e85fe359a677835b99d9dcab4719",
+				"size": 6002,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.1.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1442130683269,
+			"_cnpm_publish_time": 1442130683269,
+			"_hasShrinkwrap": false
+		},
+		"3.1.1": {
+			"name": "uncontrollable",
+			"version": "3.1.1",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0 || ^0.14.0-beta3"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.1.1",
+			"scripts": {},
+			"_shasum": "3ab5ba9a77e537fb5431a4d48964758a9bf8aada",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "0.10.36",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "3ab5ba9a77e537fb5431a4d48964758a9bf8aada",
+				"size": 5684,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.1.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1441968988151,
+			"_cnpm_publish_time": 1441968988151,
+			"_hasShrinkwrap": false
+		},
+		"3.0.3": {
+			"name": "uncontrollable",
+			"version": "3.0.3",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0 || ^0.14.0-beta3"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.0.3",
+			"scripts": {},
+			"_shasum": "126f5f85dd2da9e2c06b6d6b84401a5c908d2131",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "0.10.36",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "126f5f85dd2da9e2c06b6d6b84401a5c908d2131",
+				"size": 5682,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.0.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1441968744719,
+			"_cnpm_publish_time": 1441968744719,
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "uncontrollable",
+			"version": "3.1.0",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0 || 0.14.0-beta3"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.1.0",
+			"scripts": {},
+			"_shasum": "5fb24f8e5fc23e27e497bf1a1b2933e6fc65df40",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "0.12.3",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "5fb24f8e5fc23e27e497bf1a1b2933e6fc65df40",
+				"size": 5794,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.1.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1440001789171,
+			"_cnpm_publish_time": 1440001789171,
+			"_hasShrinkwrap": false
+		},
+		"3.0.2": {
+			"name": "uncontrollable",
+			"version": "3.0.2",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0 || 0.14.0-beta3"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.0.2",
+			"scripts": {},
+			"_shasum": "d334080269db2fc28f48cd3df8a9771ab887b6e4",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "0.12.3",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "d334080269db2fc28f48cd3df8a9771ab887b6e4",
+				"size": 5682,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.0.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1439589267546,
+			"_cnpm_publish_time": 1439589267546,
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "uncontrollable",
+			"version": "3.0.1",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.0.1",
+			"scripts": {},
+			"_shasum": "646da7449bb2abfeb9043b6eca1473a11bc86089",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "0.12.3",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "646da7449bb2abfeb9043b6eca1473a11bc86089",
+				"size": 5672,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.0.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1439588772975,
+			"_cnpm_publish_time": 1439588772975,
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "uncontrollable",
+			"version": "3.0.0",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "index.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@3.0.0",
+			"scripts": {},
+			"_shasum": "48c191b3c5a6977389909f51fc0747a7ffd8a8f9",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "0.12.3",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "48c191b3c5a6977389909f51fc0747a7ffd8a8f9",
+				"size": 2817,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1439404835265,
+			"_cnpm_publish_time": 1439404835265,
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "uncontrollable",
+			"version": "2.0.0",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"react-layer": "^1.1.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "f4fd35a5e98ac6216a793b7ab9c7db20125fe8b3",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@2.0.0",
+			"_shasum": "4316bcf9ba0e026d6ccdeb3cb5bd683d0c202a57",
+			"_from": ".",
+			"_npmVersion": "2.12.1",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "4316bcf9ba0e026d6ccdeb3cb5bd683d0c202a57",
+				"size": 41577,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-2.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1437509859748,
+			"_cnpm_publish_time": 1437509859748,
+			"_hasShrinkwrap": false
+		},
+		"1.4.0": {
+			"name": "uncontrollable",
+			"version": "1.4.0",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"react-layer": "^1.1.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "ba8ea842db8b9a6f9a87fa1e1f6a545e8bf0bcab",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@1.4.0",
+			"_shasum": "8a80126d8d55beba037ee2b87f25afce3d5b38cc",
+			"_from": ".",
+			"_npmVersion": "2.12.1",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "8a80126d8d55beba037ee2b87f25afce3d5b38cc",
+				"size": 41182,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.4.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1436530461468,
+			"_cnpm_publish_time": 1436530461468,
+			"_hasShrinkwrap": false
+		},
+		"1.3.2": {
+			"name": "uncontrollable",
+			"version": "1.3.2",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"react-layer": "^1.1.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "739634de27bdf0660c3f647e0c01a09d4496a18d",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@1.3.2",
+			"_shasum": "2a8ee7acfc99cc839d7937c48f7f42cdd86663e8",
+			"_from": ".",
+			"_npmVersion": "2.12.1",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "2a8ee7acfc99cc839d7937c48f7f42cdd86663e8",
+				"size": 41943,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.3.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1436212686959,
+			"_cnpm_publish_time": 1436212686959,
+			"_hasShrinkwrap": false
+		},
+		"1.3.1": {
+			"name": "uncontrollable",
+			"version": "1.3.1",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"react-layer": "^1.1.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "23718eb0c6fcd401d35ab17e9c45f49ec1fe82a2",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@1.3.1",
+			"_shasum": "07c9c04a13d6204f47f012114e533bc87dec67df",
+			"_from": ".",
+			"_npmVersion": "2.12.1",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "07c9c04a13d6204f47f012114e533bc87dec67df",
+				"size": 41746,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.3.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1436190965075,
+			"_cnpm_publish_time": 1436190965075,
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "uncontrollable",
+			"version": "1.3.0",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"react-layer": "^1.1.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "3dd2f094ad30f6a73f78e311611f123e25e6310b",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@1.3.0",
+			"_shasum": "404d453c238ca53078fb7d9e8560194ef42ffbe8",
+			"_from": ".",
+			"_npmVersion": "2.12.1",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "404d453c238ca53078fb7d9e8560194ef42ffbe8",
+				"size": 41560,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.3.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1435942111268,
+			"_cnpm_publish_time": 1435942111268,
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "uncontrollable",
+			"version": "1.2.0",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jquense/uncontrollable.git"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "ec22f4ba52a6e894d2dd24aa14312e91ec5cd57f",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable#readme",
+			"_id": "uncontrollable@1.2.0",
+			"_shasum": "f5b5470532f05b13035ecb8aa31c588ca3986ed0",
+			"_from": ".",
+			"_npmVersion": "2.10.0",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "f5b5470532f05b13035ecb8aa31c588ca3986ed0",
+				"size": 41418,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.2.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1433788894546,
+			"_cnpm_publish_time": 1433788894546,
+			"_hasShrinkwrap": false
+		},
+		"1.1.4": {
+			"name": "uncontrollable",
+			"version": "1.1.4",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/jquense/uncontrollable"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "4608fd6a52a5974856a29cd9ad627d9391326872",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable",
+			"_id": "uncontrollable@1.1.4",
+			"_shasum": "3e60ab27ef718c0a8e6e8e6dea8e25ae577e270c",
+			"_from": ".",
+			"_npmVersion": "2.1.6",
+			"_nodeVersion": "0.10.24",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "3e60ab27ef718c0a8e6e8e6dea8e25ae577e270c",
+				"size": 40903,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.1.4.tgz"
+			},
+			"directories": {},
+			"publish_time": 1429813401413,
+			"_cnpm_publish_time": 1429813401413,
+			"_hasShrinkwrap": false
+		},
+		"1.1.3": {
+			"name": "uncontrollable",
+			"version": "1.1.3",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/jquense/uncontrollable"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "5477c97d3e0f50793afb50e0ca92f5fe0df08fdb",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable",
+			"_id": "uncontrollable@1.1.3",
+			"_shasum": "1ef3492cfe1ac6555d80c25d47a5d199232f5374",
+			"_from": ".",
+			"_npmVersion": "1.4.27",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "1ef3492cfe1ac6555d80c25d47a5d199232f5374",
+				"size": 40901,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.1.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1426884274635,
+			"_cnpm_publish_time": 1426884274635,
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "uncontrollable",
+			"version": "1.1.2",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/jquense/uncontrollable"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "ade9b3c7c43a9491d76de8a727402e0864cad00f",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable",
+			"_id": "uncontrollable@1.1.2",
+			"_shasum": "1bef5db6af766a4b3b660f761b4f5f727a4cb29a",
+			"_from": ".",
+			"_npmVersion": "1.4.27",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "1bef5db6af766a4b3b660f761b4f5f727a4cb29a",
+				"size": 39092,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.1.2.tgz"
+			},
+			"publish_time": 1426196461334,
+			"_cnpm_publish_time": 1426196461334,
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "uncontrollable",
+			"version": "1.1.1",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/jquense/uncontrollable"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"rimraf": "^2.2.8",
+				"gulp": "^3.8.10",
+				"gulp-less": "^2.0.1",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"mocha": "~1.21.4",
+				"chai": "^1.10.0",
+				"sinon-chai": "^2.6.0",
+				"chai-as-promised": "^4.1.1",
+				"phantomjs": "~1.9.10",
+				"imports-loader": "^0.6.3",
+				"css-loader": "^0.9.1",
+				"style-loader": "^0.8.3",
+				"less-loader": "^2.0.0",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "32107179afaae6cb76e82981c32300aed908d86c",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable",
+			"_id": "uncontrollable@1.1.1",
+			"_shasum": "ff163223a3653cce19d8bb4e183fca750277b2b4",
+			"_from": ".",
+			"_npmVersion": "1.4.27",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "ff163223a3653cce19d8bb4e183fca750277b2b4",
+				"size": 38237,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.1.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1425938256707,
+			"_cnpm_publish_time": 1425938256707,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "uncontrollable",
+			"version": "1.1.0",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/jquense/uncontrollable"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"rimraf": "^2.2.8",
+				"gulp": "^3.8.10",
+				"gulp-less": "^2.0.1",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"mocha": "~1.21.4",
+				"chai": "^1.10.0",
+				"sinon-chai": "^2.6.0",
+				"chai-as-promised": "^4.1.1",
+				"phantomjs": "~1.9.10",
+				"imports-loader": "^0.6.3",
+				"css-loader": "^0.9.1",
+				"style-loader": "^0.8.3",
+				"less-loader": "^2.0.0",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"gitHead": "32107179afaae6cb76e82981c32300aed908d86c",
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable",
+			"_id": "uncontrollable@1.1.0",
+			"_shasum": "5fddf6b97a95d3e64e3a04b145eb09d7c7ff60d3",
+			"_from": ".",
+			"_npmVersion": "1.4.27",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "5fddf6b97a95d3e64e3a04b145eb09d7c7ff60d3",
+				"size": 38166,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.1.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1425937933254,
+			"_cnpm_publish_time": 1425937933254,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "uncontrollable",
+			"version": "1.0.0",
+			"description": "Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled",
+			"author": {
+				"name": "Jason Quense",
+				"email": "monastic.panic@gmail.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/jquense/uncontrollable"
+			},
+			"license": "MIT",
+			"main": "lib/uncontrollable.js",
+			"keywords": [
+				"uncontrolled-component",
+				"react-component",
+				"input",
+				"controlled",
+				"uncontrolled",
+				"form"
+			],
+			"scripts": {
+				"test": "karma start --single-run"
+			},
+			"peerDependencies": {
+				"react": "^0.12.2"
+			},
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"rimraf": "^2.2.8",
+				"gulp": "^3.8.10",
+				"gulp-less": "^2.0.1",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"mocha": "~1.21.4",
+				"chai": "^1.10.0",
+				"sinon-chai": "^2.6.0",
+				"chai-as-promised": "^4.1.1",
+				"phantomjs": "~1.9.10",
+				"imports-loader": "^0.6.3",
+				"css-loader": "^0.9.1",
+				"style-loader": "^0.8.3",
+				"less-loader": "^2.0.0",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"bugs": {
+				"url": "https://github.com/jquense/uncontrollable/issues"
+			},
+			"homepage": "https://github.com/jquense/uncontrollable",
+			"_id": "uncontrollable@1.0.0",
+			"_shasum": "f2b2a9caafdcf2a46590078db09048fade4195b4",
+			"_from": ".",
+			"_npmVersion": "1.4.27",
+			"_npmUser": {
+				"name": "monastic.panic",
+				"email": "monastic.panic@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "monastic.panic",
+					"email": "monastic.panic@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "f2b2a9caafdcf2a46590078db09048fade4195b4",
+				"size": 38445,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1425937506990,
+			"_cnpm_publish_time": 1425937506990,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "6.0.0"
+	},
+	"time": {
+		"modified": "2018-05-02T18:39:07.000Z",
+		"created": "2015-03-09T21:45:06.990Z",
+		"6.0.0": "2018-05-02T18:38:58.579Z",
+		"5.1.0": "2018-03-31T13:53:53.438Z",
+		"5.0.0": "2018-02-08T17:49:14.649Z",
+		"4.1.0": "2017-04-18T17:06:18.641Z",
+		"4.0.3": "2016-08-22T16:48:30.219Z",
+		"4.0.2": "2016-08-22T16:42:48.294Z",
+		"4.0.1": "2016-08-01T19:01:12.677Z",
+		"4.0.0": "2016-07-06T14:29:28.061Z",
+		"3.2.4": "2016-04-21T13:31:42.423Z",
+		"3.3.1": "2016-04-21T13:30:26.845Z",
+		"3.3.0": "2016-04-21T13:27:54.501Z",
+		"3.2.3": "2016-03-27T07:06:19.255Z",
+		"3.2.1": "2015-12-19T17:20:52.584Z",
+		"3.2.0": "2015-12-08T17:23:23.440Z",
+		"3.1.4": "2015-11-23T18:32:59.715Z",
+		"3.1.3": "2015-10-07T20:02:12.298Z",
+		"3.1.2": "2015-09-13T07:51:23.269Z",
+		"3.1.1": "2015-09-11T10:56:28.151Z",
+		"3.0.3": "2015-09-11T10:52:24.719Z",
+		"3.1.0": "2015-08-19T16:29:49.171Z",
+		"3.0.2": "2015-08-14T21:54:27.546Z",
+		"3.0.1": "2015-08-14T21:46:12.975Z",
+		"3.0.0": "2015-08-12T18:40:35.265Z",
+		"2.0.0": "2015-07-21T20:17:39.748Z",
+		"1.4.0": "2015-07-10T12:14:21.468Z",
+		"1.3.2": "2015-07-06T19:58:06.959Z",
+		"1.3.1": "2015-07-06T13:56:05.075Z",
+		"1.3.0": "2015-07-03T16:48:31.268Z",
+		"1.2.0": "2015-06-08T18:41:34.546Z",
+		"1.1.4": "2015-04-23T18:23:21.413Z",
+		"1.1.3": "2015-03-20T20:44:34.635Z",
+		"1.1.2": "2015-03-12T21:41:01.334Z",
+		"1.1.1": "2015-03-09T21:57:36.707Z",
+		"1.1.0": "2015-03-09T21:52:13.254Z",
+		"1.0.0": "2015-03-09T21:45:06.990Z"
+	},
+	"_distfiles": {
+		"uncontrollable-6.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-6.0.0.tgz",
+			"sha": "d39a3d5334802a862a0ef4a6e4ba0d19b8ddec4d",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-5.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-5.1.0.tgz",
+			"sha": "7e9a1c50ea24e3c78b625e52d21ff3f758c7bd59",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-5.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-5.0.0.tgz",
+			"sha": "ab713baa04df3fcb6ac65bc18f1792fee1729119",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-4.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-4.1.0.tgz",
+			"sha": "e0358291252e1865222d90939b19f2f49f81c1a9",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-4.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-4.0.3.tgz",
+			"sha": "06ec76cb9e02914756085d9cea0354fc746b09b4",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-4.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-4.0.2.tgz",
+			"sha": "bc184191b26a3bb61c66519e0381a91fa284fe8a",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-4.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-4.0.1.tgz",
+			"sha": "e1f69b7eb97d39b6bee502db179ba2b9fee8d8a2",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-4.0.0.tgz",
+			"sha": "a919bd01683c23a27c632d2e236a7e8c4da858fe",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.2.4.tgz",
+			"sha": "9ee00172f98c668c04ca260f73b6b0eacd4f65df",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.3.1.tgz",
+			"sha": "e23b402e7a4c69b1853fb4b43ce34b6480c65b6f",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.3.0.tgz",
+			"sha": "c4fc680ae73e8fd1e0386b4ca22f4da29a686d98",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.2.3.tgz",
+			"sha": "8e210c6f80f63085f7705897a2788e9bffbbe2ce",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.2.1.tgz",
+			"sha": "91548ca99d5c414b6c72bfb485952c6816519562",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.2.0.tgz",
+			"sha": "ed99a1daadfafc6e042815da6c8a75fbb1f2dc28",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.1.4.tgz",
+			"sha": "7646fae6bfc86ac033e0fe1ada305e4c51098064",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.1.3.tgz",
+			"sha": "4fdddfba42ffcd83e6186d9c12f18b9102b2514e",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.1.2.tgz",
+			"sha": "1272f3647d85e85fe359a677835b99d9dcab4719",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.1.1.tgz",
+			"sha": "3ab5ba9a77e537fb5431a4d48964758a9bf8aada",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.0.3.tgz",
+			"sha": "126f5f85dd2da9e2c06b6d6b84401a5c908d2131",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.1.0.tgz",
+			"sha": "5fb24f8e5fc23e27e497bf1a1b2933e6fc65df40",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.0.2.tgz",
+			"sha": "d334080269db2fc28f48cd3df8a9771ab887b6e4",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.0.1.tgz",
+			"sha": "646da7449bb2abfeb9043b6eca1473a11bc86089",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-3.0.0.tgz",
+			"sha": "48c191b3c5a6977389909f51fc0747a7ffd8a8f9",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-2.0.0.tgz",
+			"sha": "4316bcf9ba0e026d6ccdeb3cb5bd683d0c202a57",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.4.0.tgz",
+			"sha": "8a80126d8d55beba037ee2b87f25afce3d5b38cc",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.3.2.tgz",
+			"sha": "2a8ee7acfc99cc839d7937c48f7f42cdd86663e8",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.3.1.tgz",
+			"sha": "07c9c04a13d6204f47f012114e533bc87dec67df",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.3.0.tgz",
+			"sha": "404d453c238ca53078fb7d9e8560194ef42ffbe8",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.2.0.tgz",
+			"sha": "f5b5470532f05b13035ecb8aa31c588ca3986ed0",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.1.4.tgz",
+			"sha": "3e60ab27ef718c0a8e6e8e6dea8e25ae577e270c",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.1.3.tgz",
+			"sha": "1ef3492cfe1ac6555d80c25d47a5d199232f5374",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.1.2.tgz",
+			"sha": "1bef5db6af766a4b3b660f761b4f5f727a4cb29a",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.1.1.tgz",
+			"sha": "ff163223a3653cce19d8bb4e183fca750277b2b4",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.1.0.tgz",
+			"sha": "5fddf6b97a95d3e64e3a04b145eb09d7c7ff60d3",
+			"registry": "cnpmjs"
+		},
+		"uncontrollable-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/uncontrollable/download/uncontrollable-1.0.0.tgz",
+			"sha": "f2b2a9caafdcf2a46590078db09048fade4195b4",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"ff75-nM2snD8sw2xPIQ94b6HgxX6e3n8\"",
+			"fetched": 1527747717827
+		}
+	},
+	"_rev": "11-377d32c7861707e2",
+	"readme": "# uncontrollable\n\nWrap a controlled react component, to allow specific prop/handler pairs to be omitted by Component consumers. Uncontrollable allows you to write React components, with minimal state, and then wrap them in a component that will manage state for prop/handlers if they are excluded.\n\n## Install\n\n```sh\nnpm i -S uncontrollable\n```\n\n### Usage\n\nIf you are a bit unsure on the _why_ of this module read the next section first. If you just want to see some real-world examples, check out [React Widgets](https://github.com/jquense/react-widgets) which makes [heavy use of this strategy](https://github.com/jquense/react-widgets/blob/5d1b530cb094cdc72f577fe01abe4a02dd265400/src/Multiselect.jsx#L521).\n\n```js\nimport uncontrollable from 'uncontrollable'\n```\n\n### API\n\n#### `uncontrollable(Component, propHandlerHash, [methods])`\n\n* `Component`: is a valid react component, such as the result of `createClass`\n* `propHandlerHash`: define the pairs of prop/handlers you want to be uncontrollable, e.g. `{ value: 'onChange'}`\n* `methods`: since uncontrollable wraps your component in another component, methods are not immediately accessible. You can proxy them through by providing the names of the methods you want to continue to expose. **You don't need this if you are using React >= v16.3.0, the ref will automatically be forwarded to the uinderlying component**\n\nFor every prop you indicate as uncontrollable, the returned component will also accept an initial, `default` value for that prop. For example, `open` can be left uncontrolled but the initial value can be set via `defaultOpen={true}` if we want it to start open.\n\n```js\nconst uncontrollable = require('uncontrollable')\n\nconst UncontrolledCombobox = uncontrollable(Combobox, {\n  value: 'onChange',\n  open: 'onToggle',\n  searchTerm: 'onSearch', //the current typed value (maybe it filters the dropdown list)\n})\n```\n\nSince uncontrollable creates a new component that wraps your existing one, methods on your underlying component\nwon't be immediately accessible. In general this sort of access is not idiomatic React, but it does have its place.\nThe third argument of `uncontrollable()` is an optional array of method names you want uncontrollable to \"pass through\"\nto the original component.\n\n```js\nlet UncontrolledForm = uncontrollable(Form, { value: 'onChange' }, ['submit'])\n\n//when you use a ref this will work\nthis.refs.myForm.submit()\n```\n\n### Use Case\n\nOne of the strengths of React is its extensibility model, enabled by a common practice of pushing component state as high up the tree as possible. While great for enabling extremely flexible and easy to reason about components, this can produce a lot of boilerplate to wire components up with every use. For simple components (like an input) this is usually a matter of tying the input `value` prop to a parent state property via its `onChange` handler. Here is an extremely common pattern:\n\n```jsx\n  render() {\n    return (\n      <input type='text'\n        value={this.state.value}\n        onChange={ e => this.setState({ value: e.target.value })}\n      />\n    )\n  }\n```\n\nThis pattern moves the responsibility of managing the `value` from the input to its parent and mimics \"two-way\" databinding. Sometimes, however, there is no need for the parent to manage the input's state directly. In that case, all we want to do is set the initial `value` of the input and let the input manage it from then on. React deals with this through \"uncontrolled\" inputs, where if you don't indicate that you want to control the state of the input externally via a `value` prop it will just do the book-keeping for you.\n\nThis is a great pattern which we can make use of in our own Components. It is often best to build each component to be as stateless as possible, assuming that the parent will want to control everything that makes sense. Take a simple Dropdown component as an example\n\n```js\nclass SimpleDropdown extends React.Component {\n  static propTypes = {\n    value: React.PropTypes.string,\n    onChange: React.PropTypes.func,\n    open: React.PropTypes.bool,\n    onToggle: React.PropTypes.func,\n  }\n\n  render() {\n    return (\n      <div>\n        <input\n          value={this.props.value}\n          onChange={e => this.props.onChange(e.target.value)}\n        />\n        <button onClick={e => this.props.onToggle(!this.props.open)}>\n          open\n        </button>\n        {this.props.open && (\n          <ul className=\"open\">\n            <li>option 1</li>\n            <li>option 2</li>\n          </ul>\n        )}\n      </div>\n    )\n  }\n}\n```\n\nNotice how we don't track any state in our simple dropdown? This is great because a consumer of our module will have the all the flexibility to decide what the behavior of the dropdown should be. Also notice our public API (propTypes), it consists of common pattern: a property we want set (`value`, `open`), and a set of handlers that indicate _when_ we want them set (`onChange`, `onToggle`). It is up to the parent component to change the `value` and `open` props in response to the handlers.\n\nWhile this pattern offers an excellent amount of flexibility to consumers, it also requires them to write a bunch of boilerplate code that probably won't change much from use to use. In all likelihood they will always want to set `open` in response to `onToggle`, and only in rare cases will want to override that behavior. This is where the controlled/uncontrolled pattern comes in.\n\nWe want to just handle the open/onToggle case ourselves if the consumer doesn't provide a `open` prop (indicating that they want to control it). Rather than complicating our dropdown component with all that logic, obscuring the business logic of our dropdown, we can add it later, by taking our dropdown and wrapping it inside another component that handles that for us.\n\n`uncontrollable` allows you separate out the logic necessary to create controlled/uncontrolled inputs letting you focus on creating a completely controlled input and wrapping it later. This tends to be a lot simpler to reason about as well.\n\n```js\n  const uncontrollable =  require('uncontrollable');\n\n  const UncontrollableDropdown = uncontrollable(SimpleDropdown, {\n    value: 'onChange',\n    open: 'onToggle'\n  })\n\n  <UncontrollableDropdown\n    value={this.state.val} // we can still control these props if we want\n    onChange={val => this.setState({ val })}\n    defaultOpen={true} /> // or just let the UncontrollableDropdown handle it\n                          // and we just set an initial value (or leave it out completely)!\n```\n\nNow we don't need to worry about the open onToggle! The returned component will track `open` for us by assuming that it should just set `open` to whatever `onToggle` returns. If we _do_ want to worry about it we can just provide `open` and `onToggle` props and the uncontrolled input will just pass them through.\n\nThe above is a contrived example but it allows you to wrap even more complex Components, giving you a lot of flexibility in the API you can offer a consumer of your Component. For every pair of prop/handlers you also get a defaultProp of the form \"default[PropName]\" so `value` -> `defaultValue`, and `open` -> `defaultOpen`, etc. [React Widgets](https://github.com/jquense/react-widgets) makes heavy use of this strategy, you can see it in action here: https://github.com/jquense/react-widgets/blob/5d1b530cb094cdc72f577fe01abe4a02dd265400/src/Multiselect.jsx#L521"
+}

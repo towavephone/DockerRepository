@@ -1,0 +1,325 @@
+{
+	"name": "@types/lodash.mapvalues",
+	"versions": {
+		"4.6.3": {
+			"name": "@types/lodash.mapvalues",
+			"version": "4.6.3",
+			"description": "TypeScript definitions for lodash.mapValues",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e8bb5c9d6382ae9a26c1911527337c311bffd2766a72d87065cdf159cdb04e1d",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.mapvalues@4.6.3",
+			"dist": {
+				"shasum": "71208ea7b08d7fc939b37c1922b8c7cc07af89b3",
+				"size": 1597,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.mapvalues/download/@types/lodash.mapvalues-4.6.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.mapvalues-4.6.3.tgz_1502228993526_0.27539048437029123"
+			},
+			"directories": {},
+			"publish_time": 1502228993927,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228993927
+		},
+		"4.6.2": {
+			"name": "@types/lodash.mapvalues",
+			"version": "4.6.2",
+			"description": "TypeScript definitions for lodash.mapValues",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "abecb3dfa26fdb44b73b2e35e7fa306d92a8c2e4264a2cf84972fe6b0897e2d5",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.mapvalues@4.6.2",
+			"dist": {
+				"shasum": "01cbebde5b588d0bd732e7ef93fa57ea717a6420",
+				"size": 872,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.mapvalues/download/@types/lodash.mapvalues-4.6.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.mapvalues-4.6.2.tgz_1490212711057_0.8739248844794929"
+			},
+			"directories": {},
+			"publish_time": 1490212711325,
+			"_cnpm_publish_time": 1490212711325,
+			"_hasShrinkwrap": false
+		},
+		"4.6.1": {
+			"name": "@types/lodash.mapvalues",
+			"version": "4.6.1",
+			"description": "TypeScript definitions for lodash.mapValues",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5e92d81366ac17f057f858d406c082b79d496552c4db8156820257371264598a",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.mapvalues@4.6.1",
+			"dist": {
+				"shasum": "9f524f9889f0820d030d22acfe6b284b194961db",
+				"size": 1053,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.mapvalues/download/@types/lodash.mapvalues-4.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.mapvalues-4.6.1.tgz_1485553730461_0.48022673395462334"
+			},
+			"directories": {},
+			"publish_time": 1485553730674,
+			"_cnpm_publish_time": 1485553730674,
+			"_hasShrinkwrap": false
+		},
+		"4.6.0": {
+			"name": "@types/lodash.mapvalues",
+			"version": "4.6.0",
+			"description": "TypeScript definitions for lodash.mapValues",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "490db86d773ead853f01e9da61af811988eef320b3937b85ee4b011a62808e7b",
+			"_id": "@types/lodash.mapvalues@4.6.0",
+			"dist": {
+				"shasum": "8fd53a96c313f45ef2594fd6c68c1726b0e79bae",
+				"size": 1023,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.mapvalues/download/@types/lodash.mapvalues-4.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.mapvalues-4.6.0.tgz_1480973563728_0.5607124085072428"
+			},
+			"directories": {},
+			"publish_time": 1480973565704,
+			"_cnpm_publish_time": 1480973565704,
+			"_hasShrinkwrap": false
+		},
+		"4.6.4": {
+			"name": "@types/lodash.mapvalues",
+			"version": "4.6.4",
+			"description": "TypeScript definitions for lodash.mapValues",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "8078a0127ce7cde898a15cd434274b783d8c871048aa5297575624b673594678",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.mapvalues@4.6.4",
+			"dist": {
+				"shasum": "3b47d455a827cdd96bc72cfa7170f200c0512d43",
+				"size": 1598,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.mapvalues/download/@types/lodash.mapvalues-4.6.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.mapvalues_4.6.4_1532393312256_0.3050085145752659"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532393312295,
+			"_cnpm_publish_time": 1532393312295
+		}
+	},
+	"dist-tags": {
+		"latest": "4.6.4",
+		"ts2.0": "4.6.0",
+		"ts2.1": "4.6.1",
+		"ts2.2": "4.6.3",
+		"ts2.3": "4.6.3",
+		"ts2.4": "4.6.3",
+		"ts2.5": "4.6.3",
+		"ts2.6": "4.6.4",
+		"ts2.7": "4.6.4",
+		"ts2.8": "4.6.4",
+		"ts2.9": "4.6.4",
+		"ts3.0": "4.6.4",
+		"ts3.1": "4.6.4",
+		"ts3.2": "4.6.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:16:31.000Z",
+		"created": "2016-12-05T21:32:45.704Z",
+		"4.6.4": "2018-07-24T00:48:32.295Z",
+		"4.6.3": "2017-08-08T21:49:53.927Z",
+		"4.6.2": "2017-03-22T19:58:31.325Z",
+		"4.6.1": "2017-01-27T21:48:50.674Z",
+		"4.6.0": "2016-12-05T21:32:45.704Z"
+	},
+	"_distfiles": {
+		"lodash.mapvalues-4.6.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.mapvalues/download/@types/lodash.mapvalues-4.6.3.tgz",
+			"sha": "71208ea7b08d7fc939b37c1922b8c7cc07af89b3",
+			"registry": "cnpmjs"
+		},
+		"lodash.mapvalues-4.6.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.mapvalues/download/@types/lodash.mapvalues-4.6.2.tgz",
+			"sha": "01cbebde5b588d0bd732e7ef93fa57ea717a6420",
+			"registry": "cnpmjs"
+		},
+		"lodash.mapvalues-4.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.mapvalues/download/@types/lodash.mapvalues-4.6.1.tgz",
+			"sha": "9f524f9889f0820d030d22acfe6b284b194961db",
+			"registry": "cnpmjs"
+		},
+		"lodash.mapvalues-4.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.mapvalues/download/@types/lodash.mapvalues-4.6.0.tgz",
+			"sha": "8fd53a96c313f45ef2594fd6c68c1726b0e79bae",
+			"registry": "cnpmjs"
+		},
+		"lodash.mapvalues-4.6.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.mapvalues/download/@types/lodash.mapvalues-4.6.4.tgz",
+			"sha": "3b47d455a827cdd96bc72cfa7170f200c0512d43",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833484697
+		}
+	},
+	"_rev": "2-e3519bd568017794",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.mapvalues`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.mapValues (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.mapvalues\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:12 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

@@ -1,0 +1,90 @@
+{
+	"name": "@types/buffer-xor",
+	"versions": {
+		"2.0.0": {
+			"name": "@types/buffer-xor",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for buffer-xor",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Daniel Byrne",
+					"url": "https://github.com/danwbyrne",
+					"githubUsername": "danwbyrne"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "7cfb2788fdc2f7b44e9bda8f97933ef04fa3b976fe5609e3f6ad2560e9d838c1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/buffer-xor@2.0.0",
+			"dist": {
+				"shasum": "15738051e0720b68120cd2cc3f204aa4dc16bab1",
+				"size": 1514,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/buffer-xor/download/@types/buffer-xor-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/buffer-xor_2.0.0_1535755288013_0.878286641885087"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535755288281,
+			"_cnpm_publish_time": 1535755288281
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.0",
+		"ts2.0": "2.0.0",
+		"ts2.1": "2.0.0",
+		"ts2.2": "2.0.0",
+		"ts2.3": "2.0.0",
+		"ts2.4": "2.0.0",
+		"ts2.5": "2.0.0",
+		"ts2.6": "2.0.0",
+		"ts2.7": "2.0.0",
+		"ts2.8": "2.0.0",
+		"ts2.9": "2.0.0",
+		"ts3.0": "2.0.0",
+		"ts3.1": "2.0.0",
+		"ts3.2": "2.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:13.000Z",
+		"created": "2018-08-31T22:41:28.281Z",
+		"2.0.0": "2018-08-31T22:41:28.281Z"
+	},
+	"_distfiles": {
+		"buffer-xor-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/buffer-xor/download/@types/buffer-xor-2.0.0.tgz",
+			"sha": "15738051e0720b68120cd2cc3f204aa4dc16bab1",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833452901
+		}
+	},
+	"_rev": "1-8a2acae3636217b9",
+	"readme": "# Installation\r\n> `npm install --save @types/buffer-xor`\r\n\r\n# Summary\r\nThis package contains type definitions for buffer-xor (https://github.com/crypto-browserify/buffer-xor).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/buffer-xor\r\n\r\nAdditional Details\r\n * Last updated: Fri, 31 Aug 2018 22:40:41 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Daniel Byrne <https://github.com/danwbyrne>."
+}

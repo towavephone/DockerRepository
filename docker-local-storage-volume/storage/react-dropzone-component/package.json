@@ -1,0 +1,4204 @@
+{
+	"name": "react-dropzone-component",
+	"versions": {
+		"3.2.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "3.2.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": ">15.0.1",
+				"react": ">15.0.1"
+			},
+			"devDependencies": {
+				"@types/dropzone": "5.0.2",
+				"babel-core": "^6.26.0",
+				"babel-jest": "^22.4.3",
+				"babel-loader": "^7.1.4",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-react": "^6.24.1",
+				"enzyme": "^3.3.0",
+				"enzyme-adapter-react-16": "^1.1.1",
+				"jest": "^22.4.3",
+				"standard": "^11.0.1",
+				"webpack": "^3.10.0",
+				"uglifyjs-webpack-plugin": "^1.2.4"
+			},
+			"dependencies": {
+				"dropzone": "^5.4.0",
+				"extend": "^3.0.1"
+			},
+			"scripts": {
+				"build": "webpack -p",
+				"test": "standard ./src && jest",
+				"prepare": "npm run build"
+			},
+			"jest": {
+				"transform": {
+					"^.+\\.js?$": "babel-jest"
+				},
+				"setupFiles": [
+					"<rootDir>/src/__tests__/setup.js"
+				],
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				],
+				"modulePathIgnorePatterns": [
+					"<rootDir>/src/__tests__/setup.js"
+				]
+			},
+			"main": "dist/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"types": "typescript/types.d.ts",
+			"gitHead": "81de415b043f3793bf69b267904679cc8b0dc5f4",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@3.2.0",
+			"_npmVersion": "5.8.0",
+			"_nodeVersion": "9.5.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "8ad4cdce342084fb87302ddec6651caa49d8b103",
+				"size": 406518,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.2.0.tgz"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dropzone-component_3.2.0_1522277749456_0.6701988481912884"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522277749577,
+			"_cnpm_publish_time": 1522277749577
+		},
+		"3.1.2": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "3.1.2",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": ">15.0.1",
+				"react": ">15.0.1"
+			},
+			"devDependencies": {
+				"@types/dropzone": "5.0.2",
+				"babel-core": "^6.26.0",
+				"babel-jest": "^22.1.0",
+				"babel-loader": "^7.1.2",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-react": "^6.24.1",
+				"enzyme": "^3.3.0",
+				"enzyme-adapter-react-16": "^1.1.1",
+				"jest": "^22.1.4",
+				"standard": "^10.0.3",
+				"webpack": "^3.10.0",
+				"uglifyjs-webpack-plugin": "^1.1.6"
+			},
+			"dependencies": {
+				"dropzone": "^5.2.0",
+				"extend": "^3.0.1"
+			},
+			"scripts": {
+				"build": "webpack -p",
+				"test": "standard ./src && jest",
+				"prepare": "npm run build"
+			},
+			"jest": {
+				"transform": {
+					"^.+\\.js?$": "babel-jest"
+				},
+				"setupFiles": [
+					"<rootDir>/src/__tests__/setup.js"
+				],
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				],
+				"modulePathIgnorePatterns": [
+					"<rootDir>/src/__tests__/setup.js"
+				]
+			},
+			"main": "dist/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"types": "typescript/types.d.ts",
+			"gitHead": "e52f36cebf68c4a1a21d252ca8022c27ac45d681",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@3.1.2",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "8.7.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "3fd81e717f05ca03e5157028ddfed7467fed8c86",
+				"size": 406192,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.1.2.tgz"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dropzone-component_3.1.2_1518312510397_0.20383727318976907"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518312510545,
+			"_cnpm_publish_time": 1518312510545
+		},
+		"3.1.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "3.1.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": ">15.0.1",
+				"react": ">15.0.1"
+			},
+			"devDependencies": {
+				"@types/dropzone": "5.0.2",
+				"babel-core": "^6.26.0",
+				"babel-jest": "^22.1.0",
+				"babel-loader": "^7.1.2",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-react": "^6.24.1",
+				"enzyme": "^3.3.0",
+				"enzyme-adapter-react-16": "^1.1.1",
+				"jest": "^22.1.4",
+				"standard": "^10.0.3",
+				"webpack": "^3.10.0",
+				"uglifyjs-webpack-plugin": "^1.1.6"
+			},
+			"dependencies": {
+				"dropzone": "^5.2.0",
+				"extend": "^3.0.1"
+			},
+			"scripts": {
+				"build": "webpack -p",
+				"test": "standard ./src && jest",
+				"prepare": "npm run build"
+			},
+			"jest": {
+				"transform": {
+					"^.+\\.js?$": "babel-jest"
+				},
+				"setupFiles": [
+					"<rootDir>/src/__tests__/setup.js"
+				],
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				],
+				"modulePathIgnorePatterns": [
+					"<rootDir>/src/__tests__/setup.js"
+				]
+			},
+			"main": "dist/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"types": "typescript/types.d.ts",
+			"gitHead": "8a6188b79ab7d4d08180e6cc13052f5cbfc5f63f",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@3.1.1",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "8.7.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "501c38a36fef36c249d3b2ee52e1b3e66cfa5a93",
+				"size": 406192,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.1.1.tgz"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dropzone-component_3.1.1_1518312101171_0.4359227786580424"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518312101407,
+			"_cnpm_publish_time": 1518312101407
+		},
+		"3.1.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "3.1.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": ">15.0.1",
+				"react": ">15.0.1"
+			},
+			"devDependencies": {
+				"@types/dropzone": "5.0.2",
+				"babel-core": "^6.26.0",
+				"babel-jest": "^22.1.0",
+				"babel-loader": "^7.1.2",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-react": "^6.24.1",
+				"enzyme": "^3.3.0",
+				"enzyme-adapter-react-16": "^1.1.1",
+				"jest": "^22.1.4",
+				"standard": "^10.0.3",
+				"webpack": "^3.10.0",
+				"uglifyjs-webpack-plugin": "^1.1.6"
+			},
+			"dependencies": {
+				"dropzone": "^5.2.0",
+				"extend": "^3.0.1"
+			},
+			"scripts": {
+				"build": "webpack -p",
+				"test": "standard ./src && jest",
+				"prepare": "npm run build"
+			},
+			"jest": {
+				"transform": {
+					"^.+\\.js?$": "babel-jest"
+				},
+				"setupFiles": [
+					"<rootDir>/src/__tests__/setup.js"
+				],
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				],
+				"modulePathIgnorePatterns": [
+					"<rootDir>/src/__tests__/setup.js"
+				]
+			},
+			"main": "dist/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"types": "typescript/types.d.ts",
+			"gitHead": "6f244d201efedf11369003e8583669c0e2a2a1e8",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@3.1.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "8.1.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "a44cc3308be61394541dd399e8439235d43577cd",
+				"size": 406309,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.1.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dropzone-component-3.1.0.tgz_1516665454224_0.14770019962452352"
+			},
+			"directories": {},
+			"publish_time": 1516665454477,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1516665454477
+		},
+		"3.0.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "3.0.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": ">15.0.1",
+				"react": ">15.0.1"
+			},
+			"devDependencies": {
+				"babel-core": "^6.26.0",
+				"babel-jest": "^21.2.0",
+				"babel-loader": "^7.1.0",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-react": "^6.24.1",
+				"enzyme": "^3.2.0",
+				"enzyme-adapter-react-16": "^1.1.0",
+				"jest": "^21.2.1",
+				"react": "^16.1.1",
+				"react-dom": "^16.1.1",
+				"standard": "^10.0.2",
+				"webpack": "^3.8.1",
+				"uglifyjs-webpack-plugin": "^1.0.1"
+			},
+			"dependencies": {
+				"dropzone": "^5.2.0",
+				"extend": "^3.0.1"
+			},
+			"scripts": {
+				"build": "webpack -p",
+				"test": "standard ./src && jest",
+				"prepare": "npm run build"
+			},
+			"jest": {
+				"transform": {
+					"^.+\\.js?$": "babel-jest"
+				},
+				"setupFiles": [
+					"<rootDir>/src/__tests__/setup.js"
+				],
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				],
+				"modulePathIgnorePatterns": [
+					"<rootDir>/src/__tests__/setup.js"
+				]
+			},
+			"main": "dist/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "2e8518f5182e7adfae396739a1d74e83780372e7",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@3.0.0",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.7.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "83f6f220af11208070d3b6e106fdd7caf749f14c",
+				"size": 405530,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dropzone-component-3.0.0.tgz_1511038822098_0.042192842811346054"
+			},
+			"directories": {},
+			"publish_time": 1511038822274,
+			"_cnpm_publish_time": 1511038822274,
+			"_hasShrinkwrap": false
+		},
+		"3.0.0-alpha.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "3.0.0-alpha.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": ">15.0.1",
+				"react": ">15.0.1"
+			},
+			"devDependencies": {
+				"babel-core": "^6.26.0",
+				"babel-jest": "^21.2.0",
+				"babel-loader": "^7.1.0",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-react": "^6.24.1",
+				"jest": "^21.2.1",
+				"react": "^16.1.1",
+				"react-dom": "^16.1.1",
+				"react-test-renderer": "^16.1.1",
+				"standard": "^10.0.2",
+				"webpack": "^3.8.1"
+			},
+			"dependencies": {
+				"dropzone": "^5.2.0",
+				"extend": "^3.0.1",
+				"uglifyjs-webpack-plugin": "^1.0.1"
+			},
+			"scripts": {
+				"build": "webpack -p",
+				"test": "standard ./src && jest",
+				"prepublish": "npm run build"
+			},
+			"jest": {
+				"transform": {
+					"^.+\\.js?$": "babel-jest"
+				},
+				"setupFiles": [
+					"<rootDir>/src/__tests__/setup.js"
+				],
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "dist/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "5f3b05270d24ddea6cc5d6668a40749a1f31d989",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@3.0.0-alpha.1",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.7.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "506c4472d15a50086f7df91e8f38af43637207db",
+				"size": 405499,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.0.0-alpha.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-dropzone-component-3.0.0-alpha.1.tgz_1511035341657_0.688056257320568"
+			},
+			"directories": {},
+			"publish_time": 1511035341795,
+			"_cnpm_publish_time": 1511035341795,
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "2.0.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-core": "^6.24.1",
+				"babel-loader": "^7.0.0",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-react": "^6.24.1",
+				"jest-cli": "^0.8.1",
+				"react": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-tools": "^0.13.3",
+				"standard": "^10.0.2",
+				"uglify-js": "^2.8.22",
+				"webpack": "^2.4.1"
+			},
+			"dependencies": {
+				"dropzone": "^4.3.0",
+				"extend": "^3.0.0"
+			},
+			"scripts": {
+				"build": "webpack && uglifyjs ./dist/react-dropzone.js -c -m -o ./dist/react-dropzone.min.js --source-map ./dist/react-dropzone.min.js.map",
+				"test": "standard ./src && jest",
+				"prepublish": "npm run build"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "dist/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "a5f5bb26bba1ae9e07399f27fe6d6f552c544919",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@2.0.0",
+			"_shasum": "35cd011f525c9ca620fcb647e79725eeaa1b5a58",
+			"_from": ".",
+			"_npmVersion": "4.6.1",
+			"_nodeVersion": "7.7.3",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "35cd011f525c9ca620fcb647e79725eeaa1b5a58",
+				"size": 387582,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-2.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-2.0.0.tgz_1493144898936_0.4897697404958308"
+			},
+			"directories": {},
+			"publish_time": 1493144901050,
+			"_cnpm_publish_time": 1493144901050,
+			"_hasShrinkwrap": false
+		},
+		"2.0.0-beta3": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "2.0.0-beta3",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-core": "^6.24.1",
+				"babel-loader": "^7.0.0",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-react": "^6.24.1",
+				"jest-cli": "^0.8.1",
+				"react": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-tools": "^0.13.3",
+				"standard": "^10.0.2",
+				"uglify-js": "^2.8.22",
+				"webpack": "^2.4.1"
+			},
+			"dependencies": {
+				"dropzone": "^4.3.0",
+				"extend": "^3.0.0"
+			},
+			"scripts": {
+				"build": "webpack && uglifyjs ./dist/react-dropzone.js -c -m -o ./dist/react-dropzone.min.js --source-map ./dist/react-dropzone.min.js.map",
+				"watch": "gulp watch",
+				"test": "jest",
+				"prepublish": "npm run build"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "dist/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "72505c0411c2db998770d62dda5f392c02a538ae",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@2.0.0-beta3",
+			"_shasum": "3c9440336b517ee07f761100c3cee3b5d50601dc",
+			"_from": ".",
+			"_npmVersion": "4.6.1",
+			"_nodeVersion": "7.7.3",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "3c9440336b517ee07f761100c3cee3b5d50601dc",
+				"size": 388889,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-2.0.0-beta3.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-2.0.0-beta3.tgz_1493144191876_0.7798126041889191"
+			},
+			"directories": {},
+			"publish_time": 1493144192112,
+			"_cnpm_publish_time": 1493144192112,
+			"_hasShrinkwrap": false
+		},
+		"2.0.0-beta2": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "2.0.0-beta2",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-core": "^6.24.1",
+				"babel-loader": "^7.0.0",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-react": "^6.24.1",
+				"jest-cli": "^0.8.1",
+				"react": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-tools": "^0.13.3",
+				"standard": "^10.0.2",
+				"uglify-js": "^2.8.22",
+				"webpack": "^2.4.1"
+			},
+			"dependencies": {
+				"dropzone": "^4.3.0",
+				"extend": "^3.0.0"
+			},
+			"scripts": {
+				"build": "webpack && uglifyjs ./dist/react-dropzone.js -c -m -o ./dist/react-dropzone.min.js --source-map ./dist/react-dropzone.min.js.map",
+				"watch": "gulp watch",
+				"test": "jest",
+				"prepublish": "npm run build"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "dist/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "05dffb7c55c37aecf16f55ab1e5ae13b92f96d98",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@2.0.0-beta2",
+			"_shasum": "0c21291dccfd8e364264218106b458bc5f664a8f",
+			"_from": ".",
+			"_npmVersion": "4.6.1",
+			"_nodeVersion": "7.7.3",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "0c21291dccfd8e364264218106b458bc5f664a8f",
+				"size": 388882,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-2.0.0-beta2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-2.0.0-beta2.tgz_1493142663870_0.9426129788625985"
+			},
+			"directories": {},
+			"publish_time": 1493142664201,
+			"_cnpm_publish_time": 1493142664201,
+			"_hasShrinkwrap": false
+		},
+		"2.0.0-beta1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "2.0.0-beta1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-core": "^6.24.1",
+				"babel-loader": "^7.0.0",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-react": "^6.24.1",
+				"jest-cli": "^0.8.1",
+				"react": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-tools": "^0.13.3",
+				"standard": "^10.0.2",
+				"uglify-js": "^2.8.22",
+				"webpack": "^2.4.1"
+			},
+			"dependencies": {
+				"dropzone": "^4.3.0",
+				"extend": "^3.0.0"
+			},
+			"scripts": {
+				"build": "webpack && uglifyjs ./dist/react-dropzone.js -c -m -o ./dist/react-dropzone.min.js --source-map ./dist/react-dropzone.min.js.map",
+				"watch": "gulp watch",
+				"test": "jest",
+				"prepublish": "npm run build"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "05dffb7c55c37aecf16f55ab1e5ae13b92f96d98",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@2.0.0-beta1",
+			"_shasum": "57cc1ee2139443e33974c457a865f13d05365c75",
+			"_from": ".",
+			"_npmVersion": "4.6.1",
+			"_nodeVersion": "7.7.3",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "57cc1ee2139443e33974c457a865f13d05365c75",
+				"size": 388826,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-2.0.0-beta1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-2.0.0-beta1.tgz_1493141869601_0.9735421354416758"
+			},
+			"directories": {},
+			"publish_time": 1493141869899,
+			"_cnpm_publish_time": 1493141869899,
+			"_hasShrinkwrap": false
+		},
+		"1.4.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.4.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^15.3.1",
+				"react-addons-test-utils": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.3.0"
+			},
+			"scripts": {
+				"build": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest",
+				"prepublish": "npm run build"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "ce546f753201b6d8769b3f477f3e5ffb57f7e5dc",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.4.1",
+			"_shasum": "956f00e2fe2224c87261bff2d9327da09312879e",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "956f00e2fe2224c87261bff2d9327da09312879e",
+				"size": 552950,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.4.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.4.1.tgz_1481584802500_0.18969759810715914"
+			},
+			"directories": {},
+			"publish_time": 1481584805710,
+			"_cnpm_publish_time": 1481584805710,
+			"_hasShrinkwrap": false
+		},
+		"1.4.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.4.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^15.3.1",
+				"react-addons-test-utils": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.3.0"
+			},
+			"scripts": {
+				"build": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "f118dd0c31d583b79cfe1acdcdf699621e3dc2c4",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.4.0",
+			"_shasum": "d55fa7fe6c7ee3825692a97802460d07416e379e",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "d55fa7fe6c7ee3825692a97802460d07416e379e",
+				"size": 552938,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.4.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.4.0.tgz_1481570453851_0.3511292045004666"
+			},
+			"directories": {},
+			"publish_time": 1481570458065,
+			"_cnpm_publish_time": 1481570458065,
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.3.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^15.3.1",
+				"react-addons-test-utils": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.3.0"
+			},
+			"scripts": {
+				"build": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "53e94466310e08b400ee446bb750e02b969c33bb",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.3.0",
+			"_shasum": "98cd02b54d552aa4f1bca1fa95cbdba90b52e430",
+			"_from": ".",
+			"_npmVersion": "4.0.5",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "98cd02b54d552aa4f1bca1fa95cbdba90b52e430",
+				"size": 552960,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.3.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.3.0.tgz_1481517369610_0.3715067228768021"
+			},
+			"directories": {},
+			"publish_time": 1481517371763,
+			"_cnpm_publish_time": 1481517371763,
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.2.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^15.3.1",
+				"react-addons-test-utils": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.3.0"
+			},
+			"scripts": {
+				"build": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "ab132728bd82b965c02f1b7ae26d1b9f9a18546d",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.2.1",
+			"_shasum": "80d3b10e05681415e5b796063ed8efd564e4b3eb",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "80d3b10e05681415e5b796063ed8efd564e4b3eb",
+				"size": 552678,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.2.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.2.1.tgz_1480548543327_0.4698168069589883"
+			},
+			"directories": {},
+			"publish_time": 1480548545281,
+			"_cnpm_publish_time": 1480548545281,
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.2.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^15.3.1",
+				"react-addons-test-utils": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.3.0"
+			},
+			"scripts": {
+				"build": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "e216136446dd951ddc5e1f06ed22e6a8e26f11ae",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.2.0",
+			"_shasum": "271947635aaabfcd8322a4c203d4c7fc21707406",
+			"_from": ".",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.1",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "271947635aaabfcd8322a4c203d4c7fc21707406",
+				"size": 552546,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.2.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.2.0.tgz_1474024311002_0.8039785614237189"
+			},
+			"directories": {},
+			"publish_time": 1474024313402,
+			"_cnpm_publish_time": 1474024313402,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.1.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^15.3.1",
+				"react-addons-test-utils": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.3.0"
+			},
+			"scripts": {
+				"build": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "0135edae52a5c9a36ed4cad9fcfbfb1a6c5a964b",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.1.0",
+			"_shasum": "c09fbb4feaaf932979a08932e88fbbbaea640c32",
+			"_from": ".",
+			"_npmVersion": "3.10.6",
+			"_nodeVersion": "6.3.1",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "c09fbb4feaaf932979a08932e88fbbbaea640c32",
+				"size": 552607,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.1.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.1.0.tgz_1473308608686_0.5329812867566943"
+			},
+			"directories": {},
+			"publish_time": 1473308608922,
+			"_cnpm_publish_time": 1473308608922,
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.0.4",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.3",
+				"react-dom": "^0.14.0",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"dist": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "8cbf9789f8789da51cdd456e8cc7a1db84c66b56",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.0.4",
+			"_shasum": "b41ccb0e3d0a8bd7c1a4a98645055f9d005c8fbe",
+			"_from": ".",
+			"_npmVersion": "3.6.0",
+			"_nodeVersion": "5.7.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "b41ccb0e3d0a8bd7c1a4a98645055f9d005c8fbe",
+				"size": 537887,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.0.4.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.0.4.tgz_1463506740648_0.6569562125951052"
+			},
+			"directories": {},
+			"publish_time": 1463506743381,
+			"_cnpm_publish_time": 1463506743381,
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.0.3",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.3",
+				"react-dom": "^0.14.0",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"dist": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "46707953eab8dbec5be1f8974ca8d9af97819993",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.0.3",
+			"_shasum": "479c3305796533a0d671b795de822bf04376e41e",
+			"_from": ".",
+			"_npmVersion": "3.6.0",
+			"_nodeVersion": "5.7.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "479c3305796533a0d671b795de822bf04376e41e",
+				"size": 537879,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.0.3.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.0.3.tgz_1462864671010_0.42857780074700713"
+			},
+			"directories": {},
+			"publish_time": 1462864673994,
+			"_cnpm_publish_time": 1462864673994,
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.0.2",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.3",
+				"react-dom": "^0.14.0",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"dist": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "5121e93914ff232b311654bfb3850cfcca08d9a6",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.0.2",
+			"_shasum": "2cfc19d1ce39e560d170f841fe5f0d69ff612a2e",
+			"_from": ".",
+			"_npmVersion": "3.6.0",
+			"_nodeVersion": "5.7.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "2cfc19d1ce39e560d170f841fe5f0d69ff612a2e",
+				"size": 537580,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.0.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.0.2.tgz_1462280611341_0.6668928528670222"
+			},
+			"directories": {},
+			"publish_time": 1462280612483,
+			"_cnpm_publish_time": 1462280612483,
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.0.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0 || ^15.0.1",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0 || ^15.0.1"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.3",
+				"react-dom": "^0.14.0",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"dist": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "fa7f8b392ac88d665678279ea9d0f030517a1b1d",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.0.1",
+			"_shasum": "81ee023e8bad15509528992513ad0d3e2fa73ec0",
+			"_from": ".",
+			"_npmVersion": "3.6.0",
+			"_nodeVersion": "5.7.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "81ee023e8bad15509528992513ad0d3e2fa73ec0",
+				"size": 537564,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.0.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.0.1.tgz_1461853473577_0.749938688473776"
+			},
+			"directories": {},
+			"publish_time": 1461853476520,
+			"_cnpm_publish_time": 1461853476520,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "1.0.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"babel-preset-react": "^6.5.0",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.3",
+				"react-dom": "^0.14.0",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"webpack-stream": "^3.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"dist": "gulp bundle-js",
+				"watch": "gulp watch",
+				"test": "jest"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"main": "lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "22339f1ab59726e47579f4388704b2db5045ba1c",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@1.0.0",
+			"_shasum": "f7439ef4cf9ee7879e1d96ebae6ab6e419e6f16a",
+			"_from": ".",
+			"_npmVersion": "3.6.0",
+			"_nodeVersion": "5.7.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "f7439ef4cf9ee7879e1d96ebae6ab6e419e6f16a",
+				"size": 537547,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-13-west.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-1.0.0.tgz_1457838172899_0.11514230631291866"
+			},
+			"directories": {},
+			"publish_time": 1457838173445,
+			"_cnpm_publish_time": 1457838173445,
+			"_hasShrinkwrap": false
+		},
+		"0.9.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.9.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0 || >0.14.0",
+				"react": ">=0.13 || >0.14.0-alpha || >0.14.0"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.3",
+				"react-dom": "^0.14.0",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"test": "jest",
+				"serve": "node server.js",
+				"start": "node server.js"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React",
+				"react-dom": "global:ReactDOM"
+			},
+			"browserify": {
+				"transform": [
+					"browserify-shim"
+				]
+			},
+			"main": "index.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "4b97fb4894b634fe77e28e53caa5634c18d0f310",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.9.1",
+			"_shasum": "fe1778fce906c17372f591d864f402d20e56ea6d",
+			"_from": ".",
+			"_npmVersion": "3.6.0",
+			"_nodeVersion": "5.7.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "fe1778fce906c17372f591d864f402d20e56ea6d",
+				"size": 373055,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.9.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-0.9.1.tgz_1457761185442_0.9838913478888571"
+			},
+			"directories": {},
+			"publish_time": 1457761185885,
+			"_cnpm_publish_time": 1457761185885,
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.9.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0",
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"babel-jest": "^6.0.1",
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jest-cli": "^0.8.1",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.3",
+				"react-dom": "^0.14.0",
+				"react-tools": "^0.13.3",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"test": "jest",
+				"start": "node server.js"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/preprocessor.js",
+				"unmockedModulePathPatterns": [
+					"<rootDir>/node_modules/*"
+				]
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React",
+				"react-dom": "global:ReactDOM"
+			},
+			"browserify": {
+				"transform": [
+					"browserify-shim"
+				]
+			},
+			"main": "./lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "f1899ae655121b2752064c6cf223170c90d7b88b",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.9.0",
+			"_shasum": "df79c20834b97baae7695e11a6a0cc89d48ab9c6",
+			"_from": ".",
+			"_npmVersion": "3.3.12",
+			"_nodeVersion": "5.4.1",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "df79c20834b97baae7695e11a6a0cc89d48ab9c6",
+				"size": 372661,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.9.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-9-west.internal.npmjs.com",
+				"tmp": "tmp/react-dropzone-component-0.9.0.tgz_1456160022805_0.7559568514116108"
+			},
+			"directories": {},
+			"publish_time": 1456160026749,
+			"_cnpm_publish_time": 1456160026749,
+			"_hasShrinkwrap": false
+		},
+		"0.8.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.8.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0",
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "f58b90a203873eb7f08ea603077825c13c94846e",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.8.1",
+			"_shasum": "6b25ce3729ec8c4fd1a2368baca415ab631f5bf5",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "6b25ce3729ec8c4fd1a2368baca415ab631f5bf5",
+				"size": 562454,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.8.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1446659422171,
+			"_cnpm_publish_time": 1446659422171,
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.8.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0",
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "d3a4fc98358ddf90080b26e12d6585290030b596",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.8.0",
+			"_shasum": "a40024ff9ba84dc933b99ce90505cc3f22e14489",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "a40024ff9ba84dc933b99ce90505cc3f22e14489",
+				"size": 562635,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.8.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1446575621536,
+			"_cnpm_publish_time": 1446575621536,
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.7.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react-dom": "^0.14.0",
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "6b0aa0f1eff20d29a56a6911736528dda30ff37a",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.7.0",
+			"_shasum": "73abb359fead502f50680fe9658be8ebbcc7f973",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "73abb359fead502f50680fe9658be8ebbcc7f973",
+				"size": 561798,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.7.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1445884220317,
+			"_cnpm_publish_time": 1445884220317,
+			"_hasShrinkwrap": false
+		},
+		"0.6.4": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.6.4",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": ">=0.13.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/react-dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "86234ac9c84fc34c76ff8e64580621d771a0a687",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.6.4",
+			"_shasum": "b76b6c23b80d6d05646e7ba609d8f02dbf3063a7",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "b76b6c23b80d6d05646e7ba609d8f02dbf3063a7",
+				"size": 369380,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.6.4.tgz"
+			},
+			"directories": {},
+			"publish_time": 1445391327384,
+			"_cnpm_publish_time": 1445391327384,
+			"_hasShrinkwrap": false
+		},
+		"0.6.3": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.6.3",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": ">=0.13.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "2bed76607e44b4ea1bc7dbacb7da33130629cc05",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.6.3",
+			"_shasum": "3e6d58cce74763ad8b74d22963f779e83f479f0d",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "3e6d58cce74763ad8b74d22963f779e83f479f0d",
+				"size": 369379,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.6.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1445377351583,
+			"_cnpm_publish_time": 1445377351583,
+			"_hasShrinkwrap": false
+		},
+		"0.6.2": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.6.2",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": ">=0.13.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.2.0"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "f1195573f6b9ecc514166a13112920904a74162a",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.6.2",
+			"_shasum": "65668a73e29a770e854fe821eeaeec402f39c5a1",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "65668a73e29a770e854fe821eeaeec402f39c5a1",
+				"size": 368969,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.6.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1445115890251,
+			"_cnpm_publish_time": 1445115890251,
+			"_hasShrinkwrap": false
+		},
+		"0.6.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.6.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": ">=0.13.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "bc8d0b978bd117787553321c490cef4dab01883c",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.6.1",
+			"_shasum": "4c2a66f8dcabd720319fe7c76e3ef28400bc2240",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "4c2a66f8dcabd720319fe7c76e3ef28400bc2240",
+				"size": 368815,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.6.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1443645328204,
+			"_cnpm_publish_time": 1443645328204,
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.6.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": ">=0.13.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "1c7a235cb4856bfda3569d37b78246be38d73c19",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.6.0",
+			"_shasum": "111ec0dfca584c0a7c7cf8a7babf72961c3a466b",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "111ec0dfca584c0a7c7cf8a7babf72961c3a466b",
+				"size": 369141,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.6.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1442856842248,
+			"_cnpm_publish_time": 1442856842248,
+			"_hasShrinkwrap": false
+		},
+		"0.5.3": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.5.3",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": ">=0.13.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "8e3ffd88116deef0ccb093cfcfe08c28d9b5172c",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.5.3",
+			"_shasum": "c6e51710a61a39d4fae011dd728385e5ea8d314c",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "c6e51710a61a39d4fae011dd728385e5ea8d314c",
+				"size": 368605,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.5.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1441731471779,
+			"_cnpm_publish_time": 1441731471779,
+			"_hasShrinkwrap": false
+		},
+		"0.5.2": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.5.2",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": ">=0.13 || >0.14.0-alpha"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": ">=0.13.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "9934a4de6474f5b4025592dc392ff3d07b90b4da",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.5.2",
+			"_shasum": "a5246088fc0f75be9ae083dcbb48971c9ef79533",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "a5246088fc0f75be9ae083dcbb48971c9ef79533",
+				"size": 368564,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.5.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1440424526363,
+			"_cnpm_publish_time": 1440424526363,
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.5.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": ">=0.13.0"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": ">=0.13.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "35355ba064e177e13e4c88d8a34b1ca6c6af21ec",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.5.1",
+			"_shasum": "7c8841facc807f76c8b8a7d5738d028267c063e1",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "7c8841facc807f76c8b8a7d5738d028267c063e1",
+				"size": 368544,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.5.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1440423632376,
+			"_cnpm_publish_time": 1440423632376,
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.5.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"body-parser": "^1.12.4",
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"express": "^4.12.3",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^4.0.0",
+				"grunt-express-server": "^0.5.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"multer": "^0.1.8",
+				"react": ">=0.13.0",
+				"reactify": "^1.1.1",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "4558e11a32e78955b3ef8e532b9119ea10bc9be0",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.5.0",
+			"_shasum": "4868966aa1208b1034f57d12374ba57353380bdf",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "4868966aa1208b1034f57d12374ba57353380bdf",
+				"size": 367783,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.5.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1439408179600,
+			"_cnpm_publish_time": 1439408179600,
+			"_hasShrinkwrap": false
+		},
+		"0.4.4": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.4.4",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"react": ">=0.13.0",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0",
+				"multer": "^0.1.8",
+				"express": "^4.12.3",
+				"body-parser": "^1.12.4"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"test": "gulp transpile-js && tape test/*.js",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "59322f11026666a0db29e881e475daad04caae23",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.4.4",
+			"_shasum": "59ce036b5ef9aaeaf5f351cbe2fd30c44fb323d2",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "59ce036b5ef9aaeaf5f351cbe2fd30c44fb323d2",
+				"size": 368188,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.4.4.tgz"
+			},
+			"directories": {},
+			"publish_time": 1437435703410,
+			"_cnpm_publish_time": 1437435703410,
+			"_hasShrinkwrap": false
+		},
+		"0.4.3": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.4.3",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"react": ">=0.13.0",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0",
+				"multer": "^0.1.8",
+				"express": "^4.12.3",
+				"body-parser": "^1.12.4"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"test": "gulp transpile-js && tape test/*.js",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "5990ab2d17f68599278eae9c62534a1344eac793",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.4.3",
+			"_shasum": "1209505d11e04605ab603d579a8ee023f5569c3b",
+			"_from": ".",
+			"_npmVersion": "3.0.0",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "1209505d11e04605ab603d579a8ee023f5569c3b",
+				"size": 367791,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.4.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1435356721254,
+			"_cnpm_publish_time": 1435356721254,
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.4.2",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"react": ">=0.13.0",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0",
+				"multer": "^0.1.8",
+				"express": "^4.12.3",
+				"body-parser": "^1.12.4"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"test": "gulp transpile-js && tape test/*.js",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "028892f42e49df5854e5eb2f992654d348d3abdd",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.4.2",
+			"_shasum": "fada775126ab9072bebfa25984e7f1997c90bb1c",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "fada775126ab9072bebfa25984e7f1997c90bb1c",
+				"size": 367311,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.4.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1433958885786,
+			"_cnpm_publish_time": 1433958885786,
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.4.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"react": ">=0.13.0",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0",
+				"multer": "^0.1.8",
+				"express": "^4.12.3",
+				"body-parser": "^1.12.4"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"test": "gulp transpile-js && tape test/*.js",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "fb90e47992144b363a2dee9cdbfa7b9eeb62de78",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.4.1",
+			"_shasum": "d6dc3d7b05a6cc9d69f5410cf905c0ad8dc10115",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "d6dc3d7b05a6cc9d69f5410cf905c0ad8dc10115",
+				"size": 367182,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.4.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1433947553931,
+			"_cnpm_publish_time": 1433947553931,
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.4.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"react": ">=0.13.0",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0",
+				"multer": "^0.1.8",
+				"express": "^4.12.3",
+				"body-parser": "^1.12.4"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"test": "gulp transpile-js && tape test/*.js",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "f34b030e65cb978d0f49c52da59aa7d45199a699",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.4.0",
+			"_shasum": "a24a2cd5d43ed7bc27771858797cd22cef373a5e",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "a24a2cd5d43ed7bc27771858797cd22cef373a5e",
+				"size": 366902,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.4.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1433429518824,
+			"_cnpm_publish_time": 1433429518824,
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.3.2",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"react": ">=0.13.0",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0",
+				"multer": "^0.1.8",
+				"express": "^4.12.3",
+				"body-parser": "^1.12.4"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"test": "gulp transpile-js && tape test/*.js",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "cf965aaa9775db88a89d4a7c723dfb6d8a94d9b4",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.3.2",
+			"_shasum": "a61e25b5051f34188f26291b609bd1059b79c074",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "a61e25b5051f34188f26291b609bd1059b79c074",
+				"size": 366609,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.3.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432853362342,
+			"_cnpm_publish_time": 1432853362342,
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.3.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"react": ">=0.13.0",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0",
+				"multer": "^0.1.8",
+				"express": "^4.12.3",
+				"body-parser": "^1.12.4"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"test": "gulp transpile-js && tape test/*.js",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "2a8bd740c24af293a508b5043747f761ed577490",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.3.1",
+			"_shasum": "4e9af99502d534f7e4e0b99759aca0d511739e5f",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "4e9af99502d534f7e4e0b99759aca0d511739e5f",
+				"size": 366534,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.3.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432835401944,
+			"_cnpm_publish_time": 1432835401944,
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.3.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"peerDependencies": {
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"browserify": "^9.0.3",
+				"browserify-shim": "^3.8.3",
+				"del": "^1.1.1",
+				"gulp": "^3.8.11",
+				"gulp-header": "^1.2.2",
+				"gulp-jshint": "^1.9.4",
+				"gulp-plumber": "^1.0.0",
+				"gulp-react": "^3.0.1",
+				"gulp-rename": "^1.2.0",
+				"gulp-streamify": "0.0.5",
+				"gulp-uglify": "^1.1.0",
+				"gulp-util": "^3.0.4",
+				"jshint-stylish": "^1.0.1",
+				"react": ">=0.13.0",
+				"tape": "^3.5.0",
+				"vinyl-source-stream": "^1.1.0",
+				"multer": "^0.1.8",
+				"express": "^4.12.3",
+				"body-parser": "^1.12.4"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"scripts": {
+				"debug": "gulp --debug",
+				"dist": "gulp bundle-js --production --release && gulp bundle-js --development --release",
+				"test": "gulp transpile-js && tape test/*.js",
+				"watch": "gulp",
+				"start": "node server.js"
+			},
+			"browserify-shim": {
+				"react": "global:React",
+				"react/addons": "global:React"
+			},
+			"main": "./lib/dropzone.js",
+			"standalone": "React-Dropzone",
+			"gitHead": "9a1c26ae02b44f74f791cde539ce4b5f787a38ff",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.3.0",
+			"_shasum": "5b23d2857ece5a43b9d82be4b66199b1c6ed6aa9",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "5b23d2857ece5a43b9d82be4b66199b1c6ed6aa9",
+				"size": 366342,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.3.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432732861179,
+			"_cnpm_publish_time": 1432732861179,
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.2.2",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"devDependencies": {
+				"browserify": "^6.3.3",
+				"envify": "^3.2.0",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^3.8.0",
+				"grunt-contrib-uglify": "^0.9.1",
+				"grunt-contrib-watch": "^0.6.1",
+				"grunt-express-server": "^0.5.1",
+				"grunt-jscs": "^1.8.0",
+				"grunt-watchify": "^0.1.0",
+				"jscs": "^1.13.1",
+				"react": "^0.13.0",
+				"reactify": "^0.17.1",
+				"multer": "^0.1.8",
+				"express": "^4.12.3",
+				"body-parser": "^1.12.4"
+			},
+			"dependencies": {
+				"dropzone": "^4.0.1"
+			},
+			"main": "built/dropzone.min.js",
+			"scripts": {
+				"start": "node server.js"
+			},
+			"gitHead": "644add6cc378c2844b14f92ac0cba49e3a7f4d02",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.2.2",
+			"_shasum": "fb45548816697ff1a2f2d4b4bd85ae76592126ba",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "fb45548816697ff1a2f2d4b4bd85ae76592126ba",
+				"size": 365799,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.2.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432561728131,
+			"_cnpm_publish_time": 1432561728131,
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.2.1",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"devDependencies": {
+				"browserify": "^6.3.3",
+				"envify": "^3.2.0",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^3.8.0",
+				"grunt-contrib-uglify": "^0.9.1",
+				"grunt-contrib-watch": "^0.6.1",
+				"grunt-express-server": "^0.5.1",
+				"grunt-jscs": "^1.8.0",
+				"grunt-watchify": "^0.1.0",
+				"jscs": "^1.13.1",
+				"react": "^0.13.0",
+				"reactify": "^0.17.1"
+			},
+			"dependencies": {
+				"body-parser": "^1.12.4",
+				"dropzone": "^4.0.1",
+				"express": "^4.12.3",
+				"jquery": "^1.11",
+				"multer": "^0.1.8"
+			},
+			"main": "built/dropzone.min.js",
+			"scripts": {
+				"start": "node server.js"
+			},
+			"gitHead": "c18f320c8d07a862ff4e0f7fbe2ad010aab45893",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.2.1",
+			"_shasum": "6e626da8efba8ff1e097abe1aba1f863b066cdd4",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "6e626da8efba8ff1e097abe1aba1f863b066cdd4",
+				"size": 554057,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.2.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432492723742,
+			"_cnpm_publish_time": 1432492723742,
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.2.0",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"devDependencies": {
+				"browserify": "^6.3.3",
+				"envify": "^3.2.0",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^3.8.0",
+				"grunt-contrib-uglify": "^0.9.1",
+				"grunt-contrib-watch": "^0.6.1",
+				"grunt-express-server": "^0.5.1",
+				"grunt-jscs": "^1.8.0",
+				"grunt-watchify": "^0.1.0",
+				"jscs": "^1.13.1",
+				"react": "^0.13.0",
+				"reactify": "^0.17.1"
+			},
+			"dependencies": {
+				"body-parser": "^1.12.4",
+				"dropzone": "^4.0.1",
+				"express": "^4.12.3",
+				"jquery": "^1.11",
+				"multer": "^0.1.8"
+			},
+			"main": "built/dropzone.js",
+			"scripts": {
+				"start": "node server.js"
+			},
+			"gitHead": "63682f895a86857d4a47e965a6714417abe667d0",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.2.0",
+			"_shasum": "f5fcffbf675fb55c83b622ec9be2852b08add2c4",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "f5fcffbf675fb55c83b622ec9be2852b08add2c4",
+				"size": 554053,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.2.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432492597974,
+			"_cnpm_publish_time": 1432492597974,
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "react-dropzone-component",
+			"description": "A Dropzone Component for ReactJS",
+			"version": "0.1.2",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/felixrieseberg/React-Dropzone.git"
+			},
+			"maintainers": [
+				{
+					"name": "felixrieseberg",
+					"email": "felix@felixrieseberg.com"
+				}
+			],
+			"devDependencies": {
+				"browserify": "^6.3.3",
+				"envify": "^3.2.0",
+				"grunt": "^0.4.5",
+				"grunt-browserify": "^3.8.0",
+				"grunt-contrib-watch": "^0.6.1",
+				"grunt-express-server": "^0.5.1",
+				"grunt-jscs": "^1.8.0",
+				"grunt-watchify": "^0.1.0",
+				"jscs": "^1.13.1",
+				"react": "^0.13.0",
+				"reactify": "^0.17.1"
+			},
+			"dependencies": {
+				"body-parser": "^1.12.4",
+				"dropzone": "^4.0.1",
+				"express": "^4.12.3",
+				"jquery": "^1.11",
+				"multer": "^0.1.8"
+			},
+			"scripts": {
+				"start": "node server.js"
+			},
+			"gitHead": "ca202d401df0bfb4eab50d365d81b0bfa562a652",
+			"bugs": {
+				"url": "https://github.com/felixrieseberg/React-Dropzone/issues"
+			},
+			"homepage": "https://github.com/felixrieseberg/React-Dropzone#readme",
+			"_id": "react-dropzone-component@0.1.2",
+			"_shasum": "9621f64836766cb11a5bac92c7e5896b8abf1380",
+			"_from": ".",
+			"_npmVersion": "2.8.3",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "felixrieseberg",
+				"email": "felix@felixrieseberg.com"
+			},
+			"dist": {
+				"shasum": "9621f64836766cb11a5bac92c7e5896b8abf1380",
+				"size": 339170,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.1.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432305200685,
+			"_cnpm_publish_time": 1432305200685,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"alpha": "3.0.0-alpha.1",
+		"beta": "2.0.0-beta3",
+		"latest": "3.2.0"
+	},
+	"time": {
+		"modified": "2018-03-28T22:55:57.000Z",
+		"created": "2015-05-22T14:33:20.685Z",
+		"3.2.0": "2018-03-28T22:55:49.577Z",
+		"3.1.2": "2018-02-11T01:28:30.545Z",
+		"3.1.1": "2018-02-11T01:21:41.407Z",
+		"3.1.0": "2018-01-22T23:57:34.477Z",
+		"3.0.0": "2017-11-18T21:00:22.274Z",
+		"3.0.0-alpha.1": "2017-11-18T20:02:21.795Z",
+		"2.0.0": "2017-04-25T18:28:21.050Z",
+		"2.0.0-beta3": "2017-04-25T18:16:32.112Z",
+		"2.0.0-beta2": "2017-04-25T17:51:04.201Z",
+		"2.0.0-beta1": "2017-04-25T17:37:49.899Z",
+		"1.4.1": "2016-12-12T23:20:05.710Z",
+		"1.4.0": "2016-12-12T19:20:58.065Z",
+		"1.3.0": "2016-12-12T04:36:11.763Z",
+		"1.2.1": "2016-11-30T23:29:05.281Z",
+		"1.2.0": "2016-09-16T11:11:53.402Z",
+		"1.1.0": "2016-09-08T04:23:28.922Z",
+		"1.0.4": "2016-05-17T17:39:03.381Z",
+		"1.0.3": "2016-05-10T07:17:53.994Z",
+		"1.0.2": "2016-05-03T13:03:32.483Z",
+		"1.0.1": "2016-04-28T14:24:36.520Z",
+		"1.0.0": "2016-03-13T03:02:53.445Z",
+		"0.9.1": "2016-03-12T05:39:45.885Z",
+		"0.9.0": "2016-02-22T16:53:46.749Z",
+		"0.8.1": "2015-11-04T17:50:22.171Z",
+		"0.8.0": "2015-11-03T18:33:41.536Z",
+		"0.7.0": "2015-10-26T18:30:20.317Z",
+		"0.6.4": "2015-10-21T01:35:27.384Z",
+		"0.6.3": "2015-10-20T21:42:31.583Z",
+		"0.6.2": "2015-10-17T21:04:50.251Z",
+		"0.6.1": "2015-09-30T20:35:28.204Z",
+		"0.6.0": "2015-09-21T17:34:02.248Z",
+		"0.5.3": "2015-09-08T16:57:51.779Z",
+		"0.5.2": "2015-08-24T13:55:26.363Z",
+		"0.5.1": "2015-08-24T13:40:32.376Z",
+		"0.5.0": "2015-08-12T19:36:19.600Z",
+		"0.4.4": "2015-07-20T23:41:43.410Z",
+		"0.4.3": "2015-06-26T22:12:01.254Z",
+		"0.4.2": "2015-06-10T17:54:45.786Z",
+		"0.4.1": "2015-06-10T14:45:53.931Z",
+		"0.4.0": "2015-06-04T14:51:58.824Z",
+		"0.3.2": "2015-05-28T22:49:22.342Z",
+		"0.3.1": "2015-05-28T17:50:01.944Z",
+		"0.3.0": "2015-05-27T13:21:01.179Z",
+		"0.2.2": "2015-05-25T13:48:48.131Z",
+		"0.2.1": "2015-05-24T18:38:43.742Z",
+		"0.2.0": "2015-05-24T18:36:37.974Z",
+		"0.1.2": "2015-05-22T14:33:20.685Z"
+	},
+	"_distfiles": {
+		"react-dropzone-component-3.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.2.0.tgz",
+			"sha": "8ad4cdce342084fb87302ddec6651caa49d8b103",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-3.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.1.2.tgz",
+			"sha": "3fd81e717f05ca03e5157028ddfed7467fed8c86",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-3.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.1.1.tgz",
+			"sha": "501c38a36fef36c249d3b2ee52e1b3e66cfa5a93",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-3.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.1.0.tgz",
+			"sha": "a44cc3308be61394541dd399e8439235d43577cd",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.0.0.tgz",
+			"sha": "83f6f220af11208070d3b6e106fdd7caf749f14c",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-3.0.0-alpha.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-3.0.0-alpha.1.tgz",
+			"sha": "506c4472d15a50086f7df91e8f38af43637207db",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-2.0.0.tgz",
+			"sha": "35cd011f525c9ca620fcb647e79725eeaa1b5a58",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-2.0.0-beta3.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-2.0.0-beta3.tgz",
+			"sha": "3c9440336b517ee07f761100c3cee3b5d50601dc",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-2.0.0-beta2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-2.0.0-beta2.tgz",
+			"sha": "0c21291dccfd8e364264218106b458bc5f664a8f",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-2.0.0-beta1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-2.0.0-beta1.tgz",
+			"sha": "57cc1ee2139443e33974c457a865f13d05365c75",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.4.1.tgz",
+			"sha": "956f00e2fe2224c87261bff2d9327da09312879e",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.4.0.tgz",
+			"sha": "d55fa7fe6c7ee3825692a97802460d07416e379e",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.3.0.tgz",
+			"sha": "98cd02b54d552aa4f1bca1fa95cbdba90b52e430",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.2.1.tgz",
+			"sha": "80d3b10e05681415e5b796063ed8efd564e4b3eb",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.2.0.tgz",
+			"sha": "271947635aaabfcd8322a4c203d4c7fc21707406",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.1.0.tgz",
+			"sha": "c09fbb4feaaf932979a08932e88fbbbaea640c32",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.0.4.tgz",
+			"sha": "b41ccb0e3d0a8bd7c1a4a98645055f9d005c8fbe",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.0.3.tgz",
+			"sha": "479c3305796533a0d671b795de822bf04376e41e",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.0.2.tgz",
+			"sha": "2cfc19d1ce39e560d170f841fe5f0d69ff612a2e",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.0.1.tgz",
+			"sha": "81ee023e8bad15509528992513ad0d3e2fa73ec0",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-1.0.0.tgz",
+			"sha": "f7439ef4cf9ee7879e1d96ebae6ab6e419e6f16a",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.9.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.9.1.tgz",
+			"sha": "fe1778fce906c17372f591d864f402d20e56ea6d",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.9.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.9.0.tgz",
+			"sha": "df79c20834b97baae7695e11a6a0cc89d48ab9c6",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.8.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.8.1.tgz",
+			"sha": "6b25ce3729ec8c4fd1a2368baca415ab631f5bf5",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.8.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.8.0.tgz",
+			"sha": "a40024ff9ba84dc933b99ce90505cc3f22e14489",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.7.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.7.0.tgz",
+			"sha": "73abb359fead502f50680fe9658be8ebbcc7f973",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.6.4.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.6.4.tgz",
+			"sha": "b76b6c23b80d6d05646e7ba609d8f02dbf3063a7",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.6.3.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.6.3.tgz",
+			"sha": "3e6d58cce74763ad8b74d22963f779e83f479f0d",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.6.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.6.2.tgz",
+			"sha": "65668a73e29a770e854fe821eeaeec402f39c5a1",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.6.1.tgz",
+			"sha": "4c2a66f8dcabd720319fe7c76e3ef28400bc2240",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.6.0.tgz",
+			"sha": "111ec0dfca584c0a7c7cf8a7babf72961c3a466b",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.5.3.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.5.3.tgz",
+			"sha": "c6e51710a61a39d4fae011dd728385e5ea8d314c",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.5.2.tgz",
+			"sha": "a5246088fc0f75be9ae083dcbb48971c9ef79533",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.5.1.tgz",
+			"sha": "7c8841facc807f76c8b8a7d5738d028267c063e1",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.5.0.tgz",
+			"sha": "4868966aa1208b1034f57d12374ba57353380bdf",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.4.4.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.4.4.tgz",
+			"sha": "59ce036b5ef9aaeaf5f351cbe2fd30c44fb323d2",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.4.3.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.4.3.tgz",
+			"sha": "1209505d11e04605ab603d579a8ee023f5569c3b",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.4.2.tgz",
+			"sha": "fada775126ab9072bebfa25984e7f1997c90bb1c",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.4.1.tgz",
+			"sha": "d6dc3d7b05a6cc9d69f5410cf905c0ad8dc10115",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.4.0.tgz",
+			"sha": "a24a2cd5d43ed7bc27771858797cd22cef373a5e",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.3.2.tgz",
+			"sha": "a61e25b5051f34188f26291b609bd1059b79c074",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.3.1.tgz",
+			"sha": "4e9af99502d534f7e4e0b99759aca0d511739e5f",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.3.0.tgz",
+			"sha": "5b23d2857ece5a43b9d82be4b66199b1c6ed6aa9",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.2.2.tgz",
+			"sha": "fb45548816697ff1a2f2d4b4bd85ae76592126ba",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.2.1.tgz",
+			"sha": "6e626da8efba8ff1e097abe1aba1f863b066cdd4",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.2.0.tgz",
+			"sha": "f5fcffbf675fb55c83b622ec9be2852b08add2c4",
+			"registry": "cnpmjs"
+		},
+		"react-dropzone-component-0.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-dropzone-component/download/react-dropzone-component-0.1.2.tgz",
+			"sha": "9621f64836766cb11a5bac92c7e5896b8abf1380",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"19690-PIPpeMl0jenwxSAORud4uHUGSz4\"",
+			"fetched": 1527747701546
+		}
+	},
+	"_rev": "12-154d75e091390bbc",
+	"readme": "## Dropzone.js Component for React\n[![Build Status](https://travis-ci.org/felixrieseberg/React-Dropzone-Component.svg?branch=master)](https://travis-ci.org/felixrieseberg/React-Dropzone-Component) [![Dependency Status](https://david-dm.org/felixrieseberg/react-dropzone-component.svg)](https://david-dm.org/felixrieseberg/react-dropzone-component) [![npm version](https://badge.fury.io/js/react-dropzone-component.svg)](https://badge.fury.io/js/react-dropzone-component) ![Downloads](https://img.shields.io/npm/dm/react-dropzone-component.svg)\n\nA Dropzone component for ReactJS, allowing users to \"drag and drop\" files into an upload area. The component uses the battle-tested [Dropzone.js](http://www.dropzonejs.com/) to provide a cross-browser-compatible upload component.\n\nYou [can see a demo of the uploader with minimal configuration here](http://reactdropzone.azurewebsites.net/example).\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/felixrieseberg/React-Dropzone/master/.dropzone.gif\" alt=\"Screen GIF\" />\n</div>\n\n * [Simple Usage Example](#usage)\n   * [Accessing the Dropzone.js object](#accessing-the-dropzone-object)\n   * [Usage without automatic posting](#usage-without-automatic-posting)\n   * [Custom Preview Template](#custom-preview-template)\n   * [Custom Post Parameters](#custom-post-parameters)\n   * [Updating the Component's Properties](#updating-the-components-properties)\n * [Callbacks](#callbacks)\n * [Server Example](#server-example)\n\n## Usage\nThe component is initialized with a configuration object. Optional are a list of event handlers and a configuration object for dropzone.js.\n\nIf you are using one of the many module solutions, you can simply install and require this component like shown below. The package's main entry point is `lib/dropzone.js`, which gives you all the dropzone components. If you're rolling with ES6/ES2015, feel free to use `src/dropzone.js`. If you don't want any trouble at all, just add `dist/dropzone.min.js` as a script to your app and use `<DropzoneComponent />`.\n\n> :warning: Ensure that React and ReactDOM are global variables, so that they can be reached on `window.React` or `globa.React`. Many fancy boilerplates are overly fancy and somehow remove those variables.\n>\n> If you are using a fancy boilerplate, you might want to require the lib directly, by using `import DropzoneComponent from 'react-dropzone-component/lib/react-dropzone'` or `require('react-dropzone-component/lib/react-dropzone')`.\n\nPlease ensure that you also include two required CSS files: `node_modules/react-dropzone-component/styles/filepicker.css` and `node_modules/dropzone/dist/min/dropzone.min.css`. There are currently a bunch of good ways to combine and process CSS in React, so I'll leave it to you to choose whatever method is best for you - the component does not automatically load CSS.\n\n> To use this component without React-DOM, use version `^0.6` - from `0.7` on, we need it.\n\n```\nnpm install react-dropzone-component\n```\n\n```js\nimport React from 'react';\nimport ReactDOM from 'react-dom';\nimport DropzoneComponent from 'react-dropzone-component';\n\nvar componentConfig = {\n    iconFiletypes: ['.jpg', '.png', '.gif'],\n    showFiletypeIcon: true,\n    postUrl: '/uploadHandler'\n};\n\nReactDOM.render(\n    <DropzoneComponent config={componentConfig}\n                       eventHandlers={eventHandlers}\n                       djsConfig={djsConfig} />,\n    document.getElementById('content')\n);\n```\n\nThe configuration allows you to disable the display of CSS file type icons and to set the URL to which uploads should be posted.\n\n##### Accessing the Dropzone Object\nThere are a bunch of operations that might require accessing the dropzone object, especially when wanting to call [dropzone methods](http://www.dropzonejs.com/#dropzone-methods).\n\nTo get said object, use the `init` event, whose callback will receive a reference to the dropzone object as a parameter.\n\n```js\nvar myDropzone;\n\nfunction initCallback (dropzone) {\n    myDropzone = dropzone;\n}\n\nfunction removeFile () {\n    if (myDropzone) {\n        myDropzone.removeFile();\n    }\n}\n```\n\n##### Usage Without Automatic Posting\nIf you want to use this component without posting automatically to a URL but instead do the posting yourself, then you can just fill the `postUrl` option with a meaningless string and handle the displaying of progress by yourself using the provided event handlers. To see this in action, check out the `examples`!\n\n```js\nvar componentConfig = { postUrl: 'no-url' };\nvar djsConfig = { autoProcessQueue: false }\nvar eventHandlers = { addedfile: (file) => console.log(file) }\n\nReactDOM.render(\n    <DropzoneComponent config={componentConfig}\n                       eventHandlers={eventHandlers}\n                       djsConfig={djsConfig} />,\n    document.getElementById('content')\n);\n```\n\n##### Custom Preview Template\nThe djsconfig property is compatible with all of the options in the official [DropzoneJS documentation](http://www.dropzonejs.com/#layout). Updating the preview template can be done as follows:\n\n```js\nvar ReactDOMServer = require('react-dom/server');\n\nvar djsConfig = {\n  previewTemplate: ReactDOMServer.renderToStaticMarkup(\n    <div className=\"dz-preview dz-file-preview\">\n      <div className=\"dz-details\">\n        <div className=\"dz-filename\"><span data-dz-name=\"true\"></span></div>\n        <img data-dz-thumbnail=\"true\" />\n      </div>\n      <div className=\"dz-progress\"><span className=\"dz-upload\" data-dz-uploadprogress=\"true\"></span></div>\n      <div className=\"dz-success-mark\"><span>✔</span></div>\n      <div className=\"dz-error-mark\"><span>✘</span></div>\n      <div className=\"dz-error-message\"><span data-dz-errormessage=\"true\"></span></div>\n    </div>\n  )\n}\n```\n\n##### Custom Post Parameters\nTo add custom parameters to your request, add a `params` property to your Dropzone.js configuration object.\n\n```js\nvar djsConfig = {\n    addRemoveLinks: true,\n    params: {\n        myParameter: \"I'm a parameter!\"\n    }\n};\n\nvar componentConfig = {\n    postUrl: '/uploadHandler'\n};\n\nReactDOM.render(<DropzoneComponent config={componentConfig} djsConfig={djsConfig} />, document.getElementById('content'));\n```\n\n### Custom Dropzone Area\n\nIn case you need to customize the dropzone area, you may pass a jQuery compatible selector in the config object.\n\n```js\nvar componentConfig = {\n    postUrl: '/uploadHandler',\n    dropzoneSelector: 'body',\n};\n\nReactDOM.render(\n  <DropzoneComponent config={componentConfig} />,\n  document.getElementById('content'),\n);\n```\n\nThe code above will use the entire page `body` as the dropzone area.\n\n### Callbacks\nCallbacks can be provided in an object literal.\n\n```js\nvar eventHandlers = {\n    // This one receives the dropzone object as the first parameter\n    // and can be used to additional work with the dropzone.js\n    // object\n    init: null,\n    // All of these receive the event as first parameter:\n    drop: callbackArray,\n    dragstart: null,\n    dragend: null,\n    dragenter: null,\n    dragover: null,\n    dragleave: null,\n    // All of these receive the file as first parameter:\n    addedfile: simpleCallBack,\n    removedfile: null,\n    thumbnail: null,\n    error: null,\n    processing: null,\n    uploadprogress: null,\n    sending: null,\n    success: null,\n    complete: null,\n    canceled: null,\n    maxfilesreached: null,\n    maxfilesexceeded: null,\n    // All of these receive a list of files as first parameter\n    // and are only called if the uploadMultiple option\n    // in djsConfig is true:\n    processingmultiple: null,\n    sendingmultiple: null,\n    successmultiple: null,\n    completemultiple: null,\n    canceledmultiple: null,\n    // Special Events\n    totaluploadprogress: null,\n    reset: null,\n    queuecomplete: null\n}\n```\n\nTo provide a single callback, simply override one of these events with your function reference. If you want to provide multiple callbacks, simply provide an array with your function references.\n\n```js\nvar callbackArray = [\n    function () {\n        console.log('Look Ma, I\\'m a callback in an array!');\n    },\n    function () {\n        console.log('Wooooow!');\n    }\n];\n\nvar simpleCallBack = function () {\n    console.log('I\\'m a simple callback');\n};\n```\n\n#### Updating the Component's Properties\nThis React Component is a wrapper around Dropzone.js - meaning that Dropzone.js is not aware of the React component life cycle. When you update the component's properties, we will use a copy of jQuery's `extend` method ([see documentation](https://api.jquery.com/jquery.extend/)) to merge new options into the Dropzone's properties object.\n\nIf you want to fundamentally change things about your dropzone, we recommend that you either modify the Dropzone object directly or destroy and recreate the component.\n\n## Server Example\nThis component comes with a small server example. To try it out, simply run `npm install` and `npm start` from the `example` folder. Visit `http://localhost:8000/example/` to see the uploads working.\n\nTo check out the (super small) source code for this simple upload-accepting server, check out `example/src-server/` and `example/server.js`. **The component works with any server infrastructure, though!**\n\n## License\nMIT. For details, please consult `README.md`."
+}

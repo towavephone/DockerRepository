@@ -1,0 +1,1171 @@
+{
+	"name": "@types/js-yaml",
+	"versions": {
+		"3.11.1": {
+			"name": "@types/js-yaml",
+			"version": "3.11.1",
+			"description": "TypeScript definitions for js-yaml",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "Sebastian Clausen",
+					"url": "https://github.com/sclausen",
+					"githubUsername": "sclausen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "538950c33b55d42241be0673a308627a38fdf2362d066d5e5e796f84bd260d11",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/js-yaml@3.11.1",
+			"dist": {
+				"shasum": "ac5bab26be5f9c6f74b6b23420f2cfa5a7a6ba40",
+				"size": 3003,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.11.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/js-yaml_3.11.1_1522428396717_0.2590605280238869"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522428396766,
+			"_cnpm_publish_time": 1522428396766
+		},
+		"3.11.0": {
+			"name": "@types/js-yaml",
+			"version": "3.11.0",
+			"description": "TypeScript definitions for js-yaml",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "Sebastian Clausen",
+					"url": "https://github.com/sclausen",
+					"githubUsername": "sclausen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "40e64f7a90c26db1ca462938bd4b69ef2cf53c0ab0c20e590b73217f4ac561bf",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/js-yaml@3.11.0",
+			"dist": {
+				"shasum": "63700da41777a1f3ae2e0006a711ca6cd0354afb",
+				"size": 2992,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.11.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/js-yaml_3.11.0_1522176829398_0.6329589407809055"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522176829491,
+			"_cnpm_publish_time": 1522176829491
+		},
+		"3.10.1": {
+			"name": "@types/js-yaml",
+			"version": "3.10.1",
+			"description": "TypeScript definitions for js-yaml",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "Sebastian Clausen",
+					"url": "https://github.com/sclausen",
+					"githubUsername": "sclausen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "6c0c2cd8f92c2b0d16e4454061d83e8e4d89a4aa4f30966c9f109d5d76ab2049",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/js-yaml@3.10.1",
+			"dist": {
+				"shasum": "a4ddaf67fec34151e620cdbdd22e40b64217f577",
+				"size": 2949,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.10.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/js-yaml-3.10.1.tgz_1511373780986_0.03559424891136587"
+			},
+			"directories": {},
+			"publish_time": 1511373781050,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511373781050
+		},
+		"3.10.0": {
+			"name": "@types/js-yaml",
+			"version": "3.10.0",
+			"description": "TypeScript definitions for js-yaml",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "Sebastian Clausen",
+					"url": "https://github.com/sclausen",
+					"githubUsername": "sclausen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "9ce24affe96bd03e784b7f87d8c6ce889f7406ce4fc59f4a7c392b9fe991dad9",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/js-yaml@3.10.0",
+			"dist": {
+				"shasum": "9f69ce9554188dcf6f5a961d9632b45d89973a80",
+				"size": 2789,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.10.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/js-yaml-3.10.0.tgz_1510617032672_0.4766552357468754"
+			},
+			"directories": {},
+			"publish_time": 1510617032840,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510617032840
+		},
+		"3.9.1": {
+			"name": "@types/js-yaml",
+			"version": "3.9.1",
+			"description": "TypeScript definitions for js-yaml",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds"
+				},
+				{
+					"name": "Sebastian Clausen",
+					"url": "https://github.com/sclausen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "f7442ee1d7ae68735bbfabd484665c13a7f2189ee4bd90a7f141067db522173c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/js-yaml@3.9.1",
+			"dist": {
+				"shasum": "2f3c142771bb345829ce690c5838760b6b9ba553",
+				"size": 2771,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.9.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/js-yaml-3.9.1.tgz_1502833856071_0.654647869290784"
+			},
+			"directories": {},
+			"publish_time": 1502833856209,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502833856209
+		},
+		"3.9.0": {
+			"name": "@types/js-yaml",
+			"version": "3.9.0",
+			"description": "TypeScript definitions for js-yaml",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds"
+				},
+				{
+					"name": "Sebastian Clausen",
+					"url": "https://github.com/sclausen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "4f7549ed9c6a153404c349f42d00f79231acfa6892a0712310c662a83c515cd4",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/js-yaml@3.9.0",
+			"dist": {
+				"shasum": "cf82d31326251e8e94848d98a0665875928cdae6",
+				"size": 2762,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.9.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/js-yaml-3.9.0.tgz_1499716026491_0.29924476123414934"
+			},
+			"directories": {},
+			"publish_time": 1499716026611,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1499716026611
+		},
+		"3.5.31": {
+			"name": "@types/js-yaml",
+			"version": "3.5.31",
+			"description": "TypeScript definitions for js-yaml",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds"
+				},
+				{
+					"name": "Sebastian Clausen",
+					"url": "https://github.com/sclausen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1cc3cf23c52c89f51ce2293e0e5ab8978158a39ddb21625472f85b493e039cc6",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/js-yaml@3.5.31",
+			"dist": {
+				"shasum": "54aeb8bcaaf94a7b1a64311bc318dbfe601a593a",
+				"size": 2630,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/js-yaml-3.5.31.tgz_1496692590269_0.12884159246459603"
+			},
+			"directories": {},
+			"publish_time": 1496692590351,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496692590351
+		},
+		"3.5.30": {
+			"name": "@types/js-yaml",
+			"version": "3.5.30",
+			"description": "TypeScript definitions for js-yaml",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds"
+				},
+				{
+					"name": "Sebastian Clausen",
+					"url": "https://github.com/sclausen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "336d4a0ec2838b3361e8d103e0938af3bc0e44afcad8281726b003fd96674737",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/js-yaml@3.5.30",
+			"dist": {
+				"shasum": "f555118c022318e57e36d803379cb8ee38ee20a7",
+				"size": 2619,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.30.tgz_1492528074129_0.5486845746636391"
+			},
+			"directories": {},
+			"publish_time": 1492528075883,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492528075883
+		},
+		"3.5.29": {
+			"name": "@types/js-yaml",
+			"version": "3.5.29",
+			"description": "TypeScript definitions for js-yaml",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>, Sebastian Clausen <https://github.com/sclausen>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "4f9d32f12429d9d5e5f8163dba90eccd98c4dfbf3bf149a2295edbddaa2aa225",
+			"_id": "@types/js-yaml@3.5.29",
+			"dist": {
+				"shasum": "29f4dd9314fbccb080d8bd84b9c23811ec5090c2",
+				"size": 2077,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.29.tgz_1482244114674_0.10117105534300208"
+			},
+			"directories": {},
+			"publish_time": 1482244116520,
+			"_cnpm_publish_time": 1482244116520,
+			"_hasShrinkwrap": false
+		},
+		"3.5.28": {
+			"name": "@types/js-yaml",
+			"version": "3.5.28",
+			"description": "TypeScript definitions for js-yaml 3.5.2",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>, Sebastian Clausen <https://github.com/sclausen>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "af9e25a00e63fc4778267c96d2e449f1f97a9ad5805b6c62cdecd048e1c06dc3",
+			"_id": "@types/js-yaml@3.5.28",
+			"dist": {
+				"shasum": "efd7614f8eb1b924c41235ff653b7370da467fac",
+				"size": 1903,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.28.tgz_1474307121502_0.8817700007930398"
+			},
+			"directories": {},
+			"publish_time": 1474307124770,
+			"_cnpm_publish_time": 1474307124770,
+			"_hasShrinkwrap": false
+		},
+		"3.5.27": {
+			"name": "@types/js-yaml",
+			"version": "3.5.27",
+			"description": "TypeScript definitions for js-yaml 3.5.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/js-yaml@3.5.27",
+			"_shasum": "23609ced70a61cbc8774406543b903577f35ea0a",
+			"_from": "output\\js-yaml",
+			"_resolved": "file:output\\js-yaml",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "23609ced70a61cbc8774406543b903577f35ea0a",
+				"size": 1884,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.27.tgz_1468508898040_0.302916273009032"
+			},
+			"directories": {},
+			"publish_time": 1468508900217,
+			"_cnpm_publish_time": 1468508900217,
+			"_hasShrinkwrap": false
+		},
+		"3.5.26-alpha": {
+			"name": "@types/js-yaml",
+			"version": "3.5.26-alpha",
+			"description": "TypeScript definitions for js-yaml 3.5.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/js-yaml@3.5.26-alpha",
+			"_shasum": "c8a718ee5ea417598e97d20d41319c621aa164ec",
+			"_from": "output\\js-yaml",
+			"_resolved": "file:output\\js-yaml",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c8a718ee5ea417598e97d20d41319c621aa164ec",
+				"size": 1891,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.26-alpha.tgz_1468010291754_0.01791129936464131"
+			},
+			"directories": {},
+			"publish_time": 1468010294319,
+			"_cnpm_publish_time": 1468010294319,
+			"_hasShrinkwrap": false
+		},
+		"3.5.25-alpha": {
+			"name": "@types/js-yaml",
+			"version": "3.5.25-alpha",
+			"description": "TypeScript definitions for js-yaml 3.5.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/js-yaml@3.5.25-alpha",
+			"_shasum": "ad95e360b5acd3ac40f46742ef7f5203aa05340d",
+			"_from": "output\\js-yaml",
+			"_resolved": "file:output\\js-yaml",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ad95e360b5acd3ac40f46742ef7f5203aa05340d",
+				"size": 1890,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.25-alpha.tgz_1467592548590_0.014511593384668231"
+			},
+			"directories": {},
+			"publish_time": 1467592551979,
+			"_cnpm_publish_time": 1467592551979,
+			"_hasShrinkwrap": false
+		},
+		"3.5.24-alpha": {
+			"name": "@types/js-yaml",
+			"version": "3.5.24-alpha",
+			"description": "TypeScript definitions for js-yaml 3.5.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/js-yaml@3.5.24-alpha",
+			"_shasum": "cf40a8c686e1b4a3fe899cb4b4e7b8c3f35d7e9b",
+			"_from": "output\\js-yaml",
+			"_resolved": "file:output\\js-yaml",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cf40a8c686e1b4a3fe899cb4b4e7b8c3f35d7e9b",
+				"size": 1889,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.24-alpha.tgz_1467427802340_0.978596149245277"
+			},
+			"directories": {},
+			"publish_time": 1467427802975,
+			"_cnpm_publish_time": 1467427802975,
+			"_hasShrinkwrap": false
+		},
+		"3.5.23-alpha": {
+			"name": "@types/js-yaml",
+			"version": "3.5.23-alpha",
+			"description": "TypeScript definitions for js-yaml 3.5.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/js-yaml@3.5.23-alpha",
+			"_shasum": "55e7a005c0d5cb361f9d1f475561c2d6ac70411c",
+			"_from": "output\\js-yaml",
+			"_resolved": "file:output\\js-yaml",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "55e7a005c0d5cb361f9d1f475561c2d6ac70411c",
+				"size": 1892,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.23-alpha.tgz_1467414927537_0.21568298805505037"
+			},
+			"directories": {},
+			"publish_time": 1467414930798,
+			"_cnpm_publish_time": 1467414930798,
+			"_hasShrinkwrap": false
+		},
+		"3.5.22-alpha": {
+			"name": "@types/js-yaml",
+			"version": "3.5.22-alpha",
+			"description": "TypeScript definitions for js-yaml 3.5.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/js-yaml@3.5.22-alpha",
+			"_shasum": "a8a908c99251f3c4fac5e45ea948bcbe1bb643e5",
+			"_from": "output\\js-yaml",
+			"_resolved": "file:output\\js-yaml",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a8a908c99251f3c4fac5e45ea948bcbe1bb643e5",
+				"size": 1884,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.22-alpha.tgz_1467402546919_0.5028834745753556"
+			},
+			"directories": {},
+			"publish_time": 1467402549071,
+			"_cnpm_publish_time": 1467402549071,
+			"_hasShrinkwrap": false
+		},
+		"3.5.21-alpha": {
+			"name": "@types/js-yaml",
+			"version": "3.5.21-alpha",
+			"description": "TypeScript definitions for js-yaml 3.5.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/js-yaml@3.5.21-alpha",
+			"_shasum": "414bf23b4a4eb36a97d5132deaa2aa510f982004",
+			"_from": "output\\js-yaml",
+			"_resolved": "file:output\\js-yaml",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "414bf23b4a4eb36a97d5132deaa2aa510f982004",
+				"size": 1865,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.21-alpha.tgz_1464153428489_0.9929122638422996"
+			},
+			"directories": {},
+			"publish_time": 1464153430935,
+			"_cnpm_publish_time": 1464153430935,
+			"_hasShrinkwrap": false
+		},
+		"3.5.20-alpha": {
+			"name": "@types/js-yaml",
+			"version": "3.5.20-alpha",
+			"description": "TypeScript definitions for js-yaml 3.5.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/js-yaml@3.5.20-alpha",
+			"_shasum": "3438fec94674f71efe086e9e74fa6a63a7da83f0",
+			"_from": "output\\js-yaml",
+			"_resolved": "file:output\\js-yaml",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3438fec94674f71efe086e9e74fa6a63a7da83f0",
+				"size": 1868,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.20-alpha.tgz_1463774329992_0.020514777163043618"
+			},
+			"directories": {},
+			"publish_time": 1463774331057,
+			"_cnpm_publish_time": 1463774331057,
+			"_hasShrinkwrap": false
+		},
+		"3.5.15-alpha": {
+			"name": "@types/js-yaml",
+			"version": "3.5.15-alpha",
+			"description": "Type definitions for js-yaml 3.5.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/js-yaml@3.5.15-alpha",
+			"_shasum": "9e21d4c0e830cd977d991fc539856e4ca5ddd1bc",
+			"_from": "output\\js-yaml",
+			"_resolved": "file:output\\js-yaml",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9e21d4c0e830cd977d991fc539856e4ca5ddd1bc",
+				"size": 1879,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.15-alpha.tgz_1463693211793_0.2787012050393969"
+			},
+			"directories": {},
+			"publish_time": 1463693214213,
+			"_cnpm_publish_time": 1463693214213,
+			"_hasShrinkwrap": false
+		},
+		"3.5.14-alpha": {
+			"name": "@types/js-yaml",
+			"version": "3.5.14-alpha",
+			"description": "Type definitions for js-yaml 3.5.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/js-yaml@3.5.14-alpha",
+			"_shasum": "dec1b5f2fa73ce999905045727308c28ff8c0f4a",
+			"_from": "output\\js-yaml",
+			"_resolved": "file:output\\js-yaml",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dec1b5f2fa73ce999905045727308c28ff8c0f4a",
+				"size": 1863,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/js-yaml-3.5.14-alpha.tgz_1463462652863_0.40125175658613443"
+			},
+			"directories": {},
+			"publish_time": 1463462656362,
+			"_cnpm_publish_time": 1463462656362,
+			"_hasShrinkwrap": false
+		},
+		"3.11.2": {
+			"name": "@types/js-yaml",
+			"version": "3.11.2",
+			"description": "TypeScript definitions for js-yaml",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "Sebastian Clausen",
+					"url": "https://github.com/sclausen",
+					"githubUsername": "sclausen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "85f5eeb3ca36527edb6b15e829c9a44d640c0cdafec1bab3224d9ab05c8c889b",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/js-yaml@3.11.2",
+			"dist": {
+				"shasum": "699ad86054cc20043c30d66a6fcde30bbf5d3d5e",
+				"size": 2977,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.11.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/js-yaml_3.11.2_1530666731275_0.14604835620371692"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1530666731362,
+			"_cnpm_publish_time": 1530666731362
+		}
+	},
+	"dist-tags": {
+		"latest": "3.11.2",
+		"ts2.0": "3.10.0",
+		"ts2.1": "3.10.0",
+		"ts2.2": "3.11.2",
+		"ts2.3": "3.11.2",
+		"ts2.4": "3.11.2",
+		"ts2.5": "3.11.2",
+		"ts2.6": "3.11.2",
+		"ts2.7": "3.11.2",
+		"ts2.8": "3.11.2",
+		"ts2.9": "3.11.2",
+		"ts3.0": "3.11.2",
+		"ts3.1": "3.11.2",
+		"ts3.2": "3.11.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:51.000Z",
+		"created": "2016-05-17T05:24:16.362Z",
+		"3.11.2": "2018-07-04T01:12:11.362Z",
+		"3.11.1": "2018-03-30T16:46:36.766Z",
+		"3.11.0": "2018-03-27T18:53:49.491Z",
+		"3.10.1": "2017-11-22T18:03:01.050Z",
+		"3.10.0": "2017-11-13T23:50:32.840Z",
+		"3.9.1": "2017-08-15T21:50:56.209Z",
+		"3.9.0": "2017-07-10T19:47:06.611Z",
+		"3.5.31": "2017-06-05T19:56:30.351Z",
+		"3.5.30": "2017-04-18T15:07:55.883Z",
+		"3.5.29": "2016-12-20T14:28:36.520Z",
+		"3.5.28": "2016-09-19T17:45:24.770Z",
+		"3.5.27": "2016-07-14T15:08:20.217Z",
+		"3.5.26-alpha": "2016-07-08T20:38:14.319Z",
+		"3.5.25-alpha": "2016-07-04T00:35:51.979Z",
+		"3.5.24-alpha": "2016-07-02T02:50:02.975Z",
+		"3.5.23-alpha": "2016-07-01T23:15:30.798Z",
+		"3.5.22-alpha": "2016-07-01T19:49:09.071Z",
+		"3.5.21-alpha": "2016-05-25T05:17:10.935Z",
+		"3.5.20-alpha": "2016-05-20T19:58:51.057Z",
+		"3.5.15-alpha": "2016-05-19T21:26:54.213Z",
+		"3.5.14-alpha": "2016-05-17T05:24:16.362Z"
+	},
+	"_distfiles": {
+		"js-yaml-3.11.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.11.1.tgz",
+			"sha": "ac5bab26be5f9c6f74b6b23420f2cfa5a7a6ba40",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.11.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.11.0.tgz",
+			"sha": "63700da41777a1f3ae2e0006a711ca6cd0354afb",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.10.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.10.1.tgz",
+			"sha": "a4ddaf67fec34151e620cdbdd22e40b64217f577",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.10.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.10.0.tgz",
+			"sha": "9f69ce9554188dcf6f5a961d9632b45d89973a80",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.9.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.9.1.tgz",
+			"sha": "2f3c142771bb345829ce690c5838760b6b9ba553",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.9.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.9.0.tgz",
+			"sha": "cf82d31326251e8e94848d98a0665875928cdae6",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.31.tgz",
+			"sha": "54aeb8bcaaf94a7b1a64311bc318dbfe601a593a",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.30.tgz",
+			"sha": "f555118c022318e57e36d803379cb8ee38ee20a7",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.29.tgz",
+			"sha": "29f4dd9314fbccb080d8bd84b9c23811ec5090c2",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.28.tgz",
+			"sha": "efd7614f8eb1b924c41235ff653b7370da467fac",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.27.tgz",
+			"sha": "23609ced70a61cbc8774406543b903577f35ea0a",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.26-alpha.tgz",
+			"sha": "c8a718ee5ea417598e97d20d41319c621aa164ec",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.25-alpha.tgz",
+			"sha": "ad95e360b5acd3ac40f46742ef7f5203aa05340d",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.24-alpha.tgz",
+			"sha": "cf40a8c686e1b4a3fe899cb4b4e7b8c3f35d7e9b",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.23-alpha.tgz",
+			"sha": "55e7a005c0d5cb361f9d1f475561c2d6ac70411c",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.22-alpha.tgz",
+			"sha": "a8a908c99251f3c4fac5e45ea948bcbe1bb643e5",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.21-alpha.tgz",
+			"sha": "414bf23b4a4eb36a97d5132deaa2aa510f982004",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.20-alpha.tgz",
+			"sha": "3438fec94674f71efe086e9e74fa6a63a7da83f0",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.15-alpha.tgz",
+			"sha": "9e21d4c0e830cd977d991fc539856e4ca5ddd1bc",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.5.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.5.14-alpha.tgz",
+			"sha": "dec1b5f2fa73ce999905045727308c28ff8c0f4a",
+			"registry": "cnpmjs"
+		},
+		"js-yaml-3.11.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.11.2.tgz",
+			"sha": "699ad86054cc20043c30d66a6fcde30bbf5d3d5e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"6480-hLiQDlhoybPmSoDWfJdWaYr8GFc\"",
+			"fetched": 1541833458376
+		}
+	},
+	"_rev": "2-b579d8479680f681",
+	"readme": "# Installation\r\n> `npm install --save @types/js-yaml`\r\n\r\n# Summary\r\nThis package contains type definitions for js-yaml (https://github.com/nodeca/js-yaml).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/js-yaml\r\n\r\nAdditional Details\r\n * Last updated: Wed, 04 Jul 2018 01:11:07 GMT\r\n * Dependencies: none\r\n * Global values: jsyaml\r\n\r\n# Credits\r\nThese definitions were written by Bart van der Schoor <https://github.com/Bartvds>, Sebastian Clausen <https://github.com/sclausen>."
+}

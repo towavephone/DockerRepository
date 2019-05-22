@@ -1,0 +1,391 @@
+{
+	"name": "@types/d3-ease",
+	"versions": {
+		"1.0.7": {
+			"name": "@types/d3-ease",
+			"version": "1.0.7",
+			"description": "TypeScript definitions for D3JS d3-ease module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a1ccb61f7e94ebf5eb11235b03c32819e27dab1304464ecf568ecb9c872401ed",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-ease@1.0.7",
+			"dist": {
+				"shasum": "93a301868be9e15061f3d44343b1ab3f8acb6f09",
+				"size": 2761,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-1.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-ease-1.0.7.tgz_1493937370584_0.11583246570080519"
+			},
+			"directories": {},
+			"publish_time": 1493937370874,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493937370874
+		},
+		"1.0.6": {
+			"name": "@types/d3-ease",
+			"version": "1.0.6",
+			"description": "TypeScript definitions for D3JS d3-ease module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "51a66fa6a5413a4cfef0c3ff59e3dccacbb4c7ab64f7b72be6362b1b6d20cdce",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-ease@1.0.6",
+			"dist": {
+				"shasum": "9dfd1b87d98283f5d4f0e59589b0cc3e44dcabb1",
+				"size": 2083,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-1.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-ease-1.0.6.tgz_1490909449967_0.5293506826274097"
+			},
+			"directories": {},
+			"publish_time": 1490909451953,
+			"_cnpm_publish_time": 1490909451953,
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "@types/d3-ease",
+			"version": "1.0.5",
+			"description": "TypeScript definitions for D3JS d3-ease module",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "74a92fe65d0547ada4f732d38f45aee57d64166908e6b4bbee5cf577e93d7b38",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-ease@1.0.5",
+			"dist": {
+				"shasum": "cae0c4a6dd39be58cc1c94ad08bd991c2d932400",
+				"size": 2218,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-1.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-ease-1.0.5.tgz_1483650277587_0.32038710941560566"
+			},
+			"directories": {},
+			"publish_time": 1483650277804,
+			"_cnpm_publish_time": 1483650277804,
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "@types/d3-ease",
+			"version": "1.0.4",
+			"description": "TypeScript definitions for D3JS d3-ease module v1.0.1",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "a5840590d2b7e4498464abf75fe6a841d0990bdca9988f1ab123cb17135022d2",
+			"_id": "@types/d3-ease@1.0.4",
+			"dist": {
+				"shasum": "261fc1e72cfe7d2d2f7537a5bb7ef10f8304e5fb",
+				"size": 1226,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-ease-1.0.4.tgz_1473706847288_0.37579288822598755"
+			},
+			"directories": {},
+			"publish_time": 1473706850324,
+			"_cnpm_publish_time": 1473706850324,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/d3-ease",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for D3JS d3-ease module 1.0.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-ease@0.0.3",
+			"dist": {
+				"shasum": "ff377dc6e941e2a11a0c8eb80a12b5882eeded29",
+				"size": 1217,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-ease-0.0.3.tgz_1472150311982_0.3264073997270316"
+			},
+			"directories": {},
+			"publish_time": 1472150313533,
+			"_cnpm_publish_time": 1472150313533,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/d3-ease",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for D3JS d3-ease module 1.0.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-ease@0.0.2",
+			"dist": {
+				"shasum": "e3b507ca3393855ca84c05005182663b3712655f",
+				"size": 1217,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-ease-0.0.2.tgz_1471888620654_0.015575538855046034"
+			},
+			"directories": {},
+			"publish_time": 1471888623788,
+			"_cnpm_publish_time": 1471888623788,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/d3-ease",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for D3JS d3-ease module 1.0.0",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-ease@0.0.1",
+			"dist": {
+				"shasum": "ca366b53835879c0701d3b82abbf7b1bf22bdb07",
+				"size": 1216,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-ease-0.0.1.tgz_1470688524960_0.2087177075445652"
+			},
+			"directories": {},
+			"publish_time": 1470688525206,
+			"_cnpm_publish_time": 1470688525206,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.7",
+		"ts2.0": "1.0.7",
+		"ts2.1": "1.0.7",
+		"ts2.2": "1.0.7",
+		"ts2.3": "1.0.7",
+		"ts2.4": "1.0.7",
+		"ts2.5": "1.0.7",
+		"ts2.6": "1.0.7",
+		"ts2.7": "1.0.7",
+		"ts2.8": "1.0.7",
+		"ts2.9": "1.0.7",
+		"ts3.0": "1.0.7",
+		"ts3.1": "1.0.7",
+		"ts3.2": "1.0.7"
+	},
+	"time": {
+		"modified": "2018-10-10T20:08:26.000Z",
+		"created": "2016-08-08T20:35:25.206Z",
+		"1.0.7": "2017-05-04T22:36:10.874Z",
+		"1.0.6": "2017-03-30T21:30:51.953Z",
+		"1.0.5": "2017-01-05T21:04:37.804Z",
+		"1.0.4": "2016-09-12T19:00:50.324Z",
+		"0.0.3": "2016-08-25T18:38:33.533Z",
+		"0.0.2": "2016-08-22T17:57:03.788Z",
+		"0.0.1": "2016-08-08T20:35:25.206Z"
+	},
+	"_distfiles": {
+		"d3-ease-1.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-1.0.7.tgz",
+			"sha": "93a301868be9e15061f3d44343b1ab3f8acb6f09",
+			"registry": "cnpmjs"
+		},
+		"d3-ease-1.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-1.0.6.tgz",
+			"sha": "9dfd1b87d98283f5d4f0e59589b0cc3e44dcabb1",
+			"registry": "cnpmjs"
+		},
+		"d3-ease-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-1.0.5.tgz",
+			"sha": "cae0c4a6dd39be58cc1c94ad08bd991c2d932400",
+			"registry": "cnpmjs"
+		},
+		"d3-ease-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-1.0.4.tgz",
+			"sha": "261fc1e72cfe7d2d2f7537a5bb7ef10f8304e5fb",
+			"registry": "cnpmjs"
+		},
+		"d3-ease-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-0.0.3.tgz",
+			"sha": "ff377dc6e941e2a11a0c8eb80a12b5882eeded29",
+			"registry": "cnpmjs"
+		},
+		"d3-ease-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-0.0.2.tgz",
+			"sha": "e3b507ca3393855ca84c05005182663b3712655f",
+			"registry": "cnpmjs"
+		},
+		"d3-ease-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-ease/download/@types/d3-ease-0.0.1.tgz",
+			"sha": "ca366b53835879c0701d3b82abbf7b1bf22bdb07",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"247f-1WdkTZKcBFGpQ43ReFtmm5wY+dA\"",
+			"fetched": 1541833453771
+		}
+	},
+	"_rev": "1-711eb13e99c24d25",
+	"readme": "# Installation\r\n> `npm install --save @types/d3-ease`\r\n\r\n# Summary\r\nThis package contains type definitions for D3JS d3-ease module (https://github.com/d3/d3-ease/).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/d3-ease\r\n\r\nAdditional Details\r\n * Last updated: Thu, 04 May 2017 22:35:19 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>."
+}

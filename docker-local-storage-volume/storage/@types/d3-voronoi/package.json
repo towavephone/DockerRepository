@@ -1,0 +1,458 @@
+{
+	"name": "@types/d3-voronoi",
+	"versions": {
+		"1.1.8": {
+			"name": "@types/d3-voronoi",
+			"version": "1.1.8",
+			"description": "TypeScript definitions for D3JS d3-voronoi module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "denisname",
+					"url": "https://github.com/denisname",
+					"githubUsername": "denisname"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "5db5332c47e5a01844511da6d513baedd382af2a83f2968ca542d52a64a1c0bf",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/d3-voronoi@1.1.8",
+			"dist": {
+				"shasum": "a039cb8368bce4efc1a70aebe744d210851cf1a7",
+				"size": 3844,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-1.1.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-voronoi_1.1.8_1536369673764_0.9982424934522067"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536369673888,
+			"_cnpm_publish_time": 1536369673888
+		},
+		"1.1.7": {
+			"name": "@types/d3-voronoi",
+			"version": "1.1.7",
+			"description": "TypeScript definitions for D3JS d3-voronoi module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "1d2050832a56c08e798d8969a3f5a8c7c446ea403dc85eb8e531b174dde76fc2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-voronoi@1.1.7",
+			"dist": {
+				"shasum": "c0a145cf04395927e01706ff6c4ff835c97a8ece",
+				"size": 3776,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-1.1.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-voronoi-1.1.7.tgz_1503352236587_0.14574995613656938"
+			},
+			"directories": {},
+			"publish_time": 1503352236651,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352236651
+		},
+		"1.1.6": {
+			"name": "@types/d3-voronoi",
+			"version": "1.1.6",
+			"description": "TypeScript definitions for D3JS d3-voronoi module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "4ea4e512f9ff7dbe50598bf79d322873c19a2a95f0172deb6059080cdb2df008",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-voronoi@1.1.6",
+			"dist": {
+				"shasum": "b52252c1d61972e7c751135890aea112d5dadc6d",
+				"size": 3790,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-1.1.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-voronoi-1.1.6.tgz_1495209030735_0.2920641314703971"
+			},
+			"directories": {},
+			"publish_time": 1495209030855,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1495209030855
+		},
+		"1.1.5": {
+			"name": "@types/d3-voronoi",
+			"version": "1.1.5",
+			"description": "TypeScript definitions for D3JS d3-voronoi module v1.1.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "07598d987406d5ebf65be95cd97486ef790d5d910e324eb61e4c2e4c48e4355b",
+			"_id": "@types/d3-voronoi@1.1.5",
+			"dist": {
+				"shasum": "67d03acb2d56006bb202c20cee1b8d5ad9fe0461",
+				"size": 3248,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-1.1.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-voronoi-1.1.5.tgz_1477939840383_0.023409153800457716"
+			},
+			"directories": {},
+			"publish_time": 1477939840614,
+			"_cnpm_publish_time": 1477939840614,
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "@types/d3-voronoi",
+			"version": "1.0.4",
+			"description": "TypeScript definitions for D3JS d3-voronoi module v1.0.2",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "9a3563bec74ab20428e4949f4081851ee76517b0a686d9f6692355d39f8ece86",
+			"_id": "@types/d3-voronoi@1.0.4",
+			"dist": {
+				"shasum": "9babc93cc84721eaa59f70be24b1c1121b0e9316",
+				"size": 1605,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-voronoi-1.0.4.tgz_1473706891628_0.10884856688790023"
+			},
+			"directories": {},
+			"publish_time": 1473706891857,
+			"_cnpm_publish_time": 1473706891857,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/d3-voronoi",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for D3JS d3-voronoi module 1.0.1",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-voronoi@0.0.3",
+			"dist": {
+				"shasum": "0a3d594d6815caa607b7dc3230b84f6a9fcd8a2e",
+				"size": 1584,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-voronoi-0.0.3.tgz_1472150364705_0.8564811307005584"
+			},
+			"directories": {},
+			"publish_time": 1472150366668,
+			"_cnpm_publish_time": 1472150366668,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/d3-voronoi",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for D3JS d3-voronoi module 1.0.1",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-voronoi@0.0.2",
+			"dist": {
+				"shasum": "2a66d88f7f308663bf9bb645fe59b65c89543b5a",
+				"size": 1582,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-voronoi-0.0.2.tgz_1471888663504_0.43093658122234046"
+			},
+			"directories": {},
+			"publish_time": 1471888666616,
+			"_cnpm_publish_time": 1471888666616,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/d3-voronoi",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for D3JS d3-voronoi module 1.0.1",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-voronoi@0.0.1",
+			"dist": {
+				"shasum": "12fa3645d1b4dd722e3f979f81f89612b3c9fa68",
+				"size": 1585,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-voronoi-0.0.1.tgz_1470688574212_0.7182698401156813"
+			},
+			"directories": {},
+			"publish_time": 1470688574491,
+			"_cnpm_publish_time": 1470688574491,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.8",
+		"ts2.0": "1.1.7",
+		"ts2.1": "1.1.7",
+		"ts2.2": "1.1.7",
+		"ts2.3": "1.1.8",
+		"ts2.4": "1.1.8",
+		"ts2.5": "1.1.8",
+		"ts2.6": "1.1.8",
+		"ts2.7": "1.1.8",
+		"ts2.8": "1.1.8",
+		"ts2.9": "1.1.8",
+		"ts3.0": "1.1.8",
+		"ts3.1": "1.1.8",
+		"ts3.2": "1.1.8"
+	},
+	"time": {
+		"modified": "2018-09-08T01:21:25.000Z",
+		"created": "2016-08-08T20:36:14.491Z",
+		"1.1.8": "2018-09-08T01:21:13.888Z",
+		"1.1.7": "2017-08-21T21:50:36.651Z",
+		"1.1.6": "2017-05-19T15:50:30.855Z",
+		"1.1.5": "2016-10-31T18:50:40.614Z",
+		"1.0.4": "2016-09-12T19:01:31.857Z",
+		"0.0.3": "2016-08-25T18:39:26.668Z",
+		"0.0.2": "2016-08-22T17:57:46.616Z",
+		"0.0.1": "2016-08-08T20:36:14.491Z"
+	},
+	"_distfiles": {
+		"d3-voronoi-1.1.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-1.1.8.tgz",
+			"sha": "a039cb8368bce4efc1a70aebe744d210851cf1a7",
+			"registry": "cnpmjs"
+		},
+		"d3-voronoi-1.1.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-1.1.7.tgz",
+			"sha": "c0a145cf04395927e01706ff6c4ff835c97a8ece",
+			"registry": "cnpmjs"
+		},
+		"d3-voronoi-1.1.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-1.1.6.tgz",
+			"sha": "b52252c1d61972e7c751135890aea112d5dadc6d",
+			"registry": "cnpmjs"
+		},
+		"d3-voronoi-1.1.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-1.1.5.tgz",
+			"sha": "67d03acb2d56006bb202c20cee1b8d5ad9fe0461",
+			"registry": "cnpmjs"
+		},
+		"d3-voronoi-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-1.0.4.tgz",
+			"sha": "9babc93cc84721eaa59f70be24b1c1121b0e9316",
+			"registry": "cnpmjs"
+		},
+		"d3-voronoi-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-0.0.3.tgz",
+			"sha": "0a3d594d6815caa607b7dc3230b84f6a9fcd8a2e",
+			"registry": "cnpmjs"
+		},
+		"d3-voronoi-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-0.0.2.tgz",
+			"sha": "2a66d88f7f308663bf9bb645fe59b65c89543b5a",
+			"registry": "cnpmjs"
+		},
+		"d3-voronoi-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-voronoi/download/@types/d3-voronoi-0.0.1.tgz",
+			"sha": "12fa3645d1b4dd722e3f979f81f89612b3c9fa68",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"2a88-hR+XAP6A4DQKqXirAxWJix1Spx4\"",
+			"fetched": 1541833454141
+		}
+	},
+	"_rev": "1-ac1eceb02e8768c1",
+	"readme": "# Installation\r\n> `npm install --save @types/d3-voronoi`\r\n\r\n# Summary\r\nThis package contains type definitions for D3JS d3-voronoi module (https://github.com/d3/d3-voronoi/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/d3-voronoi\r\n\r\nAdditional Details\r\n * Last updated: Sat, 08 Sep 2018 01:20:16 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, denisname <https://github.com/denisname>."
+}

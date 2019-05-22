@@ -1,0 +1,210 @@
+{
+	"name": "@types/normalize-url",
+	"versions": {
+		"1.9.1": {
+			"name": "@types/normalize-url",
+			"version": "1.9.1",
+			"description": "TypeScript definitions for normalize-url",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "odin3",
+					"url": "https://github.com/odin3"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d61d951f6666bbe536eb6b4f47d4980722f3a6ecbe2959741f4510629ba79c1a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/normalize-url@1.9.1",
+			"dist": {
+				"shasum": "d19c631dfd938e5113322efc076e74185a7f5aaa",
+				"size": 1647,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/normalize-url/download/@types/normalize-url-1.9.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/normalize-url-1.9.1.tgz_1500919331971_0.6639835801906884"
+			},
+			"directories": {},
+			"publish_time": 1500919332066,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500919332066
+		},
+		"1.9.0": {
+			"name": "@types/normalize-url",
+			"version": "1.9.0",
+			"description": "TypeScript definitions for normalize-url",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "odin3",
+					"url": "https://github.com/odin3"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "09f07dfb1f1116a2ab7457a5297a0b752ebca3a9c4b6344be11930a2f6b45f2f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/normalize-url@1.9.0",
+			"dist": {
+				"shasum": "01e50a5c29f04db5336391081a810237e3fdb3b5",
+				"size": 1635,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/normalize-url/download/@types/normalize-url-1.9.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/normalize-url-1.9.0.tgz_1497305757306_0.13367731380276382"
+			},
+			"directories": {},
+			"publish_time": 1497305757460,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497305757460
+		},
+		"3.3.0": {
+			"name": "@types/normalize-url",
+			"version": "3.3.0",
+			"description": "TypeScript definitions for normalize-url",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "odin3",
+					"url": "https://github.com/odin3",
+					"githubUsername": "odin3"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "Mathieu M-Gosselin",
+					"url": "https://github.com/mathieumg",
+					"githubUsername": "mathieumg"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "4e4ccc66b6646b467e485cb17012b6058bbf6c6bcb0aa0e0548ac65b146fcd14",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/normalize-url@3.3.0",
+			"dist": {
+				"shasum": "23bf583d7ef1f53d6be1922739501cdf8f49e679",
+				"size": 1714,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/normalize-url/download/@types/normalize-url-3.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/normalize-url_3.3.0_1541403216658_0.08148310269919445"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1541403216875,
+			"_cnpm_publish_time": 1541403216875
+		}
+	},
+	"dist-tags": {
+		"latest": "3.3.0",
+		"ts2.0": "3.3.0",
+		"ts2.1": "3.3.0",
+		"ts2.2": "3.3.0",
+		"ts2.3": "3.3.0",
+		"ts2.4": "3.3.0",
+		"ts2.5": "3.3.0",
+		"ts2.6": "3.3.0",
+		"ts2.7": "3.3.0",
+		"ts2.8": "3.3.0",
+		"ts2.9": "3.3.0",
+		"ts3.0": "3.3.0",
+		"ts3.1": "3.3.0",
+		"ts3.2": "3.3.0"
+	},
+	"time": {
+		"modified": "2018-11-05T07:33:48.000Z",
+		"created": "2017-06-12T22:15:57.460Z",
+		"3.3.0": "2018-11-05T07:33:36.875Z",
+		"1.9.1": "2017-07-24T18:02:12.066Z",
+		"1.9.0": "2017-06-12T22:15:57.460Z"
+	},
+	"_distfiles": {
+		"normalize-url-1.9.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/normalize-url/download/@types/normalize-url-1.9.1.tgz",
+			"sha": "d19c631dfd938e5113322efc076e74185a7f5aaa",
+			"registry": "cnpmjs"
+		},
+		"normalize-url-1.9.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/normalize-url/download/@types/normalize-url-1.9.0.tgz",
+			"sha": "01e50a5c29f04db5336391081a810237e3fdb3b5",
+			"registry": "cnpmjs"
+		},
+		"normalize-url-3.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/normalize-url/download/@types/normalize-url-3.3.0.tgz",
+			"sha": "23bf583d7ef1f53d6be1922739501cdf8f49e679",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1350-9M6yj27mbQNwHZe3DYv39lrK4vc\"",
+			"fetched": 1541833486018
+		}
+	},
+	"_rev": "2-9d18e4fabf7d74b1",
+	"readme": "# Installation\r\n> `npm install --save @types/normalize-url`\r\n\r\n# Summary\r\nThis package contains type definitions for normalize-url (https://github.com/sindresorhus/normalize-url).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/normalize-url\r\n\r\nAdditional Details\r\n * Last updated: Mon, 05 Nov 2018 07:33:08 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by odin3 <https://github.com/odin3>, BendingBender <https://github.com/BendingBender>, Mathieu M-Gosselin <https://github.com/mathieumg>."
+}

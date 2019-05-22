@@ -1,0 +1,606 @@
+{
+	"name": "@types/type-check",
+	"versions": {
+		"0.3.27": {
+			"name": "@types/type-check",
+			"version": "0.3.27",
+			"description": "TypeScript definitions for type-check v0.3.1",
+			"license": "MIT",
+			"author": "Hans Windhoff <https://github.com/hansrwindhoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "c3cee999d69aaa29a611a619784dc764e9ed97bc38d650e0f727361b0f431659",
+			"_id": "@types/type-check@0.3.27",
+			"dist": {
+				"shasum": "287d060aefa6900f361ad571bea5a17f9e84ccce",
+				"size": 1181,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.27.tgz_1474309060674_0.3115926992613822"
+			},
+			"directories": {},
+			"publish_time": 1474309063791,
+			"_cnpm_publish_time": 1474309063791,
+			"_hasShrinkwrap": false
+		},
+		"0.3.26": {
+			"name": "@types/type-check",
+			"version": "0.3.26",
+			"description": "TypeScript definitions for type-check v0.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/type-check@0.3.26",
+			"_shasum": "fb7a8fb2f291eb340467c40eb0e765fad78047fa",
+			"_from": "output\\type-check",
+			"_resolved": "file:output\\type-check",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fb7a8fb2f291eb340467c40eb0e765fad78047fa",
+				"size": 1158,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.26.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.26.tgz_1468512950523_0.04939963319338858"
+			},
+			"directories": {},
+			"publish_time": 1468512952918,
+			"_cnpm_publish_time": 1468512952918,
+			"_hasShrinkwrap": false
+		},
+		"0.3.25-alpha": {
+			"name": "@types/type-check",
+			"version": "0.3.25-alpha",
+			"description": "TypeScript definitions for type-check v0.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/type-check@0.3.25-alpha",
+			"_shasum": "dd459ab50681e5d49dc9723269cf3cb1427da44c",
+			"_from": "output\\type-check",
+			"_resolved": "file:output\\type-check",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dd459ab50681e5d49dc9723269cf3cb1427da44c",
+				"size": 1162,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.25-alpha.tgz_1468014169572_0.9025958578567952"
+			},
+			"directories": {},
+			"publish_time": 1468014170887,
+			"_cnpm_publish_time": 1468014170887,
+			"_hasShrinkwrap": false
+		},
+		"0.3.24-alpha": {
+			"name": "@types/type-check",
+			"version": "0.3.24-alpha",
+			"description": "TypeScript definitions for type-check v0.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/type-check@0.3.24-alpha",
+			"_shasum": "06c78dc72ee009ff79f408c4e7b05a2d10de6953",
+			"_from": "output\\type-check",
+			"_resolved": "file:output\\type-check",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "06c78dc72ee009ff79f408c4e7b05a2d10de6953",
+				"size": 1161,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.24-alpha.tgz_1467595859899_0.23492498183622956"
+			},
+			"directories": {},
+			"publish_time": 1467595860359,
+			"_cnpm_publish_time": 1467595860359,
+			"_hasShrinkwrap": false
+		},
+		"0.3.23-alpha": {
+			"name": "@types/type-check",
+			"version": "0.3.23-alpha",
+			"description": "TypeScript definitions for type-check v0.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/type-check@0.3.23-alpha",
+			"_shasum": "7643a6b8af15ee2b758e8483adfa4618fdb5d9b1",
+			"_from": "output\\type-check",
+			"_resolved": "file:output\\type-check",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7643a6b8af15ee2b758e8483adfa4618fdb5d9b1",
+				"size": 1161,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.23-alpha.tgz_1467430688718_0.20691294525749981"
+			},
+			"directories": {},
+			"publish_time": 1467430692202,
+			"_cnpm_publish_time": 1467430692202,
+			"_hasShrinkwrap": false
+		},
+		"0.3.22-alpha": {
+			"name": "@types/type-check",
+			"version": "0.3.22-alpha",
+			"description": "TypeScript definitions for type-check v0.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/type-check@0.3.22-alpha",
+			"_shasum": "a6e02f244d74977cb696c7e042ea2b978c78d8f3",
+			"_from": "output\\type-check",
+			"_resolved": "file:output\\type-check",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a6e02f244d74977cb696c7e042ea2b978c78d8f3",
+				"size": 1161,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.22-alpha.tgz_1467418424662_0.22774362517520785"
+			},
+			"directories": {},
+			"publish_time": 1467418428483,
+			"_cnpm_publish_time": 1467418428483,
+			"_hasShrinkwrap": false
+		},
+		"0.3.21-alpha": {
+			"name": "@types/type-check",
+			"version": "0.3.21-alpha",
+			"description": "TypeScript definitions for type-check v0.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/type-check@0.3.21-alpha",
+			"_shasum": "690ac0b90115a75aef736ff91eb9bd651b63f87e",
+			"_from": "output\\type-check",
+			"_resolved": "file:output\\type-check",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "690ac0b90115a75aef736ff91eb9bd651b63f87e",
+				"size": 1158,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.21-alpha.tgz_1467406198424_0.0007188387680798769"
+			},
+			"directories": {},
+			"publish_time": 1467406200562,
+			"_cnpm_publish_time": 1467406200562,
+			"_hasShrinkwrap": false
+		},
+		"0.3.20-alpha": {
+			"name": "@types/type-check",
+			"version": "0.3.20-alpha",
+			"description": "TypeScript definitions for type-check v0.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/type-check@0.3.20-alpha",
+			"_shasum": "a4ab37c41c97959112da52eed2c59983cd6bef9b",
+			"_from": "output\\type-check",
+			"_resolved": "file:output\\type-check",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a4ab37c41c97959112da52eed2c59983cd6bef9b",
+				"size": 1130,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.20-alpha.tgz_1464156329012_0.2143775336444378"
+			},
+			"directories": {},
+			"publish_time": 1464156331674,
+			"_cnpm_publish_time": 1464156331674,
+			"_hasShrinkwrap": false
+		},
+		"0.3.19-alpha": {
+			"name": "@types/type-check",
+			"version": "0.3.19-alpha",
+			"description": "TypeScript definitions for type-check v0.3.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/type-check@0.3.19-alpha",
+			"_shasum": "aff0ee82a8c9a2ed931e12de0a0e7aeef929ea32",
+			"_from": "output\\type-check",
+			"_resolved": "file:output\\type-check",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "aff0ee82a8c9a2ed931e12de0a0e7aeef929ea32",
+				"size": 1132,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.19-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.19-alpha.tgz_1463777423305_0.5683329938910902"
+			},
+			"directories": {},
+			"publish_time": 1463777423738,
+			"_cnpm_publish_time": 1463777423738,
+			"_hasShrinkwrap": false
+		},
+		"0.3.14-alpha": {
+			"name": "@types/type-check",
+			"version": "0.3.14-alpha",
+			"description": "Type definitions for type-check v0.3.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/type-check@0.3.14-alpha",
+			"_shasum": "a963ed5c4cbaef500a7a535cf1fbd02d7b0266bb",
+			"_from": "output\\type-check",
+			"_resolved": "file:output\\type-check",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a963ed5c4cbaef500a7a535cf1fbd02d7b0266bb",
+				"size": 1140,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.14-alpha.tgz_1463697373030_0.7406592108309269"
+			},
+			"directories": {},
+			"publish_time": 1463697377791,
+			"_cnpm_publish_time": 1463697377791,
+			"_hasShrinkwrap": false
+		},
+		"0.3.13-alpha": {
+			"name": "@types/type-check",
+			"version": "0.3.13-alpha",
+			"description": "Type definitions for type-check v0.3.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/type-check@0.3.13-alpha",
+			"_shasum": "d13747385d98abe4eae636046273c01d6cc96279",
+			"_from": "output\\type-check",
+			"_resolved": "file:output\\type-check",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d13747385d98abe4eae636046273c01d6cc96279",
+				"size": 1134,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/type-check-0.3.13-alpha.tgz_1463512079077_0.971522020176053"
+			},
+			"directories": {},
+			"publish_time": 1463512079642,
+			"_cnpm_publish_time": 1463512079642,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.3.27",
+		"ts2.0": "0.3.27",
+		"ts2.1": "0.3.27",
+		"ts2.2": "0.3.27",
+		"ts2.3": "0.3.27",
+		"ts2.4": "0.3.27",
+		"ts2.5": "0.3.27",
+		"ts2.6": "0.3.27",
+		"ts2.7": "0.3.27",
+		"ts2.8": "0.3.27",
+		"ts2.9": "0.3.27",
+		"ts3.0": "0.3.27",
+		"ts3.1": "0.3.27",
+		"ts3.2": "0.3.27"
+	},
+	"time": {
+		"modified": "2018-10-10T20:30:01.000Z",
+		"created": "2016-05-17T19:07:59.642Z",
+		"0.3.27": "2016-09-19T18:17:43.791Z",
+		"0.3.26": "2016-07-14T16:15:52.918Z",
+		"0.3.25-alpha": "2016-07-08T21:42:50.887Z",
+		"0.3.24-alpha": "2016-07-04T01:31:00.359Z",
+		"0.3.23-alpha": "2016-07-02T03:38:12.202Z",
+		"0.3.22-alpha": "2016-07-02T00:13:48.483Z",
+		"0.3.21-alpha": "2016-07-01T20:50:00.562Z",
+		"0.3.20-alpha": "2016-05-25T06:05:31.674Z",
+		"0.3.19-alpha": "2016-05-20T20:50:23.738Z",
+		"0.3.14-alpha": "2016-05-19T22:36:17.791Z",
+		"0.3.13-alpha": "2016-05-17T19:07:59.642Z"
+	},
+	"_distfiles": {
+		"type-check-0.3.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.27.tgz",
+			"sha": "287d060aefa6900f361ad571bea5a17f9e84ccce",
+			"registry": "cnpmjs"
+		},
+		"type-check-0.3.26.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.26.tgz",
+			"sha": "fb7a8fb2f291eb340467c40eb0e765fad78047fa",
+			"registry": "cnpmjs"
+		},
+		"type-check-0.3.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.25-alpha.tgz",
+			"sha": "dd459ab50681e5d49dc9723269cf3cb1427da44c",
+			"registry": "cnpmjs"
+		},
+		"type-check-0.3.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.24-alpha.tgz",
+			"sha": "06c78dc72ee009ff79f408c4e7b05a2d10de6953",
+			"registry": "cnpmjs"
+		},
+		"type-check-0.3.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.23-alpha.tgz",
+			"sha": "7643a6b8af15ee2b758e8483adfa4618fdb5d9b1",
+			"registry": "cnpmjs"
+		},
+		"type-check-0.3.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.22-alpha.tgz",
+			"sha": "a6e02f244d74977cb696c7e042ea2b978c78d8f3",
+			"registry": "cnpmjs"
+		},
+		"type-check-0.3.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.21-alpha.tgz",
+			"sha": "690ac0b90115a75aef736ff91eb9bd651b63f87e",
+			"registry": "cnpmjs"
+		},
+		"type-check-0.3.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.20-alpha.tgz",
+			"sha": "a4ab37c41c97959112da52eed2c59983cd6bef9b",
+			"registry": "cnpmjs"
+		},
+		"type-check-0.3.19-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.19-alpha.tgz",
+			"sha": "aff0ee82a8c9a2ed931e12de0a0e7aeef929ea32",
+			"registry": "cnpmjs"
+		},
+		"type-check-0.3.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.14-alpha.tgz",
+			"sha": "a963ed5c4cbaef500a7a535cf1fbd02d7b0266bb",
+			"registry": "cnpmjs"
+		},
+		"type-check-0.3.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-check/download/@types/type-check-0.3.13-alpha.tgz",
+			"sha": "d13747385d98abe4eae636046273c01d6cc96279",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833489361
+		}
+	},
+	"_rev": "2-b851d639d2af399f",
+	"readme": "# Installation\r\n> `npm install --save @types/type-check`\r\n\r\n# Summary\r\nThis package contains type definitions for type-check v0.3.1 (https://github.com/gkz/type-check).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/type-check\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 17:28:59 GMT\r\n * File structure: Mixed\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: typecheck\r\n\r\n# Credits\r\nThese definitions were written by Hans Windhoff <https://github.com/hansrwindhoff>."
+}

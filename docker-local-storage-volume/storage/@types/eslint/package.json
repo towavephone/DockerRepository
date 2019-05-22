@@ -1,0 +1,359 @@
+{
+	"name": "@types/eslint",
+	"versions": {
+		"4.16.2": {
+			"name": "@types/eslint",
+			"version": "4.16.2",
+			"description": "TypeScript definitions for eslint",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pierre-Marie Dartus",
+					"url": "https://github.com/pmdartus",
+					"githubUsername": "pmdartus"
+				},
+				{
+					"name": "Jed Fox",
+					"url": "https://github.com/j-f1",
+					"githubUsername": "j-f1"
+				},
+				{
+					"name": "Saad Quadri",
+					"url": "https://github.com/saadq",
+					"githubUsername": "saadq"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/json-schema": "*",
+				"@types/estree": "*"
+			},
+			"typesPublisherContentHash": "f157cc0a3a4f91de8ac565804d622ffbfba4e204d809033674c8c7bf01325b53",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/eslint@4.16.2",
+			"dist": {
+				"shasum": "30f4f026019eb78a6ef12f276b75cd16ea2afb27",
+				"size": 5168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/eslint/download/@types/eslint-4.16.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/eslint_4.16.2_1525797720266_0.35447566613165793"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525797720364,
+			"_cnpm_publish_time": 1525797720364
+		},
+		"4.16.1": {
+			"name": "@types/eslint",
+			"version": "4.16.1",
+			"description": "TypeScript definitions for eslint",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pierre-Marie Dartus",
+					"url": "https://github.com/pmdartus",
+					"githubUsername": "pmdartus"
+				},
+				{
+					"name": "Jed Fox",
+					"url": "https://github.com/j-f1",
+					"githubUsername": "j-f1"
+				},
+				{
+					"name": "Saad Quadri",
+					"url": "https://github.com/saadq",
+					"githubUsername": "saadq"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/json-schema": "*",
+				"@types/estree": "*"
+			},
+			"typesPublisherContentHash": "d1cfcc37afd2f22ec260034dfdd0305148f273aedcbc93e15bd24e5bb4451d28",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/eslint@4.16.1",
+			"dist": {
+				"shasum": "19730c9fcb66b6e44742d12b27a603fabfeb2f49",
+				"size": 5140,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/eslint/download/@types/eslint-4.16.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/eslint_4.16.1_1524612786669_0.041304197757032535"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524612786813,
+			"_cnpm_publish_time": 1524612786813
+		},
+		"4.16.0": {
+			"name": "@types/eslint",
+			"version": "4.16.0",
+			"description": "TypeScript definitions for eslint",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pierre-Marie Dartus",
+					"url": "https://github.com/pmdartus",
+					"githubUsername": "pmdartus"
+				},
+				{
+					"name": "Jed Fox",
+					"url": "https://github.com/j-f1",
+					"githubUsername": "j-f1"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/json-schema": "*",
+				"@types/estree": "*"
+			},
+			"typesPublisherContentHash": "35561d43e4bd8749657b0430b29bdcc74965dccf3dc2d6d93a079e114cb1ae42",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/eslint@4.16.0",
+			"dist": {
+				"shasum": "e7ed874c0d664a18cc2165481875daba5aaa9e73",
+				"size": 5088,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/eslint/download/@types/eslint-4.16.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/eslint_4.16.0_1518555338747_0.09881877387701876"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518555338797,
+			"_cnpm_publish_time": 1518555338797
+		},
+		"4.16.4": {
+			"name": "@types/eslint",
+			"version": "4.16.4",
+			"description": "TypeScript definitions for eslint",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pierre-Marie Dartus",
+					"url": "https://github.com/pmdartus",
+					"githubUsername": "pmdartus"
+				},
+				{
+					"name": "Jed Fox",
+					"url": "https://github.com/j-f1",
+					"githubUsername": "j-f1"
+				},
+				{
+					"name": "Saad Quadri",
+					"url": "https://github.com/saadq",
+					"githubUsername": "saadq"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/json-schema": "*",
+				"@types/estree": "*"
+			},
+			"typesPublisherContentHash": "3a79b5066ece052d16b3b6f2a085a7b70e0a34278c0e788063d61a5f0bb05f35",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/eslint@4.16.4",
+			"dist": {
+				"shasum": "9a0d80208b22f0fd1a9d174e76dc675f3802c011",
+				"size": 5169,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/eslint/download/@types/eslint-4.16.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/eslint_4.16.4_1540395511017_0.34274377054288263"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1540395511181,
+			"_cnpm_publish_time": 1540395511181
+		},
+		"4.16.3": {
+			"name": "@types/eslint",
+			"version": "4.16.3",
+			"description": "TypeScript definitions for eslint",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pierre-Marie Dartus",
+					"url": "https://github.com/pmdartus",
+					"githubUsername": "pmdartus"
+				},
+				{
+					"name": "Jed Fox",
+					"url": "https://github.com/j-f1",
+					"githubUsername": "j-f1"
+				},
+				{
+					"name": "Saad Quadri",
+					"url": "https://github.com/saadq",
+					"githubUsername": "saadq"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/json-schema": "*",
+				"@types/estree": "*"
+			},
+			"typesPublisherContentHash": "afce84195c933160583178ea20240cf7c56c3b7ce57549d42ffc5c11be65d3c0",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/eslint@4.16.3",
+			"dist": {
+				"shasum": "6ed2a9c68f73162fa57ba84582d63dcd8ee2d473",
+				"size": 5178,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/eslint/download/@types/eslint-4.16.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/eslint_4.16.3_1530327041618_0.5350750121984198"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1530327041663,
+			"_cnpm_publish_time": 1530327041663
+		}
+	},
+	"dist-tags": {
+		"latest": "4.16.4",
+		"ts2.2": "4.16.4",
+		"ts2.3": "4.16.4",
+		"ts2.4": "4.16.4",
+		"ts2.5": "4.16.4",
+		"ts2.6": "4.16.4",
+		"ts2.7": "4.16.4",
+		"ts2.8": "4.16.4",
+		"ts2.9": "4.16.4",
+		"ts3.0": "4.16.4",
+		"ts3.1": "4.16.4",
+		"ts3.2": "4.16.4"
+	},
+	"time": {
+		"modified": "2018-10-24T15:40:08.000Z",
+		"created": "2018-02-13T20:55:38.797Z",
+		"4.16.4": "2018-10-24T15:38:31.181Z",
+		"4.16.3": "2018-06-30T02:50:41.663Z",
+		"4.16.2": "2018-05-08T16:42:00.364Z",
+		"4.16.1": "2018-04-24T23:33:06.813Z",
+		"4.16.0": "2018-02-13T20:55:38.797Z"
+	},
+	"_distfiles": {
+		"eslint-4.16.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/eslint/download/@types/eslint-4.16.2.tgz",
+			"sha": "30f4f026019eb78a6ef12f276b75cd16ea2afb27",
+			"registry": "cnpmjs"
+		},
+		"eslint-4.16.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/eslint/download/@types/eslint-4.16.1.tgz",
+			"sha": "19730c9fcb66b6e44742d12b27a603fabfeb2f49",
+			"registry": "cnpmjs"
+		},
+		"eslint-4.16.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/eslint/download/@types/eslint-4.16.0.tgz",
+			"sha": "e7ed874c0d664a18cc2165481875daba5aaa9e73",
+			"registry": "cnpmjs"
+		},
+		"eslint-4.16.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/eslint/download/@types/eslint-4.16.4.tgz",
+			"sha": "9a0d80208b22f0fd1a9d174e76dc675f3802c011",
+			"registry": "cnpmjs"
+		},
+		"eslint-4.16.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/eslint/download/@types/eslint-4.16.3.tgz",
+			"sha": "6ed2a9c68f73162fa57ba84582d63dcd8ee2d473",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833277960
+		}
+	},
+	"_rev": "2-75e1aed087465dc6",
+	"readme": "# Installation\r\n> `npm install --save @types/eslint`\r\n\r\n# Summary\r\nThis package contains type definitions for eslint (https://eslint.org).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/eslint\r\n\r\nAdditional Details\r\n * Last updated: Wed, 24 Oct 2018 15:37:54 GMT\r\n * Dependencies: json-schema, estree\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Pierre-Marie Dartus <https://github.com/pmdartus>, Jed Fox <https://github.com/j-f1>, Saad Quadri <https://github.com/saadq>."
+}

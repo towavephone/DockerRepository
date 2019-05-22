@@ -1,0 +1,325 @@
+{
+	"name": "@types/lodash.clonedeep",
+	"versions": {
+		"4.5.3": {
+			"name": "@types/lodash.clonedeep",
+			"version": "4.5.3",
+			"description": "TypeScript definitions for lodash.cloneDeep",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "aac9e657bc11707b1ee74e16e88caf50a5c8c6d2ab4bacf3026f014a37c270ba",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.clonedeep@4.5.3",
+			"dist": {
+				"shasum": "d42cfba3d929a4e1177a775142ce2a9444e384cf",
+				"size": 1595,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.clonedeep/download/@types/lodash.clonedeep-4.5.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.clonedeep-4.5.3.tgz_1502228854129_0.5923784349579364"
+			},
+			"directories": {},
+			"publish_time": 1502228854210,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228854210
+		},
+		"4.5.2": {
+			"name": "@types/lodash.clonedeep",
+			"version": "4.5.2",
+			"description": "TypeScript definitions for lodash.cloneDeep",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "755749d95c3e8ca474e54d6090b30c10a5a21754d5f52517e0dba60fd8d1d90a",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.clonedeep@4.5.2",
+			"dist": {
+				"shasum": "1dd96610a6998deb74ad7e74937dad1f6f5cfbbd",
+				"size": 877,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.clonedeep/download/@types/lodash.clonedeep-4.5.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.clonedeep-4.5.2.tgz_1490212486134_0.2758827561046928"
+			},
+			"directories": {},
+			"publish_time": 1490212488084,
+			"_cnpm_publish_time": 1490212488084,
+			"_hasShrinkwrap": false
+		},
+		"4.5.1": {
+			"name": "@types/lodash.clonedeep",
+			"version": "4.5.1",
+			"description": "TypeScript definitions for lodash.cloneDeep",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d524b9482f37d71aa5eaa2c2b2dc6e33d2ac6bedd09914e15870ca216a80c567",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.clonedeep@4.5.1",
+			"dist": {
+				"shasum": "6e095734f864118c28f9db0aee322b0daeb16821",
+				"size": 1055,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.clonedeep/download/@types/lodash.clonedeep-4.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.clonedeep-4.5.1.tgz_1485553488529_0.1427536611445248"
+			},
+			"directories": {},
+			"publish_time": 1485553488746,
+			"_cnpm_publish_time": 1485553488746,
+			"_hasShrinkwrap": false
+		},
+		"4.5.0": {
+			"name": "@types/lodash.clonedeep",
+			"version": "4.5.0",
+			"description": "TypeScript definitions for lodash.cloneDeep",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "00c86cfb9834be210b96eb8aaaccfcc53fea594b92ede3c75cd5aff823631982",
+			"_id": "@types/lodash.clonedeep@4.5.0",
+			"dist": {
+				"shasum": "c3472301fb1d2d8f9c3c896bcbd01130d3ae11d1",
+				"size": 1029,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.clonedeep/download/@types/lodash.clonedeep-4.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.clonedeep-4.5.0.tgz_1480973363942_0.439015339827165"
+			},
+			"directories": {},
+			"publish_time": 1480973364167,
+			"_cnpm_publish_time": 1480973364167,
+			"_hasShrinkwrap": false
+		},
+		"4.5.4": {
+			"name": "@types/lodash.clonedeep",
+			"version": "4.5.4",
+			"description": "TypeScript definitions for lodash.cloneDeep",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "0cbeb39e608ec58274ca66c52129f34b764f7986fc0fe32d1d6b331b8ac57b32",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.clonedeep@4.5.4",
+			"dist": {
+				"shasum": "2515c5f08bc95afebfb597711871b0497f5d7da7",
+				"size": 1596,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.clonedeep/download/@types/lodash.clonedeep-4.5.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.clonedeep_4.5.4_1532392738009_0.2862074522885554"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532392738069,
+			"_cnpm_publish_time": 1532392738069
+		}
+	},
+	"dist-tags": {
+		"latest": "4.5.4",
+		"ts2.0": "4.5.0",
+		"ts2.1": "4.5.1",
+		"ts2.2": "4.5.3",
+		"ts2.3": "4.5.3",
+		"ts2.4": "4.5.3",
+		"ts2.5": "4.5.3",
+		"ts2.6": "4.5.4",
+		"ts2.7": "4.5.4",
+		"ts2.8": "4.5.4",
+		"ts2.9": "4.5.4",
+		"ts3.0": "4.5.4",
+		"ts3.1": "4.5.4",
+		"ts3.2": "4.5.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:15:56.000Z",
+		"created": "2016-12-05T21:29:24.167Z",
+		"4.5.4": "2018-07-24T00:38:58.069Z",
+		"4.5.3": "2017-08-08T21:47:34.210Z",
+		"4.5.2": "2017-03-22T19:54:48.084Z",
+		"4.5.1": "2017-01-27T21:44:48.746Z",
+		"4.5.0": "2016-12-05T21:29:24.167Z"
+	},
+	"_distfiles": {
+		"lodash.clonedeep-4.5.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.clonedeep/download/@types/lodash.clonedeep-4.5.3.tgz",
+			"sha": "d42cfba3d929a4e1177a775142ce2a9444e384cf",
+			"registry": "cnpmjs"
+		},
+		"lodash.clonedeep-4.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.clonedeep/download/@types/lodash.clonedeep-4.5.2.tgz",
+			"sha": "1dd96610a6998deb74ad7e74937dad1f6f5cfbbd",
+			"registry": "cnpmjs"
+		},
+		"lodash.clonedeep-4.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.clonedeep/download/@types/lodash.clonedeep-4.5.1.tgz",
+			"sha": "6e095734f864118c28f9db0aee322b0daeb16821",
+			"registry": "cnpmjs"
+		},
+		"lodash.clonedeep-4.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.clonedeep/download/@types/lodash.clonedeep-4.5.0.tgz",
+			"sha": "c3472301fb1d2d8f9c3c896bcbd01130d3ae11d1",
+			"registry": "cnpmjs"
+		},
+		"lodash.clonedeep-4.5.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.clonedeep/download/@types/lodash.clonedeep-4.5.4.tgz",
+			"sha": "2515c5f08bc95afebfb597711871b0497f5d7da7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833484390
+		}
+	},
+	"_rev": "2-0340cca38abd545d",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.clonedeep`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.cloneDeep (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.clonedeep\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

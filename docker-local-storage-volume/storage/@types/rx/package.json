@@ -1,0 +1,1004 @@
+{
+	"name": "@types/rx",
+	"versions": {
+		"4.1.1": {
+			"name": "@types/rx",
+			"version": "4.1.1",
+			"description": "TypeScript definitions for rx",
+			"license": "MIT",
+			"author": "Carl de Billy <http://carl.debilly.net/>, gsino <http://www.codeplex.com/site/users/view/gsino>, Igor Oleinikov <https://github.com/Igorbek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/rx-core": "*",
+				"@types/rx-core-binding": "*",
+				"@types/rx-lite": "*",
+				"@types/rx-lite-aggregates": "*",
+				"@types/rx-lite-async": "*",
+				"@types/rx-lite-backpressure": "*",
+				"@types/rx-lite-coincidence": "*",
+				"@types/rx-lite-experimental": "*",
+				"@types/rx-lite-joinpatterns": "*",
+				"@types/rx-lite-testing": "*",
+				"@types/rx-lite-time": "*",
+				"@types/rx-lite-virtualtime": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e0d4c71cf79237611d3572dc5c3a6a1c50e7197cd1b01cddc054b61a14de6d9a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/rx@4.1.1",
+			"dist": {
+				"shasum": "598fc94a56baed975f194574e0f572fd8e627a48",
+				"size": 1285,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-4.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/rx-4.1.1.tgz_1483540529336_0.6827128182630986"
+			},
+			"directories": {},
+			"publish_time": 1483540531175,
+			"_cnpm_publish_time": 1483540531175,
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "@types/rx",
+			"version": "4.1.0",
+			"description": "TypeScript definitions for RxJS",
+			"license": "MIT",
+			"author": "gsino <http://www.codeplex.com/site/users/view/gsino>, Igor Oleinikov <https://github.com/Igorbek>, Mizunashi Mana <https://github.com/mizunashi-mana>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "245fe5afd8e440636c6a16b1cd9f9db3e5faad0c772fdf16518b76a8365512d5",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/rx@4.1.0",
+			"dist": {
+				"shasum": "24ee1178f26b98873c1e041042595950d0d0e365",
+				"size": 14843,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/rx-4.1.0.tgz_1483053154891_0.4777001580223441"
+			},
+			"directories": {},
+			"publish_time": 1483053156732,
+			"_cnpm_publish_time": 1483053156732,
+			"_hasShrinkwrap": false
+		},
+		"2.5.34": {
+			"name": "@types/rx",
+			"version": "2.5.34",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"license": "MIT",
+			"author": "gsino <http://www.codeplex.com/site/users/view/gsino>, Igor Oleinikov <https://github.com/Igorbek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "8cec082ad1c006751c969b23c971dd5175a4218238c50f6e17b82ec69f4fe555",
+			"_id": "@types/rx@2.5.34",
+			"dist": {
+				"shasum": "361a94a547905c5ac06c10f3b7c68a916341dd71",
+				"size": 14848,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.34.tgz_1479848480143_0.29675198812037706"
+			},
+			"directories": {},
+			"publish_time": 1479848482029,
+			"_cnpm_publish_time": 1479848482029,
+			"_hasShrinkwrap": false
+		},
+		"2.5.33": {
+			"name": "@types/rx",
+			"version": "2.5.33",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"license": "MIT",
+			"author": "gsino <http://www.codeplex.com/site/users/view/gsino>, Igor Oleinikov <https://github.com/Igorbek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b62a6c470489db1505433285d01215f3320ed954ddb49e8f776ba6472f0579d3",
+			"_id": "@types/rx@2.5.33",
+			"dist": {
+				"shasum": "1867f4ac98e57428fe82b284d1a80c9c1f611bb7",
+				"size": 14856,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.33.tgz_1475701343097_0.18119720416143537"
+			},
+			"directories": {},
+			"publish_time": 1475701346284,
+			"_cnpm_publish_time": 1475701346284,
+			"_hasShrinkwrap": false
+		},
+		"2.5.32": {
+			"name": "@types/rx",
+			"version": "2.5.32",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"license": "MIT",
+			"author": "gsino <http://www.codeplex.com/site/users/view/gsino>, Igor Oleinikov <https://github.com/Igorbek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "4c1f404483472aa75fbf64f8361f742e7f8a0887c20da2ae3dca3dbe863fca7f",
+			"_id": "@types/rx@2.5.32",
+			"dist": {
+				"shasum": "7c34c19d185fac0b82673b6f1f79f5d9826dc8cc",
+				"size": 7528,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.32.tgz_1474308540694_0.2755317098926753"
+			},
+			"directories": {},
+			"publish_time": 1474308543709,
+			"_cnpm_publish_time": 1474308543709,
+			"_hasShrinkwrap": false
+		},
+		"2.5.31": {
+			"name": "@types/rx",
+			"version": "2.5.31",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"license": "MIT",
+			"author": "gsino <http://www.codeplex.com/site/users/view/gsino>, Igor Oleinikov <https://github.com/Igorbek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/rx@2.5.31",
+			"dist": {
+				"shasum": "fe9b3b517d1cb11229c0fdca9b0c412584af368f",
+				"size": 7460,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.31.tgz_1472151535724_0.200100275920704"
+			},
+			"directories": {},
+			"publish_time": 1472151537426,
+			"_cnpm_publish_time": 1472151537426,
+			"_hasShrinkwrap": false
+		},
+		"2.5.30": {
+			"name": "@types/rx",
+			"version": "2.5.30",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"license": "MIT",
+			"author": "gsino <http://www.codeplex.com/site/users/view/gsino>, Igor Oleinikov <https://github.com/Igorbek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/rx@2.5.30",
+			"dist": {
+				"shasum": "4f7d9ee2af62435fa3eac30ffbbe54f40ac96b51",
+				"size": 7460,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.30.tgz_1471621287607_0.11212669592350721"
+			},
+			"directories": {},
+			"publish_time": 1471621289532,
+			"_cnpm_publish_time": 1471621289532,
+			"_hasShrinkwrap": false
+		},
+		"2.5.29": {
+			"name": "@types/rx",
+			"version": "2.5.29",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"license": "MIT",
+			"author": "gsino <http://www.codeplex.com/site/users/view/gsino>, Igor Oleinikov <https://github.com/Igorbek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/rx@2.5.29",
+			"dist": {
+				"shasum": "41770bd5027210c610885a732bbcbd3893f2af3b",
+				"size": 52736,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.29.tgz_1470154190622_0.5864455455448478"
+			},
+			"directories": {},
+			"publish_time": 1470154191594,
+			"_cnpm_publish_time": 1470154191594,
+			"_hasShrinkwrap": false
+		},
+		"2.5.28": {
+			"name": "@types/rx",
+			"version": "2.5.28",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"license": "MIT",
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/rx@2.5.28",
+			"_shasum": "07224ecf0b865a308e34e6998ca0032b641c84b1",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "07224ecf0b865a308e34e6998ca0032b641c84b1",
+				"size": 7761,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.28.tgz_1468934084031_0.4159871831070632"
+			},
+			"directories": {},
+			"publish_time": 1468934086059,
+			"_cnpm_publish_time": 1468934086059,
+			"_hasShrinkwrap": false
+		},
+		"2.5.27": {
+			"name": "@types/rx",
+			"version": "2.5.27",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/rx@2.5.27",
+			"_shasum": "60fa6efa7031f3d95ca8c33d25e77bc46a68c0e5",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "60fa6efa7031f3d95ca8c33d25e77bc46a68c0e5",
+				"size": 14960,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.27.tgz_1468511906009_0.30776808224618435"
+			},
+			"directories": {},
+			"publish_time": 1468511908632,
+			"_cnpm_publish_time": 1468511908632,
+			"_hasShrinkwrap": false
+		},
+		"2.5.26-alpha": {
+			"name": "@types/rx",
+			"version": "2.5.26-alpha",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/rx@2.5.26-alpha",
+			"_shasum": "ada5cebb1546097ae7e449cea29781a9b80872e0",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ada5cebb1546097ae7e449cea29781a9b80872e0",
+				"size": 14966,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.26-alpha.tgz_1468013198119_0.17119054216891527"
+			},
+			"directories": {},
+			"publish_time": 1468013200635,
+			"_cnpm_publish_time": 1468013200635,
+			"_hasShrinkwrap": false
+		},
+		"2.5.25-alpha": {
+			"name": "@types/rx",
+			"version": "2.5.25-alpha",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/rx@2.5.25-alpha",
+			"_shasum": "52b6fdf3d543fe2c52a33ca65179ea1c14b536e0",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "52b6fdf3d543fe2c52a33ca65179ea1c14b536e0",
+				"size": 14967,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.25-alpha.tgz_1467594938629_0.9549736599437892"
+			},
+			"directories": {},
+			"publish_time": 1467594939182,
+			"_cnpm_publish_time": 1467594939182,
+			"_hasShrinkwrap": false
+		},
+		"2.5.24-alpha": {
+			"name": "@types/rx",
+			"version": "2.5.24-alpha",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/rx@2.5.24-alpha",
+			"_shasum": "68a59121237ac2243e78a115462ac77013ec704f",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "68a59121237ac2243e78a115462ac77013ec704f",
+				"size": 14966,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.24-alpha.tgz_1467429874313_0.47317874105647206"
+			},
+			"directories": {},
+			"publish_time": 1467429878238,
+			"_cnpm_publish_time": 1467429878238,
+			"_hasShrinkwrap": false
+		},
+		"2.5.23-alpha": {
+			"name": "@types/rx",
+			"version": "2.5.23-alpha",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/rx@2.5.23-alpha",
+			"_shasum": "90da220bc31f4f951c0c0193c02d32f9996f2d2d",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "90da220bc31f4f951c0c0193c02d32f9996f2d2d",
+				"size": 14968,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.23-alpha.tgz_1467417272055_0.6521118278615177"
+			},
+			"directories": {},
+			"publish_time": 1467417272539,
+			"_cnpm_publish_time": 1467417272539,
+			"_hasShrinkwrap": false
+		},
+		"2.5.22-alpha": {
+			"name": "@types/rx",
+			"version": "2.5.22-alpha",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/rx@2.5.22-alpha",
+			"_shasum": "fffe6f5812debe02a9894c4c7a397096330d6a5b",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fffe6f5812debe02a9894c4c7a397096330d6a5b",
+				"size": 14915,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.22-alpha.tgz_1467405484038_0.7723798889201134"
+			},
+			"directories": {},
+			"publish_time": 1467405486131,
+			"_cnpm_publish_time": 1467405486131,
+			"_hasShrinkwrap": false
+		},
+		"2.5.21-alpha": {
+			"name": "@types/rx",
+			"version": "2.5.21-alpha",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/rx@2.5.21-alpha",
+			"_shasum": "20eaa00b652fee95555bc3e8effd05d4e91a1932",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "20eaa00b652fee95555bc3e8effd05d4e91a1932",
+				"size": 14934,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.21-alpha.tgz_1464155607579_0.42403929703868926"
+			},
+			"directories": {},
+			"publish_time": 1464155610214,
+			"_cnpm_publish_time": 1464155610214,
+			"_hasShrinkwrap": false
+		},
+		"2.5.20-alpha": {
+			"name": "@types/rx",
+			"version": "2.5.20-alpha",
+			"description": "TypeScript definitions for RxJS v2.5.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/rx@2.5.20-alpha",
+			"_shasum": "53132d45cdcd4a09a61e4f44c91c1a18ae0ec098",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "53132d45cdcd4a09a61e4f44c91c1a18ae0ec098",
+				"size": 14932,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.20-alpha.tgz_1463776650885_0.054796819342300296"
+			},
+			"directories": {},
+			"publish_time": 1463776653055,
+			"_cnpm_publish_time": 1463776653055,
+			"_hasShrinkwrap": false
+		},
+		"2.5.15-alpha": {
+			"name": "@types/rx",
+			"version": "2.5.15-alpha",
+			"description": "Type definitions for RxJS v2.5.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/rx@2.5.15-alpha",
+			"_shasum": "4930c9b92411cd1aa920df1d3f7fac793aa8de90",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4930c9b92411cd1aa920df1d3f7fac793aa8de90",
+				"size": 14942,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.15-alpha.tgz_1463696283851_0.18173707858659327"
+			},
+			"directories": {},
+			"publish_time": 1463696287097,
+			"_cnpm_publish_time": 1463696287097,
+			"_hasShrinkwrap": false
+		},
+		"2.5.14-alpha": {
+			"name": "@types/rx",
+			"version": "2.5.14-alpha",
+			"description": "Type definitions for RxJS v2.5.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "gsino",
+				"email": "http://www.codeplex.com/site/users/view/gsino"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/rx@2.5.14-alpha",
+			"_shasum": "1eccf08b1f172138f257e8be8f777f928e14e4d3",
+			"_from": "output\\rx",
+			"_resolved": "file:output\\rx",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1eccf08b1f172138f257e8be8f777f928e14e4d3",
+				"size": 14936,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rx-2.5.14-alpha.tgz_1463511132472_0.6333498791791499"
+			},
+			"directories": {},
+			"publish_time": 1463511133054,
+			"_cnpm_publish_time": 1463511133054,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "4.1.1",
+		"ts2.0": "4.1.1",
+		"ts2.1": "4.1.1",
+		"ts2.2": "4.1.1",
+		"ts2.3": "4.1.1",
+		"ts2.4": "4.1.1",
+		"ts2.5": "4.1.1",
+		"ts2.6": "4.1.1",
+		"ts2.7": "4.1.1",
+		"ts2.8": "4.1.1",
+		"ts2.9": "4.1.1",
+		"ts3.0": "4.1.1",
+		"ts3.1": "4.1.1",
+		"ts3.2": "4.1.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:28:16.000Z",
+		"created": "2016-05-17T18:52:13.054Z",
+		"4.1.1": "2017-01-04T14:35:31.175Z",
+		"4.1.0": "2016-12-29T23:12:36.732Z",
+		"2.5.34": "2016-11-22T21:01:22.029Z",
+		"2.5.33": "2016-10-05T21:02:26.284Z",
+		"2.5.32": "2016-09-19T18:09:03.709Z",
+		"2.5.31": "2016-08-25T18:58:57.426Z",
+		"2.5.30": "2016-08-19T15:41:29.532Z",
+		"2.5.29": "2016-08-02T16:09:51.594Z",
+		"2.5.28": "2016-07-19T13:14:46.059Z",
+		"2.5.27": "2016-07-14T15:58:28.632Z",
+		"2.5.26-alpha": "2016-07-08T21:26:40.635Z",
+		"2.5.25-alpha": "2016-07-04T01:15:39.182Z",
+		"2.5.24-alpha": "2016-07-02T03:24:38.238Z",
+		"2.5.23-alpha": "2016-07-01T23:54:32.539Z",
+		"2.5.22-alpha": "2016-07-01T20:38:06.131Z",
+		"2.5.21-alpha": "2016-05-25T05:53:30.214Z",
+		"2.5.20-alpha": "2016-05-20T20:37:33.055Z",
+		"2.5.15-alpha": "2016-05-19T22:18:07.097Z",
+		"2.5.14-alpha": "2016-05-17T18:52:13.054Z"
+	},
+	"_distfiles": {
+		"rx-4.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-4.1.1.tgz",
+			"sha": "598fc94a56baed975f194574e0f572fd8e627a48",
+			"registry": "cnpmjs"
+		},
+		"rx-4.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-4.1.0.tgz",
+			"sha": "24ee1178f26b98873c1e041042595950d0d0e365",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.34.tgz",
+			"sha": "361a94a547905c5ac06c10f3b7c68a916341dd71",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.33.tgz",
+			"sha": "1867f4ac98e57428fe82b284d1a80c9c1f611bb7",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.32.tgz",
+			"sha": "7c34c19d185fac0b82673b6f1f79f5d9826dc8cc",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.31.tgz",
+			"sha": "fe9b3b517d1cb11229c0fdca9b0c412584af368f",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.30.tgz",
+			"sha": "4f7d9ee2af62435fa3eac30ffbbe54f40ac96b51",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.29.tgz",
+			"sha": "41770bd5027210c610885a732bbcbd3893f2af3b",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.28.tgz",
+			"sha": "07224ecf0b865a308e34e6998ca0032b641c84b1",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.27.tgz",
+			"sha": "60fa6efa7031f3d95ca8c33d25e77bc46a68c0e5",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.26-alpha.tgz",
+			"sha": "ada5cebb1546097ae7e449cea29781a9b80872e0",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.25-alpha.tgz",
+			"sha": "52b6fdf3d543fe2c52a33ca65179ea1c14b536e0",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.24-alpha.tgz",
+			"sha": "68a59121237ac2243e78a115462ac77013ec704f",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.23-alpha.tgz",
+			"sha": "90da220bc31f4f951c0c0193c02d32f9996f2d2d",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.22-alpha.tgz",
+			"sha": "fffe6f5812debe02a9894c4c7a397096330d6a5b",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.21-alpha.tgz",
+			"sha": "20eaa00b652fee95555bc3e8effd05d4e91a1932",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.20-alpha.tgz",
+			"sha": "53132d45cdcd4a09a61e4f44c91c1a18ae0ec098",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.15-alpha.tgz",
+			"sha": "4930c9b92411cd1aa920df1d3f7fac793aa8de90",
+			"registry": "cnpmjs"
+		},
+		"rx-2.5.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rx/download/@types/rx-2.5.14-alpha.tgz",
+			"sha": "1eccf08b1f172138f257e8be8f777f928e14e4d3",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"59fb-KqTheaWIwTf8Kml/gEw/ZEnAMiQ\"",
+			"fetched": 1541833468987
+		}
+	},
+	"_rev": "4-ea4d686a85c1c749",
+	"readme": "# Installation\r\n> `npm install --save @types/rx`\r\n\r\n# Summary\r\nThis package contains type definitions for rx (https://github.com/Reactive-Extensions/RxJS).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/rx\r\n\r\nAdditional Details\r\n * Last updated: Wed, 04 Jan 2017 14:34:50 GMT\r\n * Library Dependencies: rx-core, rx-core-binding, rx-lite, rx-lite-aggregates, rx-lite-async, rx-lite-backpressure, rx-lite-coincidence, rx-lite-experimental, rx-lite-joinpatterns, rx-lite-testing, rx-lite-time, rx-lite-virtualtime\r\n * Module Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Carl de Billy <http://carl.debilly.net/>, gsino <http://www.codeplex.com/site/users/view/gsino>, Igor Oleinikov <https://github.com/Igorbek>."
+}

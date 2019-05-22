@@ -1,0 +1,1315 @@
+{
+	"name": "@types/redux-immutable",
+	"versions": {
+		"3.0.38": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.38",
+			"description": "TypeScript definitions for redux-immutable",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pedro Pereira",
+					"url": "https://github.com/oizie",
+					"githubUsername": "oizie"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				},
+				{
+					"name": "Gavin Gregory",
+					"url": "https://github.com/gavingregory",
+					"githubUsername": "gavingregory"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"immutable": "^3.8.1"
+			},
+			"typesPublisherContentHash": "5e87a45f678fe3642d8daae5c6e170475376dc305324b4bee9004c984c409249",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/redux-immutable@3.0.38",
+			"dist": {
+				"shasum": "9e2fcce4a9c64e60f13de2165d2765f7af85d487",
+				"size": 1700,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.38.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/redux-immutable-3.0.38.tgz_1508956918138_0.13646266353316605"
+			},
+			"directories": {},
+			"publish_time": 1508956918209,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508956918209
+		},
+		"3.0.37": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.37",
+			"description": "TypeScript definitions for redux-immutable",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pedro Pereira",
+					"url": "https://github.com/oizie",
+					"githubUsername": "oizie"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				},
+				{
+					"name": "Gavin Gregory",
+					"url": "https://github.com/gavingregory",
+					"githubUsername": "gavingregory"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"immutable": "^3.8.1"
+			},
+			"typesPublisherContentHash": "9fc988aa96b8d2d21218bf387a164b4beb5b4c6215a7aa86babea3bf1c26b005",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/redux-immutable@3.0.37",
+			"dist": {
+				"shasum": "3a6d57b4a6fd6ad43e08e6c8b776a15a10f178c4",
+				"size": 1694,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.37.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/redux-immutable-3.0.37.tgz_1504302705391_0.5896008161362261"
+			},
+			"directories": {},
+			"publish_time": 1504302705490,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504302705490
+		},
+		"3.0.36": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.36",
+			"description": "TypeScript definitions for redux-immutable",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pedro Pereira",
+					"url": "https://github.com/oizie",
+					"githubUsername": "oizie"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				},
+				{
+					"name": "Gavin Gregory",
+					"url": "https://github.com/gavingregory",
+					"githubUsername": "gavingregory"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"immutable": "^3.8.1"
+			},
+			"typesPublisherContentHash": "ef9951228c22a3a718fdfc2be05e2f8184e4ba486b0f603730e3d660a7d782be",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/redux-immutable@3.0.36",
+			"dist": {
+				"shasum": "79b5612f167d04140b2045bcb61f0801ccf6e9b6",
+				"size": 1691,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/redux-immutable-3.0.36.tgz_1504188399760_0.11057180166244507"
+			},
+			"directories": {},
+			"publish_time": 1504188399843,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504188399843
+		},
+		"3.0.35": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.35",
+			"description": "TypeScript definitions for redux-immutable",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pedro Pereira",
+					"url": "https://github.com/oizie"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald"
+				},
+				{
+					"name": "Gavin Gregory",
+					"url": "https://github.com/gavingregory"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"immutable": "^3.8.1"
+			},
+			"typesPublisherContentHash": "266fce2c1891d43ccf64e22f48f199481c2a411ca59df817b3650f335059e684",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/redux-immutable@3.0.35",
+			"dist": {
+				"shasum": "1de0350c6b0adb602520476b0a8a86b76dae4115",
+				"size": 1677,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/redux-immutable-3.0.35.tgz_1503353016661_0.8309803905431181"
+			},
+			"directories": {},
+			"publish_time": 1503353016759,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503353016759
+		},
+		"3.0.34": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.34",
+			"description": "TypeScript definitions for redux-immutable",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pedro Pereira",
+					"url": "https://github.com/oizie"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald/"
+				},
+				{
+					"name": "Gavin Gregory",
+					"url": "https://github.com/gavingregory"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"immutable": "^3.8.1"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "eab7a6ac79d7e92f72304104d866cb40fe79637e37a5f90c6ce555e57c3dfc7a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/redux-immutable@3.0.34",
+			"dist": {
+				"shasum": "82ee59d9aff70d5640ddbf1ce3e635b6f82061a7",
+				"size": 1687,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/redux-immutable-3.0.34.tgz_1498239525080_0.9270323370583355"
+			},
+			"directories": {},
+			"publish_time": 1498239525177,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498239525177
+		},
+		"3.0.33": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.33",
+			"description": "TypeScript definitions for redux-immutable",
+			"license": "MIT",
+			"author": "Pedro Pereira <https://github.com/oizie>, Sebastian Sebald <https://github.com/sebald/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "507231234e92c27d625df2c6ddb79f9533f1a2bf3147847d0e0b8a3b67f6a77e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/redux-immutable@3.0.33",
+			"dist": {
+				"shasum": "1d9948ebca4e8e0cbe9dd0d650dace132c0ccce0",
+				"size": 1051,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.33.tgz_1485294205029_0.7135308107826859"
+			},
+			"directories": {},
+			"publish_time": 1485294205285,
+			"_cnpm_publish_time": 1485294205285,
+			"_hasShrinkwrap": false
+		},
+		"3.0.32": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.32",
+			"description": "TypeScript definitions for redux-immutable",
+			"license": "MIT",
+			"author": "Pedro Pereira <https://github.com/oizie>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "68c6d4b94be8b6e14fc07122d02dc05883cff16bf68e071b04f1bd634fbc38c5",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/redux-immutable@3.0.32",
+			"dist": {
+				"shasum": "a365ab4684bf77e8961e05902239a267569be407",
+				"size": 1028,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.32.tgz_1484320270463_0.07815437042154372"
+			},
+			"directories": {},
+			"publish_time": 1484320272113,
+			"_cnpm_publish_time": 1484320272113,
+			"_hasShrinkwrap": false
+		},
+		"3.0.31": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.31",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"license": "MIT",
+			"author": "Pedro Pereira <https://github.com/oizie>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/redux": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "af4860b58c435ef5e496712ba7aff10fd54122a2eba4edb2d6b6de2ecc8b42fd",
+			"_id": "@types/redux-immutable@3.0.31",
+			"dist": {
+				"shasum": "59321590e11890bd0214804974903a2040eff0b0",
+				"size": 1040,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.31.tgz_1474308529414_0.20003103697672486"
+			},
+			"directories": {},
+			"publish_time": 1474308532488,
+			"_cnpm_publish_time": 1474308532488,
+			"_hasShrinkwrap": false
+		},
+		"3.0.30": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.30",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"license": "MIT",
+			"author": "Pedro Pereira <https://github.com/oizie>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/redux": "3.5.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/redux-immutable@3.0.30",
+			"dist": {
+				"shasum": "cd936d85a9e68e722bdd7fbaf9216fe83efd7ba6",
+				"size": 1024,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.30.tgz_1472151510340_0.013200317975133657"
+			},
+			"directories": {},
+			"publish_time": 1472151511993,
+			"_cnpm_publish_time": 1472151511993,
+			"_hasShrinkwrap": false
+		},
+		"3.0.29": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.29",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"license": "MIT",
+			"author": "Pedro Pereira <https://github.com/oizie>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/redux": "3.5.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/redux-immutable@3.0.29",
+			"dist": {
+				"shasum": "ec982003082ce113865ca8b47404f00a55e89555",
+				"size": 1023,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.29.tgz_1471621223633_0.7961228319909424"
+			},
+			"directories": {},
+			"publish_time": 1471621224874,
+			"_cnpm_publish_time": 1471621224874,
+			"_hasShrinkwrap": false
+		},
+		"3.0.28": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.28",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"license": "MIT",
+			"author": "Pedro Pereira <https://github.com/oizie>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/redux": "3.5.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/redux-immutable@3.0.28",
+			"dist": {
+				"shasum": "f7b9168fc8f378940b3223498861c590cf280a75",
+				"size": 6144,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.28.tgz_1470154114125_0.35555308568291366"
+			},
+			"directories": {},
+			"publish_time": 1470154115129,
+			"_cnpm_publish_time": 1470154115129,
+			"_hasShrinkwrap": false
+		},
+		"3.0.27": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.27",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pedro Pereira",
+				"email": "https://github.com/oizie"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/redux-immutable@3.0.27",
+			"_shasum": "9020efd619b4ee17a8addcf1c0d9e2744928692a",
+			"_from": "output\\redux-immutable",
+			"_resolved": "file:output\\redux-immutable",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9020efd619b4ee17a8addcf1c0d9e2744928692a",
+				"size": 965,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.27.tgz_1468511694572_0.5903201645705849"
+			},
+			"directories": {},
+			"publish_time": 1468511698167,
+			"_cnpm_publish_time": 1468511698167,
+			"_hasShrinkwrap": false
+		},
+		"3.0.26-alpha": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.26-alpha",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pedro Pereira",
+				"email": "https://github.com/oizie"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/redux-immutable@3.0.26-alpha",
+			"_shasum": "313a2f576dcb0d3d70b859a07adc673a92152535",
+			"_from": "output\\redux-immutable",
+			"_resolved": "file:output\\redux-immutable",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "313a2f576dcb0d3d70b859a07adc673a92152535",
+				"size": 971,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.26-alpha.tgz_1468012789695_0.23947128118015826"
+			},
+			"directories": {},
+			"publish_time": 1468012792203,
+			"_cnpm_publish_time": 1468012792203,
+			"_hasShrinkwrap": false
+		},
+		"3.0.25-alpha": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.25-alpha",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pedro Pereira",
+				"email": "https://github.com/oizie"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/redux-immutable@3.0.25-alpha",
+			"_shasum": "0496a733a5481ebb2141d277c60184fb8de504a8",
+			"_from": "output\\redux-immutable",
+			"_resolved": "file:output\\redux-immutable",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0496a733a5481ebb2141d277c60184fb8de504a8",
+				"size": 972,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.25-alpha.tgz_1467594621756_0.9566543158143759"
+			},
+			"directories": {},
+			"publish_time": 1467594625183,
+			"_cnpm_publish_time": 1467594625183,
+			"_hasShrinkwrap": false
+		},
+		"3.0.24-alpha": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.24-alpha",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pedro Pereira",
+				"email": "https://github.com/oizie"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/redux-immutable@3.0.24-alpha",
+			"_shasum": "eec10618373c92410e670fbbb7345e6f6fe6de5b",
+			"_from": "output\\redux-immutable",
+			"_resolved": "file:output\\redux-immutable",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "eec10618373c92410e670fbbb7345e6f6fe6de5b",
+				"size": 971,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.24-alpha.tgz_1467429689148_0.626598329981789"
+			},
+			"directories": {},
+			"publish_time": 1467429689743,
+			"_cnpm_publish_time": 1467429689743,
+			"_hasShrinkwrap": false
+		},
+		"3.0.23-alpha": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.23-alpha",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pedro Pereira",
+				"email": "https://github.com/oizie"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/redux-immutable@3.0.23-alpha",
+			"_shasum": "3f696ed165b443319da0e24b640ba5067542da41",
+			"_from": "output\\redux-immutable",
+			"_resolved": "file:output\\redux-immutable",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3f696ed165b443319da0e24b640ba5067542da41",
+				"size": 970,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.23-alpha.tgz_1467416984410_0.10712396260350943"
+			},
+			"directories": {},
+			"publish_time": 1467416988043,
+			"_cnpm_publish_time": 1467416988043,
+			"_hasShrinkwrap": false
+		},
+		"3.0.22-alpha": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.22-alpha",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pedro Pereira",
+				"email": "https://github.com/oizie"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/redux-immutable@3.0.22-alpha",
+			"_shasum": "db8435b28bfe4d9f0080318c0239a328316c3851",
+			"_from": "output\\redux-immutable",
+			"_resolved": "file:output\\redux-immutable",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "db8435b28bfe4d9f0080318c0239a328316c3851",
+				"size": 971,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.22-alpha.tgz_1467405007088_0.45956077822484076"
+			},
+			"directories": {},
+			"publish_time": 1467405009377,
+			"_cnpm_publish_time": 1467405009377,
+			"_hasShrinkwrap": false
+		},
+		"3.0.21-alpha": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.21-alpha",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pedro Pereira",
+				"email": "https://github.com/oizie"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/redux-immutable@3.0.21-alpha",
+			"_shasum": "19f1a13a445f62e62114e4931a2952e1f917ffb9",
+			"_from": "output\\redux-immutable",
+			"_resolved": "file:output\\redux-immutable",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "19f1a13a445f62e62114e4931a2952e1f917ffb9",
+				"size": 940,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.21-alpha.tgz_1464155416560_0.6039386431220919"
+			},
+			"directories": {},
+			"publish_time": 1464155417003,
+			"_cnpm_publish_time": 1464155417003,
+			"_hasShrinkwrap": false
+		},
+		"3.0.20-alpha": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.20-alpha",
+			"description": "TypeScript definitions for redux-immutable v3.0.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pedro Pereira",
+				"email": "https://github.com/oizie"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/redux-immutable@3.0.20-alpha",
+			"_shasum": "e833d2e7b8a4ecf17a45377238a42c578c14365d",
+			"_from": "output\\redux-immutable",
+			"_resolved": "file:output\\redux-immutable",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e833d2e7b8a4ecf17a45377238a42c578c14365d",
+				"size": 938,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.20-alpha.tgz_1463776451438_0.8231059464160353"
+			},
+			"directories": {},
+			"publish_time": 1463776451871,
+			"_cnpm_publish_time": 1463776451871,
+			"_hasShrinkwrap": false
+		},
+		"3.0.15-alpha": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.15-alpha",
+			"description": "Type definitions for redux-immutable v3.0.5 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pedro Pereira",
+				"email": "https://github.com/oizie"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/redux-immutable@3.0.15-alpha",
+			"_shasum": "31d7bdc6e3eb8991776a1da2fb19ed0806f0df0b",
+			"_from": "output\\redux-immutable",
+			"_resolved": "file:output\\redux-immutable",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "31d7bdc6e3eb8991776a1da2fb19ed0806f0df0b",
+				"size": 946,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.15-alpha.tgz_1463696012793_0.8696351232938468"
+			},
+			"directories": {},
+			"publish_time": 1463696017426,
+			"_cnpm_publish_time": 1463696017426,
+			"_hasShrinkwrap": false
+		},
+		"3.0.14-alpha": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.14-alpha",
+			"description": "Type definitions for redux-immutable v3.0.5 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pedro Pereira",
+				"email": "https://github.com/oizie"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/redux-immutable@3.0.14-alpha",
+			"_shasum": "5bfda60e7c9e69c9bbf1cce900da7c32340148a7",
+			"_from": "output\\redux-immutable",
+			"_resolved": "file:output\\redux-immutable",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5bfda60e7c9e69c9bbf1cce900da7c32340148a7",
+				"size": 938,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/redux-immutable-3.0.14-alpha.tgz_1463510849250_0.16051205876283348"
+			},
+			"directories": {},
+			"publish_time": 1463510851646,
+			"_cnpm_publish_time": 1463510851646,
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "@types/redux-immutable",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for redux-immutable",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pedro Pereira",
+					"url": "https://github.com/oizie",
+					"githubUsername": "oizie"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				},
+				{
+					"name": "Gavin Gregory",
+					"url": "https://github.com/gavingregory",
+					"githubUsername": "gavingregory"
+				},
+				{
+					"name": "Kanitkorn Sujautra",
+					"url": "https://github.com/lukyth",
+					"githubUsername": "lukyth"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"immutable": "^4.0.0-rc.1"
+			},
+			"typesPublisherContentHash": "de3871f46a963749efa7ccd2683c30fd07d2b5ce50162645c404be3bf28b1b1d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/redux-immutable@4.0.0",
+			"dist": {
+				"shasum": "fe26e05de2f0a99f38f21eb567c5499c855fa599",
+				"size": 1756,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/redux-immutable_4.0.0_1539020698719_0.9311163243872487"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539020698813,
+			"_cnpm_publish_time": 1539020698813
+		},
+		"3.0.39": {
+			"name": "@types/redux-immutable",
+			"version": "3.0.39",
+			"description": "TypeScript definitions for redux-immutable",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pedro Pereira",
+					"url": "https://github.com/oizie",
+					"githubUsername": "oizie"
+				},
+				{
+					"name": "Sebastian Sebald",
+					"url": "https://github.com/sebald",
+					"githubUsername": "sebald"
+				},
+				{
+					"name": "Gavin Gregory",
+					"url": "https://github.com/gavingregory",
+					"githubUsername": "gavingregory"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"immutable": "^3.8.1"
+			},
+			"typesPublisherContentHash": "87ab5e8744e2c371ca9f8117b13c0f4658b50d07039b017051e8a265002008d9",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/redux-immutable@3.0.39",
+			"dist": {
+				"shasum": "f4453edabd0df44807248e73a8deef967d6f95f1",
+				"size": 1692,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.39.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/redux-immutable_3.0.39_1539020694954_0.2896046152674552"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539020695034,
+			"_cnpm_publish_time": 1539020695034
+		}
+	},
+	"dist-tags": {
+		"latest": "4.0.0",
+		"ts2.0": "3.0.38",
+		"ts2.1": "3.0.38",
+		"ts2.2": "3.0.38",
+		"ts2.3": "4.0.0",
+		"ts2.4": "4.0.0",
+		"ts2.5": "4.0.0",
+		"ts2.6": "4.0.0",
+		"ts2.7": "4.0.0",
+		"ts2.8": "4.0.0",
+		"ts2.9": "4.0.0",
+		"ts3.0": "4.0.0",
+		"ts3.1": "4.0.0",
+		"ts3.2": "4.0.0"
+	},
+	"time": {
+		"modified": "2018-10-08T17:48:04.000Z",
+		"created": "2016-05-17T18:47:31.646Z",
+		"4.0.0": "2018-10-08T17:44:58.813Z",
+		"3.0.39": "2018-10-08T17:44:55.034Z",
+		"3.0.38": "2017-10-25T18:41:58.209Z",
+		"3.0.37": "2017-09-01T21:51:45.490Z",
+		"3.0.36": "2017-08-31T14:06:39.843Z",
+		"3.0.35": "2017-08-21T22:03:36.759Z",
+		"3.0.34": "2017-06-23T17:38:45.177Z",
+		"3.0.33": "2017-01-24T21:43:25.285Z",
+		"3.0.32": "2017-01-13T15:11:12.113Z",
+		"3.0.31": "2016-09-19T18:08:52.488Z",
+		"3.0.30": "2016-08-25T18:58:31.993Z",
+		"3.0.29": "2016-08-19T15:40:24.874Z",
+		"3.0.28": "2016-08-02T16:08:35.129Z",
+		"3.0.27": "2016-07-14T15:54:58.167Z",
+		"3.0.26-alpha": "2016-07-08T21:19:52.203Z",
+		"3.0.25-alpha": "2016-07-04T01:10:25.183Z",
+		"3.0.24-alpha": "2016-07-02T03:21:29.743Z",
+		"3.0.23-alpha": "2016-07-01T23:49:48.043Z",
+		"3.0.22-alpha": "2016-07-01T20:30:09.377Z",
+		"3.0.21-alpha": "2016-05-25T05:50:17.003Z",
+		"3.0.20-alpha": "2016-05-20T20:34:11.871Z",
+		"3.0.15-alpha": "2016-05-19T22:13:37.426Z",
+		"3.0.14-alpha": "2016-05-17T18:47:31.646Z"
+	},
+	"_distfiles": {
+		"redux-immutable-3.0.38.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.38.tgz",
+			"sha": "9e2fcce4a9c64e60f13de2165d2765f7af85d487",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.37.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.37.tgz",
+			"sha": "3a6d57b4a6fd6ad43e08e6c8b776a15a10f178c4",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.36.tgz",
+			"sha": "79b5612f167d04140b2045bcb61f0801ccf6e9b6",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.35.tgz",
+			"sha": "1de0350c6b0adb602520476b0a8a86b76dae4115",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.34.tgz",
+			"sha": "82ee59d9aff70d5640ddbf1ce3e635b6f82061a7",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.33.tgz",
+			"sha": "1d9948ebca4e8e0cbe9dd0d650dace132c0ccce0",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.32.tgz",
+			"sha": "a365ab4684bf77e8961e05902239a267569be407",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.31.tgz",
+			"sha": "59321590e11890bd0214804974903a2040eff0b0",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.30.tgz",
+			"sha": "cd936d85a9e68e722bdd7fbaf9216fe83efd7ba6",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.29.tgz",
+			"sha": "ec982003082ce113865ca8b47404f00a55e89555",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.28.tgz",
+			"sha": "f7b9168fc8f378940b3223498861c590cf280a75",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.27.tgz",
+			"sha": "9020efd619b4ee17a8addcf1c0d9e2744928692a",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.26-alpha.tgz",
+			"sha": "313a2f576dcb0d3d70b859a07adc673a92152535",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.25-alpha.tgz",
+			"sha": "0496a733a5481ebb2141d277c60184fb8de504a8",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.24-alpha.tgz",
+			"sha": "eec10618373c92410e670fbbb7345e6f6fe6de5b",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.23-alpha.tgz",
+			"sha": "3f696ed165b443319da0e24b640ba5067542da41",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.22-alpha.tgz",
+			"sha": "db8435b28bfe4d9f0080318c0239a328316c3851",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.21-alpha.tgz",
+			"sha": "19f1a13a445f62e62114e4931a2952e1f917ffb9",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.20-alpha.tgz",
+			"sha": "e833d2e7b8a4ecf17a45377238a42c578c14365d",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.15-alpha.tgz",
+			"sha": "31d7bdc6e3eb8991776a1da2fb19ed0806f0df0b",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.14-alpha.tgz",
+			"sha": "5bfda60e7c9e69c9bbf1cce900da7c32340148a7",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-4.0.0.tgz",
+			"sha": "fe26e05de2f0a99f38f21eb567c5499c855fa599",
+			"registry": "cnpmjs"
+		},
+		"redux-immutable-3.0.39.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/redux-immutable/download/@types/redux-immutable-3.0.39.tgz",
+			"sha": "f4453edabd0df44807248e73a8deef967d6f95f1",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"73c2-waAyqS8Wf7iEUCfryMOOv1kPXvo\"",
+			"fetched": 1541833277010
+		}
+	},
+	"_rev": "2-59b9fd25055b2e55",
+	"readme": "# Installation\r\n> `npm install --save @types/redux-immutable`\r\n\r\n# Summary\r\nThis package contains type definitions for redux-immutable (https://github.com/gajus/redux-immutable).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/redux-immutable\r\n\r\nAdditional Details\r\n * Last updated: Mon, 08 Oct 2018 17:40:37 GMT\r\n * Dependencies: redux, immutable\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Pedro Pereira <https://github.com/oizie>, Sebastian Sebald <https://github.com/sebald>, Gavin Gregory <https://github.com/gavingregory>, Kanitkorn Sujautra <https://github.com/lukyth>."
+}

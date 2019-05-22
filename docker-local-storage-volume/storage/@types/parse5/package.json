@@ -1,0 +1,1082 @@
+{
+	"name": "@types/parse5",
+	"versions": {
+		"4.0.0": {
+			"name": "@types/parse5",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for parse5",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": " Ivan Nikulin",
+					"url": "https://github.com/inikulin",
+					"githubUsername": "inikulin"
+				},
+				{
+					"name": "Andy Patterson",
+					"url": "https://github.com/andnp",
+					"githubUsername": "andnp"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "538ac878064f6d10928f38a119069740d2ddac3e9b49a40d82b5a5742494c79a",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/parse5@4.0.0",
+			"dist": {
+				"shasum": "26dd73df171a69be517395d294c7af2ae0cd2579",
+				"size": 7827,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parse5_4.0.0_1529453623107_0.5165172212465468"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1529453623154,
+			"_cnpm_publish_time": 1529453623154
+		},
+		"5.0.0": {
+			"name": "@types/parse5",
+			"version": "5.0.0",
+			"description": "TypeScript definitions for parse5",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ivan Nikulin",
+					"url": "https://github.com/inikulin",
+					"githubUsername": "inikulin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e08dccab01596a1042ac8dc571d650d1ad4cbbffa42484f8c26a8cbcdcddb24a",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/parse5@5.0.0",
+			"dist": {
+				"shasum": "9ae2106efc443d7c1e26570aa8247828c9c80f11",
+				"size": 4811,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parse5_5.0.0_1528262344147_0.98939738004272"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1528262344194,
+			"_cnpm_publish_time": 1528262344194
+		},
+		"3.0.0": {
+			"name": "@types/parse5",
+			"version": "3.0.0",
+			"typings": null,
+			"description": "Stub TypeScript definitions entry for parse5, which provides its own types definitions",
+			"main": "",
+			"scripts": {},
+			"author": "",
+			"repository": "https://github.com/inikulin/parse5",
+			"license": "MIT",
+			"dependencies": {
+				"parse5": "*"
+			},
+			"_id": "@types/parse5@3.0.0",
+			"dist": {
+				"shasum": "b63305718d82af42a9e5da79c56ecfc1f32e32c0",
+				"size": 1096,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parse5-3.0.0.tgz_1492451947058_0.3013898148201406"
+			},
+			"directories": {},
+			"publish_time": 1492451947429,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492451947429
+		},
+		"2.2.34": {
+			"name": "@types/parse5",
+			"version": "2.2.34",
+			"description": "TypeScript definitions for parse5 2.2.0",
+			"license": "MIT",
+			"author": "Nico Jansen <https://github.com/nicojs>, Meirion Hughes <https://github.com/MeirionHughes>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "0926d8f61824076db1e64bb69e6dda28107472499beac8428e2bafdac8807d07",
+			"_id": "@types/parse5@2.2.34",
+			"dist": {
+				"shasum": "e3870a10e82735a720f62d71dcd183ba78ef3a9d",
+				"size": 3401,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-2.2.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parse5-2.2.34.tgz_1478194999662_0.35171007132157683"
+			},
+			"directories": {},
+			"publish_time": 1478194999872,
+			"_cnpm_publish_time": 1478194999872,
+			"_hasShrinkwrap": false
+		},
+		"2.2.33": {
+			"name": "@types/parse5",
+			"version": "2.2.33",
+			"description": "TypeScript definitions for parse5 2.2.0",
+			"license": "MIT",
+			"author": "Nico Jansen <https://github.com/nicojs>, Meirion Hughes <https://github.com/MeirionHughes>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "d94370a98acbbeb9e1a2758b08d6da3e5d9865e944c7e5d47ef774d8c73bd638",
+			"_id": "@types/parse5@2.2.33",
+			"dist": {
+				"shasum": "99fceae149bd5829b7075eee13692acc55384e24",
+				"size": 3405,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-2.2.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parse5-2.2.33.tgz_1475701221547_0.22186663118191063"
+			},
+			"directories": {},
+			"publish_time": 1475701224843,
+			"_cnpm_publish_time": 1475701224843,
+			"_hasShrinkwrap": false
+		},
+		"2.2.32": {
+			"name": "@types/parse5",
+			"version": "2.2.32",
+			"description": "TypeScript definitions for parse5 2.2.0",
+			"license": "MIT",
+			"author": "Nico Jansen <https://github.com/nicojs>, Meirion Hughes <https://github.com/MeirionHughes>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "13a648ab9bd920fc27f0961537d44d31a6938b6560a54734cf26da905ca091e5",
+			"_id": "@types/parse5@2.2.32",
+			"dist": {
+				"shasum": "06c7e2f79adf6a39c56689dc327e7f5c0204ebb6",
+				"size": 3385,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-2.2.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parse5-2.2.32.tgz_1474307974452_0.7615104508586228"
+			},
+			"directories": {},
+			"publish_time": 1474307974682,
+			"_cnpm_publish_time": 1474307974682,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/parse5",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for parse5 2.2.0",
+			"license": "MIT",
+			"author": "Nico Jansen <https://github.com/nicojs>, Meirion Hughes <https://github.com/MeirionHughes>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/parse5@0.0.31",
+			"dist": {
+				"shasum": "e827a493a443b156e1b582a2e4c3bdc0040f2ee7",
+				"size": 3395,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.31.tgz_1472151139710_0.0526934543158859"
+			},
+			"directories": {},
+			"publish_time": 1472151141473,
+			"_cnpm_publish_time": 1472151141473,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/parse5",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for parse5 2.2.0",
+			"license": "MIT",
+			"author": "Nico Jansen <https://github.com/nicojs>, Meirion Hughes <https://github.com/MeirionHughes>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/parse5@0.0.30",
+			"dist": {
+				"shasum": "a3b2c74728597c5001a531cb6181809dc770414f",
+				"size": 3387,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.30.tgz_1471888707132_0.15998137439601123"
+			},
+			"directories": {},
+			"publish_time": 1471888707350,
+			"_cnpm_publish_time": 1471888707350,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/parse5",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for parse5 2.1.5",
+			"license": "MIT",
+			"author": "Nico Jansen <https://github.com/nicojs>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/parse5@0.0.29",
+			"dist": {
+				"shasum": "8a73878faf7a9bb09740b6b205d1565145139bb4",
+				"size": 3370,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.29.tgz_1471620965087_0.539734156569466"
+			},
+			"directories": {},
+			"publish_time": 1471620966312,
+			"_cnpm_publish_time": 1471620966312,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/parse5",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for parse5 2.1.5",
+			"license": "MIT",
+			"author": "Nico Jansen <https://github.com/nicojs>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/parse5@0.0.28",
+			"dist": {
+				"shasum": "2a38cb7145bb157688d4ad2c46944c6dffae3cc6",
+				"size": 15360,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.28.tgz_1470153779086_0.17146655544638634"
+			},
+			"directories": {},
+			"publish_time": 1470153780118,
+			"_cnpm_publish_time": 1470153780118,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/parse5",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for parse5 2.1.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Nico Jansen",
+				"email": "https://github.com/nicojs"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/parse5@0.0.27",
+			"_shasum": "e5e2c12d47f35079a1f14839b9eea5dfd1afccb1",
+			"_from": "output\\parse5",
+			"_resolved": "file:output\\parse5",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e5e2c12d47f35079a1f14839b9eea5dfd1afccb1",
+				"size": 3363,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.27.tgz_1468510786583_0.11564749921672046"
+			},
+			"directories": {},
+			"publish_time": 1468510789087,
+			"_cnpm_publish_time": 1468510789087,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/parse5",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for parse5 2.1.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Nico Jansen",
+				"email": "https://github.com/nicojs"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/parse5@0.0.26-alpha",
+			"_shasum": "147afe872a49f6967af6bd5586dc9b54e501cb44",
+			"_from": "output\\parse5",
+			"_resolved": "file:output\\parse5",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "147afe872a49f6967af6bd5586dc9b54e501cb44",
+				"size": 3365,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.26-alpha.tgz_1468011922009_0.6738600309472531"
+			},
+			"directories": {},
+			"publish_time": 1468011923334,
+			"_cnpm_publish_time": 1468011923334,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/parse5",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for parse5 2.1.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Nico Jansen",
+				"email": "https://github.com/nicojs"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/parse5@0.0.25-alpha",
+			"_shasum": "b2d8aadba9fae72f9a93f80fbdb6232c3ce04c3d",
+			"_from": "output\\parse5",
+			"_resolved": "file:output\\parse5",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b2d8aadba9fae72f9a93f80fbdb6232c3ce04c3d",
+				"size": 3367,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.25-alpha.tgz_1467594205831_0.4096031349617988"
+			},
+			"directories": {},
+			"publish_time": 1467594209254,
+			"_cnpm_publish_time": 1467594209254,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/parse5",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for parse5 2.1.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Nico Jansen",
+				"email": "https://github.com/nicojs"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.25-alpha"
+			},
+			"_id": "@types/parse5@0.0.24-alpha",
+			"_shasum": "bc548066450821647af5d7cdb8ea398318bfb545",
+			"_from": "output\\parse5",
+			"_resolved": "file:output\\parse5",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bc548066450821647af5d7cdb8ea398318bfb545",
+				"size": 3366,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.24-alpha.tgz_1467428954474_0.1422150128055364"
+			},
+			"directories": {},
+			"publish_time": 1467428958186,
+			"_cnpm_publish_time": 1467428958186,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/parse5",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for parse5 2.1.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Nico Jansen",
+				"email": "https://github.com/nicojs"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/parse5@0.0.23-alpha",
+			"_shasum": "b23aaa9860bb2ae9bc8f7f04ac03d0e4e7f3addc",
+			"_from": "output\\parse5",
+			"_resolved": "file:output\\parse5",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b23aaa9860bb2ae9bc8f7f04ac03d0e4e7f3addc",
+				"size": 3367,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.23-alpha.tgz_1467416553582_0.6517601262312382"
+			},
+			"directories": {},
+			"publish_time": 1467416554098,
+			"_cnpm_publish_time": 1467416554098,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/parse5",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for parse5 2.1.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Nico Jansen",
+				"email": "https://github.com/nicojs"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/parse5@0.0.22-alpha",
+			"_shasum": "daabf9e71d564228af851ca37426ad80a437ffc4",
+			"_from": "output\\parse5",
+			"_resolved": "file:output\\parse5",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "daabf9e71d564228af851ca37426ad80a437ffc4",
+				"size": 3347,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.22-alpha.tgz_1467404504286_0.6647259336896241"
+			},
+			"directories": {},
+			"publish_time": 1467404506430,
+			"_cnpm_publish_time": 1467404506430,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/parse5",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for parse5 2.1.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Nico Jansen",
+				"email": "https://github.com/nicojs"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/parse5@0.0.21-alpha",
+			"_shasum": "00449d32e572f2924e769bc8e4ca8a0bb3dc8909",
+			"_from": "output\\parse5",
+			"_resolved": "file:output\\parse5",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "00449d32e572f2924e769bc8e4ca8a0bb3dc8909",
+				"size": 3333,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.21-alpha.tgz_1464154728050_0.6574554829858243"
+			},
+			"directories": {},
+			"publish_time": 1464154728514,
+			"_cnpm_publish_time": 1464154728514,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/parse5",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for parse5 2.1.5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Nico Jansen",
+				"email": "https://github.com/nicojs"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/parse5@0.0.20-alpha",
+			"_shasum": "65a38cd85de76eaa0aa86568847673b8691c0924",
+			"_from": "output\\parse5",
+			"_resolved": "file:output\\parse5",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "65a38cd85de76eaa0aa86568847673b8691c0924",
+				"size": 3330,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.20-alpha.tgz_1463775758432_0.4735012720339"
+			},
+			"directories": {},
+			"publish_time": 1463775760618,
+			"_cnpm_publish_time": 1463775760618,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/parse5",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for parse5 2.1.5 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Nico Jansen",
+				"email": "https://github.com/nicojs"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"stream": "*",
+				"events": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/parse5@0.0.15-alpha",
+			"_shasum": "4b3237175f94e24c4f5a54f3ae0552bdb67e96e4",
+			"_from": "output\\parse5",
+			"_resolved": "file:output\\parse5",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4b3237175f94e24c4f5a54f3ae0552bdb67e96e4",
+				"size": 3352,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.15-alpha.tgz_1463695042703_0.5000788629986346"
+			},
+			"directories": {},
+			"publish_time": 1463695047722,
+			"_cnpm_publish_time": 1463695047722,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/parse5",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for parse5 2.1.5 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Nico Jansen",
+				"email": "https://github.com/nicojs"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"stream": "*",
+				"events": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/parse5@0.0.14-alpha",
+			"_shasum": "02e2223b7000d9a1a9a89504d14c996d384bf034",
+			"_from": "output\\parse5",
+			"_resolved": "file:output\\parse5",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "02e2223b7000d9a1a9a89504d14c996d384bf034",
+				"size": 3341,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parse5-0.0.14-alpha.tgz_1463510019069_0.9884813437238336"
+			},
+			"directories": {},
+			"publish_time": 1463510019630,
+			"_cnpm_publish_time": 1463510019630,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "5.0.0",
+		"ts2.0": "3.0.0",
+		"ts2.1": "3.0.0",
+		"ts2.2": "5.0.0",
+		"ts2.3": "5.0.0",
+		"ts2.4": "5.0.0",
+		"ts2.5": "5.0.0",
+		"ts2.6": "5.0.0",
+		"ts2.7": "5.0.0",
+		"ts2.8": "5.0.0",
+		"ts2.9": "5.0.0",
+		"ts3.0": "5.0.0",
+		"ts3.1": "5.0.0",
+		"ts3.2": "5.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:24:11.000Z",
+		"created": "2016-05-17T18:33:39.630Z",
+		"4.0.0": "2018-06-20T00:13:43.154Z",
+		"5.0.0": "2018-06-06T05:19:04.194Z",
+		"3.0.0": "2017-04-17T17:59:07.429Z",
+		"2.2.34": "2016-11-03T17:43:19.872Z",
+		"2.2.33": "2016-10-05T21:00:24.843Z",
+		"2.2.32": "2016-09-19T17:59:34.682Z",
+		"0.0.31": "2016-08-25T18:52:21.473Z",
+		"0.0.30": "2016-08-22T17:58:27.350Z",
+		"0.0.29": "2016-08-19T15:36:06.312Z",
+		"0.0.28": "2016-08-02T16:03:00.118Z",
+		"0.0.27": "2016-07-14T15:39:49.087Z",
+		"0.0.26-alpha": "2016-07-08T21:05:23.334Z",
+		"0.0.25-alpha": "2016-07-04T01:03:29.254Z",
+		"0.0.24-alpha": "2016-07-02T03:09:18.186Z",
+		"0.0.23-alpha": "2016-07-01T23:42:34.098Z",
+		"0.0.22-alpha": "2016-07-01T20:21:46.430Z",
+		"0.0.21-alpha": "2016-05-25T05:38:48.514Z",
+		"0.0.20-alpha": "2016-05-20T20:22:40.618Z",
+		"0.0.15-alpha": "2016-05-19T21:57:27.722Z",
+		"0.0.14-alpha": "2016-05-17T18:33:39.630Z"
+	},
+	"_distfiles": {
+		"parse5-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-4.0.0.tgz",
+			"sha": "26dd73df171a69be517395d294c7af2ae0cd2579",
+			"registry": "cnpmjs"
+		},
+		"parse5-5.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-5.0.0.tgz",
+			"sha": "9ae2106efc443d7c1e26570aa8247828c9c80f11",
+			"registry": "cnpmjs"
+		},
+		"parse5-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-3.0.0.tgz",
+			"sha": "b63305718d82af42a9e5da79c56ecfc1f32e32c0",
+			"registry": "cnpmjs"
+		},
+		"parse5-2.2.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-2.2.34.tgz",
+			"sha": "e3870a10e82735a720f62d71dcd183ba78ef3a9d",
+			"registry": "cnpmjs"
+		},
+		"parse5-2.2.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-2.2.33.tgz",
+			"sha": "99fceae149bd5829b7075eee13692acc55384e24",
+			"registry": "cnpmjs"
+		},
+		"parse5-2.2.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-2.2.32.tgz",
+			"sha": "06c7e2f79adf6a39c56689dc327e7f5c0204ebb6",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.31.tgz",
+			"sha": "e827a493a443b156e1b582a2e4c3bdc0040f2ee7",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.30.tgz",
+			"sha": "a3b2c74728597c5001a531cb6181809dc770414f",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.29.tgz",
+			"sha": "8a73878faf7a9bb09740b6b205d1565145139bb4",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.28.tgz",
+			"sha": "2a38cb7145bb157688d4ad2c46944c6dffae3cc6",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.27.tgz",
+			"sha": "e5e2c12d47f35079a1f14839b9eea5dfd1afccb1",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.26-alpha.tgz",
+			"sha": "147afe872a49f6967af6bd5586dc9b54e501cb44",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.25-alpha.tgz",
+			"sha": "b2d8aadba9fae72f9a93f80fbdb6232c3ce04c3d",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.24-alpha.tgz",
+			"sha": "bc548066450821647af5d7cdb8ea398318bfb545",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.23-alpha.tgz",
+			"sha": "b23aaa9860bb2ae9bc8f7f04ac03d0e4e7f3addc",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.22-alpha.tgz",
+			"sha": "daabf9e71d564228af851ca37426ad80a437ffc4",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.21-alpha.tgz",
+			"sha": "00449d32e572f2924e769bc8e4ca8a0bb3dc8909",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.20-alpha.tgz",
+			"sha": "65a38cd85de76eaa0aa86568847673b8691c0924",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.15-alpha.tgz",
+			"sha": "4b3237175f94e24c4f5a54f3ae0552bdb67e96e4",
+			"registry": "cnpmjs"
+		},
+		"parse5-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-0.0.14-alpha.tgz",
+			"sha": "02e2223b7000d9a1a9a89504d14c996d384bf034",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833486899
+		}
+	},
+	"_rev": "1-d6c81dbd46e4ca54",
+	"readme": "# Installation\r\n> `npm install --save @types/parse5`\r\n\r\n# Summary\r\nThis package contains type definitions for parse5 (https://github.com/inikulin/parse5).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/parse5/v4\r\n\r\nAdditional Details\r\n * Last updated: Wed, 20 Jun 2018 00:10:18 GMT\r\n * Dependencies: stream, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by  Ivan Nikulin <https://github.com/inikulin>, Andy Patterson <https://github.com/andnp>."
+}

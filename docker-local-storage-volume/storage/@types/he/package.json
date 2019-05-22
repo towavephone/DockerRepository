@@ -1,0 +1,665 @@
+{
+	"name": "@types/he",
+	"versions": {
+		"1.1.0": {
+			"name": "@types/he",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for he",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Simon Edwards",
+					"url": "https://github.com/sedwards2009",
+					"githubUsername": "sedwards2009"
+				},
+				{
+					"name": "Robin Tregaskis",
+					"url": "https://github.com/lokidokicoki",
+					"githubUsername": "lokidokicoki"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "62414f762b4c02ca954be2aac0db1c12d674fc596721ed00e290a672cdec837e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/he@1.1.0",
+			"dist": {
+				"shasum": "0ddc2ae80f0814f729f0f7e5aa77b191ab4a9598",
+				"size": 2913,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/he_1.1.0_1525797824217_0.40351377414443523"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525797824273,
+			"_cnpm_publish_time": 1525797824273
+		},
+		"0.5.29": {
+			"name": "@types/he",
+			"version": "0.5.29",
+			"description": "TypeScript definitions for he v0.5.0",
+			"license": "MIT",
+			"author": "Simon Edwards <https://github.com/sedwards2009>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "4fe98db6fcbccc10c85548dfe558575ecf6326df339cb3e8f5575dbd61611415",
+			"_id": "@types/he@0.5.29",
+			"dist": {
+				"shasum": "67f9392287b05558013d1cabc96801a5185adbea",
+				"size": 2215,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.29.tgz_1474306651893_0.252403708640486"
+			},
+			"directories": {},
+			"publish_time": 1474306655142,
+			"_cnpm_publish_time": 1474306655142,
+			"_hasShrinkwrap": false
+		},
+		"0.5.28": {
+			"name": "@types/he",
+			"version": "0.5.28",
+			"description": "TypeScript definitions for he v0.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Simon Edwards",
+				"email": "https://github.com/sedwards2009"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/he@0.5.28",
+			"_shasum": "57d563e661f1710adcd9185d3f8c6eb1ccf4639e",
+			"_from": "output\\he",
+			"_resolved": "file:output\\he",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "57d563e661f1710adcd9185d3f8c6eb1ccf4639e",
+				"size": 2196,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.28.tgz_1468507846217_0.07542133331298828"
+			},
+			"directories": {},
+			"publish_time": 1468507849499,
+			"_cnpm_publish_time": 1468507849499,
+			"_hasShrinkwrap": false
+		},
+		"0.5.27-alpha": {
+			"name": "@types/he",
+			"version": "0.5.27-alpha",
+			"description": "TypeScript definitions for he v0.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Simon Edwards",
+				"email": "https://github.com/sedwards2009"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/he@0.5.27-alpha",
+			"_shasum": "88e4044dbee39c4c97afb75f817cf71d93a6216b",
+			"_from": "output\\he",
+			"_resolved": "file:output\\he",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "88e4044dbee39c4c97afb75f817cf71d93a6216b",
+				"size": 2200,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.27-alpha.tgz_1468009169897_0.7209426972549409"
+			},
+			"directories": {},
+			"publish_time": 1468009172478,
+			"_cnpm_publish_time": 1468009172478,
+			"_hasShrinkwrap": false
+		},
+		"0.5.26-alpha": {
+			"name": "@types/he",
+			"version": "0.5.26-alpha",
+			"description": "TypeScript definitions for he v0.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Simon Edwards",
+				"email": "https://github.com/sedwards2009"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/he@0.5.26-alpha",
+			"_shasum": "666e6331d360b00869d64d7f8fa39fa31ac82d51",
+			"_from": "output\\he",
+			"_resolved": "file:output\\he",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "666e6331d360b00869d64d7f8fa39fa31ac82d51",
+				"size": 2201,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.26-alpha.tgz_1467591981981_0.908255614573136"
+			},
+			"directories": {},
+			"publish_time": 1467591982471,
+			"_cnpm_publish_time": 1467591982471,
+			"_hasShrinkwrap": false
+		},
+		"0.5.25-alpha": {
+			"name": "@types/he",
+			"version": "0.5.25-alpha",
+			"description": "TypeScript definitions for he v0.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Simon Edwards",
+				"email": "https://github.com/sedwards2009"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/he@0.5.25-alpha",
+			"_shasum": "dcb7afd9940f94e7af6c7a8ddf83ccdb0fd9037e",
+			"_from": "output\\he",
+			"_resolved": "file:output\\he",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dcb7afd9940f94e7af6c7a8ddf83ccdb0fd9037e",
+				"size": 2202,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.25-alpha.tgz_1467426781333_0.21082270005717874"
+			},
+			"directories": {},
+			"publish_time": 1467426781927,
+			"_cnpm_publish_time": 1467426781927,
+			"_hasShrinkwrap": false
+		},
+		"0.5.24-alpha": {
+			"name": "@types/he",
+			"version": "0.5.24-alpha",
+			"description": "TypeScript definitions for he v0.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Simon Edwards",
+				"email": "https://github.com/sedwards2009"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/he@0.5.24-alpha",
+			"_shasum": "afbfa36cf02a3cc979a121f288ec02901f63a93c",
+			"_from": "output\\he",
+			"_resolved": "file:output\\he",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "afbfa36cf02a3cc979a121f288ec02901f63a93c",
+				"size": 2200,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.24-alpha.tgz_1467413732143_0.051408473402261734"
+			},
+			"directories": {},
+			"publish_time": 1467413735383,
+			"_cnpm_publish_time": 1467413735383,
+			"_hasShrinkwrap": false
+		},
+		"0.5.23-alpha": {
+			"name": "@types/he",
+			"version": "0.5.23-alpha",
+			"description": "TypeScript definitions for he v0.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Simon Edwards",
+				"email": "https://github.com/sedwards2009"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/he@0.5.23-alpha",
+			"_shasum": "32de4cc94737629164b096d26944a82861e8def4",
+			"_from": "output\\he",
+			"_resolved": "file:output\\he",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "32de4cc94737629164b096d26944a82861e8def4",
+				"size": 2193,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.23-alpha.tgz_1467401659306_0.019842147594317794"
+			},
+			"directories": {},
+			"publish_time": 1467401661653,
+			"_cnpm_publish_time": 1467401661653,
+			"_hasShrinkwrap": false
+		},
+		"0.5.22-alpha": {
+			"name": "@types/he",
+			"version": "0.5.22-alpha",
+			"description": "TypeScript definitions for he v0.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Simon Edwards",
+				"email": "https://github.com/sedwards2009"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/he@0.5.22-alpha",
+			"_shasum": "4261a03bcddc72a65db23b700e975c62ff420be1",
+			"_from": "output\\he",
+			"_resolved": "file:output\\he",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4261a03bcddc72a65db23b700e975c62ff420be1",
+				"size": 2170,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.22-alpha.tgz_1464152668066_0.1469009956344962"
+			},
+			"directories": {},
+			"publish_time": 1464152668550,
+			"_cnpm_publish_time": 1464152668550,
+			"_hasShrinkwrap": false
+		},
+		"0.5.21-alpha": {
+			"name": "@types/he",
+			"version": "0.5.21-alpha",
+			"description": "TypeScript definitions for he v0.5.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Simon Edwards",
+				"email": "https://github.com/sedwards2009"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/he@0.5.21-alpha",
+			"_shasum": "811c6bee0ea34ddf41560b195c85629084dc59a7",
+			"_from": "output\\he",
+			"_resolved": "file:output\\he",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "811c6bee0ea34ddf41560b195c85629084dc59a7",
+				"size": 2167,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.21-alpha.tgz_1463773573027_0.9125386176165193"
+			},
+			"directories": {},
+			"publish_time": 1463773575058,
+			"_cnpm_publish_time": 1463773575058,
+			"_hasShrinkwrap": false
+		},
+		"0.5.16-alpha": {
+			"name": "@types/he",
+			"version": "0.5.16-alpha",
+			"description": "Type definitions for he v0.5.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Simon Edwards",
+				"email": "https://github.com/sedwards2009"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/he@0.5.16-alpha",
+			"_shasum": "df43dc65ca3a2286e6c5bf91f3158b47ff9fe291",
+			"_from": "output\\he",
+			"_resolved": "file:output\\he",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "df43dc65ca3a2286e6c5bf91f3158b47ff9fe291",
+				"size": 2174,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.16-alpha.tgz_1463692120881_0.5575413389597088"
+			},
+			"directories": {},
+			"publish_time": 1463692121591,
+			"_cnpm_publish_time": 1463692121591,
+			"_hasShrinkwrap": false
+		},
+		"0.5.15-alpha": {
+			"name": "@types/he",
+			"version": "0.5.15-alpha",
+			"description": "Type definitions for he v0.5.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Simon Edwards",
+				"email": "https://github.com/sedwards2009"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/he@0.5.15-alpha",
+			"_shasum": "9943362fc6e6cecd0d1fb8e9986173509ed9e8c8",
+			"_from": "output\\he",
+			"_resolved": "file:output\\he",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9943362fc6e6cecd0d1fb8e9986173509ed9e8c8",
+				"size": 2170,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/he/download/@types/he-0.5.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/he-0.5.15-alpha.tgz_1463461740819_0.5262968107126653"
+			},
+			"directories": {},
+			"publish_time": 1463461741326,
+			"_cnpm_publish_time": 1463461741326,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.0",
+		"ts2.0": "1.1.0",
+		"ts2.1": "1.1.0",
+		"ts2.2": "1.1.0",
+		"ts2.3": "1.1.0",
+		"ts2.4": "1.1.0",
+		"ts2.5": "1.1.0",
+		"ts2.6": "1.1.0",
+		"ts2.7": "1.1.0",
+		"ts2.8": "1.1.0",
+		"ts2.9": "1.1.0",
+		"ts3.0": "1.1.0",
+		"ts3.1": "1.1.0",
+		"ts3.2": "1.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:31.000Z",
+		"created": "2016-05-17T05:09:01.326Z",
+		"1.1.0": "2018-05-08T16:43:44.273Z",
+		"0.5.29": "2016-09-19T17:37:35.142Z",
+		"0.5.28": "2016-07-14T14:50:49.499Z",
+		"0.5.27-alpha": "2016-07-08T20:19:32.478Z",
+		"0.5.26-alpha": "2016-07-04T00:26:22.471Z",
+		"0.5.25-alpha": "2016-07-02T02:33:01.927Z",
+		"0.5.24-alpha": "2016-07-01T22:55:35.383Z",
+		"0.5.23-alpha": "2016-07-01T19:34:21.653Z",
+		"0.5.22-alpha": "2016-05-25T05:04:28.550Z",
+		"0.5.21-alpha": "2016-05-20T19:46:15.058Z",
+		"0.5.16-alpha": "2016-05-19T21:08:41.591Z",
+		"0.5.15-alpha": "2016-05-17T05:09:01.326Z"
+	},
+	"_distfiles": {
+		"he-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-1.1.0.tgz",
+			"sha": "0ddc2ae80f0814f729f0f7e5aa77b191ab4a9598",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.29.tgz",
+			"sha": "67f9392287b05558013d1cabc96801a5185adbea",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.28.tgz",
+			"sha": "57d563e661f1710adcd9185d3f8c6eb1ccf4639e",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.27-alpha.tgz",
+			"sha": "88e4044dbee39c4c97afb75f817cf71d93a6216b",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.26-alpha.tgz",
+			"sha": "666e6331d360b00869d64d7f8fa39fa31ac82d51",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.25-alpha.tgz",
+			"sha": "dcb7afd9940f94e7af6c7a8ddf83ccdb0fd9037e",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.24-alpha.tgz",
+			"sha": "afbfa36cf02a3cc979a121f288ec02901f63a93c",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.23-alpha.tgz",
+			"sha": "32de4cc94737629164b096d26944a82861e8def4",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.22-alpha.tgz",
+			"sha": "4261a03bcddc72a65db23b700e975c62ff420be1",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.21-alpha.tgz",
+			"sha": "811c6bee0ea34ddf41560b195c85629084dc59a7",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.16-alpha.tgz",
+			"sha": "df43dc65ca3a2286e6c5bf91f3158b47ff9fe291",
+			"registry": "cnpmjs"
+		},
+		"he-0.5.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/he/download/@types/he-0.5.15-alpha.tgz",
+			"sha": "9943362fc6e6cecd0d1fb8e9986173509ed9e8c8",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3919-xRG3LxaWb6azQKGPoH9dT6h5t3Q\"",
+			"fetched": 1541833456228
+		}
+	},
+	"_rev": "2-b4543b8f9a0aeb65",
+	"readme": "# Installation\r\n> `npm install --save @types/he`\r\n\r\n# Summary\r\nThis package contains type definitions for he (https://github.com/mathiasbynens/he).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped.git/tree/master/types/he\r\n\r\nAdditional Details\r\n * Last updated: Tue, 08 May 2018 16:41:34 GMT\r\n * Dependencies: none\r\n * Global values: he\r\n\r\n# Credits\r\nThese definitions were written by Simon Edwards <https://github.com/sedwards2009>, Robin Tregaskis <https://github.com/lokidokicoki>."
+}

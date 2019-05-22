@@ -1,0 +1,827 @@
+{
+	"name": "@types/merge-stream",
+	"versions": {
+		"1.1.0": {
+			"name": "@types/merge-stream",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for merge-stream",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Keita Kagurazaka",
+					"url": "https://github.com/k-kagurazaka",
+					"githubUsername": "k-kagurazaka"
+				},
+				{
+					"name": "Tom X. Tobin",
+					"url": "http://tomxtobin.com/"
+				},
+				{
+					"name": "Daniel Zazula",
+					"url": "https://github.com/daniel-zazula",
+					"githubUsername": "daniel-zazula"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "55a96f777bd1702a29d110770cab020c843f512d1927dacf67923a1797cdfa4f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/merge-stream@1.1.0",
+			"dist": {
+				"shasum": "7bed9fa3fb5a0b3d13712c7c7099bf0939d96a8c",
+				"size": 1685,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/merge-stream-1.1.0.tgz_1513898932179_0.7505695328582078"
+			},
+			"directories": {},
+			"publish_time": 1513898932269,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513898932269
+		},
+		"1.0.28": {
+			"name": "@types/merge-stream",
+			"version": "1.0.28",
+			"description": "TypeScript definitions for merge-stream v1.0.0",
+			"license": "MIT",
+			"author": "Keita Kagurazaka <https://github.com/k-kagurazaka>, Tom X. Tobin <http://tomxtobin.com/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "5a587b7f1335d0b895c7c6457b3230e87c6efd17fda98237a7c47e3026bca269",
+			"_id": "@types/merge-stream@1.0.28",
+			"dist": {
+				"shasum": "7cabfaaab6c64d51e3410d95e17dd9061e413532",
+				"size": 1136,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.28.tgz_1474307530313_0.1661766767501831"
+			},
+			"directories": {},
+			"publish_time": 1474307533409,
+			"_cnpm_publish_time": 1474307533409,
+			"_hasShrinkwrap": false
+		},
+		"1.0.27": {
+			"name": "@types/merge-stream",
+			"version": "1.0.27",
+			"description": "TypeScript definitions for merge-stream v1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Keita Kagurazaka",
+				"email": "https://github.com/k-kagurazaka"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/merge-stream@1.0.27",
+			"_shasum": "251adeb61874e7053339ad7ca0c4ece973fd200f",
+			"_from": "output\\merge-stream",
+			"_resolved": "file:output\\merge-stream",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "251adeb61874e7053339ad7ca0c4ece973fd200f",
+				"size": 1121,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.27.tgz_1468509741577_0.9905327288433909"
+			},
+			"directories": {},
+			"publish_time": 1468509744955,
+			"_cnpm_publish_time": 1468509744955,
+			"_hasShrinkwrap": false
+		},
+		"1.0.26-alpha": {
+			"name": "@types/merge-stream",
+			"version": "1.0.26-alpha",
+			"description": "TypeScript definitions for merge-stream v1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Keita Kagurazaka",
+				"email": "https://github.com/k-kagurazaka"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/merge-stream@1.0.26-alpha",
+			"_shasum": "b281119ef6a7f1271f92a4f2d20187e6fd5e2459",
+			"_from": "output\\merge-stream",
+			"_resolved": "file:output\\merge-stream",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b281119ef6a7f1271f92a4f2d20187e6fd5e2459",
+				"size": 1124,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.26-alpha.tgz_1468011196980_0.8486864778678864"
+			},
+			"directories": {},
+			"publish_time": 1468011198336,
+			"_cnpm_publish_time": 1468011198336,
+			"_hasShrinkwrap": false
+		},
+		"1.0.25-alpha": {
+			"name": "@types/merge-stream",
+			"version": "1.0.25-alpha",
+			"description": "TypeScript definitions for merge-stream v1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Keita Kagurazaka",
+				"email": "https://github.com/k-kagurazaka"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/merge-stream@1.0.25-alpha",
+			"_shasum": "3f140a5a8b248b3c3174cf14908123a0a030c761",
+			"_from": "output\\merge-stream",
+			"_resolved": "file:output\\merge-stream",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3f140a5a8b248b3c3174cf14908123a0a030c761",
+				"size": 1126,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.25-alpha.tgz_1467593525176_0.038447407772764564"
+			},
+			"directories": {},
+			"publish_time": 1467593528595,
+			"_cnpm_publish_time": 1467593528595,
+			"_hasShrinkwrap": false
+		},
+		"1.0.24-alpha": {
+			"name": "@types/merge-stream",
+			"version": "1.0.24-alpha",
+			"description": "TypeScript definitions for merge-stream v1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Keita Kagurazaka",
+				"email": "https://github.com/k-kagurazaka"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/merge-stream@1.0.24-alpha",
+			"_shasum": "8dbb35897ffb07dbeed517d3afdc0a1cda6008be",
+			"_from": "output\\merge-stream",
+			"_resolved": "file:output\\merge-stream",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8dbb35897ffb07dbeed517d3afdc0a1cda6008be",
+				"size": 1125,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.24-alpha.tgz_1467428286267_0.5602201342117041"
+			},
+			"directories": {},
+			"publish_time": 1467428286747,
+			"_cnpm_publish_time": 1467428286747,
+			"_hasShrinkwrap": false
+		},
+		"1.0.23-alpha": {
+			"name": "@types/merge-stream",
+			"version": "1.0.23-alpha",
+			"description": "TypeScript definitions for merge-stream v1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Keita Kagurazaka",
+				"email": "https://github.com/k-kagurazaka"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha"
+			},
+			"_id": "@types/merge-stream@1.0.23-alpha",
+			"_shasum": "6e882574c4f41c7e1ef23789e5390d2be1cb68ed",
+			"_from": "output\\merge-stream",
+			"_resolved": "file:output\\merge-stream",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6e882574c4f41c7e1ef23789e5390d2be1cb68ed",
+				"size": 1126,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.23-alpha.tgz_1467415474795_0.36461861804127693"
+			},
+			"directories": {},
+			"publish_time": 1467415478395,
+			"_cnpm_publish_time": 1467415478395,
+			"_hasShrinkwrap": false
+		},
+		"1.0.22-alpha": {
+			"name": "@types/merge-stream",
+			"version": "1.0.22-alpha",
+			"description": "TypeScript definitions for merge-stream v1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Keita Kagurazaka",
+				"email": "https://github.com/k-kagurazaka"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/merge-stream@1.0.22-alpha",
+			"_shasum": "0d7eee9f235e9ca2558032079302c55b531b6a5f",
+			"_from": "output\\merge-stream",
+			"_resolved": "file:output\\merge-stream",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0d7eee9f235e9ca2558032079302c55b531b6a5f",
+				"size": 1121,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.22-alpha.tgz_1467403453542_0.9866563321556896"
+			},
+			"directories": {},
+			"publish_time": 1467403454147,
+			"_cnpm_publish_time": 1467403454147,
+			"_hasShrinkwrap": false
+		},
+		"1.0.21-alpha": {
+			"name": "@types/merge-stream",
+			"version": "1.0.21-alpha",
+			"description": "TypeScript definitions for merge-stream v1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Keita Kagurazaka",
+				"email": "https://github.com/k-kagurazaka"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/merge-stream@1.0.21-alpha",
+			"_shasum": "50e5d65ad209319c0d09c2bb00e214f06c449bd2",
+			"_from": "output\\merge-stream",
+			"_resolved": "file:output\\merge-stream",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "50e5d65ad209319c0d09c2bb00e214f06c449bd2",
+				"size": 1093,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.21-alpha.tgz_1464154030731_0.10365559440106153"
+			},
+			"directories": {},
+			"publish_time": 1464154033227,
+			"_cnpm_publish_time": 1464154033227,
+			"_hasShrinkwrap": false
+		},
+		"1.0.20-alpha": {
+			"name": "@types/merge-stream",
+			"version": "1.0.20-alpha",
+			"description": "TypeScript definitions for merge-stream v1.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Keita Kagurazaka",
+				"email": "https://github.com/k-kagurazaka"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/merge-stream@1.0.20-alpha",
+			"_shasum": "7a9d5dab34fbc806acfeaff6678cb3e54d85fc26",
+			"_from": "output\\merge-stream",
+			"_resolved": "file:output\\merge-stream",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7a9d5dab34fbc806acfeaff6678cb3e54d85fc26",
+				"size": 1093,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.20-alpha.tgz_1463774975106_0.8578695715405047"
+			},
+			"directories": {},
+			"publish_time": 1463774977416,
+			"_cnpm_publish_time": 1463774977416,
+			"_hasShrinkwrap": false
+		},
+		"1.0.15-alpha": {
+			"name": "@types/merge-stream",
+			"version": "1.0.15-alpha",
+			"description": "Type definitions for merge-stream v1.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Keita Kagurazaka",
+				"email": "https://github.com/k-kagurazaka"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/merge-stream@1.0.15-alpha",
+			"_shasum": "c9445f10c06187fcbad880cfab5a1bf8fb09390b",
+			"_from": "output\\merge-stream",
+			"_resolved": "file:output\\merge-stream",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c9445f10c06187fcbad880cfab5a1bf8fb09390b",
+				"size": 1105,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.15-alpha.tgz_1463694084996_0.8828494669869542"
+			},
+			"directories": {},
+			"publish_time": 1463694090547,
+			"_cnpm_publish_time": 1463694090547,
+			"_hasShrinkwrap": false
+		},
+		"1.0.14-alpha": {
+			"name": "@types/merge-stream",
+			"version": "1.0.14-alpha",
+			"description": "Type definitions for merge-stream v1.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Keita Kagurazaka",
+				"email": "https://github.com/k-kagurazaka"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/merge-stream@1.0.14-alpha",
+			"_shasum": "bb9a4e4048f0fc04e8454d7147858e57d469e102",
+			"_from": "output\\merge-stream",
+			"_resolved": "file:output\\merge-stream",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bb9a4e4048f0fc04e8454d7147858e57d469e102",
+				"size": 1098,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/merge-stream-1.0.14-alpha.tgz_1463509147326_0.8162224071566015"
+			},
+			"directories": {},
+			"publish_time": 1463509147934,
+			"_cnpm_publish_time": 1463509147934,
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "@types/merge-stream",
+			"version": "1.1.2",
+			"description": "TypeScript definitions for merge-stream",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Keita Kagurazaka",
+					"url": "https://github.com/k-kagurazaka",
+					"githubUsername": "k-kagurazaka"
+				},
+				{
+					"name": "Tom X. Tobin",
+					"url": "https://github.com/tomxtobin",
+					"githubUsername": "tomxtobin"
+				},
+				{
+					"name": "Daniel Zazula",
+					"url": "https://github.com/daniel-zazula",
+					"githubUsername": "daniel-zazula"
+				},
+				{
+					"name": "Daniel Cassidy",
+					"url": "https://github.com/djcsdy",
+					"githubUsername": "djcsdy"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "b4e768b32d192b6364f1031ef547051e5ec58e51a0302105b60a02816b1dc35d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/merge-stream@1.1.2",
+			"dist": {
+				"shasum": "a880ff66b1fbbb5eef4958d015c5947a9334dbb1",
+				"size": 1739,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/merge-stream_1.1.2_1531761093028_0.23464386184460473"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1531761093090,
+			"_cnpm_publish_time": 1531761093090
+		},
+		"1.1.1": {
+			"name": "@types/merge-stream",
+			"version": "1.1.1",
+			"description": "TypeScript definitions for merge-stream",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Keita Kagurazaka",
+					"url": "https://github.com/k-kagurazaka",
+					"githubUsername": "k-kagurazaka"
+				},
+				{
+					"name": "Tom X. Tobin",
+					"url": "http://tomxtobin.com/"
+				},
+				{
+					"name": "Daniel Zazula",
+					"url": "https://github.com/daniel-zazula",
+					"githubUsername": "daniel-zazula"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "b78613b24395bdea1e98429215356d5b21b0de96d76607564413308093f63ef3",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/merge-stream@1.1.1",
+			"dist": {
+				"shasum": "bbb037681cef97da17dcfb351a427acca4173aac",
+				"size": 1686,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/merge-stream_1.1.1_1529540445612_0.680254627165382"
+			},
+			"publish_time": 1529540445725,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1529540445725
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.2",
+		"ts2.0": "1.1.2",
+		"ts2.1": "1.1.2",
+		"ts2.2": "1.1.2",
+		"ts2.3": "1.1.2",
+		"ts2.4": "1.1.2",
+		"ts2.5": "1.1.2",
+		"ts2.6": "1.1.2",
+		"ts2.7": "1.1.2",
+		"ts2.8": "1.1.2",
+		"ts2.9": "1.1.2",
+		"ts3.0": "1.1.2",
+		"ts3.1": "1.1.2",
+		"ts3.2": "1.1.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:19:43.000Z",
+		"created": "2016-05-17T18:19:07.934Z",
+		"1.1.2": "2018-07-16T17:11:33.090Z",
+		"1.1.1": "2018-06-21T00:20:45.725Z",
+		"1.1.0": "2017-12-21T23:28:52.269Z",
+		"1.0.28": "2016-09-19T17:52:13.409Z",
+		"1.0.27": "2016-07-14T15:22:24.955Z",
+		"1.0.26-alpha": "2016-07-08T20:53:18.336Z",
+		"1.0.25-alpha": "2016-07-04T00:52:08.595Z",
+		"1.0.24-alpha": "2016-07-02T02:58:06.747Z",
+		"1.0.23-alpha": "2016-07-01T23:24:38.395Z",
+		"1.0.22-alpha": "2016-07-01T20:04:14.147Z",
+		"1.0.21-alpha": "2016-05-25T05:27:13.227Z",
+		"1.0.20-alpha": "2016-05-20T20:09:37.416Z",
+		"1.0.15-alpha": "2016-05-19T21:41:30.547Z",
+		"1.0.14-alpha": "2016-05-17T18:19:07.934Z"
+	},
+	"_distfiles": {
+		"merge-stream-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.1.0.tgz",
+			"sha": "7bed9fa3fb5a0b3d13712c7c7099bf0939d96a8c",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.28.tgz",
+			"sha": "7cabfaaab6c64d51e3410d95e17dd9061e413532",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.27.tgz",
+			"sha": "251adeb61874e7053339ad7ca0c4ece973fd200f",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.26-alpha.tgz",
+			"sha": "b281119ef6a7f1271f92a4f2d20187e6fd5e2459",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.25-alpha.tgz",
+			"sha": "3f140a5a8b248b3c3174cf14908123a0a030c761",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.24-alpha.tgz",
+			"sha": "8dbb35897ffb07dbeed517d3afdc0a1cda6008be",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.23-alpha.tgz",
+			"sha": "6e882574c4f41c7e1ef23789e5390d2be1cb68ed",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.22-alpha.tgz",
+			"sha": "0d7eee9f235e9ca2558032079302c55b531b6a5f",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.21-alpha.tgz",
+			"sha": "50e5d65ad209319c0d09c2bb00e214f06c449bd2",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.20-alpha.tgz",
+			"sha": "7a9d5dab34fbc806acfeaff6678cb3e54d85fc26",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.15-alpha.tgz",
+			"sha": "c9445f10c06187fcbad880cfab5a1bf8fb09390b",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.0.14-alpha.tgz",
+			"sha": "bb9a4e4048f0fc04e8454d7147858e57d469e102",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.1.2.tgz",
+			"sha": "a880ff66b1fbbb5eef4958d015c5947a9334dbb1",
+			"registry": "cnpmjs"
+		},
+		"merge-stream-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/merge-stream/download/@types/merge-stream-1.1.1.tgz",
+			"sha": "bbb037681cef97da17dcfb351a427acca4173aac",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"496c-34PpP3hoVJeFnOFY6IFZ9d0p6tY\"",
+			"fetched": 1541833485481
+		}
+	},
+	"_rev": "2-1703ceedb1140e33",
+	"readme": "# Installation\r\n> `npm install --save @types/merge-stream`\r\n\r\n# Summary\r\nThis package contains type definitions for merge-stream (https://github.com/grncdr/merge-stream).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/merge-stream\r\n\r\nAdditional Details\r\n * Last updated: Mon, 16 Jul 2018 17:07:43 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Keita Kagurazaka <https://github.com/k-kagurazaka>, Tom X. Tobin <https://github.com/tomxtobin>, Daniel Zazula <https://github.com/daniel-zazula>, Daniel Cassidy <https://github.com/djcsdy>."
+}

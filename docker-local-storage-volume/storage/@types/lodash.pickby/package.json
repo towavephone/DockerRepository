@@ -1,0 +1,325 @@
+{
+	"name": "@types/lodash.pickby",
+	"versions": {
+		"4.6.3": {
+			"name": "@types/lodash.pickby",
+			"version": "4.6.3",
+			"description": "TypeScript definitions for lodash.pickBy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "553aa139b3f69c39f6bee11dd10dce83c9580e1de2548a0231772b4db4dababf",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.pickby@4.6.3",
+			"dist": {
+				"shasum": "e40dab2b947cd4dc3940516ae6e5152e87f72a63",
+				"size": 1591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.pickby/download/@types/lodash.pickby-4.6.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.pickby-4.6.3.tgz_1502229075648_0.4050896833650768"
+			},
+			"directories": {},
+			"publish_time": 1502229075727,
+			"_cnpm_publish_time": 1502229075727,
+			"_hasShrinkwrap": false
+		},
+		"4.6.2": {
+			"name": "@types/lodash.pickby",
+			"version": "4.6.2",
+			"description": "TypeScript definitions for lodash.pickBy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5bd2e54954db59e316c7dae7a716b1070da32fff1ad20134ce0b643a326d568b",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.pickby@4.6.2",
+			"dist": {
+				"shasum": "4bc769c90dc308ecc0c1fae7453def340d660dd9",
+				"size": 871,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.pickby/download/@types/lodash.pickby-4.6.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.pickby-4.6.2.tgz_1490212773861_0.25781047879718244"
+			},
+			"directories": {},
+			"publish_time": 1490212775869,
+			"_cnpm_publish_time": 1490212775869,
+			"_hasShrinkwrap": false
+		},
+		"4.6.1": {
+			"name": "@types/lodash.pickby",
+			"version": "4.6.1",
+			"description": "TypeScript definitions for lodash.pickBy",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5a77773195550031117452c414d3f799e6394d10be7e29409e0baf3a79b84d05",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.pickby@4.6.1",
+			"dist": {
+				"shasum": "f55184f98e010b0b14299e1d4396bd219277ab1a",
+				"size": 1049,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.pickby/download/@types/lodash.pickby-4.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.pickby-4.6.1.tgz_1485553787077_0.13043886958621442"
+			},
+			"directories": {},
+			"publish_time": 1485553788999,
+			"_cnpm_publish_time": 1485553788999,
+			"_hasShrinkwrap": false
+		},
+		"4.6.0": {
+			"name": "@types/lodash.pickby",
+			"version": "4.6.0",
+			"description": "TypeScript definitions for lodash.pickBy",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d8ae7aea248d64d1a8bb7338c457de63d14e21b458479bc42f6063c96b9dc1f2",
+			"_id": "@types/lodash.pickby@4.6.0",
+			"dist": {
+				"shasum": "19d538aed2325ff5ae2683854a1bdb36e92dbed2",
+				"size": 1025,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.pickby/download/@types/lodash.pickby-4.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.pickby-4.6.0.tgz_1480973621488_0.05302988365292549"
+			},
+			"directories": {},
+			"publish_time": 1480973621703,
+			"_cnpm_publish_time": 1480973621703,
+			"_hasShrinkwrap": false
+		},
+		"4.6.4": {
+			"name": "@types/lodash.pickby",
+			"version": "4.6.4",
+			"description": "TypeScript definitions for lodash.pickBy",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "d2c78159aeb0fcbde8ab50ab763e725bb1e2f029ff70233958002cab838c4a31",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.pickby@4.6.4",
+			"dist": {
+				"shasum": "dfabf70f817be2e1bd43a3512cc15f19562c16b2",
+				"size": 1595,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.pickby/download/@types/lodash.pickby-4.6.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.pickby_4.6.4_1532393463974_0.014010900746506572"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532393464043,
+			"_cnpm_publish_time": 1532393464043
+		}
+	},
+	"dist-tags": {
+		"latest": "4.6.4",
+		"ts2.0": "4.6.0",
+		"ts2.1": "4.6.1",
+		"ts2.2": "4.6.3",
+		"ts2.3": "4.6.3",
+		"ts2.4": "4.6.3",
+		"ts2.5": "4.6.3",
+		"ts2.6": "4.6.4",
+		"ts2.7": "4.6.4",
+		"ts2.8": "4.6.4",
+		"ts2.9": "4.6.4",
+		"ts3.0": "4.6.4",
+		"ts3.1": "4.6.4",
+		"ts3.2": "4.6.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:17:01.000Z",
+		"created": "2016-12-05T21:33:41.703Z",
+		"4.6.4": "2018-07-24T00:51:04.043Z",
+		"4.6.3": "2017-08-08T21:51:15.727Z",
+		"4.6.2": "2017-03-22T19:59:35.869Z",
+		"4.6.1": "2017-01-27T21:49:48.999Z",
+		"4.6.0": "2016-12-05T21:33:41.703Z"
+	},
+	"_distfiles": {
+		"lodash.pickby-4.6.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.pickby/download/@types/lodash.pickby-4.6.3.tgz",
+			"sha": "e40dab2b947cd4dc3940516ae6e5152e87f72a63",
+			"registry": "cnpmjs"
+		},
+		"lodash.pickby-4.6.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.pickby/download/@types/lodash.pickby-4.6.2.tgz",
+			"sha": "4bc769c90dc308ecc0c1fae7453def340d660dd9",
+			"registry": "cnpmjs"
+		},
+		"lodash.pickby-4.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.pickby/download/@types/lodash.pickby-4.6.1.tgz",
+			"sha": "f55184f98e010b0b14299e1d4396bd219277ab1a",
+			"registry": "cnpmjs"
+		},
+		"lodash.pickby-4.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.pickby/download/@types/lodash.pickby-4.6.0.tgz",
+			"sha": "19d538aed2325ff5ae2683854a1bdb36e92dbed2",
+			"registry": "cnpmjs"
+		},
+		"lodash.pickby-4.6.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.pickby/download/@types/lodash.pickby-4.6.4.tgz",
+			"sha": "dfabf70f817be2e1bd43a3512cc15f19562c16b2",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833484809
+		}
+	},
+	"_rev": "2-bf9dd88c098230f2",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.pickby`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.pickBy (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.pickby\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:12 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

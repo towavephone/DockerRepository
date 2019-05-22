@@ -1,0 +1,799 @@
+{
+	"name": "dora-plugin-upload",
+	"versions": {
+		"0.3.2": {
+			"name": "dora-plugin-upload",
+			"version": "0.3.2",
+			"description": "dora plugin for mocking file upload",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/dora-js/dora-plugin-upload.git"
+			},
+			"homepage": "https://github.com/dora-js/dora-plugin-upload",
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"main": "./lib",
+			"scripts": {
+				"build": "rm -rf lib && babel src --out-dir lib",
+				"test": "babel-node node_modules/.bin/babel-istanbul cover node_modules/.bin/_mocha --no-timeouts",
+				"lint": "eslint --ext .js src",
+				"coveralls": "cat ./coverage/lcov.info | coveralls"
+			},
+			"pre-commit": [
+				"lint"
+			],
+			"dependencies": {
+				"co-busboy": "^1.3.1",
+				"dev-null": "^0.1.1",
+				"spm-log": "^0.1.3"
+			},
+			"devDependencies": {
+				"babel-cli": "~6.2.0",
+				"babel-core": "~6.1.21",
+				"babel-eslint": "^6.0.4",
+				"babel-istanbul": "^0.5.9",
+				"babel-plugin-add-module-exports": "~0.1.1",
+				"babel-plugin-transform-runtime": "^6.9.0",
+				"babel-preset-es2015": "~6.1.18",
+				"babel-preset-stage-0": "~6.1.18",
+				"babel-runtime": "^6.9.2",
+				"coveralls": "^2.11.6",
+				"dora": "0.3.x",
+				"eslint": "~1.9.0",
+				"eslint-config-airbnb": "~1.0.0",
+				"expect": "^1.13.4",
+				"mocha": "~2.3.4",
+				"pre-commit": "~1.1.2"
+			},
+			"babel": {
+				"presets": [
+					"es2015",
+					"stage-0"
+				],
+				"plugins": [
+					"add-module-exports",
+					"transform-runtime"
+				]
+			},
+			"files": [
+				"lib",
+				"package.json",
+				"README.md"
+			],
+			"gitHead": "01e5c9bf3f1c46510eea97c06eb7b8e926d51fce",
+			"bugs": {
+				"url": "https://github.com/dora-js/dora-plugin-upload/issues"
+			},
+			"_id": "dora-plugin-upload@0.3.2",
+			"_shasum": "c6540e29aca22bbb844b46eec3c5e7c6a962f601",
+			"_from": ".",
+			"_npmVersion": "3.8.6",
+			"_nodeVersion": "5.12.0",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "c6540e29aca22bbb844b46eec3c5e7c6a962f601",
+				"size": 1804,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dora-plugin-upload-0.3.2.tgz_1469504519683_0.9709095151629299"
+			},
+			"directories": {},
+			"publish_time": 1469504521699,
+			"_cnpm_publish_time": 1469504521699,
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "dora-plugin-upload",
+			"version": "0.3.1",
+			"description": "dora plugin for mocking file upload",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/dora-js/dora-plugin-upload.git"
+			},
+			"homepage": "https://github.com/dora-js/dora-plugin-upload",
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"main": "./lib",
+			"scripts": {
+				"build": "rm -rf lib && babel src --out-dir lib",
+				"test": "babel-node node_modules/.bin/babel-istanbul cover node_modules/.bin/_mocha --no-timeouts",
+				"lint": "eslint --ext .js src",
+				"coveralls": "cat ./coverage/lcov.info | coveralls"
+			},
+			"pre-commit": [
+				"lint"
+			],
+			"dependencies": {
+				"co-busboy": "^1.3.1",
+				"dev-null": "^0.1.1",
+				"spm-log": "^0.1.3"
+			},
+			"devDependencies": {
+				"babel-cli": "~6.2.0",
+				"babel-core": "~6.1.21",
+				"babel-eslint": "^6.0.4",
+				"babel-istanbul": "^0.5.9",
+				"babel-plugin-add-module-exports": "~0.1.1",
+				"babel-preset-es2015": "~6.1.18",
+				"babel-preset-stage-0": "~6.1.18",
+				"coveralls": "^2.11.6",
+				"dora": "0.3.x",
+				"eslint": "~1.9.0",
+				"eslint-config-airbnb": "~1.0.0",
+				"expect": "^1.13.4",
+				"mocha": "~2.3.4",
+				"pre-commit": "~1.1.2"
+			},
+			"babel": {
+				"presets": [
+					"es2015",
+					"stage-0"
+				],
+				"plugins": [
+					"add-module-exports"
+				]
+			},
+			"files": [
+				"lib",
+				"package.json",
+				"README.md"
+			],
+			"gitHead": "8c5a4388e84ef150666a0766da89cc9dc321054f",
+			"bugs": {
+				"url": "https://github.com/dora-js/dora-plugin-upload/issues"
+			},
+			"_id": "dora-plugin-upload@0.3.1",
+			"_shasum": "ee2f6a2d4203abec90ac545aadc542ca082fec9b",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "ee2f6a2d4203abec90ac545aadc542ca082fec9b",
+				"size": 1759,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dora-plugin-upload-0.3.1.tgz_1462341094968_0.7881354184355587"
+			},
+			"directories": {},
+			"publish_time": 1462341097444,
+			"_cnpm_publish_time": 1462341097444,
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "dora-plugin-upload",
+			"version": "0.3.0",
+			"description": "dora plugin for mocking file upload",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/dora-js/dora-plugin-upload.git"
+			},
+			"homepage": "https://github.com/dora-js/dora-plugin-upload",
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"main": "./lib",
+			"scripts": {
+				"build": "rm -rf lib && babel src --out-dir lib",
+				"test": "babel-node node_modules/.bin/babel-istanbul cover node_modules/.bin/_mocha --no-timeouts",
+				"lint": "eslint --ext .js src",
+				"coveralls": "cat ./coverage/lcov.info | coveralls"
+			},
+			"pre-commit": [
+				"lint"
+			],
+			"dependencies": {
+				"co-busboy": "^1.3.1",
+				"dev-null": "^0.1.1",
+				"spm-log": "^0.1.3"
+			},
+			"devDependencies": {
+				"babel-cli": "~6.2.0",
+				"babel-core": "~6.1.21",
+				"babel-eslint": "^6.0.4",
+				"babel-istanbul": "^0.5.9",
+				"babel-plugin-add-module-exports": "~0.1.1",
+				"babel-preset-es2015": "~6.1.18",
+				"babel-preset-stage-0": "~6.1.18",
+				"coveralls": "^2.11.6",
+				"dora": "0.3.x",
+				"eslint": "~1.9.0",
+				"eslint-config-airbnb": "~1.0.0",
+				"expect": "^1.13.4",
+				"mocha": "~2.3.4",
+				"pre-commit": "~1.1.2"
+			},
+			"babel": {
+				"presets": [
+					"es2015",
+					"stage-0"
+				],
+				"plugins": [
+					"add-module-exports"
+				]
+			},
+			"files": [
+				"lib",
+				"package.json",
+				"README.md"
+			],
+			"gitHead": "7fb9acc4eed02071592825d71c17b35e87561729",
+			"bugs": {
+				"url": "https://github.com/dora-js/dora-plugin-upload/issues"
+			},
+			"_id": "dora-plugin-upload@0.3.0",
+			"_shasum": "a4dcd0f990bd94d584e83695dfc2037ef46000f5",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "a4dcd0f990bd94d584e83695dfc2037ef46000f5",
+				"size": 1761,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dora-plugin-upload-0.3.0.tgz_1462340921919_0.8652614937163889"
+			},
+			"directories": {},
+			"publish_time": 1462340924371,
+			"_cnpm_publish_time": 1462340924371,
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "dora-plugin-upload",
+			"version": "0.2.3",
+			"description": "dora plugin for mocking file upload",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/dora-js/dora-plugin-upload.git"
+			},
+			"homepage": "https://github.com/dora-js/dora-plugin-upload",
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"main": "./lib",
+			"scripts": {
+				"build": "rm -rf lib && babel src --out-dir lib",
+				"test": "babel-node node_modules/.bin/babel-istanbul cover node_modules/.bin/_mocha --no-timeouts",
+				"lint": "eslint --ext .js src",
+				"coveralls": "cat ./coverage/lcov.info | coveralls"
+			},
+			"pre-commit": [
+				"lint"
+			],
+			"dependencies": {
+				"co-busboy": "^1.3.1",
+				"dev-null": "^0.1.1"
+			},
+			"devDependencies": {
+				"babel-cli": "~6.2.0",
+				"babel-core": "~6.1.21",
+				"babel-istanbul": "^0.5.9",
+				"babel-plugin-add-module-exports": "~0.1.1",
+				"babel-preset-es2015": "~6.1.18",
+				"babel-preset-stage-0": "~6.1.18",
+				"coveralls": "^2.11.6",
+				"dora": "0.3.x",
+				"eslint": "~1.9.0",
+				"eslint-config-airbnb": "~1.0.0",
+				"expect": "^1.13.4",
+				"mocha": "~2.3.4",
+				"pre-commit": "~1.1.2"
+			},
+			"babel": {
+				"presets": [
+					"es2015",
+					"stage-0"
+				],
+				"plugins": [
+					"add-module-exports"
+				]
+			},
+			"files": [
+				"lib",
+				"package.json",
+				"README.md"
+			],
+			"bugs": {
+				"url": "https://github.com/dora-js/dora-plugin-upload/issues"
+			},
+			"_id": "dora-plugin-upload@0.2.3",
+			"_shasum": "d48df153b519a56d8296b0b3e8cf269f3aa3710e",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "d48df153b519a56d8296b0b3e8cf269f3aa3710e",
+				"size": 1619,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dora-plugin-upload-0.2.3.tgz_1462336377121_0.6882707334589213"
+			},
+			"directories": {},
+			"publish_time": 1462336378391,
+			"_cnpm_publish_time": 1462336378391,
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "dora-plugin-upload",
+			"version": "0.2.2",
+			"description": "dora plugin for mocking file upload",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/dora-js/dora-plugin-upload.git"
+			},
+			"homepage": "https://github.com/dora-js/dora-plugin-upload",
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"main": "./lib",
+			"scripts": {
+				"build": "rm -rf lib && babel src --out-dir lib",
+				"test": "babel-node node_modules/.bin/babel-istanbul cover node_modules/.bin/_mocha --no-timeouts",
+				"lint": "eslint --ext .js src",
+				"coveralls": "cat ./coverage/lcov.info | coveralls"
+			},
+			"pre-commit": [
+				"lint"
+			],
+			"dependencies": {
+				"co-busboy": "^1.3.1",
+				"dev-null": "^0.1.1"
+			},
+			"devDependencies": {
+				"babel-cli": "~6.2.0",
+				"babel-core": "~6.1.21",
+				"babel-istanbul": "^0.5.9",
+				"babel-plugin-add-module-exports": "~0.1.1",
+				"babel-preset-es2015": "~6.1.18",
+				"babel-preset-stage-0": "~6.1.18",
+				"coveralls": "^2.11.6",
+				"dora": "0.3.x",
+				"eslint": "~1.9.0",
+				"eslint-config-airbnb": "~1.0.0",
+				"expect": "^1.13.4",
+				"mocha": "~2.3.4",
+				"pre-commit": "~1.1.2"
+			},
+			"babel": {
+				"presets": [
+					"es2015",
+					"stage-0"
+				],
+				"plugins": [
+					"add-module-exports"
+				]
+			},
+			"files": [
+				"lib",
+				"package.json",
+				"README.md"
+			],
+			"bugs": {
+				"url": "https://github.com/dora-js/dora-plugin-upload/issues"
+			},
+			"_id": "dora-plugin-upload@0.2.2",
+			"_shasum": "65cea9fd3dbbd8d6214eb4daae06c61567f6d7ec",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "65cea9fd3dbbd8d6214eb4daae06c61567f6d7ec",
+				"size": 1610,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dora-plugin-upload-0.2.2.tgz_1462336050954_0.4643597293179482"
+			},
+			"directories": {},
+			"publish_time": 1462336052128,
+			"_cnpm_publish_time": 1462336052128,
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "dora-plugin-upload",
+			"version": "0.2.1",
+			"description": "dora plugin for mocking file upload",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/dora-js/dora-plugin-upload.git"
+			},
+			"homepage": "https://github.com/dora-js/dora-plugin-upload",
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"main": "./lib",
+			"scripts": {
+				"build": "rm -rf lib && babel src --out-dir lib",
+				"test": "babel-node node_modules/.bin/babel-istanbul cover node_modules/.bin/_mocha --no-timeouts",
+				"lint": "eslint --ext .js src",
+				"coveralls": "cat ./coverage/lcov.info | coveralls"
+			},
+			"pre-commit": [
+				"lint"
+			],
+			"dependencies": {
+				"co-busboy": "^1.3.1"
+			},
+			"devDependencies": {
+				"babel-cli": "~6.2.0",
+				"babel-core": "~6.1.21",
+				"babel-istanbul": "^0.5.9",
+				"babel-plugin-add-module-exports": "~0.1.1",
+				"babel-preset-es2015": "~6.1.18",
+				"babel-preset-stage-0": "~6.1.18",
+				"coveralls": "^2.11.6",
+				"dora": "0.3.x",
+				"eslint": "~1.9.0",
+				"eslint-config-airbnb": "~1.0.0",
+				"expect": "^1.13.4",
+				"mocha": "~2.3.4",
+				"pre-commit": "~1.1.2"
+			},
+			"babel": {
+				"presets": [
+					"es2015",
+					"stage-0"
+				],
+				"plugins": [
+					"add-module-exports"
+				]
+			},
+			"files": [
+				"lib",
+				"package.json",
+				"README.md"
+			],
+			"bugs": {
+				"url": "https://github.com/dora-js/dora-plugin-upload/issues"
+			},
+			"_id": "dora-plugin-upload@0.2.1",
+			"_shasum": "0e4320fd642e5418c58eef473d214f1b4a4322b4",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "0e4320fd642e5418c58eef473d214f1b4a4322b4",
+				"size": 1603,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dora-plugin-upload-0.2.1.tgz_1462336004838_0.6055875201709569"
+			},
+			"directories": {},
+			"publish_time": 1462336005291,
+			"_cnpm_publish_time": 1462336005291,
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "dora-plugin-upload",
+			"version": "0.1.1",
+			"description": "dora plugin for mocking file upload",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/dora-js/dora-plugin-upload.git"
+			},
+			"homepage": "https://github.com/dora-js/dora-plugin-upload",
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"main": "./lib",
+			"scripts": {
+				"build": "rm -rf lib && babel src --out-dir lib",
+				"test": "babel-node node_modules/.bin/babel-istanbul cover node_modules/.bin/_mocha --no-timeouts",
+				"lint": "eslint --ext .js src",
+				"coveralls": "cat ./coverage/lcov.info | coveralls"
+			},
+			"pre-commit": [
+				"lint"
+			],
+			"dependencies": {
+				"co-busboy": "^1.3.1"
+			},
+			"devDependencies": {
+				"babel-cli": "~6.2.0",
+				"babel-core": "~6.1.21",
+				"babel-istanbul": "^0.5.9",
+				"babel-plugin-add-module-exports": "~0.1.1",
+				"babel-preset-es2015": "~6.1.18",
+				"babel-preset-stage-0": "~6.1.18",
+				"coveralls": "^2.11.6",
+				"dora": "0.3.x",
+				"eslint": "~1.9.0",
+				"eslint-config-airbnb": "~1.0.0",
+				"expect": "^1.13.4",
+				"mocha": "~2.3.4",
+				"pre-commit": "~1.1.2"
+			},
+			"babel": {
+				"presets": [
+					"es2015",
+					"stage-0"
+				],
+				"plugins": [
+					"add-module-exports"
+				]
+			},
+			"files": [
+				"lib",
+				"package.json",
+				"README.md"
+			],
+			"bugs": {
+				"url": "https://github.com/dora-js/dora-plugin-upload/issues"
+			},
+			"_id": "dora-plugin-upload@0.1.1",
+			"_shasum": "dc6dab84a1f1ab1bc2a80066470386858e9411ff",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "dc6dab84a1f1ab1bc2a80066470386858e9411ff",
+				"size": 1614,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dora-plugin-upload-0.1.1.tgz_1462335697657_0.7217897230293602"
+			},
+			"directories": {},
+			"publish_time": 1462335700040,
+			"_cnpm_publish_time": 1462335700040,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "dora-plugin-upload",
+			"version": "0.1.0",
+			"description": "dora plugin for mocking file upload",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/dora-js/dora-plugin-upload.git"
+			},
+			"homepage": "https://github.com/dora-js/dora-plugin-upload",
+			"author": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"license": "MIT",
+			"main": "./lib",
+			"scripts": {
+				"build": "rm -rf lib && babel src --out-dir lib",
+				"test": "babel-node node_modules/.bin/babel-istanbul cover node_modules/.bin/_mocha --no-timeouts",
+				"lint": "eslint --ext .js src",
+				"coveralls": "cat ./coverage/lcov.info | coveralls"
+			},
+			"pre-commit": [
+				"lint"
+			],
+			"dependencies": {
+				"co-busboy": "^1.3.1"
+			},
+			"devDependencies": {
+				"babel-cli": "~6.2.0",
+				"babel-core": "~6.1.21",
+				"babel-istanbul": "^0.5.9",
+				"babel-plugin-add-module-exports": "~0.1.1",
+				"babel-preset-es2015": "~6.1.18",
+				"babel-preset-stage-0": "~6.1.18",
+				"coveralls": "^2.11.6",
+				"dora": "0.3.x",
+				"eslint": "~1.9.0",
+				"eslint-config-airbnb": "~1.0.0",
+				"expect": "^1.13.4",
+				"mocha": "~2.3.4",
+				"pre-commit": "~1.1.2"
+			},
+			"babel": {
+				"presets": [
+					"es2015",
+					"stage-0"
+				],
+				"plugins": [
+					"add-module-exports"
+				]
+			},
+			"files": [
+				"lib",
+				"package.json",
+				"README.md"
+			],
+			"bugs": {
+				"url": "https://github.com/dora-js/dora-plugin-upload/issues"
+			},
+			"_id": "dora-plugin-upload@0.1.0",
+			"_shasum": "0b280e928cb0adcab6ddc16e7c6ca15ec92e4be7",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "afc163",
+				"email": "afc163@gmail.com"
+			},
+			"dist": {
+				"shasum": "0b280e928cb0adcab6ddc16e7c6ca15ec92e4be7",
+				"size": 1559,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "afc163",
+					"email": "afc163@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dora-plugin-upload-0.1.0.tgz_1462334929439_0.3901301580481231"
+			},
+			"directories": {},
+			"publish_time": 1462334932102,
+			"_cnpm_publish_time": 1462334932102,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.3.2"
+	},
+	"time": {
+		"modified": "2017-03-28T20:20:08.000Z",
+		"created": "2016-05-04T04:08:52.102Z",
+		"0.3.2": "2016-07-26T03:42:01.699Z",
+		"0.3.1": "2016-05-04T05:51:37.444Z",
+		"0.3.0": "2016-05-04T05:48:44.371Z",
+		"0.2.3": "2016-05-04T04:32:58.391Z",
+		"0.2.2": "2016-05-04T04:27:32.128Z",
+		"0.2.1": "2016-05-04T04:26:45.291Z",
+		"0.1.1": "2016-05-04T04:21:40.040Z",
+		"0.1.0": "2016-05-04T04:08:52.102Z"
+	},
+	"_distfiles": {
+		"dora-plugin-upload-0.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.3.2.tgz",
+			"sha": "c6540e29aca22bbb844b46eec3c5e7c6a962f601",
+			"registry": "cnpmjs"
+		},
+		"dora-plugin-upload-0.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.3.1.tgz",
+			"sha": "ee2f6a2d4203abec90ac545aadc542ca082fec9b",
+			"registry": "cnpmjs"
+		},
+		"dora-plugin-upload-0.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.3.0.tgz",
+			"sha": "a4dcd0f990bd94d584e83695dfc2037ef46000f5",
+			"registry": "cnpmjs"
+		},
+		"dora-plugin-upload-0.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.2.3.tgz",
+			"sha": "d48df153b519a56d8296b0b3e8cf269f3aa3710e",
+			"registry": "cnpmjs"
+		},
+		"dora-plugin-upload-0.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.2.2.tgz",
+			"sha": "65cea9fd3dbbd8d6214eb4daae06c61567f6d7ec",
+			"registry": "cnpmjs"
+		},
+		"dora-plugin-upload-0.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.2.1.tgz",
+			"sha": "0e4320fd642e5418c58eef473d214f1b4a4322b4",
+			"registry": "cnpmjs"
+		},
+		"dora-plugin-upload-0.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.1.1.tgz",
+			"sha": "dc6dab84a1f1ab1bc2a80066470386858e9411ff",
+			"registry": "cnpmjs"
+		},
+		"dora-plugin-upload-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/dora-plugin-upload/download/dora-plugin-upload-0.1.0.tgz",
+			"sha": "0b280e928cb0adcab6ddc16e7c6ca15ec92e4be7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1528451130796
+		}
+	},
+	"_rev": "1-fd27f9ca7750ca97",
+	"readme": "# dora-plugin-upload\n\n[![NPM version](https://img.shields.io/npm/v/dora-plugin-upload.svg?style=flat)](https://npmjs.org/package/dora-plugin-upload)\n[![Build Status](https://img.shields.io/travis/dora-js/dora-plugin-upload.svg?style=flat)](https://travis-ci.org/dora-js/dora-plugin-upload)\n[![Coverage Status](https://img.shields.io/coveralls/dora-js/dora-plugin-upload.svg?style=flat)](https://coveralls.io/r/dora-js/dora-plugin-upload)\n[![NPM downloads](http://img.shields.io/npm/dm/dora-plugin-upload.svg?style=flat)](https://npmjs.org/package/dora-plugin-upload)\n\nMock file upload using busboy.\n\n## Usage\n\n```bash\n$ npm i dora dora-plugin-upload --save-dev\n$ ./node_modules/.bin/dora --plugins 'upload'\n```\n\n## Test\n\n```bash\n$ npm test\n```\n\n## LICENSE\n\nMIT."
+}

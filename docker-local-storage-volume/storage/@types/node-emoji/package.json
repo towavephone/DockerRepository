@@ -1,0 +1,142 @@
+{
+	"name": "@types/node-emoji",
+	"versions": {
+		"1.8.0": {
+			"name": "@types/node-emoji",
+			"version": "1.8.0",
+			"description": "TypeScript definitions for node-emoji",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tristan Jones",
+					"url": "https://github.com/jonestristand",
+					"githubUsername": "jonestristand"
+				},
+				{
+					"name": "styu",
+					"url": "https://github.com/styu",
+					"githubUsername": "styu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "3f7aa26524cc7a1a65264ae0674ebcd8e109cda0205152f926888dbd4f4815cd",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/node-emoji@1.8.0",
+			"dist": {
+				"shasum": "6bc88a880cdcb3c165e2828d056db242e8829a8b",
+				"size": 8520,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-emoji/download/@types/node-emoji-1.8.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/node-emoji-1.8.0.tgz_1513209791668_0.3696650753263384"
+			},
+			"directories": {},
+			"publish_time": 1513209791736,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513209791736
+		},
+		"1.4.0": {
+			"name": "@types/node-emoji",
+			"version": "1.4.0",
+			"description": "TypeScript definitions for node-emoji",
+			"license": "MIT",
+			"author": "Tristan Jones <https://github.com/jonestristand>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "efb19fe1e88eb1693d7e921d315802ca1a4aafacbfb7d1842bf303b4bacd98f9",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/node-emoji@1.4.0",
+			"dist": {
+				"shasum": "34068c35b74ee5c9d73eb9b84c60b2c06a169412",
+				"size": 7948,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-emoji/download/@types/node-emoji-1.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-emoji-1.4.0.tgz_1483643731049_0.5179014133755118"
+			},
+			"directories": {},
+			"publish_time": 1483643731286,
+			"_cnpm_publish_time": 1483643731286,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.8.0",
+		"ts2.0": "1.8.0",
+		"ts2.1": "1.8.0",
+		"ts2.2": "1.8.0",
+		"ts2.3": "1.8.0",
+		"ts2.4": "1.8.0",
+		"ts2.5": "1.8.0",
+		"ts2.6": "1.8.0",
+		"ts2.7": "1.8.0",
+		"ts2.8": "1.8.0",
+		"ts2.9": "1.8.0",
+		"ts3.0": "1.8.0",
+		"ts3.1": "1.8.0",
+		"ts3.2": "1.8.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:22:41.000Z",
+		"created": "2017-01-05T19:15:31.286Z",
+		"1.8.0": "2017-12-14T00:03:11.736Z",
+		"1.4.0": "2017-01-05T19:15:31.286Z"
+	},
+	"_distfiles": {
+		"node-emoji-1.8.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-emoji/download/@types/node-emoji-1.8.0.tgz",
+			"sha": "6bc88a880cdcb3c165e2828d056db242e8829a8b",
+			"registry": "cnpmjs"
+		},
+		"node-emoji-1.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-emoji/download/@types/node-emoji-1.4.0.tgz",
+			"sha": "34068c35b74ee5c9d73eb9b84c60b2c06a169412",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"de7-0FeKvH12TsSiHQbAHhOVf8l1NbU\"",
+			"fetched": 1541833485881
+		}
+	},
+	"_rev": "2-d14a3217755471c8",
+	"readme": "# Installation\r\n> `npm install --save @types/node-emoji`\r\n\r\n# Summary\r\nThis package contains type definitions for node-emoji (https://github.com/omnidan/node-emoji#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node-emoji\r\n\r\nAdditional Details\r\n * Last updated: Thu, 14 Dec 2017 00:02:28 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tristan Jones <https://github.com/jonestristand>, styu <https://github.com/styu>."
+}

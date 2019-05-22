@@ -1,0 +1,898 @@
+{
+	"name": "@types/isomorphic-fetch",
+	"versions": {
+		"0.0.34": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.34",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Todd Lucas",
+					"url": "https://github.com/toddlucas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "59c0fd3c874839d501d701cf40eab57a8e30ac02341cf04b9e3722805501f76f",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/isomorphic-fetch@0.0.34",
+			"dist": {
+				"shasum": "3c3483e606c041378438e951464f00e4e60706d6",
+				"size": 1508,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.34.tgz_1493228072846_0.9869192636106163"
+			},
+			"directories": {},
+			"publish_time": 1493228075402,
+			"_cnpm_publish_time": 1493228075402,
+			"_hasShrinkwrap": false
+		},
+		"0.0.33": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.33",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Todd Lucas",
+					"url": "https://github.com/toddlucas"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bec3288a555962e6e7e6046aac8103185e9066e94eb9ae90fa1ad351feed3dce",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/isomorphic-fetch@0.0.33",
+			"dist": {
+				"shasum": "3ea1b86f8b73e6a7430d01d4dbd5b1f63fd72718",
+				"size": 1713,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.33.tgz_1487875200321_0.8100252754520625"
+			},
+			"directories": {},
+			"publish_time": 1487875202273,
+			"_cnpm_publish_time": 1487875202273,
+			"_hasShrinkwrap": false
+		},
+		"0.0.32": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"license": "MIT",
+			"author": "Todd Lucas <https://github.com/toddlucas>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3dfdd47f5de2d06f1ca0aabac44379053887b2a51d2046747063e22dcc1279cf",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/isomorphic-fetch@0.0.32",
+			"dist": {
+				"shasum": "d76f29302aabb38d5caa39b54a96984ffb6bdba3",
+				"size": 2227,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.32.tgz_1484888081148_0.25089260656386614"
+			},
+			"directories": {},
+			"publish_time": 1484888082976,
+			"_cnpm_publish_time": 1484888082976,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"license": "MIT",
+			"author": "Todd Lucas <https://github.com/toddlucas>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "920dd35d23cc47eac27c186688681220b0a5045e6bfefd01872632820a664d61",
+			"_id": "@types/isomorphic-fetch@0.0.31",
+			"dist": {
+				"shasum": "ec120166ce22f0b134e8770f40c97cd076068fae",
+				"size": 2240,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.31.tgz_1474306942587_0.27472900645807385"
+			},
+			"directories": {},
+			"publish_time": 1474306942824,
+			"_cnpm_publish_time": 1474306942824,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"license": "MIT",
+			"author": "Todd Lucas <https://github.com/toddlucas>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/isomorphic-fetch@0.0.30",
+			"dist": {
+				"shasum": "a21717624cde9a48c2db53a4e500fc5c32a99bbc",
+				"size": 1930,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.30.tgz_1472150730008_0.3533005313947797"
+			},
+			"directories": {},
+			"publish_time": 1472150732024,
+			"_cnpm_publish_time": 1472150732024,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"license": "MIT",
+			"author": "Todd Lucas <https://github.com/toddlucas>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/isomorphic-fetch@0.0.29",
+			"dist": {
+				"shasum": "8be8c6c37ad8183462834a4ce7ed71afb1f39b51",
+				"size": 1930,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.29.tgz_1471620543162_0.5780455782078207"
+			},
+			"directories": {},
+			"publish_time": 1471620544873,
+			"_cnpm_publish_time": 1471620544873,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"license": "MIT",
+			"author": "Todd Lucas <https://github.com/toddlucas>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/isomorphic-fetch@0.0.28",
+			"dist": {
+				"shasum": "67ac9116a09f2956b248bb8d7b70348d8b986516",
+				"size": 9728,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.28.tgz_1470153324434_0.6652600434608757"
+			},
+			"directories": {},
+			"publish_time": 1470153325418,
+			"_cnpm_publish_time": 1470153325418,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Todd Lucas",
+				"email": "https://github.com/toddlucas"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/isomorphic-fetch@0.0.27",
+			"_shasum": "9966d0660953b5be6005dbb005f8ad7b84942106",
+			"_from": "output\\isomorphic-fetch",
+			"_resolved": "file:output\\isomorphic-fetch",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9966d0660953b5be6005dbb005f8ad7b84942106",
+				"size": 1910,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.27.tgz_1468508229628_0.49655754468403757"
+			},
+			"directories": {},
+			"publish_time": 1468508231830,
+			"_cnpm_publish_time": 1468508231830,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Todd Lucas",
+				"email": "https://github.com/toddlucas"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/isomorphic-fetch@0.0.26-alpha",
+			"_shasum": "207130bccdd7204e994ea3ee867b9e3850404532",
+			"_from": "output\\isomorphic-fetch",
+			"_resolved": "file:output\\isomorphic-fetch",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "207130bccdd7204e994ea3ee867b9e3850404532",
+				"size": 1903,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.26-alpha.tgz_1468009794345_0.2720983054023236"
+			},
+			"directories": {},
+			"publish_time": 1468009797091,
+			"_cnpm_publish_time": 1468009797091,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Todd Lucas",
+				"email": "https://github.com/toddlucas"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/isomorphic-fetch@0.0.25-alpha",
+			"_shasum": "63c916be60c1c0ee18817ff31bec334b61d4e6af",
+			"_from": "output\\isomorphic-fetch",
+			"_resolved": "file:output\\isomorphic-fetch",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "63c916be60c1c0ee18817ff31bec334b61d4e6af",
+				"size": 1904,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.25-alpha.tgz_1467592154626_0.61889667971991"
+			},
+			"directories": {},
+			"publish_time": 1467592155227,
+			"_cnpm_publish_time": 1467592155227,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Todd Lucas",
+				"email": "https://github.com/toddlucas"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/isomorphic-fetch@0.0.24-alpha",
+			"_shasum": "687e6d117aaf649ee948f5df0ffebd50e4189f84",
+			"_from": "output\\isomorphic-fetch",
+			"_resolved": "file:output\\isomorphic-fetch",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "687e6d117aaf649ee948f5df0ffebd50e4189f84",
+				"size": 1906,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.24-alpha.tgz_1467427414142_0.3743681136984378"
+			},
+			"directories": {},
+			"publish_time": 1467427414630,
+			"_cnpm_publish_time": 1467427414630,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Todd Lucas",
+				"email": "https://github.com/toddlucas"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/isomorphic-fetch@0.0.23-alpha",
+			"_shasum": "9b6224187ffb64ab1141828d1172b075bbaf11fb",
+			"_from": "output\\isomorphic-fetch",
+			"_resolved": "file:output\\isomorphic-fetch",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9b6224187ffb64ab1141828d1172b075bbaf11fb",
+				"size": 1906,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.23-alpha.tgz_1467414443487_0.9512491065543145"
+			},
+			"directories": {},
+			"publish_time": 1467414446027,
+			"_cnpm_publish_time": 1467414446027,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Todd Lucas",
+				"email": "https://github.com/toddlucas"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/isomorphic-fetch@0.0.22-alpha",
+			"_shasum": "9ea4c364448fb767c53131f13e7f03b35b499957",
+			"_from": "output\\isomorphic-fetch",
+			"_resolved": "file:output\\isomorphic-fetch",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9ea4c364448fb767c53131f13e7f03b35b499957",
+				"size": 1896,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.22-alpha.tgz_1467402396383_0.04437948274426162"
+			},
+			"directories": {},
+			"publish_time": 1467402398509,
+			"_cnpm_publish_time": 1467402398509,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Todd Lucas",
+				"email": "https://github.com/toddlucas"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/isomorphic-fetch@0.0.21-alpha",
+			"_shasum": "b773f8578d50522426b3bdad4055e5f95b020a12",
+			"_from": "output\\isomorphic-fetch",
+			"_resolved": "file:output\\isomorphic-fetch",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b773f8578d50522426b3bdad4055e5f95b020a12",
+				"size": 1874,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.21-alpha.tgz_1464152944994_0.70859569683671"
+			},
+			"directories": {},
+			"publish_time": 1464152945499,
+			"_cnpm_publish_time": 1464152945499,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for isomorphic-fetch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Todd Lucas",
+				"email": "https://github.com/toddlucas"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/isomorphic-fetch@0.0.20-alpha",
+			"_shasum": "e57c78342669c07ff3c3a570f65a49847f00ff80",
+			"_from": "output\\isomorphic-fetch",
+			"_resolved": "file:output\\isomorphic-fetch",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e57c78342669c07ff3c3a570f65a49847f00ff80",
+				"size": 1877,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.20-alpha.tgz_1463773833012_0.8256964152678847"
+			},
+			"directories": {},
+			"publish_time": 1463773833446,
+			"_cnpm_publish_time": 1463773833446,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for isomorphic-fetch from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Todd Lucas",
+				"email": "https://github.com/toddlucas"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/isomorphic-fetch@0.0.15-alpha",
+			"_shasum": "e091f3bfcf20c68f9dd252a6fad77c23d266ea37",
+			"_from": "output\\isomorphic-fetch",
+			"_resolved": "file:output\\isomorphic-fetch",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e091f3bfcf20c68f9dd252a6fad77c23d266ea37",
+				"size": 1884,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.15-alpha.tgz_1463692502835_0.22644734662026167"
+			},
+			"directories": {},
+			"publish_time": 1463692503526,
+			"_cnpm_publish_time": 1463692503526,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/isomorphic-fetch",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for isomorphic-fetch from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Todd Lucas",
+				"email": "https://github.com/toddlucas"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/isomorphic-fetch@0.0.14-alpha",
+			"_shasum": "6cdcaaf317c6c7a0661191101a94909bb37dcc2d",
+			"_from": "output\\isomorphic-fetch",
+			"_resolved": "file:output\\isomorphic-fetch",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6cdcaaf317c6c7a0661191101a94909bb37dcc2d",
+				"size": 1875,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/isomorphic-fetch-0.0.14-alpha.tgz_1463462062062_0.3397988979704678"
+			},
+			"directories": {},
+			"publish_time": 1463462062618,
+			"_cnpm_publish_time": 1463462062618,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.34",
+		"ts2.0": "0.0.33",
+		"ts2.1": "0.0.33",
+		"ts2.2": "0.0.34",
+		"ts2.3": "0.0.34",
+		"ts2.4": "0.0.34",
+		"ts2.5": "0.0.34",
+		"ts2.6": "0.0.34",
+		"ts2.7": "0.0.34",
+		"ts2.8": "0.0.34",
+		"ts2.9": "0.0.34",
+		"ts3.0": "0.0.34",
+		"ts3.1": "0.0.34",
+		"ts3.2": "0.0.34"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:06.000Z",
+		"created": "2016-05-17T05:14:22.618Z",
+		"0.0.34": "2017-04-26T17:34:35.402Z",
+		"0.0.33": "2017-02-23T18:40:02.273Z",
+		"0.0.32": "2017-01-20T04:54:42.976Z",
+		"0.0.31": "2016-09-19T17:42:22.824Z",
+		"0.0.30": "2016-08-25T18:45:32.024Z",
+		"0.0.29": "2016-08-19T15:29:04.873Z",
+		"0.0.28": "2016-08-02T15:55:25.418Z",
+		"0.0.27": "2016-07-14T14:57:11.830Z",
+		"0.0.26-alpha": "2016-07-08T20:29:57.091Z",
+		"0.0.25-alpha": "2016-07-04T00:29:15.227Z",
+		"0.0.24-alpha": "2016-07-02T02:43:34.630Z",
+		"0.0.23-alpha": "2016-07-01T23:07:26.027Z",
+		"0.0.22-alpha": "2016-07-01T19:46:38.509Z",
+		"0.0.21-alpha": "2016-05-25T05:09:05.499Z",
+		"0.0.20-alpha": "2016-05-20T19:50:33.446Z",
+		"0.0.15-alpha": "2016-05-19T21:15:03.526Z",
+		"0.0.14-alpha": "2016-05-17T05:14:22.618Z"
+	},
+	"_distfiles": {
+		"isomorphic-fetch-0.0.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.34.tgz",
+			"sha": "3c3483e606c041378438e951464f00e4e60706d6",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.33.tgz",
+			"sha": "3ea1b86f8b73e6a7430d01d4dbd5b1f63fd72718",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.32.tgz",
+			"sha": "d76f29302aabb38d5caa39b54a96984ffb6bdba3",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.31.tgz",
+			"sha": "ec120166ce22f0b134e8770f40c97cd076068fae",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.30.tgz",
+			"sha": "a21717624cde9a48c2db53a4e500fc5c32a99bbc",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.29.tgz",
+			"sha": "8be8c6c37ad8183462834a4ce7ed71afb1f39b51",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.28.tgz",
+			"sha": "67ac9116a09f2956b248bb8d7b70348d8b986516",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.27.tgz",
+			"sha": "9966d0660953b5be6005dbb005f8ad7b84942106",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.26-alpha.tgz",
+			"sha": "207130bccdd7204e994ea3ee867b9e3850404532",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.25-alpha.tgz",
+			"sha": "63c916be60c1c0ee18817ff31bec334b61d4e6af",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.24-alpha.tgz",
+			"sha": "687e6d117aaf649ee948f5df0ffebd50e4189f84",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.23-alpha.tgz",
+			"sha": "9b6224187ffb64ab1141828d1172b075bbaf11fb",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.22-alpha.tgz",
+			"sha": "9ea4c364448fb767c53131f13e7f03b35b499957",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.21-alpha.tgz",
+			"sha": "b773f8578d50522426b3bdad4055e5f95b020a12",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.20-alpha.tgz",
+			"sha": "e57c78342669c07ff3c3a570f65a49847f00ff80",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.15-alpha.tgz",
+			"sha": "e091f3bfcf20c68f9dd252a6fad77c23d266ea37",
+			"registry": "cnpmjs"
+		},
+		"isomorphic-fetch-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/isomorphic-fetch/download/@types/isomorphic-fetch-0.0.14-alpha.tgz",
+			"sha": "6cdcaaf317c6c7a0661191101a94909bb37dcc2d",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833457434
+		}
+	},
+	"_rev": "2-06656d4b6d551416",
+	"readme": "# Installation\r\n> `npm install --save @types/isomorphic-fetch`\r\n\r\n# Summary\r\nThis package contains type definitions for isomorphic-fetch (https://github.com/matthew-andrews/isomorphic-fetch).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/isomorphic-fetch\r\n\r\nAdditional Details\r\n * Last updated: Wed, 26 Apr 2017 17:34:12 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Todd Lucas <https://github.com/toddlucas>."
+}

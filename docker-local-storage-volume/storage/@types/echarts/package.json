@@ -1,0 +1,871 @@
+{
+	"name": "@types/echarts",
+	"versions": {
+		"0.0.13": {
+			"name": "@types/echarts",
+			"version": "0.0.13",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xie Jingyang",
+					"url": "https://github.com/xieisabug",
+					"githubUsername": "xieisabug"
+				},
+				{
+					"name": "AntiMoron",
+					"url": "https://github.com/AntiMoron",
+					"githubUsername": "AntiMoron"
+				},
+				{
+					"name": "Liveangela",
+					"url": "https://github.com/liveangela",
+					"githubUsername": "liveangela"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d86384bc385086b82c62dafac84e178e079fc9ddb56d1d5f884d3cec256c7bed",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/echarts@0.0.13",
+			"dist": {
+				"shasum": "e19aed81537c3e68b9ed94300321572e7bed4edd",
+				"size": 3254,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.13.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/echarts_0.0.13_1527020883420_0.25170984744003855"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527020883564,
+			"_cnpm_publish_time": 1527020883564
+		},
+		"0.0.12": {
+			"name": "@types/echarts",
+			"version": "0.0.12",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xie Jingyang",
+					"url": "https://github.com/xieisabug",
+					"githubUsername": "xieisabug"
+				},
+				{
+					"name": "AntiMoron",
+					"url": "https://github.com/AntiMoron",
+					"githubUsername": "AntiMoron"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "12ebabad63211670cb80eca9ee7624a9afda4614d752b02e6e626cabc9e7a212",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/echarts@0.0.12",
+			"dist": {
+				"shasum": "68f1bf9270017036b88106da174b826620b05228",
+				"size": 3047,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.12.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/echarts_0.0.12_1518299253574_0.1922048918124306"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518299253628,
+			"_cnpm_publish_time": 1518299253628
+		},
+		"0.0.11": {
+			"name": "@types/echarts",
+			"version": "0.0.11",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xie Jingyang",
+					"url": "https://github.com/xieisabug",
+					"githubUsername": "xieisabug"
+				},
+				{
+					"name": "AntiMoron",
+					"url": "https://github.com/AntiMoron",
+					"githubUsername": "AntiMoron"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "60944370204fc6dc9850a010a7b5f7a189f60fa84503ab56c960d9592aa44801",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/echarts@0.0.11",
+			"dist": {
+				"shasum": "477412d3433d1462ce5e7083c5a77675bff67d79",
+				"size": 3051,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.11.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/echarts-0.0.11.tgz_1517342494385_0.20501855947077274"
+			},
+			"directories": {},
+			"publish_time": 1517342494500,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1517342494500
+		},
+		"0.0.10": {
+			"name": "@types/echarts",
+			"version": "0.0.10",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xie Jingyang",
+					"url": "https://github.com/xieisabug",
+					"githubUsername": "xieisabug"
+				},
+				{
+					"name": "AntiMoron",
+					"url": "https://github.com/AntiMoron",
+					"githubUsername": "AntiMoron"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "f18ee9b33920a087c72a33de18b92f576085fff1766a845fcc0d6dead1645cef",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/echarts@0.0.10",
+			"dist": {
+				"shasum": "d3e2c97bd84cb9006da319c1b64c07a81e91a2f1",
+				"size": 2861,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/echarts-0.0.10.tgz_1516903196807_0.43722905311733484"
+			},
+			"directories": {},
+			"publish_time": 1516903196868,
+			"_cnpm_publish_time": 1516903196868,
+			"_hasShrinkwrap": false
+		},
+		"0.0.9": {
+			"name": "@types/echarts",
+			"version": "0.0.9",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xie Jingyang",
+					"url": "https://github.com/xieisabug",
+					"githubUsername": "xieisabug"
+				},
+				{
+					"name": "AntiMoron",
+					"url": "https://github.com/AntiMoron",
+					"githubUsername": "AntiMoron"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "048cf873ca1a484cd92ef17b75b0ddeabf62a35795d19d5e5ab76e6890647f19",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/echarts@0.0.9",
+			"dist": {
+				"shasum": "7930c1d3d096868d6acaa41255b25b120a5fa00e",
+				"size": 2853,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/echarts-0.0.9.tgz_1510619460827_0.7772356236819178"
+			},
+			"directories": {},
+			"publish_time": 1510619460996,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510619460996
+		},
+		"0.0.8": {
+			"name": "@types/echarts",
+			"version": "0.0.8",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xie Jingyang",
+					"url": "https://github.com/xieisabug",
+					"githubUsername": "xieisabug"
+				},
+				{
+					"name": "AntiMoron",
+					"url": "https://github.com/AntiMoron",
+					"githubUsername": "AntiMoron"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e7003d07f440e4a9991d47596dba384e2ff54e0c27c458b91d2fd58385c362d6",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/echarts@0.0.8",
+			"dist": {
+				"shasum": "f2d876b37b1dfd87e53031f6a2784833bfcec2cc",
+				"size": 2762,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/echarts-0.0.8.tgz_1506355814813_0.18236788222566247"
+			},
+			"directories": {},
+			"publish_time": 1506355814986,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506355814986
+		},
+		"0.0.7": {
+			"name": "@types/echarts",
+			"version": "0.0.7",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xie Jingyang",
+					"url": "https://github.com/xieisabug"
+				},
+				{
+					"name": "AntiMoron",
+					"url": "https://github.com/AntiMoron"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "05b21e94df257ef1dc2ee3ae801714cc06c419343534fc555d012a5df4b82f85",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/echarts@0.0.7",
+			"dist": {
+				"shasum": "d8bc5e7164d70754892135f7e3cb3027a5939c53",
+				"size": 2750,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/echarts-0.0.7.tgz_1502820701612_0.9891943265683949"
+			},
+			"directories": {},
+			"publish_time": 1502820701688,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502820701688
+		},
+		"0.0.6": {
+			"name": "@types/echarts",
+			"version": "0.0.6",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xie Jingyang",
+					"url": "https://github.com/xieisabug"
+				},
+				{
+					"name": "AntiMoron",
+					"url": "https://github.com/AntiMoron"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "304c42718214d795564ff040f608abc0d2ce931d56464bfc52c46baa7cc04cb2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/echarts@0.0.6",
+			"dist": {
+				"shasum": "7bb823eb24f65361c7f1e3dc46c7f276bc9e3172",
+				"size": 2636,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/echarts-0.0.6.tgz_1492527995507_0.9189841391053051"
+			},
+			"directories": {},
+			"publish_time": 1492527996328,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492527996328
+		},
+		"0.0.5": {
+			"name": "@types/echarts",
+			"version": "0.0.5",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"author": "Xie Jingyang <https://github.com/xieisabug>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "defa5b3cfd5d5c0cafa17eecbc1898a8413f1171c82721fcd5f38d9f8ccb7056",
+			"_id": "@types/echarts@0.0.5",
+			"dist": {
+				"shasum": "4ad1752c3f673904a14f111670cf4de7cb67475a",
+				"size": 1961,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/echarts-0.0.5.tgz_1475700996006_0.016398165142163634"
+			},
+			"directories": {},
+			"publish_time": 1475700996243,
+			"_cnpm_publish_time": 1475700996243,
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "@types/echarts",
+			"version": "0.0.4",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"author": "Xie Jingyang <https://github.com/xieisabug>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "echarts.d.ts",
+			"typesPublisherContentHash": "46218e305ff32876de1f9b3fe7682313cb9660a6d3acc6f0f158144914fa5c24",
+			"_id": "@types/echarts@0.0.4",
+			"dist": {
+				"shasum": "4056a76895cd519e0d8e5f080bc78a962a4dd7af",
+				"size": 1954,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/echarts-0.0.4.tgz_1474303514067_0.6469924806151539"
+			},
+			"directories": {},
+			"publish_time": 1474303515784,
+			"_cnpm_publish_time": 1474303515784,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/echarts",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"author": "Xie Jingyang <https://github.com/xieisabug>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "echarts.d.ts",
+			"_id": "@types/echarts@0.0.3",
+			"dist": {
+				"shasum": "d6b0f486ca1ddf6611afed300fcb48ab295dfa3a",
+				"size": 1941,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/echarts-0.0.3.tgz_1472150440985_0.7811194525565952"
+			},
+			"directories": {},
+			"publish_time": 1472150441553,
+			"_cnpm_publish_time": 1472150441553,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/echarts",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"author": "Xie Jingyang <https://github.com/xieisabug>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "echarts.d.ts",
+			"_id": "@types/echarts@0.0.2",
+			"dist": {
+				"shasum": "180ee55802536120858d1b7dab1d80a07ce5e521",
+				"size": 1941,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/echarts-0.0.2.tgz_1471620253606_0.9046332482248545"
+			},
+			"directories": {},
+			"publish_time": 1471620254800,
+			"_cnpm_publish_time": 1471620254800,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/echarts",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"author": "Xie Jingyang <https://github.com/xieisabug>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "echarts.d.ts",
+			"_id": "@types/echarts@0.0.1",
+			"dist": {
+				"shasum": "9478b0806cc55486dd8fa983ef3d94f0b031a77a",
+				"size": 9728,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/echarts-0.0.1.tgz_1470153088209_0.008945150999352336"
+			},
+			"directories": {},
+			"publish_time": 1470153089146,
+			"_cnpm_publish_time": 1470153089146,
+			"_hasShrinkwrap": false
+		},
+		"4.1.1": {
+			"name": "@types/echarts",
+			"version": "4.1.1",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xie Jingyang",
+					"url": "https://github.com/xieisabug",
+					"githubUsername": "xieisabug"
+				},
+				{
+					"name": "AntiMoron",
+					"url": "https://github.com/AntiMoron",
+					"githubUsername": "AntiMoron"
+				},
+				{
+					"name": "Liveangela",
+					"url": "https://github.com/liveangela",
+					"githubUsername": "liveangela"
+				},
+				{
+					"name": "Ovilia",
+					"url": "https://github.com/Ovilia",
+					"githubUsername": "Ovilia"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "01ae18914fa5e1dc9a3a90e13b46542ccaf367923deaa2c638d811c8e192ace8",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/echarts@4.1.1",
+			"dist": {
+				"shasum": "7ef6bcfc546034b9ec781683e848238cd1936d6d",
+				"size": 6376,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-4.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/echarts_4.1.1_1535045094722_0.9125670816779134"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535045094795,
+			"_cnpm_publish_time": 1535045094795
+		},
+		"4.1.0": {
+			"name": "@types/echarts",
+			"version": "4.1.0",
+			"description": "TypeScript definitions for echarts",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Xie Jingyang",
+					"url": "https://github.com/xieisabug",
+					"githubUsername": "xieisabug"
+				},
+				{
+					"name": "AntiMoron",
+					"url": "https://github.com/AntiMoron",
+					"githubUsername": "AntiMoron"
+				},
+				{
+					"name": "Liveangela",
+					"url": "https://github.com/liveangela",
+					"githubUsername": "liveangela"
+				},
+				{
+					"name": "Ovilia",
+					"url": "https://github.com/Ovilia",
+					"githubUsername": "Ovilia"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "1b579d24fe7c54121a8f160d673e47628ccb63e257f21a22c096d142f7cbd419",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/echarts@4.1.0",
+			"dist": {
+				"shasum": "2539347c15d4c7106889fe677b5aa7077ea92962",
+				"size": 6376,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/echarts/download/@types/echarts-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/echarts_4.1.0_1534365764092_0.21370679803454085"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1534365764171,
+			"_cnpm_publish_time": 1534365764171
+		}
+	},
+	"dist-tags": {
+		"latest": "4.1.1",
+		"ts2.0": "0.0.10",
+		"ts2.1": "0.0.10",
+		"ts2.2": "0.0.10",
+		"ts2.3": "4.1.1",
+		"ts2.4": "4.1.1",
+		"ts2.5": "4.1.1",
+		"ts2.6": "4.1.1",
+		"ts2.7": "4.1.1",
+		"ts2.8": "4.1.1",
+		"ts2.9": "4.1.1",
+		"ts3.0": "4.1.1",
+		"ts3.1": "4.1.1",
+		"ts3.2": "4.1.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:10:18.000Z",
+		"created": "2016-08-02T15:51:29.146Z",
+		"4.1.1": "2018-08-23T17:24:54.795Z",
+		"4.1.0": "2018-08-15T20:42:44.171Z",
+		"0.0.13": "2018-05-22T20:28:03.564Z",
+		"0.0.12": "2018-02-10T21:47:33.628Z",
+		"0.0.11": "2018-01-30T20:01:34.500Z",
+		"0.0.10": "2018-01-25T17:59:56.868Z",
+		"0.0.9": "2017-11-14T00:31:00.996Z",
+		"0.0.8": "2017-09-25T16:10:14.986Z",
+		"0.0.7": "2017-08-15T18:11:41.688Z",
+		"0.0.6": "2017-04-18T15:06:36.328Z",
+		"0.0.5": "2016-10-05T20:56:36.243Z",
+		"0.0.4": "2016-09-19T16:45:15.784Z",
+		"0.0.3": "2016-08-25T18:40:41.553Z",
+		"0.0.2": "2016-08-19T15:24:14.800Z",
+		"0.0.1": "2016-08-02T15:51:29.146Z"
+	},
+	"_distfiles": {
+		"echarts-0.0.13.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.13.tgz",
+			"sha": "e19aed81537c3e68b9ed94300321572e7bed4edd",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.12.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.12.tgz",
+			"sha": "68f1bf9270017036b88106da174b826620b05228",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.11.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.11.tgz",
+			"sha": "477412d3433d1462ce5e7083c5a77675bff67d79",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.10.tgz",
+			"sha": "d3e2c97bd84cb9006da319c1b64c07a81e91a2f1",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.9.tgz",
+			"sha": "7930c1d3d096868d6acaa41255b25b120a5fa00e",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.8.tgz",
+			"sha": "f2d876b37b1dfd87e53031f6a2784833bfcec2cc",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.7.tgz",
+			"sha": "d8bc5e7164d70754892135f7e3cb3027a5939c53",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.6.tgz",
+			"sha": "7bb823eb24f65361c7f1e3dc46c7f276bc9e3172",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.5.tgz",
+			"sha": "4ad1752c3f673904a14f111670cf4de7cb67475a",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.4.tgz",
+			"sha": "4056a76895cd519e0d8e5f080bc78a962a4dd7af",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.3.tgz",
+			"sha": "d6b0f486ca1ddf6611afed300fcb48ab295dfa3a",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.2.tgz",
+			"sha": "180ee55802536120858d1b7dab1d80a07ce5e521",
+			"registry": "cnpmjs"
+		},
+		"echarts-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-0.0.1.tgz",
+			"sha": "9478b0806cc55486dd8fa983ef3d94f0b031a77a",
+			"registry": "cnpmjs"
+		},
+		"echarts-4.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-4.1.1.tgz",
+			"sha": "7ef6bcfc546034b9ec781683e848238cd1936d6d",
+			"registry": "cnpmjs"
+		},
+		"echarts-4.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/echarts/download/@types/echarts-4.1.0.tgz",
+			"sha": "2539347c15d4c7106889fe677b5aa7077ea92962",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541835897153
+		}
+	},
+	"_rev": "2-0bf2abf14017a3b9",
+	"readme": "# Installation\r\n> `npm install --save @types/echarts`\r\n\r\n# Summary\r\nThis package contains type definitions for echarts (http://echarts.baidu.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/echarts\r\n\r\nAdditional Details\r\n * Last updated: Thu, 23 Aug 2018 17:24:04 GMT\r\n * Dependencies: none\r\n * Global values: echarts\r\n\r\n# Credits\r\nThese definitions were written by Xie Jingyang <https://github.com/xieisabug>, AntiMoron <https://github.com/AntiMoron>, Liveangela <https://github.com/liveangela>, Ovilia <https://github.com/Ovilia>."
+}

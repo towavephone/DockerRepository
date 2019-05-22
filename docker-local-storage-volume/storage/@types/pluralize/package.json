@@ -1,0 +1,717 @@
+{
+	"name": "@types/pluralize",
+	"versions": {
+		"0.0.28": {
+			"name": "@types/pluralize",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for pluralize",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Syu Kato",
+					"url": "https://github.com/ukyo",
+					"githubUsername": "ukyo"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "53b6cbc40109b0baef199f3edf2665ef85f1d79598f526e5285bd510c6b0032a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/pluralize@0.0.28",
+			"dist": {
+				"shasum": "daf46f90fdaa6172600bfeac81e46065177f03ea",
+				"size": 1809,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/pluralize-0.0.28.tgz_1508357383483_0.6248348234221339"
+			},
+			"directories": {},
+			"publish_time": 1508357383559,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508357383559
+		},
+		"0.0.27": {
+			"name": "@types/pluralize",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for pluralize",
+			"license": "MIT",
+			"author": "Syu Kato <https://github.com/ukyo>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "34e3ca4337dcdc581b8d4b31d493895d8c18a0025a82fc984192efb7511f65ad",
+			"_id": "@types/pluralize@0.0.27",
+			"dist": {
+				"shasum": "087354a791ce027db1101ff399db6111fc9275f7",
+				"size": 1266,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.27.tgz_1474308071900_0.2485414119437337"
+			},
+			"directories": {},
+			"publish_time": 1474308072178,
+			"_cnpm_publish_time": 1474308072178,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26": {
+			"name": "@types/pluralize",
+			"version": "0.0.26",
+			"description": "TypeScript definitions for pluralize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Syu Kato",
+				"email": "https://github.com/ukyo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pluralize@0.0.26",
+			"_shasum": "813fbc95be37918cb24c68b0eafc091224c6a206",
+			"_from": "output\\pluralize",
+			"_resolved": "file:output\\pluralize",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "813fbc95be37918cb24c68b0eafc091224c6a206",
+				"size": 1246,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.26.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.26.tgz_1468511056827_0.4479274619370699"
+			},
+			"directories": {},
+			"publish_time": 1468511058827,
+			"_cnpm_publish_time": 1468511058827,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/pluralize",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for pluralize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Syu Kato",
+				"email": "https://github.com/ukyo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pluralize@0.0.25-alpha",
+			"_shasum": "57f5df747aa4a1188b12c75e09bff8328b8f8093",
+			"_from": "output\\pluralize",
+			"_resolved": "file:output\\pluralize",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "57f5df747aa4a1188b12c75e09bff8328b8f8093",
+				"size": 1250,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.25-alpha.tgz_1468012163727_0.43033073702827096"
+			},
+			"directories": {},
+			"publish_time": 1468012165106,
+			"_cnpm_publish_time": 1468012165106,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/pluralize",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for pluralize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Syu Kato",
+				"email": "https://github.com/ukyo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pluralize@0.0.24-alpha",
+			"_shasum": "8f0e55ae5937e0e469a29c23cfb5b0ce7fecff22",
+			"_from": "output\\pluralize",
+			"_resolved": "file:output\\pluralize",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8f0e55ae5937e0e469a29c23cfb5b0ce7fecff22",
+				"size": 1250,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.24-alpha.tgz_1467594211694_0.4107715089339763"
+			},
+			"directories": {},
+			"publish_time": 1467594212343,
+			"_cnpm_publish_time": 1467594212343,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/pluralize",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for pluralize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Syu Kato",
+				"email": "https://github.com/ukyo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pluralize@0.0.23-alpha",
+			"_shasum": "2005b313b082f54bd9d978eeec0fd6e017dc5a66",
+			"_from": "output\\pluralize",
+			"_resolved": "file:output\\pluralize",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2005b313b082f54bd9d978eeec0fd6e017dc5a66",
+				"size": 1250,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.23-alpha.tgz_1467429048492_0.4113582894206047"
+			},
+			"directories": {},
+			"publish_time": 1467429049082,
+			"_cnpm_publish_time": 1467429049082,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/pluralize",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for pluralize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Syu Kato",
+				"email": "https://github.com/ukyo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pluralize@0.0.22-alpha",
+			"_shasum": "ef39b25986a05c3e264cca347c1d49d5f1faea19",
+			"_from": "output\\pluralize",
+			"_resolved": "file:output\\pluralize",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ef39b25986a05c3e264cca347c1d49d5f1faea19",
+				"size": 1251,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.22-alpha.tgz_1467416702170_0.8267549641896039"
+			},
+			"directories": {},
+			"publish_time": 1467416704235,
+			"_cnpm_publish_time": 1467416704235,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/pluralize",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for pluralize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Syu Kato",
+				"email": "https://github.com/ukyo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pluralize@0.0.21-alpha",
+			"_shasum": "3bff109293c33cf4b8879f86e3b7498aba2fb74b",
+			"_from": "output\\pluralize",
+			"_resolved": "file:output\\pluralize",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3bff109293c33cf4b8879f86e3b7498aba2fb74b",
+				"size": 1246,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.21-alpha.tgz_1467404577809_0.48672617645934224"
+			},
+			"directories": {},
+			"publish_time": 1467404580318,
+			"_cnpm_publish_time": 1467404580318,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/pluralize",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for pluralize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Syu Kato",
+				"email": "https://github.com/ukyo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pluralize@0.0.20-alpha",
+			"_shasum": "5e59af9a1e053a83ae58d407e61574a0019ba11d",
+			"_from": "output\\pluralize",
+			"_resolved": "file:output\\pluralize",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5e59af9a1e053a83ae58d407e61574a0019ba11d",
+				"size": 1221,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.20-alpha.tgz_1464154932272_0.13647985202260315"
+			},
+			"directories": {},
+			"publish_time": 1464154932707,
+			"_cnpm_publish_time": 1464154932707,
+			"_hasShrinkwrap": false
+		},
+		"0.0.19-alpha": {
+			"name": "@types/pluralize",
+			"version": "0.0.19-alpha",
+			"description": "TypeScript definitions for pluralize",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Syu Kato",
+				"email": "https://github.com/ukyo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pluralize@0.0.19-alpha",
+			"_shasum": "3ee67a45730e4f1ff64fcdcb6a229d079fbce37e",
+			"_from": "output\\pluralize",
+			"_resolved": "file:output\\pluralize",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3ee67a45730e4f1ff64fcdcb6a229d079fbce37e",
+				"size": 1222,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.19-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.19-alpha.tgz_1463775976577_0.38450593361631036"
+			},
+			"directories": {},
+			"publish_time": 1463775976974,
+			"_cnpm_publish_time": 1463775976974,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/pluralize",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for pluralize from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Syu Kato",
+				"email": "https://github.com/ukyo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pluralize@0.0.14-alpha",
+			"_shasum": "b19f9672b685e69b394f35b4fdae8b3fda34f7e2",
+			"_from": "output\\pluralize",
+			"_resolved": "file:output\\pluralize",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b19f9672b685e69b394f35b4fdae8b3fda34f7e2",
+				"size": 1229,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.14-alpha.tgz_1463695336495_0.11633509863168001"
+			},
+			"directories": {},
+			"publish_time": 1463695340474,
+			"_cnpm_publish_time": 1463695340474,
+			"_hasShrinkwrap": false
+		},
+		"0.0.13-alpha": {
+			"name": "@types/pluralize",
+			"version": "0.0.13-alpha",
+			"description": "Type definitions for pluralize from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Syu Kato",
+				"email": "https://github.com/ukyo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pluralize@0.0.13-alpha",
+			"_shasum": "a35ee1f82db46ead72edf4f8cef710629f07824c",
+			"_from": "output\\pluralize",
+			"_resolved": "file:output\\pluralize",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a35ee1f82db46ead72edf4f8cef710629f07824c",
+				"size": 1221,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/pluralize-0.0.13-alpha.tgz_1463510276731_0.8389892273116857"
+			},
+			"directories": {},
+			"publish_time": 1463510280646,
+			"_cnpm_publish_time": 1463510280646,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/pluralize",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for pluralize",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Syu Kato",
+					"url": "https://github.com/ukyo",
+					"githubUsername": "ukyo"
+				},
+				{
+					"name": "Karol Majewski",
+					"url": "https://github.com/karol-majewski",
+					"githubUsername": "karol-majewski"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "8c5d391566a6347f8ef62994c9aed43b51edf7e07e578b99b0d4184457e85a46",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/pluralize@0.0.29",
+			"dist": {
+				"shasum": "6ffa33ed1fc8813c469b859681d09707eb40d03c",
+				"size": 1857,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/pluralize_0.0.29_1531530442347_0.4379194888109901"
+			},
+			"publish_time": 1531530442420,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1531530442420
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.29",
+		"ts2.0": "0.0.29",
+		"ts2.1": "0.0.29",
+		"ts2.2": "0.0.29",
+		"ts2.3": "0.0.29",
+		"ts2.4": "0.0.29",
+		"ts2.5": "0.0.29",
+		"ts2.6": "0.0.29",
+		"ts2.7": "0.0.29",
+		"ts2.8": "0.0.29",
+		"ts2.9": "0.0.29",
+		"ts3.0": "0.0.29",
+		"ts3.1": "0.0.29",
+		"ts3.2": "0.0.29"
+	},
+	"time": {
+		"modified": "2018-10-10T20:25:16.000Z",
+		"created": "2016-05-17T18:38:00.646Z",
+		"0.0.29": "2018-07-14T01:07:22.420Z",
+		"0.0.28": "2017-10-18T20:09:43.559Z",
+		"0.0.27": "2016-09-19T18:01:12.178Z",
+		"0.0.26": "2016-07-14T15:44:18.827Z",
+		"0.0.25-alpha": "2016-07-08T21:09:25.106Z",
+		"0.0.24-alpha": "2016-07-04T01:03:32.343Z",
+		"0.0.23-alpha": "2016-07-02T03:10:49.082Z",
+		"0.0.22-alpha": "2016-07-01T23:45:04.235Z",
+		"0.0.21-alpha": "2016-07-01T20:23:00.318Z",
+		"0.0.20-alpha": "2016-05-25T05:42:12.707Z",
+		"0.0.19-alpha": "2016-05-20T20:26:16.974Z",
+		"0.0.14-alpha": "2016-05-19T22:02:20.474Z",
+		"0.0.13-alpha": "2016-05-17T18:38:00.646Z"
+	},
+	"_distfiles": {
+		"pluralize-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.28.tgz",
+			"sha": "daf46f90fdaa6172600bfeac81e46065177f03ea",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.27.tgz",
+			"sha": "087354a791ce027db1101ff399db6111fc9275f7",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.26.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.26.tgz",
+			"sha": "813fbc95be37918cb24c68b0eafc091224c6a206",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.25-alpha.tgz",
+			"sha": "57f5df747aa4a1188b12c75e09bff8328b8f8093",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.24-alpha.tgz",
+			"sha": "8f0e55ae5937e0e469a29c23cfb5b0ce7fecff22",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.23-alpha.tgz",
+			"sha": "2005b313b082f54bd9d978eeec0fd6e017dc5a66",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.22-alpha.tgz",
+			"sha": "ef39b25986a05c3e264cca347c1d49d5f1faea19",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.21-alpha.tgz",
+			"sha": "3bff109293c33cf4b8879f86e3b7498aba2fb74b",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.20-alpha.tgz",
+			"sha": "5e59af9a1e053a83ae58d407e61574a0019ba11d",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.19-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.19-alpha.tgz",
+			"sha": "3ee67a45730e4f1ff64fcdcb6a229d079fbce37e",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.14-alpha.tgz",
+			"sha": "b19f9672b685e69b394f35b4fdae8b3fda34f7e2",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.13-alpha.tgz",
+			"sha": "a35ee1f82db46ead72edf4f8cef710629f07824c",
+			"registry": "cnpmjs"
+		},
+		"pluralize-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pluralize/download/@types/pluralize-0.0.29.tgz",
+			"sha": "6ffa33ed1fc8813c469b859681d09707eb40d03c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833487014
+		}
+	},
+	"_rev": "2-2b504bb95874ea93",
+	"readme": "# Installation\r\n> `npm install --save @types/pluralize`\r\n\r\n# Summary\r\nThis package contains type definitions for pluralize (https://www.npmjs.com/package/pluralize).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/pluralize\r\n\r\nAdditional Details\r\n * Last updated: Sat, 14 Jul 2018 01:02:01 GMT\r\n * Dependencies: none\r\n * Global values: pluralize\r\n\r\n# Credits\r\nThese definitions were written by Syu Kato <https://github.com/ukyo>, Karol Majewski <https://github.com/karol-majewski>."
+}

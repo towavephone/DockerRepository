@@ -1,0 +1,485 @@
+{
+	"name": "@types/enhanced-resolve",
+	"versions": {
+		"3.0.5": {
+			"name": "@types/enhanced-resolve",
+			"version": "3.0.5",
+			"description": "TypeScript definitions for enhanced-resolve",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "e-cloud",
+					"url": "https://github.com/e-cloud",
+					"githubUsername": "e-cloud"
+				},
+				{
+					"name": "Onigoetz",
+					"url": "https://github.com/onigoetz",
+					"githubUsername": "onigoetz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/tapable": "^0",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "6a8d305c6ef3fa7ea194cbf839caeb502dc4b7fffbd49489180de9cd1965b38e",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enhanced-resolve@3.0.5",
+			"dist": {
+				"shasum": "a4bc3c52f206c14a67852d1da9e56bcf9188c517",
+				"size": 5727,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enhanced-resolve_3.0.5_1520648377228_0.16417903463059824"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520648377337,
+			"_cnpm_publish_time": 1520648377337
+		},
+		"3.0.4": {
+			"name": "@types/enhanced-resolve",
+			"version": "3.0.4",
+			"description": "TypeScript definitions for enhanced-resolve",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "e-cloud",
+					"url": "https://github.com/e-cloud"
+				},
+				{
+					"name": "Onigoetz",
+					"url": "https://github.com/onigoetz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/tapable": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "f205c47c798a3bd9e7659ea56a77313f0d68c2b824b34e04faebf0f6f8c68284",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/enhanced-resolve@3.0.4",
+			"dist": {
+				"shasum": "d93cb91b0b14dbcba0f45948bed73db9456697c2",
+				"size": 5690,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enhanced-resolve-3.0.4.tgz_1503352280550_0.7668627398088574"
+			},
+			"directories": {},
+			"publish_time": 1503352280660,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352280660
+		},
+		"3.0.3": {
+			"name": "@types/enhanced-resolve",
+			"version": "3.0.3",
+			"description": "TypeScript definitions for enhanced-resolve",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "e-cloud",
+					"url": "https://github.com/e-cloud"
+				},
+				{
+					"name": "Onigoetz",
+					"url": "https://github.com/onigoetz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/tapable": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7ae407f2281f6aeec125ec3e0be5a4f494d89bcc0148d59a3bc1a5daa9722da6",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/enhanced-resolve@3.0.3",
+			"dist": {
+				"shasum": "f36b597a5f7efaf04f8dbc2551653a1009ee3230",
+				"size": 5704,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enhanced-resolve-3.0.3.tgz_1496853652851_0.39626376144587994"
+			},
+			"directories": {},
+			"publish_time": 1496853652951,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496853652951
+		},
+		"3.0.2": {
+			"name": "@types/enhanced-resolve",
+			"version": "3.0.2",
+			"description": "TypeScript definitions for enhanced-resolve",
+			"license": "MIT",
+			"author": "e-cloud <https://github.com/e-cloud>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/tapable": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "8e3e3fa7c3065dbcd36897d8cabed7cb21ab5ced8345b2abdef17689d64755dc",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/enhanced-resolve@3.0.2",
+			"dist": {
+				"shasum": "cae412921a0d2fe55733043c61b033e46f487269",
+				"size": 5497,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/enhanced-resolve-3.0.2.tgz_1484074410424_0.22298452001996338"
+			},
+			"directories": {},
+			"publish_time": 1484074412194,
+			"_cnpm_publish_time": 1484074412194,
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "@types/enhanced-resolve",
+			"version": "3.0.1",
+			"description": "TypeScript definitions for enhanced-resolve",
+			"license": "MIT",
+			"author": "e-cloud <https://github.com/e-cloud>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/tapable": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "45174c7b74bd8a355af3b46a4fdc0eff0e48f71fa187c09943372c8774d635fa",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/enhanced-resolve@3.0.1",
+			"dist": {
+				"shasum": "e864a49f1832c8113f564ab091a884104b97d207",
+				"size": 5526,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/enhanced-resolve-3.0.1.tgz_1483735291146_0.3805363913998008"
+			},
+			"directories": {},
+			"publish_time": 1483735293079,
+			"_cnpm_publish_time": 1483735293079,
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "@types/enhanced-resolve",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for enhanced-resolve",
+			"license": "MIT",
+			"author": "e-cloud <https://github.com/e-cloud>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/tapable": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "10fb58e9f507e7ef3a71d65a5e551026d4aa03ecef165e9745783987176a7029",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/enhanced-resolve@3.0.0",
+			"dist": {
+				"shasum": "795eb25a66a4a7c7582f5bae5c711f53ad0fefc9",
+				"size": 5393,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/enhanced-resolve-3.0.0.tgz_1482502544634_0.8983820811845362"
+			},
+			"directories": {},
+			"publish_time": 1482502546420,
+			"_cnpm_publish_time": 1482502546420,
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "@types/enhanced-resolve",
+			"version": "2.3.0",
+			"description": "TypeScript definitions for enhanced-resolve",
+			"license": "MIT",
+			"author": "e-cloud <https://github.com/e-cloud>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/tapable": "*",
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "022cea2f34b1f3ac0bd338f6f2a39877224746c3afe438116ff66c8ded1ab0b3",
+			"_id": "@types/enhanced-resolve@2.3.0",
+			"dist": {
+				"shasum": "f3bc4f43f7f2888217caef63721aaeea72cd40fa",
+				"size": 2923,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-2.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/enhanced-resolve-2.3.0.tgz_1480555126342_0.6932774947490543"
+			},
+			"directories": {},
+			"publish_time": 1480555128306,
+			"_cnpm_publish_time": 1480555128306,
+			"_hasShrinkwrap": false
+		},
+		"3.0.6": {
+			"name": "@types/enhanced-resolve",
+			"version": "3.0.6",
+			"description": "TypeScript definitions for enhanced-resolve",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "e-cloud",
+					"url": "https://github.com/e-cloud",
+					"githubUsername": "e-cloud"
+				},
+				{
+					"name": "Onigoetz",
+					"url": "https://github.com/onigoetz",
+					"githubUsername": "onigoetz"
+				},
+				{
+					"name": "John Reilly",
+					"url": "https://github.com/johnnyreilly",
+					"githubUsername": "johnnyreilly"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/tapable": "^0",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "68a9cdb69ab78d93cf506a602767103cec9109bfc8d88e5ed3e6bfa062e21152",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/enhanced-resolve@3.0.6",
+			"dist": {
+				"shasum": "a51eaa24f4458ed13fb42a7048c0b66f92e95a28",
+				"size": 5783,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/enhanced-resolve_3.0.6_1531530242976_0.6068193480757476"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1531530243046,
+			"_cnpm_publish_time": 1531530243046
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.6",
+		"ts2.0": "3.0.4",
+		"ts2.1": "3.0.4",
+		"ts2.2": "3.0.4",
+		"ts2.3": "3.0.6",
+		"ts2.4": "3.0.6",
+		"ts2.5": "3.0.6",
+		"ts2.6": "3.0.6",
+		"ts2.7": "3.0.6",
+		"ts2.8": "3.0.6",
+		"ts2.9": "3.0.6",
+		"ts3.0": "3.0.6",
+		"ts3.1": "3.0.6",
+		"ts3.2": "3.0.6"
+	},
+	"time": {
+		"modified": "2018-10-10T20:10:36.000Z",
+		"created": "2016-12-01T01:18:48.306Z",
+		"3.0.6": "2018-07-14T01:04:03.046Z",
+		"3.0.5": "2018-03-10T02:19:37.337Z",
+		"3.0.4": "2017-08-21T21:51:20.660Z",
+		"3.0.3": "2017-06-07T16:40:52.951Z",
+		"3.0.2": "2017-01-10T18:53:32.194Z",
+		"3.0.1": "2017-01-06T20:41:33.079Z",
+		"3.0.0": "2016-12-23T14:15:46.420Z",
+		"2.3.0": "2016-12-01T01:18:48.306Z"
+	},
+	"_distfiles": {
+		"enhanced-resolve-3.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.5.tgz",
+			"sha": "a4bc3c52f206c14a67852d1da9e56bcf9188c517",
+			"registry": "cnpmjs"
+		},
+		"enhanced-resolve-3.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.4.tgz",
+			"sha": "d93cb91b0b14dbcba0f45948bed73db9456697c2",
+			"registry": "cnpmjs"
+		},
+		"enhanced-resolve-3.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.3.tgz",
+			"sha": "f36b597a5f7efaf04f8dbc2551653a1009ee3230",
+			"registry": "cnpmjs"
+		},
+		"enhanced-resolve-3.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.2.tgz",
+			"sha": "cae412921a0d2fe55733043c61b033e46f487269",
+			"registry": "cnpmjs"
+		},
+		"enhanced-resolve-3.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.1.tgz",
+			"sha": "e864a49f1832c8113f564ab091a884104b97d207",
+			"registry": "cnpmjs"
+		},
+		"enhanced-resolve-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.0.tgz",
+			"sha": "795eb25a66a4a7c7582f5bae5c711f53ad0fefc9",
+			"registry": "cnpmjs"
+		},
+		"enhanced-resolve-2.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-2.3.0.tgz",
+			"sha": "f3bc4f43f7f2888217caef63721aaeea72cd40fa",
+			"registry": "cnpmjs"
+		},
+		"enhanced-resolve-3.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/enhanced-resolve/download/@types/enhanced-resolve-3.0.6.tgz",
+			"sha": "a51eaa24f4458ed13fb42a7048c0b66f92e95a28",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"2b1d-2LfNacEtn7OS99PGEpr8HQznfEk\"",
+			"fetched": 1541833454815
+		}
+	},
+	"_rev": "2-fe0076b4e589cc9b",
+	"readme": "# Installation\r\n> `npm install --save @types/enhanced-resolve`\r\n\r\n# Summary\r\nThis package contains type definitions for enhanced-resolve (https://github.com/webpack/enhanced-resolve.git).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/enhanced-resolve\r\n\r\nAdditional Details\r\n * Last updated: Sat, 14 Jul 2018 01:02:00 GMT\r\n * Dependencies: tapable, fs, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by e-cloud <https://github.com/e-cloud>, Onigoetz <https://github.com/onigoetz>, John Reilly <https://github.com/johnnyreilly>."
+}

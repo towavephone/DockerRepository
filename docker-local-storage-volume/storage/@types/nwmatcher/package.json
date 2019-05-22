@@ -1,0 +1,89 @@
+{
+	"name": "@types/nwmatcher",
+	"versions": {
+		"1.4.0": {
+			"name": "@types/nwmatcher",
+			"version": "1.4.0",
+			"description": "TypeScript definitions for nwmatcher",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Wouter van Heeswijk",
+					"url": "https://github.com/woutervh-",
+					"githubUsername": "woutervh-"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e61ada0cd1cf8d9736900c9b98026bd6009aa99229937d2e486422c797a88c30",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/nwmatcher@1.4.0",
+			"dist": {
+				"shasum": "426b248bd95e70c7c1527f21a425f2e8fa8fdd4a",
+				"size": 1725,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/nwmatcher/download/@types/nwmatcher-1.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/nwmatcher_1.4.0_1540236894756_0.3741948576645997"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1540236894905,
+			"_cnpm_publish_time": 1540236894905
+		}
+	},
+	"dist-tags": {
+		"latest": "1.4.0",
+		"ts2.0": "1.4.0",
+		"ts2.1": "1.4.0",
+		"ts2.2": "1.4.0",
+		"ts2.3": "1.4.0",
+		"ts2.4": "1.4.0",
+		"ts2.5": "1.4.0",
+		"ts2.6": "1.4.0",
+		"ts2.7": "1.4.0",
+		"ts2.8": "1.4.0",
+		"ts2.9": "1.4.0",
+		"ts3.0": "1.4.0",
+		"ts3.1": "1.4.0",
+		"ts3.2": "1.4.0"
+	},
+	"time": {
+		"modified": "2018-10-22T19:35:28.000Z",
+		"created": "2018-10-22T19:34:54.905Z",
+		"1.4.0": "2018-10-22T19:34:54.905Z"
+	},
+	"_distfiles": {
+		"nwmatcher-1.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/nwmatcher/download/@types/nwmatcher-1.4.0.tgz",
+			"sha": "426b248bd95e70c7c1527f21a425f2e8fa8fdd4a",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833486148
+		}
+	},
+	"_rev": "1-09a1825c646e7597",
+	"readme": "# Installation\r\n> `npm install --save @types/nwmatcher`\r\n\r\n# Summary\r\nThis package contains type definitions for nwmatcher (https://github.com/dperini/nwmatcher).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/nwmatcher\r\n\r\nAdditional Details\r\n * Last updated: Mon, 22 Oct 2018 19:29:32 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Wouter van Heeswijk <https://github.com/woutervh->."
+}

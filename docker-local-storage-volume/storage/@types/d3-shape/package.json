@@ -1,0 +1,1004 @@
+{
+	"name": "@types/d3-shape",
+	"versions": {
+		"1.2.5": {
+			"name": "@types/d3-shape",
+			"version": "1.2.5",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				}
+			],
+			"main": "",
+			"types": "index",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"typesPublisherContentHash": "d782589861f50fedefa9d5249be560925a7f5c7188a7e7461eb5fe1b10c78a6b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.2.5",
+			"dist": {
+				"shasum": "73483732731b3817286f60fb877afd72694feb35",
+				"size": 17499,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-shape_1.2.5_1541444022745_0.7757920145541735"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1541444022898,
+			"_cnpm_publish_time": 1541444022898
+		},
+		"1.2.4": {
+			"name": "@types/d3-shape",
+			"version": "1.2.4",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"typesPublisherContentHash": "2d1393513db77b0d3afadfdfcd7966ac2d8fadb907c91c7281caf1d01af3c291",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.2.4",
+			"dist": {
+				"shasum": "e65585f2254d83ae42c47af2e730dd9b97952996",
+				"size": 17462,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-shape_1.2.4_1534554488041_0.05201414633618118"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1534554488127,
+			"_cnpm_publish_time": 1534554488127
+		},
+		"1.2.3": {
+			"name": "@types/d3-shape",
+			"version": "1.2.3",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"typesPublisherContentHash": "dc9f94132b7ca02808c8790f94bb39877b217aaa691f32f1b0f7af64e0b20103",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.2.3",
+			"dist": {
+				"shasum": "cadc9f93a626db9190f306048a650df4ffa4e500",
+				"size": 17155,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-shape_1.2.3_1527117257349_0.36278974602712233"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527117257437,
+			"_cnpm_publish_time": 1527117257437
+		},
+		"1.2.2": {
+			"name": "@types/d3-shape",
+			"version": "1.2.2",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"typesPublisherContentHash": "f65bcd320774792893bf47a65643ef2a1a4325a5fc4f82c2a2a9c7c13a0bfa95",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.2.2",
+			"dist": {
+				"shasum": "f8dcdff7772a7ae37858bf04abd43848a78e590e",
+				"size": 17169,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-shape-1.2.2.tgz_1517511593998_0.3452444195281714"
+			},
+			"directories": {},
+			"publish_time": 1517511594064,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1517511594064
+		},
+		"1.2.1": {
+			"name": "@types/d3-shape",
+			"version": "1.2.1",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "764e6ce972c415b0fc929b83df2798158b6aeadb06858a557470ee8f2e444d4f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.2.1",
+			"dist": {
+				"shasum": "cac2d9f0122f173220c32c8c152dc42ee9349df2",
+				"size": 17128,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-shape-1.2.1.tgz_1500750264954_0.8943592894356698"
+			},
+			"directories": {},
+			"publish_time": 1500750265136,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500750265136
+		},
+		"1.2.0": {
+			"name": "@types/d3-shape",
+			"version": "1.2.0",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d74046b044cc6ec8e12f98d0f56d891e957305851bb00b542385bac62474c6ef",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.2.0",
+			"dist": {
+				"shasum": "520a12d3867e61d1fd49c75a8ffa7ce596cab43e",
+				"size": 17179,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-shape-1.2.0.tgz_1495209029442_0.5705231302417815"
+			},
+			"directories": {},
+			"publish_time": 1495209029544,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1495209029544
+		},
+		"1.1.0": {
+			"name": "@types/d3-shape",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5beb2e1d5fa0099462382a6fca0d4d37a6f033029d171e40c7d00b8e27bcf45f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.1.0",
+			"dist": {
+				"shasum": "ee64813f26c9078531428ec471f83a1a70737428",
+				"size": 16907,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-1.1.0.tgz_1494959122094_0.4179516155272722"
+			},
+			"directories": {},
+			"publish_time": 1494959124728,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1494959124728
+		},
+		"1.0.10": {
+			"name": "@types/d3-shape",
+			"version": "1.0.10",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "127f02121ad6bc7dd8322e19db1ebef9a313327592de13890ce3418ae12015c8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.0.10",
+			"dist": {
+				"shasum": "c487e26159d539e57caab82bcd49a6a483abc946",
+				"size": 14820,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-1.0.10.tgz_1490909465234_0.2775128479115665"
+			},
+			"directories": {},
+			"publish_time": 1490909465505,
+			"_cnpm_publish_time": 1490909465505,
+			"_hasShrinkwrap": false
+		},
+		"1.0.9": {
+			"name": "@types/d3-shape",
+			"version": "1.0.9",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "0c802868cb0384f565b403b63cf20151f5c7b931e1413223bfaa183ec62f2063",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.0.9",
+			"dist": {
+				"shasum": "a5f4756b8affaf66ee350a2067282e406cb2b5d6",
+				"size": 14807,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-1.0.9.tgz_1490370119086_0.22037191153503954"
+			},
+			"directories": {},
+			"publish_time": 1490370119323,
+			"_cnpm_publish_time": 1490370119323,
+			"_hasShrinkwrap": false
+		},
+		"1.0.8": {
+			"name": "@types/d3-shape",
+			"version": "1.0.8",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d30c246b83a07ee3f45edfb9b5048fc56971315160e897101b4587864297c062",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.0.8",
+			"dist": {
+				"shasum": "615097a54e1a9876c48e9ce84597e0fdbc9fb180",
+				"size": 15090,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-1.0.8.tgz_1487863411596_0.37708507804200053"
+			},
+			"directories": {},
+			"publish_time": 1487863411830,
+			"_cnpm_publish_time": 1487863411830,
+			"_hasShrinkwrap": false
+		},
+		"1.0.7": {
+			"name": "@types/d3-shape",
+			"version": "1.0.7",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "dedb0e09f9a684906511a5596fb77bd16dcf717d45ac77236433929e62bb94b5",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-shape@1.0.7",
+			"dist": {
+				"shasum": "55e70cfc86818bde435ce014f78b382e4d22f3e4",
+				"size": 15013,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-1.0.7.tgz_1484320265834_0.034859354607760906"
+			},
+			"directories": {},
+			"publish_time": 1484320267637,
+			"_cnpm_publish_time": 1484320267637,
+			"_hasShrinkwrap": false
+		},
+		"1.0.6": {
+			"name": "@types/d3-shape",
+			"version": "1.0.6",
+			"description": "TypeScript definitions for D3JS d3-shape module",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-path": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c1c9769ba0f2074d5926910bb71474978369989694d86cf8b04e2f7c0176f9e8",
+			"_id": "@types/d3-shape@1.0.6",
+			"dist": {
+				"shasum": "91c8a4024c0d9891fa1243c2db407fbd6702def9",
+				"size": 14984,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-1.0.6.tgz_1481123065609_0.047292702831327915"
+			},
+			"directories": {},
+			"publish_time": 1481123067638,
+			"_cnpm_publish_time": 1481123067638,
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "@types/d3-shape",
+			"version": "1.0.5",
+			"description": "TypeScript definitions for D3JS d3-shape module v1.0.3",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "334b5c8d44fc1461093a88ae95d981a286d8c5549c31557a5474ef7313d17d67",
+			"_id": "@types/d3-shape@1.0.5",
+			"dist": {
+				"shasum": "0bedcdfca7e2d00c0cabff6886483551772dbf38",
+				"size": 2890,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-1.0.5.tgz_1473706879903_0.9230344861280173"
+			},
+			"directories": {},
+			"publish_time": 1473706880125,
+			"_cnpm_publish_time": 1473706880125,
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "@types/d3-shape",
+			"version": "0.0.4",
+			"description": "TypeScript definitions for D3JS d3-shape module 1.0.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-shape@0.0.4",
+			"dist": {
+				"shasum": "b03ebdf43ccf488e32e142c43fc985ba62a1f50a",
+				"size": 2875,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-0.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-0.0.4.tgz_1472150350361_0.3106185991782695"
+			},
+			"directories": {},
+			"publish_time": 1472150352369,
+			"_cnpm_publish_time": 1472150352369,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/d3-shape",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for D3JS d3-shape module 1.0.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-shape@0.0.3",
+			"dist": {
+				"shasum": "1f21733c49f5a5fc9701c9a6bf25f3c8914a9442",
+				"size": 2866,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-0.0.3.tgz_1471888651908_0.456903456710279"
+			},
+			"directories": {},
+			"publish_time": 1471888655054,
+			"_cnpm_publish_time": 1471888655054,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/d3-shape",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for D3JS d3-shape module 1.0.0",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-shape@0.0.2",
+			"dist": {
+				"shasum": "347c15ea7b0b89e57ba99110126e9af2ab6369fb",
+				"size": 3027,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-0.0.2.tgz_1470921484099_0.18840312771499157"
+			},
+			"directories": {},
+			"publish_time": 1470921486447,
+			"_cnpm_publish_time": 1470921486447,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/d3-shape",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for D3JS d3-shape module 1.0.0",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-shape@0.0.1",
+			"dist": {
+				"shasum": "e6c29c7020e960d5689544009802c2c7f8a37984",
+				"size": 3025,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-shape-0.0.1.tgz_1470688556677_0.4193683092016727"
+			},
+			"directories": {},
+			"publish_time": 1470688556927,
+			"_cnpm_publish_time": 1470688556927,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.5",
+		"ts2.0": "1.2.5",
+		"ts2.1": "1.2.5",
+		"ts2.2": "1.2.5",
+		"ts2.3": "1.2.5",
+		"ts2.4": "1.2.5",
+		"ts2.5": "1.2.5",
+		"ts2.6": "1.2.5",
+		"ts2.7": "1.2.5",
+		"ts2.8": "1.2.5",
+		"ts2.9": "1.2.5",
+		"ts3.0": "1.2.5",
+		"ts3.1": "1.2.5",
+		"ts3.2": "1.2.5"
+	},
+	"time": {
+		"modified": "2018-11-05T18:53:59.000Z",
+		"created": "2016-08-08T20:35:56.927Z",
+		"1.2.5": "2018-11-05T18:53:42.898Z",
+		"1.2.4": "2018-08-18T01:08:08.127Z",
+		"1.2.3": "2018-05-23T23:14:17.437Z",
+		"1.2.2": "2018-02-01T18:59:54.064Z",
+		"1.2.1": "2017-07-22T19:04:25.136Z",
+		"1.2.0": "2017-05-19T15:50:29.544Z",
+		"1.1.0": "2017-05-16T18:25:24.728Z",
+		"1.0.10": "2017-03-30T21:31:05.505Z",
+		"1.0.9": "2017-03-24T15:41:59.323Z",
+		"1.0.8": "2017-02-23T15:23:31.830Z",
+		"1.0.7": "2017-01-13T15:11:07.637Z",
+		"1.0.6": "2016-12-07T15:04:27.638Z",
+		"1.0.5": "2016-09-12T19:01:20.125Z",
+		"0.0.4": "2016-08-25T18:39:12.369Z",
+		"0.0.3": "2016-08-22T17:57:35.054Z",
+		"0.0.2": "2016-08-11T13:18:06.447Z",
+		"0.0.1": "2016-08-08T20:35:56.927Z"
+	},
+	"_distfiles": {
+		"d3-shape-1.2.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.5.tgz",
+			"sha": "73483732731b3817286f60fb877afd72694feb35",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.4.tgz",
+			"sha": "e65585f2254d83ae42c47af2e730dd9b97952996",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.3.tgz",
+			"sha": "cadc9f93a626db9190f306048a650df4ffa4e500",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.2.tgz",
+			"sha": "f8dcdff7772a7ae37858bf04abd43848a78e590e",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.1.tgz",
+			"sha": "cac2d9f0122f173220c32c8c152dc42ee9349df2",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.2.0.tgz",
+			"sha": "520a12d3867e61d1fd49c75a8ffa7ce596cab43e",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.1.0.tgz",
+			"sha": "ee64813f26c9078531428ec471f83a1a70737428",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.0.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.10.tgz",
+			"sha": "c487e26159d539e57caab82bcd49a6a483abc946",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.0.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.9.tgz",
+			"sha": "a5f4756b8affaf66ee350a2067282e406cb2b5d6",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.8.tgz",
+			"sha": "615097a54e1a9876c48e9ce84597e0fdbc9fb180",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.7.tgz",
+			"sha": "55e70cfc86818bde435ce014f78b382e4d22f3e4",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.6.tgz",
+			"sha": "91c8a4024c0d9891fa1243c2db407fbd6702def9",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-1.0.5.tgz",
+			"sha": "0bedcdfca7e2d00c0cabff6886483551772dbf38",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-0.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-0.0.4.tgz",
+			"sha": "b03ebdf43ccf488e32e142c43fc985ba62a1f50a",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-0.0.3.tgz",
+			"sha": "1f21733c49f5a5fc9701c9a6bf25f3c8914a9442",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-0.0.2.tgz",
+			"sha": "347c15ea7b0b89e57ba99110126e9af2ab6369fb",
+			"registry": "cnpmjs"
+		},
+		"d3-shape-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-shape/download/@types/d3-shape-0.0.1.tgz",
+			"sha": "e6c29c7020e960d5689544009802c2c7f8a37984",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833453947
+		}
+	},
+	"_rev": "1-afe7cfc92810cf79",
+	"readme": "# Installation\r\n> `npm install --save @types/d3-shape`\r\n\r\n# Summary\r\nThis package contains type definitions for D3JS d3-shape module (https://github.com/d3/d3-shape/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/d3-shape\r\n\r\nAdditional Details\r\n * Last updated: Mon, 05 Nov 2018 18:53:25 GMT\r\n * Dependencies: d3-path\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>."
+}

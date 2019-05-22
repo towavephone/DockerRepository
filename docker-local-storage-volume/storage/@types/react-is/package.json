@@ -1,0 +1,199 @@
+{
+	"name": "@types/react-is",
+	"versions": {
+		"16.5.0": {
+			"name": "@types/react-is",
+			"version": "16.5.0",
+			"description": "TypeScript definitions for react-is",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Avi Vahl",
+					"url": "https://github.com/AviVahl",
+					"githubUsername": "AviVahl"
+				},
+				{
+					"name": "Christian Chown",
+					"url": "https://github.com/christianchown",
+					"githubUsername": "christianchown"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "48e79cdcd943c8108f70395e9c39d1e0aa3dcbd06412ef12d5cd1a23c3dd0cca",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-is@16.5.0",
+			"dist": {
+				"shasum": "6b0dd43e60fa7c82b48faf7b487543079a61015a",
+				"size": 1725,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-is/download/@types/react-is-16.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-is_16.5.0_1537829486546_0.19991765695876973"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1537829486683,
+			"_cnpm_publish_time": 1537829486683
+		},
+		"16.3.1": {
+			"name": "@types/react-is",
+			"version": "16.3.1",
+			"description": "TypeScript definitions for react-is",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Avi Vahl",
+					"url": "https://github.com/AviVahl",
+					"githubUsername": "AviVahl"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "6ffb4526d12fddf32a657608a59f525b7ad120bc23872730f4f013b24f90afab",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-is@16.3.1",
+			"dist": {
+				"shasum": "f3e1dee9d0eb58c049825540cb061b5588022a9e",
+				"size": 1646,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-is/download/@types/react-is-16.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-is_16.3.1_1533346964954_0.2538392454502678"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533346965074,
+			"_cnpm_publish_time": 1533346965074
+		},
+		"16.3.0": {
+			"name": "@types/react-is",
+			"version": "16.3.0",
+			"description": "TypeScript definitions for react-is",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Avi Vahl",
+					"url": "https://github.com/AviVahl",
+					"githubUsername": "AviVahl"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "409a0610234a442c4e47be38b79c07247328a4549dc466075198368f8ba82a2d",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-is@16.3.0",
+			"dist": {
+				"shasum": "e916ae48b7cc051056f3437dc7fa96e8bfbe6bc2",
+				"size": 1649,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-is/download/@types/react-is-16.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-is_16.3.0_1524246375134_0.9464932723382447"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524246375245,
+			"_cnpm_publish_time": 1524246375245
+		}
+	},
+	"dist-tags": {
+		"latest": "16.5.0",
+		"ts2.6": "16.3.0",
+		"ts2.7": "16.3.0",
+		"ts2.8": "16.5.0",
+		"ts2.9": "16.5.0",
+		"ts3.0": "16.5.0",
+		"ts3.1": "16.5.0",
+		"ts3.2": "16.5.0"
+	},
+	"time": {
+		"modified": "2018-09-24T22:51:38.000Z",
+		"created": "2018-04-20T17:46:15.245Z",
+		"16.5.0": "2018-09-24T22:51:26.683Z",
+		"16.3.1": "2018-08-04T01:42:45.074Z",
+		"16.3.0": "2018-04-20T17:46:15.245Z"
+	},
+	"_distfiles": {
+		"react-is-16.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-is/download/@types/react-is-16.5.0.tgz",
+			"sha": "6b0dd43e60fa7c82b48faf7b487543079a61015a",
+			"registry": "cnpmjs"
+		},
+		"react-is-16.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-is/download/@types/react-is-16.3.1.tgz",
+			"sha": "f3e1dee9d0eb58c049825540cb061b5588022a9e",
+			"registry": "cnpmjs"
+		},
+		"react-is-16.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-is/download/@types/react-is-16.3.0.tgz",
+			"sha": "e916ae48b7cc051056f3437dc7fa96e8bfbe6bc2",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833487593
+		}
+	},
+	"_rev": "1-9d776ae19a8db503",
+	"readme": "# Installation\r\n> `npm install --save @types/react-is`\r\n\r\n# Summary\r\nThis package contains type definitions for react-is (https://reactjs.org/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-is\r\n\r\nAdditional Details\r\n * Last updated: Mon, 24 Sep 2018 22:50:27 GMT\r\n * Dependencies: react\r\n * Global values: ReactIs\r\n\r\n# Credits\r\nThese definitions were written by Avi Vahl <https://github.com/AviVahl>, Christian Chown <https://github.com/christianchown>."
+}

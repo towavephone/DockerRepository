@@ -1,0 +1,86 @@
+{
+	"name": "@types/p-map",
+	"versions": {
+		"1.1.0": {
+			"name": "@types/p-map",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for p-map",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "9c65368f1106545d14f19c39fae489ca449bfd56b0e82ca6886641bfbbadc4df",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/p-map@1.1.0",
+			"dist": {
+				"shasum": "0fe9742643bcacf0351b70f75f9f94c036609fa1",
+				"size": 1633,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/p-map/download/@types/p-map-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/p-map-1.1.0.tgz_1501681720642_0.22642116714268923"
+			},
+			"directories": {},
+			"publish_time": 1501681720735,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501681720735
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.0",
+		"ts2.3": "1.1.0",
+		"ts2.4": "1.1.0",
+		"ts2.5": "1.1.0",
+		"ts2.6": "1.1.0",
+		"ts2.7": "1.1.0",
+		"ts2.8": "1.1.0",
+		"ts2.9": "1.1.0",
+		"ts3.0": "1.1.0",
+		"ts3.1": "1.1.0",
+		"ts3.2": "1.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:23:36.000Z",
+		"created": "2017-08-02T13:48:40.735Z",
+		"1.1.0": "2017-08-02T13:48:40.735Z"
+	},
+	"_distfiles": {
+		"p-map-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/p-map/download/@types/p-map-1.1.0.tgz",
+			"sha": "0fe9742643bcacf0351b70f75f9f94c036609fa1",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"8bb-joP62uBQiNc995qKlALdCu+bQWY\"",
+			"fetched": 1541833486455
+		}
+	},
+	"_rev": "1-d26bb0816ce7bb37",
+	"readme": "# Installation\r\n> `npm install --save @types/p-map`\r\n\r\n# Summary\r\nThis package contains type definitions for p-map (https://github.com/sindresorhus/p-map#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/p-map\r\n\r\nAdditional Details\r\n * Last updated: Wed, 02 Aug 2017 13:47:41 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by BendingBender <https://github.com/BendingBender>."
+}

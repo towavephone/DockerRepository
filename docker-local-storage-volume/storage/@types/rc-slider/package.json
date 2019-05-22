@@ -1,0 +1,919 @@
+{
+	"name": "@types/rc-slider",
+	"versions": {
+		"8.2.3": {
+			"name": "@types/rc-slider",
+			"version": "8.2.3",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus",
+					"githubUsername": "mantasmarcinkus"
+				},
+				{
+					"name": "Alexander Mattoni",
+					"url": "https://github.com/mattoni",
+					"githubUsername": "mattoni"
+				},
+				{
+					"name": "Austin Turner",
+					"url": "https://github.com/paustint",
+					"githubUsername": "paustint"
+				},
+				{
+					"name": "Jacob Froman",
+					"url": "https://github.com/j-fro",
+					"githubUsername": "j-fro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "3ea63229b8927a5e11173f6bf4263f28d05d9b5521cd84aac71ef2b03209f957",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/rc-slider@8.2.3",
+			"dist": {
+				"shasum": "61eadafbb999f8ff11388ef9d0054accb20a7640",
+				"size": 3054,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider_8.2.3_1518468861828_0.775936710675637"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518468861969,
+			"_cnpm_publish_time": 1518468861969
+		},
+		"8.2.2": {
+			"name": "@types/rc-slider",
+			"version": "8.2.2",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus",
+					"githubUsername": "mantasmarcinkus"
+				},
+				{
+					"name": "Alexander Mattoni",
+					"url": "https://github.com/mattoni",
+					"githubUsername": "mattoni"
+				},
+				{
+					"name": "Austin Turner",
+					"url": "https://github.com/paustint",
+					"githubUsername": "paustint"
+				},
+				{
+					"name": "Jacob Froman",
+					"url": "https://github.com/j-fro",
+					"githubUsername": "j-fro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "6160d1809e1dd846950d57de2f577c28a9ee7552b6a69487687572e4f215ac12",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-slider@8.2.2",
+			"dist": {
+				"shasum": "dece425ceae3401530e10b737baaa7c17bc94e77",
+				"size": 3048,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider-8.2.2.tgz_1514421517691_0.36374438321217895"
+			},
+			"directories": {},
+			"publish_time": 1514421517758,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514421517758
+		},
+		"8.2.1": {
+			"name": "@types/rc-slider",
+			"version": "8.2.1",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus",
+					"githubUsername": "mantasmarcinkus"
+				},
+				{
+					"name": "Alexander Mattoni",
+					"url": "https://github.com/mattoni",
+					"githubUsername": "mattoni"
+				},
+				{
+					"name": "Austin Turner",
+					"url": "https://github.com/paustint",
+					"githubUsername": "paustint"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "9faefb4d1ba9a602ef42e95cd7ea8a0f41c5295b474a11509c23c36e7b0cf138",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-slider@8.2.1",
+			"dist": {
+				"shasum": "d33a61b70182e4ce6723e03f0fd598f06f302bdf",
+				"size": 2987,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider-8.2.1.tgz_1512318684504_0.472396373283118"
+			},
+			"directories": {},
+			"publish_time": 1512318684568,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1512318684568
+		},
+		"8.2.0": {
+			"name": "@types/rc-slider",
+			"version": "8.2.0",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus",
+					"githubUsername": "mantasmarcinkus"
+				},
+				{
+					"name": "Alexander Mattoni",
+					"url": "https://github.com/mattoni",
+					"githubUsername": "mattoni"
+				},
+				{
+					"name": "Austin Turner",
+					"url": "https://github.com/paustint",
+					"githubUsername": "paustint"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "03e6d59b41c289c9e0cf93318bf92e58c46d5cd661a7edff4d9fb9e1500fd7cd",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-slider@8.2.0",
+			"dist": {
+				"shasum": "e07656c0453bf03b837f683178f9ca9ddc957fb9",
+				"size": 2984,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider-8.2.0.tgz_1508956881936_0.09198167361319065"
+			},
+			"directories": {},
+			"publish_time": 1508956882036,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508956882036
+		},
+		"8.1.2": {
+			"name": "@types/rc-slider",
+			"version": "8.1.2",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus",
+					"githubUsername": "mantasmarcinkus"
+				},
+				{
+					"name": "Alexander Mattoni",
+					"url": "https://github.com/mattoni",
+					"githubUsername": "mattoni"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "dd92471aca531ad5a4c2b3f768d55eb941d4056d5f8aac50c56655e57a7f4260",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-slider@8.1.2",
+			"dist": {
+				"shasum": "dff7f672abc86a380167e8297203d61c62c59046",
+				"size": 2922,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider-8.1.2.tgz_1507762910458_0.7212547359522432"
+			},
+			"directories": {},
+			"publish_time": 1507762910518,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507762910518
+		},
+		"8.1.1": {
+			"name": "@types/rc-slider",
+			"version": "8.1.1",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus"
+				},
+				{
+					"name": "Alexander Mattoni",
+					"url": "https://github.com/mattoni"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "3b35e0a56cbf8503c49446bcaeed88b8f8c7c1632f01dbc79a5f8dd46d3c51ce",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-slider@8.1.1",
+			"dist": {
+				"shasum": "5033ae3f0348060794e80d5085bd37d85418e77e",
+				"size": 2855,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider-8.1.1.tgz_1503352883560_0.1517788132186979"
+			},
+			"directories": {},
+			"publish_time": 1503352883645,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352883645
+		},
+		"8.1.0": {
+			"name": "@types/rc-slider",
+			"version": "8.1.0",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus/"
+				},
+				{
+					"name": "Alexander Mattoni",
+					"url": "https://github.com/mattoni/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ca6f88d8c476e8ba737b767398a452aeda3af6c19c0e332e2fd8bde764d3a5a0",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-slider@8.1.0",
+			"dist": {
+				"shasum": "83aed904c5b2e5f10342c2bf40ffcbe16ee421c2",
+				"size": 2863,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider-8.1.0.tgz_1499265100610_0.5459641742054373"
+			},
+			"directories": {},
+			"publish_time": 1499265100762,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1499265100762
+		},
+		"6.1.3": {
+			"name": "@types/rc-slider",
+			"version": "6.1.3",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "9c3644654df63fb3de02324cc21541b8c47c7b9b3c6f5c1c76e00d30540782f9",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/rc-slider@6.1.3",
+			"dist": {
+				"shasum": "93af84e08ff7b877136042bd36057de247206317",
+				"size": 2757,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-6.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider-6.1.3.tgz_1498226654040_0.5443395923357457"
+			},
+			"directories": {},
+			"publish_time": 1498226654114,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498226654114
+		},
+		"6.1.2": {
+			"name": "@types/rc-slider",
+			"version": "6.1.2",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "8b4eb960ad994c7a1dde606755d7eeb5c3e0bb88677b19e95e488cbdb521a066",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/rc-slider@6.1.2",
+			"dist": {
+				"shasum": "bd4c2bb5b3c683446d3ff50bbdae24f672d7c1ae",
+				"size": 2074,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-6.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/rc-slider-6.1.2.tgz_1490973798417_0.3003049809485674"
+			},
+			"directories": {},
+			"publish_time": 1490973800233,
+			"_cnpm_publish_time": 1490973800233,
+			"_hasShrinkwrap": false
+		},
+		"6.1.1": {
+			"name": "@types/rc-slider",
+			"version": "6.1.1",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "981ace1e9ce44dccde37e5c0b659c8f862c1fb233c5c1e4308fe1e842e38eba8",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/rc-slider@6.1.1",
+			"dist": {
+				"shasum": "b385bbe4f6ab4580a03c049c2a6b1e31d0fd5ad5",
+				"size": 2073,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-6.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/rc-slider-6.1.1.tgz_1490647464773_0.607996046775952"
+			},
+			"directories": {},
+			"publish_time": 1490647466783,
+			"_cnpm_publish_time": 1490647466783,
+			"_hasShrinkwrap": false
+		},
+		"6.1.0": {
+			"name": "@types/rc-slider",
+			"version": "6.1.0",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "95c2ab8946eb3efd0e39349539788d840c27fdfca2814d95b16a3e990040b7ca",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/rc-slider@6.1.0",
+			"dist": {
+				"shasum": "f332205bb6838a5b273bdf98772270c5d85a2511",
+				"size": 2091,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-6.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/rc-slider-6.1.0.tgz_1489191326168_0.016682729357853532"
+			},
+			"directories": {},
+			"publish_time": 1489191326393,
+			"_cnpm_publish_time": 1489191326393,
+			"_hasShrinkwrap": false
+		},
+		"8.6.0": {
+			"name": "@types/rc-slider",
+			"version": "8.6.0",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus",
+					"githubUsername": "mantasmarcinkus"
+				},
+				{
+					"name": "Alexander Mattoni",
+					"url": "https://github.com/mattoni",
+					"githubUsername": "mattoni"
+				},
+				{
+					"name": "Austin Turner",
+					"url": "https://github.com/paustint",
+					"githubUsername": "paustint"
+				},
+				{
+					"name": "Jacob Froman",
+					"url": "https://github.com/j-fro",
+					"githubUsername": "j-fro"
+				},
+				{
+					"name": "Deanna Veale",
+					"url": "https://github.com/Deanna2",
+					"githubUsername": "Deanna2"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/rc-tooltip": "*"
+			},
+			"typesPublisherContentHash": "71905651d5dee5495cb40af14e8207e518af552cba6d6a9367a2bd2d1819a4b2",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/rc-slider@8.6.0",
+			"dist": {
+				"shasum": "7f061a920b067825c8455cf481c57b0927889c72",
+				"size": 3256,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider_8.6.0_1535045194953_0.11421161499314114"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535045195083,
+			"_cnpm_publish_time": 1535045195083
+		},
+		"8.2.5": {
+			"name": "@types/rc-slider",
+			"version": "8.2.5",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus",
+					"githubUsername": "mantasmarcinkus"
+				},
+				{
+					"name": "Alexander Mattoni",
+					"url": "https://github.com/mattoni",
+					"githubUsername": "mattoni"
+				},
+				{
+					"name": "Austin Turner",
+					"url": "https://github.com/paustint",
+					"githubUsername": "paustint"
+				},
+				{
+					"name": "Jacob Froman",
+					"url": "https://github.com/j-fro",
+					"githubUsername": "j-fro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/rc-tooltip": "*"
+			},
+			"typesPublisherContentHash": "d052bfc933526dd1f75a54c2000c9ad9f363b949e43a75475f6ee702f79063e6",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/rc-slider@8.2.5",
+			"dist": {
+				"shasum": "67e4a0f6ecb018e551104da09680cd40c1f409b8",
+				"size": 3125,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider_8.2.5_1533345470774_0.7648258431360817"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533345470885,
+			"_cnpm_publish_time": 1533345470885
+		},
+		"8.2.4": {
+			"name": "@types/rc-slider",
+			"version": "8.2.4",
+			"description": "TypeScript definitions for rc-slider",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Marcinkus Mantas",
+					"url": "https://github.com/mantasmarcinkus",
+					"githubUsername": "mantasmarcinkus"
+				},
+				{
+					"name": "Alexander Mattoni",
+					"url": "https://github.com/mattoni",
+					"githubUsername": "mattoni"
+				},
+				{
+					"name": "Austin Turner",
+					"url": "https://github.com/paustint",
+					"githubUsername": "paustint"
+				},
+				{
+					"name": "Jacob Froman",
+					"url": "https://github.com/j-fro",
+					"githubUsername": "j-fro"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/rc-tooltip": "*"
+			},
+			"typesPublisherContentHash": "56abe0d6f0a7cf5c2f9464e7fe43c51cceb51f26dc0b4c65fce502d2356d3309",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/rc-slider@8.2.4",
+			"dist": {
+				"shasum": "a40b4e04b360decfafba3b2c44ebcd3b607079d2",
+				"size": 3125,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/rc-slider_8.2.4_1532738948210_0.855292878964883"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532738948305,
+			"_cnpm_publish_time": 1532738948305
+		}
+	},
+	"dist-tags": {
+		"latest": "8.6.0",
+		"ts2.1": "6.1.2",
+		"ts2.2": "6.1.2",
+		"ts2.3": "8.2.2",
+		"ts2.4": "8.2.2",
+		"ts2.5": "8.2.2",
+		"ts2.6": "8.2.4",
+		"ts2.7": "8.2.4",
+		"ts2.8": "8.6.0",
+		"ts2.9": "8.6.0",
+		"ts3.0": "8.6.0",
+		"ts3.1": "8.6.0",
+		"ts3.2": "8.6.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:25:53.000Z",
+		"created": "2017-03-11T00:15:26.393Z",
+		"8.6.0": "2018-08-23T17:26:35.083Z",
+		"8.2.5": "2018-08-04T01:17:50.885Z",
+		"8.2.4": "2018-07-28T00:49:08.305Z",
+		"8.2.3": "2018-02-12T20:54:21.969Z",
+		"8.2.2": "2017-12-28T00:38:37.758Z",
+		"8.2.1": "2017-12-03T16:31:24.568Z",
+		"8.2.0": "2017-10-25T18:41:22.036Z",
+		"8.1.2": "2017-10-11T23:01:50.518Z",
+		"8.1.1": "2017-08-21T22:01:23.645Z",
+		"8.1.0": "2017-07-05T14:31:40.762Z",
+		"6.1.3": "2017-06-23T14:04:14.114Z",
+		"6.1.2": "2017-03-31T15:23:20.233Z",
+		"6.1.1": "2017-03-27T20:44:26.783Z",
+		"6.1.0": "2017-03-11T00:15:26.393Z"
+	},
+	"_distfiles": {
+		"rc-slider-8.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.3.tgz",
+			"sha": "61eadafbb999f8ff11388ef9d0054accb20a7640",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-8.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.2.tgz",
+			"sha": "dece425ceae3401530e10b737baaa7c17bc94e77",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-8.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.1.tgz",
+			"sha": "d33a61b70182e4ce6723e03f0fd598f06f302bdf",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-8.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.0.tgz",
+			"sha": "e07656c0453bf03b837f683178f9ca9ddc957fb9",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-8.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.1.2.tgz",
+			"sha": "dff7f672abc86a380167e8297203d61c62c59046",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-8.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.1.1.tgz",
+			"sha": "5033ae3f0348060794e80d5085bd37d85418e77e",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-8.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.1.0.tgz",
+			"sha": "83aed904c5b2e5f10342c2bf40ffcbe16ee421c2",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-6.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-6.1.3.tgz",
+			"sha": "93af84e08ff7b877136042bd36057de247206317",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-6.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-6.1.2.tgz",
+			"sha": "bd4c2bb5b3c683446d3ff50bbdae24f672d7c1ae",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-6.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-6.1.1.tgz",
+			"sha": "b385bbe4f6ab4580a03c049c2a6b1e31d0fd5ad5",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-6.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-6.1.0.tgz",
+			"sha": "f332205bb6838a5b273bdf98772270c5d85a2511",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-8.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.6.0.tgz",
+			"sha": "7f061a920b067825c8455cf481c57b0927889c72",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-8.2.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.5.tgz",
+			"sha": "67e4a0f6ecb018e551104da09680cd40c1f409b8",
+			"registry": "cnpmjs"
+		},
+		"rc-slider-8.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/rc-slider/download/@types/rc-slider-8.2.4.tgz",
+			"sha": "a40b4e04b360decfafba3b2c44ebcd3b607079d2",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833487466
+		}
+	},
+	"_rev": "2-7f1a395690f3cb56",
+	"readme": "# Installation\r\n> `npm install --save @types/rc-slider`\r\n\r\n# Summary\r\nThis package contains type definitions for rc-slider (https://github.com/react-component/slider).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/rc-slider\r\n\r\nAdditional Details\r\n * Last updated: Thu, 23 Aug 2018 17:24:04 GMT\r\n * Dependencies: react, rc-tooltip\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Marcinkus Mantas <https://github.com/mantasmarcinkus>, Alexander Mattoni <https://github.com/mattoni>, Austin Turner <https://github.com/paustint>, Jacob Froman <https://github.com/j-fro>, Deanna Veale <https://github.com/Deanna2>."
+}

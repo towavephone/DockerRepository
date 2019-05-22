@@ -1,0 +1,776 @@
+{
+	"name": "@types/mkdirp",
+	"versions": {
+		"0.5.2": {
+			"name": "@types/mkdirp",
+			"version": "0.5.2",
+			"description": "TypeScript definitions for mkdirp",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "mrmlnc",
+					"url": "https://github.com/mrmlnc",
+					"githubUsername": "mrmlnc"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "af65553f1d10b41c6e6f6dab4dba6316aa992f1c55f415d3ce95db9302f75afa",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/mkdirp@0.5.2",
+			"dist": {
+				"shasum": "503aacfe5cc2703d5484326b1b27efa67a339c1f",
+				"size": 1788,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.5.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mkdirp-0.5.2.tgz_1512318667541_0.7102317658718675"
+			},
+			"directories": {},
+			"publish_time": 1512318668081,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1512318668081
+		},
+		"0.5.1": {
+			"name": "@types/mkdirp",
+			"version": "0.5.1",
+			"description": "TypeScript definitions for mkdirp",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "1b3dd423d30162206701a9c2e1b14d2f1f0e426aa464e80aee71f479d36d5de7",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/mkdirp@0.5.1",
+			"dist": {
+				"shasum": "ea887cd024f691c1ca67cce20b7606b053e43b0f",
+				"size": 1578,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mkdirp-0.5.1.tgz_1503352706843_0.7029682954307646"
+			},
+			"directories": {},
+			"publish_time": 1503352706915,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352706915
+		},
+		"0.5.0": {
+			"name": "@types/mkdirp",
+			"version": "0.5.0",
+			"description": "TypeScript definitions for mkdirp",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "cdddd118fe44e0464cfa74a7c39572d64cf8422899deda58a59bfab59480d0f9",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/mkdirp@0.5.0",
+			"dist": {
+				"shasum": "31fe3dbf963048a53fbc433bab9de376c276182e",
+				"size": 1591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/mkdirp-0.5.0.tgz_1500041691579_0.9274897905997932"
+			},
+			"directories": {},
+			"publish_time": 1500041691691,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500041691691
+		},
+		"0.3.29": {
+			"name": "@types/mkdirp",
+			"version": "0.3.29",
+			"description": "TypeScript definitions for mkdirp 0.3.0",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "bfa78f6e5a705b8b3c1044f67bdaa969895c8d1fe69b643c2398e8f4c16d04ec",
+			"_id": "@types/mkdirp@0.3.29",
+			"dist": {
+				"shasum": "7f2ad7ec55f914482fc9b1ec4bb1ae6028d46066",
+				"size": 1064,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.29.tgz_1474307634344_0.9834970871452242"
+			},
+			"directories": {},
+			"publish_time": 1474307634593,
+			"_cnpm_publish_time": 1474307634593,
+			"_hasShrinkwrap": false
+		},
+		"0.3.28": {
+			"name": "@types/mkdirp",
+			"version": "0.3.28",
+			"description": "TypeScript definitions for mkdirp 0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/mkdirp@0.3.28",
+			"_shasum": "7505d7b37118564a57ceac3b92df2f4fd3cb402a",
+			"_from": "output\\mkdirp",
+			"_resolved": "file:output\\mkdirp",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7505d7b37118564a57ceac3b92df2f4fd3cb402a",
+				"size": 1039,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.28.tgz_1468509886497_0.05299066356383264"
+			},
+			"directories": {},
+			"publish_time": 1468509888677,
+			"_cnpm_publish_time": 1468509888677,
+			"_hasShrinkwrap": false
+		},
+		"0.3.27-alpha": {
+			"name": "@types/mkdirp",
+			"version": "0.3.27-alpha",
+			"description": "TypeScript definitions for mkdirp 0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/mkdirp@0.3.27-alpha",
+			"_shasum": "a9cef26888b3f6e02780450a85fcfe16680d3fd3",
+			"_from": "output\\mkdirp",
+			"_resolved": "file:output\\mkdirp",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a9cef26888b3f6e02780450a85fcfe16680d3fd3",
+				"size": 1042,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.27-alpha.tgz_1468011355030_0.518091871868819"
+			},
+			"directories": {},
+			"publish_time": 1468011357747,
+			"_cnpm_publish_time": 1468011357747,
+			"_hasShrinkwrap": false
+		},
+		"0.3.26-alpha": {
+			"name": "@types/mkdirp",
+			"version": "0.3.26-alpha",
+			"description": "TypeScript definitions for mkdirp 0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/mkdirp@0.3.26-alpha",
+			"_shasum": "e491d08ba6f611205afdef122797c5e4ba4ac117",
+			"_from": "output\\mkdirp",
+			"_resolved": "file:output\\mkdirp",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e491d08ba6f611205afdef122797c5e4ba4ac117",
+				"size": 1044,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.26-alpha.tgz_1467593629202_0.5317927424330264"
+			},
+			"directories": {},
+			"publish_time": 1467593629895,
+			"_cnpm_publish_time": 1467593629895,
+			"_hasShrinkwrap": false
+		},
+		"0.3.25-alpha": {
+			"name": "@types/mkdirp",
+			"version": "0.3.25-alpha",
+			"description": "TypeScript definitions for mkdirp 0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/mkdirp@0.3.25-alpha",
+			"_shasum": "d76145a66ed88ff3d2dec127dc700c9cf51e5f21",
+			"_from": "output\\mkdirp",
+			"_resolved": "file:output\\mkdirp",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d76145a66ed88ff3d2dec127dc700c9cf51e5f21",
+				"size": 1043,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.25-alpha.tgz_1467428349256_0.9054062583018094"
+			},
+			"directories": {},
+			"publish_time": 1467428349727,
+			"_cnpm_publish_time": 1467428349727,
+			"_hasShrinkwrap": false
+		},
+		"0.3.24-alpha": {
+			"name": "@types/mkdirp",
+			"version": "0.3.24-alpha",
+			"description": "TypeScript definitions for mkdirp 0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/mkdirp@0.3.24-alpha",
+			"_shasum": "1e3f7cdfc57b2bdf71a8b1fba580fdab8372d81f",
+			"_from": "output\\mkdirp",
+			"_resolved": "file:output\\mkdirp",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1e3f7cdfc57b2bdf71a8b1fba580fdab8372d81f",
+				"size": 1043,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.24-alpha.tgz_1467415652024_0.6804082370363176"
+			},
+			"directories": {},
+			"publish_time": 1467415655627,
+			"_cnpm_publish_time": 1467415655627,
+			"_hasShrinkwrap": false
+		},
+		"0.3.23-alpha": {
+			"name": "@types/mkdirp",
+			"version": "0.3.23-alpha",
+			"description": "TypeScript definitions for mkdirp 0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/mkdirp@0.3.23-alpha",
+			"_shasum": "d64686fc1e412b537d734ae49ef889bf86e6da15",
+			"_from": "output\\mkdirp",
+			"_resolved": "file:output\\mkdirp",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d64686fc1e412b537d734ae49ef889bf86e6da15",
+				"size": 1033,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.23-alpha.tgz_1467403622534_0.5842972272075713"
+			},
+			"directories": {},
+			"publish_time": 1467403624632,
+			"_cnpm_publish_time": 1467403624632,
+			"_hasShrinkwrap": false
+		},
+		"0.3.22-alpha": {
+			"name": "@types/mkdirp",
+			"version": "0.3.22-alpha",
+			"description": "TypeScript definitions for mkdirp 0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/mkdirp@0.3.22-alpha",
+			"_shasum": "a0914bd704492741b699347c86d823106ec8cae8",
+			"_from": "output\\mkdirp",
+			"_resolved": "file:output\\mkdirp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a0914bd704492741b699347c86d823106ec8cae8",
+				"size": 1012,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.22-alpha.tgz_1464154140140_0.9523225226439536"
+			},
+			"directories": {},
+			"publish_time": 1464154140667,
+			"_cnpm_publish_time": 1464154140667,
+			"_hasShrinkwrap": false
+		},
+		"0.3.21-alpha": {
+			"name": "@types/mkdirp",
+			"version": "0.3.21-alpha",
+			"description": "TypeScript definitions for mkdirp 0.3.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/mkdirp@0.3.21-alpha",
+			"_shasum": "4b60e488229578ff381c14d3abc44a5757b8d4e8",
+			"_from": "output\\mkdirp",
+			"_resolved": "file:output\\mkdirp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4b60e488229578ff381c14d3abc44a5757b8d4e8",
+				"size": 1014,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.21-alpha.tgz_1463775087567_0.7219914691522717"
+			},
+			"directories": {},
+			"publish_time": 1463775087998,
+			"_cnpm_publish_time": 1463775087998,
+			"_hasShrinkwrap": false
+		},
+		"0.3.16-alpha": {
+			"name": "@types/mkdirp",
+			"version": "0.3.16-alpha",
+			"description": "Type definitions for mkdirp 0.3.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/mkdirp@0.3.16-alpha",
+			"_shasum": "93ae515dd04f9a974a21167e256483f7f92abfec",
+			"_from": "output\\mkdirp",
+			"_resolved": "file:output\\mkdirp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "93ae515dd04f9a974a21167e256483f7f92abfec",
+				"size": 1021,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.16-alpha.tgz_1463694236139_0.24893276090733707"
+			},
+			"directories": {},
+			"publish_time": 1463694236914,
+			"_cnpm_publish_time": 1463694236914,
+			"_hasShrinkwrap": false
+		},
+		"0.3.15-alpha": {
+			"name": "@types/mkdirp",
+			"version": "0.3.15-alpha",
+			"description": "Type definitions for mkdirp 0.3.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/mkdirp@0.3.15-alpha",
+			"_shasum": "1d5bfa354f941f5e96d6bf447d8ab854cf8b684c",
+			"_from": "output\\mkdirp",
+			"_resolved": "file:output\\mkdirp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1d5bfa354f941f5e96d6bf447d8ab854cf8b684c",
+				"size": 1017,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/mkdirp-0.3.15-alpha.tgz_1463509278628_0.5515710324980319"
+			},
+			"directories": {},
+			"publish_time": 1463509279290,
+			"_cnpm_publish_time": 1463509279290,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.5.2",
+		"ts2.0": "0.5.2",
+		"ts2.1": "0.5.2",
+		"ts2.2": "0.5.2",
+		"ts2.3": "0.5.2",
+		"ts2.4": "0.5.2",
+		"ts2.5": "0.5.2",
+		"ts2.6": "0.5.2",
+		"ts2.7": "0.5.2",
+		"ts2.8": "0.5.2",
+		"ts2.9": "0.5.2",
+		"ts3.0": "0.5.2",
+		"ts3.1": "0.5.2",
+		"ts3.2": "0.5.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:19:58.000Z",
+		"created": "2016-05-17T18:21:19.290Z",
+		"0.5.2": "2017-12-03T16:31:08.081Z",
+		"0.5.1": "2017-08-21T21:58:26.915Z",
+		"0.5.0": "2017-07-14T14:14:51.691Z",
+		"0.3.29": "2016-09-19T17:53:54.593Z",
+		"0.3.28": "2016-07-14T15:24:48.677Z",
+		"0.3.27-alpha": "2016-07-08T20:55:57.747Z",
+		"0.3.26-alpha": "2016-07-04T00:53:49.895Z",
+		"0.3.25-alpha": "2016-07-02T02:59:09.727Z",
+		"0.3.24-alpha": "2016-07-01T23:27:35.627Z",
+		"0.3.23-alpha": "2016-07-01T20:07:04.632Z",
+		"0.3.22-alpha": "2016-05-25T05:29:00.667Z",
+		"0.3.21-alpha": "2016-05-20T20:11:27.998Z",
+		"0.3.16-alpha": "2016-05-19T21:43:56.914Z",
+		"0.3.15-alpha": "2016-05-17T18:21:19.290Z"
+	},
+	"_distfiles": {
+		"mkdirp-0.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.5.2.tgz",
+			"sha": "503aacfe5cc2703d5484326b1b27efa67a339c1f",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.5.1.tgz",
+			"sha": "ea887cd024f691c1ca67cce20b7606b053e43b0f",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.5.0.tgz",
+			"sha": "31fe3dbf963048a53fbc433bab9de376c276182e",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.29.tgz",
+			"sha": "7f2ad7ec55f914482fc9b1ec4bb1ae6028d46066",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.28.tgz",
+			"sha": "7505d7b37118564a57ceac3b92df2f4fd3cb402a",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.27-alpha.tgz",
+			"sha": "a9cef26888b3f6e02780450a85fcfe16680d3fd3",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.26-alpha.tgz",
+			"sha": "e491d08ba6f611205afdef122797c5e4ba4ac117",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.25-alpha.tgz",
+			"sha": "d76145a66ed88ff3d2dec127dc700c9cf51e5f21",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.24-alpha.tgz",
+			"sha": "1e3f7cdfc57b2bdf71a8b1fba580fdab8372d81f",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.23-alpha.tgz",
+			"sha": "d64686fc1e412b537d734ae49ef889bf86e6da15",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.22-alpha.tgz",
+			"sha": "a0914bd704492741b699347c86d823106ec8cae8",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.21-alpha.tgz",
+			"sha": "4b60e488229578ff381c14d3abc44a5757b8d4e8",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.16-alpha.tgz",
+			"sha": "93ae515dd04f9a974a21167e256483f7f92abfec",
+			"registry": "cnpmjs"
+		},
+		"mkdirp-0.3.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/mkdirp/download/@types/mkdirp-0.3.15-alpha.tgz",
+			"sha": "1d5bfa354f941f5e96d6bf447d8ab854cf8b684c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"4344-EAcdZCAXK9D8QZfKYBl74wUOIzw\"",
+			"fetched": 1541833485733
+		}
+	},
+	"_rev": "2-7058c5f5aebb70c0",
+	"readme": "# Installation\r\n> `npm install --save @types/mkdirp`\r\n\r\n# Summary\r\nThis package contains type definitions for mkdirp (https://github.com/substack/node-mkdirp).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/mkdirp\r\n\r\nAdditional Details\r\n * Last updated: Sun, 03 Dec 2017 16:31:01 GMT\r\n * Dependencies: fs, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Bart van der Schoor <https://github.com/Bartvds>, mrmlnc <https://github.com/mrmlnc>."
+}

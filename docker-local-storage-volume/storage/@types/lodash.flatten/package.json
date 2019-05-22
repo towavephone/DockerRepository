@@ -1,0 +1,326 @@
+{
+	"name": "@types/lodash.flatten",
+	"versions": {
+		"4.4.3": {
+			"name": "@types/lodash.flatten",
+			"version": "4.4.3",
+			"description": "TypeScript definitions for lodash.flatten",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5d009915a09d4b61a2c4b25685fcbffeab7c50dbd3c8647cecdc31e9116c08a6",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.flatten@4.4.3",
+			"dist": {
+				"shasum": "7806caef7eca7aa75600b2f87c474e3af980304a",
+				"size": 1590,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.flatten/download/@types/lodash.flatten-4.4.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.flatten-4.4.3.tgz_1502228900018_0.30475137080065906"
+			},
+			"directories": {},
+			"publish_time": 1502228900088,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228900088
+		},
+		"4.4.2": {
+			"name": "@types/lodash.flatten",
+			"version": "4.4.2",
+			"description": "TypeScript definitions for lodash.flatten",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c64a2405e8b1125dfa387b67db38638a50dfc8372e76fc835cd3e5a36ecf714b",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.flatten@4.4.2",
+			"dist": {
+				"shasum": "63568056f162320544580d45ffc035fb2cd9bb58",
+				"size": 869,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.flatten/download/@types/lodash.flatten-4.4.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.flatten-4.4.2.tgz_1490212555898_0.4338294053450227"
+			},
+			"directories": {},
+			"publish_time": 1490212557702,
+			"_cnpm_publish_time": 1490212557702,
+			"_hasShrinkwrap": false
+		},
+		"4.4.1": {
+			"name": "@types/lodash.flatten",
+			"version": "4.4.1",
+			"description": "TypeScript definitions for lodash.flatten",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "75ca908a1b0666e92849eebbf05c624fe7afbae846e11fb07f43dd9a57560403",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.flatten@4.4.1",
+			"dist": {
+				"shasum": "b3f05bb32f1add564a43dbee5dbb276a6a2d74e1",
+				"size": 1037,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.flatten/download/@types/lodash.flatten-4.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.flatten-4.4.1.tgz_1485553602963_0.18836672324687243"
+			},
+			"directories": {},
+			"publish_time": 1485553604837,
+			"_cnpm_publish_time": 1485553604837,
+			"_hasShrinkwrap": false
+		},
+		"4.4.0": {
+			"name": "@types/lodash.flatten",
+			"version": "4.4.0",
+			"description": "TypeScript definitions for lodash.flatten",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "19f95bc5d4ebe3f89272d2142261bd1fac3c9f6f9ec9987ff088b0ba8635d56e",
+			"_id": "@types/lodash.flatten@4.4.0",
+			"dist": {
+				"shasum": "638ab743155c0cc1d5b3c882214bd29d895f847a",
+				"size": 1017,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.flatten/download/@types/lodash.flatten-4.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.flatten-4.4.0.tgz_1480973423092_0.21819137246347964"
+			},
+			"directories": {},
+			"publish_time": 1480973423326,
+			"_cnpm_publish_time": 1480973423326,
+			"_hasShrinkwrap": false
+		},
+		"4.4.4": {
+			"name": "@types/lodash.flatten",
+			"version": "4.4.4",
+			"description": "TypeScript definitions for lodash.flatten",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "082e6e2a78c5f9aff634d446554eee0119cd465708f6cc250473eedb06b499af",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.flatten@4.4.4",
+			"dist": {
+				"shasum": "7f28009ef57c8d2b1d8463c3e53fdccf780120a5",
+				"size": 1587,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.flatten/download/@types/lodash.flatten-4.4.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.flatten_4.4.4_1532392932931_0.8780395846133242"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532392932986,
+			"_cnpm_publish_time": 1532392932986
+		}
+	},
+	"dist-tags": {
+		"latest": "4.4.4",
+		"ts2.0": "4.4.0",
+		"ts2.1": "4.4.1",
+		"ts2.2": "4.4.3",
+		"ts2.3": "4.4.3",
+		"ts2.4": "4.4.3",
+		"ts2.5": "4.4.3",
+		"ts2.6": "4.4.4",
+		"ts2.7": "4.4.4",
+		"ts2.8": "4.4.4",
+		"ts2.9": "4.4.4",
+		"ts3.0": "4.4.4",
+		"ts3.1": "4.4.4",
+		"ts3.2": "4.4.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:16:11.000Z",
+		"created": "2016-12-05T21:30:23.326Z",
+		"4.4.4": "2018-07-24T00:42:12.986Z",
+		"4.4.3": "2017-08-08T21:48:20.088Z",
+		"4.4.2": "2017-03-22T19:55:57.702Z",
+		"4.4.1": "2017-01-27T21:46:44.837Z",
+		"4.4.0": "2016-12-05T21:30:23.326Z"
+	},
+	"_distfiles": {
+		"lodash.flatten-4.4.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.flatten/download/@types/lodash.flatten-4.4.3.tgz",
+			"sha": "7806caef7eca7aa75600b2f87c474e3af980304a",
+			"registry": "cnpmjs"
+		},
+		"lodash.flatten-4.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.flatten/download/@types/lodash.flatten-4.4.2.tgz",
+			"sha": "63568056f162320544580d45ffc035fb2cd9bb58",
+			"registry": "cnpmjs"
+		},
+		"lodash.flatten-4.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.flatten/download/@types/lodash.flatten-4.4.1.tgz",
+			"sha": "b3f05bb32f1add564a43dbee5dbb276a6a2d74e1",
+			"registry": "cnpmjs"
+		},
+		"lodash.flatten-4.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.flatten/download/@types/lodash.flatten-4.4.0.tgz",
+			"sha": "638ab743155c0cc1d5b3c882214bd29d895f847a",
+			"registry": "cnpmjs"
+		},
+		"lodash.flatten-4.4.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.flatten/download/@types/lodash.flatten-4.4.4.tgz",
+			"sha": "7f28009ef57c8d2b1d8463c3e53fdccf780120a5",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1de4-K6mjmTNk/Xc9FEm0rDyZCOyFsFw\"",
+			"fetched": 1541833484542
+		}
+	},
+	"_rev": "2-cb15ed58aa31499e",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.flatten`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.flatten (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.flatten\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

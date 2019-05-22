@@ -1,0 +1,1237 @@
+{
+	"name": "base62",
+	"versions": {
+		"2.0.0": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "JavaScript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "2.0.0",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "./lib/legacy.js",
+			"engines": {
+				"node": ">=6.0.0"
+			},
+			"scripts": {
+				"test": "mocha",
+				"benchmark": "node benchmark/benchmarks.js; echo; node benchmark/benchmarks_legacy.js"
+			},
+			"devDependencies": {
+				"mocha": "~5.1.0"
+			},
+			"gitHead": "c0b246a928b82e2b0f1b9d6330aa855e752b4fb6",
+			"_id": "base62@2.0.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.11.1",
+			"_npmUser": {
+				"name": "fnd",
+				"email": "fndnpm@burningchrome.com"
+			},
+			"dist": {
+				"shasum": "62292693fb0418824caaae6dc19d01fe8bdd9691",
+				"size": 9907,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/base62_2.0.0_1523611103299_0.8712483841988958"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523611103449,
+			"_cnpm_publish_time": 1523611103449
+		},
+		"1.2.8": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.2.8",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha",
+				"benchmark": "node benchmark/benchmarks.js"
+			},
+			"devDependencies": {
+				"mocha": "~4.0.1"
+			},
+			"gitHead": "2a3bf98180450e88a7a1076ce06c15018602872f",
+			"_id": "base62@1.2.8",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.9.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"dist": {
+				"shasum": "1264cb0fb848d875792877479dbe8bae6bae3428",
+				"size": 7401,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.2.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/base62_1.2.8_1522430114663_0.4295891458850212"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522430114729,
+			"_cnpm_publish_time": 1522430114729
+		},
+		"1.2.7": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.2.7",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha",
+				"benchmark": "node benchmark/benchmarks.js",
+				"postinstall": "node scripts/install-stats.js || exit 0"
+			},
+			"devDependencies": {
+				"mocha": "~4.0.1"
+			},
+			"gitHead": "69229e1924e4de1c15c704aab48423fa817854f8",
+			"_id": "base62@1.2.7",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.5.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"dist": {
+				"shasum": "5c01aad73c0124f9535cff1bdb9c4e6ccf838cfb",
+				"size": 8217,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.2.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/base62_1.2.7_1518612376612_0.7729257644822856"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518612377280,
+			"_cnpm_publish_time": 1518612377280
+		},
+		"1.2.6": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.2.6",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha",
+				"benchmark": "node benchmark/benchmarks.js",
+				"postinstall": "node scripts/install-stats.js || exit 0"
+			},
+			"devDependencies": {
+				"mocha": "~4.0.1"
+			},
+			"gitHead": "2fc490d49396a669a56ee61f94bf389d59c33326",
+			"_id": "base62@1.2.6",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.5.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"dist": {
+				"shasum": "fe27a39e95efe6dba54d6b793c110269abb44a46",
+				"size": 8119,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.2.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/base62_1.2.6_1518611052005_0.5987396846718274"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518611052680,
+			"_cnpm_publish_time": 1518611052680
+		},
+		"1.2.5": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.2.5",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha",
+				"benchmark": "node benchmark/benchmarks.js",
+				"postinstall": "TID=UA-265870-43 node scripts/install-stats.js || exit 0"
+			},
+			"devDependencies": {
+				"mocha": "~4.0.1"
+			},
+			"gitHead": "c827dd89c973973479ff59d2d206e8f2439a1544",
+			"_id": "base62@1.2.5",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.5.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"dist": {
+				"shasum": "f59b629268aadafa2887667546b1fe3e15565507",
+				"size": 9819,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.2.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/base62_1.2.5_1518304598699_0.3230931704511093"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518304599461,
+			"_cnpm_publish_time": 1518304599461
+		},
+		"1.2.4": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.2.4",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha",
+				"benchmark": "node benchmark/benchmarks.js",
+				"postinstall": "TID=UA-265870-43 node scripts/install-stats.js"
+			},
+			"devDependencies": {
+				"mocha": "~4.0.1"
+			},
+			"gitHead": "5f178dc511248519a44e0126838ce7cf0fb7a138",
+			"_id": "base62@1.2.4",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.5.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"dist": {
+				"shasum": "eb73fbdc629bcf6145d4e05f0ecced067a20e2f7",
+				"size": 9812,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/base62_1.2.4_1518299663267_0.7739350697407543"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518299663964,
+			"_cnpm_publish_time": 1518299663964
+		},
+		"1.2.3": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.2.3",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha",
+				"benchmark": "node benchmark/benchmarks.js",
+				"postinstall": "TID=UA-265870-43 node_modules/.bin/install-stats"
+			},
+			"dependencies": {
+				"install-stats": "1.x"
+			},
+			"devDependencies": {
+				"mocha": "~4.0.1"
+			},
+			"gitHead": "7d83c802faa13df7d586b6f6c4184bed41a52077",
+			"_id": "base62@1.2.3",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.5.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"dist": {
+				"shasum": "2080ab2c0fa7e47df68619e84ff7a3bb9c48ccd7",
+				"size": 9174,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/base62_1.2.3_1518287418244_0.1985621241186173"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518287418904,
+			"_cnpm_publish_time": 1518287418904
+		},
+		"1.2.2": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.2.2",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha",
+				"benchmark": "node benchmark/benchmarks.js",
+				"install": "TID=UA-265870-43 node_modules/.bin/install-stats"
+			},
+			"dependencies": {
+				"install-stats": "1.x"
+			},
+			"devDependencies": {
+				"mocha": "~4.0.1"
+			},
+			"gitHead": "6f066773ff339ddf60fb0295ce84e9c732be6eb9",
+			"_id": "base62@1.2.2",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.5.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"dist": {
+				"shasum": "3a37d0233b4ba60f6a43dda14d0e31f4a02a732e",
+				"size": 9168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/base62_1.2.2_1518286983628_0.5870337572545699"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518286984286,
+			"_cnpm_publish_time": 1518286984286
+		},
+		"1.2.1": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.2.1",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha",
+				"benchmark": "node benchmark/benchmarks.js"
+			},
+			"devDependencies": {
+				"mocha": "~4.0.1"
+			},
+			"gitHead": "e3bdf6d3fdd6228c7eaac58a3c97c70585448f5e",
+			"_id": "base62@1.2.1",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "8.9.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"dist": {
+				"shasum": "95a5a22350b0a557f3f081247fc2c398803ecb0c",
+				"size": 9123,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/base62-1.2.1.tgz_1510648735437_0.3677203699480742"
+			},
+			"directories": {},
+			"publish_time": 1510648736587,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510648736587
+		},
+		"1.2.0": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.2.0",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha",
+				"benchmark": "node benchmark/benchmarks.js"
+			},
+			"devDependencies": {
+				"mocha": "~3.4.1"
+			},
+			"gitHead": "a18e44e483a320a14225de116f7d05db612b73e3",
+			"_id": "base62@1.2.0",
+			"_shasum": "31e7e560dc846c9f44c1a531df6514da35474157",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.10.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"dist": {
+				"shasum": "31e7e560dc846c9f44c1a531df6514da35474157",
+				"size": 9764,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.2.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/base62-1.2.0.tgz_1494847559126_0.7587315780110657"
+			},
+			"directories": {},
+			"publish_time": 1494847561056,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1494847561056
+		},
+		"1.1.2": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.1.2",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"mocha": "~3.1.0"
+			},
+			"gitHead": "8366b6fe380de0c4c5fd33a52b1df7e675d5a3db",
+			"_id": "base62@1.1.2",
+			"_shasum": "22ced6a49913565bc0b8d9a11563a465c084124c",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "7.0.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"dist": {
+				"shasum": "22ced6a49913565bc0b8d9a11563a465c084124c",
+				"size": 4770,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.1.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/base62-1.1.2.tgz_1479084230594_0.952026053564623"
+			},
+			"directories": {},
+			"publish_time": 1479084231131,
+			"_cnpm_publish_time": 1479084231131,
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62",
+				"encoder",
+				"decoder"
+			],
+			"license": "MIT",
+			"version": "1.1.1",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/andrew/base62.js.git"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"devDependencies": {
+				"mocha": "~2.4.5"
+			},
+			"gitHead": "8d5757251b468efa1f5bc9e1716577219d7788c6",
+			"_id": "base62@1.1.1",
+			"_shasum": "974e82c11bd5e00816b508a7ed9c7b9086c9db6b",
+			"_from": ".",
+			"_npmVersion": "3.7.3",
+			"_nodeVersion": "5.9.0",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"dist": {
+				"shasum": "974e82c11bd5e00816b508a7ed9c7b9086c9db6b",
+				"size": 4764,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.1.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/base62-1.1.1.tgz_1460670920673_0.4959259112365544"
+			},
+			"directories": {},
+			"publish_time": 1460670922812,
+			"_cnpm_publish_time": 1460670922812,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62"
+			],
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/andrew/base62.js/blob/master/LICENSE"
+				}
+			],
+			"version": "1.1.0",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/andrew/base62.js.git"
+			},
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha test"
+			},
+			"devDependencies": {
+				"mocha": "~2.1.0"
+			},
+			"gitHead": "7a37860056bdf139b8886eac1376327c02282dc8",
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"_id": "base62@1.1.0",
+			"_shasum": "4659de866558906d43fec61e07abd4397da74c19",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"dist": {
+				"shasum": "4659de866558906d43fec61e07abd4397da74c19",
+				"size": 3088,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.1.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1424685174646,
+			"_cnpm_publish_time": 1424685174646,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://nesbitt.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62"
+			],
+			"licenses": [
+				{
+					"type": "MIT",
+					"url": "https://github.com/andrew/base62.js/blob/master/LICENSE"
+				}
+			],
+			"version": "1.0.0",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/andrew/base62.js.git"
+			},
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha test"
+			},
+			"devDependencies": {
+				"mocha": "~1.21.4"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"_id": "base62@1.0.0",
+			"dist": {
+				"shasum": "47e25e40e841597877807a3a459a6b1f3f8a88a1",
+				"size": 2321,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-1.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.6",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"publish_time": 1413012143512,
+			"_cnpm_publish_time": 1413012143512,
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://andrew.github.io"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62"
+			],
+			"version": "0.1.2",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/andrew/base62.js.git"
+			},
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha test"
+			},
+			"devDependencies": {
+				"mocha": "1.7.x"
+			},
+			"bugs": {
+				"url": "https://github.com/andrew/base62.js/issues"
+			},
+			"homepage": "https://github.com/andrew/base62.js",
+			"_id": "base62@0.1.2",
+			"dist": {
+				"shasum": "6f0d1b71d7cbc18234fa6f86928c08d3923f547b",
+				"size": 2019,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-0.1.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.6",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"publish_time": 1405459485597,
+			"_cnpm_publish_time": 1405459485597,
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://andrew-nesbitt.com/"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"keywords": [
+				"base-62"
+			],
+			"version": "0.1.1",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/andrew/base62.js.git"
+			},
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"scripts": {
+				"test": "mocha test"
+			},
+			"devDependencies": {
+				"mocha": "1.7.x"
+			},
+			"readmeFilename": "Readme.md",
+			"_id": "base62@0.1.1",
+			"dist": {
+				"shasum": "7b4174c2f94449753b11c2651c083da841a7b084",
+				"size": 2113,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-0.1.1.tgz"
+			},
+			"_npmVersion": "1.1.65",
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"publish_time": 1355029887662,
+			"_cnpm_publish_time": 1355029887662,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"author": {
+				"name": "Andrew Nesbitt",
+				"email": "andrewnez@gmail.com",
+				"url": "http://andrew-nesbitt.com/"
+			},
+			"name": "base62",
+			"description": "Javascript Base62 encode/decoder",
+			"version": "0.1.0",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/andrew/base62.js.git"
+			},
+			"main": "base62.js",
+			"engines": {
+				"node": "*"
+			},
+			"_npmUser": {
+				"name": "andrewnez",
+				"email": "andrewnez@gmail.com"
+			},
+			"_id": "base62@0.1.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"optionalDependencies": {},
+			"_engineSupported": true,
+			"_npmVersion": "1.1.0-2",
+			"_nodeVersion": "v0.6.8",
+			"_defaultsLoaded": true,
+			"dist": {
+				"shasum": "03b8bde71477f095dff3455ccd5f8e0fd6bf91fa",
+				"size": 862,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/base62/download/base62-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "andrewnez",
+					"email": "andrewnez@gmail.com"
+				},
+				{
+					"name": "fnd",
+					"email": "anon@example.org"
+				}
+			],
+			"directories": {},
+			"publish_time": 1330106646916,
+			"_cnpm_publish_time": 1330106646916,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.0"
+	},
+	"time": {
+		"modified": "2018-04-13T09:18:30.000Z",
+		"created": "2012-02-24T18:04:06.916Z",
+		"2.0.0": "2018-04-13T09:18:23.449Z",
+		"1.2.8": "2018-03-30T17:15:14.729Z",
+		"1.2.7": "2018-02-14T12:46:17.280Z",
+		"1.2.6": "2018-02-14T12:24:12.680Z",
+		"1.2.5": "2018-02-10T23:16:39.461Z",
+		"1.2.4": "2018-02-10T21:54:23.964Z",
+		"1.2.3": "2018-02-10T18:30:18.904Z",
+		"1.2.2": "2018-02-10T18:23:04.286Z",
+		"1.2.1": "2017-11-14T08:38:56.587Z",
+		"1.2.0": "2017-05-15T11:26:01.056Z",
+		"1.1.2": "2016-11-14T00:43:51.131Z",
+		"1.1.1": "2016-04-14T21:55:22.812Z",
+		"1.1.0": "2015-02-23T09:52:54.646Z",
+		"1.0.0": "2014-10-11T07:22:23.512Z",
+		"0.1.2": "2014-07-15T21:24:45.597Z",
+		"0.1.1": "2012-12-09T05:11:27.662Z",
+		"0.1.0": "2012-02-24T18:04:06.916Z"
+	},
+	"_distfiles": {
+		"base62-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-2.0.0.tgz",
+			"sha": "62292693fb0418824caaae6dc19d01fe8bdd9691",
+			"registry": "cnpmjs"
+		},
+		"base62-1.2.8.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.2.8.tgz",
+			"sha": "1264cb0fb848d875792877479dbe8bae6bae3428",
+			"registry": "cnpmjs"
+		},
+		"base62-1.2.7.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.2.7.tgz",
+			"sha": "5c01aad73c0124f9535cff1bdb9c4e6ccf838cfb",
+			"registry": "cnpmjs"
+		},
+		"base62-1.2.6.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.2.6.tgz",
+			"sha": "fe27a39e95efe6dba54d6b793c110269abb44a46",
+			"registry": "cnpmjs"
+		},
+		"base62-1.2.5.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.2.5.tgz",
+			"sha": "f59b629268aadafa2887667546b1fe3e15565507",
+			"registry": "cnpmjs"
+		},
+		"base62-1.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.2.4.tgz",
+			"sha": "eb73fbdc629bcf6145d4e05f0ecced067a20e2f7",
+			"registry": "cnpmjs"
+		},
+		"base62-1.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.2.3.tgz",
+			"sha": "2080ab2c0fa7e47df68619e84ff7a3bb9c48ccd7",
+			"registry": "cnpmjs"
+		},
+		"base62-1.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.2.2.tgz",
+			"sha": "3a37d0233b4ba60f6a43dda14d0e31f4a02a732e",
+			"registry": "cnpmjs"
+		},
+		"base62-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.2.1.tgz",
+			"sha": "95a5a22350b0a557f3f081247fc2c398803ecb0c",
+			"registry": "cnpmjs"
+		},
+		"base62-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.2.0.tgz",
+			"sha": "31e7e560dc846c9f44c1a531df6514da35474157",
+			"registry": "cnpmjs"
+		},
+		"base62-1.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.1.2.tgz",
+			"sha": "22ced6a49913565bc0b8d9a11563a465c084124c",
+			"registry": "cnpmjs"
+		},
+		"base62-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.1.1.tgz",
+			"sha": "974e82c11bd5e00816b508a7ed9c7b9086c9db6b",
+			"registry": "cnpmjs"
+		},
+		"base62-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.1.0.tgz",
+			"sha": "4659de866558906d43fec61e07abd4397da74c19",
+			"registry": "cnpmjs"
+		},
+		"base62-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-1.0.0.tgz",
+			"sha": "47e25e40e841597877807a3a459a6b1f3f8a88a1",
+			"registry": "cnpmjs"
+		},
+		"base62-0.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-0.1.2.tgz",
+			"sha": "6f0d1b71d7cbc18234fa6f86928c08d3923f547b",
+			"registry": "cnpmjs"
+		},
+		"base62-0.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-0.1.1.tgz",
+			"sha": "7b4174c2f94449753b11c2651c083da841a7b084",
+			"registry": "cnpmjs"
+		},
+		"base62-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/base62/download/base62-0.1.0.tgz",
+			"sha": "03b8bde71477f095dff3455ccd5f8e0fd6bf91fa",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"65b8-sdzIpZMv6Va3mf3dB1NA9GTq5m4\"",
+			"fetched": 1527747723801
+		}
+	},
+	"_rev": "12-dda5bad6c6fc1635",
+	"readme": "# [Base62.js](http://libraries.io/npm/base62)\n[![build status](https://secure.travis-ci.org/andrew/base62.js.svg)](http://travis-ci.org/andrew/base62.js)\n[![npm version](https://badge.fury.io/js/base62.svg)](http://badge.fury.io/js/base62)\n[![devDependency Status](https://david-dm.org/andrew/base62.js/dev-status.svg?theme=shields.io)](https://david-dm.org/andrew/base62.js#info=devDependencies)\n[![Gitter chat](http://img.shields.io/badge/gitter-andrew/base62.js-brightgreen.svg)](https://gitter.im/andrew/base62.js)\n\nA JavaScript Base62 encode/decoder\n\n\n## What is Base62 encoding?\n\nBase62 encoding converts numbers to ASCII strings (0-9, a-z and A-Z) and vice\nversa, which typically results in comparatively short strings. Such identifiers\nalso tend to more readily identifiable by humans.\n\n* `999` ≙ `\"g7\"`\n* `9999` ≙ `\"2Bh\"`\n* `238327` ≙ `\"ZZZ\"`\n\n\n## Installation\n\n```shell\nnpm install base62\n```\n\nalternatively using Yarn:\n\n```shell\nyarn add base62\n```\n\n\n## Usage\n\nFor backwards compatibility, Base62.js exposes v1.x's API by default – see\n[Legacy API](#legacy-api) below. For efficiency, v2.x's modernized API allows\nselectively importing individual modules instead:\n\n```javascript\nvar base62 = require(\"base62/lib/ascii\");\n\nBase62.encode(999);  // \"g7\"\nBase62.decode(\"g7\"); // 999\n```\n\nThis uses the default **ASCII character set** for encoding/decoding.\n\nIt's also possible to define a **custom character set** instead:\n\n```javascript\nvar base62 = require(\"base62/lib/custom\");\n\nvar charset = \"~9876543210ABCDEFGHIJKLMNOPQRSTU$#@%!abcdefghijklmnopqrstuvw-=\";\ncharset = base62.indexCharset(charset);\n\nBase62.encode(999, charset);  // \"F3\"\nBase62.decode(\"F3\", charset); // 999\n```\n\nNote that `indexCharset` typically expects the respective string to contain\nexactly 62 unique character, but does not validate this for efficieny. In fact,\nit's also possible to use characters sets with more than 62 characters in order\nto achieve shorter identifiers for large numbers.\n\n\n### Legacy API\n\nBase62.js v1.x's API is maintained for backwards compatibility.\n\n```javascript\nvar Base62 = require(\"base62\");\n\nBase62.encode(999);  // \"g7\"\nBase62.decode(\"g7\"); // 999\n```\n\nThis uses the default **ASCII character set** for encoding/decoding.\n\nIt's also possible to define a **custom character set** instead:\n\n```javascript\nvar Base62 = require(\"base62\");\n\nvar charset = \"~9876543210ABCDEFGHIJKLMNOPQRSTU$#@%!abcdefghijklmnopqrstuvw-=\";\nBase62.setCharacterSet(charset);\n\nBase62.encode(999);  // \"F3\"\nBase62.decode(\"F3\"); // 999\n```\n\n`setCharacterSet` ensures that the respective string contains exactly 62 unique\ncharacters.\n\n\n## Development\n\nSource code is hosted on [GitHub](http://github.com/andrew/base62.js).\nPlease report issues or feature requests in\n[GitHub Issues](http://github.com/andrew/base62.js.issues).\n\n\n### Note on Patches/Pull Requests\n\n * Fork the project.\n * Make your feature addition or bug fix.\n * Add tests for it. This is important so I don't break it in a future version\n   unintentionally.\n * Send me a pull request. Bonus points for topic branches.\n\n\n### Release Process for Maintainers\n\n * Update the version number in `package.json`.\n * Commit this change with the respective version number as commit message\n   (e.g. \"1.2.3\").\n * Create a tag, using the prefixed version number (e.g. `git tag v1.2.3`).\n * Publish the new version: `git push --tags origin master` and `npm publish`.\n\n\n## Copyright\n\nCopyright (c) 2016 Andrew Nesbitt. See [LICENSE](https://github.com/andrew/base62.js/blob/master/LICENSE) for details."
+}

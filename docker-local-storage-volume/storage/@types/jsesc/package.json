@@ -1,0 +1,606 @@
+{
+	"name": "@types/jsesc",
+	"versions": {
+		"0.4.29": {
+			"name": "@types/jsesc",
+			"version": "0.4.29",
+			"description": "TypeScript definitions for jsesc 0.4.3",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "94b159fb7bb76b4ebab804b017deff71c79c6f8fa9a7e942c190a7a8d0c4bd4a",
+			"_id": "@types/jsesc@0.4.29",
+			"dist": {
+				"shasum": "d8db65b72776996c03870306a5b048c26980cf8e",
+				"size": 1087,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.29.tgz_1474307204999_0.5926798826549202"
+			},
+			"directories": {},
+			"publish_time": 1474307205253,
+			"_cnpm_publish_time": 1474307205253,
+			"_hasShrinkwrap": false
+		},
+		"0.4.28": {
+			"name": "@types/jsesc",
+			"version": "0.4.28",
+			"description": "TypeScript definitions for jsesc 0.4.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsesc@0.4.28",
+			"_shasum": "f1b6997f1a854d2b59a1a0c073ce4f31fd2da90f",
+			"_from": "output\\jsesc",
+			"_resolved": "file:output\\jsesc",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f1b6997f1a854d2b59a1a0c073ce4f31fd2da90f",
+				"size": 1072,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.28.tgz_1468508958673_0.3433943644631654"
+			},
+			"directories": {},
+			"publish_time": 1468508961280,
+			"_cnpm_publish_time": 1468508961280,
+			"_hasShrinkwrap": false
+		},
+		"0.4.27-alpha": {
+			"name": "@types/jsesc",
+			"version": "0.4.27-alpha",
+			"description": "TypeScript definitions for jsesc 0.4.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsesc@0.4.27-alpha",
+			"_shasum": "0d189e01d192d7a61266187b40d10e6aba9364e6",
+			"_from": "output\\jsesc",
+			"_resolved": "file:output\\jsesc",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0d189e01d192d7a61266187b40d10e6aba9364e6",
+				"size": 1079,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.27-alpha.tgz_1468010215491_0.6595400178339332"
+			},
+			"directories": {},
+			"publish_time": 1468010217968,
+			"_cnpm_publish_time": 1468010217968,
+			"_hasShrinkwrap": false
+		},
+		"0.4.26-alpha": {
+			"name": "@types/jsesc",
+			"version": "0.4.26-alpha",
+			"description": "TypeScript definitions for jsesc 0.4.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsesc@0.4.26-alpha",
+			"_shasum": "e32ed1180ed15602f4532e905417ffa64c7f1f39",
+			"_from": "output\\jsesc",
+			"_resolved": "file:output\\jsesc",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e32ed1180ed15602f4532e905417ffa64c7f1f39",
+				"size": 1077,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.26-alpha.tgz_1467592568922_0.0015080973971635103"
+			},
+			"directories": {},
+			"publish_time": 1467592572499,
+			"_cnpm_publish_time": 1467592572499,
+			"_hasShrinkwrap": false
+		},
+		"0.4.25-alpha": {
+			"name": "@types/jsesc",
+			"version": "0.4.25-alpha",
+			"description": "TypeScript definitions for jsesc 0.4.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsesc@0.4.25-alpha",
+			"_shasum": "4183b0eb786806edc899727c4c703163ed798147",
+			"_from": "output\\jsesc",
+			"_resolved": "file:output\\jsesc",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4183b0eb786806edc899727c4c703163ed798147",
+				"size": 1077,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.25-alpha.tgz_1467427585147_0.852314660558477"
+			},
+			"directories": {},
+			"publish_time": 1467427585675,
+			"_cnpm_publish_time": 1467427585675,
+			"_hasShrinkwrap": false
+		},
+		"0.4.24-alpha": {
+			"name": "@types/jsesc",
+			"version": "0.4.24-alpha",
+			"description": "TypeScript definitions for jsesc 0.4.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsesc@0.4.24-alpha",
+			"_shasum": "704ea6a8a0aa6f254556e825e753641c0cc75307",
+			"_from": "output\\jsesc",
+			"_resolved": "file:output\\jsesc",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "704ea6a8a0aa6f254556e825e753641c0cc75307",
+				"size": 1079,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.24-alpha.tgz_1467414713183_0.061106136068701744"
+			},
+			"directories": {},
+			"publish_time": 1467414713706,
+			"_cnpm_publish_time": 1467414713706,
+			"_hasShrinkwrap": false
+		},
+		"0.4.23-alpha": {
+			"name": "@types/jsesc",
+			"version": "0.4.23-alpha",
+			"description": "TypeScript definitions for jsesc 0.4.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsesc@0.4.23-alpha",
+			"_shasum": "8df4d6dd21be66fef10f77375fe6e4a431911ade",
+			"_from": "output\\jsesc",
+			"_resolved": "file:output\\jsesc",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8df4d6dd21be66fef10f77375fe6e4a431911ade",
+				"size": 1069,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.23-alpha.tgz_1467402719118_0.9702854433562607"
+			},
+			"directories": {},
+			"publish_time": 1467402721266,
+			"_cnpm_publish_time": 1467402721266,
+			"_hasShrinkwrap": false
+		},
+		"0.4.22-alpha": {
+			"name": "@types/jsesc",
+			"version": "0.4.22-alpha",
+			"description": "TypeScript definitions for jsesc 0.4.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsesc@0.4.22-alpha",
+			"_shasum": "816b3c6417c52beb4e80b7d27fa87c6d829b5572",
+			"_from": "output\\jsesc",
+			"_resolved": "file:output\\jsesc",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "816b3c6417c52beb4e80b7d27fa87c6d829b5572",
+				"size": 1044,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.22-alpha.tgz_1464153451491_0.7025089941453189"
+			},
+			"directories": {},
+			"publish_time": 1464153454159,
+			"_cnpm_publish_time": 1464153454159,
+			"_hasShrinkwrap": false
+		},
+		"0.4.21-alpha": {
+			"name": "@types/jsesc",
+			"version": "0.4.21-alpha",
+			"description": "TypeScript definitions for jsesc 0.4.3",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsesc@0.4.21-alpha",
+			"_shasum": "59ef1c4f7d845652ccdf294502602672e9622569",
+			"_from": "output\\jsesc",
+			"_resolved": "file:output\\jsesc",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "59ef1c4f7d845652ccdf294502602672e9622569",
+				"size": 1047,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.21-alpha.tgz_1463774359454_0.6176498073618859"
+			},
+			"directories": {},
+			"publish_time": 1463774361402,
+			"_cnpm_publish_time": 1463774361402,
+			"_hasShrinkwrap": false
+		},
+		"0.4.16-alpha": {
+			"name": "@types/jsesc",
+			"version": "0.4.16-alpha",
+			"description": "Type definitions for jsesc 0.4.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsesc@0.4.16-alpha",
+			"_shasum": "6939e126a5d1f3620c820e08ee30f36ec6fda16f",
+			"_from": "output\\jsesc",
+			"_resolved": "file:output\\jsesc",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6939e126a5d1f3620c820e08ee30f36ec6fda16f",
+				"size": 1051,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.16-alpha.tgz_1463693242987_0.736503372201696"
+			},
+			"directories": {},
+			"publish_time": 1463693243642,
+			"_cnpm_publish_time": 1463693243642,
+			"_hasShrinkwrap": false
+		},
+		"0.4.15-alpha": {
+			"name": "@types/jsesc",
+			"version": "0.4.15-alpha",
+			"description": "Type definitions for jsesc 0.4.3 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsesc@0.4.15-alpha",
+			"_shasum": "10fa6a1e19ee86972a9c334a38443cd04d3ab678",
+			"_from": "output\\jsesc",
+			"_resolved": "file:output\\jsesc",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "10fa6a1e19ee86972a9c334a38443cd04d3ab678",
+				"size": 1043,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsesc-0.4.15-alpha.tgz_1463462691637_0.8761425795964897"
+			},
+			"directories": {},
+			"publish_time": 1463462695279,
+			"_cnpm_publish_time": 1463462695279,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.4.29",
+		"ts2.0": "0.4.29",
+		"ts2.1": "0.4.29",
+		"ts2.2": "0.4.29",
+		"ts2.3": "0.4.29",
+		"ts2.4": "0.4.29",
+		"ts2.5": "0.4.29",
+		"ts2.6": "0.4.29",
+		"ts2.7": "0.4.29",
+		"ts2.8": "0.4.29",
+		"ts2.9": "0.4.29",
+		"ts3.0": "0.4.29",
+		"ts3.1": "0.4.29",
+		"ts3.2": "0.4.29"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:51.000Z",
+		"created": "2016-05-17T05:24:55.279Z",
+		"0.4.29": "2016-09-19T17:46:45.253Z",
+		"0.4.28": "2016-07-14T15:09:21.280Z",
+		"0.4.27-alpha": "2016-07-08T20:36:57.968Z",
+		"0.4.26-alpha": "2016-07-04T00:36:12.499Z",
+		"0.4.25-alpha": "2016-07-02T02:46:25.675Z",
+		"0.4.24-alpha": "2016-07-01T23:11:53.706Z",
+		"0.4.23-alpha": "2016-07-01T19:52:01.266Z",
+		"0.4.22-alpha": "2016-05-25T05:17:34.159Z",
+		"0.4.21-alpha": "2016-05-20T19:59:21.402Z",
+		"0.4.16-alpha": "2016-05-19T21:27:23.642Z",
+		"0.4.15-alpha": "2016-05-17T05:24:55.279Z"
+	},
+	"_distfiles": {
+		"jsesc-0.4.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.29.tgz",
+			"sha": "d8db65b72776996c03870306a5b048c26980cf8e",
+			"registry": "cnpmjs"
+		},
+		"jsesc-0.4.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.28.tgz",
+			"sha": "f1b6997f1a854d2b59a1a0c073ce4f31fd2da90f",
+			"registry": "cnpmjs"
+		},
+		"jsesc-0.4.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.27-alpha.tgz",
+			"sha": "0d189e01d192d7a61266187b40d10e6aba9364e6",
+			"registry": "cnpmjs"
+		},
+		"jsesc-0.4.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.26-alpha.tgz",
+			"sha": "e32ed1180ed15602f4532e905417ffa64c7f1f39",
+			"registry": "cnpmjs"
+		},
+		"jsesc-0.4.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.25-alpha.tgz",
+			"sha": "4183b0eb786806edc899727c4c703163ed798147",
+			"registry": "cnpmjs"
+		},
+		"jsesc-0.4.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.24-alpha.tgz",
+			"sha": "704ea6a8a0aa6f254556e825e753641c0cc75307",
+			"registry": "cnpmjs"
+		},
+		"jsesc-0.4.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.23-alpha.tgz",
+			"sha": "8df4d6dd21be66fef10f77375fe6e4a431911ade",
+			"registry": "cnpmjs"
+		},
+		"jsesc-0.4.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.22-alpha.tgz",
+			"sha": "816b3c6417c52beb4e80b7d27fa87c6d829b5572",
+			"registry": "cnpmjs"
+		},
+		"jsesc-0.4.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.21-alpha.tgz",
+			"sha": "59ef1c4f7d845652ccdf294502602672e9622569",
+			"registry": "cnpmjs"
+		},
+		"jsesc-0.4.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.16-alpha.tgz",
+			"sha": "6939e126a5d1f3620c820e08ee30f36ec6fda16f",
+			"registry": "cnpmjs"
+		},
+		"jsesc-0.4.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsesc/download/@types/jsesc-0.4.15-alpha.tgz",
+			"sha": "10fa6a1e19ee86972a9c334a38443cd04d3ab678",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833458005
+		}
+	},
+	"_rev": "2-bce2a3efcc76e88d",
+	"readme": "# Installation\r\n> `npm install --save @types/jsesc`\r\n\r\n# Summary\r\nThis package contains type definitions for jsesc 0.4.3 (https://github.com/mathiasbynens/jsesc).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/jsesc\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 17:28:59 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: jsesc\r\n\r\n# Credits\r\nThese definitions were written by Bart van der Schoor <https://github.com/Bartvds>."
+}

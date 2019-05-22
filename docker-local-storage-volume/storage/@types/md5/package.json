@@ -1,0 +1,872 @@
+{
+	"name": "@types/md5",
+	"versions": {
+		"2.1.32": {
+			"name": "@types/md5",
+			"version": "2.1.32",
+			"description": "TypeScript definitions for md5",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bill Sourour",
+					"url": "https://github.com/arcdev1"
+				},
+				{
+					"name": "Cameron Crothers",
+					"url": "https://github.com/jprogrammer"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6e0cf7231e664240068e154b7478487bd6ed89c3f1d43852d1b3f3f7b7f792e1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/md5@2.1.32",
+			"dist": {
+				"shasum": "93e23437fcd17a7b9ca98d02aa6002e835842fe8",
+				"size": 1655,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-2.1.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/md5-2.1.32.tgz_1492451794840_0.1131006742361933"
+			},
+			"directories": {},
+			"publish_time": 1492451795280,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492451795280
+		},
+		"2.1.31": {
+			"name": "@types/md5",
+			"version": "2.1.31",
+			"description": "TypeScript definitions for md5 v2.1.0",
+			"license": "MIT",
+			"author": "Bill Sourour <https://github.com/arcdev1>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "5c7e8bd36256faa79215732eaff37ec2a67bb2d7c8108f394999cc0f24aab1f5",
+			"_id": "@types/md5@2.1.31",
+			"dist": {
+				"shasum": "86515b05e1b21fe64d5b56db17796d831f5ae126",
+				"size": 1119,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-2.1.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/md5-2.1.31.tgz_1474307486762_0.7341566996183246"
+			},
+			"directories": {},
+			"publish_time": 1474307486987,
+			"_cnpm_publish_time": 1474307486987,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/md5",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for md5 v2.1.0",
+			"license": "MIT",
+			"author": "Bill Sourour <https://github.com/arcdev1>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/md5@0.0.30",
+			"dist": {
+				"shasum": "467322b3ec765be1e980b9b16132e8242df7dd7a",
+				"size": 1112,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.30.tgz_1472150966640_0.4734126457478851"
+			},
+			"directories": {},
+			"publish_time": 1472150967189,
+			"_cnpm_publish_time": 1472150967189,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/md5",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for md5 v2.1.0",
+			"license": "MIT",
+			"author": "Bill Sourour <https://github.com/arcdev1>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/md5@0.0.29",
+			"dist": {
+				"shasum": "d49e93f30e14ca21b8a7a69bc4353ee1d703e1b9",
+				"size": 1112,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.29.tgz_1471620815489_0.3254640658851713"
+			},
+			"directories": {},
+			"publish_time": 1471620816749,
+			"_cnpm_publish_time": 1471620816749,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/md5",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for md5 v2.1.0",
+			"license": "MIT",
+			"author": "Bill Sourour <https://github.com/arcdev1>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "6.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/md5@0.0.28",
+			"dist": {
+				"shasum": "6ffa4b1cbb8a604713115e6c8390796fa840a887",
+				"size": 6656,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.28.tgz_1470153597157_0.5812091606203467"
+			},
+			"directories": {},
+			"publish_time": 1470153598672,
+			"_cnpm_publish_time": 1470153598672,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/md5",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for CybozuLabs.MD5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MIZUNE Pine",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/md5@0.0.27",
+			"_shasum": "4e4d14a1b37890af87dc3dd414cb5805825dd7c5",
+			"_from": "output\\md5",
+			"_resolved": "file:output\\md5",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4e4d14a1b37890af87dc3dd414cb5805825dd7c5",
+				"size": 1040,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.27.tgz_1468506186516_0.44880831171758473"
+			},
+			"directories": {},
+			"publish_time": 1468506188938,
+			"_cnpm_publish_time": 1468506188938,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/md5",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for CybozuLabs.MD5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MIZUNE Pine",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/md5@0.0.26-alpha",
+			"_shasum": "edce53c0011d36ab0fdc69f35889b07944efe6a4",
+			"_from": "output\\md5",
+			"_resolved": "file:output\\md5",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "edce53c0011d36ab0fdc69f35889b07944efe6a4",
+				"size": 1046,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.26-alpha.tgz_1468011371202_0.6498935839626938"
+			},
+			"directories": {},
+			"publish_time": 1468011372624,
+			"_cnpm_publish_time": 1468011372624,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/md5",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for CybozuLabs.MD5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MIZUNE Pine",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/md5@0.0.25-alpha",
+			"_shasum": "41215b34213852daac696d07fd834a6c80a959e4",
+			"_from": "output\\md5",
+			"_resolved": "file:output\\md5",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "41215b34213852daac696d07fd834a6c80a959e4",
+				"size": 1046,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.25-alpha.tgz_1467593510545_0.5412689689546824"
+			},
+			"directories": {},
+			"publish_time": 1467593510994,
+			"_cnpm_publish_time": 1467593510994,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/md5",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for CybozuLabs.MD5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MIZUNE Pine",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/md5@0.0.24-alpha",
+			"_shasum": "02b07b61b9197de65f0d778a45ae1ab1ecf7ddb8",
+			"_from": "output\\md5",
+			"_resolved": "file:output\\md5",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "02b07b61b9197de65f0d778a45ae1ab1ecf7ddb8",
+				"size": 1046,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.24-alpha.tgz_1467428375644_0.271892583463341"
+			},
+			"directories": {},
+			"publish_time": 1467428379131,
+			"_cnpm_publish_time": 1467428379131,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/md5",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for CybozuLabs.MD5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MIZUNE Pine",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/md5@0.0.23-alpha",
+			"_shasum": "064e7857be2bd6895988533a0bc78b9fbce1cd4e",
+			"_from": "output\\md5",
+			"_resolved": "file:output\\md5",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "064e7857be2bd6895988533a0bc78b9fbce1cd4e",
+				"size": 1046,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.23-alpha.tgz_1467415750524_0.24783135089091957"
+			},
+			"directories": {},
+			"publish_time": 1467415752590,
+			"_cnpm_publish_time": 1467415752590,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/md5",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for CybozuLabs.MD5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MIZUNE Pine",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/md5@0.0.22-alpha",
+			"_shasum": "32e828222dd289a78b706e043a2289a9fa8f8408",
+			"_from": "output\\md5",
+			"_resolved": "file:output\\md5",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "32e828222dd289a78b706e043a2289a9fa8f8408",
+				"size": 1040,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.22-alpha.tgz_1467403472136_0.7989211676176637"
+			},
+			"directories": {},
+			"publish_time": 1467403475935,
+			"_cnpm_publish_time": 1467403475935,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/md5",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for CybozuLabs.MD5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MIZUNE Pine",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/md5@0.0.21-alpha",
+			"_shasum": "cd3ca36a4c07459bb53e884ccab225a6c308abff",
+			"_from": "output\\md5",
+			"_resolved": "file:output\\md5",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cd3ca36a4c07459bb53e884ccab225a6c308abff",
+				"size": 1016,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.21-alpha.tgz_1464154014473_0.4691588501445949"
+			},
+			"directories": {},
+			"publish_time": 1464154014967,
+			"_cnpm_publish_time": 1464154014967,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/md5",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for CybozuLabs.MD5",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MIZUNE Pine",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/md5@0.0.20-alpha",
+			"_shasum": "edcb8f7ac5af38f1fb9ded0e553f7e00192b0d8d",
+			"_from": "output\\md5",
+			"_resolved": "file:output\\md5",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "edcb8f7ac5af38f1fb9ded0e553f7e00192b0d8d",
+				"size": 1016,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.20-alpha.tgz_1463774947817_0.7689913571812212"
+			},
+			"directories": {},
+			"publish_time": 1463774948844,
+			"_cnpm_publish_time": 1463774948844,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/md5",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for CybozuLabs.MD5 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MIZUNE Pine",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/md5@0.0.15-alpha",
+			"_shasum": "f77c049a4a7f63355ed45c4cbfa56632cd3f741c",
+			"_from": "output\\md5",
+			"_resolved": "file:output\\md5",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f77c049a4a7f63355ed45c4cbfa56632cd3f741c",
+				"size": 1025,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.15-alpha.tgz_1463694062369_0.5216481855604798"
+			},
+			"directories": {},
+			"publish_time": 1463694063003,
+			"_cnpm_publish_time": 1463694063003,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/md5",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for CybozuLabs.MD5 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "MIZUNE Pine",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/md5@0.0.14-alpha",
+			"_shasum": "30aa160884f9f99a0c69be06ddb9ab074a8bd34f",
+			"_from": "output\\md5",
+			"_resolved": "file:output\\md5",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "30aa160884f9f99a0c69be06ddb9ab074a8bd34f",
+				"size": 1018,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/md5-0.0.14-alpha.tgz_1463509129031_0.3582428789231926"
+			},
+			"directories": {},
+			"publish_time": 1463509129566,
+			"_cnpm_publish_time": 1463509129566,
+			"_hasShrinkwrap": false
+		},
+		"2.1.33": {
+			"name": "@types/md5",
+			"version": "2.1.33",
+			"description": "TypeScript definitions for md5",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bill Sourour",
+					"url": "https://github.com/arcdev1",
+					"githubUsername": "arcdev1"
+				},
+				{
+					"name": "Cameron Crothers",
+					"url": "https://github.com/jprogrammer",
+					"githubUsername": "jprogrammer"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "4a45d8113c783caad08ba4ac14c6bd485df8b42528f21e5702e4f4c7d08eeb4a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/md5@2.1.33",
+			"dist": {
+				"shasum": "8c8dba30df4ad0e92296424f08c4898dd808e8df",
+				"size": 1672,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/md5/download/@types/md5-2.1.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/md5_2.1.33_1537170220710_0.6633336218127546"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1537170220885,
+			"_cnpm_publish_time": 1537170220885
+		}
+	},
+	"dist-tags": {
+		"latest": "2.1.33",
+		"ts2.0": "2.1.33",
+		"ts2.1": "2.1.33",
+		"ts2.2": "2.1.33",
+		"ts2.3": "2.1.33",
+		"ts2.4": "2.1.33",
+		"ts2.5": "2.1.33",
+		"ts2.6": "2.1.33",
+		"ts2.7": "2.1.33",
+		"ts2.8": "2.1.33",
+		"ts2.9": "2.1.33",
+		"ts3.0": "2.1.33",
+		"ts3.1": "2.1.33",
+		"ts3.2": "2.1.33"
+	},
+	"time": {
+		"modified": "2018-09-17T07:43:58.000Z",
+		"created": "2016-05-17T18:18:49.566Z",
+		"2.1.33": "2018-09-17T07:43:40.885Z",
+		"2.1.32": "2017-04-17T17:56:35.280Z",
+		"2.1.31": "2016-09-19T17:51:26.987Z",
+		"0.0.30": "2016-08-25T18:49:27.189Z",
+		"0.0.29": "2016-08-19T15:33:36.749Z",
+		"0.0.28": "2016-08-02T15:59:58.672Z",
+		"0.0.27": "2016-07-14T14:23:08.938Z",
+		"0.0.26-alpha": "2016-07-08T20:56:12.624Z",
+		"0.0.25-alpha": "2016-07-04T00:51:50.994Z",
+		"0.0.24-alpha": "2016-07-02T02:59:39.131Z",
+		"0.0.23-alpha": "2016-07-01T23:29:12.590Z",
+		"0.0.22-alpha": "2016-07-01T20:04:35.935Z",
+		"0.0.21-alpha": "2016-05-25T05:26:54.967Z",
+		"0.0.20-alpha": "2016-05-20T20:09:08.844Z",
+		"0.0.15-alpha": "2016-05-19T21:41:03.003Z",
+		"0.0.14-alpha": "2016-05-17T18:18:49.566Z"
+	},
+	"_distfiles": {
+		"md5-2.1.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-2.1.32.tgz",
+			"sha": "93e23437fcd17a7b9ca98d02aa6002e835842fe8",
+			"registry": "cnpmjs"
+		},
+		"md5-2.1.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-2.1.31.tgz",
+			"sha": "86515b05e1b21fe64d5b56db17796d831f5ae126",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.30.tgz",
+			"sha": "467322b3ec765be1e980b9b16132e8242df7dd7a",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.29.tgz",
+			"sha": "d49e93f30e14ca21b8a7a69bc4353ee1d703e1b9",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.28.tgz",
+			"sha": "6ffa4b1cbb8a604713115e6c8390796fa840a887",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.27.tgz",
+			"sha": "4e4d14a1b37890af87dc3dd414cb5805825dd7c5",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.26-alpha.tgz",
+			"sha": "edce53c0011d36ab0fdc69f35889b07944efe6a4",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.25-alpha.tgz",
+			"sha": "41215b34213852daac696d07fd834a6c80a959e4",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.24-alpha.tgz",
+			"sha": "02b07b61b9197de65f0d778a45ae1ab1ecf7ddb8",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.23-alpha.tgz",
+			"sha": "064e7857be2bd6895988533a0bc78b9fbce1cd4e",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.22-alpha.tgz",
+			"sha": "32e828222dd289a78b706e043a2289a9fa8f8408",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.21-alpha.tgz",
+			"sha": "cd3ca36a4c07459bb53e884ccab225a6c308abff",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.20-alpha.tgz",
+			"sha": "edcb8f7ac5af38f1fb9ded0e553f7e00192b0d8d",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.15-alpha.tgz",
+			"sha": "f77c049a4a7f63355ed45c4cbfa56632cd3f741c",
+			"registry": "cnpmjs"
+		},
+		"md5-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-0.0.14-alpha.tgz",
+			"sha": "30aa160884f9f99a0c69be06ddb9ab074a8bd34f",
+			"registry": "cnpmjs"
+		},
+		"md5-2.1.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/md5/download/@types/md5-2.1.33.tgz",
+			"sha": "8c8dba30df4ad0e92296424f08c4898dd808e8df",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"4959-YDbcj3M3EFS4n9QOCttHzsBarO4\"",
+			"fetched": 1541833276700
+		}
+	},
+	"_rev": "2-0345446cd1ea3dd6",
+	"readme": "# Installation\r\n> `npm install --save @types/md5`\r\n\r\n# Summary\r\nThis package contains type definitions for md5 (https://github.com/pvorb/node-md5).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/md5\r\n\r\nAdditional Details\r\n * Last updated: Mon, 17 Sep 2018 07:42:41 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Bill Sourour <https://github.com/arcdev1>, Cameron Crothers <https://github.com/jprogrammer>."
+}

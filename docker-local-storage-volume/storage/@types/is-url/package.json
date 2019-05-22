@@ -1,0 +1,606 @@
+{
+	"name": "@types/is-url",
+	"versions": {
+		"1.2.28": {
+			"name": "@types/is-url",
+			"version": "1.2.28",
+			"description": "TypeScript definitions for is-url v1.2.1",
+			"license": "MIT",
+			"author": "Ryota Murohoshi <https://github.com/RyotaMurohoshi>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b8a70146ed0a62ee8c5c6c81e7314e00d5adeeb7f2b0d6715a45b24040f3490a",
+			"_id": "@types/is-url@1.2.28",
+			"dist": {
+				"shasum": "914dabd50546d9b0142806e42c72bc7c2b7e0787",
+				"size": 1000,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.28.tgz_1474306800114_0.02200309676118195"
+			},
+			"directories": {},
+			"publish_time": 1474306803098,
+			"_cnpm_publish_time": 1474306803098,
+			"_hasShrinkwrap": false
+		},
+		"1.2.27": {
+			"name": "@types/is-url",
+			"version": "1.2.27",
+			"description": "TypeScript definitions for is-url v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ryota Murohoshi",
+				"email": "https://github.com/RyotaMurohoshi"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-url@1.2.27",
+			"_shasum": "6ba55d03f94cff1d1b0646eb866084a9d7f7c99d",
+			"_from": "output\\is-url",
+			"_resolved": "file:output\\is-url",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6ba55d03f94cff1d1b0646eb866084a9d7f7c99d",
+				"size": 970,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.27.tgz_1468508207781_0.5018242632504553"
+			},
+			"directories": {},
+			"publish_time": 1468508210015,
+			"_cnpm_publish_time": 1468508210015,
+			"_hasShrinkwrap": false
+		},
+		"1.2.26-alpha": {
+			"name": "@types/is-url",
+			"version": "1.2.26-alpha",
+			"description": "TypeScript definitions for is-url v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ryota Murohoshi",
+				"email": "https://github.com/RyotaMurohoshi"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-url@1.2.26-alpha",
+			"_shasum": "061335fb6cb16cca9b2979b5757b14b216b154ce",
+			"_from": "output\\is-url",
+			"_resolved": "file:output\\is-url",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "061335fb6cb16cca9b2979b5757b14b216b154ce",
+				"size": 974,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.26-alpha.tgz_1468009619472_0.4624531767331064"
+			},
+			"directories": {},
+			"publish_time": 1468009621898,
+			"_cnpm_publish_time": 1468009621898,
+			"_hasShrinkwrap": false
+		},
+		"1.2.25-alpha": {
+			"name": "@types/is-url",
+			"version": "1.2.25-alpha",
+			"description": "TypeScript definitions for is-url v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ryota Murohoshi",
+				"email": "https://github.com/RyotaMurohoshi"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-url@1.2.25-alpha",
+			"_shasum": "c7b6974dc48eaf76efdbe35fdf57db0e27c983ec",
+			"_from": "output\\is-url",
+			"_resolved": "file:output\\is-url",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c7b6974dc48eaf76efdbe35fdf57db0e27c983ec",
+				"size": 975,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.25-alpha.tgz_1467592336221_0.7850145858246833"
+			},
+			"directories": {},
+			"publish_time": 1467592336722,
+			"_cnpm_publish_time": 1467592336722,
+			"_hasShrinkwrap": false
+		},
+		"1.2.24-alpha": {
+			"name": "@types/is-url",
+			"version": "1.2.24-alpha",
+			"description": "TypeScript definitions for is-url v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ryota Murohoshi",
+				"email": "https://github.com/RyotaMurohoshi"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-url@1.2.24-alpha",
+			"_shasum": "e8ae9595c987e3051c2da674c60fa1c86ccd6986",
+			"_from": "output\\is-url",
+			"_resolved": "file:output\\is-url",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e8ae9595c987e3051c2da674c60fa1c86ccd6986",
+				"size": 973,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.24-alpha.tgz_1467427242596_0.03258523880504072"
+			},
+			"directories": {},
+			"publish_time": 1467427243242,
+			"_cnpm_publish_time": 1467427243242,
+			"_hasShrinkwrap": false
+		},
+		"1.2.23-alpha": {
+			"name": "@types/is-url",
+			"version": "1.2.23-alpha",
+			"description": "TypeScript definitions for is-url v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ryota Murohoshi",
+				"email": "https://github.com/RyotaMurohoshi"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-url@1.2.23-alpha",
+			"_shasum": "c94030ea461d62df4ebc063b8f45ba53c45e00de",
+			"_from": "output\\is-url",
+			"_resolved": "file:output\\is-url",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c94030ea461d62df4ebc063b8f45ba53c45e00de",
+				"size": 974,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.23-alpha.tgz_1467414308095_0.9721586343366653"
+			},
+			"directories": {},
+			"publish_time": 1467414308627,
+			"_cnpm_publish_time": 1467414308627,
+			"_hasShrinkwrap": false
+		},
+		"1.2.22-alpha": {
+			"name": "@types/is-url",
+			"version": "1.2.22-alpha",
+			"description": "TypeScript definitions for is-url v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ryota Murohoshi",
+				"email": "https://github.com/RyotaMurohoshi"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-url@1.2.22-alpha",
+			"_shasum": "a8d7aaad64cc6f1f445460a266a563b384178e37",
+			"_from": "output\\is-url",
+			"_resolved": "file:output\\is-url",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a8d7aaad64cc6f1f445460a266a563b384178e37",
+				"size": 969,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.22-alpha.tgz_1467402245029_0.9928362478967756"
+			},
+			"directories": {},
+			"publish_time": 1467402247148,
+			"_cnpm_publish_time": 1467402247148,
+			"_hasShrinkwrap": false
+		},
+		"1.2.21-alpha": {
+			"name": "@types/is-url",
+			"version": "1.2.21-alpha",
+			"description": "TypeScript definitions for is-url v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ryota Murohoshi",
+				"email": "https://github.com/RyotaMurohoshi"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-url@1.2.21-alpha",
+			"_shasum": "c5b5f757c6c4f16df9c013fa04ec5c6c251d6011",
+			"_from": "output\\is-url",
+			"_resolved": "file:output\\is-url",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c5b5f757c6c4f16df9c013fa04ec5c6c251d6011",
+				"size": 942,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.21-alpha.tgz_1464152929784_0.6752789388410747"
+			},
+			"directories": {},
+			"publish_time": 1464152932395,
+			"_cnpm_publish_time": 1464152932395,
+			"_hasShrinkwrap": false
+		},
+		"1.2.20-alpha": {
+			"name": "@types/is-url",
+			"version": "1.2.20-alpha",
+			"description": "TypeScript definitions for is-url v1.2.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ryota Murohoshi",
+				"email": "https://github.com/RyotaMurohoshi"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-url@1.2.20-alpha",
+			"_shasum": "01cdced77c973c748140cc79dd22af08867f8788",
+			"_from": "output\\is-url",
+			"_resolved": "file:output\\is-url",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "01cdced77c973c748140cc79dd22af08867f8788",
+				"size": 940,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.20-alpha.tgz_1463773823815_0.9202931488398463"
+			},
+			"directories": {},
+			"publish_time": 1463773824250,
+			"_cnpm_publish_time": 1463773824250,
+			"_hasShrinkwrap": false
+		},
+		"1.2.15-alpha": {
+			"name": "@types/is-url",
+			"version": "1.2.15-alpha",
+			"description": "Type definitions for is-url v1.2.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ryota Murohoshi",
+				"email": "https://github.com/RyotaMurohoshi"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-url@1.2.15-alpha",
+			"_shasum": "1b8db67237cbec5348505fb6bbef0b4a96489310",
+			"_from": "output\\is-url",
+			"_resolved": "file:output\\is-url",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1b8db67237cbec5348505fb6bbef0b4a96489310",
+				"size": 950,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.15-alpha.tgz_1463692487894_0.9059244929812849"
+			},
+			"directories": {},
+			"publish_time": 1463692491224,
+			"_cnpm_publish_time": 1463692491224,
+			"_hasShrinkwrap": false
+		},
+		"1.2.14-alpha": {
+			"name": "@types/is-url",
+			"version": "1.2.14-alpha",
+			"description": "Type definitions for is-url v1.2.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ryota Murohoshi",
+				"email": "https://github.com/RyotaMurohoshi"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/is-url@1.2.14-alpha",
+			"_shasum": "821772313422a29722bd27b4ad16e8a92e33b517",
+			"_from": "output\\is-url",
+			"_resolved": "file:output\\is-url",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "821772313422a29722bd27b4ad16e8a92e33b517",
+				"size": 942,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/is-url-1.2.14-alpha.tgz_1463462049204_0.8398962575010955"
+			},
+			"directories": {},
+			"publish_time": 1463462052718,
+			"_cnpm_publish_time": 1463462052718,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.28",
+		"ts2.0": "1.2.28",
+		"ts2.1": "1.2.28",
+		"ts2.2": "1.2.28",
+		"ts2.3": "1.2.28",
+		"ts2.4": "1.2.28",
+		"ts2.5": "1.2.28",
+		"ts2.6": "1.2.28",
+		"ts2.7": "1.2.28",
+		"ts2.8": "1.2.28",
+		"ts2.9": "1.2.28",
+		"ts3.0": "1.2.28",
+		"ts3.1": "1.2.28",
+		"ts3.2": "1.2.28"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:06.000Z",
+		"created": "2016-05-17T05:14:12.718Z",
+		"1.2.28": "2016-09-19T17:40:03.098Z",
+		"1.2.27": "2016-07-14T14:56:50.015Z",
+		"1.2.26-alpha": "2016-07-08T20:27:01.898Z",
+		"1.2.25-alpha": "2016-07-04T00:32:16.722Z",
+		"1.2.24-alpha": "2016-07-02T02:40:43.242Z",
+		"1.2.23-alpha": "2016-07-01T23:05:08.627Z",
+		"1.2.22-alpha": "2016-07-01T19:44:07.148Z",
+		"1.2.21-alpha": "2016-05-25T05:08:52.395Z",
+		"1.2.20-alpha": "2016-05-20T19:50:24.250Z",
+		"1.2.15-alpha": "2016-05-19T21:14:51.224Z",
+		"1.2.14-alpha": "2016-05-17T05:14:12.718Z"
+	},
+	"_distfiles": {
+		"is-url-1.2.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.28.tgz",
+			"sha": "914dabd50546d9b0142806e42c72bc7c2b7e0787",
+			"registry": "cnpmjs"
+		},
+		"is-url-1.2.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.27.tgz",
+			"sha": "6ba55d03f94cff1d1b0646eb866084a9d7f7c99d",
+			"registry": "cnpmjs"
+		},
+		"is-url-1.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.26-alpha.tgz",
+			"sha": "061335fb6cb16cca9b2979b5757b14b216b154ce",
+			"registry": "cnpmjs"
+		},
+		"is-url-1.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.25-alpha.tgz",
+			"sha": "c7b6974dc48eaf76efdbe35fdf57db0e27c983ec",
+			"registry": "cnpmjs"
+		},
+		"is-url-1.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.24-alpha.tgz",
+			"sha": "e8ae9595c987e3051c2da674c60fa1c86ccd6986",
+			"registry": "cnpmjs"
+		},
+		"is-url-1.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.23-alpha.tgz",
+			"sha": "c94030ea461d62df4ebc063b8f45ba53c45e00de",
+			"registry": "cnpmjs"
+		},
+		"is-url-1.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.22-alpha.tgz",
+			"sha": "a8d7aaad64cc6f1f445460a266a563b384178e37",
+			"registry": "cnpmjs"
+		},
+		"is-url-1.2.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.21-alpha.tgz",
+			"sha": "c5b5f757c6c4f16df9c013fa04ec5c6c251d6011",
+			"registry": "cnpmjs"
+		},
+		"is-url-1.2.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.20-alpha.tgz",
+			"sha": "01cdced77c973c748140cc79dd22af08867f8788",
+			"registry": "cnpmjs"
+		},
+		"is-url-1.2.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.15-alpha.tgz",
+			"sha": "1b8db67237cbec5348505fb6bbef0b4a96489310",
+			"registry": "cnpmjs"
+		},
+		"is-url-1.2.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/is-url/download/@types/is-url-1.2.14-alpha.tgz",
+			"sha": "821772313422a29722bd27b4ad16e8a92e33b517",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833457395
+		}
+	},
+	"_rev": "2-2100c9f87326363a",
+	"readme": "# Installation\r\n> `npm install --save @types/is-url`\r\n\r\n# Summary\r\nThis package contains type definitions for is-url v1.2.1 (https://github.com/segmentio/is-url).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/is-url\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 17:28:59 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: isUrl\r\n\r\n# Credits\r\nThese definitions were written by Ryota Murohoshi <https://github.com/RyotaMurohoshi>."
+}

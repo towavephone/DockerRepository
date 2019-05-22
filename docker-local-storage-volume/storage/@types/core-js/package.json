@@ -1,0 +1,1548 @@
+{
+	"name": "@types/core-js",
+	"versions": {
+		"2.5.0": {
+			"name": "@types/core-js",
+			"version": "2.5.0",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "https://github.com/rbuckton",
+					"githubUsername": "rbuckton"
+				},
+				{
+					"name": "Michel Felipe",
+					"url": "https://github.com/mfdeveloper",
+					"githubUsername": "mfdeveloper"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "f855d4990aded616d815e85b85b865592b313344a60c82248ed85b4d8b6ba2f3",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@2.5.0",
+			"dist": {
+				"shasum": "35cc282488de6f10af1d92902899a3b8ca3fbc47",
+				"size": 11549,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-2.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/core-js_2.5.0_1527870506863_0.7802003082145026"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527870506969,
+			"_cnpm_publish_time": 1527870506969
+		},
+		"0.9.46": {
+			"name": "@types/core-js",
+			"version": "0.9.46",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "https://github.com/rbuckton",
+					"githubUsername": "rbuckton"
+				},
+				{
+					"name": "Michel Felipe",
+					"url": "https://github.com/mfdeveloper",
+					"githubUsername": "mfdeveloper"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "5b7b0fcabb9759df2826cee35e2030f1f90dffd6ef0d0c5f9e557dae5987fdc7",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@0.9.46",
+			"dist": {
+				"shasum": "ea701ee34cbb6dfe6d100f1530319547c93c8d79",
+				"size": 11539,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.46.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/core-js-0.9.46.tgz_1516737961668_0.912969347788021"
+			},
+			"directories": {},
+			"publish_time": 1516737961734,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1516737961734
+		},
+		"0.9.45": {
+			"name": "@types/core-js",
+			"version": "0.9.45",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "https://github.com/rbuckton",
+					"githubUsername": "rbuckton"
+				},
+				{
+					"name": "Michel Felipe",
+					"url": "https://github.com/mfdeveloper",
+					"githubUsername": "mfdeveloper"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d1d2b7cf839282a74b47b2741f0eef3a772b3a553e5613e8bda51550b8dbb687",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@0.9.45",
+			"dist": {
+				"shasum": "98bd4e49bd5c5e8da5d85dfaa589dfc269b7b067",
+				"size": 11541,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.45.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/core-js-0.9.45.tgz_1516224941689_0.12673798762261868"
+			},
+			"directories": {},
+			"publish_time": 1516224941838,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1516224941838
+		},
+		"0.9.44": {
+			"name": "@types/core-js",
+			"version": "0.9.44",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "https://github.com/rbuckton",
+					"githubUsername": "rbuckton"
+				},
+				{
+					"name": "Michel Felipe",
+					"url": "https://github.com/mfdeveloper",
+					"githubUsername": "mfdeveloper"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "a7f774c579fcf8262539781edd95beab105c1f05573f854ec07d813870f84c19",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@0.9.44",
+			"dist": {
+				"shasum": "0d3b179ffa612898beed19fe8cc863822da507e5",
+				"size": 11509,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.44.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/core-js-0.9.44.tgz_1514927810439_0.843367664841935"
+			},
+			"directories": {},
+			"publish_time": 1514927810581,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514927810581
+		},
+		"0.9.43": {
+			"name": "@types/core-js",
+			"version": "0.9.43",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "https://github.com/rbuckton"
+				},
+				{
+					"name": "Michel Felipe",
+					"url": "https://github.com/mfdeveloper"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "41dd4c0378f4a8a3f5cf5fd849b12cf1ee781fee10473010108152eba1380cf7",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@0.9.43",
+			"dist": {
+				"shasum": "65d646c5e8c0cd1bdee37065799f9d3d48748253",
+				"size": 11465,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.43.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/core-js-0.9.43.tgz_1503352232216_0.9172293711453676"
+			},
+			"directories": {},
+			"publish_time": 1503352232401,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352232401
+		},
+		"0.9.42": {
+			"name": "@types/core-js",
+			"version": "0.9.42",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "http://github.com/rbuckton"
+				},
+				{
+					"name": "Michel Felipe",
+					"url": "http://github.com/mfdeveloper"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1fde5ad96f5e1f073b33287faf121c722134d8b1abfef3afe2f55075f30b04b1",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@0.9.42",
+			"dist": {
+				"shasum": "dd6da92cd7d5ab5ca0b4477524537c3e633b6bce",
+				"size": 11475,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.42.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/core-js-0.9.42.tgz_1498511330516_0.6369693086016923"
+			},
+			"directories": {},
+			"publish_time": 1498511330727,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498511330727
+		},
+		"0.9.41": {
+			"name": "@types/core-js",
+			"version": "0.9.41",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "http://github.com/rbuckton"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7e5b84b03a9044bfe94b1bd9693182d2c3940c5b4184a236750a843f8deeb8ab",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@0.9.41",
+			"dist": {
+				"shasum": "cfeceb63c2beaa29f882252c7c18e0e9471ff4e2",
+				"size": 9824,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.41.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.41.tgz_1490921447553_0.6788133906666189"
+			},
+			"directories": {},
+			"publish_time": 1490921449611,
+			"_cnpm_publish_time": 1490921449611,
+			"_hasShrinkwrap": false
+		},
+		"0.9.40": {
+			"name": "@types/core-js",
+			"version": "0.9.40",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "http://github.com/rbuckton"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "358ca814d91e200ac446ec0b870c7e39c8097e0b1709056bac08301682917f1f",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@0.9.40",
+			"dist": {
+				"shasum": "c96466e783f51bf1da1f1623b877e02b70c79d68",
+				"size": 9822,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.40.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.40.tgz_1490824233837_0.9875783491879702"
+			},
+			"directories": {},
+			"publish_time": 1490824235801,
+			"_cnpm_publish_time": 1490824235801,
+			"_hasShrinkwrap": false
+		},
+		"0.9.39": {
+			"name": "@types/core-js",
+			"version": "0.9.39",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "http://github.com/rbuckton"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d99cd8deaa76ea7a9cceae8978c74e726a54a60a49cc716ba28d84fe1fbbd2ec",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@0.9.39",
+			"dist": {
+				"shasum": "9b3d9869c2b7de02d372d32d6c6d9f5db3178c65",
+				"size": 9792,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.39.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.39.tgz_1490391090527_0.5670904053840786"
+			},
+			"directories": {},
+			"publish_time": 1490391094014,
+			"_cnpm_publish_time": 1490391094014,
+			"_hasShrinkwrap": false
+		},
+		"0.9.38": {
+			"name": "@types/core-js",
+			"version": "0.9.38",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "http://github.com/rbuckton"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "cb0a350a8f946dd1710a89af97cc1b4743b753cd86ffff60d505294c7fbb89d2",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@0.9.38",
+			"dist": {
+				"shasum": "bb42aa763082066d9923e7c3ce443aa24d6065ed",
+				"size": 9821,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.38.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.38.tgz_1490369134979_0.3840197119861841"
+			},
+			"directories": {},
+			"publish_time": 1490369135225,
+			"_cnpm_publish_time": 1490369135225,
+			"_hasShrinkwrap": false
+		},
+		"0.9.37": {
+			"name": "@types/core-js",
+			"version": "0.9.37",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "http://github.com/rbuckton"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b4d57f9ff715d3388e49d3b643422c6b44fbf72c0d7d3da9f805f949fcedbcad",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/core-js@0.9.37",
+			"dist": {
+				"shasum": "461f4a29f2d34c62c45a0623aeb72c2db696b03c",
+				"size": 9814,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.37.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.37.tgz_1489191271191_0.47633712855167687"
+			},
+			"directories": {},
+			"publish_time": 1489191273149,
+			"_cnpm_publish_time": 1489191273149,
+			"_hasShrinkwrap": false
+		},
+		"0.9.36": {
+			"name": "@types/core-js",
+			"version": "0.9.36",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Ron Buckton",
+					"url": "http://github.com/rbuckton"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2c51f543515fac17e475a67413f2db7c589d6f3638bba4f9dd0d05efb87c9c8d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/core-js@0.9.36",
+			"dist": {
+				"shasum": "d721e7cc0007d10ce66ad263ebf478a4071c53f4",
+				"size": 15928,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.36.tgz_1489018831278_0.46055264049209654"
+			},
+			"directories": {},
+			"publish_time": 1489018833367,
+			"_cnpm_publish_time": 1489018833367,
+			"_hasShrinkwrap": false
+		},
+		"0.9.35": {
+			"name": "@types/core-js",
+			"version": "0.9.35",
+			"description": "TypeScript definitions for core-js",
+			"license": "MIT",
+			"author": "Ron Buckton <http://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c9564b69ee31f8319af6fe261036f702ab8368ee19d8f8173c64450c7366163c",
+			"_id": "@types/core-js@0.9.35",
+			"dist": {
+				"shasum": "444064e63711cdcc62ea844d27642f6efc2285f2",
+				"size": 17895,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.35.tgz_1480532940026_0.0054026341531425714"
+			},
+			"directories": {},
+			"publish_time": 1480532942160,
+			"_cnpm_publish_time": 1480532942160,
+			"_hasShrinkwrap": false
+		},
+		"0.9.34": {
+			"name": "@types/core-js",
+			"version": "0.9.34",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"license": "MIT",
+			"author": "Ron Buckton <http://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "51ff890e7f0dda2aeaebaa60aec249327918e4f00e3be97c1b7d3d6b729c72fa",
+			"_id": "@types/core-js@0.9.34",
+			"dist": {
+				"shasum": "72c521d8e59fdaa8b65f76db71fa53c82c7c21c5",
+				"size": 17925,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.34.tgz_1474489617657_0.3812623890116811"
+			},
+			"directories": {},
+			"publish_time": 1474489617877,
+			"_cnpm_publish_time": 1474489617877,
+			"_hasShrinkwrap": false
+		},
+		"0.9.33": {
+			"name": "@types/core-js",
+			"version": "0.9.33",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"license": "MIT",
+			"author": "Ron Buckton <http://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "31fd15c6f84a51fc87fe5c3cc3ca2aa8d5526170294f9d143f7c2748b4a94b33",
+			"_id": "@types/core-js@0.9.33",
+			"dist": {
+				"shasum": "ccc281f2f9cfa9ee4c01771a6dfe68422afc5ac7",
+				"size": 17931,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.33.tgz_1474303397750_0.34482698421925306"
+			},
+			"directories": {},
+			"publish_time": 1474303399632,
+			"_cnpm_publish_time": 1474303399632,
+			"_hasShrinkwrap": false
+		},
+		"0.9.32": {
+			"name": "@types/core-js",
+			"version": "0.9.32",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"license": "MIT",
+			"author": "Ron Buckton <http://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/core-js@0.9.32",
+			"dist": {
+				"shasum": "3ec7240c8f69b0903fbb8ff31fb65d05100ce404",
+				"size": 17912,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.32.tgz_1472150260762_0.38125944626517594"
+			},
+			"directories": {},
+			"publish_time": 1472150262581,
+			"_cnpm_publish_time": 1472150262581,
+			"_hasShrinkwrap": false
+		},
+		"0.9.31": {
+			"name": "@types/core-js",
+			"version": "0.9.31",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"license": "MIT",
+			"author": "Ron Buckton <http://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/core-js@0.9.31",
+			"dist": {
+				"shasum": "30f9aac946c024700283aefcf2c490ed03a747f2",
+				"size": 17910,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.31.tgz_1471620175211_0.2293123824056238"
+			},
+			"directories": {},
+			"publish_time": 1471620176410,
+			"_cnpm_publish_time": 1471620176410,
+			"_hasShrinkwrap": false
+		},
+		"0.9.30": {
+			"name": "@types/core-js",
+			"version": "0.9.30",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"license": "MIT",
+			"author": "Ron Buckton <http://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/core-js@0.9.30",
+			"dist": {
+				"shasum": "60d3267abd36869fc35c86161f2c3f284434fbac",
+				"size": 17912,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.30.tgz_1470921482305_0.7659572470001876"
+			},
+			"directories": {},
+			"publish_time": 1470921482538,
+			"_cnpm_publish_time": 1470921482538,
+			"_hasShrinkwrap": false
+		},
+		"0.9.29": {
+			"name": "@types/core-js",
+			"version": "0.9.29",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"license": "MIT",
+			"author": "Ron Buckton <http://github.com/rbuckton>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/core-js@0.9.29",
+			"dist": {
+				"shasum": "32bd45a1cd83a519e6a27c262a01fc1554f8f2d2",
+				"size": 131072,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.29.tgz_1470152996249_0.16810907097533345"
+			},
+			"directories": {},
+			"publish_time": 1470152997257,
+			"_cnpm_publish_time": 1470152997257,
+			"_hasShrinkwrap": false
+		},
+		"0.9.28": {
+			"name": "@types/core-js",
+			"version": "0.9.28",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ron Buckton",
+				"email": "http://github.com/rbuckton"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/core-js@0.9.28",
+			"_shasum": "60bcc76e108f60e012ae48e9864727e293245853",
+			"_from": "output\\core-js",
+			"_resolved": "file:output\\core-js",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "60bcc76e108f60e012ae48e9864727e293245853",
+				"size": 17592,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.28.tgz_1468506078955_0.9473115568980575"
+			},
+			"directories": {},
+			"publish_time": 1468506081044,
+			"_cnpm_publish_time": 1468506081044,
+			"_hasShrinkwrap": false
+		},
+		"0.9.27-alpha": {
+			"name": "@types/core-js",
+			"version": "0.9.27-alpha",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ron Buckton",
+				"email": "http://github.com/rbuckton"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/core-js@0.9.27-alpha",
+			"_shasum": "ac0b0efe0d5a3c6ae47eae6959faa14df68aff8b",
+			"_from": "output\\core-js",
+			"_resolved": "file:output\\core-js",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ac0b0efe0d5a3c6ae47eae6959faa14df68aff8b",
+				"size": 17595,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.27-alpha.tgz_1468007942626_0.7708661127835512"
+			},
+			"directories": {},
+			"publish_time": 1468007945063,
+			"_cnpm_publish_time": 1468007945063,
+			"_hasShrinkwrap": false
+		},
+		"0.9.26-alpha": {
+			"name": "@types/core-js",
+			"version": "0.9.26-alpha",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ron Buckton",
+				"email": "http://github.com/rbuckton"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/core-js@0.9.26-alpha",
+			"_shasum": "826fdef27d2eec2e49212c35e15b630108126550",
+			"_from": "output\\core-js",
+			"_resolved": "file:output\\core-js",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "826fdef27d2eec2e49212c35e15b630108126550",
+				"size": 17594,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.26-alpha.tgz_1467590843829_0.6169801482465118"
+			},
+			"directories": {},
+			"publish_time": 1467590847251,
+			"_cnpm_publish_time": 1467590847251,
+			"_hasShrinkwrap": false
+		},
+		"0.9.25-alpha": {
+			"name": "@types/core-js",
+			"version": "0.9.25-alpha",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ron Buckton",
+				"email": "http://github.com/rbuckton"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/core-js@0.9.25-alpha",
+			"_shasum": "ab7db561a35e0ddd991478f3619bceefae406165",
+			"_from": "output\\core-js",
+			"_resolved": "file:output\\core-js",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ab7db561a35e0ddd991478f3619bceefae406165",
+				"size": 17593,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.25-alpha.tgz_1467425516476_0.7677714731544256"
+			},
+			"directories": {},
+			"publish_time": 1467425519974,
+			"_cnpm_publish_time": 1467425519974,
+			"_hasShrinkwrap": false
+		},
+		"0.9.24-alpha": {
+			"name": "@types/core-js",
+			"version": "0.9.24-alpha",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ron Buckton",
+				"email": "http://github.com/rbuckton"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/core-js@0.9.24-alpha",
+			"_shasum": "94673c6fcd1afb16cfd85ad669fb2899099a32fb",
+			"_from": "output\\core-js",
+			"_resolved": "file:output\\core-js",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "94673c6fcd1afb16cfd85ad669fb2899099a32fb",
+				"size": 17595,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.24-alpha.tgz_1467412294965_0.47483153734356165"
+			},
+			"directories": {},
+			"publish_time": 1467412297032,
+			"_cnpm_publish_time": 1467412297032,
+			"_hasShrinkwrap": false
+		},
+		"0.9.23-alpha": {
+			"name": "@types/core-js",
+			"version": "0.9.23-alpha",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ron Buckton",
+				"email": "http://github.com/rbuckton"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/core-js@0.9.23-alpha",
+			"_shasum": "e5d3b237c4fbbc5207dd0e1fcc3378c33190a2a2",
+			"_from": "output\\core-js",
+			"_resolved": "file:output\\core-js",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e5d3b237c4fbbc5207dd0e1fcc3378c33190a2a2",
+				"size": 17517,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.23-alpha.tgz_1467400452746_0.5632376126013696"
+			},
+			"directories": {},
+			"publish_time": 1467400455119,
+			"_cnpm_publish_time": 1467400455119,
+			"_hasShrinkwrap": false
+		},
+		"0.9.22-alpha": {
+			"name": "@types/core-js",
+			"version": "0.9.22-alpha",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ron Buckton",
+				"email": "http://github.com/rbuckton"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/core-js@0.9.22-alpha",
+			"_shasum": "ee06fe59c3841679910f0fd3d3a4b8e3f9f1af3c",
+			"_from": "output\\core-js",
+			"_resolved": "file:output\\core-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ee06fe59c3841679910f0fd3d3a4b8e3f9f1af3c",
+				"size": 17556,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.22-alpha.tgz_1464151318385_0.017399689182639122"
+			},
+			"directories": {},
+			"publish_time": 1464151320927,
+			"_cnpm_publish_time": 1464151320927,
+			"_hasShrinkwrap": false
+		},
+		"0.9.21-alpha": {
+			"name": "@types/core-js",
+			"version": "0.9.21-alpha",
+			"description": "TypeScript definitions for core-js v0.9.7",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ron Buckton",
+				"email": "http://github.com/rbuckton"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/core-js@0.9.21-alpha",
+			"_shasum": "f62860a3e980d3ffbacb2ced7673ce94241b3a9a",
+			"_from": "output\\core-js",
+			"_resolved": "file:output\\core-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f62860a3e980d3ffbacb2ced7673ce94241b3a9a",
+				"size": 17555,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.21-alpha.tgz_1463772235495_0.5128680991474539"
+			},
+			"directories": {},
+			"publish_time": 1463772237722,
+			"_cnpm_publish_time": 1463772237722,
+			"_hasShrinkwrap": false
+		},
+		"0.9.16-alpha": {
+			"name": "@types/core-js",
+			"version": "0.9.16-alpha",
+			"description": "Type definitions for core-js v0.9.7 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ron Buckton",
+				"email": "http://github.com/rbuckton"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/core-js@0.9.16-alpha",
+			"_shasum": "e1f01316b3d62dda8c9dd4aa0ca5d0d9dad3f3a4",
+			"_from": "output\\core-js",
+			"_resolved": "file:output\\core-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e1f01316b3d62dda8c9dd4aa0ca5d0d9dad3f3a4",
+				"size": 17571,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.16-alpha.tgz_1463690114006_0.47637866577133536"
+			},
+			"directories": {},
+			"publish_time": 1463690117357,
+			"_cnpm_publish_time": 1463690117357,
+			"_hasShrinkwrap": false
+		},
+		"0.9.15-alpha": {
+			"name": "@types/core-js",
+			"version": "0.9.15-alpha",
+			"description": "Type definitions for core-js v0.9.7 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Ron Buckton",
+				"email": "http://github.com/rbuckton"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/core-js@0.9.15-alpha",
+			"_shasum": "bdee38db3d674ad45dc1b0e6922a921719b59a00",
+			"_from": "output\\core-js",
+			"_resolved": "file:output\\core-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bdee38db3d674ad45dc1b0e6922a921719b59a00",
+				"size": 17555,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/core-js-0.9.15-alpha.tgz_1463460124673_0.6994715833570808"
+			},
+			"directories": {},
+			"publish_time": 1463460128474,
+			"_cnpm_publish_time": 1463460128474,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.5.0",
+		"ts2.0": "0.9.36",
+		"ts2.1": "2.5.0",
+		"ts2.2": "2.5.0",
+		"ts2.3": "2.5.0",
+		"ts2.4": "2.5.0",
+		"ts2.5": "2.5.0",
+		"ts2.6": "2.5.0",
+		"ts2.7": "2.5.0",
+		"ts2.8": "2.5.0",
+		"ts2.9": "2.5.0",
+		"ts3.0": "2.5.0",
+		"ts3.1": "2.5.0",
+		"ts3.2": "2.5.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:05:08.000Z",
+		"created": "2016-05-17T04:42:08.474Z",
+		"2.5.0": "2018-06-01T16:28:26.969Z",
+		"0.9.46": "2018-01-23T20:06:01.734Z",
+		"0.9.45": "2018-01-17T21:35:41.838Z",
+		"0.9.44": "2018-01-02T21:16:50.581Z",
+		"0.9.43": "2017-08-21T21:50:32.401Z",
+		"0.9.42": "2017-06-26T21:08:50.727Z",
+		"0.9.41": "2017-03-31T00:50:49.611Z",
+		"0.9.40": "2017-03-29T21:50:35.801Z",
+		"0.9.39": "2017-03-24T21:31:34.014Z",
+		"0.9.38": "2017-03-24T15:25:35.225Z",
+		"0.9.37": "2017-03-11T00:14:33.149Z",
+		"0.9.36": "2017-03-09T00:20:33.367Z",
+		"0.9.35": "2016-11-30T19:09:02.160Z",
+		"0.9.34": "2016-09-21T20:26:57.877Z",
+		"0.9.33": "2016-09-19T16:43:19.632Z",
+		"0.9.32": "2016-08-25T18:37:42.581Z",
+		"0.9.31": "2016-08-19T15:22:56.410Z",
+		"0.9.30": "2016-08-11T13:18:02.538Z",
+		"0.9.29": "2016-08-02T15:49:57.257Z",
+		"0.9.28": "2016-07-14T14:21:21.044Z",
+		"0.9.27-alpha": "2016-07-08T19:59:05.063Z",
+		"0.9.26-alpha": "2016-07-04T00:07:27.251Z",
+		"0.9.25-alpha": "2016-07-02T02:11:59.974Z",
+		"0.9.24-alpha": "2016-07-01T22:31:37.032Z",
+		"0.9.23-alpha": "2016-07-01T19:14:15.119Z",
+		"0.9.22-alpha": "2016-05-25T04:42:00.927Z",
+		"0.9.21-alpha": "2016-05-20T19:23:57.722Z",
+		"0.9.16-alpha": "2016-05-19T20:35:17.357Z",
+		"0.9.15-alpha": "2016-05-17T04:42:08.474Z"
+	},
+	"_distfiles": {
+		"core-js-2.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-2.5.0.tgz",
+			"sha": "35cc282488de6f10af1d92902899a3b8ca3fbc47",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.46.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.46.tgz",
+			"sha": "ea701ee34cbb6dfe6d100f1530319547c93c8d79",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.45.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.45.tgz",
+			"sha": "98bd4e49bd5c5e8da5d85dfaa589dfc269b7b067",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.44.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.44.tgz",
+			"sha": "0d3b179ffa612898beed19fe8cc863822da507e5",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.43.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.43.tgz",
+			"sha": "65d646c5e8c0cd1bdee37065799f9d3d48748253",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.42.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.42.tgz",
+			"sha": "dd6da92cd7d5ab5ca0b4477524537c3e633b6bce",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.41.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.41.tgz",
+			"sha": "cfeceb63c2beaa29f882252c7c18e0e9471ff4e2",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.40.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.40.tgz",
+			"sha": "c96466e783f51bf1da1f1623b877e02b70c79d68",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.39.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.39.tgz",
+			"sha": "9b3d9869c2b7de02d372d32d6c6d9f5db3178c65",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.38.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.38.tgz",
+			"sha": "bb42aa763082066d9923e7c3ce443aa24d6065ed",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.37.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.37.tgz",
+			"sha": "461f4a29f2d34c62c45a0623aeb72c2db696b03c",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.36.tgz",
+			"sha": "d721e7cc0007d10ce66ad263ebf478a4071c53f4",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.35.tgz",
+			"sha": "444064e63711cdcc62ea844d27642f6efc2285f2",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.34.tgz",
+			"sha": "72c521d8e59fdaa8b65f76db71fa53c82c7c21c5",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.33.tgz",
+			"sha": "ccc281f2f9cfa9ee4c01771a6dfe68422afc5ac7",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.32.tgz",
+			"sha": "3ec7240c8f69b0903fbb8ff31fb65d05100ce404",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.31.tgz",
+			"sha": "30f9aac946c024700283aefcf2c490ed03a747f2",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.30.tgz",
+			"sha": "60d3267abd36869fc35c86161f2c3f284434fbac",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.29.tgz",
+			"sha": "32bd45a1cd83a519e6a27c262a01fc1554f8f2d2",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.28.tgz",
+			"sha": "60bcc76e108f60e012ae48e9864727e293245853",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.27-alpha.tgz",
+			"sha": "ac0b0efe0d5a3c6ae47eae6959faa14df68aff8b",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.26-alpha.tgz",
+			"sha": "826fdef27d2eec2e49212c35e15b630108126550",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.25-alpha.tgz",
+			"sha": "ab7db561a35e0ddd991478f3619bceefae406165",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.24-alpha.tgz",
+			"sha": "94673c6fcd1afb16cfd85ad669fb2899099a32fb",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.23-alpha.tgz",
+			"sha": "e5d3b237c4fbbc5207dd0e1fcc3378c33190a2a2",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.22-alpha.tgz",
+			"sha": "ee06fe59c3841679910f0fd3d3a4b8e3f9f1af3c",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.21-alpha.tgz",
+			"sha": "f62860a3e980d3ffbacb2ced7673ce94241b3a9a",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.16-alpha.tgz",
+			"sha": "e1f01316b3d62dda8c9dd4aa0ca5d0d9dad3f3a4",
+			"registry": "cnpmjs"
+		},
+		"core-js-0.9.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/core-js/download/@types/core-js-0.9.15-alpha.tgz",
+			"sha": "bdee38db3d674ad45dc1b0e6922a921719b59a00",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"8334-RPqqfN6jOwz06W60vCBLJR0HO6w\"",
+			"fetched": 1541833453522
+		}
+	},
+	"_rev": "2-d275a1e2ded3aac1",
+	"readme": "# Installation\r\n> `npm install --save @types/core-js`\r\n\r\n# Summary\r\nThis package contains type definitions for core-js (https://github.com/zloirock/core-js/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/core-js\r\n\r\nAdditional Details\r\n * Last updated: Fri, 01 Jun 2018 16:26:34 GMT\r\n * Dependencies: none\r\n * Global values: $for, Dict, core, delay, log\r\n\r\n# Credits\r\nThese definitions were written by Ron Buckton <https://github.com/rbuckton>, Michel Felipe <https://github.com/mfdeveloper>."
+}

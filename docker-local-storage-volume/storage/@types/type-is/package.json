@@ -1,0 +1,201 @@
+{
+	"name": "@types/type-is",
+	"versions": {
+		"1.6.2": {
+			"name": "@types/type-is",
+			"version": "1.6.2",
+			"description": "TypeScript definitions for type-is",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "d2a9ee61562fcc41b471fc7d7f8552130b94265042c52f75bd137324d600d9b8",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/type-is@1.6.2",
+			"dist": {
+				"shasum": "38ee37fed94b4d2b88650292c3941600bda2815f",
+				"size": 1672,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-is/download/@types/type-is-1.6.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/type-is-1.6.2.tgz_1512318710784_0.8940772637724876"
+			},
+			"directories": {},
+			"publish_time": 1512318710839,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1512318710839
+		},
+		"1.6.1": {
+			"name": "@types/type-is",
+			"version": "1.6.1",
+			"description": "TypeScript definitions for type-is",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "e8153b69706f33521e16c36e73c8154f4a8516d3a518a356da6b6a19f81419ef",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/type-is@1.6.1",
+			"dist": {
+				"shasum": "3bdf50f9c705e8227fb63d69c6c9262bcbb4d9a3",
+				"size": 1631,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-is/download/@types/type-is-1.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/type-is-1.6.1.tgz_1510240907071_0.3931550506968051"
+			},
+			"directories": {},
+			"publish_time": 1510240908033,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510240908033
+		},
+		"1.6.0": {
+			"name": "@types/type-is",
+			"version": "1.6.0",
+			"description": "TypeScript definitions for type-is",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "941b150e93f2f198fda5452892e4e15c9bc8ae808f5058f18edddb479493ba6d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/type-is@1.6.0",
+			"dist": {
+				"shasum": "66b4af6115374f86c041bceb6f3824b17cb5c28b",
+				"size": 1623,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/type-is/download/@types/type-is-1.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/type-is-1.6.0.tgz_1502820726046_0.5142256235703826"
+			},
+			"directories": {},
+			"publish_time": 1502820726111,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502820726111
+		}
+	},
+	"dist-tags": {
+		"latest": "1.6.2",
+		"ts2.0": "1.6.0",
+		"ts2.1": "1.6.0",
+		"ts2.2": "1.6.2",
+		"ts2.3": "1.6.2",
+		"ts2.4": "1.6.2",
+		"ts2.5": "1.6.2",
+		"ts2.6": "1.6.2",
+		"ts2.7": "1.6.2",
+		"ts2.8": "1.6.2",
+		"ts2.9": "1.6.2",
+		"ts3.0": "1.6.2",
+		"ts3.1": "1.6.2",
+		"ts3.2": "1.6.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:30:01.000Z",
+		"created": "2017-08-15T18:12:06.111Z",
+		"1.6.2": "2017-12-03T16:31:50.839Z",
+		"1.6.1": "2017-11-09T15:21:48.033Z",
+		"1.6.0": "2017-08-15T18:12:06.111Z"
+	},
+	"_distfiles": {
+		"type-is-1.6.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-is/download/@types/type-is-1.6.2.tgz",
+			"sha": "38ee37fed94b4d2b88650292c3941600bda2815f",
+			"registry": "cnpmjs"
+		},
+		"type-is-1.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-is/download/@types/type-is-1.6.1.tgz",
+			"sha": "3bdf50f9c705e8227fb63d69c6c9262bcbb4d9a3",
+			"registry": "cnpmjs"
+		},
+		"type-is-1.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/type-is/download/@types/type-is-1.6.0.tgz",
+			"sha": "66b4af6115374f86c041bceb6f3824b17cb5c28b",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"11e0-Gu2lXon57HiOXjvhCqXiW2NfBl8\"",
+			"fetched": 1541833489472
+		}
+	},
+	"_rev": "2-c973145a7daddd28",
+	"readme": "# Installation\r\n> `npm install --save @types/type-is`\r\n\r\n# Summary\r\nThis package contains type definitions for type-is (https://github.com/jshttp/type-is#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/type-is\r\n\r\nAdditional Details\r\n * Last updated: Sun, 03 Dec 2017 16:31:01 GMT\r\n * Dependencies: http, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by BendingBender <https://github.com/BendingBender>."
+}

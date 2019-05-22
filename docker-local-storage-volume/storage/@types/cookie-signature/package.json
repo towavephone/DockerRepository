@@ -1,0 +1,137 @@
+{
+	"name": "@types/cookie-signature",
+	"versions": {
+		"1.0.1": {
+			"name": "@types/cookie-signature",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for cookie-signature",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "François Nguyen",
+					"url": "https://github.com/lith-light-g",
+					"githubUsername": "lith-light-g"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "8e73ed9897f4b37a25f95fedfed87d2cafc92128820f90688ebc1c6dd9b196bf",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cookie-signature@1.0.1",
+			"dist": {
+				"shasum": "10d02ca19c3f7dff7b0471d52f48e3db68029e0e",
+				"size": 1591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie-signature/download/@types/cookie-signature-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cookie-signature-1.0.1.tgz_1508890886767_0.13052744418382645"
+			},
+			"directories": {},
+			"publish_time": 1508890886844,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508890886844
+		},
+		"1.0.0": {
+			"name": "@types/cookie-signature",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for cookie-signature",
+			"license": "MIT",
+			"author": "François Nguyen <https://github.com/lith-light-g>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "16dfcebc765a730a74acac644104d07ed121573725c27768428722640af34fce",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cookie-signature@1.0.0",
+			"dist": {
+				"shasum": "347860efe855f56f86c62d531adc347b7e0af571",
+				"size": 1108,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie-signature/download/@types/cookie-signature-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cookie-signature-1.0.0.tgz_1486677730560_0.5759256526362151"
+			},
+			"directories": {},
+			"publish_time": 1486677730794,
+			"_cnpm_publish_time": 1486677730794,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.1",
+		"ts2.0": "1.0.1",
+		"ts2.1": "1.0.1",
+		"ts2.2": "1.0.1",
+		"ts2.3": "1.0.1",
+		"ts2.4": "1.0.1",
+		"ts2.5": "1.0.1",
+		"ts2.6": "1.0.1",
+		"ts2.7": "1.0.1",
+		"ts2.8": "1.0.1",
+		"ts2.9": "1.0.1",
+		"ts3.0": "1.0.1",
+		"ts3.1": "1.0.1",
+		"ts3.2": "1.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T19:58:06.000Z",
+		"created": "2017-02-09T22:02:10.794Z",
+		"1.0.1": "2017-10-25T00:21:26.844Z",
+		"1.0.0": "2017-02-09T22:02:10.794Z"
+	},
+	"_distfiles": {
+		"cookie-signature-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie-signature/download/@types/cookie-signature-1.0.1.tgz",
+			"sha": "10d02ca19c3f7dff7b0471d52f48e3db68029e0e",
+			"registry": "cnpmjs"
+		},
+		"cookie-signature-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie-signature/download/@types/cookie-signature-1.0.0.tgz",
+			"sha": "347860efe855f56f86c62d531adc347b7e0af571",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"def-E5EN8ISRXQdJ1ukLEPqHkHXeDVw\"",
+			"fetched": 1541833453391
+		}
+	},
+	"_rev": "2-71a30aa6873c71fe",
+	"readme": "# Installation\r\n> `npm install --save @types/cookie-signature`\r\n\r\n# Summary\r\nThis package contains type definitions for cookie-signature (https://github.com/tj/node-cookie-signature).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cookie-signature\r\n\r\nAdditional Details\r\n * Last updated: Wed, 25 Oct 2017 00:19:45 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by François Nguyen <https://github.com/lith-light-g>."
+}

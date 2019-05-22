@@ -1,0 +1,508 @@
+{
+	"name": "@types/d3-sankey",
+	"versions": {
+		"0.7.3": {
+			"name": "@types/d3-sankey",
+			"version": "0.7.3",
+			"description": "TypeScript definitions for D3JS d3-sankey module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-shape": "*"
+			},
+			"typesPublisherContentHash": "d0391399d08ea580f871eede6ff61a70131639c8b0d352526c7a09a66d848f17",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-sankey@0.7.3",
+			"dist": {
+				"shasum": "523db1ba5f8cf338da4293558b6f8f2fc19008db",
+				"size": 4763,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.7.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-sankey_0.7.3_1527117216661_0.09286641302627374"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527117216802,
+			"_cnpm_publish_time": 1527117216802
+		},
+		"0.7.2": {
+			"name": "@types/d3-sankey",
+			"version": "0.7.2",
+			"description": "TypeScript definitions for D3JS d3-sankey module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-shape": "*"
+			},
+			"typesPublisherContentHash": "965d96c11a8f4d61507bbad7e4217d4234c12c115937dd12b229ad4d2ea7ae8c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-sankey@0.7.2",
+			"dist": {
+				"shasum": "44aa7cc7ea53d556579d894e190b1646edcad2ca",
+				"size": 4765,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.7.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-sankey-0.7.2.tgz_1508890897659_0.8089935171883553"
+			},
+			"directories": {},
+			"publish_time": 1508890897726,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508890897726
+		},
+		"0.7.1": {
+			"name": "@types/d3-sankey",
+			"version": "0.7.1",
+			"description": "TypeScript definitions for D3JS d3-sankey module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-shape": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "341901c1b77c1324af85a29d35efee710119896f9382c12a37aeaa77f07b857f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-sankey@0.7.1",
+			"dist": {
+				"shasum": "c0158a7f0c84f2698bd024dfb4b23e7a11500dc2",
+				"size": 4724,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.7.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-sankey-0.7.1.tgz_1500310097991_0.4533312807325274"
+			},
+			"directories": {},
+			"publish_time": 1500310098166,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500310098166
+		},
+		"0.7.0": {
+			"name": "@types/d3-sankey",
+			"version": "0.7.0",
+			"description": "TypeScript definitions for D3JS d3-sankey module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-shape": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "cc9033f0ec4bfe080b075baa7f7ae3001ea1fec59e159812cc61899a1aab1ce5",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-sankey@0.7.0",
+			"dist": {
+				"shasum": "eae17c42edb8a7b234f7fdcfb4e9b2f949bb81d7",
+				"size": 4730,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-sankey-0.7.0.tgz_1497451836664_0.7322038360871375"
+			},
+			"directories": {},
+			"publish_time": 1497451836755,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497451836755
+		},
+		"0.6.0": {
+			"name": "@types/d3-sankey",
+			"version": "0.6.0",
+			"description": "TypeScript definitions for D3JS d3-sankey module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-shape": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1dc29595e3d94773f4107d3372a10faf841d0a5294c4134cc5db7757876f7442",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-sankey@0.6.0",
+			"dist": {
+				"shasum": "7b61f736711a56baf8927226d0c285ea23c777b3",
+				"size": 4128,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-sankey-0.6.0.tgz_1496439193777_0.17388766072690487"
+			},
+			"directories": {},
+			"publish_time": 1496439193853,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496439193853
+		},
+		"0.5.1": {
+			"name": "@types/d3-sankey",
+			"version": "0.5.1",
+			"description": "TypeScript definitions for D3JS d3-sankey module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-shape": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "326eaaa0df454efe753478f3a8a35079b7a6635c9df1e1af6b9b03c9a9726082",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-sankey@0.5.1",
+			"dist": {
+				"shasum": "05cccfd586c3bb88648d550fe7564b68a8eb4083",
+				"size": 4034,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-sankey-0.5.1.tgz_1496425087982_0.268133353209123"
+			},
+			"directories": {},
+			"publish_time": 1496425088085,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496425088085
+		},
+		"0.5.0": {
+			"name": "@types/d3-sankey",
+			"version": "0.5.0",
+			"description": "TypeScript definitions for D3JS d3-sankey module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/d3-shape": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "70d18699de30445f74a494e2cf95f9b7de6eb7667476930d2687100028ca7357",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-sankey@0.5.0",
+			"dist": {
+				"shasum": "bbd55d595d2a17ed40ea01d7b6e52d9fc6e3647c",
+				"size": 3992,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-sankey-0.5.0.tgz_1496367315200_0.5830966315697879"
+			},
+			"directories": {},
+			"publish_time": 1496367315273,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496367315273
+		},
+		"0.4.0": {
+			"name": "@types/d3-sankey",
+			"version": "0.4.0",
+			"description": "TypeScript definitions for D3JS d3-sankey module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "cbf2e447c6b94e21dc993eece052eb8d6ed60ee052fa332d190a9dc812bac40e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-sankey@0.4.0",
+			"dist": {
+				"shasum": "bf8a9d307ce3f0baa449285c8b806adfc395a7a7",
+				"size": 3455,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-sankey-0.4.0.tgz_1493683916671_0.85243682237342"
+			},
+			"directories": {},
+			"publish_time": 1493683916899,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493683916899
+		}
+	},
+	"dist-tags": {
+		"latest": "0.7.3",
+		"ts2.0": "0.7.3",
+		"ts2.1": "0.7.3",
+		"ts2.2": "0.7.3",
+		"ts2.3": "0.7.3",
+		"ts2.4": "0.7.3",
+		"ts2.5": "0.7.3",
+		"ts2.6": "0.7.3",
+		"ts2.7": "0.7.3",
+		"ts2.8": "0.7.3",
+		"ts2.9": "0.7.3",
+		"ts3.0": "0.7.3",
+		"ts3.1": "0.7.3",
+		"ts3.2": "0.7.3"
+	},
+	"time": {
+		"modified": "2018-10-10T20:09:01.000Z",
+		"created": "2017-05-02T00:11:56.899Z",
+		"0.7.3": "2018-05-23T23:13:36.802Z",
+		"0.7.2": "2017-10-25T00:21:37.726Z",
+		"0.7.1": "2017-07-17T16:48:18.166Z",
+		"0.7.0": "2017-06-14T14:50:36.755Z",
+		"0.6.0": "2017-06-02T21:33:13.853Z",
+		"0.5.1": "2017-06-02T17:38:08.085Z",
+		"0.5.0": "2017-06-02T01:35:15.273Z",
+		"0.4.0": "2017-05-02T00:11:56.899Z"
+	},
+	"_distfiles": {
+		"d3-sankey-0.7.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.7.3.tgz",
+			"sha": "523db1ba5f8cf338da4293558b6f8f2fc19008db",
+			"registry": "cnpmjs"
+		},
+		"d3-sankey-0.7.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.7.2.tgz",
+			"sha": "44aa7cc7ea53d556579d894e190b1646edcad2ca",
+			"registry": "cnpmjs"
+		},
+		"d3-sankey-0.7.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.7.1.tgz",
+			"sha": "c0158a7f0c84f2698bd024dfb4b23e7a11500dc2",
+			"registry": "cnpmjs"
+		},
+		"d3-sankey-0.7.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.7.0.tgz",
+			"sha": "eae17c42edb8a7b234f7fdcfb4e9b2f949bb81d7",
+			"registry": "cnpmjs"
+		},
+		"d3-sankey-0.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.6.0.tgz",
+			"sha": "7b61f736711a56baf8927226d0c285ea23c777b3",
+			"registry": "cnpmjs"
+		},
+		"d3-sankey-0.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.5.1.tgz",
+			"sha": "05cccfd586c3bb88648d550fe7564b68a8eb4083",
+			"registry": "cnpmjs"
+		},
+		"d3-sankey-0.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.5.0.tgz",
+			"sha": "bbd55d595d2a17ed40ea01d7b6e52d9fc6e3647c",
+			"registry": "cnpmjs"
+		},
+		"d3-sankey-0.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-sankey/download/@types/d3-sankey-0.4.0.tgz",
+			"sha": "bf8a9d307ce3f0baa449285c8b806adfc395a7a7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"2aba-bmx0jkT15LpGxkD7FSOwlFqP7VQ\"",
+			"fetched": 1541833453910
+		}
+	},
+	"_rev": "1-e1f9ece6871befd2",
+	"readme": "# Installation\r\n> `npm install --save @types/d3-sankey`\r\n\r\n# Summary\r\nThis package contains type definitions for D3JS d3-sankey module (https://github.com/d3/d3-sankey/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped.git/tree/master/types/d3-sankey\r\n\r\nAdditional Details\r\n * Last updated: Wed, 23 May 2018 23:09:40 GMT\r\n * Dependencies: d3-shape\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>."
+}

@@ -1,0 +1,4619 @@
+{
+	"name": "@types/react-redux",
+	"versions": {
+		"6.0.2": {
+			"name": "@types/react-redux",
+			"version": "6.0.2",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				},
+				{
+					"name": "Thomas Charlat",
+					"url": "https://github.com/kallikrein",
+					"githubUsername": "kallikrein"
+				},
+				{
+					"name": "Valentin Descamps",
+					"url": "https://github.com/val1984",
+					"githubUsername": "val1984"
+				},
+				{
+					"name": "Johann Rakotoharisoa",
+					"url": "https://github.com/jrakotoharisoa",
+					"githubUsername": "jrakotoharisoa"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "909602088fdf46083a6ba10cf068419e1e706dbba2eac675ca1b6666c8aecd21",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@6.0.2",
+			"dist": {
+				"shasum": "10069b53db8e0920fd8656e068dcf10c53c9ad2a",
+				"size": 5513,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_6.0.2_1528219377055_0.9333633290285637"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1528219377132,
+			"_cnpm_publish_time": 1528219377132
+		},
+		"6.0.1": {
+			"name": "@types/react-redux",
+			"version": "6.0.1",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				},
+				{
+					"name": "Thomas Charlat",
+					"url": "https://github.com/kallikrein",
+					"githubUsername": "kallikrein"
+				},
+				{
+					"name": "Valentin Descamps",
+					"url": "https://github.com/val1984",
+					"githubUsername": "val1984"
+				},
+				{
+					"name": "Johann Rakotoharisoa",
+					"url": "https://github.com/jrakotoharisoa",
+					"githubUsername": "jrakotoharisoa"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "f41a996558e0984411e00f5034fc38d594a06756e3ab1cf76689c403a85596c0",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@6.0.1",
+			"dist": {
+				"shasum": "bb8f6cc19d00a999f9d932ab796212ad3921994b",
+				"size": 5527,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_6.0.1_1527870660182_0.22597538000543338"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527870660508,
+			"_cnpm_publish_time": 1527870660508
+		},
+		"6.0.0": {
+			"name": "@types/react-redux",
+			"version": "6.0.0",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				},
+				{
+					"name": "Thomas Charlat",
+					"url": "https://github.com/kallikrein",
+					"githubUsername": "kallikrein"
+				},
+				{
+					"name": "Valentin Descamps",
+					"url": "https://github.com/val1984",
+					"githubUsername": "val1984"
+				},
+				{
+					"name": "Johann Rakotoharisoa",
+					"url": "https://github.com/jrakotoharisoa",
+					"githubUsername": "jrakotoharisoa"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "18c2ca1550b40a07b3df7ab0bc9cfc5a6920b31c9e05704d2079c5ea2e5f9475",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@6.0.0",
+			"dist": {
+				"shasum": "31711592b13ed6d6d2fd4506e5447b00e1f0b484",
+				"size": 5496,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_6.0.0_1525799459689_0.08665763257021397"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525799459788,
+			"_cnpm_publish_time": 1525799459788
+		},
+		"5.0.20": {
+			"name": "@types/react-redux",
+			"version": "5.0.20",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "b0c72bae8cd7b9cb765f5a9bcc255a704bb9781c67142e6df6caaa9db1b3d88c",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-redux@5.0.20",
+			"dist": {
+				"shasum": "a332f2a97043d6127159956a4639a9fb5dc1f5dc",
+				"size": 5042,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.20.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_5.0.20_1525798160280_0.4969061256626357"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525798160334,
+			"_cnpm_publish_time": 1525798160334
+		},
+		"5.0.19": {
+			"name": "@types/react-redux",
+			"version": "5.0.19",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "4b8a32140cd19f0f5304f5dda3b4ccb7e625dded3c75e77e43708820b10b3c85",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-redux@5.0.19",
+			"dist": {
+				"shasum": "d9e9af54c619b7495fffcfa23a0b8922d68316c4",
+				"size": 5048,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.19.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_5.0.19_1524844686159_0.48106262334432137"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524844686234,
+			"_cnpm_publish_time": 1524844686234
+		},
+		"5.0.18": {
+			"name": "@types/react-redux",
+			"version": "5.0.18",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "c3fb9ae6001de2786e8bd45c90b2c28c2bee0938ce2ed5d3b69608b360635ea0",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-redux@5.0.18",
+			"dist": {
+				"shasum": "95fdcce00b617b93c98a3684ed6666e75d8a669e",
+				"size": 5048,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.18.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_5.0.18_1524628815658_0.7879813261302482"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524628818128,
+			"_cnpm_publish_time": 1524628818128
+		},
+		"5.0.17": {
+			"name": "@types/react-redux",
+			"version": "5.0.17",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "832e4542ace09acf5f47d4f2e864339bd7e6bbe2dc64aff1c6302be3c6d3669c",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-redux@5.0.17",
+			"dist": {
+				"shasum": "55defac8b63a1b439796ff32f6f0aaeb53e249e4",
+				"size": 5059,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.17.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_5.0.17_1524615388621_0.21219583392643293"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524615388700,
+			"_cnpm_publish_time": 1524615388700
+		},
+		"5.0.16": {
+			"name": "@types/react-redux",
+			"version": "5.0.16",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "0c26d78a9d62ea5da6aa6fb5f33b94f06ca5bbdbe363a35116fab316e9fa43a0",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-redux@5.0.16",
+			"dist": {
+				"shasum": "46f1b2043abd2b4364a857100abf5e5a6ef94bf0",
+				"size": 5057,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.16.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_5.0.16_1523382628875_0.2476390076774948"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523382629037,
+			"_cnpm_publish_time": 1523382629037
+		},
+		"5.0.15": {
+			"name": "@types/react-redux",
+			"version": "5.0.15",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "bef1bfbbaa7a6bb5390ca5a420184d74287bf590b8fccf82c8f8c4a2c75380c4",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-redux@5.0.15",
+			"dist": {
+				"shasum": "420af2c702ac7aab321cf45bb7d3cb2503dd24d5",
+				"size": 5043,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.15.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_5.0.15_1518469536598_0.4818971662209952"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518469536649,
+			"_cnpm_publish_time": 1518469536649
+		},
+		"5.0.14": {
+			"name": "@types/react-redux",
+			"version": "5.0.14",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "c71d711000bab119418262ea436524a6bc00cde6500f70d819de2ea74525d385",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.14",
+			"dist": {
+				"shasum": "f3fc30dcbb2d20455a714f591cc27f77b4df09bb",
+				"size": 5046,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.14.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.14.tgz_1511829102536_0.6060236578341573"
+			},
+			"directories": {},
+			"publish_time": 1511829102687,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511829102687
+		},
+		"5.0.13": {
+			"name": "@types/react-redux",
+			"version": "5.0.13",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "55a4fe4954107179deb5921563d09ffac21fb4feaaea88d7931bdc3b1b71d1cd",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.13",
+			"dist": {
+				"shasum": "dcc67764b7455ed54422a0302fedf47e32db3579",
+				"size": 5041,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.13.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.13.tgz_1510787577879_0.08329060743562877"
+			},
+			"directories": {},
+			"publish_time": 1510787578000,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510787578000
+		},
+		"5.0.12": {
+			"name": "@types/react-redux",
+			"version": "5.0.12",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "9a377d8727b48ba84ad1ffeaeba6bd84e08b8865a697a05018be4081e03380dc",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.12",
+			"dist": {
+				"shasum": "c066812eb970009b373372f439d08265ed2a6f8e",
+				"size": 5023,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.12.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.12.tgz_1509150345541_0.39799258043058217"
+			},
+			"directories": {},
+			"publish_time": 1509150345613,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509150345613
+		},
+		"5.0.11": {
+			"name": "@types/react-redux",
+			"version": "5.0.11",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "a644d084dd53a89a66501c365192435cba3b39f29d168432225e9f08a5d00927",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.11",
+			"dist": {
+				"shasum": "287ba4d9352af95595afd65348c9b04768268233",
+				"size": 4789,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.11.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.11.tgz_1508956893376_0.30545473052188754"
+			},
+			"directories": {},
+			"publish_time": 1508956893552,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508956893552
+		},
+		"5.0.10": {
+			"name": "@types/react-redux",
+			"version": "5.0.10",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "f934306c9ee421f5746f2ce88c53f9fdca298f51773ac09990241512bac3d8c6",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.10",
+			"dist": {
+				"shasum": "f5c45a349f759d87d6b1f2aa096a756561a6d5c9",
+				"size": 4790,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.10.tgz_1507040598636_0.426700601587072"
+			},
+			"directories": {},
+			"publish_time": 1507040599661,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507040599661
+		},
+		"5.0.9": {
+			"name": "@types/react-redux",
+			"version": "5.0.9",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "db5a8e9013f4c22925f514489ccdcf12827c5e18afd2533f025346e4b8301e01",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.9",
+			"dist": {
+				"shasum": "9bfe915356aa0b10d1b9211df0121a06aa7ec9af",
+				"size": 4605,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.9.tgz_1505744197247_0.6289138188585639"
+			},
+			"directories": {},
+			"publish_time": 1505744198121,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505744198121
+		},
+		"5.0.8": {
+			"name": "@types/react-redux",
+			"version": "5.0.8",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "0de9fbbb954618765e12547713ae13eebb2c4a122fb8c06314ba62b88faab0ce",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.8",
+			"dist": {
+				"shasum": "fb08d5c8188a96fbd9942c711a17aed5dc736752",
+				"size": 4542,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.8.tgz_1505143171188_0.7328093533869833"
+			},
+			"directories": {},
+			"publish_time": 1505143171308,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505143171308
+		},
+		"5.0.7": {
+			"name": "@types/react-redux",
+			"version": "5.0.7",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "55d45365d68ffe5ecbdeb79a0821b5ea6dda1d13f4eff4245bbe06d3a871dc70",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.7",
+			"dist": {
+				"shasum": "01a5181ff6757724a4b59c13852ee6c49f65c101",
+				"size": 4548,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.7.tgz_1504709736675_0.6224414873868227"
+			},
+			"directories": {},
+			"publish_time": 1504709736758,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504709736758
+		},
+		"5.0.6": {
+			"name": "@types/react-redux",
+			"version": "5.0.6",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "0de9fbbb954618765e12547713ae13eebb2c4a122fb8c06314ba62b88faab0ce",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.6",
+			"dist": {
+				"shasum": "6bd25c8c0ffa570c1bd36ba7e8ec328a879e5cfa",
+				"size": 4540,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.6.tgz_1504216367357_0.501962190726772"
+			},
+			"directories": {},
+			"publish_time": 1504216367441,
+			"_cnpm_publish_time": 1504216367441,
+			"_hasShrinkwrap": false
+		},
+		"5.0.5": {
+			"name": "@types/react-redux",
+			"version": "5.0.5",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "451212b72d29b33af051204971c55dba4ce17b80fd81c17dd312113325d5405c",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.5",
+			"dist": {
+				"shasum": "d6eff90e5480cf129aa12858bf1efd92104b480d",
+				"size": 4512,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.5.tgz_1503510888873_0.2448181479703635"
+			},
+			"directories": {},
+			"publish_time": 1503510889046,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503510889046
+		},
+		"5.0.4": {
+			"name": "@types/react-redux",
+			"version": "5.0.4",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "dc2f88a328c619af5616ff528287dd11aa2e153b96a5c40b5fbccebf74ff29f2",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.4",
+			"dist": {
+				"shasum": "7b52b6b6bd5be77e8b7ed58a9e6ff00a9a933138",
+				"size": 4579,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.4.tgz_1502921355477_0.7142735498491675"
+			},
+			"directories": {},
+			"publish_time": 1502921355557,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502921355557
+		},
+		"5.0.3": {
+			"name": "@types/react-redux",
+			"version": "5.0.3",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "978f687265cb6cff4446e69f53e9e57fd6a7474cccf2097d40e166b0c05488c8",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.3",
+			"dist": {
+				"shasum": "cd68de0c49c516b940fdc6f688535596b5d6eca4",
+				"size": 4451,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.3.tgz_1502820719912_0.8589944113045931"
+			},
+			"directories": {},
+			"publish_time": 1502820719985,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502820719985
+		},
+		"5.0.2": {
+			"name": "@types/react-redux",
+			"version": "5.0.2",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5a9376fe285e856c12c5047191e26cf6392c8931a495260a701efba81150c3f0",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/react-redux@5.0.2",
+			"dist": {
+				"shasum": "c43f7516f5445876c367a232785d26d6323ba415",
+				"size": 4422,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.2.tgz_1502740175872_0.5531772796530277"
+			},
+			"directories": {},
+			"publish_time": 1502740175983,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502740175983
+		},
+		"5.0.1": {
+			"name": "@types/react-redux",
+			"version": "5.0.1",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5b96e446d9ed84cd643fe8ff0287fda327265052ef7f80537dacebdddc41cf58",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-redux@5.0.1",
+			"dist": {
+				"shasum": "7fb482e44645b650e335afa633d0f1349e124002",
+				"size": 4078,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.1.tgz_1502458950749_0.17231690022163093"
+			},
+			"directories": {},
+			"publish_time": 1502458950841,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502458950841
+		},
+		"5.0.0": {
+			"name": "@types/react-redux",
+			"version": "5.0.0",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "eab82e663b2773a8fe409c7c8faf2e4ac1bd774526a5d0b5a015bdb17943850e",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-redux@5.0.0",
+			"dist": {
+				"shasum": "51e2f4a2a22898b9e0a77363007bc8afd9eac105",
+				"size": 4111,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-5.0.0.tgz_1502288053123_0.8635051867458969"
+			},
+			"directories": {},
+			"publish_time": 1502288054092,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502288054092
+		},
+		"4.4.47": {
+			"name": "@types/react-redux",
+			"version": "4.4.47",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ed9c4d3257b699bdd8a8314b6e9aebd8edc106e9c4e6305c7806d8fd4231af18",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-redux@4.4.47",
+			"dist": {
+				"shasum": "12af1677116e08d413fe2620d0a85560c8a0536e",
+				"size": 2974,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.47.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-4.4.47.tgz_1500922841211_0.14782641781494021"
+			},
+			"directories": {},
+			"publish_time": 1500922841280,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500922841280
+		},
+		"4.4.46": {
+			"name": "@types/react-redux",
+			"version": "4.4.46",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "81bc1ca274fd0f6bf4e0b3a4015783007a163970dc9b4e53ef114ce4c2abb2ac",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-redux@4.4.46",
+			"dist": {
+				"shasum": "83b78c8783f31fc890d9a4d1e2acf9c4665fa913",
+				"size": 2970,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.46.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-4.4.46.tgz_1499716044103_0.4713558426592499"
+			},
+			"directories": {},
+			"publish_time": 1499716044270,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1499716044270
+		},
+		"4.4.45": {
+			"name": "@types/react-redux",
+			"version": "4.4.45",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fae663107f078f3b39f7b5b3d15bdf9e595dac9b2fac712e6717e4a9e3647e61",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-redux@4.4.45",
+			"dist": {
+				"shasum": "afad851d8592119225aa6bcc402c7f6b9c7e4106",
+				"size": 2966,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.45.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-4.4.45.tgz_1498239452871_0.770249032182619"
+			},
+			"directories": {},
+			"publish_time": 1498239452953,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498239452953
+		},
+		"4.4.44": {
+			"name": "@types/react-redux",
+			"version": "4.4.44",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "609dfbf994ebaa4a7988f8113120ed5b1b62f15a0c6644373198144876c44530",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-redux@4.4.44",
+			"dist": {
+				"shasum": "821c99b0eac22c3e32621bc0eba08062f1c07b63",
+				"size": 2979,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.44.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-4.4.44.tgz_1497882104149_0.5221453204285353"
+			},
+			"directories": {},
+			"publish_time": 1497882104323,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497882104323
+		},
+		"4.4.43": {
+			"name": "@types/react-redux",
+			"version": "4.4.43",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b2bb884e454f668cd5b77c1cb6081445c7c6d66dea8dae8d10af2c6041ca007e",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-redux@4.4.43",
+			"dist": {
+				"shasum": "f17d1b59b7899ada072c1c18ac5641245ad3aabd",
+				"size": 2959,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.43.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-4.4.43.tgz_1497373052696_0.1565739328507334"
+			},
+			"directories": {},
+			"publish_time": 1497373052776,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497373052776
+		},
+		"4.4.42": {
+			"name": "@types/react-redux",
+			"version": "4.4.42",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d9ec24e3d029f8d2dad801d5f11546b809d06b8fe2582b5f047ac932ec56ce10",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-redux@4.4.42",
+			"dist": {
+				"shasum": "d3381735712a0e63041447ca6bc89aa278e921f5",
+				"size": 2982,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.42.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-4.4.42.tgz_1496692608265_0.6603625398129225"
+			},
+			"directories": {},
+			"publish_time": 1496692608307,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496692608307
+		},
+		"4.4.41": {
+			"name": "@types/react-redux",
+			"version": "4.4.41",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6635c96483d6dbe406cbd88ff5d2fb72fcce8d6f11f7f61ee63f16786ad888eb",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-redux@4.4.41",
+			"dist": {
+				"shasum": "8613af4650b204682707747fe29d8aaad56c2f76",
+				"size": 2984,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.41.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux-4.4.41.tgz_1496413424721_0.23916286905296147"
+			},
+			"directories": {},
+			"publish_time": 1496413424806,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496413424806
+		},
+		"4.4.40": {
+			"name": "@types/react-redux",
+			"version": "4.4.40",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "dc8ff0085ef960afbddfd9f7aafda370378030ad3298e5a92fad375ccb62a205",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-redux@4.4.40",
+			"dist": {
+				"shasum": "268d1a9b9a42e52562450e2c306630fa38db36ad",
+				"size": 3010,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.40.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.40.tgz_1493233709270_0.9167779916897416"
+			},
+			"directories": {},
+			"publish_time": 1493233711801,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493233711801
+		},
+		"4.4.39": {
+			"name": "@types/react-redux",
+			"version": "4.4.39",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "10278a708f0472fd7907c0a177073bd0ef030822549b9a2dc1ab7f0121c73bcf",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-redux@4.4.39",
+			"dist": {
+				"shasum": "3a715eeda6d98b7595f2a78f32aa38a27a26c727",
+				"size": 2823,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.39.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.39.tgz_1492636867005_0.20966721302829683"
+			},
+			"directories": {},
+			"publish_time": 1492636867263,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492636867263
+		},
+		"4.4.38": {
+			"name": "@types/react-redux",
+			"version": "4.4.38",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1af629ef8717f1ea3e60b682ea584a9bef7aa0757d8da1996572d45f9b0ed77d",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-redux@4.4.38",
+			"dist": {
+				"shasum": "771c9293fa835107eb5ac2e4ef8d52e54f2ed4ff",
+				"size": 2131,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.38.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.38.tgz_1490142490759_0.3054175756406039"
+			},
+			"directories": {},
+			"publish_time": 1490142492552,
+			"_cnpm_publish_time": 1490142492552,
+			"_hasShrinkwrap": false
+		},
+		"4.4.37": {
+			"name": "@types/react-redux",
+			"version": "4.4.37",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f571e43b321890800a15e2d18619a296f1b166d33613f896177c619d069945f4",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-redux@4.4.37",
+			"dist": {
+				"shasum": "14489a999cdfb0a05fb5c2335fa6c3c3e7c89ed5",
+				"size": 2097,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.37.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.37.tgz_1488843053706_0.9435171678196639"
+			},
+			"directories": {},
+			"publish_time": 1488843053941,
+			"_cnpm_publish_time": 1488843053941,
+			"_hasShrinkwrap": false
+		},
+		"4.4.36": {
+			"name": "@types/react-redux",
+			"version": "4.4.36",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkqubo>, Sean Kelley <https://github.com/seansfkelley>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "82b1740a999fee2f37e6dcddbc0a63ac2b18e04628c068d9b9c79261303aafbe",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-redux@4.4.36",
+			"dist": {
+				"shasum": "5d1e768f3291c66c8e54d8a48e42f7cb554a7d87",
+				"size": 2285,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.36.tgz_1485207320531_0.958216295344755"
+			},
+			"directories": {},
+			"publish_time": 1485207320760,
+			"_cnpm_publish_time": 1485207320760,
+			"_hasShrinkwrap": false
+		},
+		"4.4.35": {
+			"name": "@types/react-redux",
+			"version": "4.4.35",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkqubo>, Sean Kelley <https://github.com/seansfkelley>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "4acda70a2db559a1dcf5a1550fb2798996af52807ba8859909a13381d0398959",
+			"_id": "@types/react-redux@4.4.35",
+			"dist": {
+				"shasum": "126c21a11956d03673257ccd179e43993fc8ad77",
+				"size": 2264,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.35.tgz_1480442655996_0.4321251220535487"
+			},
+			"directories": {},
+			"publish_time": 1480442656221,
+			"_cnpm_publish_time": 1480442656221,
+			"_hasShrinkwrap": false
+		},
+		"4.4.34": {
+			"name": "@types/react-redux",
+			"version": "4.4.34",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkqubo>, Sean Kelley <https://github.com/seansfkelley>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/redux": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "51a56287be2336b8a5a4dd797ba9676bc7d92b2e57b801ecf28e684625ce3aca",
+			"_id": "@types/react-redux@4.4.34",
+			"dist": {
+				"shasum": "8082e7679110cd4b9126b1361e7bf826fdbf4203",
+				"size": 2286,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.34.tgz_1480350660920_0.18936169566586614"
+			},
+			"directories": {},
+			"publish_time": 1480350662770,
+			"_cnpm_publish_time": 1480350662770,
+			"_hasShrinkwrap": false
+		},
+		"4.4.33": {
+			"name": "@types/react-redux",
+			"version": "4.4.33",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkqubo>, Sean Kelley <https://github.com/seansfkelley>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/redux": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "a9c068d945a4691fe2fe947529f57ff8a98a58f5c7438457826d7af89b6d1db2",
+			"_id": "@types/react-redux@4.4.33",
+			"dist": {
+				"shasum": "423b4a637bb07a2ad2736d6a2795cd78c1fcb18d",
+				"size": 2417,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.33.tgz_1479848464454_0.6653846190311015"
+			},
+			"directories": {},
+			"publish_time": 1479848466473,
+			"_cnpm_publish_time": 1479848466473,
+			"_hasShrinkwrap": false
+		},
+		"4.4.32": {
+			"name": "@types/react-redux",
+			"version": "4.4.32",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkqubo>, Sean Kelley <https://github.com/seansfkelley>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*",
+				"@types/redux": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "51a56287be2336b8a5a4dd797ba9676bc7d92b2e57b801ecf28e684625ce3aca",
+			"_id": "@types/react-redux@4.4.32",
+			"dist": {
+				"shasum": "7df8dc2f6429e31cc782020bf41ae5911b24e214",
+				"size": 2272,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.32.tgz_1474308430717_0.2801658727694303"
+			},
+			"directories": {},
+			"publish_time": 1474308434081,
+			"_cnpm_publish_time": 1474308434081,
+			"_hasShrinkwrap": false
+		},
+		"4.4.31": {
+			"name": "@types/react-redux",
+			"version": "4.4.31",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkqubo>, Sean Kelley <https://github.com/seansfkelley>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*",
+				"@types/redux": "3.5.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-redux@4.4.31",
+			"dist": {
+				"shasum": "fc07c1f3cb5f9c109dfaafdc8543b2bbfefa2747",
+				"size": 2277,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.31.tgz_1472151376351_0.7913342139218003"
+			},
+			"directories": {},
+			"publish_time": 1472151378243,
+			"_cnpm_publish_time": 1472151378243,
+			"_hasShrinkwrap": false
+		},
+		"4.4.30": {
+			"name": "@types/react-redux",
+			"version": "4.4.30",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkqubo>, Sean Kelley <https://github.com/seansfkelley>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*",
+				"@types/redux": "3.5.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-redux@4.4.30",
+			"dist": {
+				"shasum": "89f92e26ac1002010d0c8af77593ff412b4ed1f0",
+				"size": 2276,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.30.tgz_1471621180424_0.40425754874013364"
+			},
+			"directories": {},
+			"publish_time": 1471621182155,
+			"_cnpm_publish_time": 1471621182155,
+			"_hasShrinkwrap": false
+		},
+		"4.4.29": {
+			"name": "@types/react-redux",
+			"version": "4.4.29",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"license": "MIT",
+			"author": "Qubo <https://github.com/tkqubo>, Sean Kelley <https://github.com/seansfkelley>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*",
+				"@types/redux": "3.5.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-redux@4.4.29",
+			"dist": {
+				"shasum": "81414dd8d6ef7147a5c69c32ccf8bee5789b2ef3",
+				"size": 10752,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.29.tgz_1470154053887_0.1436752136796713"
+			},
+			"directories": {},
+			"publish_time": 1470154054913,
+			"_cnpm_publish_time": 1470154054913,
+			"_hasShrinkwrap": false
+		},
+		"4.4.28": {
+			"name": "@types/react-redux",
+			"version": "4.4.28",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"license": "MIT",
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*",
+				"@types/redux": "3.3.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-redux@4.4.28",
+			"_shasum": "09b21dd9a1791abf3f49964ecdc107ad181eadac",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "09b21dd9a1791abf3f49964ecdc107ad181eadac",
+				"size": 2149,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.28.tgz_1468934061815_0.8234879656229168"
+			},
+			"directories": {},
+			"publish_time": 1468934062908,
+			"_cnpm_publish_time": 1468934062908,
+			"_hasShrinkwrap": false
+		},
+		"4.4.27": {
+			"name": "@types/react-redux",
+			"version": "4.4.27",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*",
+				"@types/redux": "3.3.*"
+			},
+			"_id": "@types/react-redux@4.4.27",
+			"_shasum": "3b86108fe7f64abd2323ee9de77de74c60bc7863",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3b86108fe7f64abd2323ee9de77de74c60bc7863",
+				"size": 2326,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.27.tgz_1468511540068_0.9329502813052386"
+			},
+			"directories": {},
+			"publish_time": 1468511542701,
+			"_cnpm_publish_time": 1468511542701,
+			"_hasShrinkwrap": false
+		},
+		"4.4.26-alpha": {
+			"name": "@types/react-redux",
+			"version": "4.4.26-alpha",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.26-alpha",
+				"@types/redux": "3.3.25-alpha"
+			},
+			"_id": "@types/react-redux@4.4.26-alpha",
+			"_shasum": "e0028f0300cecdac8396b5f0c6161c88107a01c2",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e0028f0300cecdac8396b5f0c6161c88107a01c2",
+				"size": 2331,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.26-alpha.tgz_1468012480346_0.2363787512294948"
+			},
+			"directories": {},
+			"publish_time": 1468012483179,
+			"_cnpm_publish_time": 1468012483179,
+			"_hasShrinkwrap": false
+		},
+		"4.4.25-alpha": {
+			"name": "@types/react-redux",
+			"version": "4.4.25-alpha",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.25-alpha",
+				"@types/redux": "3.3.24-alpha"
+			},
+			"_id": "@types/react-redux@4.4.25-alpha",
+			"_shasum": "84d6cfeb0caee65d8e9ba7d707ecb29baa3fa10d",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "84d6cfeb0caee65d8e9ba7d707ecb29baa3fa10d",
+				"size": 2328,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.25-alpha.tgz_1467594535432_0.06633340823464096"
+			},
+			"directories": {},
+			"publish_time": 1467594535899,
+			"_cnpm_publish_time": 1467594535899,
+			"_hasShrinkwrap": false
+		},
+		"4.4.24-alpha": {
+			"name": "@types/react-redux",
+			"version": "4.4.24-alpha",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.24-alpha",
+				"@types/redux": "3.3.22-alpha"
+			},
+			"_id": "@types/react-redux@4.4.24-alpha",
+			"_shasum": "e15f49dcec7fb9359f8aaa0657a72137c42a2d41",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e15f49dcec7fb9359f8aaa0657a72137c42a2d41",
+				"size": 2328,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.24-alpha.tgz_1467429684046_0.750197417801246"
+			},
+			"directories": {},
+			"publish_time": 1467429687279,
+			"_cnpm_publish_time": 1467429687279,
+			"_hasShrinkwrap": false
+		},
+		"4.4.23-alpha": {
+			"name": "@types/react-redux",
+			"version": "4.4.23-alpha",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.23-alpha",
+				"@types/redux": "3.3.21-alpha"
+			},
+			"_id": "@types/react-redux@4.4.23-alpha",
+			"_shasum": "359ca6f0e17974df144afc5641a430640dfe5265",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "359ca6f0e17974df144afc5641a430640dfe5265",
+				"size": 2328,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.23-alpha.tgz_1467417099698_0.49152597202919424"
+			},
+			"directories": {},
+			"publish_time": 1467417102131,
+			"_cnpm_publish_time": 1467417102131,
+			"_hasShrinkwrap": false
+		},
+		"4.4.22-alpha": {
+			"name": "@types/react-redux",
+			"version": "4.4.22-alpha",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*",
+				"@types/redux": "3.3.*"
+			},
+			"_id": "@types/react-redux@4.4.22-alpha",
+			"_shasum": "c3097a1d258e7df18053cefffa983794cd5d87fa",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c3097a1d258e7df18053cefffa983794cd5d87fa",
+				"size": 2319,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.22-alpha.tgz_1467404996624_0.38136964454315603"
+			},
+			"directories": {},
+			"publish_time": 1467404998827,
+			"_cnpm_publish_time": 1467404998827,
+			"_hasShrinkwrap": false
+		},
+		"4.4.21-alpha": {
+			"name": "@types/react-redux",
+			"version": "4.4.21-alpha",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*",
+				"@types/redux": "*"
+			},
+			"_id": "@types/react-redux@4.4.21-alpha",
+			"_shasum": "30ae25fc69868338e971fa529abada0234666023",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "30ae25fc69868338e971fa529abada0234666023",
+				"size": 2292,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.21-alpha.tgz_1464155301973_0.4815070538315922"
+			},
+			"directories": {},
+			"publish_time": 1464155304547,
+			"_cnpm_publish_time": 1464155304547,
+			"_hasShrinkwrap": false
+		},
+		"4.4.20-alpha": {
+			"name": "@types/react-redux",
+			"version": "4.4.20-alpha",
+			"description": "TypeScript definitions for react-redux 4.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*",
+				"@types/redux": "*"
+			},
+			"_id": "@types/react-redux@4.4.20-alpha",
+			"_shasum": "09683c821f5e58ce7b5db7f4a772dcc9cc9c0225",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "09683c821f5e58ce7b5db7f4a772dcc9cc9c0225",
+				"size": 2291,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.20-alpha.tgz_1463776348533_0.8051160080358386"
+			},
+			"directories": {},
+			"publish_time": 1463776350727,
+			"_cnpm_publish_time": 1463776350727,
+			"_hasShrinkwrap": false
+		},
+		"4.4.15-alpha": {
+			"name": "@types/react-redux",
+			"version": "4.4.15-alpha",
+			"description": "Type definitions for react-redux 4.4.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"react": "*",
+				"redux": "*",
+				"@types/react": "*",
+				"@types/redux": "*"
+			},
+			"_id": "@types/react-redux@4.4.15-alpha",
+			"_shasum": "dd87d1a9ba714b10ff4ecbca241c80c4365d376a",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dd87d1a9ba714b10ff4ecbca241c80c4365d376a",
+				"size": 2301,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.15-alpha.tgz_1463695832827_0.7920207441784441"
+			},
+			"directories": {},
+			"publish_time": 1463695837366,
+			"_cnpm_publish_time": 1463695837366,
+			"_hasShrinkwrap": false
+		},
+		"4.4.14-alpha": {
+			"name": "@types/react-redux",
+			"version": "4.4.14-alpha",
+			"description": "Type definitions for react-redux 4.4.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qubo",
+				"email": "https://github.com/tkqubo"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"react": "*",
+				"redux": "*",
+				"@types/react": "*",
+				"@types/redux": "*"
+			},
+			"_id": "@types/react-redux@4.4.14-alpha",
+			"_shasum": "f4904d4f3f021cc24ec08c574eddaa2070235ec8",
+			"_from": "output\\react-redux",
+			"_resolved": "file:output\\react-redux",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f4904d4f3f021cc24ec08c574eddaa2070235ec8",
+				"size": 2295,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-redux-4.4.14-alpha.tgz_1463510723602_0.3801634821575135"
+			},
+			"directories": {},
+			"publish_time": 1463510727633,
+			"_cnpm_publish_time": 1463510727633,
+			"_hasShrinkwrap": false
+		},
+		"6.0.9": {
+			"name": "@types/react-redux",
+			"version": "6.0.9",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				},
+				{
+					"name": "Thomas Charlat",
+					"url": "https://github.com/kallikrein",
+					"githubUsername": "kallikrein"
+				},
+				{
+					"name": "Valentin Descamps",
+					"url": "https://github.com/val1984",
+					"githubUsername": "val1984"
+				},
+				{
+					"name": "Johann Rakotoharisoa",
+					"url": "https://github.com/jrakotoharisoa",
+					"githubUsername": "jrakotoharisoa"
+				},
+				{
+					"name": "Anatoli Papirovski",
+					"url": "https://github.com/apapirovski",
+					"githubUsername": "apapirovski"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "ab90fc57a96b3e90b43774e1dbd302b3079a418425cf8f3deb84648e277ffc2d",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@6.0.9",
+			"dist": {
+				"shasum": "96aa7f5b0716bcc3bfb36ceaa1223118d509f79a",
+				"size": 5748,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_6.0.9_1536870180511_0.18411329244410446"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536870180625,
+			"_cnpm_publish_time": 1536870180625
+		},
+		"6.0.8": {
+			"name": "@types/react-redux",
+			"version": "6.0.8",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				},
+				{
+					"name": "Thomas Charlat",
+					"url": "https://github.com/kallikrein",
+					"githubUsername": "kallikrein"
+				},
+				{
+					"name": "Valentin Descamps",
+					"url": "https://github.com/val1984",
+					"githubUsername": "val1984"
+				},
+				{
+					"name": "Johann Rakotoharisoa",
+					"url": "https://github.com/jrakotoharisoa",
+					"githubUsername": "jrakotoharisoa"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "3f8d2f8790494b778b4d96427281ab2758a686ce2351f977c3e1b94f997eb9a1",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@6.0.8",
+			"dist": {
+				"shasum": "29c884174516f0cfab6638d2236fd7d53f45640e",
+				"size": 5425,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_6.0.8_1536679661079_0.7702187353653076"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536679661219,
+			"_cnpm_publish_time": 1536679661219
+		},
+		"6.0.7": {
+			"name": "@types/react-redux",
+			"version": "6.0.7",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				},
+				{
+					"name": "Thomas Charlat",
+					"url": "https://github.com/kallikrein",
+					"githubUsername": "kallikrein"
+				},
+				{
+					"name": "Valentin Descamps",
+					"url": "https://github.com/val1984",
+					"githubUsername": "val1984"
+				},
+				{
+					"name": "Johann Rakotoharisoa",
+					"url": "https://github.com/jrakotoharisoa",
+					"githubUsername": "jrakotoharisoa"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "4c130be87d4d8ec3ad5bf712268697a7edab377554afab45517b1f39b2a7d392",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@6.0.7",
+			"dist": {
+				"shasum": "ac61cd8d137ca7205b831d66e279f42fe2a1c3cd",
+				"size": 5436,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_6.0.7_1536192930285_0.7414091043963009"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536192930377,
+			"_cnpm_publish_time": 1536192930377
+		},
+		"5.0.21": {
+			"name": "@types/react-redux",
+			"version": "5.0.21",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^3.6.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "8ad65e37f4340237822dedfb9747ade0f5a804eb79cf979e63ddb2ad969b562e",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@5.0.21",
+			"dist": {
+				"shasum": "98a3a371dfc22c894889f660d7515717639d20f4",
+				"size": 5041,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.21.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_5.0.21_1533594596042_0.07595815040729792"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533594596129,
+			"_cnpm_publish_time": 1533594596129
+		},
+		"6.0.6": {
+			"name": "@types/react-redux",
+			"version": "6.0.6",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				},
+				{
+					"name": "Thomas Charlat",
+					"url": "https://github.com/kallikrein",
+					"githubUsername": "kallikrein"
+				},
+				{
+					"name": "Valentin Descamps",
+					"url": "https://github.com/val1984",
+					"githubUsername": "val1984"
+				},
+				{
+					"name": "Johann Rakotoharisoa",
+					"url": "https://github.com/jrakotoharisoa",
+					"githubUsername": "jrakotoharisoa"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "a77612eb50d150c107ddad39f02bcf286b232d77d038b933188db5d525aefbb3",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@6.0.6",
+			"dist": {
+				"shasum": "87f1d0a6ea901b93fcaf95fa57641ff64079d277",
+				"size": 5434,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_6.0.6_1533260504291_0.32765520008090876"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533260504372,
+			"_cnpm_publish_time": 1533260504372
+		},
+		"6.0.5": {
+			"name": "@types/react-redux",
+			"version": "6.0.5",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				},
+				{
+					"name": "Thomas Charlat",
+					"url": "https://github.com/kallikrein",
+					"githubUsername": "kallikrein"
+				},
+				{
+					"name": "Valentin Descamps",
+					"url": "https://github.com/val1984",
+					"githubUsername": "val1984"
+				},
+				{
+					"name": "Johann Rakotoharisoa",
+					"url": "https://github.com/jrakotoharisoa",
+					"githubUsername": "jrakotoharisoa"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "b1529b0df68d2155e24b240b3f47a70e397216c55d901d4244915ef9d250e6a6",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@6.0.5",
+			"dist": {
+				"shasum": "bb44679588554f3b686666c0484a960aa7a47b86",
+				"size": 5457,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_6.0.5_1532394073421_0.7221474052936954"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532394073489,
+			"_cnpm_publish_time": 1532394073489
+		},
+		"6.0.4": {
+			"name": "@types/react-redux",
+			"version": "6.0.4",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				},
+				{
+					"name": "Thomas Charlat",
+					"url": "https://github.com/kallikrein",
+					"githubUsername": "kallikrein"
+				},
+				{
+					"name": "Valentin Descamps",
+					"url": "https://github.com/val1984",
+					"githubUsername": "val1984"
+				},
+				{
+					"name": "Johann Rakotoharisoa",
+					"url": "https://github.com/jrakotoharisoa",
+					"githubUsername": "jrakotoharisoa"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "a98d0e39a95cb4e27f1d77df57a869f305599c7d8e6478147b2401935906d45c",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@6.0.4",
+			"dist": {
+				"shasum": "c1cfce0a0bd88983c75dbf393576f8dc59181586",
+				"size": 5444,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_6.0.4_1531186439477_0.3144355201072033"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1531186439524,
+			"_cnpm_publish_time": 1531186439524
+		},
+		"6.0.3": {
+			"name": "@types/react-redux",
+			"version": "6.0.3",
+			"description": "TypeScript definitions for react-redux",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qubo",
+					"url": "https://github.com/tkqubo",
+					"githubUsername": "tkqubo"
+				},
+				{
+					"name": "Thomas Hasner",
+					"url": "https://github.com/thasner",
+					"githubUsername": "thasner"
+				},
+				{
+					"name": "Kenzie Togami",
+					"url": "https://github.com/kenzierocks",
+					"githubUsername": "kenzierocks"
+				},
+				{
+					"name": "Curits Layne",
+					"url": "https://github.com/clayne11",
+					"githubUsername": "clayne11"
+				},
+				{
+					"name": "Frank Tan",
+					"url": "https://github.com/tansongyang",
+					"githubUsername": "tansongyang"
+				},
+				{
+					"name": "Nicholas Boll",
+					"url": "https://github.com/nicholasboll",
+					"githubUsername": "nicholasboll"
+				},
+				{
+					"name": "Dibyo Majumdar",
+					"url": "https://github.com/mdibyo",
+					"githubUsername": "mdibyo"
+				},
+				{
+					"name": "Prashant Deva",
+					"url": "https://github.com/pdeva",
+					"githubUsername": "pdeva"
+				},
+				{
+					"name": "Thomas Charlat",
+					"url": "https://github.com/kallikrein",
+					"githubUsername": "kallikrein"
+				},
+				{
+					"name": "Valentin Descamps",
+					"url": "https://github.com/val1984",
+					"githubUsername": "val1984"
+				},
+				{
+					"name": "Johann Rakotoharisoa",
+					"url": "https://github.com/jrakotoharisoa",
+					"githubUsername": "jrakotoharisoa"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"redux": "^4.0.0",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "b45735055a87021da8c47a6de6ce8f4e7d6daedc16a2c77e85f1d68e11daba90",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-redux@6.0.3",
+			"dist": {
+				"shasum": "7e8a86cce1c453166056bce9d4eb5cab5a2cfe13",
+				"size": 5457,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-redux_6.0.3_1529975707028_0.8228152434543152"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1529975707149,
+			"_cnpm_publish_time": 1529975707149
+		}
+	},
+	"dist-tags": {
+		"latest": "6.0.9",
+		"ts2.0": "4.4.35",
+		"ts2.1": "4.4.44",
+		"ts2.2": "4.4.44",
+		"ts2.3": "5.0.1",
+		"ts2.4": "5.0.14",
+		"ts2.5": "5.0.14",
+		"ts2.6": "5.0.19",
+		"ts2.7": "5.0.19",
+		"ts2.8": "6.0.9",
+		"ts2.9": "6.0.9",
+		"ts3.0": "6.0.9",
+		"ts3.1": "6.0.9",
+		"ts3.2": "6.0.9"
+	},
+	"time": {
+		"modified": "2018-09-13T20:23:16.000Z",
+		"created": "2016-05-17T18:45:27.633Z",
+		"6.0.9": "2018-09-13T20:23:00.625Z",
+		"6.0.8": "2018-09-11T15:27:41.219Z",
+		"6.0.7": "2018-09-06T00:15:30.377Z",
+		"5.0.21": "2018-08-06T22:29:56.129Z",
+		"6.0.6": "2018-08-03T01:41:44.372Z",
+		"6.0.5": "2018-07-24T01:01:13.489Z",
+		"6.0.4": "2018-07-10T01:33:59.524Z",
+		"6.0.3": "2018-06-26T01:15:07.149Z",
+		"6.0.2": "2018-06-05T17:22:57.132Z",
+		"6.0.1": "2018-06-01T16:31:00.508Z",
+		"6.0.0": "2018-05-08T17:10:59.788Z",
+		"5.0.20": "2018-05-08T16:49:20.334Z",
+		"5.0.19": "2018-04-27T15:58:06.234Z",
+		"5.0.18": "2018-04-25T04:00:18.128Z",
+		"5.0.17": "2018-04-25T00:16:28.700Z",
+		"5.0.16": "2018-04-10T17:50:29.037Z",
+		"5.0.15": "2018-02-12T21:05:36.649Z",
+		"5.0.14": "2017-11-28T00:31:42.687Z",
+		"5.0.13": "2017-11-15T23:12:58.000Z",
+		"5.0.12": "2017-10-28T00:25:45.613Z",
+		"5.0.11": "2017-10-25T18:41:33.552Z",
+		"5.0.10": "2017-10-03T14:23:19.661Z",
+		"5.0.9": "2017-09-18T14:16:38.121Z",
+		"5.0.8": "2017-09-11T15:19:31.308Z",
+		"5.0.7": "2017-09-06T14:55:36.758Z",
+		"5.0.6": "2017-08-31T21:52:47.441Z",
+		"5.0.5": "2017-08-23T17:54:49.046Z",
+		"5.0.4": "2017-08-16T22:09:15.557Z",
+		"5.0.3": "2017-08-15T18:11:59.985Z",
+		"5.0.2": "2017-08-14T19:49:35.983Z",
+		"5.0.1": "2017-08-11T13:42:30.841Z",
+		"5.0.0": "2017-08-09T14:14:14.092Z",
+		"4.4.47": "2017-07-24T19:00:41.280Z",
+		"4.4.46": "2017-07-10T19:47:24.270Z",
+		"4.4.45": "2017-06-23T17:37:32.953Z",
+		"4.4.44": "2017-06-19T14:21:44.323Z",
+		"4.4.43": "2017-06-13T16:57:32.776Z",
+		"4.4.42": "2017-06-05T19:56:48.307Z",
+		"4.4.41": "2017-06-02T14:23:44.806Z",
+		"4.4.40": "2017-04-26T19:08:31.801Z",
+		"4.4.39": "2017-04-19T21:21:07.263Z",
+		"4.4.38": "2017-03-22T00:28:12.552Z",
+		"4.4.37": "2017-03-06T23:30:53.941Z",
+		"4.4.36": "2017-01-23T21:35:20.760Z",
+		"4.4.35": "2016-11-29T18:04:16.221Z",
+		"4.4.34": "2016-11-28T16:31:02.770Z",
+		"4.4.33": "2016-11-22T21:01:06.473Z",
+		"4.4.32": "2016-09-19T18:07:14.081Z",
+		"4.4.31": "2016-08-25T18:56:18.243Z",
+		"4.4.30": "2016-08-19T15:39:42.155Z",
+		"4.4.29": "2016-08-02T16:07:34.913Z",
+		"4.4.28": "2016-07-19T13:14:22.908Z",
+		"4.4.27": "2016-07-14T15:52:22.701Z",
+		"4.4.26-alpha": "2016-07-08T21:14:43.179Z",
+		"4.4.25-alpha": "2016-07-04T01:08:55.899Z",
+		"4.4.24-alpha": "2016-07-02T03:21:27.279Z",
+		"4.4.23-alpha": "2016-07-01T23:51:42.131Z",
+		"4.4.22-alpha": "2016-07-01T20:29:58.827Z",
+		"4.4.21-alpha": "2016-05-25T05:48:24.547Z",
+		"4.4.20-alpha": "2016-05-20T20:32:30.727Z",
+		"4.4.15-alpha": "2016-05-19T22:10:37.366Z",
+		"4.4.14-alpha": "2016-05-17T18:45:27.633Z"
+	},
+	"_distfiles": {
+		"react-redux-6.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.2.tgz",
+			"sha": "10069b53db8e0920fd8656e068dcf10c53c9ad2a",
+			"registry": "cnpmjs"
+		},
+		"react-redux-6.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.1.tgz",
+			"sha": "bb8f6cc19d00a999f9d932ab796212ad3921994b",
+			"registry": "cnpmjs"
+		},
+		"react-redux-6.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.0.tgz",
+			"sha": "31711592b13ed6d6d2fd4506e5447b00e1f0b484",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.20.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.20.tgz",
+			"sha": "a332f2a97043d6127159956a4639a9fb5dc1f5dc",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.19.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.19.tgz",
+			"sha": "d9e9af54c619b7495fffcfa23a0b8922d68316c4",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.18.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.18.tgz",
+			"sha": "95fdcce00b617b93c98a3684ed6666e75d8a669e",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.17.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.17.tgz",
+			"sha": "55defac8b63a1b439796ff32f6f0aaeb53e249e4",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.16.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.16.tgz",
+			"sha": "46f1b2043abd2b4364a857100abf5e5a6ef94bf0",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.15.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.15.tgz",
+			"sha": "420af2c702ac7aab321cf45bb7d3cb2503dd24d5",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.14.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.14.tgz",
+			"sha": "f3fc30dcbb2d20455a714f591cc27f77b4df09bb",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.13.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.13.tgz",
+			"sha": "dcc67764b7455ed54422a0302fedf47e32db3579",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.12.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.12.tgz",
+			"sha": "c066812eb970009b373372f439d08265ed2a6f8e",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.11.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.11.tgz",
+			"sha": "287ba4d9352af95595afd65348c9b04768268233",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.10.tgz",
+			"sha": "f5c45a349f759d87d6b1f2aa096a756561a6d5c9",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.9.tgz",
+			"sha": "9bfe915356aa0b10d1b9211df0121a06aa7ec9af",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.8.tgz",
+			"sha": "fb08d5c8188a96fbd9942c711a17aed5dc736752",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.7.tgz",
+			"sha": "01a5181ff6757724a4b59c13852ee6c49f65c101",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.6.tgz",
+			"sha": "6bd25c8c0ffa570c1bd36ba7e8ec328a879e5cfa",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.5.tgz",
+			"sha": "d6eff90e5480cf129aa12858bf1efd92104b480d",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.4.tgz",
+			"sha": "7b52b6b6bd5be77e8b7ed58a9e6ff00a9a933138",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.3.tgz",
+			"sha": "cd68de0c49c516b940fdc6f688535596b5d6eca4",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.2.tgz",
+			"sha": "c43f7516f5445876c367a232785d26d6323ba415",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.1.tgz",
+			"sha": "7fb482e44645b650e335afa633d0f1349e124002",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.0.tgz",
+			"sha": "51e2f4a2a22898b9e0a77363007bc8afd9eac105",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.47.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.47.tgz",
+			"sha": "12af1677116e08d413fe2620d0a85560c8a0536e",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.46.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.46.tgz",
+			"sha": "83b78c8783f31fc890d9a4d1e2acf9c4665fa913",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.45.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.45.tgz",
+			"sha": "afad851d8592119225aa6bcc402c7f6b9c7e4106",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.44.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.44.tgz",
+			"sha": "821c99b0eac22c3e32621bc0eba08062f1c07b63",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.43.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.43.tgz",
+			"sha": "f17d1b59b7899ada072c1c18ac5641245ad3aabd",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.42.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.42.tgz",
+			"sha": "d3381735712a0e63041447ca6bc89aa278e921f5",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.41.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.41.tgz",
+			"sha": "8613af4650b204682707747fe29d8aaad56c2f76",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.40.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.40.tgz",
+			"sha": "268d1a9b9a42e52562450e2c306630fa38db36ad",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.39.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.39.tgz",
+			"sha": "3a715eeda6d98b7595f2a78f32aa38a27a26c727",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.38.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.38.tgz",
+			"sha": "771c9293fa835107eb5ac2e4ef8d52e54f2ed4ff",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.37.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.37.tgz",
+			"sha": "14489a999cdfb0a05fb5c2335fa6c3c3e7c89ed5",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.36.tgz",
+			"sha": "5d1e768f3291c66c8e54d8a48e42f7cb554a7d87",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.35.tgz",
+			"sha": "126c21a11956d03673257ccd179e43993fc8ad77",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.34.tgz",
+			"sha": "8082e7679110cd4b9126b1361e7bf826fdbf4203",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.33.tgz",
+			"sha": "423b4a637bb07a2ad2736d6a2795cd78c1fcb18d",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.32.tgz",
+			"sha": "7df8dc2f6429e31cc782020bf41ae5911b24e214",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.31.tgz",
+			"sha": "fc07c1f3cb5f9c109dfaafdc8543b2bbfefa2747",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.30.tgz",
+			"sha": "89f92e26ac1002010d0c8af77593ff412b4ed1f0",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.29.tgz",
+			"sha": "81414dd8d6ef7147a5c69c32ccf8bee5789b2ef3",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.28.tgz",
+			"sha": "09b21dd9a1791abf3f49964ecdc107ad181eadac",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.27.tgz",
+			"sha": "3b86108fe7f64abd2323ee9de77de74c60bc7863",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.26-alpha.tgz",
+			"sha": "e0028f0300cecdac8396b5f0c6161c88107a01c2",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.25-alpha.tgz",
+			"sha": "84d6cfeb0caee65d8e9ba7d707ecb29baa3fa10d",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.24-alpha.tgz",
+			"sha": "e15f49dcec7fb9359f8aaa0657a72137c42a2d41",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.23-alpha.tgz",
+			"sha": "359ca6f0e17974df144afc5641a430640dfe5265",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.22-alpha.tgz",
+			"sha": "c3097a1d258e7df18053cefffa983794cd5d87fa",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.21-alpha.tgz",
+			"sha": "30ae25fc69868338e971fa529abada0234666023",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.20-alpha.tgz",
+			"sha": "09683c821f5e58ce7b5db7f4a772dcc9cc9c0225",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.15-alpha.tgz",
+			"sha": "dd87d1a9ba714b10ff4ecbca241c80c4365d376a",
+			"registry": "cnpmjs"
+		},
+		"react-redux-4.4.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-4.4.14-alpha.tgz",
+			"sha": "f4904d4f3f021cc24ec08c574eddaa2070235ec8",
+			"registry": "cnpmjs"
+		},
+		"react-redux-6.0.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.9.tgz",
+			"sha": "96aa7f5b0716bcc3bfb36ceaa1223118d509f79a",
+			"registry": "cnpmjs"
+		},
+		"react-redux-6.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.8.tgz",
+			"sha": "29c884174516f0cfab6638d2236fd7d53f45640e",
+			"registry": "cnpmjs"
+		},
+		"react-redux-6.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.7.tgz",
+			"sha": "ac61cd8d137ca7205b831d66e279f42fe2a1c3cd",
+			"registry": "cnpmjs"
+		},
+		"react-redux-5.0.21.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-5.0.21.tgz",
+			"sha": "98a3a371dfc22c894889f660d7515717639d20f4",
+			"registry": "cnpmjs"
+		},
+		"react-redux-6.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.6.tgz",
+			"sha": "87f1d0a6ea901b93fcaf95fa57641ff64079d277",
+			"registry": "cnpmjs"
+		},
+		"react-redux-6.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.5.tgz",
+			"sha": "bb44679588554f3b686666c0484a960aa7a47b86",
+			"registry": "cnpmjs"
+		},
+		"react-redux-6.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.4.tgz",
+			"sha": "c1cfce0a0bd88983c75dbf393576f8dc59181586",
+			"registry": "cnpmjs"
+		},
+		"react-redux-6.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-redux/download/@types/react-redux-6.0.3.tgz",
+			"sha": "7e8a86cce1c453166056bce9d4eb5cab5a2cfe13",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"16fbc-57WF4gY0Yjsx5gHw/cOEQOi4vVE\"",
+			"fetched": 1541833277124
+		}
+	},
+	"_rev": "2-accb257612a9bfea",
+	"readme": "# Installation\r\n> `npm install --save @types/react-redux`\r\n\r\n# Summary\r\nThis package contains type definitions for react-redux (https://github.com/reduxjs/react-redux).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-redux\r\n\r\nAdditional Details\r\n * Last updated: Thu, 13 Sep 2018 20:21:14 GMT\r\n * Dependencies: react, redux\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Qubo <https://github.com/tkqubo>, Kenzie Togami <https://github.com/kenzierocks>, Curits Layne <https://github.com/clayne11>, Frank Tan <https://github.com/tansongyang>, Nicholas Boll <https://github.com/nicholasboll>, Dibyo Majumdar <https://github.com/mdibyo>, Prashant Deva <https://github.com/pdeva>, Thomas Charlat <https://github.com/kallikrein>, Valentin Descamps <https://github.com/val1984>, Johann Rakotoharisoa <https://github.com/jrakotoharisoa>, Anatoli Papirovski <https://github.com/apapirovski>."
+}

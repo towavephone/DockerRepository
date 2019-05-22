@@ -1,0 +1,3178 @@
+{
+	"name": "@types/draft-js",
+	"versions": {
+		"0.10.23": {
+			"name": "@types/draft-js",
+			"version": "0.10.23",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				},
+				{
+					"name": "Ulf Schwekendiek",
+					"url": "https://github.com/sulf",
+					"githubUsername": "sulf"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "72b97b9df961f76d21e6ad41476a6c3d3a25796a1e1a850ac9884c8e9780d0ad",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/draft-js@0.10.23",
+			"dist": {
+				"shasum": "c313e5e2d6d1b707c18317882b9415975890f3bd",
+				"size": 11841,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.23.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js_0.10.23_1525478260340_0.7694107753070589"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525478260449,
+			"_cnpm_publish_time": 1525478260449
+		},
+		"0.10.22": {
+			"name": "@types/draft-js",
+			"version": "0.10.22",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				},
+				{
+					"name": "Ulf Schwekendiek",
+					"url": "https://github.com/sulf",
+					"githubUsername": "sulf"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "04bd56b9d8c71ddcd7f20640e6cce421a8647c534d76bdeafc21bee8ef09e863",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/draft-js@0.10.22",
+			"dist": {
+				"shasum": "1b962a9760cbda44bc16977f5e8f5950c291aaa5",
+				"size": 11815,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.22.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js_0.10.22_1522176751078_0.33607478557188175"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522176751131,
+			"_cnpm_publish_time": 1522176751131
+		},
+		"0.10.21": {
+			"name": "@types/draft-js",
+			"version": "0.10.21",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				},
+				{
+					"name": "Ulf Schwekendiek",
+					"url": "https://github.com/sulf",
+					"githubUsername": "sulf"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "bd3c8310014bdafbba2c8a5b437199440e4671cf0e1e9a0b43a7d9edbde45c80",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/draft-js@0.10.21",
+			"dist": {
+				"shasum": "751d784bb8507ce206729a50bb280183135fbbc5",
+				"size": 11809,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.21.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js_0.10.21_1521927081422_0.9016935215587301"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521927081531,
+			"_cnpm_publish_time": 1521927081531
+		},
+		"0.10.20": {
+			"name": "@types/draft-js",
+			"version": "0.10.20",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "20b120034b16e8e8e7e5311b24517592462b25b023da69f58b46253a3b7917dc",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/draft-js@0.10.20",
+			"dist": {
+				"shasum": "df82071f09f4bf310b3558f5a0b8b15b06a32c09",
+				"size": 11788,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.20.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js_0.10.20_1518449004305_0.3533115242403162"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518449005053,
+			"_cnpm_publish_time": 1518449005053
+		},
+		"0.10.19": {
+			"name": "@types/draft-js",
+			"version": "0.10.19",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "cbfc75df0309b6e1c2ada6819138356aaa1b8865e42674c9ee6ec800e355ef36",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.19",
+			"dist": {
+				"shasum": "a1a59571c2a9c43505b944b7d4340855d0e1f800",
+				"size": 11762,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.19.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.19.tgz_1512494402204_0.7292137704789639"
+			},
+			"directories": {},
+			"publish_time": 1512494402471,
+			"_cnpm_publish_time": 1512494402471,
+			"_hasShrinkwrap": false
+		},
+		"0.10.18": {
+			"name": "@types/draft-js",
+			"version": "0.10.18",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "f6666eb9d4ab04ecabf787673cad20ba46a38df227363745eb8fdecbb65c8020",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.18",
+			"dist": {
+				"shasum": "082aae2f193f91869b6884895faa2df66f5aedb7",
+				"size": 11780,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.18.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.18.tgz_1511213011666_0.5217714074533433"
+			},
+			"directories": {},
+			"publish_time": 1511213011772,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511213011772
+		},
+		"0.10.17": {
+			"name": "@types/draft-js",
+			"version": "0.10.17",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "92058b8dc6cd1a15ac3c3a04887645427fddccecaf5d09dfa8297bfe89c1f80d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.17",
+			"dist": {
+				"shasum": "5ee9ecb5066d73da68d83fb84242d31d53c058f9",
+				"size": 11607,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.17.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.17.tgz_1510265704492_0.20630571455694735"
+			},
+			"directories": {},
+			"publish_time": 1510265704665,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510265704665
+		},
+		"0.10.16": {
+			"name": "@types/draft-js",
+			"version": "0.10.16",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "d773890623646501594a5941b3152a83f6f2d66ebbb5cc444c3574ac27ddff47",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.16",
+			"dist": {
+				"shasum": "d2dde2637b9d526ba1305d3b0ea75e4eb0f57796",
+				"size": 11593,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.16.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.16.tgz_1508956776586_0.6606449296232313"
+			},
+			"directories": {},
+			"publish_time": 1508956776761,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508956776761
+		},
+		"0.10.15": {
+			"name": "@types/draft-js",
+			"version": "0.10.15",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "ccfbb8f0b147613dbdafa94dc24b77a323b878734b5629aaca71f5b006a5df38",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.15",
+			"dist": {
+				"shasum": "227480917cd07e05c23d9f9f918027308eb95021",
+				"size": 11592,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.15.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.15.tgz_1507665695125_0.8493114581797272"
+			},
+			"directories": {},
+			"publish_time": 1507665697091,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507665697091
+		},
+		"0.10.14": {
+			"name": "@types/draft-js",
+			"version": "0.10.14",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "f7804f3e028ab89a200115f4c2caf26a86ecfce38854a55ad41a376da9351393",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.14",
+			"dist": {
+				"shasum": "a91e8a10c8d995c5431717e371cf3436d232271f",
+				"size": 11486,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.14.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.14.tgz_1507228711901_0.9439396059606224"
+			},
+			"directories": {},
+			"publish_time": 1507228711971,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507228711971
+		},
+		"0.10.13": {
+			"name": "@types/draft-js",
+			"version": "0.10.13",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "bd05a99e9bee808ad80883f21c21600adc90c6c1547740842bb0185e4552272f",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.13",
+			"dist": {
+				"shasum": "cf9cf3a0cb5614056673bd07a6541014fbb093fe",
+				"size": 11402,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.13.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.13.tgz_1505769892012_0.09520318987779319"
+			},
+			"directories": {},
+			"publish_time": 1505769892161,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505769892161
+		},
+		"0.10.12": {
+			"name": "@types/draft-js",
+			"version": "0.10.12",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "b5eb9d8105d6cd42cc66c63a5d926e7666ce65f3c8e0dabedc2344617e361f92",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.12",
+			"dist": {
+				"shasum": "b71dc52a93e87ad9122625a22e1b2e81d9292441",
+				"size": 11337,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.12.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.12.tgz_1504216222124_0.969342271797359"
+			},
+			"directories": {},
+			"publish_time": 1504216222229,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504216222229
+		},
+		"0.10.11": {
+			"name": "@types/draft-js",
+			"version": "0.10.11",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "8afaca84e8e9cd848e201f1e9969a7cf55f25259ead66acb421754e762c30596",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.11",
+			"dist": {
+				"shasum": "e426e5ea9af3b6b1585205ec8508f4014154c43b",
+				"size": 11340,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.11.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.11.tgz_1504042321396_0.4361037602648139"
+			},
+			"directories": {},
+			"publish_time": 1504042321486,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504042321486
+		},
+		"0.10.10": {
+			"name": "@types/draft-js",
+			"version": "0.10.10",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "16c5b08a9a9fc7040c94fd99482243807aad9bc0e63e0c8c18f1e2c17857393d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.10",
+			"dist": {
+				"shasum": "154a0db59a02a4bd4ced33720a36cef2853cb12b",
+				"size": 11351,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.10.tgz_1501768714514_0.1676084736827761"
+			},
+			"directories": {},
+			"publish_time": 1501768715484,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501768715484
+		},
+		"0.10.9": {
+			"name": "@types/draft-js",
+			"version": "0.10.9",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3f2bdf9c697b40273fcc85b74dfc117721bec876c6e1b423ac9679558e86fad3",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.9",
+			"dist": {
+				"shasum": "fe78ec7582e7578c93d39697dcd3eeaf4b6a1317",
+				"size": 11339,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.9.tgz_1501085406763_0.508062174776569"
+			},
+			"directories": {},
+			"publish_time": 1501085406854,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501085406854
+		},
+		"0.10.8": {
+			"name": "@types/draft-js",
+			"version": "0.10.8",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2df1105e5ef6768c0ddcfa12690cd8424c49dda6a2b37b1b8cb1204c763e5f09",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.8",
+			"dist": {
+				"shasum": "5a81f73c36fe7a3e504fdc57a7af3afc7601cc98",
+				"size": 11296,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.8.tgz_1500750266507_0.760396761354059"
+			},
+			"directories": {},
+			"publish_time": 1500750266599,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500750266599
+		},
+		"0.10.7": {
+			"name": "@types/draft-js",
+			"version": "0.10.7",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "4a3f24e252052ae0a80ac3ff0c5202749c6eb289bb20a8a7905c2f50feeefc0d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.7",
+			"dist": {
+				"shasum": "60bec22bca4dd3b1b4bc423ed9ead5a8d3915b70",
+				"size": 11265,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.7.tgz_1500388799538_0.9366603246890008"
+			},
+			"directories": {},
+			"publish_time": 1500388800449,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500388800449
+		},
+		"0.10.6": {
+			"name": "@types/draft-js",
+			"version": "0.10.6",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "9d290927f0e9bf13615201c12debbf709a6f4fbefc342212f2e3d7f5ddbac012",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.6",
+			"dist": {
+				"shasum": "c97f5d1c8017780ef1a1d82e7d2f0d5f9026c30a",
+				"size": 11221,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.6.tgz_1499958054519_0.8265047909226269"
+			},
+			"directories": {},
+			"publish_time": 1499958054604,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1499958054604
+		},
+		"0.10.5": {
+			"name": "@types/draft-js",
+			"version": "0.10.5",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "becbb2054ab786a33a497197fda2d7aa92a540000bec1a30aad5129c4d3db0fa",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.5",
+			"dist": {
+				"shasum": "da5ef1a163251fa3b9df1b03ea0c728d52506a28",
+				"size": 11160,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.5.tgz_1498485718548_0.8548709864262491"
+			},
+			"directories": {},
+			"publish_time": 1498485719522,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498485719522
+		},
+		"0.10.4": {
+			"name": "@types/draft-js",
+			"version": "0.10.4",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e31f280d4027d24acf5b0c9a9f328a1518a8d6a2c0909075e6c5480041cd5ec9",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/draft-js@0.10.4",
+			"dist": {
+				"shasum": "bfba6509a3861610667425b407150506115f5a69",
+				"size": 11165,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.4.tgz_1498226618823_0.2953063561581075"
+			},
+			"directories": {},
+			"publish_time": 1498226618931,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498226618931
+		},
+		"0.10.3": {
+			"name": "@types/draft-js",
+			"version": "0.10.3",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f46a122e4fe6a2dea4cb7f94fd513fee7828c00abe726a5fe9a5c641c436bddf",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/draft-js@0.10.3",
+			"dist": {
+				"shasum": "ddc1975b876ae51df253554711920d994468b932",
+				"size": 11167,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.3.tgz_1496758763451_0.48624321771785617"
+			},
+			"directories": {},
+			"publish_time": 1496758763518,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496758763518
+		},
+		"0.10.2": {
+			"name": "@types/draft-js",
+			"version": "0.10.2",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3b70f3a557ee0bbe07de01fb5794a7fed11e138bb57865c045f49d8170b24a34",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/draft-js@0.10.2",
+			"dist": {
+				"shasum": "ff1fdf3797cb6a702da7838499f98f3bd3cd6dd5",
+				"size": 11111,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js-0.10.2.tgz_1496367323956_0.8003193740732968"
+			},
+			"directories": {},
+			"publish_time": 1496367324026,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496367324026
+		},
+		"0.10.1": {
+			"name": "@types/draft-js",
+			"version": "0.10.1",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6efd4d720fda1afa8b3ee2a412bfaabbc7df68022b99c807ae7d49be80afdce6",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/draft-js@0.10.1",
+			"dist": {
+				"shasum": "4db13b29f79371cc766937114afea884dc267910",
+				"size": 11057,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.10.1.tgz_1492813827305_0.03792408434674144"
+			},
+			"directories": {},
+			"publish_time": 1492813827530,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492813827530
+		},
+		"0.10.0": {
+			"name": "@types/draft-js",
+			"version": "0.10.0",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b7a81cf167dfdc0d17e7548572181b88c2c1d376c826a7ab735b53c0cb1aaf69",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/draft-js@0.10.0",
+			"dist": {
+				"shasum": "71d6e44bd50d6649e59bb429835f7cc14ec33819",
+				"size": 10389,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.10.0.tgz_1489195059054_0.08602331532165408"
+			},
+			"directories": {},
+			"publish_time": 1489195059309,
+			"_cnpm_publish_time": 1489195059309,
+			"_hasShrinkwrap": false
+		},
+		"0.9.1": {
+			"name": "@types/draft-js",
+			"version": "0.9.1",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"author": "Dmitry Rogozhny <https://github.com/dmitryrogozhny>, Eelco Lempsink <https://github.com/eelco>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bd06e2acd2dad0f1b6b317733c1ca2f4e9efbecee5aa48e73b79048abd8a0757",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/draft-js@0.9.1",
+			"dist": {
+				"shasum": "5a626f5ae8409c6530a156a7741cea768142eb4f",
+				"size": 10575,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.9.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.9.1.tgz_1486502320795_0.6221989537589252"
+			},
+			"directories": {},
+			"publish_time": 1486502322547,
+			"_cnpm_publish_time": 1486502322547,
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "@types/draft-js",
+			"version": "0.9.0",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"author": "Dmitry Rogozhny <https://github.com/dmitryrogozhny>, Eelco Lempsink <https://github.com/eelco>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d088ae175dc297be4bc5d8b029c47dd55f528a520b8f548a3d9f434164dd1265",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/draft-js@0.9.0",
+			"dist": {
+				"shasum": "854c2341b8860a40aab1da26e02327e4f4f09fca",
+				"size": 10568,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.9.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.9.0.tgz_1484077103069_0.614082602551207"
+			},
+			"directories": {},
+			"publish_time": 1484077103289,
+			"_cnpm_publish_time": 1484077103289,
+			"_hasShrinkwrap": false
+		},
+		"0.9.0-next.0": {
+			"name": "@types/draft-js",
+			"version": "0.9.0-next.0",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"author": "Dmitry Rogozhny <https://github.com/dmitryrogozhny>, Eelco Lempsink <https://github.com/eelco>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d088ae175dc297be4bc5d8b029c47dd55f528a520b8f548a3d9f434164dd1265",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/draft-js@0.9.0-next.0",
+			"dist": {
+				"shasum": "997a3e455f55ef6fb44c04d7f4c544eb837dd204",
+				"size": 10574,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.9.0-next.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.9.0-next.0.tgz_1483720503216_0.11905353935435414"
+			},
+			"directories": {},
+			"publish_time": 1483720505124,
+			"_cnpm_publish_time": 1483720505124,
+			"_hasShrinkwrap": false
+		},
+		"0.7.35": {
+			"name": "@types/draft-js",
+			"version": "0.7.35",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"author": "Dmitry Rogozhny <https://github.com/dmitryrogozhny>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3b3d57e0274b68429cf1978130ff976c4922704602fc0a68421b792be5996525",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/draft-js@0.7.35",
+			"dist": {
+				"shasum": "b5db5159dee032f3167622007ddc34c8b8add971",
+				"size": 10384,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.7.35.tgz_1483314137300_0.16578610590659082"
+			},
+			"directories": {},
+			"publish_time": 1483314137536,
+			"_cnpm_publish_time": 1483314137536,
+			"_hasShrinkwrap": false
+		},
+		"0.7.34": {
+			"name": "@types/draft-js",
+			"version": "0.7.34",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"author": "Dmitry Rogozhny <https://github.com/dmitryrogozhny>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/immutable": "*",
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2f687a4fb010641fca420f310c3cbc9ea73f709054dc7fe6e4129a12d20fb13a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/draft-js@0.7.34",
+			"dist": {
+				"shasum": "3e734de6243d61a81ea98e3b39fcfd01e35eeeb8",
+				"size": 10380,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.7.34.tgz_1482612151734_0.7108923236373812"
+			},
+			"directories": {},
+			"publish_time": 1482612151969,
+			"_cnpm_publish_time": 1482612151969,
+			"_hasShrinkwrap": false
+		},
+		"0.7.33": {
+			"name": "@types/draft-js",
+			"version": "0.7.33",
+			"description": "TypeScript definitions for Draft.js v0.7.0",
+			"license": "MIT",
+			"author": "Dmitry Rogozhny <https://github.com/dmitryrogozhny>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/immutable": "*",
+				"@types/react": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "69c78694408926448c62a4e76495f9adc1a0663cbfbd7cadfc437f75f67fcb31",
+			"_id": "@types/draft-js@0.7.33",
+			"dist": {
+				"shasum": "f1ae4a5b1c634425f2ca5feae5a4aad61f3c18ee",
+				"size": 10399,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.7.33.tgz_1474303336609_0.4330452650319785"
+			},
+			"directories": {},
+			"publish_time": 1474303338608,
+			"_cnpm_publish_time": 1474303338608,
+			"_hasShrinkwrap": false
+		},
+		"0.7.32": {
+			"name": "@types/draft-js",
+			"version": "0.7.32",
+			"description": "TypeScript definitions for Draft.js v0.7.0",
+			"license": "MIT",
+			"author": "Dmitry Rogozhny <https://github.com/dmitryrogozhny>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/immutable": "3.8.*",
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/draft-js@0.7.32",
+			"dist": {
+				"shasum": "5fb65950dda4b1fc08bd8cfc814a900d0221948d",
+				"size": 10393,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.7.32.tgz_1472150423171_0.8538262732326984"
+			},
+			"directories": {},
+			"publish_time": 1472150424945,
+			"_cnpm_publish_time": 1472150424945,
+			"_hasShrinkwrap": false
+		},
+		"0.7.31": {
+			"name": "@types/draft-js",
+			"version": "0.7.31",
+			"description": "TypeScript definitions for Draft.js v0.7.0",
+			"license": "MIT",
+			"author": "Dmitry Rogozhny <https://github.com/dmitryrogozhny>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/immutable": "3.8.*",
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/draft-js@0.7.31",
+			"dist": {
+				"shasum": "2ae1bef0354ea4a6d26964c1297b0ea7dbf6affb",
+				"size": 10392,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.7.31.tgz_1471620243963_0.9371750729624182"
+			},
+			"directories": {},
+			"publish_time": 1471620245148,
+			"_cnpm_publish_time": 1471620245148,
+			"_hasShrinkwrap": false
+		},
+		"0.7.30": {
+			"name": "@types/draft-js",
+			"version": "0.7.30",
+			"description": "TypeScript definitions for Draft.js v0.7.0",
+			"license": "MIT",
+			"author": "Dmitry Rogozhny <https://github.com/dmitryrogozhny>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/immutable": "3.8.*",
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/draft-js@0.7.30",
+			"dist": {
+				"shasum": "dab176eeaf893ce0112d22253cfe7adc9ce1dac1",
+				"size": 48640,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.7.30.tgz_1470153073996_0.8838841053657234"
+			},
+			"directories": {},
+			"publish_time": 1470153076157,
+			"_cnpm_publish_time": 1470153076157,
+			"_hasShrinkwrap": false
+		},
+		"0.2.29": {
+			"name": "@types/draft-js",
+			"version": "0.2.29",
+			"description": "TypeScript definitions for draft-js 0.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pavel Evsegneev",
+				"email": "https://github.com/Ahineya"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/draft-js@0.2.29",
+			"_shasum": "3f01e6fc26395d6ecbd5b6d5612955e5f66ed741",
+			"_from": "output\\draft-js",
+			"_resolved": "file:output\\draft-js",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3f01e6fc26395d6ecbd5b6d5612955e5f66ed741",
+				"size": 2721,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.2.29.tgz_1468506446830_0.6124554187990725"
+			},
+			"directories": {},
+			"publish_time": 1468506449032,
+			"_cnpm_publish_time": 1468506449032,
+			"_hasShrinkwrap": false
+		},
+		"0.2.28-alpha": {
+			"name": "@types/draft-js",
+			"version": "0.2.28-alpha",
+			"description": "TypeScript definitions for draft-js 0.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pavel Evsegneev",
+				"email": "https://github.com/Ahineya"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/draft-js@0.2.28-alpha",
+			"_shasum": "526735aa1017a5d87f15c337a60f95da5b3b8ba7",
+			"_from": "output\\draft-js",
+			"_resolved": "file:output\\draft-js",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "526735aa1017a5d87f15c337a60f95da5b3b8ba7",
+				"size": 2726,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.2.28-alpha.tgz_1468007795937_0.5384758638683707"
+			},
+			"directories": {},
+			"publish_time": 1468007797328,
+			"_cnpm_publish_time": 1468007797328,
+			"_hasShrinkwrap": false
+		},
+		"0.2.27-alpha": {
+			"name": "@types/draft-js",
+			"version": "0.2.27-alpha",
+			"description": "TypeScript definitions for draft-js 0.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pavel Evsegneev",
+				"email": "https://github.com/Ahineya"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/draft-js@0.2.27-alpha",
+			"_shasum": "034c4b298a58b4976fb50fe21d0bf83ff3fa1f4f",
+			"_from": "output\\draft-js",
+			"_resolved": "file:output\\draft-js",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "034c4b298a58b4976fb50fe21d0bf83ff3fa1f4f",
+				"size": 2726,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.2.27-alpha.tgz_1467590631633_0.07035691989585757"
+			},
+			"directories": {},
+			"publish_time": 1467590632103,
+			"_cnpm_publish_time": 1467590632103,
+			"_hasShrinkwrap": false
+		},
+		"0.2.26-alpha": {
+			"name": "@types/draft-js",
+			"version": "0.2.26-alpha",
+			"description": "TypeScript definitions for draft-js 0.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pavel Evsegneev",
+				"email": "https://github.com/Ahineya"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/draft-js@0.2.26-alpha",
+			"_shasum": "d8d5c5ada6e059527d185bb33c641df0e402ae5b",
+			"_from": "output\\draft-js",
+			"_resolved": "file:output\\draft-js",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d8d5c5ada6e059527d185bb33c641df0e402ae5b",
+				"size": 2727,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.2.26-alpha.tgz_1467425839249_0.9841888404916972"
+			},
+			"directories": {},
+			"publish_time": 1467425842619,
+			"_cnpm_publish_time": 1467425842619,
+			"_hasShrinkwrap": false
+		},
+		"0.2.25-alpha": {
+			"name": "@types/draft-js",
+			"version": "0.2.25-alpha",
+			"description": "TypeScript definitions for draft-js 0.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pavel Evsegneev",
+				"email": "https://github.com/Ahineya"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/draft-js@0.2.25-alpha",
+			"_shasum": "68a6b2304f2a674c160f49f7a8173a5f0c0cad13",
+			"_from": "output\\draft-js",
+			"_resolved": "file:output\\draft-js",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "68a6b2304f2a674c160f49f7a8173a5f0c0cad13",
+				"size": 2728,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.2.25-alpha.tgz_1467412334830_0.9536554908845574"
+			},
+			"directories": {},
+			"publish_time": 1467412335366,
+			"_cnpm_publish_time": 1467412335366,
+			"_hasShrinkwrap": false
+		},
+		"0.2.24-alpha": {
+			"name": "@types/draft-js",
+			"version": "0.2.24-alpha",
+			"description": "TypeScript definitions for draft-js 0.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pavel Evsegneev",
+				"email": "https://github.com/Ahineya"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/draft-js@0.2.24-alpha",
+			"_shasum": "5e7049907f26afb0cd1ab914b22ec6eb27bcdc49",
+			"_from": "output\\draft-js",
+			"_resolved": "file:output\\draft-js",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5e7049907f26afb0cd1ab914b22ec6eb27bcdc49",
+				"size": 2715,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.2.24-alpha.tgz_1467400638259_0.13770236866548657"
+			},
+			"directories": {},
+			"publish_time": 1467400640742,
+			"_cnpm_publish_time": 1467400640742,
+			"_hasShrinkwrap": false
+		},
+		"0.2.23-alpha": {
+			"name": "@types/draft-js",
+			"version": "0.2.23-alpha",
+			"description": "TypeScript definitions for draft-js 0.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pavel Evsegneev",
+				"email": "https://github.com/Ahineya"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/draft-js@0.2.23-alpha",
+			"_shasum": "0f06868d6c32e36b25be0a7ba3260caace09beff",
+			"_from": "output\\draft-js",
+			"_resolved": "file:output\\draft-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0f06868d6c32e36b25be0a7ba3260caace09beff",
+				"size": 2699,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.2.23-alpha.tgz_1464151627851_0.6248079356737435"
+			},
+			"directories": {},
+			"publish_time": 1464151628350,
+			"_cnpm_publish_time": 1464151628350,
+			"_hasShrinkwrap": false
+		},
+		"0.2.22-alpha": {
+			"name": "@types/draft-js",
+			"version": "0.2.22-alpha",
+			"description": "TypeScript definitions for draft-js 0.2.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pavel Evsegneev",
+				"email": "https://github.com/Ahineya"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/draft-js@0.2.22-alpha",
+			"_shasum": "1a292150e4231e7958fe047b853bbbfb95d057ea",
+			"_from": "output\\draft-js",
+			"_resolved": "file:output\\draft-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1a292150e4231e7958fe047b853bbbfb95d057ea",
+				"size": 2698,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.2.22-alpha.tgz_1463772516527_0.4432395326439291"
+			},
+			"directories": {},
+			"publish_time": 1463772516922,
+			"_cnpm_publish_time": 1463772516922,
+			"_hasShrinkwrap": false
+		},
+		"0.2.17-alpha": {
+			"name": "@types/draft-js",
+			"version": "0.2.17-alpha",
+			"description": "Type definitions for draft-js 0.2.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pavel Evsegneev",
+				"email": "https://github.com/Ahineya"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/draft-js@0.2.17-alpha",
+			"_shasum": "b778de6e4133d4c88a98dd208e98748589194082",
+			"_from": "output\\draft-js",
+			"_resolved": "file:output\\draft-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b778de6e4133d4c88a98dd208e98748589194082",
+				"size": 2707,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.2.17-alpha.tgz_1463690534628_0.541072832653299"
+			},
+			"directories": {},
+			"publish_time": 1463690539547,
+			"_cnpm_publish_time": 1463690539547,
+			"_hasShrinkwrap": false
+		},
+		"0.2.16-alpha": {
+			"name": "@types/draft-js",
+			"version": "0.2.16-alpha",
+			"description": "Type definitions for draft-js 0.2.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pavel Evsegneev",
+				"email": "https://github.com/Ahineya"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/draft-js@0.2.16-alpha",
+			"_shasum": "776fc723bc41707df6cdffd52a058614a7d86063",
+			"_from": "output\\draft-js",
+			"_resolved": "file:output\\draft-js",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "776fc723bc41707df6cdffd52a058614a7d86063",
+				"size": 2699,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/draft-js-0.2.16-alpha.tgz_1463460458894_0.18969911942258477"
+			},
+			"directories": {},
+			"publish_time": 1463460462582,
+			"_cnpm_publish_time": 1463460462582,
+			"_hasShrinkwrap": false
+		},
+		"0.10.26": {
+			"name": "@types/draft-js",
+			"version": "0.10.26",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				},
+				{
+					"name": "Ulf Schwekendiek",
+					"url": "https://github.com/sulf",
+					"githubUsername": "sulf"
+				},
+				{
+					"name": "Pablo Varela",
+					"url": "https://github.com/pablopunk",
+					"githubUsername": "pablopunk"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "fc555ba7ce8ff68e1dd55e54599045c9ee82ba77e4250168019a7615457a14f6",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/draft-js@0.10.26",
+			"dist": {
+				"shasum": "0b02324b7981cbab32d23cd0a1d968bbf576757b",
+				"size": 11904,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.26.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js_0.10.26_1540500702748_0.7384770985668518"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1540500702916,
+			"_cnpm_publish_time": 1540500702916
+		},
+		"0.10.25": {
+			"name": "@types/draft-js",
+			"version": "0.10.25",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				},
+				{
+					"name": "Ulf Schwekendiek",
+					"url": "https://github.com/sulf",
+					"githubUsername": "sulf"
+				},
+				{
+					"name": "Pablo Varela",
+					"url": "https://github.com/pablopunk",
+					"githubUsername": "pablopunk"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "b291243ba2824466c03f7cfb9249f23b496591bda1ab31c6a9e39b310dfa1247",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/draft-js@0.10.25",
+			"dist": {
+				"shasum": "4f741ea8b7f008c3c0a06ff6b2c4427f380dc331",
+				"size": 11937,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.25.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js_0.10.25_1536618536266_0.6903525090044595"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536618536365,
+			"_cnpm_publish_time": 1536618536365
+		},
+		"0.10.24": {
+			"name": "@types/draft-js",
+			"version": "0.10.24",
+			"description": "TypeScript definitions for Draft.js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dmitry Rogozhny",
+					"url": "https://github.com/dmitryrogozhny",
+					"githubUsername": "dmitryrogozhny"
+				},
+				{
+					"name": "Eelco Lempsink",
+					"url": "https://github.com/eelco",
+					"githubUsername": "eelco"
+				},
+				{
+					"name": "Yale Cason",
+					"url": "https://github.com/ghotiphud",
+					"githubUsername": "ghotiphud"
+				},
+				{
+					"name": "Ryan Schwers",
+					"url": "https://github.com/schwers",
+					"githubUsername": "schwers"
+				},
+				{
+					"name": "Michael Wu",
+					"url": "https://github.com/michael-yx-wu",
+					"githubUsername": "michael-yx-wu"
+				},
+				{
+					"name": "Willis Plummer",
+					"url": "https://github.com/willisplummer",
+					"githubUsername": "willisplummer"
+				},
+				{
+					"name": "Santiago Vilar",
+					"url": "https://github.com/smvilar",
+					"githubUsername": "smvilar"
+				},
+				{
+					"name": "Ulf Schwekendiek",
+					"url": "https://github.com/sulf",
+					"githubUsername": "sulf"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"immutable": "^3.8.1",
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "c7ee6d021b143f20fc94d03aeecbb54f237ce952fd927c81470fd055a71b0327",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/draft-js@0.10.24",
+			"dist": {
+				"shasum": "08145421cfc7ef31e382e4fa8bd9e78ef6983445",
+				"size": 11829,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.24.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/draft-js_0.10.24_1533344937305_0.7062707145939664"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533344937394,
+			"_cnpm_publish_time": 1533344937394
+		}
+	},
+	"dist-tags": {
+		"latest": "0.10.26",
+		"ts2.0": "0.7.35",
+		"ts2.1": "0.10.3",
+		"ts2.2": "0.10.3",
+		"ts2.3": "0.10.19",
+		"ts2.4": "0.10.19",
+		"ts2.5": "0.10.19",
+		"ts2.6": "0.10.23",
+		"ts2.7": "0.10.23",
+		"ts2.8": "0.10.26",
+		"ts2.9": "0.10.26",
+		"ts3.0": "0.10.26",
+		"ts3.1": "0.10.26",
+		"ts3.2": "0.10.26"
+	},
+	"time": {
+		"modified": "2018-10-25T20:54:36.000Z",
+		"created": "2016-05-17T04:47:42.582Z",
+		"0.10.26": "2018-10-25T20:51:42.916Z",
+		"0.10.25": "2018-09-10T22:28:56.365Z",
+		"0.10.24": "2018-08-04T01:08:57.394Z",
+		"0.10.23": "2018-05-04T23:57:40.449Z",
+		"0.10.22": "2018-03-27T18:52:31.131Z",
+		"0.10.21": "2018-03-24T21:31:21.531Z",
+		"0.10.20": "2018-02-12T15:23:25.053Z",
+		"0.10.19": "2017-12-05T17:20:02.471Z",
+		"0.10.18": "2017-11-20T21:23:31.772Z",
+		"0.10.17": "2017-11-09T22:15:04.665Z",
+		"0.10.16": "2017-10-25T18:39:36.761Z",
+		"0.10.15": "2017-10-10T20:01:37.091Z",
+		"0.10.14": "2017-10-05T18:38:31.971Z",
+		"0.10.13": "2017-09-18T21:24:52.161Z",
+		"0.10.12": "2017-08-31T21:50:22.229Z",
+		"0.10.11": "2017-08-29T21:32:01.486Z",
+		"0.10.10": "2017-08-03T13:58:35.484Z",
+		"0.10.9": "2017-07-26T16:10:06.854Z",
+		"0.10.8": "2017-07-22T19:04:26.599Z",
+		"0.10.7": "2017-07-18T14:40:00.449Z",
+		"0.10.6": "2017-07-13T15:00:54.604Z",
+		"0.10.5": "2017-06-26T14:01:59.522Z",
+		"0.10.4": "2017-06-23T14:03:38.931Z",
+		"0.10.3": "2017-06-06T14:19:23.518Z",
+		"0.10.2": "2017-06-02T01:35:24.026Z",
+		"0.10.1": "2017-04-21T22:30:27.530Z",
+		"0.10.0": "2017-03-11T01:17:39.309Z",
+		"0.9.1": "2017-02-07T21:18:42.547Z",
+		"0.9.0": "2017-01-10T19:38:23.289Z",
+		"0.9.0-next.0": "2017-01-06T16:35:05.124Z",
+		"0.7.35": "2017-01-01T23:42:17.536Z",
+		"0.7.34": "2016-12-24T20:42:31.969Z",
+		"0.7.33": "2016-09-19T16:42:18.608Z",
+		"0.7.32": "2016-08-25T18:40:24.945Z",
+		"0.7.31": "2016-08-19T15:24:05.148Z",
+		"0.7.30": "2016-08-02T15:51:16.157Z",
+		"0.2.29": "2016-07-14T14:27:29.032Z",
+		"0.2.28-alpha": "2016-07-08T19:56:37.328Z",
+		"0.2.27-alpha": "2016-07-04T00:03:52.103Z",
+		"0.2.26-alpha": "2016-07-02T02:17:22.619Z",
+		"0.2.25-alpha": "2016-07-01T22:32:15.366Z",
+		"0.2.24-alpha": "2016-07-01T19:17:20.742Z",
+		"0.2.23-alpha": "2016-05-25T04:47:08.350Z",
+		"0.2.22-alpha": "2016-05-20T19:28:36.922Z",
+		"0.2.17-alpha": "2016-05-19T20:42:19.547Z",
+		"0.2.16-alpha": "2016-05-17T04:47:42.582Z"
+	},
+	"_distfiles": {
+		"draft-js-0.10.23.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.23.tgz",
+			"sha": "c313e5e2d6d1b707c18317882b9415975890f3bd",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.22.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.22.tgz",
+			"sha": "1b962a9760cbda44bc16977f5e8f5950c291aaa5",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.21.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.21.tgz",
+			"sha": "751d784bb8507ce206729a50bb280183135fbbc5",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.20.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.20.tgz",
+			"sha": "df82071f09f4bf310b3558f5a0b8b15b06a32c09",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.19.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.19.tgz",
+			"sha": "a1a59571c2a9c43505b944b7d4340855d0e1f800",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.18.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.18.tgz",
+			"sha": "082aae2f193f91869b6884895faa2df66f5aedb7",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.17.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.17.tgz",
+			"sha": "5ee9ecb5066d73da68d83fb84242d31d53c058f9",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.16.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.16.tgz",
+			"sha": "d2dde2637b9d526ba1305d3b0ea75e4eb0f57796",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.15.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.15.tgz",
+			"sha": "227480917cd07e05c23d9f9f918027308eb95021",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.14.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.14.tgz",
+			"sha": "a91e8a10c8d995c5431717e371cf3436d232271f",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.13.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.13.tgz",
+			"sha": "cf9cf3a0cb5614056673bd07a6541014fbb093fe",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.12.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.12.tgz",
+			"sha": "b71dc52a93e87ad9122625a22e1b2e81d9292441",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.11.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.11.tgz",
+			"sha": "e426e5ea9af3b6b1585205ec8508f4014154c43b",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.10.tgz",
+			"sha": "154a0db59a02a4bd4ced33720a36cef2853cb12b",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.9.tgz",
+			"sha": "fe78ec7582e7578c93d39697dcd3eeaf4b6a1317",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.8.tgz",
+			"sha": "5a81f73c36fe7a3e504fdc57a7af3afc7601cc98",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.7.tgz",
+			"sha": "60bec22bca4dd3b1b4bc423ed9ead5a8d3915b70",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.6.tgz",
+			"sha": "c97f5d1c8017780ef1a1d82e7d2f0d5f9026c30a",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.5.tgz",
+			"sha": "da5ef1a163251fa3b9df1b03ea0c728d52506a28",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.4.tgz",
+			"sha": "bfba6509a3861610667425b407150506115f5a69",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.3.tgz",
+			"sha": "ddc1975b876ae51df253554711920d994468b932",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.2.tgz",
+			"sha": "ff1fdf3797cb6a702da7838499f98f3bd3cd6dd5",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.1.tgz",
+			"sha": "4db13b29f79371cc766937114afea884dc267910",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.0.tgz",
+			"sha": "71d6e44bd50d6649e59bb429835f7cc14ec33819",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.9.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.9.1.tgz",
+			"sha": "5a626f5ae8409c6530a156a7741cea768142eb4f",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.9.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.9.0.tgz",
+			"sha": "854c2341b8860a40aab1da26e02327e4f4f09fca",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.9.0-next.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.9.0-next.0.tgz",
+			"sha": "997a3e455f55ef6fb44c04d7f4c544eb837dd204",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.7.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.35.tgz",
+			"sha": "b5db5159dee032f3167622007ddc34c8b8add971",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.7.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.34.tgz",
+			"sha": "3e734de6243d61a81ea98e3b39fcfd01e35eeeb8",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.7.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.33.tgz",
+			"sha": "f1ae4a5b1c634425f2ca5feae5a4aad61f3c18ee",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.7.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.32.tgz",
+			"sha": "5fb65950dda4b1fc08bd8cfc814a900d0221948d",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.7.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.31.tgz",
+			"sha": "2ae1bef0354ea4a6d26964c1297b0ea7dbf6affb",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.7.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.7.30.tgz",
+			"sha": "dab176eeaf893ce0112d22253cfe7adc9ce1dac1",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.2.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.29.tgz",
+			"sha": "3f01e6fc26395d6ecbd5b6d5612955e5f66ed741",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.2.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.28-alpha.tgz",
+			"sha": "526735aa1017a5d87f15c337a60f95da5b3b8ba7",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.2.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.27-alpha.tgz",
+			"sha": "034c4b298a58b4976fb50fe21d0bf83ff3fa1f4f",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.26-alpha.tgz",
+			"sha": "d8d5c5ada6e059527d185bb33c641df0e402ae5b",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.25-alpha.tgz",
+			"sha": "68a6b2304f2a674c160f49f7a8173a5f0c0cad13",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.24-alpha.tgz",
+			"sha": "5e7049907f26afb0cd1ab914b22ec6eb27bcdc49",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.23-alpha.tgz",
+			"sha": "0f06868d6c32e36b25be0a7ba3260caace09beff",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.22-alpha.tgz",
+			"sha": "1a292150e4231e7958fe047b853bbbfb95d057ea",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.2.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.17-alpha.tgz",
+			"sha": "b778de6e4133d4c88a98dd208e98748589194082",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.2.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.2.16-alpha.tgz",
+			"sha": "776fc723bc41707df6cdffd52a058614a7d86063",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.26.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.26.tgz",
+			"sha": "0b02324b7981cbab32d23cd0a1d968bbf576757b",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.25.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.25.tgz",
+			"sha": "4f741ea8b7f008c3c0a06ff6b2c4427f380dc331",
+			"registry": "cnpmjs"
+		},
+		"draft-js-0.10.24.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/draft-js/download/@types/draft-js-0.10.24.tgz",
+			"sha": "08145421cfc7ef31e382e4fa8bd9e78ef6983445",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833454711
+		}
+	},
+	"_rev": "2-c7a1fa57b7727115",
+	"readme": "# Installation\r\n> `npm install --save @types/draft-js`\r\n\r\n# Summary\r\nThis package contains type definitions for Draft.js (https://facebook.github.io/draft-js/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/draft-js\r\n\r\nAdditional Details\r\n * Last updated: Thu, 25 Oct 2018 20:51:21 GMT\r\n * Dependencies: react, immutable\r\n * Global values: Draft\r\n\r\n# Credits\r\nThese definitions were written by Dmitry Rogozhny <https://github.com/dmitryrogozhny>, Eelco Lempsink <https://github.com/eelco>, Yale Cason <https://github.com/ghotiphud>, Ryan Schwers <https://github.com/schwers>, Michael Wu <https://github.com/michael-yx-wu>, Willis Plummer <https://github.com/willisplummer>, Santiago Vilar <https://github.com/smvilar>, Ulf Schwekendiek <https://github.com/sulf>, Pablo Varela <https://github.com/pablopunk>."
+}

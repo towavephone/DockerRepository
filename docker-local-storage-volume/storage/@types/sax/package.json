@@ -1,0 +1,744 @@
+{
+	"name": "@types/sax",
+	"versions": {
+		"1.0.0": {
+			"name": "@types/sax",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for sax-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "713465fe08315af4a8bd953a5046f529167a1a50a47c7b937106d6ed229b55cf",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sax@1.0.0",
+			"dist": {
+				"shasum": "30d5e6bdbf126daf6e412c639251dd974bd47cdc",
+				"size": 1667,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/sax-1.0.0.tgz_1487366434544_0.30424399417825043"
+			},
+			"directories": {},
+			"publish_time": 1487366436420,
+			"_cnpm_publish_time": 1487366436420,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/sax",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for sax js",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "43987c1afe252a8f53eb6ca1e9095a50a26ce1899c9d3e02b011dfc2daeca54c",
+			"_id": "@types/sax@0.0.28",
+			"dist": {
+				"shasum": "08bc2bed7697f97b0f345a0ba5d93e5f163c89e2",
+				"size": 1618,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.28.tgz_1474308629260_0.0460294745862484"
+			},
+			"directories": {},
+			"publish_time": 1474308629503,
+			"_cnpm_publish_time": 1474308629503,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/sax",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for sax js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/sax@0.0.27",
+			"_shasum": "a82032fba15a1b130125460f10bbeb2dbe79ba90",
+			"_from": "output\\sax",
+			"_resolved": "file:output\\sax",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a82032fba15a1b130125460f10bbeb2dbe79ba90",
+				"size": 1602,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.27.tgz_1468511982319_0.43166755279526114"
+			},
+			"directories": {},
+			"publish_time": 1468511984773,
+			"_cnpm_publish_time": 1468511984773,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/sax",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for sax js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/sax@0.0.26-alpha",
+			"_shasum": "a3d85084a4619ee1fe6af9a8d664dab61e3a708a",
+			"_from": "output\\sax",
+			"_resolved": "file:output\\sax",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a3d85084a4619ee1fe6af9a8d664dab61e3a708a",
+				"size": 1606,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.26-alpha.tgz_1468013052056_0.9398417011834681"
+			},
+			"directories": {},
+			"publish_time": 1468013054727,
+			"_cnpm_publish_time": 1468013054727,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/sax",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for sax js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/sax@0.0.25-alpha",
+			"_shasum": "87c70537e1415e0e36c500f0ad6b67dd197553be",
+			"_from": "output\\sax",
+			"_resolved": "file:output\\sax",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "87c70537e1415e0e36c500f0ad6b67dd197553be",
+				"size": 1608,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.25-alpha.tgz_1467594915797_0.9248089867178351"
+			},
+			"directories": {},
+			"publish_time": 1467594916303,
+			"_cnpm_publish_time": 1467594916303,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/sax",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for sax js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.25-alpha"
+			},
+			"_id": "@types/sax@0.0.24-alpha",
+			"_shasum": "b11468c4178ac651ff7b9b0d49fedd5981844d8b",
+			"_from": "output\\sax",
+			"_resolved": "file:output\\sax",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b11468c4178ac651ff7b9b0d49fedd5981844d8b",
+				"size": 1608,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.24-alpha.tgz_1467429872072_0.19635092187672853"
+			},
+			"directories": {},
+			"publish_time": 1467429872554,
+			"_cnpm_publish_time": 1467429872554,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/sax",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for sax js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/sax@0.0.23-alpha",
+			"_shasum": "6d04b749d54409fb19f8791be0380f6f8313c694",
+			"_from": "output\\sax",
+			"_resolved": "file:output\\sax",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6d04b749d54409fb19f8791be0380f6f8313c694",
+				"size": 1611,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.23-alpha.tgz_1467417298573_0.5699472089763731"
+			},
+			"directories": {},
+			"publish_time": 1467417299187,
+			"_cnpm_publish_time": 1467417299187,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/sax",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for sax js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/sax@0.0.22-alpha",
+			"_shasum": "9890399e4803e6ac8ae3bb67fbd7132ba4df5410",
+			"_from": "output\\sax",
+			"_resolved": "file:output\\sax",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9890399e4803e6ac8ae3bb67fbd7132ba4df5410",
+				"size": 1598,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.22-alpha.tgz_1467405082391_0.1931938489433378"
+			},
+			"directories": {},
+			"publish_time": 1467405085058,
+			"_cnpm_publish_time": 1467405085058,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/sax",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for sax js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/sax@0.0.21-alpha",
+			"_shasum": "3d93cb0e5b6b02522780c8649ce219808703aa92",
+			"_from": "output\\sax",
+			"_resolved": "file:output\\sax",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3d93cb0e5b6b02522780c8649ce219808703aa92",
+				"size": 1574,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.21-alpha.tgz_1464155667573_0.5068709799088538"
+			},
+			"directories": {},
+			"publish_time": 1464155670091,
+			"_cnpm_publish_time": 1464155670091,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/sax",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for sax js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/sax@0.0.20-alpha",
+			"_shasum": "64c81288e4471d986ab7fc354e0ca050bee9153f",
+			"_from": "output\\sax",
+			"_resolved": "file:output\\sax",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "64c81288e4471d986ab7fc354e0ca050bee9153f",
+				"size": 1575,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.20-alpha.tgz_1463776706627_0.4765963905956596"
+			},
+			"directories": {},
+			"publish_time": 1463776707686,
+			"_cnpm_publish_time": 1463776707686,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/sax",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for sax js from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"stream\"": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/sax@0.0.15-alpha",
+			"_shasum": "600a6957973bfb7cca0e24319d1aca4f7bb05f22",
+			"_from": "output\\sax",
+			"_resolved": "file:output\\sax",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "600a6957973bfb7cca0e24319d1aca4f7bb05f22",
+				"size": 1599,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.15-alpha.tgz_1463696390820_0.38800808088853955"
+			},
+			"directories": {},
+			"publish_time": 1463696396321,
+			"_cnpm_publish_time": 1463696396321,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/sax",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for sax js from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"stream\"": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/sax@0.0.14-alpha",
+			"_shasum": "6a9105e7e3c9c17c3d8e19968a7f7fae62d98316",
+			"_from": "output\\sax",
+			"_resolved": "file:output\\sax",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6a9105e7e3c9c17c3d8e19968a7f7fae62d98316",
+				"size": 1591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sax-0.0.14-alpha.tgz_1463511194147_0.18854654487222433"
+			},
+			"directories": {},
+			"publish_time": 1463511194766,
+			"_cnpm_publish_time": 1463511194766,
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "@types/sax",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for sax-js",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Evert Pot",
+					"url": "https://evertpot.com/"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "0121d9ccdfc553ea13dd9a37cbb0aea634d033ff8c561e117e64e985865e5808",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sax@1.0.1",
+			"dist": {
+				"shasum": "904fb944c4859936204f1f445a8533d09b6629e8",
+				"size": 2151,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sax/download/@types/sax-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/sax_1.0.1_1529541118570_0.32749664144251156"
+			},
+			"publish_time": 1529541118641,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1529541118641
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.1",
+		"ts2.0": "1.0.1",
+		"ts2.1": "1.0.1",
+		"ts2.2": "1.0.1",
+		"ts2.3": "1.0.1",
+		"ts2.4": "1.0.1",
+		"ts2.5": "1.0.1",
+		"ts2.6": "1.0.1",
+		"ts2.7": "1.0.1",
+		"ts2.8": "1.0.1",
+		"ts2.9": "1.0.1",
+		"ts3.0": "1.0.1",
+		"ts3.1": "1.0.1",
+		"ts3.2": "1.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:28:01.000Z",
+		"created": "2016-05-17T18:53:14.766Z",
+		"1.0.1": "2018-06-21T00:31:58.641Z",
+		"1.0.0": "2017-02-17T21:20:36.420Z",
+		"0.0.28": "2016-09-19T18:10:29.503Z",
+		"0.0.27": "2016-07-14T15:59:44.773Z",
+		"0.0.26-alpha": "2016-07-08T21:24:14.727Z",
+		"0.0.25-alpha": "2016-07-04T01:15:16.303Z",
+		"0.0.24-alpha": "2016-07-02T03:24:32.554Z",
+		"0.0.23-alpha": "2016-07-01T23:54:59.187Z",
+		"0.0.22-alpha": "2016-07-01T20:31:25.058Z",
+		"0.0.21-alpha": "2016-05-25T05:54:30.091Z",
+		"0.0.20-alpha": "2016-05-20T20:38:27.686Z",
+		"0.0.15-alpha": "2016-05-19T22:19:56.321Z",
+		"0.0.14-alpha": "2016-05-17T18:53:14.766Z"
+	},
+	"_distfiles": {
+		"sax-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-1.0.0.tgz",
+			"sha": "30d5e6bdbf126daf6e412c639251dd974bd47cdc",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.28.tgz",
+			"sha": "08bc2bed7697f97b0f345a0ba5d93e5f163c89e2",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.27.tgz",
+			"sha": "a82032fba15a1b130125460f10bbeb2dbe79ba90",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.26-alpha.tgz",
+			"sha": "a3d85084a4619ee1fe6af9a8d664dab61e3a708a",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.25-alpha.tgz",
+			"sha": "87c70537e1415e0e36c500f0ad6b67dd197553be",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.24-alpha.tgz",
+			"sha": "b11468c4178ac651ff7b9b0d49fedd5981844d8b",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.23-alpha.tgz",
+			"sha": "6d04b749d54409fb19f8791be0380f6f8313c694",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.22-alpha.tgz",
+			"sha": "9890399e4803e6ac8ae3bb67fbd7132ba4df5410",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.21-alpha.tgz",
+			"sha": "3d93cb0e5b6b02522780c8649ce219808703aa92",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.20-alpha.tgz",
+			"sha": "64c81288e4471d986ab7fc354e0ca050bee9153f",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.15-alpha.tgz",
+			"sha": "600a6957973bfb7cca0e24319d1aca4f7bb05f22",
+			"registry": "cnpmjs"
+		},
+		"sax-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-0.0.14-alpha.tgz",
+			"sha": "6a9105e7e3c9c17c3d8e19968a7f7fae62d98316",
+			"registry": "cnpmjs"
+		},
+		"sax-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sax/download/@types/sax-1.0.1.tgz",
+			"sha": "904fb944c4859936204f1f445a8533d09b6629e8",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3d3d-3NXbEgI2XktGVy7jbDdZ3kdRilg\"",
+			"fetched": 1541833488064
+		}
+	},
+	"_rev": "2-7b19aa28118cd0a4",
+	"readme": "# Installation\r\n> `npm install --save @types/sax`\r\n\r\n# Summary\r\nThis package contains type definitions for sax-js (https://github.com/isaacs/sax-js).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/sax\r\n\r\nAdditional Details\r\n * Last updated: Thu, 21 Jun 2018 00:15:28 GMT\r\n * Dependencies: stream, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Asana <https://asana.com>, Evert Pot <https://evertpot.com/>."
+}

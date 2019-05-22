@@ -1,0 +1,119 @@
+{
+	"name": "react-pdd-calendar-expand",
+	"versions": {
+		"0.0.1-security": {
+			"name": "react-pdd-calendar-expand",
+			"version": "0.0.1-security",
+			"description": "This package name is not currently in use, but was formerly occupied by another package. To avoid malicious use, npm is hanging on to the package name, but loosely, and we'll probably give it to you if you want it.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/security-holder.git"
+			},
+			"keywords": [],
+			"author": "",
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/npm/security-holder/issues"
+			},
+			"homepage": "https://github.com/npm/security-holder#readme",
+			"gitHead": "9ef10011153183d323ed420df5bb17eaf08ab730",
+			"_id": "react-pdd-calendar-expand@0.0.1-security",
+			"_shasum": "5ddc2e70625ea2d950014d0087a3ed3c9aa73d01",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "kmanion",
+				"email": "kiera@npmjs.com"
+			},
+			"dist": {
+				"shasum": "5ddc2e70625ea2d950014d0087a3ed3c9aa73d01",
+				"size": 589,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-pdd-calendar-expand/download/react-pdd-calendar-expand-0.0.1-security.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "npm",
+					"email": "npm@npmjs.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-pdd-calendar-expand-0.0.1-security.tgz_1486678359623_0.6454381716903299"
+			},
+			"directories": {},
+			"publish_time": 1486678359860,
+			"_cnpm_publish_time": 1486678359860,
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "react-pdd-calendar-expand",
+			"version": "1.0.5",
+			"description": "平铺展开式日期组件",
+			"main": "src/index.jsx",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"日期",
+				"展开式",
+				"平铺",
+				"date"
+			],
+			"author": {
+				"name": "邃宇"
+			},
+			"license": "ISC",
+			"dependencies": {},
+			"directories": {
+				"test": "test"
+			},
+			"repository": {
+				"type": "git"
+			},
+			"_id": "react-pdd-calendar-expand@1.0.5",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "9.2.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-cTk2u7wiYFa0u62lvJUp9RXWBAEc8pS4reDm6X5ULeDxru30xayJ5iXtJ42gwkmepAYREeF5kchm+yvG0KOdvg==",
+				"shasum": "497273c5eb392b7331e9bd1ce5597667c287e670",
+				"tarball": "http://npmjs.towavephone.com/react-pdd-calendar-expand/-/react-pdd-calendar-expand-1.0.5.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.5"
+	},
+	"time": {
+		"modified": "2018-05-31T05:20:21.117Z",
+		"created": "2017-02-09T22:12:39.860Z",
+		"0.0.1-security": "2017-02-09T22:12:39.860Z",
+		"1.0.5": "2018-05-31T05:20:21.117Z"
+	},
+	"_distfiles": {
+		"react-pdd-calendar-expand-0.0.1-security.tgz": {
+			"url": "https://registry.npm.taobao.org/react-pdd-calendar-expand/download/react-pdd-calendar-expand-0.0.1-security.tgz",
+			"sha": "5ddc2e70625ea2d950014d0087a3ed3c9aa73d01",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {
+		"react-pdd-calendar-expand-1.0.5.tgz": {
+			"shasum": "497273c5eb392b7331e9bd1ce5597667c287e670",
+			"version": "1.0.5"
+		}
+	},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1527744021110
+		}
+	},
+	"_rev": "4-831c4b3b175f0985",
+	"readme": "ERROR: No README data found!"
+}

@@ -1,0 +1,2824 @@
+{
+	"name": "@types/react-intl",
+	"versions": {
+		"2.3.8": {
+			"name": "@types/react-intl",
+			"version": "2.3.8",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers",
+					"githubUsername": "cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok",
+					"githubUsername": "gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff",
+					"githubUsername": "tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay",
+					"githubUsername": "LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser",
+					"githubUsername": "bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari",
+					"githubUsername": "kristerkari"
+				},
+				{
+					"name": "Martin Raedlinger",
+					"url": "https://github.com/formatlos",
+					"githubUsername": "formatlos"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e9fe9380e2a334ce6d4470642971b770b5f7431071103341d5668b957a5a70cd",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-intl@2.3.8",
+			"dist": {
+				"shasum": "de56b21b67e39df24bc0fc7e67b437976b666919",
+				"size": 4045,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl_2.3.8_1524615380486_0.09250916064500436"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524615380571,
+			"_cnpm_publish_time": 1524615380571
+		},
+		"2.3.7": {
+			"name": "@types/react-intl",
+			"version": "2.3.7",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers",
+					"githubUsername": "cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok",
+					"githubUsername": "gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff",
+					"githubUsername": "tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay",
+					"githubUsername": "LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser",
+					"githubUsername": "bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari",
+					"githubUsername": "kristerkari"
+				},
+				{
+					"name": "Martin Raedlinger",
+					"url": "https://github.com/formatlos",
+					"githubUsername": "formatlos"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "de7e0f30e8ae3e41d30475c2779b81f41eeb9e44b1964580fd902895b35e6846",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-intl@2.3.7",
+			"dist": {
+				"shasum": "40bae586f11d19894621ed40170dd75c3e0f5708",
+				"size": 4039,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl_2.3.7_1523983625379_0.4674008054913281"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523983626113,
+			"_cnpm_publish_time": 1523983626113
+		},
+		"2.3.6": {
+			"name": "@types/react-intl",
+			"version": "2.3.6",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers",
+					"githubUsername": "cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok",
+					"githubUsername": "gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff",
+					"githubUsername": "tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay",
+					"githubUsername": "LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser",
+					"githubUsername": "bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari",
+					"githubUsername": "kristerkari"
+				},
+				{
+					"name": "Martin Raedlinger",
+					"url": "https://github.com/formatlos",
+					"githubUsername": "formatlos"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "46abacab0803ccb098e26e7488866b5f91de0acc4c347c797e7c41e97cb5df6a",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-intl@2.3.6",
+			"dist": {
+				"shasum": "88063adb515365a8bd3bf62aae4eeb5a43ee86cf",
+				"size": 4041,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl_2.3.6_1523296733244_0.15291398862102001"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523296733453,
+			"_cnpm_publish_time": 1523296733453
+		},
+		"2.3.5": {
+			"name": "@types/react-intl",
+			"version": "2.3.5",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers",
+					"githubUsername": "cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok",
+					"githubUsername": "gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff",
+					"githubUsername": "tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay",
+					"githubUsername": "LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser",
+					"githubUsername": "bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari",
+					"githubUsername": "kristerkari"
+				},
+				{
+					"name": "Martin Raedlinger",
+					"url": "https://github.com/formatlos",
+					"githubUsername": "formatlos"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "ac5b2c2654e70fa69903811d4bb7a2061f66f9e81c6e170b7649b565cb36fb84",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-intl@2.3.5",
+			"dist": {
+				"shasum": "eafa170d83c06302416075867a6fd219c1cf84d8",
+				"size": 3889,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl_2.3.5_1518469390253_0.3500122665723213"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518469390298,
+			"_cnpm_publish_time": 1518469390298
+		},
+		"1.2.4": {
+			"name": "@types/react-intl",
+			"version": "1.2.4",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "af9ef954d2eff4eee657276370783789d4911089f65a023ae8a28f0bcd15e210",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/react-intl@1.2.4",
+			"dist": {
+				"shasum": "20c0bf5c5d56af879a9812873729c47fa74ff93c",
+				"size": 1974,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl_1.2.4_1518469363293_0.9378881312688347"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518469363339,
+			"_cnpm_publish_time": 1518469363339
+		},
+		"2.3.4": {
+			"name": "@types/react-intl",
+			"version": "2.3.4",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers",
+					"githubUsername": "cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok",
+					"githubUsername": "gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff",
+					"githubUsername": "tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay",
+					"githubUsername": "LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser",
+					"githubUsername": "bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari",
+					"githubUsername": "kristerkari"
+				},
+				{
+					"name": "Martin Raedlinger",
+					"url": "https://github.com/formatlos",
+					"githubUsername": "formatlos"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e2a544d47aed6fafb128ba07de3c2289456ec322ff4334a6e07edb5be103e91f",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-intl@2.3.4",
+			"dist": {
+				"shasum": "e0384ecb78190f4e4785e313ca31957ab8147fac",
+				"size": 3883,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl-2.3.4.tgz_1517429513947_0.12975501455366611"
+			},
+			"directories": {},
+			"publish_time": 1517429514024,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1517429514024
+		},
+		"2.3.3": {
+			"name": "@types/react-intl",
+			"version": "2.3.3",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers",
+					"githubUsername": "cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok",
+					"githubUsername": "gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff",
+					"githubUsername": "tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay",
+					"githubUsername": "LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser",
+					"githubUsername": "bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari",
+					"githubUsername": "kristerkari"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "160195298b1538e56b995b175302333cbe7051ffebe3cf322dd2b1178152ba8d",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-intl@2.3.3",
+			"dist": {
+				"shasum": "8b8d1a4b13697848dd54d79911effd187a4033e8",
+				"size": 3832,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl-2.3.3.tgz_1514045111303_0.7685285762418061"
+			},
+			"directories": {},
+			"publish_time": 1514045111394,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514045111394
+		},
+		"2.3.2": {
+			"name": "@types/react-intl",
+			"version": "2.3.2",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers",
+					"githubUsername": "cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok",
+					"githubUsername": "gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff",
+					"githubUsername": "tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay",
+					"githubUsername": "LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser",
+					"githubUsername": "bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari",
+					"githubUsername": "kristerkari"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e642a6f2f98e217b4e11da238c012c1a83f95f38dd84ad23178e47a2dcd6ca53",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-intl@2.3.2",
+			"dist": {
+				"shasum": "a57433871dedf2f12ba8eeca645e5ce5a37d102a",
+				"size": 3932,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl-2.3.2.tgz_1505744183812_0.16708303755149245"
+			},
+			"directories": {},
+			"publish_time": 1505744184732,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1505744184732
+		},
+		"2.3.1": {
+			"name": "@types/react-intl",
+			"version": "2.3.1",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d4403bad6acd18c4870ba140b02cf2d0133c5cef5ab73733e35ec4fc37bc76b4",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-intl@2.3.1",
+			"dist": {
+				"shasum": "d036dbe54f6ef29f2a150ed303a84f1693ddf905",
+				"size": 3780,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl-2.3.1.tgz_1498239397522_0.2500231880694628"
+			},
+			"directories": {},
+			"publish_time": 1498239397670,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498239397670
+		},
+		"1.2.3": {
+			"name": "@types/react-intl",
+			"version": "1.2.3",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "45b0b5f52e6ec72f63a92e582bfd2a0a38f66678d424c703db07840ed98bd676",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/react-intl@1.2.3",
+			"dist": {
+				"shasum": "2ee09d35e49585c71177d7a0e15433d36317f193",
+				"size": 1972,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl-1.2.3.tgz_1498239375595_0.46774160442873836"
+			},
+			"directories": {},
+			"publish_time": 1498239375671,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498239375671
+		},
+		"2.3.0": {
+			"name": "@types/react-intl",
+			"version": "2.3.0",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "79f151fcf88c854a9a6698e4adfdf9ab8add35a1ddf1fc0cbd6355e1a99734d5",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@2.3.0",
+			"dist": {
+				"shasum": "b7159c6edfe254892ba9059a05f3b68da98f8e59",
+				"size": 3787,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl-2.3.0.tgz_1497557850357_0.24046325241215527"
+			},
+			"directories": {},
+			"publish_time": 1497557850457,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497557850457
+		},
+		"2.2.9": {
+			"name": "@types/react-intl",
+			"version": "2.2.9",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "939a6964079b987b5944d700e783072eb97304604e61b584ab62da57317f559c",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@2.2.9",
+			"dist": {
+				"shasum": "9340d67e5a38ae797f8e312228c09a2a26cba063",
+				"size": 3877,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl-2.2.9.tgz_1496410288057_0.7532209127675742"
+			},
+			"directories": {},
+			"publish_time": 1496410288976,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496410288976
+		},
+		"2.2.8": {
+			"name": "@types/react-intl",
+			"version": "2.2.8",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2c3d3c9e983d814934eb86c23d964373e55447a862481081df332f520776a8a7",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@2.2.8",
+			"dist": {
+				"shasum": "b4a0e50c78fab71005f0f85ae70819c8d0e83cec",
+				"size": 3859,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.2.8.tgz_1494886931811_0.8674118490889668"
+			},
+			"directories": {},
+			"publish_time": 1494886932048,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1494886932048
+		},
+		"2.2.7": {
+			"name": "@types/react-intl",
+			"version": "2.2.7",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "353fdf853240956f388e799c4859aca6635082bd649a6f7b119bab758a82659e",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@2.2.7",
+			"dist": {
+				"shasum": "f8c895be35c39ad44103572372f65de528471c95",
+				"size": 3851,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.2.7.tgz_1493947155343_0.2971364064142108"
+			},
+			"directories": {},
+			"publish_time": 1493947157638,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493947157638
+		},
+		"2.2.6": {
+			"name": "@types/react-intl",
+			"version": "2.2.6",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "84ceafd96179bbd5f26e694d04e3a250c2acd8d346ee4a7f8f9fb339ea49f024",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@2.2.6",
+			"dist": {
+				"shasum": "2c33ca92114a91f354cd2ca0d19bb5847440fa1d",
+				"size": 3702,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.2.6.tgz_1492451844324_0.5058118486776948"
+			},
+			"directories": {},
+			"publish_time": 1492451844591,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492451844591
+		},
+		"2.2.5": {
+			"name": "@types/react-intl",
+			"version": "2.2.5",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "38be5cf7ba9882fc5b64f3979b16b1e7bb69608accb13aa2a266db1fc063f637",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@2.2.5",
+			"dist": {
+				"shasum": "10ab28a674f4fc2e18ce5d0de8c325d5e4d19c71",
+				"size": 3087,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.2.5.tgz_1490743026706_0.606327909277752"
+			},
+			"directories": {},
+			"publish_time": 1490743028578,
+			"_cnpm_publish_time": 1490743028578,
+			"_hasShrinkwrap": false
+		},
+		"2.2.4": {
+			"name": "@types/react-intl",
+			"version": "2.2.4",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "899b365f365634411728f62772a094a3466d8099eea78ba520f8cf7aec9657ce",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@2.2.4",
+			"dist": {
+				"shasum": "05426ab8decec51ace1c7eb1ccd22570a621a0fd",
+				"size": 3112,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.2.4.tgz_1490302339333_0.5305977656971663"
+			},
+			"directories": {},
+			"publish_time": 1490302341261,
+			"_cnpm_publish_time": 1490302341261,
+			"_hasShrinkwrap": false
+		},
+		"2.2.3": {
+			"name": "@types/react-intl",
+			"version": "2.2.3",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "0854c51f6cb46865c4426912ac5e1b4bbd42280c0f9702312cf0237fc7cabc2a",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@2.2.3",
+			"dist": {
+				"shasum": "b6f4748932c1ae0f244af3110faab6588efe85c8",
+				"size": 3073,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.2.3.tgz_1489103225879_0.31089717149734497"
+			},
+			"directories": {},
+			"publish_time": 1489103226101,
+			"_cnpm_publish_time": 1489103226101,
+			"_hasShrinkwrap": false
+		},
+		"1.2.2": {
+			"name": "@types/react-intl",
+			"version": "1.2.2",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a65ee2a60385a094954a52a46efa006613c634b9e4356fb8a077280efdebaa8d",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@1.2.2",
+			"dist": {
+				"shasum": "dc686a4035ff92765db4d6d214b91c7904e0334a",
+				"size": 1279,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-1.2.2.tgz_1488291925271_0.8684283287730068"
+			},
+			"directories": {},
+			"publish_time": 1488291925493,
+			"_cnpm_publish_time": 1488291925493,
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "@types/react-intl",
+			"version": "1.2.1",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"author": "Bruno Grieder <https://github.com/bgrieder>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a1b990dbac24c1b6a28c862863e14d1017115e28e3e4770c12d00805f7b93f71",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@1.2.1",
+			"dist": {
+				"shasum": "5444058bcde340fd8aa93e58dda7d0672cd2d3ca",
+				"size": 1470,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-1.2.1.tgz_1485207404877_0.03320137434639037"
+			},
+			"directories": {},
+			"publish_time": 1485207406818,
+			"_cnpm_publish_time": 1485207406818,
+			"_hasShrinkwrap": false
+		},
+		"2.2.2": {
+			"name": "@types/react-intl",
+			"version": "2.2.2",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"author": "Bruno Grieder <https://github.com/bgrieder>, Christian Droulers <https://github.com/cdroulers>, Fedor Nezhivoi <https://github.com/gyzerok>, Till Wolff <https://github.com/tillwolff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7b9d47646468a4ffceba1dbde2fc3348b8f0c5c9dc8ea76111e781012868104a",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/react-intl@2.2.2",
+			"dist": {
+				"shasum": "dbd7387d078d5a241d0becbe5fe83aee37c5b1a2",
+				"size": 4049,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.2.2.tgz_1485207396803_0.20913404366001487"
+			},
+			"directories": {},
+			"publish_time": 1485207397024,
+			"_cnpm_publish_time": 1485207397024,
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "@types/react-intl",
+			"version": "1.2.0",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"author": "Bruno Grieder <https://github.com/bgrieder>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "335311c1ffca4bc50cf2f2bfbd777d456341e40327409e409a885c90c1bb492d",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/react-intl@1.2.0",
+			"dist": {
+				"shasum": "cb8049c135cdfff31e7dcd9ce7da7702aa1c581e",
+				"size": 1443,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-1.2.0.tgz_1484074456987_0.6143264237325639"
+			},
+			"directories": {},
+			"publish_time": 1484074458972,
+			"_cnpm_publish_time": 1484074458972,
+			"_hasShrinkwrap": false
+		},
+		"2.2.1": {
+			"name": "@types/react-intl",
+			"version": "2.2.1",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"author": "Bruno Grieder <https://github.com/bgrieder>, Christian Droulers <https://github.com/cdroulers>, Fedor Nezhivoi <https://github.com/gyzerok>, Till Wolff <https://github.com/tillwolff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "dae4d09327a70d49e96ce20aeb5b81533549b79474311014d2a3b0e28c02babd",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/react-intl@2.2.1",
+			"dist": {
+				"shasum": "615dee2a7fee4e132aa9a22d409ffd1b24afc4b8",
+				"size": 4026,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.2.1.tgz_1483648872117_0.8831271382514387"
+			},
+			"directories": {},
+			"publish_time": 1483648872338,
+			"_cnpm_publish_time": 1483648872338,
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "@types/react-intl",
+			"version": "2.2.0",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"author": "Bruno Grieder <https://github.com/bgrieder>, Christian Droulers <https://github.com/cdroulers>, Fedor Nezhivoi <https://github.com/gyzerok>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fe1e73994b79ffd3ccbb25fdd3e541203a2955078b7dd5a3638e0c763d82ff82",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/react-intl@2.2.0",
+			"dist": {
+				"shasum": "56faa0e021614ede85b0d7fd5e4b68d5bf75bd22",
+				"size": 4009,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.2.0.tgz_1483196835833_0.27624098351225257"
+			},
+			"directories": {},
+			"publish_time": 1483196836067,
+			"_cnpm_publish_time": 1483196836067,
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "@types/react-intl",
+			"version": "2.1.2",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"author": "Bruno Grieder <https://github.com/bgrieder>, Christian Droulers <https://github.com/cdroulers>, Fedor Nezhivoi <https://github.com/gyzerok>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "19065d0987915251fdac02959a9e6fbf7728a34e36696a4b34c8172b50e45b14",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/react-intl@2.1.2",
+			"dist": {
+				"shasum": "fd2e4f2472f0d38657807b34bae6735966b8ebac",
+				"size": 4006,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.1.2.tgz_1483108408409_0.8337769224308431"
+			},
+			"directories": {},
+			"publish_time": 1483108408630,
+			"_cnpm_publish_time": 1483108408630,
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "@types/react-intl",
+			"version": "2.1.1",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"author": "Bruno Grieder <https://github.com/bgrieder>, Christian Droulers <https://github.com/cdroulers>, Fedor Nezhivoi <https://github.com/gyzerok>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "0b5a7abc8e5ae1e46b1e63340f3519977e624bcf1437d8ab2439747df5db95ae",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/react-intl@2.1.1",
+			"dist": {
+				"shasum": "3bb30a70fd2738174f09977e9bdbd401a1f9730c",
+				"size": 4026,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.1.1.tgz_1482818263713_0.4417159182485193"
+			},
+			"directories": {},
+			"publish_time": 1482818263940,
+			"_cnpm_publish_time": 1482818263940,
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "@types/react-intl",
+			"version": "2.1.0",
+			"description": "TypeScript definitions for react-intl 2.1.5",
+			"license": "MIT",
+			"author": "Bruno Grieder <https://github.com/bgrieder>, Christian Droulers <https://github.com/cdroulers>, Fedor Nezhivoi <https://github.com/gyzerok>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "f3329ea922cb7694660e686d1b6af0b154d7f791b1f430bb4fb49390858386b7",
+			"_id": "@types/react-intl@2.1.0",
+			"dist": {
+				"shasum": "cdb98d891a279e5949a2380ea58de8ce8dec0b5a",
+				"size": 4058,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.1.0.tgz_1479925788430_0.233210991602391"
+			},
+			"directories": {},
+			"publish_time": 1479925788645,
+			"_cnpm_publish_time": 1479925788645,
+			"_hasShrinkwrap": false
+		},
+		"2.0.29": {
+			"name": "@types/react-intl",
+			"version": "2.0.29",
+			"description": "TypeScript definitions for react-intl 2.0.0",
+			"license": "MIT",
+			"author": "Bruno Grieder <https://github.com/bgrieder>, Christian Droulers <https://github.com/cdroulers>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "dfd04ae820643c0fee9e300cf9bf62bbc9fbeea25d60aadb0ebdc56b2d799e42",
+			"_id": "@types/react-intl@2.0.29",
+			"dist": {
+				"shasum": "3d036fa74538559269e84d492339e789b8220eb0",
+				"size": 3856,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.29.tgz_1474308407358_0.6381927242036909"
+			},
+			"directories": {},
+			"publish_time": 1474308410557,
+			"_cnpm_publish_time": 1474308410557,
+			"_hasShrinkwrap": false
+		},
+		"2.0.28": {
+			"name": "@types/react-intl",
+			"version": "2.0.28",
+			"description": "TypeScript definitions for react-intl 2.0.0",
+			"license": "MIT",
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/react-intl@2.0.28",
+			"_shasum": "6f9a34efff21a83b4b83c30d6fc412aa1907c5f3",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6f9a34efff21a83b4b83c30d6fc412aa1907c5f3",
+				"size": 3967,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.28.tgz_1468934057577_0.5512743094004691"
+			},
+			"directories": {},
+			"publish_time": 1468934058680,
+			"_cnpm_publish_time": 1468934058680,
+			"_hasShrinkwrap": false
+		},
+		"2.0.27": {
+			"name": "@types/react-intl",
+			"version": "2.0.27",
+			"description": "TypeScript definitions for react-intl 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"_id": "@types/react-intl@2.0.27",
+			"_shasum": "46acb70de1de0fed91e74c4c1816c565a5251630",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "46acb70de1de0fed91e74c4c1816c565a5251630",
+				"size": 4396,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.27.tgz_1468511505519_0.7127910933922976"
+			},
+			"directories": {},
+			"publish_time": 1468511508146,
+			"_cnpm_publish_time": 1468511508146,
+			"_hasShrinkwrap": false
+		},
+		"2.0.26-alpha": {
+			"name": "@types/react-intl",
+			"version": "2.0.26-alpha",
+			"description": "TypeScript definitions for react-intl 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.26-alpha"
+			},
+			"_id": "@types/react-intl@2.0.26-alpha",
+			"_shasum": "43bd05d7541bc067d2b6859d6f5b574d437124aa",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "43bd05d7541bc067d2b6859d6f5b574d437124aa",
+				"size": 4412,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.26-alpha.tgz_1468012618758_0.1789651217404753"
+			},
+			"directories": {},
+			"publish_time": 1468012621157,
+			"_cnpm_publish_time": 1468012621157,
+			"_hasShrinkwrap": false
+		},
+		"2.0.25-alpha": {
+			"name": "@types/react-intl",
+			"version": "2.0.25-alpha",
+			"description": "TypeScript definitions for react-intl 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.25-alpha"
+			},
+			"_id": "@types/react-intl@2.0.25-alpha",
+			"_shasum": "208751ea5d63532e42758ffb0a6d71f68ba4f614",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "208751ea5d63532e42758ffb0a6d71f68ba4f614",
+				"size": 4411,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.25-alpha.tgz_1467594694205_0.3817176802549511"
+			},
+			"directories": {},
+			"publish_time": 1467594697375,
+			"_cnpm_publish_time": 1467594697375,
+			"_hasShrinkwrap": false
+		},
+		"2.0.24-alpha": {
+			"name": "@types/react-intl",
+			"version": "2.0.24-alpha",
+			"description": "TypeScript definitions for react-intl 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.24-alpha"
+			},
+			"_id": "@types/react-intl@2.0.24-alpha",
+			"_shasum": "8368643d7c078404a90de687d3a001e4aa8ef609",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8368643d7c078404a90de687d3a001e4aa8ef609",
+				"size": 4413,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.24-alpha.tgz_1467429610743_0.4353124399203807"
+			},
+			"directories": {},
+			"publish_time": 1467429611274,
+			"_cnpm_publish_time": 1467429611274,
+			"_hasShrinkwrap": false
+		},
+		"2.0.23-alpha": {
+			"name": "@types/react-intl",
+			"version": "2.0.23-alpha",
+			"description": "TypeScript definitions for react-intl 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.23-alpha"
+			},
+			"_id": "@types/react-intl@2.0.23-alpha",
+			"_shasum": "57a2647dca064b1c57184ee5ef2fb49a9d0b4e89",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "57a2647dca064b1c57184ee5ef2fb49a9d0b4e89",
+				"size": 4410,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.23-alpha.tgz_1467416884345_0.9924659319221973"
+			},
+			"directories": {},
+			"publish_time": 1467416886715,
+			"_cnpm_publish_time": 1467416886715,
+			"_hasShrinkwrap": false
+		},
+		"2.0.22-alpha": {
+			"name": "@types/react-intl",
+			"version": "2.0.22-alpha",
+			"description": "TypeScript definitions for react-intl 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "0.14.*"
+			},
+			"_id": "@types/react-intl@2.0.22-alpha",
+			"_shasum": "8d2b8b31e3e8e390f7630c4c1a594c2b6f3417c4",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8d2b8b31e3e8e390f7630c4c1a594c2b6f3417c4",
+				"size": 4255,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.22-alpha.tgz_1467405017561_0.1083893442992121"
+			},
+			"directories": {},
+			"publish_time": 1467405019619,
+			"_cnpm_publish_time": 1467405019619,
+			"_hasShrinkwrap": false
+		},
+		"2.0.21-alpha": {
+			"name": "@types/react-intl",
+			"version": "2.0.21-alpha",
+			"description": "TypeScript definitions for react-intl 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-intl@2.0.21-alpha",
+			"_shasum": "76737805c317c8344fd5dc9da9d28aa305b509c3",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "76737805c317c8344fd5dc9da9d28aa305b509c3",
+				"size": 4376,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.21-alpha.tgz_1464155272738_0.3276101746596396"
+			},
+			"directories": {},
+			"publish_time": 1464155275107,
+			"_cnpm_publish_time": 1464155275107,
+			"_hasShrinkwrap": false
+		},
+		"2.0.20-alpha": {
+			"name": "@types/react-intl",
+			"version": "2.0.20-alpha",
+			"description": "TypeScript definitions for react-intl 2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-intl@2.0.20-alpha",
+			"_shasum": "3d058c454f28319c046ee1b4786db6bb9e8fcf55",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3d058c454f28319c046ee1b4786db6bb9e8fcf55",
+				"size": 4373,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.20-alpha.tgz_1463776323138_0.18519083340652287"
+			},
+			"directories": {},
+			"publish_time": 1463776323574,
+			"_cnpm_publish_time": 1463776323574,
+			"_hasShrinkwrap": false
+		},
+		"2.0.15-alpha": {
+			"name": "@types/react-intl",
+			"version": "2.0.15-alpha",
+			"description": "Type definitions for react-intl 2.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-intl@2.0.15-alpha",
+			"_shasum": "ccf5521920f4d11f09dad7fabfe4fd86538da26c",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ccf5521920f4d11f09dad7fabfe4fd86538da26c",
+				"size": 4384,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.15-alpha.tgz_1463695807956_0.7820359356701374"
+			},
+			"directories": {},
+			"publish_time": 1463695808587,
+			"_cnpm_publish_time": 1463695808587,
+			"_hasShrinkwrap": false
+		},
+		"2.0.14-alpha": {
+			"name": "@types/react-intl",
+			"version": "2.0.14-alpha",
+			"description": "Type definitions for react-intl 2.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bruno Grieder",
+				"email": "https://github.com/bgrieder"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"_id": "@types/react-intl@2.0.14-alpha",
+			"_shasum": "43a8cff52fb4ef55709832668bae6be240f1d060",
+			"_from": "output\\react-intl",
+			"_resolved": "file:output\\react-intl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "43a8cff52fb4ef55709832668bae6be240f1d060",
+				"size": 4379,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/react-intl-2.0.14-alpha.tgz_1463510700190_0.25031227455474436"
+			},
+			"directories": {},
+			"publish_time": 1463510704202,
+			"_cnpm_publish_time": 1463510704202,
+			"_hasShrinkwrap": false
+		},
+		"2.3.11": {
+			"name": "@types/react-intl",
+			"version": "2.3.11",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers",
+					"githubUsername": "cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok",
+					"githubUsername": "gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff",
+					"githubUsername": "tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay",
+					"githubUsername": "LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser",
+					"githubUsername": "bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari",
+					"githubUsername": "kristerkari"
+				},
+				{
+					"name": "Martin Raedlinger",
+					"url": "https://github.com/formatlos",
+					"githubUsername": "formatlos"
+				},
+				{
+					"name": "Kanitkorn Sujautra",
+					"url": "https://github.com/lukyth",
+					"githubUsername": "lukyth"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "4e52bcff6078139a9c8062d359dd46597d37a37e5d5d2babf198ced89e32679b",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-intl@2.3.11",
+			"dist": {
+				"shasum": "8d9e8a5931c665ce9086cbcda5b7467d668dfa33",
+				"size": 4116,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.11.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl_2.3.11_1536944310770_0.21986005664679364"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536944310901,
+			"_cnpm_publish_time": 1536944310901
+		},
+		"2.3.10": {
+			"name": "@types/react-intl",
+			"version": "2.3.10",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers",
+					"githubUsername": "cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok",
+					"githubUsername": "gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff",
+					"githubUsername": "tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay",
+					"githubUsername": "LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser",
+					"githubUsername": "bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari",
+					"githubUsername": "kristerkari"
+				},
+				{
+					"name": "Martin Raedlinger",
+					"url": "https://github.com/formatlos",
+					"githubUsername": "formatlos"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "399716856ee58a5deb854055b7d047963ac4aa24816a84b75ea5b242b7b4a999",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-intl@2.3.10",
+			"dist": {
+				"shasum": "b1b7379f072224071aa94bc085db0b65b708cb17",
+				"size": 4034,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.10.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl_2.3.10_1535577673071_0.3050878883990831"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535577673196,
+			"_cnpm_publish_time": 1535577673196
+		},
+		"2.3.9": {
+			"name": "@types/react-intl",
+			"version": "2.3.9",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				},
+				{
+					"name": "Christian Droulers",
+					"url": "https://github.com/cdroulers",
+					"githubUsername": "cdroulers"
+				},
+				{
+					"name": "Fedor Nezhivoi",
+					"url": "https://github.com/gyzerok",
+					"githubUsername": "gyzerok"
+				},
+				{
+					"name": "Till Wolff",
+					"url": "https://github.com/tillwolff",
+					"githubUsername": "tillwolff"
+				},
+				{
+					"name": "Karol Janyst",
+					"url": "https://github.com/LKay",
+					"githubUsername": "LKay"
+				},
+				{
+					"name": "Brian Houser",
+					"url": "https://github.com/bhouser",
+					"githubUsername": "bhouser"
+				},
+				{
+					"name": "Krister Kari",
+					"url": "https://github.com/kristerkari",
+					"githubUsername": "kristerkari"
+				},
+				{
+					"name": "Martin Raedlinger",
+					"url": "https://github.com/formatlos",
+					"githubUsername": "formatlos"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "fa3d1a629a2dbaed260b24880a39be066785a5902fa6ac2a6fcb6cd132297a7e",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-intl@2.3.9",
+			"dist": {
+				"shasum": "47dfc2c4ff82c938ffb0ecaa1bc9f2f449f191cc",
+				"size": 3956,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.9.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl_2.3.9_1533346959996_0.4694529788847368"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533346960091,
+			"_cnpm_publish_time": 1533346960091
+		},
+		"1.2.5": {
+			"name": "@types/react-intl",
+			"version": "1.2.5",
+			"description": "TypeScript definitions for react-intl",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bruno Grieder",
+					"url": "https://github.com/bgrieder",
+					"githubUsername": "bgrieder"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "e8331950d5463b67d2bc872fe9640cf04c113254fbab2826430400446d7d5ce9",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/react-intl@1.2.5",
+			"dist": {
+				"shasum": "fd29dba70581e070837ab267bcc0a242956e4bc7",
+				"size": 1968,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/react-intl_1.2.5_1533346946814_0.5569882633586014"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533346946972,
+			"_cnpm_publish_time": 1533346946972
+		}
+	},
+	"dist-tags": {
+		"latest": "2.3.11",
+		"ts2.0": "2.2.1",
+		"ts2.1": "2.3.0",
+		"ts2.2": "2.3.0",
+		"ts2.3": "2.3.4",
+		"ts2.4": "2.3.4",
+		"ts2.5": "2.3.4",
+		"ts2.6": "2.3.8",
+		"ts2.7": "2.3.8",
+		"ts2.8": "2.3.11",
+		"ts2.9": "2.3.11",
+		"ts3.0": "2.3.11",
+		"ts3.1": "2.3.11",
+		"ts3.2": "2.3.11"
+	},
+	"time": {
+		"modified": "2018-09-14T16:58:44.000Z",
+		"created": "2016-05-17T18:45:04.202Z",
+		"2.3.11": "2018-09-14T16:58:30.901Z",
+		"2.3.10": "2018-08-29T21:21:13.196Z",
+		"2.3.9": "2018-08-04T01:42:40.091Z",
+		"1.2.5": "2018-08-04T01:42:26.972Z",
+		"2.3.8": "2018-04-25T00:16:20.571Z",
+		"2.3.7": "2018-04-17T16:47:06.113Z",
+		"2.3.6": "2018-04-09T17:58:53.453Z",
+		"2.3.5": "2018-02-12T21:03:10.298Z",
+		"1.2.4": "2018-02-12T21:02:43.339Z",
+		"2.3.4": "2018-01-31T20:11:54.024Z",
+		"2.3.3": "2017-12-23T16:05:11.394Z",
+		"2.3.2": "2017-09-18T14:16:24.732Z",
+		"2.3.1": "2017-06-23T17:36:37.670Z",
+		"1.2.3": "2017-06-23T17:36:15.671Z",
+		"2.3.0": "2017-06-15T20:17:30.457Z",
+		"2.2.9": "2017-06-02T13:31:28.976Z",
+		"2.2.8": "2017-05-15T22:22:12.048Z",
+		"2.2.7": "2017-05-05T01:19:17.638Z",
+		"2.2.6": "2017-04-17T17:57:24.591Z",
+		"2.2.5": "2017-03-28T23:17:08.578Z",
+		"2.2.4": "2017-03-23T20:52:21.261Z",
+		"2.2.3": "2017-03-09T23:47:06.101Z",
+		"1.2.2": "2017-02-28T14:25:25.493Z",
+		"1.2.1": "2017-01-23T21:36:46.818Z",
+		"2.2.2": "2017-01-23T21:36:37.024Z",
+		"1.2.0": "2017-01-10T18:54:18.972Z",
+		"2.2.1": "2017-01-05T20:41:12.338Z",
+		"2.2.0": "2016-12-31T15:07:16.067Z",
+		"2.1.2": "2016-12-30T14:33:28.630Z",
+		"2.1.1": "2016-12-27T05:57:43.940Z",
+		"2.1.0": "2016-11-23T18:29:48.645Z",
+		"2.0.29": "2016-09-19T18:06:50.557Z",
+		"2.0.28": "2016-07-19T13:14:18.680Z",
+		"2.0.27": "2016-07-14T15:51:48.146Z",
+		"2.0.26-alpha": "2016-07-08T21:17:01.157Z",
+		"2.0.25-alpha": "2016-07-04T01:11:37.375Z",
+		"2.0.24-alpha": "2016-07-02T03:20:11.274Z",
+		"2.0.23-alpha": "2016-07-01T23:48:06.715Z",
+		"2.0.22-alpha": "2016-07-01T20:30:19.619Z",
+		"2.0.21-alpha": "2016-05-25T05:47:55.107Z",
+		"2.0.20-alpha": "2016-05-20T20:32:03.574Z",
+		"2.0.15-alpha": "2016-05-19T22:10:08.587Z",
+		"2.0.14-alpha": "2016-05-17T18:45:04.202Z"
+	},
+	"_distfiles": {
+		"react-intl-2.3.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.8.tgz",
+			"sha": "de56b21b67e39df24bc0fc7e67b437976b666919",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.7.tgz",
+			"sha": "40bae586f11d19894621ed40170dd75c3e0f5708",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.6.tgz",
+			"sha": "88063adb515365a8bd3bf62aae4eeb5a43ee86cf",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.5.tgz",
+			"sha": "eafa170d83c06302416075867a6fd219c1cf84d8",
+			"registry": "cnpmjs"
+		},
+		"react-intl-1.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.4.tgz",
+			"sha": "20c0bf5c5d56af879a9812873729c47fa74ff93c",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.4.tgz",
+			"sha": "e0384ecb78190f4e4785e313ca31957ab8147fac",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.3.tgz",
+			"sha": "8b8d1a4b13697848dd54d79911effd187a4033e8",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.2.tgz",
+			"sha": "a57433871dedf2f12ba8eeca645e5ce5a37d102a",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.1.tgz",
+			"sha": "d036dbe54f6ef29f2a150ed303a84f1693ddf905",
+			"registry": "cnpmjs"
+		},
+		"react-intl-1.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.3.tgz",
+			"sha": "2ee09d35e49585c71177d7a0e15433d36317f193",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.0.tgz",
+			"sha": "b7159c6edfe254892ba9059a05f3b68da98f8e59",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.2.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.9.tgz",
+			"sha": "9340d67e5a38ae797f8e312228c09a2a26cba063",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.2.8.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.8.tgz",
+			"sha": "b4a0e50c78fab71005f0f85ae70819c8d0e83cec",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.2.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.7.tgz",
+			"sha": "f8c895be35c39ad44103572372f65de528471c95",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.2.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.6.tgz",
+			"sha": "2c33ca92114a91f354cd2ca0d19bb5847440fa1d",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.2.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.5.tgz",
+			"sha": "10ab28a674f4fc2e18ce5d0de8c325d5e4d19c71",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.4.tgz",
+			"sha": "05426ab8decec51ace1c7eb1ccd22570a621a0fd",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.3.tgz",
+			"sha": "b6f4748932c1ae0f244af3110faab6588efe85c8",
+			"registry": "cnpmjs"
+		},
+		"react-intl-1.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.2.tgz",
+			"sha": "dc686a4035ff92765db4d6d214b91c7904e0334a",
+			"registry": "cnpmjs"
+		},
+		"react-intl-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.1.tgz",
+			"sha": "5444058bcde340fd8aa93e58dda7d0672cd2d3ca",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.2.tgz",
+			"sha": "dbd7387d078d5a241d0becbe5fe83aee37c5b1a2",
+			"registry": "cnpmjs"
+		},
+		"react-intl-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.0.tgz",
+			"sha": "cb8049c135cdfff31e7dcd9ce7da7702aa1c581e",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.1.tgz",
+			"sha": "615dee2a7fee4e132aa9a22d409ffd1b24afc4b8",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.2.0.tgz",
+			"sha": "56faa0e021614ede85b0d7fd5e4b68d5bf75bd22",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.1.2.tgz",
+			"sha": "fd2e4f2472f0d38657807b34bae6735966b8ebac",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.1.1.tgz",
+			"sha": "3bb30a70fd2738174f09977e9bdbd401a1f9730c",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.1.0.tgz",
+			"sha": "cdb98d891a279e5949a2380ea58de8ce8dec0b5a",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.29.tgz",
+			"sha": "3d036fa74538559269e84d492339e789b8220eb0",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.28.tgz",
+			"sha": "6f9a34efff21a83b4b83c30d6fc412aa1907c5f3",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.27.tgz",
+			"sha": "46acb70de1de0fed91e74c4c1816c565a5251630",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.26-alpha.tgz",
+			"sha": "43bd05d7541bc067d2b6859d6f5b574d437124aa",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.25-alpha.tgz",
+			"sha": "208751ea5d63532e42758ffb0a6d71f68ba4f614",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.24-alpha.tgz",
+			"sha": "8368643d7c078404a90de687d3a001e4aa8ef609",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.23-alpha.tgz",
+			"sha": "57a2647dca064b1c57184ee5ef2fb49a9d0b4e89",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.22-alpha.tgz",
+			"sha": "8d2b8b31e3e8e390f7630c4c1a594c2b6f3417c4",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.21-alpha.tgz",
+			"sha": "76737805c317c8344fd5dc9da9d28aa305b509c3",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.20-alpha.tgz",
+			"sha": "3d058c454f28319c046ee1b4786db6bb9e8fcf55",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.15-alpha.tgz",
+			"sha": "ccf5521920f4d11f09dad7fabfe4fd86538da26c",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.0.14-alpha.tgz",
+			"sha": "43a8cff52fb4ef55709832668bae6be240f1d060",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.11.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.11.tgz",
+			"sha": "8d9e8a5931c665ce9086cbcda5b7467d668dfa33",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.10.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.10.tgz",
+			"sha": "b1b7379f072224071aa94bc085db0b65b708cb17",
+			"registry": "cnpmjs"
+		},
+		"react-intl-2.3.9.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-2.3.9.tgz",
+			"sha": "47dfc2c4ff82c938ffb0ecaa1bc9f2f449f191cc",
+			"registry": "cnpmjs"
+		},
+		"react-intl-1.2.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/react-intl/download/@types/react-intl-1.2.5.tgz",
+			"sha": "fd29dba70581e070837ab267bcc0a242956e4bc7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541835897244
+		}
+	},
+	"_rev": "2-9a5b7fc209dee5bd",
+	"readme": "# Installation\r\n> `npm install --save @types/react-intl`\r\n\r\n# Summary\r\nThis package contains type definitions for react-intl (http://formatjs.io/react/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-intl\r\n\r\nAdditional Details\r\n * Last updated: Fri, 14 Sep 2018 16:56:40 GMT\r\n * Dependencies: none\r\n * Global values: ReactIntl\r\n\r\n# Credits\r\nThese definitions were written by Bruno Grieder <https://github.com/bgrieder>, Christian Droulers <https://github.com/cdroulers>, Fedor Nezhivoi <https://github.com/gyzerok>, Till Wolff <https://github.com/tillwolff>, Karol Janyst <https://github.com/LKay>, Brian Houser <https://github.com/bhouser>, Krister Kari <https://github.com/kristerkari>, Martin Raedlinger <https://github.com/formatlos>, Kanitkorn Sujautra <https://github.com/lukyth>."
+}

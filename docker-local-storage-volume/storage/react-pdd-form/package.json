@@ -1,0 +1,120 @@
+{
+	"name": "react-pdd-form",
+	"versions": {
+		"0.0.1-security": {
+			"name": "react-pdd-form",
+			"version": "0.0.1-security",
+			"description": "This package name is not currently in use, but was formerly occupied by another package. To avoid malicious use, npm is hanging on to the package name, but loosely, and we'll probably give it to you if you want it.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/security-holder.git"
+			},
+			"keywords": [],
+			"author": "",
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/npm/security-holder/issues"
+			},
+			"homepage": "https://github.com/npm/security-holder#readme",
+			"gitHead": "9ef10011153183d323ed420df5bb17eaf08ab730",
+			"_id": "react-pdd-form@0.0.1-security",
+			"_shasum": "dd3e296f7039ced89f0dd3ad4361adb74f63e5f7",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "kmanion",
+				"email": "kiera@npmjs.com"
+			},
+			"dist": {
+				"shasum": "dd3e296f7039ced89f0dd3ad4361adb74f63e5f7",
+				"size": 582,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-pdd-form/download/react-pdd-form-0.0.1-security.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "npm",
+					"email": "npm@npmjs.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/react-pdd-form-0.0.1-security.tgz_1486679513413_0.04210459231399"
+			},
+			"directories": {},
+			"publish_time": 1486679513627,
+			"_cnpm_publish_time": 1486679513627,
+			"_hasShrinkwrap": false
+		},
+		"1.0.15": {
+			"name": "react-pdd-form",
+			"version": "1.0.15",
+			"description": "表单样式",
+			"main": "src/index.scss",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"表单样式",
+				"form"
+			],
+			"author": {
+				"name": "邃宇"
+			},
+			"license": "ISC",
+			"dependencies": {
+				"react-pdd-base": "^1.0.5"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"repository": {
+				"type": "git"
+			},
+			"_id": "react-pdd-form@1.0.15",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "9.2.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-/i/i32l7r8j+dh8/M1kEGQ363EcUNLm74s6FnWn5OYiXORI4yEsBl5GSpAuPV0x36vwjX4MbrLudScVu6Y1x3g==",
+				"shasum": "3cc406312defecfd61750043d54b3a57bb1ed9b4",
+				"tarball": "http://npmjs.towavephone.com/react-pdd-form/-/react-pdd-form-1.0.15.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.15"
+	},
+	"time": {
+		"modified": "2018-05-31T05:21:35.923Z",
+		"created": "2017-02-09T22:31:53.627Z",
+		"0.0.1-security": "2017-02-09T22:31:53.627Z",
+		"1.0.15": "2018-05-31T05:21:35.923Z"
+	},
+	"_distfiles": {
+		"react-pdd-form-0.0.1-security.tgz": {
+			"url": "https://registry.npm.taobao.org/react-pdd-form/download/react-pdd-form-0.0.1-security.tgz",
+			"sha": "dd3e296f7039ced89f0dd3ad4361adb74f63e5f7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {
+		"react-pdd-form-1.0.15.tgz": {
+			"shasum": "3cc406312defecfd61750043d54b3a57bb1ed9b4",
+			"version": "1.0.15"
+		}
+	},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"9e8-uDRIqIRT6W4S3qhRrAylXP0K91Q\"",
+			"fetched": 1527744095918
+		}
+	},
+	"_rev": "4-ecb951fc970457f0",
+	"readme": "ERROR: No README data found!"
+}

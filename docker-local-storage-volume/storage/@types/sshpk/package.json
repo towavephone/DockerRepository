@@ -1,0 +1,246 @@
+{
+	"name": "@types/sshpk",
+	"versions": {
+		"1.10.3": {
+			"name": "@types/sshpk",
+			"version": "1.10.3",
+			"description": "TypeScript definitions for sshpk",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Meno Abels",
+					"url": "https://github.com/mabels"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bce0dbc385edf924e55efb53990a749149a00b21ccb4085a596f81cf0f9529a7",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sshpk@1.10.3",
+			"dist": {
+				"shasum": "265b2d13f95225e20abffa17719fca9756c8e56a",
+				"size": 2714,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sshpk/download/@types/sshpk-1.10.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/sshpk-1.10.3.tgz_1490913531654_0.1539308710489422"
+			},
+			"directories": {},
+			"publish_time": 1490913533489,
+			"_cnpm_publish_time": 1490913533489,
+			"_hasShrinkwrap": false
+		},
+		"1.10.2": {
+			"name": "@types/sshpk",
+			"version": "1.10.2",
+			"description": "TypeScript definitions for sshpk",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Meno Abels",
+					"url": "https://github.com/mabels"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "8857e7958fa772719657e1260b83ef880b98f0959731b5ef8bc298b32fcff47c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sshpk@1.10.2",
+			"dist": {
+				"shasum": "758a39e845cf9ce511117ae149194b63c244bd5a",
+				"size": 2971,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sshpk/download/@types/sshpk-1.10.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/sshpk-1.10.2.tgz_1487875238245_0.5596407316625118"
+			},
+			"directories": {},
+			"publish_time": 1487875239975,
+			"_cnpm_publish_time": 1487875239975,
+			"_hasShrinkwrap": false
+		},
+		"1.10.1": {
+			"name": "@types/sshpk",
+			"version": "1.10.1",
+			"description": "TypeScript definitions for sshpk",
+			"license": "MIT",
+			"author": "Meno Abels <https://github.com/mabels>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e611dc3441ef62efbf9c9e91a97a9426230c64666df36f53b8fb65ab2db82635",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sshpk@1.10.1",
+			"dist": {
+				"shasum": "ab87c92d8da33a45df35f7edce604ff9639132e5",
+				"size": 2933,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sshpk/download/@types/sshpk-1.10.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/sshpk-1.10.1.tgz_1484934977773_0.4311277400702238"
+			},
+			"directories": {},
+			"publish_time": 1484934979532,
+			"_cnpm_publish_time": 1484934979532,
+			"_hasShrinkwrap": false
+		},
+		"1.10.0": {
+			"name": "@types/sshpk",
+			"version": "1.10.0",
+			"description": "TypeScript definitions for sshpk",
+			"license": "MIT",
+			"author": "Meno Abels <https://github.com/mabels>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f25b879c5ef126f5c9a0f86174a86a2093478558b8cd65ef3876a9cfa4b3a887",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/sshpk@1.10.0",
+			"dist": {
+				"shasum": "1ed49556052d6a755c8a163d4db1a82e5d70e98a",
+				"size": 2933,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/sshpk/download/@types/sshpk-1.10.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/sshpk-1.10.0.tgz_1484690661489_0.0010897109750658274"
+			},
+			"directories": {},
+			"publish_time": 1484690661727,
+			"_cnpm_publish_time": 1484690661727,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.10.3",
+		"ts2.0": "1.10.3",
+		"ts2.1": "1.10.3",
+		"ts2.2": "1.10.3",
+		"ts2.3": "1.10.3",
+		"ts2.4": "1.10.3",
+		"ts2.5": "1.10.3",
+		"ts2.6": "1.10.3",
+		"ts2.7": "1.10.3",
+		"ts2.8": "1.10.3",
+		"ts2.9": "1.10.3",
+		"ts3.0": "1.10.3",
+		"ts3.1": "1.10.3",
+		"ts3.2": "1.10.3"
+	},
+	"time": {
+		"modified": "2018-10-10T20:28:46.000Z",
+		"created": "2017-01-17T22:04:21.727Z",
+		"1.10.3": "2017-03-30T22:38:53.489Z",
+		"1.10.2": "2017-02-23T18:40:39.975Z",
+		"1.10.1": "2017-01-20T17:56:19.532Z",
+		"1.10.0": "2017-01-17T22:04:21.727Z"
+	},
+	"_distfiles": {
+		"sshpk-1.10.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sshpk/download/@types/sshpk-1.10.3.tgz",
+			"sha": "265b2d13f95225e20abffa17719fca9756c8e56a",
+			"registry": "cnpmjs"
+		},
+		"sshpk-1.10.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sshpk/download/@types/sshpk-1.10.2.tgz",
+			"sha": "758a39e845cf9ce511117ae149194b63c244bd5a",
+			"registry": "cnpmjs"
+		},
+		"sshpk-1.10.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sshpk/download/@types/sshpk-1.10.1.tgz",
+			"sha": "ab87c92d8da33a45df35f7edce604ff9639132e5",
+			"registry": "cnpmjs"
+		},
+		"sshpk-1.10.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/sshpk/download/@types/sshpk-1.10.0.tgz",
+			"sha": "1ed49556052d6a755c8a163d4db1a82e5d70e98a",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"15c5-t32O1La7srY3x5t7XAQtaLwO5Gc\"",
+			"fetched": 1541833488546
+		}
+	},
+	"_rev": "2-7fd80d98512afc69",
+	"readme": "# Installation\r\n> `npm install --save @types/sshpk`\r\n\r\n# Summary\r\nThis package contains type definitions for sshpk (github.com/arekinath/node-sshpk).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/sshpk\r\n\r\nAdditional Details\r\n * Last updated: Thu, 30 Mar 2017 22:36:50 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Meno Abels <https://github.com/mabels>."
+}

@@ -1,0 +1,1266 @@
+{
+	"name": "@types/classnames",
+	"versions": {
+		"2.2.4": {
+			"name": "@types/classnames",
+			"version": "2.2.4",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dave Keen",
+					"url": "http://www.keendevelopment.ch"
+				},
+				{
+					"name": "Adi Dahiya",
+					"url": "https://github.com/adidahiya",
+					"githubUsername": "adidahiya"
+				},
+				{
+					"name": "Jason Killian",
+					"url": "https://github.com/JKillian",
+					"githubUsername": "JKillian"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley",
+					"githubUsername": "seansfkelley"
+				},
+				{
+					"name": "Michal Adamczyk",
+					"url": "https://github.com/mradamczyk",
+					"githubUsername": "mradamczyk"
+				},
+				{
+					"name": "Marvin Hagemeister",
+					"url": "https://github.com/marvinhagemeister",
+					"githubUsername": "marvinhagemeister"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "32dd0ef06266781001bef053c52026d613a33a4ca4696f4870b7c3c92e60b832",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/classnames@2.2.4",
+			"dist": {
+				"shasum": "d3ee9ebf714aa34006707b8f4a58fd46b642305a",
+				"size": 2043,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/classnames_2.2.4_1527870501059_0.6989866937449496"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1527870501187,
+			"_cnpm_publish_time": 1527870501187
+		},
+		"2.2.3": {
+			"name": "@types/classnames",
+			"version": "2.2.3",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dave Keen",
+					"url": "http://www.keendevelopment.ch"
+				},
+				{
+					"name": "Adi Dahiya",
+					"url": "https://github.com/adidahiya"
+				},
+				{
+					"name": "Jason Killian",
+					"url": "https://github.com/JKillian"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley"
+				},
+				{
+					"name": "Michal Adamczyk",
+					"url": "https://github.com/mradamczyk"
+				},
+				{
+					"name": "Marvin Hagemeister",
+					"url": "https://github.com/marvinhagemeister"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7490b16060479754c4a2467a6ee046a311d2c5a167c41c374e4fc107c22c7b73",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/classnames@2.2.3",
+			"dist": {
+				"shasum": "3f0ff6873da793870e20a260cada55982f38a9e5",
+				"size": 2012,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/classnames-2.2.3.tgz_1503352199253_0.4319278267212212"
+			},
+			"directories": {},
+			"publish_time": 1503352199336,
+			"_cnpm_publish_time": 1503352199336,
+			"_hasShrinkwrap": false
+		},
+		"2.2.2": {
+			"name": "@types/classnames",
+			"version": "2.2.2",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dave Keen",
+					"url": "http://www.keendevelopment.ch"
+				},
+				{
+					"name": "Adi Dahiya",
+					"url": "https://github.com/adidahiya"
+				},
+				{
+					"name": "Jason Killian",
+					"url": "https://github.com/JKillian"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley/"
+				},
+				{
+					"name": "Michal Adamczyk",
+					"url": "https://github.com/mradamczyk"
+				},
+				{
+					"name": "Marvin Hagemeister",
+					"url": "https://github.com/marvinhagemeister"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "cb6eb4c856ae7182d84dd2950d277e7f38afc4af303f45a2510dd4c451b09785",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/classnames@2.2.2",
+			"dist": {
+				"shasum": "035fdc82f30e5de5031db8cf90614fb6340a0ea5",
+				"size": 2014,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/classnames-2.2.2.tgz_1502993457645_0.3111755372956395"
+			},
+			"directories": {},
+			"publish_time": 1502993457763,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502993457763
+		},
+		"2.2.1": {
+			"name": "@types/classnames",
+			"version": "2.2.1",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dave Keen",
+					"url": "http://www.keendevelopment.ch"
+				},
+				{
+					"name": "Adi Dahiya",
+					"url": "https://github.com/adidahiya"
+				},
+				{
+					"name": "Jason Killian",
+					"url": "https://github.com/JKillian"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley/"
+				},
+				{
+					"name": "Michal Adamczyk",
+					"url": "https://github.com/mradamczyk"
+				},
+				{
+					"name": "Marvin Hagemeister",
+					"url": "https://github.com/marvinhagemeister"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7a8c27ef398995ea561a8f5a2a79ed0d917a3baeb1eca838acea35aeaa76f437",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/classnames@2.2.1",
+			"dist": {
+				"shasum": "2b6fc6be389aadc8176b1d068a2c27a02eabb811",
+				"size": 2033,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/classnames-2.2.1.tgz_1502820699641_0.28109986428171396"
+			},
+			"directories": {},
+			"publish_time": 1502820699713,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502820699713
+		},
+		"2.2.0": {
+			"name": "@types/classnames",
+			"version": "2.2.0",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dave Keen",
+					"url": "http://www.keendevelopment.ch"
+				},
+				{
+					"name": "Adi Dahiya",
+					"url": "https://github.com/adidahiya"
+				},
+				{
+					"name": "Jason Killian",
+					"url": "https://github.com/JKillian"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley/"
+				},
+				{
+					"name": "Michal Adamczyk",
+					"url": "https://github.com/mradamczyk"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b12c528395e1f9c1bf95bc59b944b6392034d2dd52484a3defcaf415435bfd13",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/classnames@2.2.0",
+			"dist": {
+				"shasum": "f2312039e780bdf89d7d4102a26ec11de5ec58aa",
+				"size": 1889,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-2.2.0.tgz_1494884245370_0.2585133339744061"
+			},
+			"directories": {},
+			"publish_time": 1494884245611,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1494884245611
+		},
+		"0.0.32": {
+			"name": "@types/classnames",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"author": "Dave Keen <http://www.keendevelopment.ch>, Adi Dahiya <https://github.com/adidahiya>, Jason Killian <https://github.com/JKillian>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "0deed092715fde4bb04513edf3d2684e536ac6c7a2f01640b4c02bc88ab6be8f",
+			"_id": "@types/classnames@0.0.32",
+			"dist": {
+				"shasum": "449abcd9a826807811ef101e58df9f83cfc61713",
+				"size": 1159,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.32.tgz_1479152148849_0.4596261342521757"
+			},
+			"directories": {},
+			"publish_time": 1479152150618,
+			"_cnpm_publish_time": 1479152150618,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/classnames",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"author": "Dave Keen <http://www.keendevelopment.ch>, Adi Dahiya <https://github.com/adidahiya>, Jason Killian <https://github.com/JKillian>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "19bd507178e9ec6d98a4ac36aa80b86f532302064ace030bc5c7d38c9e3fffe1",
+			"_id": "@types/classnames@0.0.31",
+			"dist": {
+				"shasum": "05372b801af9e33fd112e93b6df7632aa56f0637",
+				"size": 1152,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.31.tgz_1475700938770_0.5942578183021396"
+			},
+			"directories": {},
+			"publish_time": 1475700939023,
+			"_cnpm_publish_time": 1475700939023,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/classnames",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"author": "Dave Keen <http://www.keendevelopment.ch>, Adi Dahiya <https://github.com/adidahiya>, Jason Killian <https://github.com/JKillian>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b5e5f053349fc5b5990c39bd4ad53ef33bf7c6798d622d46ef56be72ed94700c",
+			"_id": "@types/classnames@0.0.30",
+			"dist": {
+				"shasum": "affa48d2f795d8880156bcf55d971c9c26f352a5",
+				"size": 1149,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.30.tgz_1474406134581_0.30550253693945706"
+			},
+			"directories": {},
+			"publish_time": 1474406134829,
+			"_cnpm_publish_time": 1474406134829,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/classnames",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"author": "Dave Keen <http://www.keendevelopment.ch>, Adi Dahiya <https://github.com/adidahiya>, Jason Killian <https://github.com/JKillian>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "18ceba16b010e4e0a26a48c8546c83f60d5febfb48a7aadd448fed45b6034257",
+			"_id": "@types/classnames@0.0.29",
+			"dist": {
+				"shasum": "d6dd1f820f2168dd0737cb5dd64840ad79f09652",
+				"size": 1139,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.29.tgz_1474302721093_0.3084629524964839"
+			},
+			"directories": {},
+			"publish_time": 1474302722836,
+			"_cnpm_publish_time": 1474302722836,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/classnames",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for classnames",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Dave Keen",
+				"email": "http://www.keendevelopment.ch"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/classnames@0.0.28",
+			"_shasum": "50af46edf0e13f7784670952aa7b9a134bc83be6",
+			"_from": "output\\classnames",
+			"_resolved": "file:output\\classnames",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "50af46edf0e13f7784670952aa7b9a134bc83be6",
+				"size": 1116,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.28.tgz_1468505796070_0.30379824549891055"
+			},
+			"directories": {},
+			"publish_time": 1468505798503,
+			"_cnpm_publish_time": 1468505798503,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/classnames",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for classnames",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Dave Keen",
+				"email": "http://www.keendevelopment.ch"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/classnames@0.0.27-alpha",
+			"_shasum": "248ed0eab832e13f4c39973cb71d9114aa20320c",
+			"_from": "output\\classnames",
+			"_resolved": "file:output\\classnames",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "248ed0eab832e13f4c39973cb71d9114aa20320c",
+				"size": 1121,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.27-alpha.tgz_1468007064403_0.04068025597371161"
+			},
+			"directories": {},
+			"publish_time": 1468007064847,
+			"_cnpm_publish_time": 1468007064847,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/classnames",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for classnames",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Dave Keen",
+				"email": "http://www.keendevelopment.ch"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/classnames@0.0.26-alpha",
+			"_shasum": "3e5736f9af670aad41b6d6f28763dc459a64311e",
+			"_from": "output\\classnames",
+			"_resolved": "file:output\\classnames",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3e5736f9af670aad41b6d6f28763dc459a64311e",
+				"size": 1121,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.26-alpha.tgz_1467590413599_0.765640951693058"
+			},
+			"directories": {},
+			"publish_time": 1467590414140,
+			"_cnpm_publish_time": 1467590414140,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/classnames",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for classnames",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Dave Keen",
+				"email": "http://www.keendevelopment.ch"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/classnames@0.0.25-alpha",
+			"_shasum": "f179c92cbf617413d8332c4bf0c03a3aaefb8bd2",
+			"_from": "output\\classnames",
+			"_resolved": "file:output\\classnames",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f179c92cbf617413d8332c4bf0c03a3aaefb8bd2",
+				"size": 1121,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.25-alpha.tgz_1467425264633_0.3317888407036662"
+			},
+			"directories": {},
+			"publish_time": 1467425268051,
+			"_cnpm_publish_time": 1467425268051,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/classnames",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for classnames",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Dave Keen",
+				"email": "http://www.keendevelopment.ch"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/classnames@0.0.24-alpha",
+			"_shasum": "c064c49c32434100ffdc356af28afe3f44f88e29",
+			"_from": "output\\classnames",
+			"_resolved": "file:output\\classnames",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c064c49c32434100ffdc356af28afe3f44f88e29",
+				"size": 1122,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.24-alpha.tgz_1467411856400_0.900548514444381"
+			},
+			"directories": {},
+			"publish_time": 1467411858859,
+			"_cnpm_publish_time": 1467411858859,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/classnames",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for classnames",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Dave Keen",
+				"email": "http://www.keendevelopment.ch"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/classnames@0.0.23-alpha",
+			"_shasum": "84091dd76a9d992b733006cada9fbbe836354463",
+			"_from": "output\\classnames",
+			"_resolved": "file:output\\classnames",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "84091dd76a9d992b733006cada9fbbe836354463",
+				"size": 1118,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.23-alpha.tgz_1467399696087_0.5382615171838552"
+			},
+			"directories": {},
+			"publish_time": 1467399696815,
+			"_cnpm_publish_time": 1467399696815,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/classnames",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for classnames",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Dave Keen",
+				"email": "http://www.keendevelopment.ch"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/classnames@0.0.22-alpha",
+			"_shasum": "db83769d3488a8652b574501b7c39e57f4ac1807",
+			"_from": "output\\classnames",
+			"_resolved": "file:output\\classnames",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "db83769d3488a8652b574501b7c39e57f4ac1807",
+				"size": 1088,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.22-alpha.tgz_1464151082191_0.588776141172275"
+			},
+			"directories": {},
+			"publish_time": 1464151082723,
+			"_cnpm_publish_time": 1464151082723,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/classnames",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for classnames",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Dave Keen",
+				"email": "http://www.keendevelopment.ch"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/classnames@0.0.21-alpha",
+			"_shasum": "b3f8d44f5625f5e7bf092760a09f18110280b3d7",
+			"_from": "output\\classnames",
+			"_resolved": "file:output\\classnames",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b3f8d44f5625f5e7bf092760a09f18110280b3d7",
+				"size": 1088,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.21-alpha.tgz_1463771986382_0.6169476306531578"
+			},
+			"directories": {},
+			"publish_time": 1463771986778,
+			"_cnpm_publish_time": 1463771986778,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/classnames",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for classnames from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Dave Keen",
+				"email": "http://www.keendevelopment.ch"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/classnames@0.0.16-alpha",
+			"_shasum": "a2fc64f945ac23dfa0e1ccc335938998df41b017",
+			"_from": "output\\classnames",
+			"_resolved": "file:output\\classnames",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a2fc64f945ac23dfa0e1ccc335938998df41b017",
+				"size": 1098,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.16-alpha.tgz_1463689781525_0.43185300449840724"
+			},
+			"directories": {},
+			"publish_time": 1463689782118,
+			"_cnpm_publish_time": 1463689782118,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/classnames",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for classnames from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Dave Keen",
+				"email": "http://www.keendevelopment.ch"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/classnames@0.0.15-alpha",
+			"_shasum": "b4a9680ed7718ad39b5b885fb33332e8f9277698",
+			"_from": "output\\classnames",
+			"_resolved": "file:output\\classnames",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b4a9680ed7718ad39b5b885fb33332e8f9277698",
+				"size": 1088,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/classnames-0.0.15-alpha.tgz_1463459888775_0.6151446050498635"
+			},
+			"directories": {},
+			"publish_time": 1463459892334,
+			"_cnpm_publish_time": 1463459892334,
+			"_hasShrinkwrap": false
+		},
+		"2.2.6": {
+			"name": "@types/classnames",
+			"version": "2.2.6",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dave Keen",
+					"url": "http://www.keendevelopment.ch"
+				},
+				{
+					"name": "Adi Dahiya",
+					"url": "https://github.com/adidahiya",
+					"githubUsername": "adidahiya"
+				},
+				{
+					"name": "Jason Killian",
+					"url": "https://github.com/JKillian",
+					"githubUsername": "JKillian"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley",
+					"githubUsername": "seansfkelley"
+				},
+				{
+					"name": "Michal Adamczyk",
+					"url": "https://github.com/mradamczyk",
+					"githubUsername": "mradamczyk"
+				},
+				{
+					"name": "Marvin Hagemeister",
+					"url": "https://github.com/marvinhagemeister",
+					"githubUsername": "marvinhagemeister"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "ba459a84a968ae9a5e57bd09be53fc42660354b44e0037f3a544be6409abb836",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/classnames@2.2.6",
+			"dist": {
+				"shasum": "dbe8a666156d556ed018e15a4c65f08937c3f628",
+				"size": 2063,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/classnames_2.2.6_1532138821764_0.5495587471122545"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532138821829,
+			"_cnpm_publish_time": 1532138821829
+		},
+		"2.2.5": {
+			"name": "@types/classnames",
+			"version": "2.2.5",
+			"description": "TypeScript definitions for classnames",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Dave Keen",
+					"url": "http://www.keendevelopment.ch"
+				},
+				{
+					"name": "Adi Dahiya",
+					"url": "https://github.com/adidahiya",
+					"githubUsername": "adidahiya"
+				},
+				{
+					"name": "Jason Killian",
+					"url": "https://github.com/JKillian",
+					"githubUsername": "JKillian"
+				},
+				{
+					"name": "Sean Kelley",
+					"url": "https://github.com/seansfkelley",
+					"githubUsername": "seansfkelley"
+				},
+				{
+					"name": "Michal Adamczyk",
+					"url": "https://github.com/mradamczyk",
+					"githubUsername": "mradamczyk"
+				},
+				{
+					"name": "Marvin Hagemeister",
+					"url": "https://github.com/marvinhagemeister",
+					"githubUsername": "marvinhagemeister"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "c55ef347046668317f981f9503e1b8597020df0833e81fb96a0d8bfb4a65b9eb",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/classnames@2.2.5",
+			"dist": {
+				"shasum": "62945b24b48dc02fb32e89252bde3daf942c4235",
+				"size": 2069,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/classnames_2.2.5_1531760956654_0.8162624464515313"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1531760956729,
+			"_cnpm_publish_time": 1531760956729
+		}
+	},
+	"dist-tags": {
+		"latest": "2.2.6",
+		"ts2.0": "2.2.0",
+		"ts2.1": "2.2.0",
+		"ts2.2": "2.2.0",
+		"ts2.3": "2.2.6",
+		"ts2.4": "2.2.6",
+		"ts2.5": "2.2.6",
+		"ts2.6": "2.2.6",
+		"ts2.7": "2.2.6",
+		"ts2.8": "2.2.6",
+		"ts2.9": "2.2.6",
+		"ts3.0": "2.2.6",
+		"ts3.1": "2.2.6",
+		"ts3.2": "2.2.6"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:36.000Z",
+		"created": "2016-05-17T04:38:12.334Z",
+		"2.2.6": "2018-07-21T02:07:01.829Z",
+		"2.2.5": "2018-07-16T17:09:16.729Z",
+		"2.2.4": "2018-06-01T16:28:21.187Z",
+		"2.2.3": "2017-08-21T21:49:59.336Z",
+		"2.2.2": "2017-08-17T18:10:57.763Z",
+		"2.2.1": "2017-08-15T18:11:39.713Z",
+		"2.2.0": "2017-05-15T21:37:25.611Z",
+		"0.0.32": "2016-11-14T19:35:50.618Z",
+		"0.0.31": "2016-10-05T20:55:39.023Z",
+		"0.0.30": "2016-09-20T21:15:34.829Z",
+		"0.0.29": "2016-09-19T16:32:02.836Z",
+		"0.0.28": "2016-07-14T14:16:38.503Z",
+		"0.0.27-alpha": "2016-07-08T19:44:24.847Z",
+		"0.0.26-alpha": "2016-07-04T00:00:14.140Z",
+		"0.0.25-alpha": "2016-07-02T02:07:48.051Z",
+		"0.0.24-alpha": "2016-07-01T22:24:18.859Z",
+		"0.0.23-alpha": "2016-07-01T19:01:36.815Z",
+		"0.0.22-alpha": "2016-05-25T04:38:02.723Z",
+		"0.0.21-alpha": "2016-05-20T19:19:46.778Z",
+		"0.0.16-alpha": "2016-05-19T20:29:42.118Z",
+		"0.0.15-alpha": "2016-05-17T04:38:12.334Z"
+	},
+	"_distfiles": {
+		"classnames-2.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.4.tgz",
+			"sha": "d3ee9ebf714aa34006707b8f4a58fd46b642305a",
+			"registry": "cnpmjs"
+		},
+		"classnames-2.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.3.tgz",
+			"sha": "3f0ff6873da793870e20a260cada55982f38a9e5",
+			"registry": "cnpmjs"
+		},
+		"classnames-2.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.2.tgz",
+			"sha": "035fdc82f30e5de5031db8cf90614fb6340a0ea5",
+			"registry": "cnpmjs"
+		},
+		"classnames-2.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.1.tgz",
+			"sha": "2b6fc6be389aadc8176b1d068a2c27a02eabb811",
+			"registry": "cnpmjs"
+		},
+		"classnames-2.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.0.tgz",
+			"sha": "f2312039e780bdf89d7d4102a26ec11de5ec58aa",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.32.tgz",
+			"sha": "449abcd9a826807811ef101e58df9f83cfc61713",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.31.tgz",
+			"sha": "05372b801af9e33fd112e93b6df7632aa56f0637",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.30.tgz",
+			"sha": "affa48d2f795d8880156bcf55d971c9c26f352a5",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.29.tgz",
+			"sha": "d6dd1f820f2168dd0737cb5dd64840ad79f09652",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.28.tgz",
+			"sha": "50af46edf0e13f7784670952aa7b9a134bc83be6",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.27-alpha.tgz",
+			"sha": "248ed0eab832e13f4c39973cb71d9114aa20320c",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.26-alpha.tgz",
+			"sha": "3e5736f9af670aad41b6d6f28763dc459a64311e",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.25-alpha.tgz",
+			"sha": "f179c92cbf617413d8332c4bf0c03a3aaefb8bd2",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.24-alpha.tgz",
+			"sha": "c064c49c32434100ffdc356af28afe3f44f88e29",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.23-alpha.tgz",
+			"sha": "84091dd76a9d992b733006cada9fbbe836354463",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.22-alpha.tgz",
+			"sha": "db83769d3488a8652b574501b7c39e57f4ac1807",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.21-alpha.tgz",
+			"sha": "b3f8d44f5625f5e7bf092760a09f18110280b3d7",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.16-alpha.tgz",
+			"sha": "a2fc64f945ac23dfa0e1ccc335938998df41b017",
+			"registry": "cnpmjs"
+		},
+		"classnames-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-0.0.15-alpha.tgz",
+			"sha": "b4a9680ed7718ad39b5b885fb33332e8f9277698",
+			"registry": "cnpmjs"
+		},
+		"classnames-2.2.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.6.tgz",
+			"sha": "dbe8a666156d556ed018e15a4c65f08937c3f628",
+			"registry": "cnpmjs"
+		},
+		"classnames-2.2.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/classnames/download/@types/classnames-2.2.5.tgz",
+			"sha": "62945b24b48dc02fb32e89252bde3daf942c4235",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833276107
+		}
+	},
+	"_rev": "2-ad022dd3a38009e9",
+	"readme": "# Installation\r\n> `npm install --save @types/classnames`\r\n\r\n# Summary\r\nThis package contains type definitions for classnames (https://github.com/JedWatson/classnames).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/classnames\r\n\r\nAdditional Details\r\n * Last updated: Sat, 21 Jul 2018 02:05:50 GMT\r\n * Dependencies: none\r\n * Global values: classNames\r\n\r\n# Credits\r\nThese definitions were written by Dave Keen <http://www.keendevelopment.ch>, Adi Dahiya <https://github.com/adidahiya>, Jason Killian <https://github.com/JKillian>, Sean Kelley <https://github.com/seansfkelley>, Michal Adamczyk <https://github.com/mradamczyk>, Marvin Hagemeister <https://github.com/marvinhagemeister>."
+}

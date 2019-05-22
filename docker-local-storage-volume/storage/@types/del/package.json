@@ -1,0 +1,858 @@
+{
+	"name": "@types/del",
+	"versions": {
+		"3.0.1": {
+			"name": "@types/del",
+			"version": "3.0.1",
+			"description": "TypeScript definitions for del",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Aya Morisawa",
+					"url": "https://github.com/AyaMorisawa",
+					"githubUsername": "AyaMorisawa"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "Jason Dreyzehner",
+					"url": "https://github.com/bitjson",
+					"githubUsername": "bitjson"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*"
+			},
+			"typesPublisherContentHash": "0861df6912af82d9cc5be785c07e45a4e36e13d5822ce896834979ac66fc6505",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/del@3.0.1",
+			"dist": {
+				"shasum": "4712da8c119873cbbf533ad8dbf1baac5940ac5d",
+				"size": 1762,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-3.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/del_3.0.1_1521927073496_0.7536784629556341"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521927073562,
+			"_cnpm_publish_time": 1521927073562
+		},
+		"3.0.0": {
+			"name": "@types/del",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for del",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Aya Morisawa",
+					"url": "https://github.com/AyaMorisawa"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "01521c0bd7aa34080116410613dea780b6c6db271f24d16692a38207207b2c10",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/del@3.0.0",
+			"dist": {
+				"shasum": "1c8cd8b6e38da3b572352ca8eaf5527931426288",
+				"size": 1685,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/del-3.0.0.tgz_1502300261608_0.031554984860122204"
+			},
+			"directories": {},
+			"publish_time": 1502300261762,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502300261762
+		},
+		"2.2.33": {
+			"name": "@types/del",
+			"version": "2.2.33",
+			"description": "TypeScript definitions for del",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				},
+				{
+					"name": "Aya Morisawa",
+					"url": "https://github.com/AyaMorisawa"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "814d308c7ca67aaa53f65060e69bd7d1c125335ef612d0e061745db18aadb0ef",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/del@2.2.33",
+			"dist": {
+				"shasum": "3fbe8a1c3d00e85e9674e490a347eb419b1003a1",
+				"size": 1634,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/del-2.2.33.tgz_1502300196056_0.8779340405017138"
+			},
+			"directories": {},
+			"publish_time": 1502300196132,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502300196132
+		},
+		"2.2.32": {
+			"name": "@types/del",
+			"version": "2.2.32",
+			"description": "TypeScript definitions for del",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Aya Morisawa <https://github.com/AyaMorisawa>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "daf742cd5be251a40cee3aa614f55942c4785ef6299309dd07f10d5694846c69",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/del@2.2.32",
+			"dist": {
+				"shasum": "4d54df0ed3017435e6b1995df0292957787fc6b2",
+				"size": 1118,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.32.tgz_1484632268745_0.5311237622518092"
+			},
+			"directories": {},
+			"publish_time": 1484632270647,
+			"_cnpm_publish_time": 1484632270647,
+			"_hasShrinkwrap": false
+		},
+		"2.2.31": {
+			"name": "@types/del",
+			"version": "2.2.31",
+			"description": "TypeScript definitions for del v2.2.0",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>, Aya Morisawa <https://github.com/AyaMorisawa>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "ee9c3252816e252cbb0f1e443a004e365fd651d82e567a1ced06688055be7389",
+			"_id": "@types/del@2.2.31",
+			"dist": {
+				"shasum": "afc4a14d5804e23a5055fe2d044b8f467ff48275",
+				"size": 1172,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.31.tgz_1474303008742_0.28609575890004635"
+			},
+			"directories": {},
+			"publish_time": 1474303010461,
+			"_cnpm_publish_time": 1474303010461,
+			"_hasShrinkwrap": false
+		},
+		"2.2.30": {
+			"name": "@types/del",
+			"version": "2.2.30",
+			"description": "TypeScript definitions for del v2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/glob": "5.0.*"
+			},
+			"_id": "@types/del@2.2.30",
+			"_shasum": "8d57a890c3534b7b85c51348f34666596f92aeff",
+			"_from": "output\\del",
+			"_resolved": "file:output\\del",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8d57a890c3534b7b85c51348f34666596f92aeff",
+				"size": 1148,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.30.tgz_1468506268241_0.5569932868238539"
+			},
+			"directories": {},
+			"publish_time": 1468506270882,
+			"_cnpm_publish_time": 1468506270882,
+			"_hasShrinkwrap": false
+		},
+		"2.2.29-alpha": {
+			"name": "@types/del",
+			"version": "2.2.29-alpha",
+			"description": "TypeScript definitions for del v2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/glob": "5.0.28-alpha"
+			},
+			"_id": "@types/del@2.2.29-alpha",
+			"_shasum": "d3f3abbcc139944a6f2f0cb4f7bd0a5a4d5ff7e5",
+			"_from": "output\\del",
+			"_resolved": "file:output\\del",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d3f3abbcc139944a6f2f0cb4f7bd0a5a4d5ff7e5",
+				"size": 1157,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.29-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.29-alpha.tgz_1468007953587_0.7281339797191322"
+			},
+			"directories": {},
+			"publish_time": 1468007955958,
+			"_cnpm_publish_time": 1468007955958,
+			"_hasShrinkwrap": false
+		},
+		"2.2.27-alpha": {
+			"name": "@types/del",
+			"version": "2.2.27-alpha",
+			"description": "TypeScript definitions for del v2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/del@2.2.27-alpha",
+			"_shasum": "213a6a784b72ee4d12d2051cc9745fb21b04538a",
+			"_from": "output\\del",
+			"_resolved": "file:output\\del",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "213a6a784b72ee4d12d2051cc9745fb21b04538a",
+				"size": 1134,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.27-alpha.tgz_1467590538494_0.6077661761082709"
+			},
+			"directories": {},
+			"publish_time": 1467590539007,
+			"_cnpm_publish_time": 1467590539007,
+			"_hasShrinkwrap": false
+		},
+		"2.2.26-alpha": {
+			"name": "@types/del",
+			"version": "2.2.26-alpha",
+			"description": "TypeScript definitions for del v2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/del@2.2.26-alpha",
+			"_shasum": "af56a954722ae1a2e51762490145f03adb2e4dfa",
+			"_from": "output\\del",
+			"_resolved": "file:output\\del",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "af56a954722ae1a2e51762490145f03adb2e4dfa",
+				"size": 1134,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.26-alpha.tgz_1467425622775_0.6056363102979958"
+			},
+			"directories": {},
+			"publish_time": 1467425623279,
+			"_cnpm_publish_time": 1467425623279,
+			"_hasShrinkwrap": false
+		},
+		"2.2.25-alpha": {
+			"name": "@types/del",
+			"version": "2.2.25-alpha",
+			"description": "TypeScript definitions for del v2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/del@2.2.25-alpha",
+			"_shasum": "3db88db9bbd5cf8a5a86cf5778686a5e4d05a471",
+			"_from": "output\\del",
+			"_resolved": "file:output\\del",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3db88db9bbd5cf8a5a86cf5778686a5e4d05a471",
+				"size": 1133,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.25-alpha.tgz_1467412401714_0.34705252503044903"
+			},
+			"directories": {},
+			"publish_time": 1467412403790,
+			"_cnpm_publish_time": 1467412403790,
+			"_hasShrinkwrap": false
+		},
+		"2.2.24-alpha": {
+			"name": "@types/del",
+			"version": "2.2.24-alpha",
+			"description": "TypeScript definitions for del v2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/del@2.2.24-alpha",
+			"_shasum": "b03cba7f1336fea13bb715ead50d8fa4a5752aad",
+			"_from": "output\\del",
+			"_resolved": "file:output\\del",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b03cba7f1336fea13bb715ead50d8fa4a5752aad",
+				"size": 1124,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.24-alpha.tgz_1467400463858_0.08329445635899901"
+			},
+			"directories": {},
+			"publish_time": 1467400465990,
+			"_cnpm_publish_time": 1467400465990,
+			"_hasShrinkwrap": false
+		},
+		"2.2.23-alpha": {
+			"name": "@types/del",
+			"version": "2.2.23-alpha",
+			"description": "TypeScript definitions for del v2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/del@2.2.23-alpha",
+			"_shasum": "08020c15d786f9eb127031a5090f65970c3a15d6",
+			"_from": "output\\del",
+			"_resolved": "file:output\\del",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "08020c15d786f9eb127031a5090f65970c3a15d6",
+				"size": 1101,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.23-alpha.tgz_1464151493743_0.4037729362025857"
+			},
+			"directories": {},
+			"publish_time": 1464151496263,
+			"_cnpm_publish_time": 1464151496263,
+			"_hasShrinkwrap": false
+		},
+		"2.2.22-alpha": {
+			"name": "@types/del",
+			"version": "2.2.22-alpha",
+			"description": "TypeScript definitions for del v2.2.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/del@2.2.22-alpha",
+			"_shasum": "c1768975e8276f703b72745e8461611eeedaeebe",
+			"_from": "output\\del",
+			"_resolved": "file:output\\del",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c1768975e8276f703b72745e8461611eeedaeebe",
+				"size": 1099,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.22-alpha.tgz_1463772379473_0.9650238449685276"
+			},
+			"directories": {},
+			"publish_time": 1463772381622,
+			"_cnpm_publish_time": 1463772381622,
+			"_hasShrinkwrap": false
+		},
+		"2.2.17-alpha": {
+			"name": "@types/del",
+			"version": "2.2.17-alpha",
+			"description": "Type definitions for del v2.2.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"../glob\"": "*"
+			},
+			"_id": "@types/del@2.2.17-alpha",
+			"_shasum": "cb29e2e59dcda3eed456f5511fcf410e8a8e0bc4",
+			"_from": "output\\del",
+			"_resolved": "file:output\\del",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cb29e2e59dcda3eed456f5511fcf410e8a8e0bc4",
+				"size": 1125,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.17-alpha.tgz_1463690358337_0.7340990046504885"
+			},
+			"directories": {},
+			"publish_time": 1463690361564,
+			"_cnpm_publish_time": 1463690361564,
+			"_hasShrinkwrap": false
+		},
+		"2.2.16-alpha": {
+			"name": "@types/del",
+			"version": "2.2.16-alpha",
+			"description": "Type definitions for del v2.2.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"../glob\"": "*"
+			},
+			"_id": "@types/del@2.2.16-alpha",
+			"_shasum": "2d647c1667e068de175c6705a8655bc50a8c12c4",
+			"_from": "output\\del",
+			"_resolved": "file:output\\del",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2d647c1667e068de175c6705a8655bc50a8c12c4",
+				"size": 1112,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/del/download/@types/del-2.2.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/del-2.2.16-alpha.tgz_1463460318749_0.2533163772895932"
+			},
+			"directories": {},
+			"publish_time": 1463460322210,
+			"_cnpm_publish_time": 1463460322210,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.1",
+		"ts2.0": "3.0.1",
+		"ts2.1": "3.0.1",
+		"ts2.2": "3.0.1",
+		"ts2.3": "3.0.1",
+		"ts2.4": "3.0.1",
+		"ts2.5": "3.0.1",
+		"ts2.6": "3.0.1",
+		"ts2.7": "3.0.1",
+		"ts2.8": "3.0.1",
+		"ts2.9": "3.0.1",
+		"ts3.0": "3.0.1",
+		"ts3.1": "3.0.1",
+		"ts3.2": "3.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:09:36.000Z",
+		"created": "2016-05-17T04:45:22.210Z",
+		"3.0.1": "2018-03-24T21:31:13.562Z",
+		"3.0.0": "2017-08-09T17:37:41.762Z",
+		"2.2.33": "2017-08-09T17:36:36.132Z",
+		"2.2.32": "2017-01-17T05:51:10.647Z",
+		"2.2.31": "2016-09-19T16:36:50.461Z",
+		"2.2.30": "2016-07-14T14:24:30.882Z",
+		"2.2.29-alpha": "2016-07-08T19:59:15.958Z",
+		"2.2.27-alpha": "2016-07-04T00:02:19.007Z",
+		"2.2.26-alpha": "2016-07-02T02:13:43.279Z",
+		"2.2.25-alpha": "2016-07-01T22:33:23.790Z",
+		"2.2.24-alpha": "2016-07-01T19:14:25.990Z",
+		"2.2.23-alpha": "2016-05-25T04:44:56.263Z",
+		"2.2.22-alpha": "2016-05-20T19:26:21.622Z",
+		"2.2.17-alpha": "2016-05-19T20:39:21.564Z",
+		"2.2.16-alpha": "2016-05-17T04:45:22.210Z"
+	},
+	"_distfiles": {
+		"del-3.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-3.0.1.tgz",
+			"sha": "4712da8c119873cbbf533ad8dbf1baac5940ac5d",
+			"registry": "cnpmjs"
+		},
+		"del-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-3.0.0.tgz",
+			"sha": "1c8cd8b6e38da3b572352ca8eaf5527931426288",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.33.tgz",
+			"sha": "3fbe8a1c3d00e85e9674e490a347eb419b1003a1",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.32.tgz",
+			"sha": "4d54df0ed3017435e6b1995df0292957787fc6b2",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.31.tgz",
+			"sha": "afc4a14d5804e23a5055fe2d044b8f467ff48275",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.30.tgz",
+			"sha": "8d57a890c3534b7b85c51348f34666596f92aeff",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.29-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.29-alpha.tgz",
+			"sha": "d3f3abbcc139944a6f2f0cb4f7bd0a5a4d5ff7e5",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.27-alpha.tgz",
+			"sha": "213a6a784b72ee4d12d2051cc9745fb21b04538a",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.26-alpha.tgz",
+			"sha": "af56a954722ae1a2e51762490145f03adb2e4dfa",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.25-alpha.tgz",
+			"sha": "3db88db9bbd5cf8a5a86cf5778686a5e4d05a471",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.24-alpha.tgz",
+			"sha": "b03cba7f1336fea13bb715ead50d8fa4a5752aad",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.23-alpha.tgz",
+			"sha": "08020c15d786f9eb127031a5090f65970c3a15d6",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.22-alpha.tgz",
+			"sha": "c1768975e8276f703b72745e8461611eeedaeebe",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.17-alpha.tgz",
+			"sha": "cb29e2e59dcda3eed456f5511fcf410e8a8e0bc4",
+			"registry": "cnpmjs"
+		},
+		"del-2.2.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/del/download/@types/del-2.2.16-alpha.tgz",
+			"sha": "2d647c1667e068de175c6705a8655bc50a8c12c4",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"4774-Mq9svU/IbEwPDoQYWyJMgNzZWTQ\"",
+			"fetched": 1541833454331
+		}
+	},
+	"_rev": "2-5da63345884040cc",
+	"readme": "# Installation\r\n> `npm install --save @types/del`\r\n\r\n# Summary\r\nThis package contains type definitions for del (https://github.com/sindresorhus/del).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/del\r\n\r\nAdditional Details\r\n * Last updated: Sat, 24 Mar 2018 21:31:01 GMT\r\n * Dependencies: glob\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Asana <https://asana.com>, Aya Morisawa <https://github.com/AyaMorisawa>, BendingBender <https://github.com/BendingBender>, Jason Dreyzehner <https://github.com/bitjson>."
+}

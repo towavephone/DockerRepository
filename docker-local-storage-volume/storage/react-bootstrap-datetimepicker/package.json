@@ -1,0 +1,2018 @@
+{
+	"name": "react-bootstrap-datetimepicker",
+	"versions": {
+		"0.0.22": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.22",
+			"description": "A bootstrap datetime picker component for React.js",
+			"homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
+			"repository": {
+				"type": "git",
+				"url": "git+ssh://git@github.com/quri/react-bootstrap-datetimepicker.git"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "babel --stage 0 ./src -d ./lib --ignore __tests__/*",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test": "jest",
+				"lint": "eslint ."
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.14"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
+				"unmockedModulePathPatterns": [
+					"core-js/.*",
+					"<rootDir>/node_modules/react",
+					"babel",
+					"<rootDir>/node_modules/babel",
+					"<rootDir>/node_modules/react-dom",
+					"<rootDir>/node_modules/react-addons-test-utils",
+					"<rootDir>/node_modules/fbjs"
+				],
+				"setupEnvScriptFile": "<rootDir>/jestEnvironment.js",
+				"testFileExtensions": [
+					"es6",
+					"js"
+				],
+				"moduleFileExtensions": [
+					"js",
+					"json",
+					"es6"
+				],
+				"testPathDirs": [
+					"src/"
+				]
+			},
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-core": "^5.6.17",
+				"babel-eslint": "^3.1.23",
+				"babel-jest": "^5.3.0",
+				"babel-loader": "^5.3.1",
+				"envify": "~3.2.0",
+				"eslint": "^0.24.1",
+				"eslint-plugin-jasmine": "^1.1.0",
+				"eslint-plugin-react": "^2.7.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"html-webpack-plugin": "^1.1.0",
+				"jest-cli": "^0.5.0",
+				"jsx-loader": "^0.12.2",
+				"react": "^0.14.2",
+				"react-addons-test-utils": "^0.14.2",
+				"react-dom": "^0.14.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"babel-runtime": "^5.6.18",
+				"classnames": "^2.1.2",
+				"moment": "^2.8.2"
+			},
+			"gitHead": "17fdec83b6f4c038faca04ee1368d23a405fa4ca",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"_id": "react-bootstrap-datetimepicker@0.0.22",
+			"_shasum": "07e448d993157d049ad0876d0f9a3c9c5029d9c5",
+			"_from": ".",
+			"_npmVersion": "3.3.6",
+			"_nodeVersion": "5.0.0",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "07e448d993157d049ad0876d0f9a3c9c5029d9c5",
+				"size": 11930,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.22.tgz"
+			},
+			"directories": {},
+			"publish_time": 1447293513571,
+			"_cnpm_publish_time": 1447293513571,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.21",
+			"description": "A bootstrap datetime picker component for React.js",
+			"homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
+			"repository": {
+				"type": "git",
+				"url": "git+ssh://git@github.com/quri/react-bootstrap-datetimepicker.git"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "babel --stage 0 ./src -d ./lib --ignore __tests__/*",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test": "jest",
+				"lint": "eslint ."
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
+				"unmockedModulePathPatterns": [
+					"core-js/.*",
+					"<rootDir>/node_modules/react",
+					"babel",
+					"<rootDir>/node_modules/babel"
+				],
+				"setupEnvScriptFile": "<rootDir>/jestEnvironment.js",
+				"testFileExtensions": [
+					"es6",
+					"js"
+				],
+				"moduleFileExtensions": [
+					"js",
+					"json",
+					"es6"
+				],
+				"testPathDirs": [
+					"src/"
+				]
+			},
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-core": "^5.6.17",
+				"babel-eslint": "^3.1.23",
+				"babel-jest": "^5.3.0",
+				"babel-loader": "^5.3.1",
+				"envify": "~3.2.0",
+				"eslint": "^0.24.1",
+				"eslint-plugin-jasmine": "^1.1.0",
+				"eslint-plugin-react": "^2.7.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"html-webpack-plugin": "^1.1.0",
+				"jest-cli": "^0.5.0",
+				"jsx-loader": "^0.12.2",
+				"react": "^0.13.3",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"babel-runtime": "^5.6.18",
+				"classnames": "^2.1.2",
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "521b5dbd67956f20670f7a02006cbc91e45f2227",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"_id": "react-bootstrap-datetimepicker@0.0.21",
+			"_shasum": "d96bcb2e05480df995c9d6249aa9d057cc85ec50",
+			"_from": ".",
+			"_npmVersion": "3.3.3",
+			"_nodeVersion": "4.0.0",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "d96bcb2e05480df995c9d6249aa9d057cc85ec50",
+				"size": 28854,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.21.tgz"
+			},
+			"directories": {},
+			"publish_time": 1444760513656,
+			"_cnpm_publish_time": 1444760513656,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.20": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.20",
+			"description": "A bootstrap datetime picker component for React.js",
+			"homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "babel --stage 0 ./src -d ./lib --ignore __tests__/*",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test": "jest",
+				"lint": "eslint ."
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
+				"unmockedModulePathPatterns": [
+					"core-js/.*",
+					"<rootDir>/node_modules/react",
+					"babel",
+					"<rootDir>/node_modules/babel"
+				],
+				"setupEnvScriptFile": "<rootDir>/jestEnvironment.js",
+				"testFileExtensions": [
+					"es6",
+					"js"
+				],
+				"moduleFileExtensions": [
+					"js",
+					"json",
+					"es6"
+				],
+				"testPathDirs": [
+					"src/"
+				]
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.17",
+				"babel-eslint": "^3.1.23",
+				"babel-jest": "^5.3.0",
+				"babel-loader": "^5.3.1",
+				"envify": "~3.2.0",
+				"eslint": "^0.24.1",
+				"eslint-plugin-jasmine": "^1.1.0",
+				"eslint-plugin-react": "^2.7.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"html-webpack-plugin": "^1.1.0",
+				"jest-cli": "^0.5.0",
+				"jsx-loader": "^0.12.2",
+				"react": "^0.13.3",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"babel-runtime": "^5.6.18",
+				"classnames": "^2.1.2",
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "ced96f4f3abc6411299c32e473a513beb5fee4dd",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"_id": "react-bootstrap-datetimepicker@0.0.20",
+			"_shasum": "b142279d68b63e52c746a7050637ca259dd5cac6",
+			"_from": ".",
+			"_npmVersion": "2.7.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "b142279d68b63e52c746a7050637ca259dd5cac6",
+				"size": 28648,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.20.tgz"
+			},
+			"directories": {},
+			"publish_time": 1441106276448,
+			"_cnpm_publish_time": 1441106276448,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.19": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.19",
+			"description": "A bootstrap datetime picker component for React.js",
+			"homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
+			"repository": {
+				"type": "git",
+				"url": "git+ssh://git@github.com/quri/react-bootstrap-datetimepicker.git"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "babel --stage 0 ./src -d ./lib --ignore __tests__/*",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test": "jest",
+				"lint": "eslint ."
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"jest": {
+				"scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
+				"unmockedModulePathPatterns": [
+					"core-js/.*",
+					"<rootDir>/node_modules/react",
+					"babel",
+					"<rootDir>/node_modules/babel"
+				],
+				"setupEnvScriptFile": "<rootDir>/jestEnvironment.js",
+				"testFileExtensions": [
+					"es6",
+					"js"
+				],
+				"moduleFileExtensions": [
+					"js",
+					"json",
+					"es6"
+				],
+				"testPathDirs": [
+					"src/"
+				]
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.17",
+				"babel-eslint": "^3.1.23",
+				"babel-jest": "^5.3.0",
+				"babel-loader": "^5.3.1",
+				"babel-runtime": "^5.6.18",
+				"envify": "~3.2.0",
+				"eslint": "^0.24.1",
+				"eslint-plugin-jasmine": "^1.1.0",
+				"eslint-plugin-react": "^2.7.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"html-webpack-plugin": "^1.1.0",
+				"jest-cli": "^0.5.0",
+				"jsx-loader": "^0.12.2",
+				"react": "^0.13.3",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"classnames": "^2.1.2",
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "636ceba8100b7d32229afe07b80b28097a92ed95",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"_id": "react-bootstrap-datetimepicker@0.0.19",
+			"_shasum": "9510f68afc8bfc463bc7483ff34ad0cb2ee3d8fb",
+			"_from": ".",
+			"_npmVersion": "2.12.1",
+			"_nodeVersion": "2.3.4",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "9510f68afc8bfc463bc7483ff34ad0cb2ee3d8fb",
+				"size": 28696,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.19.tgz"
+			},
+			"directories": {},
+			"publish_time": 1440628394509,
+			"_cnpm_publish_time": 1440628394509,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.18": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.18",
+			"description": "A bootstrap datetime picker component for React.js",
+			"homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"html-webpack-plugin": "^1.1.0",
+				"jsx-loader": "^0.12.2",
+				"react": ">=0.12",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"classnames": "^2.1.2",
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "1111387b937dc36d15cb3b86bd35eb64fa2ccd77",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"_id": "react-bootstrap-datetimepicker@0.0.18",
+			"_shasum": "7be98afb4ded970617c7811a4c1671d2b64d8885",
+			"_from": ".",
+			"_npmVersion": "2.7.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "7be98afb4ded970617c7811a4c1671d2b64d8885",
+				"size": 24256,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.18.tgz"
+			},
+			"directories": {},
+			"publish_time": 1435871217263,
+			"_cnpm_publish_time": 1435871217263,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.17": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.17",
+			"description": "A bootstrap datetime picker component for React.js",
+			"homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"html-webpack-plugin": "^1.1.0",
+				"jsx-loader": "^0.12.2",
+				"react": ">=0.12",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "8e96cce9309ba4823204e69368c18017eb4c41ce",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"_id": "react-bootstrap-datetimepicker@0.0.17",
+			"_shasum": "ffdbf7a4f7aead3e2e246ffbe73717007a9c06d9",
+			"_from": ".",
+			"_npmVersion": "2.7.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "ffdbf7a4f7aead3e2e246ffbe73717007a9c06d9",
+				"size": 19056,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.17.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432925287173,
+			"_cnpm_publish_time": 1432925287173,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.16": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.16",
+			"description": "A bootstrap datetime picker component for React.js",
+			"homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"html-webpack-plugin": "^1.1.0",
+				"jsx-loader": "^0.12.2",
+				"react": ">=0.12",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "9724243c538eb7374d3c46838d25a8650d1eb311",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"_id": "react-bootstrap-datetimepicker@0.0.16",
+			"_shasum": "0c7039921da1bcac5354b9d36c4d4dd0dcdf2703",
+			"_from": ".",
+			"_npmVersion": "2.7.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "0c7039921da1bcac5354b9d36c4d4dd0dcdf2703",
+				"size": 17279,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.16.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432341101660,
+			"_cnpm_publish_time": 1432341101660,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.15": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.15",
+			"description": "A bootstrap datetime picker component for React.js",
+			"homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"html-webpack-plugin": "^1.1.0",
+				"jsx-loader": "^0.12.2",
+				"react": ">=0.12",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "b4ea2f0d8be5c012d723fccc1154ad0e4ed153e8",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"_id": "react-bootstrap-datetimepicker@0.0.15",
+			"_shasum": "6c816915a1ebb4e0fdb100503e201014ebe98b8b",
+			"_from": ".",
+			"_npmVersion": "2.7.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "6c816915a1ebb4e0fdb100503e201014ebe98b8b",
+				"size": 14180,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.15.tgz"
+			},
+			"directories": {},
+			"publish_time": 1430357965418,
+			"_cnpm_publish_time": 1430357965418,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.14": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.14",
+			"description": "A bootstrap datetime picker component for React.js",
+			"homepage": "http://dev.quri.com/react-bootstrap-datetimepicker/",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"html-webpack-plugin": "^1.1.0",
+				"jsx-loader": "^0.12.2",
+				"react": ">=0.12",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "5476f28412596dae88c22ccd4bc1d07ead0a1da0",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"_id": "react-bootstrap-datetimepicker@0.0.14",
+			"_shasum": "613acb00f853bf89af917f5d43c40baa6ac4ed03",
+			"_from": ".",
+			"_npmVersion": "2.7.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "613acb00f853bf89af917f5d43c40baa6ac4ed03",
+				"size": 18259,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.14.tgz"
+			},
+			"directories": {},
+			"publish_time": 1428857259711,
+			"_cnpm_publish_time": 1428857259711,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.13": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.13",
+			"description": "A bootstrap datetime picker component for React.js",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"jsx-loader": "^0.12.2",
+				"react": ">=0.12",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "e44fda3deabcea28efb4563f90987bb195e2bcc4",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.13",
+			"_shasum": "cd3b5359bf53ef7e3b422365531777834662376a",
+			"_from": ".",
+			"_npmVersion": "2.7.1",
+			"_nodeVersion": "0.12.0",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "cd3b5359bf53ef7e3b422365531777834662376a",
+				"size": 23592,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.13.tgz"
+			},
+			"directories": {},
+			"publish_time": 1428003079444,
+			"_cnpm_publish_time": 1428003079444,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.12": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.12",
+			"description": "A bootstrap datetime picker component for React.js",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"jsx-loader": "^0.12.2",
+				"react": ">=0.12",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "0003dc75b1620184ee5b270f139fc48359cb1d8b",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.12",
+			"_shasum": "effdd8c02f0d66ef278cdcaff358dfb0124cb5b1",
+			"_from": ".",
+			"_npmVersion": "2.1.7",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "effdd8c02f0d66ef278cdcaff358dfb0124cb5b1",
+				"size": 23144,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.12.tgz"
+			},
+			"directories": {},
+			"publish_time": 1426181058050,
+			"_cnpm_publish_time": 1426181058050,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.11": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.11",
+			"description": "A bootstrap datetime picker component for React.js",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12 || 0.13.0-rc2"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"jsx-loader": "^0.12.2",
+				"react": ">=0.12 || 0.13.0-rc2",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "ea055626f48f558d57ea91da37f98a1ca0b88414",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.11",
+			"_shasum": "8d957131a15de7f1b82fa52534130e843a2d7db6",
+			"_from": ".",
+			"_npmVersion": "2.1.7",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "8d957131a15de7f1b82fa52534130e843a2d7db6",
+				"size": 23151,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.11.tgz"
+			},
+			"directories": {},
+			"publish_time": 1425600061650,
+			"_cnpm_publish_time": 1425600061650,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.10": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.10",
+			"description": "A bootstrap datetime picker component for React.js",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12 || 0.13.0-rc2"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"jsx-loader": "^0.12.2",
+				"react": ">=0.12 || 0.13.0-rc2",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.16.1"
+			},
+			"gitHead": "294242410d0b01826d3f9b7d1590ace9f50e26c8",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.10",
+			"_shasum": "8499aa866074b524ec821e1e19240127e77dc44d",
+			"_from": ".",
+			"_npmVersion": "2.1.7",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "8499aa866074b524ec821e1e19240127e77dc44d",
+				"size": 21638,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.10.tgz"
+			},
+			"directories": {},
+			"publish_time": 1425598947791,
+			"_cnpm_publish_time": 1425598947791,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.9": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.9",
+			"description": "A bootstrap datetime picker component for React.js",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"jsx-loader": "^0.12.2",
+				"react": "^0.12.1",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.13.0"
+			},
+			"gitHead": "0b5819fffa3dda2e9efefc20245723f9d6fcfbbf",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.9",
+			"_shasum": "9eec9e3dfa38a7ed8adbd823e5ebecaf1caa13f8",
+			"_from": ".",
+			"_npmVersion": "2.1.7",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "9eec9e3dfa38a7ed8adbd823e5ebecaf1caa13f8",
+				"size": 19769,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.9.tgz"
+			},
+			"directories": {},
+			"publish_time": 1422395112372,
+			"_cnpm_publish_time": 1422395112372,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.8": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.8",
+			"description": "A bootstrap datetime picker component for React.js",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"jsx-loader": "^0.12.2",
+				"react": "^0.12.1",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.13.0"
+			},
+			"gitHead": "b367eb0a983888f7212c056ecd51f976f36883ab",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.8",
+			"_shasum": "2c49835d16f4b7c162f620ca279eba6b2e024e3b",
+			"_from": ".",
+			"_npmVersion": "2.1.7",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "2c49835d16f4b7c162f620ca279eba6b2e024e3b",
+				"size": 17314,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.8.tgz"
+			},
+			"directories": {},
+			"publish_time": 1421721900344,
+			"_cnpm_publish_time": 1421721900344,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.7": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.7",
+			"description": "A bootstrap datetime picker component for React.js",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"jsx-loader": "^0.12.2",
+				"react": "^0.12.1",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.13.0"
+			},
+			"gitHead": "1c8ac8b487c280e6521be55c564b83b2f2f4f210",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.7",
+			"_shasum": "c7d588b8a45859a72e810d3f546cfd739e01853a",
+			"_from": ".",
+			"_npmVersion": "2.1.7",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "c7d588b8a45859a72e810d3f546cfd739e01853a",
+				"size": 17305,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.7.tgz"
+			},
+			"directories": {},
+			"publish_time": 1421721715947,
+			"_cnpm_publish_time": 1421721715947,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.6": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.6",
+			"description": "A bootstrap datetime picker component for React.js",
+			"repository": {
+				"type": "git",
+				"url": "http://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"main": "./lib/DateTimeField.js",
+			"scripts": {
+				"build-npm": "jsx -x jsx ./src/ ./lib/",
+				"build": "NODE_ENV=production webpack --output-file react-bootstrap-datetimepicker.js",
+				"build-min": "NODE_ENV=production COMPRESS=1 webpack --output-file react-bootstrap-datetimepicker.min.js",
+				"examples": "webpack-dev-server --config ./examples/webpack.config.js",
+				"test-watch": "grunt watch 2>&1 >/dev/null & karma start karma.dev.js",
+				"test": "grunt build && karma start karma.ci.js"
+			},
+			"keywords": [
+				"react",
+				"bootstrap",
+				"datetimepicker",
+				"datetime"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"peerDependencies": {
+				"react": ">=0.12"
+			},
+			"devDependencies": {
+				"envify": "~3.2.0",
+				"grunt": "~0.4.2",
+				"grunt-amd-wrap": "^1.0.1",
+				"grunt-browserify": "~1.3.0",
+				"grunt-cli": "~0.1.13",
+				"grunt-contrib-clean": "~0.5.0",
+				"grunt-contrib-copy": "~0.5.0",
+				"grunt-contrib-requirejs": "~0.4.1",
+				"grunt-contrib-uglify": "~0.3.2",
+				"grunt-contrib-watch": "~0.5.3",
+				"grunt-react": "~0.10.0",
+				"grunt-shell": "~0.6.4",
+				"jsx-loader": "^0.12.2",
+				"react": "^0.12.1",
+				"react-tools": "^0.12.2",
+				"requirejs": "~2.1.9",
+				"webpack": "^1.5.1"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.13.0"
+			},
+			"gitHead": "1fcd294ca84a1a97933cf7fe57deeb1507ebe132",
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.6",
+			"_shasum": "63a895dff9e9c37f467d879d9dd1df4d14d91526",
+			"_from": ".",
+			"_npmVersion": "2.1.7",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "63a895dff9e9c37f467d879d9dd1df4d14d91526",
+				"size": 16424,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.6.tgz"
+			},
+			"directories": {},
+			"publish_time": 1421720108967,
+			"_cnpm_publish_time": 1421720108967,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.5",
+			"description": "A bootstrap datetime picker component for React.js",
+			"main": "main.js",
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"peerDependencies": {
+				"react": ">=0.9"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.12.0"
+			},
+			"gitHead": "76aed5c024dda89b8e3681a0bf0c93555cfce79f",
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.5",
+			"scripts": {},
+			"_shasum": "65c127bec54f106c7c9336ebb2fa895c09b32de7",
+			"_from": ".",
+			"_npmVersion": "2.1.7",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "65c127bec54f106c7c9336ebb2fa895c09b32de7",
+				"size": 34227,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.5.tgz"
+			},
+			"directories": {},
+			"publish_time": 1417551475998,
+			"_cnpm_publish_time": 1417551475998,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.4",
+			"description": "A bootstrap datetime picker component for React.js",
+			"main": "main.js",
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"peerDependencies": {
+				"react": ">=0.9"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.12.0"
+			},
+			"gitHead": "b7c5845a75e16f786ea0f735cbe1ee9dfc0c4e6f",
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.4",
+			"scripts": {},
+			"_shasum": "0bae0ae3c0274075bf8e5db6b9012bb3115752ce",
+			"_from": ".",
+			"_npmVersion": "2.1.7",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "0bae0ae3c0274075bf8e5db6b9012bb3115752ce",
+				"size": 34223,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.4.tgz"
+			},
+			"directories": {},
+			"publish_time": 1416974805073,
+			"_cnpm_publish_time": 1416974805073,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.3",
+			"description": "A bootstrap datetime picker component for React.js",
+			"main": "main.js",
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"peerDependencies": {
+				"react": ">=0.9"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.12.0"
+			},
+			"gitHead": "1dfe766524a9fc0fda0c85a6aafb645d6d7d384c",
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.3",
+			"scripts": {},
+			"_shasum": "9048e0612f3722838f623b7e0481eaae99fcf7bc",
+			"_from": ".",
+			"_npmVersion": "1.4.24",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "9048e0612f3722838f623b7e0481eaae99fcf7bc",
+				"size": 7723,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1411145222546,
+			"_cnpm_publish_time": 1411145222546,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "react-bootstrap-datetimepicker",
+			"version": "0.0.2",
+			"description": "A bootstrap datetime picker component for React.js",
+			"main": "main.js",
+			"keywords": [
+				"react",
+				"react-component",
+				"bootstrap",
+				"datetimepicker"
+			],
+			"author": {
+				"name": "Loïc CHOLLIER",
+				"email": "loic@chollier.com"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker"
+			},
+			"bugs": {
+				"url": "https://github.com/quri/react-bootstrap-datetimepicker/issues"
+			},
+			"peerDependencies": {
+				"react": ">=0.9"
+			},
+			"dependencies": {
+				"moment": "^2.8.2",
+				"react-bootstrap": "^0.11.1"
+			},
+			"gitHead": "eb7d12c707fe83fec238657df504ab5526bf0f54",
+			"homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+			"_id": "react-bootstrap-datetimepicker@0.0.2",
+			"scripts": {},
+			"_shasum": "4ad93eddfc3bcbe88736590715a9f7ee30e39244",
+			"_from": ".",
+			"_npmVersion": "1.4.24",
+			"_npmUser": {
+				"name": "chollier",
+				"email": "loic@chollier.com"
+			},
+			"maintainers": [
+				{
+					"name": "chollier",
+					"email": "loic@chollier.com"
+				}
+			],
+			"dist": {
+				"shasum": "4ad93eddfc3bcbe88736590715a9f7ee30e39244",
+				"size": 7722,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1409836798737,
+			"_cnpm_publish_time": 1409836798737,
+			"deprecated": "react-bootstrap-datetimepicker is deprecated, please use react-datetime instead",
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.22"
+	},
+	"time": {
+		"modified": "2017-03-31T13:04:05.000Z",
+		"created": "2014-09-04T13:19:58.737Z",
+		"0.0.22": "2015-11-12T01:58:33.571Z",
+		"0.0.21": "2015-10-13T18:21:53.656Z",
+		"0.0.20": "2015-09-01T11:17:56.448Z",
+		"0.0.19": "2015-08-26T22:33:14.509Z",
+		"0.0.18": "2015-07-02T21:06:57.263Z",
+		"0.0.17": "2015-05-29T18:48:07.173Z",
+		"0.0.16": "2015-05-23T00:31:41.660Z",
+		"0.0.15": "2015-04-30T01:39:25.418Z",
+		"0.0.14": "2015-04-12T16:47:39.711Z",
+		"0.0.13": "2015-04-02T19:31:19.444Z",
+		"0.0.12": "2015-03-12T17:24:18.050Z",
+		"0.0.11": "2015-03-06T00:01:01.650Z",
+		"0.0.10": "2015-03-05T23:42:27.791Z",
+		"0.0.9": "2015-01-27T21:45:12.372Z",
+		"0.0.8": "2015-01-20T02:45:00.344Z",
+		"0.0.7": "2015-01-20T02:41:55.947Z",
+		"0.0.6": "2015-01-20T02:15:08.967Z",
+		"0.0.5": "2014-12-02T20:17:55.998Z",
+		"0.0.4": "2014-11-26T04:06:45.073Z",
+		"0.0.3": "2014-09-19T16:47:02.546Z",
+		"0.0.2": "2014-09-04T13:19:58.737Z"
+	},
+	"_distfiles": {
+		"react-bootstrap-datetimepicker-0.0.22.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.22.tgz",
+			"sha": "07e448d993157d049ad0876d0f9a3c9c5029d9c5",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.21.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.21.tgz",
+			"sha": "d96bcb2e05480df995c9d6249aa9d057cc85ec50",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.20.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.20.tgz",
+			"sha": "b142279d68b63e52c746a7050637ca259dd5cac6",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.19.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.19.tgz",
+			"sha": "9510f68afc8bfc463bc7483ff34ad0cb2ee3d8fb",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.18.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.18.tgz",
+			"sha": "7be98afb4ded970617c7811a4c1671d2b64d8885",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.17.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.17.tgz",
+			"sha": "ffdbf7a4f7aead3e2e246ffbe73717007a9c06d9",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.16.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.16.tgz",
+			"sha": "0c7039921da1bcac5354b9d36c4d4dd0dcdf2703",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.15.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.15.tgz",
+			"sha": "6c816915a1ebb4e0fdb100503e201014ebe98b8b",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.14.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.14.tgz",
+			"sha": "613acb00f853bf89af917f5d43c40baa6ac4ed03",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.13.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.13.tgz",
+			"sha": "cd3b5359bf53ef7e3b422365531777834662376a",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.12.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.12.tgz",
+			"sha": "effdd8c02f0d66ef278cdcaff358dfb0124cb5b1",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.11.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.11.tgz",
+			"sha": "8d957131a15de7f1b82fa52534130e843a2d7db6",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.10.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.10.tgz",
+			"sha": "8499aa866074b524ec821e1e19240127e77dc44d",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.9.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.9.tgz",
+			"sha": "9eec9e3dfa38a7ed8adbd823e5ebecaf1caa13f8",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.8.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.8.tgz",
+			"sha": "2c49835d16f4b7c162f620ca279eba6b2e024e3b",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.7.tgz",
+			"sha": "c7d588b8a45859a72e810d3f546cfd739e01853a",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.6.tgz",
+			"sha": "63a895dff9e9c37f467d879d9dd1df4d14d91526",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.5.tgz",
+			"sha": "65c127bec54f106c7c9336ebb2fa895c09b32de7",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.4.tgz",
+			"sha": "0bae0ae3c0274075bf8e5db6b9012bb3115752ce",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.3.tgz",
+			"sha": "9048e0612f3722838f623b7e0481eaae99fcf7bc",
+			"registry": "cnpmjs"
+		},
+		"react-bootstrap-datetimepicker-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/react-bootstrap-datetimepicker/download/react-bootstrap-datetimepicker-0.0.2.tgz",
+			"sha": "4ad93eddfc3bcbe88736590715a9f7ee30e39244",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"c9d5-H+SbCkSoRmG0eTXGiySK34Qz/JA\"",
+			"fetched": 1527747701169
+		}
+	},
+	"_rev": "11-2f2a198bef6735d6",
+	"readme": "react-bootstrap-datetimepicker\n===============================\n\nThis project is a port of https://github.com/Eonasdan/bootstrap-datetimepicker for React.js\n\nUsage\n===============================\n\nInstallation :\n```\nnpm install react-bootstrap-datetimepicker\n```\n\nThen\n```javascript\nvar DateTimeField = require('react-bootstrap-datetimepicker');\n\n...\n\nrender: function() {\n  return <DateTimeField />;\n}\n```\nSee [Examples](examples/) for more details.\n\nAPI\n===============================\n\nDateTimeField\n========\n\n| Name         | Type    | Default | Description |\n| ------------ | ------- | ------- | ----------- |\n| **dateTime** | string  | moment().format('x') | Represents the inital dateTime, this string is then parsed by moment.js |\n| **format**   | string  | \"x\"     | Defines the format moment.js should use to parse and output the date to onChange |\n| **inputFormat** | string | \"MM/DD/YY h:mm A\" | Defines the way the date is represented in the HTML input |\n| **onChange** | function | x => console.log(x) | Callback trigger when the date changes. `x` is the new datetime value. |\n| **showToday** | boolean | true | Highlights today's date |\n| **size** | string | \"md\" | Changes the size of the date picker input field. Sizes: \"sm\", \"md\", \"lg\" |\n| **daysOfWeekDisabled** | array of integer | [] | Disables clicking on some days. Goes from 0 (Sunday) to 6 (Saturday). |\n| **viewMode** | string or number | 'days' | The default view to display when the picker is shown. ('years', 'months', 'days') |\n| **inputProps** | object | undefined | Defines additional attributes for the input element of the component. |\n| **minDate** | moment | undefined | The earliest date allowed for entry in the calendar view. |\n| **maxDate** | moment | undefined | The latest date allowed for entry in the calendar view. |\n| **mode** | string | undefined | Allows to selectively display only the time picker ('time') or the date picker ('date') |\n| **defaultText** | string | {dateTime} | Sets the initial value. Could be an empty string, or helper text. |\n\nUpdate Warning\n===============================\nStarting from 0.0.6, the 3 github repositories `react-bootstrap-datetimepicker`, `react-bootstrap-datetimepicker-npm` and `react-bootstrap-datetimepicker-bower` are merged in a single one. The build process changed but the API is the same.\nHowever now the package exports DateTimeField directly, no need to do :\n```javascript\nvar DateTimeField = require('react-bootstrap-datetimepicker').DateTimeField;\n```\ninstead use :\n```javascript\nvar DateTimeField = require('react-bootstrap-datetimepicker');\n```\n\nContributions\n===============================\nThere is still plenty of features missing compared to the original date time picker, hence contributions would be highly appreciated."
+}

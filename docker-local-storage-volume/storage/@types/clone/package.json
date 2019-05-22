@@ -1,0 +1,606 @@
+{
+	"name": "@types/clone",
+	"versions": {
+		"0.1.30": {
+			"name": "@types/clone",
+			"version": "0.1.30",
+			"description": "TypeScript definitions for clone 0.1.11",
+			"license": "MIT",
+			"author": "Kieran Simpson <https://github.com/kierans/DefinitelyTyped>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "29fd82aa066f07307712c9ce140436aba20b3bfbe9bf8f702f359c230c481f03",
+			"_id": "@types/clone@0.1.30",
+			"dist": {
+				"shasum": "e7365648c1b42136a59c7d5040637b3b5c83b614",
+				"size": 1274,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.30.tgz_1474302779175_0.7775814738124609"
+			},
+			"directories": {},
+			"publish_time": 1474302781115,
+			"_cnpm_publish_time": 1474302781115,
+			"_hasShrinkwrap": false
+		},
+		"0.1.29": {
+			"name": "@types/clone",
+			"version": "0.1.29",
+			"description": "TypeScript definitions for clone 0.1.11",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Kieran Simpson",
+				"email": "https://github.com/kierans/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clone@0.1.29",
+			"_shasum": "65a0be88189ffddcd373e450aa6b68c9c83218b7",
+			"_from": "output\\clone",
+			"_resolved": "file:output\\clone",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "65a0be88189ffddcd373e450aa6b68c9c83218b7",
+				"size": 1253,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.29.tgz_1468505828685_0.3918754083570093"
+			},
+			"directories": {},
+			"publish_time": 1468505830850,
+			"_cnpm_publish_time": 1468505830850,
+			"_hasShrinkwrap": false
+		},
+		"0.1.28-alpha": {
+			"name": "@types/clone",
+			"version": "0.1.28-alpha",
+			"description": "TypeScript definitions for clone 0.1.11",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Kieran Simpson",
+				"email": "https://github.com/kierans/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clone@0.1.28-alpha",
+			"_shasum": "1897bf1b7c4785e3f84293f100b4ff7630aa14fa",
+			"_from": "output\\clone",
+			"_resolved": "file:output\\clone",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1897bf1b7c4785e3f84293f100b4ff7630aa14fa",
+				"size": 1257,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.28-alpha.tgz_1468007474128_0.2384385927580297"
+			},
+			"directories": {},
+			"publish_time": 1468007475515,
+			"_cnpm_publish_time": 1468007475515,
+			"_hasShrinkwrap": false
+		},
+		"0.1.27-alpha": {
+			"name": "@types/clone",
+			"version": "0.1.27-alpha",
+			"description": "TypeScript definitions for clone 0.1.11",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Kieran Simpson",
+				"email": "https://github.com/kierans/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clone@0.1.27-alpha",
+			"_shasum": "6d93b0fbb054e4e2379f47ae820732818bda4aa2",
+			"_from": "output\\clone",
+			"_resolved": "file:output\\clone",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6d93b0fbb054e4e2379f47ae820732818bda4aa2",
+				"size": 1255,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.27-alpha.tgz_1467590418601_0.7243966681417078"
+			},
+			"directories": {},
+			"publish_time": 1467590419127,
+			"_cnpm_publish_time": 1467590419127,
+			"_hasShrinkwrap": false
+		},
+		"0.1.26-alpha": {
+			"name": "@types/clone",
+			"version": "0.1.26-alpha",
+			"description": "TypeScript definitions for clone 0.1.11",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Kieran Simpson",
+				"email": "https://github.com/kierans/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clone@0.1.26-alpha",
+			"_shasum": "dd2dcf854a41282d1c04c020147e2267c11b9904",
+			"_from": "output\\clone",
+			"_resolved": "file:output\\clone",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dd2dcf854a41282d1c04c020147e2267c11b9904",
+				"size": 1257,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.26-alpha.tgz_1467425308133_0.5790591372642666"
+			},
+			"directories": {},
+			"publish_time": 1467425308711,
+			"_cnpm_publish_time": 1467425308711,
+			"_hasShrinkwrap": false
+		},
+		"0.1.25-alpha": {
+			"name": "@types/clone",
+			"version": "0.1.25-alpha",
+			"description": "TypeScript definitions for clone 0.1.11",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Kieran Simpson",
+				"email": "https://github.com/kierans/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clone@0.1.25-alpha",
+			"_shasum": "a73768ff3ed13b12d27670d9debb66c0cc81de54",
+			"_from": "output\\clone",
+			"_resolved": "file:output\\clone",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a73768ff3ed13b12d27670d9debb66c0cc81de54",
+				"size": 1255,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.25-alpha.tgz_1467412176349_0.9058316643349826"
+			},
+			"directories": {},
+			"publish_time": 1467412179959,
+			"_cnpm_publish_time": 1467412179959,
+			"_hasShrinkwrap": false
+		},
+		"0.1.24-alpha": {
+			"name": "@types/clone",
+			"version": "0.1.24-alpha",
+			"description": "TypeScript definitions for clone 0.1.11",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Kieran Simpson",
+				"email": "https://github.com/kierans/DefinitelyTyped"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clone@0.1.24-alpha",
+			"_shasum": "71111878e144e801114334377ff525cb50f37c48",
+			"_from": "output\\clone",
+			"_resolved": "file:output\\clone",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "71111878e144e801114334377ff525cb50f37c48",
+				"size": 1254,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.24-alpha.tgz_1467399716435_0.3763869716785848"
+			},
+			"directories": {},
+			"publish_time": 1467399719980,
+			"_cnpm_publish_time": 1467399719980,
+			"_hasShrinkwrap": false
+		},
+		"0.1.23-alpha": {
+			"name": "@types/clone",
+			"version": "0.1.23-alpha",
+			"description": "TypeScript definitions for clone 0.1.11",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Kieran Simpson",
+				"email": "https://github.com/kierans/DefinitelyTyped"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clone@0.1.23-alpha",
+			"_shasum": "bf17b2e1cc84e358a9bb5d2c2851c6eb5d12d5c5",
+			"_from": "output\\clone",
+			"_resolved": "file:output\\clone",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bf17b2e1cc84e358a9bb5d2c2851c6eb5d12d5c5",
+				"size": 1226,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.23-alpha.tgz_1464151102205_0.20481873420067132"
+			},
+			"directories": {},
+			"publish_time": 1464151104671,
+			"_cnpm_publish_time": 1464151104671,
+			"_hasShrinkwrap": false
+		},
+		"0.1.22-alpha": {
+			"name": "@types/clone",
+			"version": "0.1.22-alpha",
+			"description": "TypeScript definitions for clone 0.1.11",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Kieran Simpson",
+				"email": "https://github.com/kierans/DefinitelyTyped"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clone@0.1.22-alpha",
+			"_shasum": "3a3b6e1207b9f2d9bfaad947d06b151654453665",
+			"_from": "output\\clone",
+			"_resolved": "file:output\\clone",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3a3b6e1207b9f2d9bfaad947d06b151654453665",
+				"size": 1225,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.22-alpha.tgz_1463772012576_0.9452337166294456"
+			},
+			"directories": {},
+			"publish_time": 1463772013544,
+			"_cnpm_publish_time": 1463772013544,
+			"_hasShrinkwrap": false
+		},
+		"0.1.17-alpha": {
+			"name": "@types/clone",
+			"version": "0.1.17-alpha",
+			"description": "Type definitions for clone 0.1.11 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Kieran Simpson",
+				"email": "https://github.com/kierans/DefinitelyTyped"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clone@0.1.17-alpha",
+			"_shasum": "138fe72869c9aa0fb150eb67558900fc61184d56",
+			"_from": "output\\clone",
+			"_resolved": "file:output\\clone",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "138fe72869c9aa0fb150eb67558900fc61184d56",
+				"size": 1233,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.17-alpha.tgz_1463689810600_0.5367426150478423"
+			},
+			"directories": {},
+			"publish_time": 1463689815470,
+			"_cnpm_publish_time": 1463689815470,
+			"_hasShrinkwrap": false
+		},
+		"0.1.16-alpha": {
+			"name": "@types/clone",
+			"version": "0.1.16-alpha",
+			"description": "Type definitions for clone 0.1.11 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Kieran Simpson",
+				"email": "https://github.com/kierans/DefinitelyTyped"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/clone@0.1.16-alpha",
+			"_shasum": "5ed50bc4a1dd2016dd6f03673a2fffc7624ac7be",
+			"_from": "output\\clone",
+			"_resolved": "file:output\\clone",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5ed50bc4a1dd2016dd6f03673a2fffc7624ac7be",
+				"size": 1224,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/clone-0.1.16-alpha.tgz_1463459912084_0.128535513067618"
+			},
+			"directories": {},
+			"publish_time": 1463459912698,
+			"_cnpm_publish_time": 1463459912698,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.1.30",
+		"ts2.0": "0.1.30",
+		"ts2.1": "0.1.30",
+		"ts2.2": "0.1.30",
+		"ts2.3": "0.1.30",
+		"ts2.4": "0.1.30",
+		"ts2.5": "0.1.30",
+		"ts2.6": "0.1.30",
+		"ts2.7": "0.1.30",
+		"ts2.8": "0.1.30",
+		"ts2.9": "0.1.30",
+		"ts3.0": "0.1.30",
+		"ts3.1": "0.1.30",
+		"ts3.2": "0.1.30"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:43.000Z",
+		"created": "2016-05-17T04:38:32.698Z",
+		"0.1.30": "2016-09-19T16:33:01.115Z",
+		"0.1.29": "2016-07-14T14:17:10.850Z",
+		"0.1.28-alpha": "2016-07-08T19:51:15.515Z",
+		"0.1.27-alpha": "2016-07-04T00:00:19.127Z",
+		"0.1.26-alpha": "2016-07-02T02:08:28.711Z",
+		"0.1.25-alpha": "2016-07-01T22:29:39.959Z",
+		"0.1.24-alpha": "2016-07-01T19:01:59.980Z",
+		"0.1.23-alpha": "2016-05-25T04:38:24.671Z",
+		"0.1.22-alpha": "2016-05-20T19:20:13.544Z",
+		"0.1.17-alpha": "2016-05-19T20:30:15.470Z",
+		"0.1.16-alpha": "2016-05-17T04:38:32.698Z"
+	},
+	"_distfiles": {
+		"clone-0.1.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.30.tgz",
+			"sha": "e7365648c1b42136a59c7d5040637b3b5c83b614",
+			"registry": "cnpmjs"
+		},
+		"clone-0.1.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.29.tgz",
+			"sha": "65a0be88189ffddcd373e450aa6b68c9c83218b7",
+			"registry": "cnpmjs"
+		},
+		"clone-0.1.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.28-alpha.tgz",
+			"sha": "1897bf1b7c4785e3f84293f100b4ff7630aa14fa",
+			"registry": "cnpmjs"
+		},
+		"clone-0.1.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.27-alpha.tgz",
+			"sha": "6d93b0fbb054e4e2379f47ae820732818bda4aa2",
+			"registry": "cnpmjs"
+		},
+		"clone-0.1.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.26-alpha.tgz",
+			"sha": "dd2dcf854a41282d1c04c020147e2267c11b9904",
+			"registry": "cnpmjs"
+		},
+		"clone-0.1.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.25-alpha.tgz",
+			"sha": "a73768ff3ed13b12d27670d9debb66c0cc81de54",
+			"registry": "cnpmjs"
+		},
+		"clone-0.1.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.24-alpha.tgz",
+			"sha": "71111878e144e801114334377ff525cb50f37c48",
+			"registry": "cnpmjs"
+		},
+		"clone-0.1.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.23-alpha.tgz",
+			"sha": "bf17b2e1cc84e358a9bb5d2c2851c6eb5d12d5c5",
+			"registry": "cnpmjs"
+		},
+		"clone-0.1.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.22-alpha.tgz",
+			"sha": "3a3b6e1207b9f2d9bfaad947d06b151654453665",
+			"registry": "cnpmjs"
+		},
+		"clone-0.1.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.17-alpha.tgz",
+			"sha": "138fe72869c9aa0fb150eb67558900fc61184d56",
+			"registry": "cnpmjs"
+		},
+		"clone-0.1.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/clone/download/@types/clone-0.1.16-alpha.tgz",
+			"sha": "5ed50bc4a1dd2016dd6f03673a2fffc7624ac7be",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833453157
+		}
+	},
+	"_rev": "2-aab6ae91983d3ef1",
+	"readme": "# Installation\r\n> `npm install --save @types/clone`\r\n\r\n# Summary\r\nThis package contains type definitions for clone 0.1.11 (https://github.com/pvorb/node-clone).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/clone\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 16:15:23 GMT\r\n * File structure: ProperModule\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: clone\r\n\r\n# Credits\r\nThese definitions were written by Kieran Simpson <https://github.com/kierans/DefinitelyTyped>."
+}

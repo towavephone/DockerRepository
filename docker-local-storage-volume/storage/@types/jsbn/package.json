@@ -1,0 +1,665 @@
+{
+	"name": "@types/jsbn",
+	"versions": {
+		"1.2.29": {
+			"name": "@types/jsbn",
+			"version": "1.2.29",
+			"description": "TypeScript definitions for jsbn",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Eugene Chernyshov",
+					"url": "https://github.com/Evgenus",
+					"githubUsername": "Evgenus"
+				},
+				{
+					"name": "Al Tabayoyon",
+					"url": "https://github.com/al2xed",
+					"githubUsername": "al2xed"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "6af56f4e21ce7566c030d805e0c887e9e3c5988f83e860c205f51f0721ae9d5a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/jsbn@1.2.29",
+			"dist": {
+				"shasum": "28229bc0262c704a1506c3ed69a7d7e115bd7832",
+				"size": 3210,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/jsbn-1.2.29.tgz_1509773707766_0.6304245030041784"
+			},
+			"directories": {},
+			"publish_time": 1509773707826,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509773707826
+		},
+		"1.2.28": {
+			"name": "@types/jsbn",
+			"version": "1.2.28",
+			"description": "TypeScript definitions for jsbn v1.2",
+			"license": "MIT",
+			"author": "Eugene Chernyshov <https://github.com/Evgenus>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "4b357b9aba1f0edc962614407f18722ef66482c4fe430c2d94d3ca1264cb7105",
+			"_id": "@types/jsbn@1.2.28",
+			"dist": {
+				"shasum": "f96dc7422470ac2c2a8f57ade5faac69225c2d23",
+				"size": 2683,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.28.tgz_1474307063742_0.24672999768517911"
+			},
+			"directories": {},
+			"publish_time": 1474307066981,
+			"_cnpm_publish_time": 1474307066981,
+			"_hasShrinkwrap": false
+		},
+		"1.2.27": {
+			"name": "@types/jsbn",
+			"version": "1.2.27",
+			"description": "TypeScript definitions for jsbn v1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Eugene Chernyshov",
+				"email": "https://github.com/Evgenus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsbn@1.2.27",
+			"_shasum": "c3b6536886ecbf1fc8e14029b18bec3795f9d896",
+			"_from": "output\\jsbn",
+			"_resolved": "file:output\\jsbn",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c3b6536886ecbf1fc8e14029b18bec3795f9d896",
+				"size": 2672,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.27.tgz_1468508908547_0.060012698639184237"
+			},
+			"directories": {},
+			"publish_time": 1468508910814,
+			"_cnpm_publish_time": 1468508910814,
+			"_hasShrinkwrap": false
+		},
+		"1.2.26-alpha": {
+			"name": "@types/jsbn",
+			"version": "1.2.26-alpha",
+			"description": "TypeScript definitions for jsbn v1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Eugene Chernyshov",
+				"email": "https://github.com/Evgenus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsbn@1.2.26-alpha",
+			"_shasum": "889772b286d19569ff95d13df7dd85f4b05b531a",
+			"_from": "output\\jsbn",
+			"_resolved": "file:output\\jsbn",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "889772b286d19569ff95d13df7dd85f4b05b531a",
+				"size": 2674,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.26-alpha.tgz_1468010310412_0.8530524540692568"
+			},
+			"directories": {},
+			"publish_time": 1468010313043,
+			"_cnpm_publish_time": 1468010313043,
+			"_hasShrinkwrap": false
+		},
+		"1.2.25-alpha": {
+			"name": "@types/jsbn",
+			"version": "1.2.25-alpha",
+			"description": "TypeScript definitions for jsbn v1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Eugene Chernyshov",
+				"email": "https://github.com/Evgenus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsbn@1.2.25-alpha",
+			"_shasum": "947a631a089cb318286e64638c5f0a762f262c69",
+			"_from": "output\\jsbn",
+			"_resolved": "file:output\\jsbn",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "947a631a089cb318286e64638c5f0a762f262c69",
+				"size": 2673,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.25-alpha.tgz_1467592781589_0.44381377869285643"
+			},
+			"directories": {},
+			"publish_time": 1467592785011,
+			"_cnpm_publish_time": 1467592785011,
+			"_hasShrinkwrap": false
+		},
+		"1.2.24-alpha": {
+			"name": "@types/jsbn",
+			"version": "1.2.24-alpha",
+			"description": "TypeScript definitions for jsbn v1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Eugene Chernyshov",
+				"email": "https://github.com/Evgenus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsbn@1.2.24-alpha",
+			"_shasum": "40764805a6bdfb3338e92ec7c5aabefc86e77a63",
+			"_from": "output\\jsbn",
+			"_resolved": "file:output\\jsbn",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "40764805a6bdfb3338e92ec7c5aabefc86e77a63",
+				"size": 2676,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.24-alpha.tgz_1467427608204_0.9933911212719977"
+			},
+			"directories": {},
+			"publish_time": 1467427611647,
+			"_cnpm_publish_time": 1467427611647,
+			"_hasShrinkwrap": false
+		},
+		"1.2.23-alpha": {
+			"name": "@types/jsbn",
+			"version": "1.2.23-alpha",
+			"description": "TypeScript definitions for jsbn v1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Eugene Chernyshov",
+				"email": "https://github.com/Evgenus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsbn@1.2.23-alpha",
+			"_shasum": "87a1dd853c6fdbecf17053bdaee929e68c8f9356",
+			"_from": "output\\jsbn",
+			"_resolved": "file:output\\jsbn",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "87a1dd853c6fdbecf17053bdaee929e68c8f9356",
+				"size": 2675,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.23-alpha.tgz_1467414833157_0.8428834588266909"
+			},
+			"directories": {},
+			"publish_time": 1467414836631,
+			"_cnpm_publish_time": 1467414836631,
+			"_hasShrinkwrap": false
+		},
+		"1.2.22-alpha": {
+			"name": "@types/jsbn",
+			"version": "1.2.22-alpha",
+			"description": "TypeScript definitions for jsbn v1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Eugene Chernyshov",
+				"email": "https://github.com/Evgenus"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsbn@1.2.22-alpha",
+			"_shasum": "bbbcf947a8f77e844e8d5c2dbf1154b0150be252",
+			"_from": "output\\jsbn",
+			"_resolved": "file:output\\jsbn",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bbbcf947a8f77e844e8d5c2dbf1154b0150be252",
+				"size": 2663,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.22-alpha.tgz_1467402591993_0.00693030608817935"
+			},
+			"directories": {},
+			"publish_time": 1467402592506,
+			"_cnpm_publish_time": 1467402592506,
+			"_hasShrinkwrap": false
+		},
+		"1.2.21-alpha": {
+			"name": "@types/jsbn",
+			"version": "1.2.21-alpha",
+			"description": "TypeScript definitions for jsbn v1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Eugene Chernyshov",
+				"email": "https://github.com/Evgenus"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsbn@1.2.21-alpha",
+			"_shasum": "fb4e53e32de44f7c7e46b62be356b89129f45bbf",
+			"_from": "output\\jsbn",
+			"_resolved": "file:output\\jsbn",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fb4e53e32de44f7c7e46b62be356b89129f45bbf",
+				"size": 2643,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.21-alpha.tgz_1464153432983_0.28456377517431974"
+			},
+			"directories": {},
+			"publish_time": 1464153433431,
+			"_cnpm_publish_time": 1464153433431,
+			"_hasShrinkwrap": false
+		},
+		"1.2.20-alpha": {
+			"name": "@types/jsbn",
+			"version": "1.2.20-alpha",
+			"description": "TypeScript definitions for jsbn v1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Eugene Chernyshov",
+				"email": "https://github.com/Evgenus"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsbn@1.2.20-alpha",
+			"_shasum": "9a320e180931ef39f611d049cd89bfc8a147ea5c",
+			"_from": "output\\jsbn",
+			"_resolved": "file:output\\jsbn",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9a320e180931ef39f611d049cd89bfc8a147ea5c",
+				"size": 2647,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.20-alpha.tgz_1463774334485_0.3365302309393883"
+			},
+			"directories": {},
+			"publish_time": 1463774335484,
+			"_cnpm_publish_time": 1463774335484,
+			"_hasShrinkwrap": false
+		},
+		"1.2.15-alpha": {
+			"name": "@types/jsbn",
+			"version": "1.2.15-alpha",
+			"description": "Type definitions for jsbn v1.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Eugene Chernyshov",
+				"email": "https://github.com/Evgenus"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsbn@1.2.15-alpha",
+			"_shasum": "128db58e4f2584c6b57f33610fafe6fe279aab14",
+			"_from": "output\\jsbn",
+			"_resolved": "file:output\\jsbn",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "128db58e4f2584c6b57f33610fafe6fe279aab14",
+				"size": 2651,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.15-alpha.tgz_1463693217040_0.7420302082318813"
+			},
+			"directories": {},
+			"publish_time": 1463693217766,
+			"_cnpm_publish_time": 1463693217766,
+			"_hasShrinkwrap": false
+		},
+		"1.2.14-alpha": {
+			"name": "@types/jsbn",
+			"version": "1.2.14-alpha",
+			"description": "Type definitions for jsbn v1.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Eugene Chernyshov",
+				"email": "https://github.com/Evgenus"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/jsbn@1.2.14-alpha",
+			"_shasum": "104337d102001814ff0d1c66d20f853b1680b174",
+			"_from": "output\\jsbn",
+			"_resolved": "file:output\\jsbn",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "104337d102001814ff0d1c66d20f853b1680b174",
+				"size": 2647,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/jsbn-1.2.14-alpha.tgz_1463462658509_0.11799065372906625"
+			},
+			"directories": {},
+			"publish_time": 1463462662158,
+			"_cnpm_publish_time": 1463462662158,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.29",
+		"ts2.0": "1.2.29",
+		"ts2.1": "1.2.29",
+		"ts2.2": "1.2.29",
+		"ts2.3": "1.2.29",
+		"ts2.4": "1.2.29",
+		"ts2.5": "1.2.29",
+		"ts2.6": "1.2.29",
+		"ts2.7": "1.2.29",
+		"ts2.8": "1.2.29",
+		"ts2.9": "1.2.29",
+		"ts3.0": "1.2.29",
+		"ts3.1": "1.2.29",
+		"ts3.2": "1.2.29"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:51.000Z",
+		"created": "2016-05-17T05:24:22.158Z",
+		"1.2.29": "2017-11-04T05:35:07.826Z",
+		"1.2.28": "2016-09-19T17:44:26.981Z",
+		"1.2.27": "2016-07-14T15:08:30.814Z",
+		"1.2.26-alpha": "2016-07-08T20:38:33.043Z",
+		"1.2.25-alpha": "2016-07-04T00:39:45.011Z",
+		"1.2.24-alpha": "2016-07-02T02:46:51.647Z",
+		"1.2.23-alpha": "2016-07-01T23:13:56.631Z",
+		"1.2.22-alpha": "2016-07-01T19:49:52.506Z",
+		"1.2.21-alpha": "2016-05-25T05:17:13.431Z",
+		"1.2.20-alpha": "2016-05-20T19:58:55.484Z",
+		"1.2.15-alpha": "2016-05-19T21:26:57.766Z",
+		"1.2.14-alpha": "2016-05-17T05:24:22.158Z"
+	},
+	"_distfiles": {
+		"jsbn-1.2.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.29.tgz",
+			"sha": "28229bc0262c704a1506c3ed69a7d7e115bd7832",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.28.tgz",
+			"sha": "f96dc7422470ac2c2a8f57ade5faac69225c2d23",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.27.tgz",
+			"sha": "c3b6536886ecbf1fc8e14029b18bec3795f9d896",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.26-alpha.tgz",
+			"sha": "889772b286d19569ff95d13df7dd85f4b05b531a",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.25-alpha.tgz",
+			"sha": "947a631a089cb318286e64638c5f0a762f262c69",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.24-alpha.tgz",
+			"sha": "40764805a6bdfb3338e92ec7c5aabefc86e77a63",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.23-alpha.tgz",
+			"sha": "87a1dd853c6fdbecf17053bdaee929e68c8f9356",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.22-alpha.tgz",
+			"sha": "bbbcf947a8f77e844e8d5c2dbf1154b0150be252",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.21-alpha.tgz",
+			"sha": "fb4e53e32de44f7c7e46b62be356b89129f45bbf",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.20-alpha.tgz",
+			"sha": "9a320e180931ef39f611d049cd89bfc8a147ea5c",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.15-alpha.tgz",
+			"sha": "128db58e4f2584c6b57f33610fafe6fe279aab14",
+			"registry": "cnpmjs"
+		},
+		"jsbn-1.2.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/jsbn/download/@types/jsbn-1.2.14-alpha.tgz",
+			"sha": "104337d102001814ff0d1c66d20f853b1680b174",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"39c6-yPXlVpYwuUViX7qqzCpMrdaXoeg\"",
+			"fetched": 1541833458088
+		}
+	},
+	"_rev": "2-ec8a45700eb2b884",
+	"readme": "# Installation\r\n> `npm install --save @types/jsbn`\r\n\r\n# Summary\r\nThis package contains type definitions for jsbn (http://www-cs-students.stanford.edu/%7Etjw/jsbn/).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/jsbn\r\n\r\nAdditional Details\r\n * Last updated: Sat, 04 Nov 2017 05:34:19 GMT\r\n * Dependencies: none\r\n * Global values: jsbn\r\n\r\n# Credits\r\nThese definitions were written by Eugene Chernyshov <https://github.com/Evgenus>, Al Tabayoyon <https://github.com/al2xed>."
+}

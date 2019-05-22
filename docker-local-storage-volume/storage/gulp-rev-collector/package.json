@@ -1,0 +1,2329 @@
+{
+	"name": "gulp-rev-collector",
+	"versions": {
+		"1.3.1": {
+			"name": "gulp-rev-collector",
+			"version": "1.3.1",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"plugin-error": "^1.0.1",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0",
+				"vinyl": "^2.1.0"
+			},
+			"devDependencies": {
+				"lodash.isequal": "^4.4.0",
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "3555cf90a2bbc81e034bcba068d8aad567b135e4",
+			"_id": "gulp-rev-collector@1.3.1",
+			"_shasum": "a7040c7c9a08d33ac9b76d33de219badba4a5189",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.10.1",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"dist": {
+				"shasum": "a7040c7c9a08d33ac9b76d33de219badba4a5189",
+				"size": 4541,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-rev-collector_1.3.1_1523014853531_0.5107982770043908"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523014853610,
+			"_cnpm_publish_time": 1523014853610
+		},
+		"1.3.0": {
+			"name": "gulp-rev-collector",
+			"version": "1.3.0",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"plugin-error": "^0.1.2",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0",
+				"vinyl": "^2.1.0"
+			},
+			"devDependencies": {
+				"lodash.isequal": "^4.4.0",
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "1ff5e7a391577ad833f0f8a3de327df821e082f3",
+			"_id": "gulp-rev-collector@1.3.0",
+			"_shasum": "cb6030de027cb5b322617fb8a03f823b821b26ff",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.10.1",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"dist": {
+				"shasum": "cb6030de027cb5b322617fb8a03f823b821b26ff",
+				"size": 4544,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-rev-collector_1.3.0_1523007391890_0.8771721539761661"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523007391949,
+			"_cnpm_publish_time": 1523007391949
+		},
+		"1.2.4": {
+			"name": "gulp-rev-collector",
+			"version": "1.2.4",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"plugin-error": "^0.1.2",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0",
+				"vinyl": "^2.1.0"
+			},
+			"devDependencies": {
+				"lodash.isequal": "^4.4.0",
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "b5a11c4f9533203973416cea88511000653bab82",
+			"_id": "gulp-rev-collector@1.2.4",
+			"_shasum": "980767e1ee3fa67de0db7e2af57d32b91c2921e5",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.10.1",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"dist": {
+				"shasum": "980767e1ee3fa67de0db7e2af57d32b91c2921e5",
+				"size": 4487,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.2.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-rev-collector-1.2.4.tgz_1515170503351_0.092878702795133"
+			},
+			"directories": {},
+			"publish_time": 1515170503429,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515170503429
+		},
+		"1.2.3": {
+			"name": "gulp-rev-collector",
+			"version": "1.2.3",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"lodash.isequal": "^4.4.0",
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "d108f13e40913686c21eaea79717e64ab53c36ae",
+			"_id": "gulp-rev-collector@1.2.3",
+			"_shasum": "53597b5cb83061cdf20deb45002e4042288ecdf3",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.10.0",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"dist": {
+				"shasum": "53597b5cb83061cdf20deb45002e4042288ecdf3",
+				"size": 4473,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.2.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-rev-collector-1.2.3.tgz_1510590438391_0.9303682760801166"
+			},
+			"directories": {},
+			"publish_time": 1510590439410,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510590439410
+		},
+		"1.2.2": {
+			"name": "gulp-rev-collector",
+			"version": "1.2.2",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"lodash.isequal": "^4.4.0",
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "8c9c7633c891f64bc07507320961945ed4dae714",
+			"_id": "gulp-rev-collector@1.2.2",
+			"_shasum": "90da1ad3d22e788bca31f7796ad28c1d28efd0fb",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.7.4",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"dist": {
+				"shasum": "90da1ad3d22e788bca31f7796ad28c1d28efd0fb",
+				"size": 4471,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-rev-collector-1.2.2.tgz_1495808377551_0.14177261805161834"
+			},
+			"directories": {},
+			"publish_time": 1495808378476,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1495808378476
+		},
+		"1.2.1": {
+			"name": "gulp-rev-collector",
+			"version": "1.2.1",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"lodash.isequal": "^4.4.0",
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "2c67c66d328a1565882b23a1664e96f5ad3b7e78",
+			"_id": "gulp-rev-collector@1.2.1",
+			"_shasum": "659161dc7ad3f49143af012bd661cd3b0c566196",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.7.4",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"dist": {
+				"shasum": "659161dc7ad3f49143af012bd661cd3b0c566196",
+				"size": 4359,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-collector-1.2.1.tgz_1494668440078_0.2646682905033231"
+			},
+			"directories": {},
+			"publish_time": 1494668441391,
+			"_cnpm_publish_time": 1494668441391,
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "gulp-rev-collector",
+			"version": "1.2.0",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"lodash.isequal": "^4.4.0",
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "96da196f0d83377defdbaa3f293f7a9211bdd4d4",
+			"_id": "gulp-rev-collector@1.2.0",
+			"_shasum": "b31181628d81bf4d06a1f3aba618851cdb97a286",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.7.4",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"dist": {
+				"shasum": "b31181628d81bf4d06a1f3aba618851cdb97a286",
+				"size": 4089,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-collector-1.2.0.tgz_1494604528671_0.14739783364348114"
+			},
+			"directories": {},
+			"publish_time": 1494604530113,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1494604530113
+		},
+		"1.1.1": {
+			"name": "gulp-rev-collector",
+			"version": "1.1.1",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"lodash.isequal": "^4.4.0",
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "4fcf067f1e75e2afc5cf56571484d584589e62cf",
+			"_id": "gulp-rev-collector@1.1.1",
+			"_shasum": "2dd19038fec4e248e4bf52aeee6830ce08e271ed",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"dist": {
+				"shasum": "2dd19038fec4e248e4bf52aeee6830ce08e271ed",
+				"size": 3837,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-collector-1.1.1.tgz_1482398065170_0.46483315620571375"
+			},
+			"directories": {},
+			"publish_time": 1482398065889,
+			"_cnpm_publish_time": 1482398065889,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "gulp-rev-collector",
+			"version": "1.1.0",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"lodash.isequal": "^4.4.0",
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "e6f1d8d8aea7ee718d843d2b3fcee5c4fb58ea9c",
+			"_id": "gulp-rev-collector@1.1.0",
+			"_shasum": "1758cb630dc775545d156190467e4035657ba0f6",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"dist": {
+				"shasum": "1758cb630dc775545d156190467e4035657ba0f6",
+				"size": 3833,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-collector-1.1.0.tgz_1482331468304_0.5651197717525065"
+			},
+			"directories": {},
+			"publish_time": 1482331470494,
+			"_cnpm_publish_time": 1482331470494,
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "gulp-rev-collector",
+			"version": "1.0.5",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "2d700a3687ae3e32bc4f91e232a34958264329f9",
+			"_id": "gulp-rev-collector@1.0.5",
+			"_shasum": "15f5cd09a770c9c07bae55ce716029e3c4f1343f",
+			"_from": ".",
+			"_npmVersion": "3.8.6",
+			"_nodeVersion": "5.12.0",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "15f5cd09a770c9c07bae55ce716029e3c4f1343f",
+				"size": 3717,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.5.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-collector-1.0.5.tgz_1467796372977_0.4321109033189714"
+			},
+			"directories": {},
+			"publish_time": 1467796373847,
+			"_cnpm_publish_time": 1467796373847,
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "gulp-rev-collector",
+			"version": "1.0.4",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "a7eee8d7c49af8f0f1b78af29f29e1464fd5230b",
+			"_id": "gulp-rev-collector@1.0.4",
+			"_shasum": "39e0cfb2746142bf7e5b33839993f47d8789be1b",
+			"_from": ".",
+			"_npmVersion": "3.8.6",
+			"_nodeVersion": "5.11.1",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "39e0cfb2746142bf7e5b33839993f47d8789be1b",
+				"size": 3706,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.4.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-collector-1.0.4.tgz_1465571589642_0.996160572161898"
+			},
+			"directories": {},
+			"publish_time": 1465571592155,
+			"_cnpm_publish_time": 1465571592155,
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "gulp-rev-collector",
+			"version": "1.0.3",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/shonny-ua/gulp-rev-collector.git"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "bc9082e64efb748c372f1a66c0d5444e14d58787",
+			"_id": "gulp-rev-collector@1.0.3",
+			"_shasum": "44ce96ca8877dc1b4d94bd4b1501223a2722382a",
+			"_from": ".",
+			"_npmVersion": "3.7.3",
+			"_nodeVersion": "5.9.1",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "44ce96ca8877dc1b4d94bd4b1501223a2722382a",
+				"size": 3647,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.3.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-collector-1.0.3.tgz_1459765427889_0.806375956395641"
+			},
+			"directories": {},
+			"publish_time": 1459765430174,
+			"_cnpm_publish_time": 1459765430174,
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "gulp-rev-collector",
+			"version": "1.0.2",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"_id": "gulp-rev-collector@1.0.2",
+			"_shasum": "99a205b2c5418060d40acf31eb17ae3eff3a085f",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "99a205b2c5418060d40acf31eb17ae3eff3a085f",
+				"size": 2947,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1440247768854,
+			"_cnpm_publish_time": 1440247768854,
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "gulp-rev-collector",
+			"version": "1.0.1",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "63752a663ba4620782d2c0b70940d902a7a92022",
+			"_id": "gulp-rev-collector@1.0.1",
+			"_shasum": "25a5367ea6e06f827fb62098040362959d25a3ad",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "25a5367ea6e06f827fb62098040362959d25a3ad",
+				"size": 2094,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1440158739989,
+			"_cnpm_publish_time": 1440158739989,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "gulp-rev-collector",
+			"version": "1.0.0",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "8ce0745082fcafaf47c1e389d0828e4128f9a3b8",
+			"_id": "gulp-rev-collector@1.0.0",
+			"_shasum": "fcc876284e488f665105d7d5b043bee2edc6b84a",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "fcc876284e488f665105d7d5b043bee2edc6b84a",
+				"size": 2842,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432800666450,
+			"_cnpm_publish_time": 1432800666450,
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "gulp-rev-collector",
+			"version": "0.9.0",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "20b6462570a153c40627e5112b08c3fe7f5ddd61",
+			"_id": "gulp-rev-collector@0.9.0",
+			"_shasum": "cdeed98a413e0935fa1ae6b901cda1291a5f4724",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "cdeed98a413e0935fa1ae6b901cda1291a5f4724",
+				"size": 2848,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.9.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432800422824,
+			"_cnpm_publish_time": 1432800422824,
+			"_hasShrinkwrap": false
+		},
+		"0.1.4": {
+			"name": "gulp-rev-collector",
+			"version": "0.1.4",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "76388a565e56e446222df01f2ed0ad1a1a4e349f",
+			"_id": "gulp-rev-collector@0.1.4",
+			"_shasum": "3d12fe978cdc87b3a9c88cac0cd1cc436ea7b9ee",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "3d12fe978cdc87b3a9c88cac0cd1cc436ea7b9ee",
+				"size": 2845,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.1.4.tgz"
+			},
+			"directories": {},
+			"publish_time": 1425031279414,
+			"_cnpm_publish_time": 1425031279414,
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "gulp-rev-collector",
+			"version": "0.1.3",
+			"description": "Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "fad03b1e309d3f654182f5b1217e862222808d0b",
+			"_id": "gulp-rev-collector@0.1.3",
+			"_shasum": "d8bb50099b917536fa881ad7b568bac9dcf48a40",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "d8bb50099b917536fa881ad7b568bac9dcf48a40",
+				"size": 2702,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.1.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1422004134794,
+			"_cnpm_publish_time": 1422004134794,
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "gulp-rev-collector",
+			"version": "0.1.2",
+			"description": "Static asset revision data collector from manifests, with was generated from different streams and replace they's links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "9166cf7930a42b63a2ab156c28a98d3d779d5c4b",
+			"_id": "gulp-rev-collector@0.1.2",
+			"_shasum": "927cffdb17fb78c8e504d9cb1ffce9092cdffcce",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "927cffdb17fb78c8e504d9cb1ffce9092cdffcce",
+				"size": 2711,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.1.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1416824258052,
+			"_cnpm_publish_time": 1416824258052,
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "gulp-rev-collector",
+			"version": "0.1.1",
+			"description": "Static asset revision data collector from manifests, with was generated from different streams and replace they's links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "d15369ad42e38ca95f24e1475c923d7253cce970",
+			"_id": "gulp-rev-collector@0.1.1",
+			"_shasum": "1f421efd0bd2ac449dbbaa86b93eee98e09b353e",
+			"_from": ".",
+			"_npmVersion": "1.4.23",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "1f421efd0bd2ac449dbbaa86b93eee98e09b353e",
+				"size": 2694,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.1.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1410967264507,
+			"_cnpm_publish_time": 1410967264507,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "gulp-rev-collector",
+			"version": "0.1.0",
+			"description": "Static asset revision data collector from manifests, with was generated from different streams and replace they's links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "a898182fab7bc2e9891d5d72a25817eaee89985a",
+			"_id": "gulp-rev-collector@0.1.0",
+			"_shasum": "c56d9be17f8e17e98446930715ee8e4649211709",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c56d9be17f8e17e98446930715ee8e4649211709",
+				"size": 2551,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.1.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1407244113259,
+			"_cnpm_publish_time": 1407244113259,
+			"_hasShrinkwrap": false
+		},
+		"0.0.7": {
+			"name": "gulp-rev-collector",
+			"version": "0.0.7",
+			"description": "Static asset revision data collector from manifests, with was generated from different streams and replace they's links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"_from": ".",
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "ef8a5f5e163a1e04d467fcdffb6c776fb476fbf0",
+			"_id": "gulp-rev-collector@0.0.7",
+			"_shasum": "a672d1d0f4c5209cb37b5b6b28c6f212397718a8",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "a672d1d0f4c5209cb37b5b6b28c6f212397718a8",
+				"size": 1922,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.7.tgz"
+			},
+			"directories": {},
+			"publish_time": 1406565035449,
+			"_cnpm_publish_time": 1406565035449,
+			"_hasShrinkwrap": false
+		},
+		"0.0.6": {
+			"name": "gulp-rev-collector",
+			"version": "0.0.6",
+			"description": "Static asset revision data collector from manifests, with was generated from different streams and replace they's links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"_from": ".",
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "d34a1b5c455804d288a3ba51d2652febca997333",
+			"_id": "gulp-rev-collector@0.0.6",
+			"_shasum": "a5c7d02cf246f5b7da8b8ea716f6f63265bea509",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "a5c7d02cf246f5b7da8b8ea716f6f63265bea509",
+				"size": 1914,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.6.tgz"
+			},
+			"directories": {},
+			"publish_time": 1406023903312,
+			"_cnpm_publish_time": 1406023903312,
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "gulp-rev-collector",
+			"version": "0.0.5",
+			"description": "Static asset revision data collector from manifests, with was generated from different streams and replace they's links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^2.2.17",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"_from": ".",
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "03c785005e892f045230acd5974427a4cb12825c",
+			"_id": "gulp-rev-collector@0.0.5",
+			"_shasum": "eba00c3759f6794227ad506a6fb6175cb2435263",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "eba00c3759f6794227ad506a6fb6175cb2435263",
+				"size": 1881,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.5.tgz"
+			},
+			"directories": {},
+			"publish_time": 1403539474280,
+			"_cnpm_publish_time": 1403539474280,
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "gulp-rev-collector",
+			"version": "0.0.4",
+			"description": "Static asset revision data collector from manifests, with was generated from different streams and replace they's links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^2.2.17",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"_from": ".",
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"gitHead": "7f632702550a50845d55fd92544c89c25750ee90",
+			"_id": "gulp-rev-collector@0.0.4",
+			"_shasum": "f4e2f029d8c7a8371d86c719c829249459f04dbc",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "f4e2f029d8c7a8371d86c719c829249459f04dbc",
+				"size": 1769,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.4.tgz"
+			},
+			"directories": {},
+			"publish_time": 1403280831343,
+			"_cnpm_publish_time": 1403280831343,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "gulp-rev-collector",
+			"version": "0.0.3",
+			"description": "Static asset revision data collector from manifests, with was generated from different streams and replace they's links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"gulp-util": "^2.2.17",
+				"through2": ">=0.5.1",
+				"underscore": "^1.6.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"_from": ".",
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"_id": "gulp-rev-collector@0.0.3",
+			"_shasum": "c6a9f6880548e501a3ea41f152dee0d66e511847",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "c6a9f6880548e501a3ea41f152dee0d66e511847",
+				"size": 1690,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.3.tgz"
+			},
+			"directories": {},
+			"publish_time": 1403177671087,
+			"_cnpm_publish_time": 1403177671087,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "gulp-rev-collector",
+			"version": "0.0.2",
+			"description": "Static asset revision data collector from manifests, with was generated from different streams and replace they's links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"through2": ">=0.5.1",
+				"gulp-util": "^2.2.17"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"_from": ".",
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"_id": "gulp-rev-collector@0.0.2",
+			"_shasum": "77d914c6beb0d8e2fe8683da8e937c7a05582aac",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "77d914c6beb0d8e2fe8683da8e937c7a05582aac",
+				"size": 1105,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1403106088129,
+			"_cnpm_publish_time": 1403106088129,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "gulp-rev-collector",
+			"version": "0.0.1",
+			"description": "Static asset revision data collector from manifests, with was generated from different streams and replace they's links in html template.",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/shonny-ua/gulp-rev-collector"
+			},
+			"author": {
+				"name": "Oleksandr Ovcharenko",
+				"email": "shonny.ua@gmail.com"
+			},
+			"main": "index.js",
+			"files": [
+				"index.js"
+			],
+			"scripts": {
+				"test": "mocha"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"keywords": [
+				"gulpplugin",
+				"gulp",
+				"rev",
+				"revision",
+				"version",
+				"versioning",
+				"static",
+				"asset",
+				"assets",
+				"collect",
+				"collector"
+			],
+			"dependencies": {
+				"through2": ">=0.5.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/shonny-ua/gulp-rev-collector/issues"
+			},
+			"_from": ".",
+			"homepage": "https://github.com/shonny-ua/gulp-rev-collector",
+			"_id": "gulp-rev-collector@0.0.1",
+			"_shasum": "4c2c7e253855d647e1a9600464ece9932d52096b",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "shonny.ua",
+				"email": "shonny.ua@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "shonny.ua",
+					"email": "shonny.ua@gmail.com"
+				}
+			],
+			"dist": {
+				"shasum": "4c2c7e253855d647e1a9600464ece9932d52096b",
+				"size": 1058,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1403096717992,
+			"_cnpm_publish_time": 1403096717992,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.3.1"
+	},
+	"time": {
+		"modified": "2018-04-06T11:41:02.000Z",
+		"created": "2014-06-18T13:05:17.992Z",
+		"1.3.1": "2018-04-06T11:40:53.610Z",
+		"1.3.0": "2018-04-06T09:36:31.949Z",
+		"1.2.4": "2018-01-05T16:41:43.429Z",
+		"1.2.3": "2017-11-13T16:27:19.410Z",
+		"1.2.2": "2017-05-26T14:19:38.476Z",
+		"1.2.1": "2017-05-13T09:40:41.391Z",
+		"1.2.0": "2017-05-12T15:55:30.113Z",
+		"1.1.1": "2016-12-22T09:14:25.889Z",
+		"1.1.0": "2016-12-21T14:44:30.494Z",
+		"1.0.5": "2016-07-06T09:12:53.847Z",
+		"1.0.4": "2016-06-10T15:13:12.155Z",
+		"1.0.3": "2016-04-04T10:23:50.174Z",
+		"1.0.2": "2015-08-22T12:49:28.854Z",
+		"1.0.1": "2015-08-21T12:05:39.989Z",
+		"1.0.0": "2015-05-28T08:11:06.450Z",
+		"0.9.0": "2015-05-28T08:07:02.824Z",
+		"0.1.4": "2015-02-27T10:01:19.414Z",
+		"0.1.3": "2015-01-23T09:08:54.794Z",
+		"0.1.2": "2014-11-24T10:17:38.052Z",
+		"0.1.1": "2014-09-17T15:21:04.507Z",
+		"0.1.0": "2014-08-05T13:08:33.259Z",
+		"0.0.7": "2014-07-28T16:30:35.449Z",
+		"0.0.6": "2014-07-22T10:11:43.312Z",
+		"0.0.5": "2014-06-23T16:04:34.280Z",
+		"0.0.4": "2014-06-20T16:13:51.343Z",
+		"0.0.3": "2014-06-19T11:34:31.087Z",
+		"0.0.2": "2014-06-18T15:41:28.129Z",
+		"0.0.1": "2014-06-18T13:05:17.992Z"
+	},
+	"_distfiles": {
+		"gulp-rev-collector-1.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.3.1.tgz",
+			"sha": "a7040c7c9a08d33ac9b76d33de219badba4a5189",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.3.0.tgz",
+			"sha": "cb6030de027cb5b322617fb8a03f823b821b26ff",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.2.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.2.4.tgz",
+			"sha": "980767e1ee3fa67de0db7e2af57d32b91c2921e5",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.2.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.2.3.tgz",
+			"sha": "53597b5cb83061cdf20deb45002e4042288ecdf3",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.2.2.tgz",
+			"sha": "90da1ad3d22e788bca31f7796ad28c1d28efd0fb",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.2.1.tgz",
+			"sha": "659161dc7ad3f49143af012bd661cd3b0c566196",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.2.0.tgz",
+			"sha": "b31181628d81bf4d06a1f3aba618851cdb97a286",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.1.1.tgz",
+			"sha": "2dd19038fec4e248e4bf52aeee6830ce08e271ed",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.1.0.tgz",
+			"sha": "1758cb630dc775545d156190467e4035657ba0f6",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.5.tgz",
+			"sha": "15f5cd09a770c9c07bae55ce716029e3c4f1343f",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.4.tgz",
+			"sha": "39e0cfb2746142bf7e5b33839993f47d8789be1b",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.3.tgz",
+			"sha": "44ce96ca8877dc1b4d94bd4b1501223a2722382a",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.2.tgz",
+			"sha": "99a205b2c5418060d40acf31eb17ae3eff3a085f",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.1.tgz",
+			"sha": "25a5367ea6e06f827fb62098040362959d25a3ad",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-1.0.0.tgz",
+			"sha": "fcc876284e488f665105d7d5b043bee2edc6b84a",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.9.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.9.0.tgz",
+			"sha": "cdeed98a413e0935fa1ae6b901cda1291a5f4724",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.1.4.tgz",
+			"sha": "3d12fe978cdc87b3a9c88cac0cd1cc436ea7b9ee",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.1.3.tgz",
+			"sha": "d8bb50099b917536fa881ad7b568bac9dcf48a40",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.1.2.tgz",
+			"sha": "927cffdb17fb78c8e504d9cb1ffce9092cdffcce",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.1.1.tgz",
+			"sha": "1f421efd0bd2ac449dbbaa86b93eee98e09b353e",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.1.0.tgz",
+			"sha": "c56d9be17f8e17e98446930715ee8e4649211709",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.0.7.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.7.tgz",
+			"sha": "a672d1d0f4c5209cb37b5b6b28c6f212397718a8",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.6.tgz",
+			"sha": "a5c7d02cf246f5b7da8b8ea716f6f63265bea509",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.5.tgz",
+			"sha": "eba00c3759f6794227ad506a6fb6175cb2435263",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.4.tgz",
+			"sha": "f4e2f029d8c7a8371d86c719c829249459f04dbc",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.3.tgz",
+			"sha": "c6a9f6880548e501a3ea41f152dee0d66e511847",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.2.tgz",
+			"sha": "77d914c6beb0d8e2fe8683da8e937c7a05582aac",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-collector-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev-collector/download/gulp-rev-collector-0.0.1.tgz",
+			"sha": "4c2c7e253855d647e1a9600464ece9932d52096b",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"bf11-mcOn30KF1m15dqnm9cSh9RdOh0A\"",
+			"fetched": 1527747698195
+		}
+	},
+	"_rev": "13-09b0b06a8578ef5c",
+	"readme": "[![Build Status](https://travis-ci.org/shonny-ua/gulp-rev-collector.svg)](https://travis-ci.org/shonny-ua/gulp-rev-collector)\n[![Dependencies](https://david-dm.org/shonny-ua/gulp-rev-collector.svg)](https://david-dm.org/shonny-ua/gulp-rev-collector)\n[![devDependencies](https://david-dm.org/shonny-ua/gulp-rev-collector/dev-status.svg)](https://david-dm.org/shonny-ua/gulp-rev-collector#info=devDependencies&view=table)\n[![NPM version](https://badge.fury.io/js/gulp-rev-collector.svg)](http://badge.fury.io/js/gulp-rev-collector)\n\n# [gulp](https://github.com/wearefractal/gulp)-rev-collector\n\n[![NPM](https://nodei.co/npm/gulp-rev-collector.png?downloads=true&stars=true)](https://nodei.co/npm/gulp-rev-collector/)\n\n> Static asset revision data collector from manifests, generated from different streams, and replace their links in html template.\n\n## Install\n\n```sh\n$ npm install --save gulp-rev-collector\n```\n\n## Usage\n\nWe can use [gulp-rev](https://github.com/sindresorhus/gulp-rev) to cache-bust several assets and generate manifest files for them. Then using gulp-rev-collector we can collect data from several manifest files and replace links to assets in html templates.\n\n```js\nvar gulp         = require('gulp');\nvar rev = require('gulp-rev');\n\ngulp.task('css', function () {\n    return gulp.src('src/css/*.css')\n        .pipe(rev())\n        .pipe(gulp.dest('dist/css'))\n        .pipe( rev.manifest() )\n        .pipe( gulp.dest( 'rev/css' ) );\n});\n\ngulp.task('scripts', function () {\n    return gulp.src('src/js/*.js')\n        .pipe(rev())\n        .pipe(gulp.dest('dist/js'))\n        .pipe( rev.manifest() )\n        .pipe( gulp.dest( 'rev/js' ) );\n});\n\n...\n\nvar revCollector = require('gulp-rev-collector');\nvar minifyHTML   = require('gulp-minify-html');\n\ngulp.task('rev', function () {\n    return gulp.src(['rev/**/*.json', 'templates/**/*.html'])\n        .pipe( revCollector({\n            replaceReved: true,\n            dirReplacements: {\n                'css': '/dist/css',\n                '/js/': '/dist/js/',\n                'cdn/': function(manifest_value) {\n                    return '//cdn' + (Math.floor(Math.random() * 9) + 1) + '.' + 'exsample.dot' + '/img/' + manifest_value;\n                }\n            }\n        }) )\n        .pipe( minifyHTML({\n                empty:true,\n                spare:true\n            }) )\n        .pipe( gulp.dest('dist') );\n});\n```\n\n### Options\n\n#### collectedManifest\n\nType : `String`\n\nIt is a filename for collecded and merged manifest data in `json` format.\n\n#### replaceReved\n\nType : `Boolean`\n\nYou set a flag, replaceReved, which will replace alredy replaced links in template's files. Default value is `false`.\n\n#### dirReplacements\n\nType : `Object`\n\nSpecifies a directories replacement set. [gulp-rev](https://github.com/sindresorhus/gulp-rev) creates manifest files without any info about directories. E.c. if you use dirReplacements param from [Usage](#usage) example, you get next replacement:\n\n```\n\"/css/style.css\" => \"/dist/css/style-1d87bebe.css\"\n\"/js/script1.js\" => \"/dist/script1-61e0be79.js\"\n\"cdn/image.gif\"  => \"//cdn8.example.dot/img/image-35c3af8134.gif\"\n```\n\n#### revSuffix\n\nType : `String`\n\nIt is pattern for define reved files suffixes. Default value is '-[0-9a-f]{8,10}-?'. This is necessary in case of e.c. [gulp-rename](https://github.com/hparra/gulp-rename) usage. If reved filenames had different from default mask.\n\n#### extMap\n\nType : `Object`\n\nIf You use some methods to modify the rev_manifest.json after use [gulp-rev](https://github.com/sindresorhus/gulp-rev) and get a result like this:\n```\n{\n    \"assets/less/common.less\": \"assets/css/common-2c0d21e40c.css\"\n}\n```\nIt means that keys and values in the rev_manifest.json have different ext : less & css.\n\nYou can define extentions maping rules for correct manifest file processing.\n\nDefault value is:\n```\n{\n    '.scss': '.css',\n    '.less': '.css',\n    '.jsx': '.js'\n}\n```\n\n### Works with gulp-rev-collector\n\n- [gulp-rev](https://github.com/sindresorhus/gulp-rev)\n\n## License\n\n[MIT](http://opensource.org/licenses/MIT) © [Oleksandr Ovcharenko](mailto:shonny.ua@gmail.com)"
+}

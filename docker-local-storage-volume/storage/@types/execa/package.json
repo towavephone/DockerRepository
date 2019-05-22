@@ -1,0 +1,472 @@
+{
+	"name": "@types/execa",
+	"versions": {
+		"0.9.0": {
+			"name": "@types/execa",
+			"version": "0.9.0",
+			"description": "TypeScript definitions for execa",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "Borek Bernard",
+					"url": "https://github.com/borekb",
+					"githubUsername": "borekb"
+				},
+				{
+					"name": "Mick Dekkers",
+					"url": "https://github.com/mickdekkers",
+					"githubUsername": "mickdekkers"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "82ba4c597d403c0dd3f223e53a3b1947df7b949c5f1f3db0dee59b3b89d7eb0b",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/execa@0.9.0",
+			"dist": {
+				"shasum": "9b025d2755f17e80beaf9368c3f4f319d8b0fb93",
+				"size": 3903,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/execa/download/@types/execa-0.9.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/execa_0.9.0_1521155935018_0.238693086211482"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521155935137,
+			"_cnpm_publish_time": 1521155935137
+		},
+		"0.8.1": {
+			"name": "@types/execa",
+			"version": "0.8.1",
+			"description": "TypeScript definitions for execa",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "Borek Bernard",
+					"url": "https://github.com/borekb",
+					"githubUsername": "borekb"
+				},
+				{
+					"name": "Mick Dekkers",
+					"url": "https://github.com/mickdekkers",
+					"githubUsername": "mickdekkers"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "1f690ac26502f30238af1d5855d9877acb16c65a0e5ffa5871fe0227047b37f8",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/execa@0.8.1",
+			"dist": {
+				"shasum": "0a9398c7661015c7d6c8e09d1f0a4018d5002f6e",
+				"size": 3843,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/execa/download/@types/execa-0.8.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/execa-0.8.1.tgz_1514505551617_0.28400560142472386"
+			},
+			"directories": {},
+			"publish_time": 1514505551702,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514505551702
+		},
+		"0.8.0": {
+			"name": "@types/execa",
+			"version": "0.8.0",
+			"description": "TypeScript definitions for execa",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "Borek Bernard",
+					"url": "https://github.com/borekb",
+					"githubUsername": "borekb"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "a98411f3ee1d70248123ded05a4e75efbd0a5edac3293cd97e662321da2bf196",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/execa@0.8.0",
+			"dist": {
+				"shasum": "2c717dbcb4a593e31c3b1d40180a0926f77f5355",
+				"size": 2168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/execa/download/@types/execa-0.8.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/execa-0.8.0.tgz_1510693123706_0.48180721956305206"
+			},
+			"directories": {},
+			"publish_time": 1510693123778,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510693123778
+		},
+		"0.7.2": {
+			"name": "@types/execa",
+			"version": "0.7.2",
+			"description": "TypeScript definitions for execa",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "35ae2d1816962a3c15105ed1b3e79ee4fe608750993cb3467e4529c8ed5e8792",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/execa@0.7.2",
+			"dist": {
+				"shasum": "38c1432fe5579c8fdc4a8df6eddeb6bdd7f74e98",
+				"size": 2112,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/execa/download/@types/execa-0.7.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/execa-0.7.2.tgz_1508890920474_0.6458550265524536"
+			},
+			"directories": {},
+			"publish_time": 1508890920574,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508890920574
+		},
+		"0.7.1": {
+			"name": "@types/execa",
+			"version": "0.7.1",
+			"description": "TypeScript definitions for execa",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil",
+					"githubUsername": "douglasduteil"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "cc37fe036b23573d094ded8d9c5c80962d38ff0a386bc9008e1543cbac0e1ecd",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/execa@0.7.1",
+			"dist": {
+				"shasum": "1817d3f36b0b8b55a92219f71121538fd6e238a5",
+				"size": 2113,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/execa/download/@types/execa-0.7.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/execa-0.7.1.tgz_1507319881472_0.6468737472314388"
+			},
+			"directories": {},
+			"publish_time": 1507319881665,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507319881665
+		},
+		"0.7.0": {
+			"name": "@types/execa",
+			"version": "0.7.0",
+			"description": "TypeScript definitions for execa",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "5e935cbcbbb7c89cab04ecbf44ca6fe22d08ea01ba7aa9445de190197c2eadbd",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/execa@0.7.0",
+			"dist": {
+				"shasum": "ba499e099ab6141159975d60fadb5a5b78b979f7",
+				"size": 2111,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/execa/download/@types/execa-0.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/execa-0.7.0.tgz_1500919314124_0.8792451878543943"
+			},
+			"directories": {},
+			"publish_time": 1500919314328,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500919314328
+		},
+		"0.6.0": {
+			"name": "@types/execa",
+			"version": "0.6.0",
+			"description": "TypeScript definitions for execa",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Douglas Duteil",
+					"url": "https://github.com/douglasduteil"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ce3630613bc8fea0d9322a2bb91faa422c683b070096fb303eab95248676913f",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/execa@0.6.0",
+			"dist": {
+				"shasum": "26fe1f968abf4a2f5e27e469d8df36f32d22f452",
+				"size": 1991,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/execa/download/@types/execa-0.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/execa-0.6.0.tgz_1496692582889_0.9241531579755247"
+			},
+			"directories": {},
+			"publish_time": 1496692582940,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1496692582940
+		}
+	},
+	"dist-tags": {
+		"latest": "0.9.0",
+		"ts2.3": "0.9.0",
+		"ts2.4": "0.9.0",
+		"ts2.5": "0.9.0",
+		"ts2.6": "0.9.0",
+		"ts2.7": "0.9.0",
+		"ts2.8": "0.9.0",
+		"ts2.9": "0.9.0",
+		"ts3.0": "0.9.0",
+		"ts3.1": "0.9.0",
+		"ts3.2": "0.9.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:10:46.000Z",
+		"created": "2017-06-05T19:56:22.940Z",
+		"0.9.0": "2018-03-15T23:18:55.137Z",
+		"0.8.1": "2017-12-28T23:59:11.702Z",
+		"0.8.0": "2017-11-14T20:58:43.778Z",
+		"0.7.2": "2017-10-25T00:22:00.574Z",
+		"0.7.1": "2017-10-06T19:58:01.665Z",
+		"0.7.0": "2017-07-24T18:01:54.328Z",
+		"0.6.0": "2017-06-05T19:56:22.940Z"
+	},
+	"_distfiles": {
+		"execa-0.9.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/execa/download/@types/execa-0.9.0.tgz",
+			"sha": "9b025d2755f17e80beaf9368c3f4f319d8b0fb93",
+			"registry": "cnpmjs"
+		},
+		"execa-0.8.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/execa/download/@types/execa-0.8.1.tgz",
+			"sha": "0a9398c7661015c7d6c8e09d1f0a4018d5002f6e",
+			"registry": "cnpmjs"
+		},
+		"execa-0.8.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/execa/download/@types/execa-0.8.0.tgz",
+			"sha": "2c717dbcb4a593e31c3b1d40180a0926f77f5355",
+			"registry": "cnpmjs"
+		},
+		"execa-0.7.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/execa/download/@types/execa-0.7.2.tgz",
+			"sha": "38c1432fe5579c8fdc4a8df6eddeb6bdd7f74e98",
+			"registry": "cnpmjs"
+		},
+		"execa-0.7.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/execa/download/@types/execa-0.7.1.tgz",
+			"sha": "1817d3f36b0b8b55a92219f71121538fd6e238a5",
+			"registry": "cnpmjs"
+		},
+		"execa-0.7.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/execa/download/@types/execa-0.7.0.tgz",
+			"sha": "ba499e099ab6141159975d60fadb5a5b78b979f7",
+			"registry": "cnpmjs"
+		},
+		"execa-0.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/execa/download/@types/execa-0.6.0.tgz",
+			"sha": "26fe1f968abf4a2f5e27e469d8df36f32d22f452",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"276b-015rez2C6sxQJotonGaMnSHiF+Y\"",
+			"fetched": 1541833455150
+		}
+	},
+	"_rev": "2-f8695eef67215e9a",
+	"readme": "# Installation\r\n> `npm install --save @types/execa`\r\n\r\n# Summary\r\nThis package contains type definitions for execa (https://github.com/sindresorhus/execa#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/execa\r\n\r\nAdditional Details\r\n * Last updated: Thu, 15 Mar 2018 23:17:55 GMT\r\n * Dependencies: child_process, stream, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Douglas Duteil <https://github.com/douglasduteil>, BendingBender <https://github.com/BendingBender>, Borek Bernard <https://github.com/borekb>, Mick Dekkers <https://github.com/mickdekkers>."
+}

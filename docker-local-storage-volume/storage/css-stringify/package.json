@@ -1,0 +1,1300 @@
+{
+	"name": "css-stringify",
+	"versions": {
+		"2.0.0": {
+			"name": "css-stringify",
+			"version": "2.0.0",
+			"description": "CSS compiler",
+			"main": "index",
+			"files": [
+				"index.js"
+			],
+			"dependencies": {
+				"css": "^2.0.0"
+			},
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/reworkcss/css-stringify.git"
+			},
+			"keywords": [
+				"css",
+				"stringify",
+				"stylesheet"
+			],
+			"bugs": {
+				"url": "https://github.com/reworkcss/css-stringify/issues"
+			},
+			"homepage": "https://github.com/reworkcss/css-stringify",
+			"_id": "css-stringify@2.0.0",
+			"dist": {
+				"shasum": "2ef33dcf498c3d3ee82bd73d0a01ac28628cd0fa",
+				"size": 580,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-2.0.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "necolas",
+				"email": "nicolasgallagher@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1403113554765,
+			"_cnpm_publish_time": 1403113554765,
+			"_hasShrinkwrap": false
+		},
+		"1.4.1": {
+			"name": "css-stringify",
+			"version": "1.4.1",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"stringify",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.6.0"
+			},
+			"main": "index",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/visionmedia/css-stringify.git"
+			},
+			"scripts": {
+				"test": "make test"
+			},
+			"dependencies": {
+				"source-map": "~0.1.31"
+			},
+			"readmeFilename": "Readme.md",
+			"bugs": {
+				"url": "https://github.com/visionmedia/css-stringify/issues"
+			},
+			"_id": "css-stringify@1.4.1",
+			"dist": {
+				"shasum": "252ccbf03f723a009bdd8770fe7eb274171afdfa",
+				"size": 4479,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.4.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "tjholowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1386608870359,
+			"_cnpm_publish_time": 1386608870359,
+			"_hasShrinkwrap": false
+		},
+		"1.4.0": {
+			"name": "css-stringify",
+			"version": "1.4.0",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"stringify",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.6.0"
+			},
+			"main": "index",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/visionmedia/css-stringify.git"
+			},
+			"scripts": {
+				"test": "make test"
+			},
+			"dependencies": {
+				"source-map": "~0.1.31"
+			},
+			"readmeFilename": "Readme.md",
+			"bugs": {
+				"url": "https://github.com/visionmedia/css-stringify/issues"
+			},
+			"homepage": "https://github.com/visionmedia/css-stringify",
+			"_id": "css-stringify@1.4.0",
+			"dist": {
+				"shasum": "ba392fe2ef988511f200a7cbd6c13813afed8da9",
+				"size": 4442,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.4.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.15",
+			"_npmUser": {
+				"name": "tjholowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1385577095277,
+			"_cnpm_publish_time": 1385577095277,
+			"_hasShrinkwrap": false
+		},
+		"1.3.2": {
+			"name": "css-stringify",
+			"version": "1.3.2",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"stringify",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.4.0"
+			},
+			"main": "index",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/visionmedia/css-stringify.git"
+			},
+			"scripts": {
+				"test": "make test"
+			},
+			"readmeFilename": "Readme.md",
+			"bugs": {
+				"url": "https://github.com/visionmedia/css-stringify/issues"
+			},
+			"_id": "css-stringify@1.3.2",
+			"dist": {
+				"shasum": "9f707927f2b167cdd56ffa429f26fa206982c269",
+				"size": 3141,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.3.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.30",
+			"_npmUser": {
+				"name": "tjholowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1382126559830,
+			"_cnpm_publish_time": 1382126559830,
+			"_hasShrinkwrap": false
+		},
+		"1.3.1": {
+			"name": "css-stringify",
+			"version": "1.3.1",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"stringify",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.4.0"
+			},
+			"main": "index",
+			"readmeFilename": "Readme.md",
+			"_id": "css-stringify@1.3.1",
+			"dist": {
+				"shasum": "7aba58e1c037a7e1b88b78488e71698f7add52f9",
+				"size": 2814,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.3.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.14",
+			"_npmUser": {
+				"name": "tjholowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1370208047647,
+			"_cnpm_publish_time": 1370208047647,
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "css-stringify",
+			"version": "1.3.0",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"stringify",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.4.0"
+			},
+			"main": "index",
+			"readmeFilename": "Readme.md",
+			"_id": "css-stringify@1.3.0",
+			"dist": {
+				"shasum": "9fd148293c517a94d49df4d190a60f1d5dd9fdc3",
+				"size": 2770,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.3.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.14",
+			"_npmUser": {
+				"name": "tjholowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1369785837362,
+			"_cnpm_publish_time": 1369785837362,
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "css-stringify",
+			"version": "1.2.0",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"stringify",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.3.0"
+			},
+			"main": "index",
+			"readmeFilename": "Readme.md",
+			"_id": "css-stringify@1.2.0",
+			"dist": {
+				"shasum": "36aacf4f4995167698dfda6920f7d8892591380d",
+				"size": 2461,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.14",
+			"_npmUser": {
+				"name": "tjholowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1369155842444,
+			"_cnpm_publish_time": 1369155842444,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "css-stringify",
+			"version": "1.1.0",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"stringify",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.1.0"
+			},
+			"main": "index",
+			"readmeFilename": "Readme.md",
+			"_id": "css-stringify@1.1.0",
+			"dist": {
+				"shasum": "15c4f3eb540340e59edb3c37c6bf72ff54b51445",
+				"size": 2378,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.14",
+			"_npmUser": {
+				"name": "tjholowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1363706245270,
+			"_cnpm_publish_time": 1363706245270,
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "css-stringify",
+			"version": "1.0.5",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"stringify",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.0.3"
+			},
+			"main": "index",
+			"readmeFilename": "Readme.md",
+			"_id": "css-stringify@1.0.5",
+			"dist": {
+				"shasum": "b0d042946db2953bb9d292900a6cb5f6d0122031",
+				"size": 2306,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.5.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.2.14",
+			"_npmUser": {
+				"name": "tjholowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1363361556290,
+			"_cnpm_publish_time": 1363361556290,
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "css-stringify",
+			"version": "1.0.4",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"stringify",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.0.3"
+			},
+			"main": "index",
+			"readmeFilename": "Readme.md",
+			"_id": "css-stringify@1.0.4",
+			"dist": {
+				"shasum": "d513bf3b2c5d7f76d96a8f83ee7a6ae5e4f38a11",
+				"size": 2248,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.4.tgz"
+			},
+			"_npmVersion": "1.1.65",
+			"_npmUser": {
+				"name": "tjholowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1352998070195,
+			"_cnpm_publish_time": 1352998070195,
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "css-stringify",
+			"version": "1.0.3",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"parser",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.0.3"
+			},
+			"main": "index",
+			"_id": "css-stringify@1.0.3",
+			"dist": {
+				"shasum": "b50851a24da4f766be29ffef2e9be66206c8612a",
+				"size": 2222,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1346780350421,
+			"_cnpm_publish_time": 1346780350421,
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "css-stringify",
+			"version": "1.0.2",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"parser",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.0.2"
+			},
+			"main": "index",
+			"_id": "css-stringify@1.0.2",
+			"dist": {
+				"shasum": "1ac925f8c3b99f5abf2311ffc9069cd6df3a0b3e",
+				"size": 2072,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1346532809528,
+			"_cnpm_publish_time": 1346532809528,
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "css-stringify",
+			"version": "1.0.1",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"parser",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.0.1"
+			},
+			"main": "index",
+			"_id": "css-stringify@1.0.1",
+			"dist": {
+				"shasum": "c29b7fb70299d685c5304aaed157e61e3edd6995",
+				"size": 1999,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1343307608890,
+			"_cnpm_publish_time": 1343307608890,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "css-stringify",
+			"version": "1.0.0",
+			"description": "CSS compiler",
+			"keywords": [
+				"css",
+				"parser",
+				"stylesheet"
+			],
+			"author": {
+				"name": "TJ Holowaychuk",
+				"email": "tj@vision-media.ca"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*",
+				"css-parse": "1.0.0"
+			},
+			"main": "index",
+			"_id": "css-stringify@1.0.0",
+			"dist": {
+				"shasum": "44fc0a48b47429f577deb10060c0b0d9116cb473",
+				"size": 1967,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "anthonyshort",
+					"email": "antshort@gmail.com"
+				},
+				{
+					"name": "clintwood",
+					"email": "clint@anotherway.co.za"
+				},
+				{
+					"name": "conradz",
+					"email": "me@conradz.com"
+				},
+				{
+					"name": "ianstormtaylor",
+					"email": "ian@ianstormtaylor.com"
+				},
+				{
+					"name": "jonathanong",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "jongleberry",
+					"email": "jonathanrichardong@gmail.com"
+				},
+				{
+					"name": "lydell",
+					"email": "simon.lydell@gmail.com"
+				},
+				{
+					"name": "moox",
+					"email": "m@moox.io"
+				},
+				{
+					"name": "necolas",
+					"email": "nicolasgallagher@gmail.com"
+				},
+				{
+					"name": "slexaxton",
+					"email": "alexsexton@gmail.com"
+				},
+				{
+					"name": "tjholowaychuk",
+					"email": "tj@vision-media.ca"
+				}
+			],
+			"directories": {},
+			"publish_time": 1342754546050,
+			"_cnpm_publish_time": 1342754546050,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.0"
+	},
+	"time": {
+		"modified": "2017-03-28T15:58:07.000Z",
+		"created": "2012-07-20T03:22:26.050Z",
+		"2.0.0": "2014-06-18T17:45:54.765Z",
+		"1.4.1": "2013-12-09T17:07:50.359Z",
+		"1.4.0": "2013-11-27T18:31:35.277Z",
+		"1.3.2": "2013-10-18T20:02:39.830Z",
+		"1.3.1": "2013-06-02T21:20:47.647Z",
+		"1.3.0": "2013-05-29T00:03:57.362Z",
+		"1.2.0": "2013-05-21T17:04:02.444Z",
+		"1.1.0": "2013-03-19T15:17:25.270Z",
+		"1.0.5": "2013-03-15T15:32:36.290Z",
+		"1.0.4": "2012-11-15T16:47:50.195Z",
+		"1.0.3": "2012-09-04T17:39:10.421Z",
+		"1.0.2": "2012-09-01T20:53:29.528Z",
+		"1.0.1": "2012-07-26T13:00:08.890Z",
+		"1.0.0": "2012-07-20T03:22:26.050Z"
+	},
+	"_distfiles": {
+		"css-stringify-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-2.0.0.tgz",
+			"sha": "2ef33dcf498c3d3ee82bd73d0a01ac28628cd0fa",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.4.1.tgz",
+			"sha": "252ccbf03f723a009bdd8770fe7eb274171afdfa",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.4.0.tgz",
+			"sha": "ba392fe2ef988511f200a7cbd6c13813afed8da9",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.3.2.tgz",
+			"sha": "9f707927f2b167cdd56ffa429f26fa206982c269",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.3.1.tgz",
+			"sha": "7aba58e1c037a7e1b88b78488e71698f7add52f9",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.3.0.tgz",
+			"sha": "9fd148293c517a94d49df4d190a60f1d5dd9fdc3",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.2.0.tgz",
+			"sha": "36aacf4f4995167698dfda6920f7d8892591380d",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.1.0.tgz",
+			"sha": "15c4f3eb540340e59edb3c37c6bf72ff54b51445",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.5.tgz",
+			"sha": "b0d042946db2953bb9d292900a6cb5f6d0122031",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.4.tgz",
+			"sha": "d513bf3b2c5d7f76d96a8f83ee7a6ae5e4f38a11",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.3.tgz",
+			"sha": "b50851a24da4f766be29ffef2e9be66206c8612a",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.2.tgz",
+			"sha": "1ac925f8c3b99f5abf2311ffc9069cd6df3a0b3e",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.1.tgz",
+			"sha": "c29b7fb70299d685c5304aaed157e61e3edd6995",
+			"registry": "cnpmjs"
+		},
+		"css-stringify-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/css-stringify/download/css-stringify-1.0.0.tgz",
+			"sha": "44fc0a48b47429f577deb10060c0b0d9116cb473",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"50c2-qK5HTAuhzg13oeRaRUnImw2nemo\"",
+			"fetched": 1527747738276
+		}
+	},
+	"_rev": "11-b76d823ddff786eb",
+	"readme": "# css-stringify\n\n  JavaScript CSS stringifier for Node.js (exports the `stringify` method of [css](https://github.com/reworkcss/css))\n\n## Installation\n\n  $ npm install css-stringify\n\n## Usage\n\n  Please see the [css](https://github.com/reworkcss/css) module documentation.\n\n## License\n\n  MIT"
+}

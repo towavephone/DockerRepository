@@ -1,0 +1,197 @@
+{
+	"name": "@types/create-react-class",
+	"versions": {
+		"15.6.1": {
+			"name": "@types/create-react-class",
+			"version": "15.6.1",
+			"description": "TypeScript definitions for create-react-class",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "John Gozde",
+					"url": "https://github.com/jgoz",
+					"githubUsername": "jgoz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "41390ac2f84936e77ffdf965886af519b2f4a2a07fe1c14a99ab04a281e4a336",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/create-react-class@15.6.1",
+			"dist": {
+				"shasum": "bd01a48f0e8dddf33d10ed0871387d7233364626",
+				"size": 1587,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/create-react-class/download/@types/create-react-class-15.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/create-react-class_15.6.1_1518448996055_0.9780879495736075"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1518448996898,
+			"_cnpm_publish_time": 1518448996898
+		},
+		"15.6.0": {
+			"name": "@types/create-react-class",
+			"version": "15.6.0",
+			"description": "TypeScript definitions for create-react-class",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "John Gozde",
+					"url": "https://github.com/jgoz",
+					"githubUsername": "jgoz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "4f284acae2d0243db900e653a00661b09874138e96e8c522d59021f61843f242",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/create-react-class@15.6.0",
+			"dist": {
+				"shasum": "e711fc562e4fa1fc93710b6b202871d35981a5d0",
+				"size": 1590,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/create-react-class/download/@types/create-react-class-15.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/create-react-class-15.6.0.tgz_1508199302464_0.42287954059429467"
+			},
+			"directories": {},
+			"publish_time": 1508199302534,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508199302534
+		},
+		"15.6.2": {
+			"name": "@types/create-react-class",
+			"version": "15.6.2",
+			"description": "TypeScript definitions for create-react-class",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "John Gozde",
+					"url": "https://github.com/jgoz",
+					"githubUsername": "jgoz"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "95023b209394370e6135a2e7e988d9ce543ee9e648f701f140276bfcafc513b6",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/create-react-class@15.6.2",
+			"dist": {
+				"shasum": "0e1b89153be31ded959359c2b827cceaa9d18cf6",
+				"size": 1584,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/create-react-class/download/@types/create-react-class-15.6.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/create-react-class_15.6.2_1533592573363_0.12477776766158821"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533592573449,
+			"_cnpm_publish_time": 1533592573449
+		}
+	},
+	"dist-tags": {
+		"latest": "15.6.2",
+		"ts2.3": "15.6.0",
+		"ts2.4": "15.6.0",
+		"ts2.5": "15.6.0",
+		"ts2.6": "15.6.1",
+		"ts2.7": "15.6.1",
+		"ts2.8": "15.6.2",
+		"ts2.9": "15.6.2",
+		"ts3.0": "15.6.2",
+		"ts3.1": "15.6.2",
+		"ts3.2": "15.6.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:06:16.000Z",
+		"created": "2017-10-17T00:15:02.534Z",
+		"15.6.2": "2018-08-06T21:56:13.449Z",
+		"15.6.1": "2018-02-12T15:23:16.898Z",
+		"15.6.0": "2017-10-17T00:15:02.534Z"
+	},
+	"_distfiles": {
+		"create-react-class-15.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/create-react-class/download/@types/create-react-class-15.6.1.tgz",
+			"sha": "bd01a48f0e8dddf33d10ed0871387d7233364626",
+			"registry": "cnpmjs"
+		},
+		"create-react-class-15.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/create-react-class/download/@types/create-react-class-15.6.0.tgz",
+			"sha": "e711fc562e4fa1fc93710b6b202871d35981a5d0",
+			"registry": "cnpmjs"
+		},
+		"create-react-class-15.6.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/create-react-class/download/@types/create-react-class-15.6.2.tgz",
+			"sha": "0e1b89153be31ded959359c2b827cceaa9d18cf6",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833453626
+		}
+	},
+	"_rev": "2-b0f254c1b10ccf93",
+	"readme": "# Installation\r\n> `npm install --save @types/create-react-class`\r\n\r\n# Summary\r\nThis package contains type definitions for create-react-class (https://facebook.github.io/react/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/create-react-class\r\n\r\nAdditional Details\r\n * Last updated: Mon, 06 Aug 2018 21:55:24 GMT\r\n * Dependencies: react\r\n * Global values: createReactClass\r\n\r\n# Credits\r\nThese definitions were written by John Gozde <https://github.com/jgoz>."
+}

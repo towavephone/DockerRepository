@@ -1,0 +1,22 @@
+version: '2'
+services:
+    mysql:
+        restart: always
+        image: mysql
+        ports:
+            - 3307:3306
+        container_name: mysql
+        environment:
+            MYSQL_USER: root
+            MYSQL_PASSWORD: 201213138060tbt,
+            MYSQL_ROOT_PASSWORD: 201213138060tbt,
+        volumes:
+            - ./data/db:/var/lib/mysql
+    phpmyadmin:
+        links:
+          - mysql:db
+        image: phpmyadmin/phpmyadmin
+        container_name: phpmyadmin
+        restart: always
+        ports:
+            - 8081:80

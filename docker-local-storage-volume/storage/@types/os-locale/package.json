@@ -1,0 +1,721 @@
+{
+	"name": "@types/os-locale",
+	"versions": {
+		"2.1.0": {
+			"name": "@types/os-locale",
+			"version": "2.1.0",
+			"description": "TypeScript definitions for os-locale",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Aya Morisawa",
+					"url": "https://github.com/AyaMorisawa"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "43e34dbd1aa00771f04f041a344ebeade5136d0eac0ad4a061864634c8b0448a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/os-locale@2.1.0",
+			"dist": {
+				"shasum": "0ded736612a79e900fa76f02c6ad566d046ad17a",
+				"size": 1576,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-2.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/os-locale-2.1.0.tgz_1502287552614_0.977491479832679"
+			},
+			"directories": {},
+			"publish_time": 1502287552689,
+			"_cnpm_publish_time": 1502287552689,
+			"_hasShrinkwrap": false
+		},
+		"1.4.30": {
+			"name": "@types/os-locale",
+			"version": "1.4.30",
+			"description": "TypeScript definitions for os-locale",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Aya Morisawa",
+					"url": "https://github.com/AyaMorisawa"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1e69603e880b5d085263a321be964b4680ea4f735705e7aa8489f3a480b56a93",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/os-locale@1.4.30",
+			"dist": {
+				"shasum": "4ac383e10a283c568e26f21b34eff62dba1dc7fe",
+				"size": 1599,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/os-locale-1.4.30.tgz_1502229164894_0.7319252954330295"
+			},
+			"directories": {},
+			"publish_time": 1502229164983,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502229164983
+		},
+		"1.4.29": {
+			"name": "@types/os-locale",
+			"version": "1.4.29",
+			"description": "TypeScript definitions for os-locale 1.4.0",
+			"license": "MIT",
+			"author": "Aya Morisawa <https://github.com/AyaMorisawa>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "735ce64380e125f87b9fb212adc8dc4d83eb9a1405a8d2e8476d438bed5ca996",
+			"_id": "@types/os-locale@1.4.29",
+			"dist": {
+				"shasum": "a0a1b8779a160748154f4385bab2584ca6d9104f",
+				"size": 1082,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.29.tgz_1474307896699_0.5539827337488532"
+			},
+			"directories": {},
+			"publish_time": 1474307896952,
+			"_cnpm_publish_time": 1474307896952,
+			"_hasShrinkwrap": false
+		},
+		"1.4.28": {
+			"name": "@types/os-locale",
+			"version": "1.4.28",
+			"description": "TypeScript definitions for os-locale 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/os-locale@1.4.28",
+			"_shasum": "27fb9225df5e350185955041c2e203ca727ca3fe",
+			"_from": "output\\os-locale",
+			"_resolved": "file:output\\os-locale",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "27fb9225df5e350185955041c2e203ca727ca3fe",
+				"size": 1057,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.28.tgz_1468510704850_0.7730638873763382"
+			},
+			"directories": {},
+			"publish_time": 1468510707182,
+			"_cnpm_publish_time": 1468510707182,
+			"_hasShrinkwrap": false
+		},
+		"1.4.27-alpha": {
+			"name": "@types/os-locale",
+			"version": "1.4.27-alpha",
+			"description": "TypeScript definitions for os-locale 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/os-locale@1.4.27-alpha",
+			"_shasum": "f70462885070fd2842bc2686359cefa455cdd047",
+			"_from": "output\\os-locale",
+			"_resolved": "file:output\\os-locale",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f70462885070fd2842bc2686359cefa455cdd047",
+				"size": 1059,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.27-alpha.tgz_1468011761205_0.7404386661946774"
+			},
+			"directories": {},
+			"publish_time": 1468011763655,
+			"_cnpm_publish_time": 1468011763655,
+			"_hasShrinkwrap": false
+		},
+		"1.4.26-alpha": {
+			"name": "@types/os-locale",
+			"version": "1.4.26-alpha",
+			"description": "TypeScript definitions for os-locale 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/os-locale@1.4.26-alpha",
+			"_shasum": "4ee71142d76eb0a25688b11193292061484373d2",
+			"_from": "output\\os-locale",
+			"_resolved": "file:output\\os-locale",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4ee71142d76eb0a25688b11193292061484373d2",
+				"size": 1057,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.26-alpha.tgz_1467593844548_0.7743890646379441"
+			},
+			"directories": {},
+			"publish_time": 1467593848379,
+			"_cnpm_publish_time": 1467593848379,
+			"_hasShrinkwrap": false
+		},
+		"1.4.25-alpha": {
+			"name": "@types/os-locale",
+			"version": "1.4.25-alpha",
+			"description": "TypeScript definitions for os-locale 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/os-locale@1.4.25-alpha",
+			"_shasum": "3ec2eef2bdb8047dc31f78c1b5c3e372341ca718",
+			"_from": "output\\os-locale",
+			"_resolved": "file:output\\os-locale",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3ec2eef2bdb8047dc31f78c1b5c3e372341ca718",
+				"size": 1056,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.25-alpha.tgz_1467428698464_0.3285504213999957"
+			},
+			"directories": {},
+			"publish_time": 1467428698998,
+			"_cnpm_publish_time": 1467428698998,
+			"_hasShrinkwrap": false
+		},
+		"1.4.24-alpha": {
+			"name": "@types/os-locale",
+			"version": "1.4.24-alpha",
+			"description": "TypeScript definitions for os-locale 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/os-locale@1.4.24-alpha",
+			"_shasum": "7456e76911efc84fb85be7e17c63fced564e732c",
+			"_from": "output\\os-locale",
+			"_resolved": "file:output\\os-locale",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7456e76911efc84fb85be7e17c63fced564e732c",
+				"size": 1058,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.24-alpha.tgz_1467416251750_0.5948619528207928"
+			},
+			"directories": {},
+			"publish_time": 1467416254214,
+			"_cnpm_publish_time": 1467416254214,
+			"_hasShrinkwrap": false
+		},
+		"1.4.23-alpha": {
+			"name": "@types/os-locale",
+			"version": "1.4.23-alpha",
+			"description": "TypeScript definitions for os-locale 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/os-locale@1.4.23-alpha",
+			"_shasum": "ca5fcb08e95ddd4c3efc95a0171fadaa7326027d",
+			"_from": "output\\os-locale",
+			"_resolved": "file:output\\os-locale",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ca5fcb08e95ddd4c3efc95a0171fadaa7326027d",
+				"size": 1058,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.23-alpha.tgz_1467404220928_0.9368713072035462"
+			},
+			"directories": {},
+			"publish_time": 1467404221554,
+			"_cnpm_publish_time": 1467404221554,
+			"_hasShrinkwrap": false
+		},
+		"1.4.22-alpha": {
+			"name": "@types/os-locale",
+			"version": "1.4.22-alpha",
+			"description": "TypeScript definitions for os-locale 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/os-locale@1.4.22-alpha",
+			"_shasum": "7969081bc134fb28de2531ce2b9da53c1be5b379",
+			"_from": "output\\os-locale",
+			"_resolved": "file:output\\os-locale",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7969081bc134fb28de2531ce2b9da53c1be5b379",
+				"size": 1027,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.22-alpha.tgz_1464154678051_0.8826690153218806"
+			},
+			"directories": {},
+			"publish_time": 1464154680635,
+			"_cnpm_publish_time": 1464154680635,
+			"_hasShrinkwrap": false
+		},
+		"1.4.21-alpha": {
+			"name": "@types/os-locale",
+			"version": "1.4.21-alpha",
+			"description": "TypeScript definitions for os-locale 1.4.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/os-locale@1.4.21-alpha",
+			"_shasum": "1d105826b97f5ef539a01e6b6aff0700c3073c81",
+			"_from": "output\\os-locale",
+			"_resolved": "file:output\\os-locale",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1d105826b97f5ef539a01e6b6aff0700c3073c81",
+				"size": 1025,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.21-alpha.tgz_1463775702567_0.08601004350930452"
+			},
+			"directories": {},
+			"publish_time": 1463775705032,
+			"_cnpm_publish_time": 1463775705032,
+			"_hasShrinkwrap": false
+		},
+		"1.4.16-alpha": {
+			"name": "@types/os-locale",
+			"version": "1.4.16-alpha",
+			"description": "Type definitions for os-locale 1.4.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/os-locale@1.4.16-alpha",
+			"_shasum": "1c09dc25da94d5fe34a3cb26e5a5d23354ad0f80",
+			"_from": "output\\os-locale",
+			"_resolved": "file:output\\os-locale",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1c09dc25da94d5fe34a3cb26e5a5d23354ad0f80",
+				"size": 1037,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.16-alpha.tgz_1463694974692_0.5814902030397207"
+			},
+			"directories": {},
+			"publish_time": 1463694979466,
+			"_cnpm_publish_time": 1463694979466,
+			"_hasShrinkwrap": false
+		},
+		"1.4.15-alpha": {
+			"name": "@types/os-locale",
+			"version": "1.4.15-alpha",
+			"description": "Type definitions for os-locale 1.4.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Aya Morisawa",
+				"email": "https://github.com/AyaMorisawa"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/os-locale@1.4.15-alpha",
+			"_shasum": "b66905f59738a1a3d290d90c3e8667813e18d143",
+			"_from": "output\\os-locale",
+			"_resolved": "file:output\\os-locale",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b66905f59738a1a3d290d90c3e8667813e18d143",
+				"size": 1031,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/os-locale-1.4.15-alpha.tgz_1463509944837_0.727675600675866"
+			},
+			"directories": {},
+			"publish_time": 1463509945422,
+			"_cnpm_publish_time": 1463509945422,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "2.1.0",
+		"ts2.0": "2.1.0",
+		"ts2.1": "2.1.0",
+		"ts2.2": "2.1.0",
+		"ts2.3": "2.1.0",
+		"ts2.4": "2.1.0",
+		"ts2.5": "2.1.0",
+		"ts2.6": "2.1.0",
+		"ts2.7": "2.1.0",
+		"ts2.8": "2.1.0",
+		"ts2.9": "2.1.0",
+		"ts3.0": "2.1.0",
+		"ts3.1": "2.1.0",
+		"ts3.2": "2.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:23:16.000Z",
+		"created": "2016-05-17T18:32:25.422Z",
+		"2.1.0": "2017-08-09T14:05:52.689Z",
+		"1.4.30": "2017-08-08T21:52:44.983Z",
+		"1.4.29": "2016-09-19T17:58:16.952Z",
+		"1.4.28": "2016-07-14T15:38:27.182Z",
+		"1.4.27-alpha": "2016-07-08T21:02:43.655Z",
+		"1.4.26-alpha": "2016-07-04T00:57:28.379Z",
+		"1.4.25-alpha": "2016-07-02T03:04:58.998Z",
+		"1.4.24-alpha": "2016-07-01T23:37:34.214Z",
+		"1.4.23-alpha": "2016-07-01T20:17:01.554Z",
+		"1.4.22-alpha": "2016-05-25T05:38:00.635Z",
+		"1.4.21-alpha": "2016-05-20T20:21:45.032Z",
+		"1.4.16-alpha": "2016-05-19T21:56:19.466Z",
+		"1.4.15-alpha": "2016-05-17T18:32:25.422Z"
+	},
+	"_distfiles": {
+		"os-locale-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-2.1.0.tgz",
+			"sha": "0ded736612a79e900fa76f02c6ad566d046ad17a",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.30.tgz",
+			"sha": "4ac383e10a283c568e26f21b34eff62dba1dc7fe",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.29.tgz",
+			"sha": "a0a1b8779a160748154f4385bab2584ca6d9104f",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.28.tgz",
+			"sha": "27fb9225df5e350185955041c2e203ca727ca3fe",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.27-alpha.tgz",
+			"sha": "f70462885070fd2842bc2686359cefa455cdd047",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.26-alpha.tgz",
+			"sha": "4ee71142d76eb0a25688b11193292061484373d2",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.25-alpha.tgz",
+			"sha": "3ec2eef2bdb8047dc31f78c1b5c3e372341ca718",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.24-alpha.tgz",
+			"sha": "7456e76911efc84fb85be7e17c63fced564e732c",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.23-alpha.tgz",
+			"sha": "ca5fcb08e95ddd4c3efc95a0171fadaa7326027d",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.22-alpha.tgz",
+			"sha": "7969081bc134fb28de2531ce2b9da53c1be5b379",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.21-alpha.tgz",
+			"sha": "1d105826b97f5ef539a01e6b6aff0700c3073c81",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.16-alpha.tgz",
+			"sha": "1c09dc25da94d5fe34a3cb26e5a5d23354ad0f80",
+			"registry": "cnpmjs"
+		},
+		"os-locale-1.4.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/os-locale/download/@types/os-locale-1.4.15-alpha.tgz",
+			"sha": "b66905f59738a1a3d290d90c3e8667813e18d143",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"4015-2K5Mexqb5UDT+ZerS6FIWnfJuzY\"",
+			"fetched": 1541833486430
+		}
+	},
+	"_rev": "2-e39a1b9233c6f3c6",
+	"readme": "# Installation\r\n> `npm install --save @types/os-locale`\r\n\r\n# Summary\r\nThis package contains type definitions for os-locale (https://github.com/sindresorhus/os-locale).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/os-locale\r\n\r\nAdditional Details\r\n * Last updated: Wed, 09 Aug 2017 14:05:46 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Aya Morisawa <https://github.com/AyaMorisawa>, BendingBender <https://github.com/BendingBender>."
+}

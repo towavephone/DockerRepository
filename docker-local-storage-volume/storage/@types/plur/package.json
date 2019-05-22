@@ -1,0 +1,88 @@
+{
+	"name": "@types/plur",
+	"versions": {
+		"3.0.0": {
+			"name": "@types/plur",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for plur",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Kyle Roach",
+					"url": "https://github.com/iRoachie",
+					"githubUsername": "iRoachie"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "fab752870d10b3052009f25232d35b311b17264cfc1b35c5a9851ea80f015f6f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/plur@3.0.0",
+			"dist": {
+				"shasum": "3fff01f9902f570e7b951a517712caa9fff59d85",
+				"size": 1499,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/plur/download/@types/plur-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/plur_3.0.0_1536906572732_0.15105785039556796"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1536906572894,
+			"_cnpm_publish_time": 1536906572894
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.0",
+		"ts2.0": "3.0.0",
+		"ts2.1": "3.0.0",
+		"ts2.2": "3.0.0",
+		"ts2.3": "3.0.0",
+		"ts2.4": "3.0.0",
+		"ts2.5": "3.0.0",
+		"ts2.6": "3.0.0",
+		"ts2.7": "3.0.0",
+		"ts2.8": "3.0.0",
+		"ts2.9": "3.0.0",
+		"ts3.0": "3.0.0",
+		"ts3.1": "3.0.0",
+		"ts3.2": "3.0.0"
+	},
+	"time": {
+		"modified": "2018-09-14T06:29:52.000Z",
+		"created": "2018-09-14T06:29:32.894Z",
+		"3.0.0": "2018-09-14T06:29:32.894Z"
+	},
+	"_distfiles": {
+		"plur-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/plur/download/@types/plur-3.0.0.tgz",
+			"sha": "3fff01f9902f570e7b951a517712caa9fff59d85",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541835897313
+		}
+	},
+	"_rev": "1-96ffee7f6451c0a2",
+	"readme": "# Installation\r\n> `npm install --save @types/plur`\r\n\r\n# Summary\r\nThis package contains type definitions for plur (https://github.com/sindresorhus/plur#readme).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/plur\r\n\r\nAdditional Details\r\n * Last updated: Fri, 14 Sep 2018 06:28:37 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Kyle Roach <https://github.com/iRoachie>."
+}

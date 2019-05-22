@@ -1,0 +1,86 @@
+{
+	"name": "@types/require-directory",
+	"versions": {
+		"2.1.0": {
+			"name": "@types/require-directory",
+			"version": "2.1.0",
+			"description": "TypeScript definitions for require-directory",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "My Self",
+					"url": "https://github.com/Igmat"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "68b8de373c759254a27a05aa4341be9092027e7841ba00f1c236fe56cd1bf33b",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/require-directory@2.1.0",
+			"dist": {
+				"shasum": "256cd390769e7faa73e4f3f64147c5b4b217cffb",
+				"size": 2259,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/require-directory/download/@types/require-directory-2.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/require-directory-2.1.0.tgz_1502740181674_0.2959241350181401"
+			},
+			"directories": {},
+			"publish_time": 1502740181754,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502740181754
+		}
+	},
+	"dist-tags": {
+		"latest": "2.1.0",
+		"ts2.4": "2.1.0",
+		"ts2.5": "2.1.0",
+		"ts2.6": "2.1.0",
+		"ts2.7": "2.1.0",
+		"ts2.8": "2.1.0",
+		"ts2.9": "2.1.0",
+		"ts3.0": "2.1.0",
+		"ts3.1": "2.1.0",
+		"ts3.2": "2.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:27:51.000Z",
+		"created": "2017-08-14T19:49:41.754Z",
+		"2.1.0": "2017-08-14T19:49:41.754Z"
+	},
+	"_distfiles": {
+		"require-directory-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/require-directory/download/@types/require-directory-2.1.0.tgz",
+			"sha": "256cd390769e7faa73e4f3f64147c5b4b217cffb",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833487803
+		}
+	},
+	"_rev": "2-52fa62d672df9c9d",
+	"readme": "# Installation\r\n> `npm install --save @types/require-directory`\r\n\r\n# Summary\r\nThis package contains type definitions for require-directory (https://github.com/troygoode/node-require-directory/).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/require-directory\r\n\r\nAdditional Details\r\n * Last updated: Mon, 14 Aug 2017 19:47:58 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by My Self <https://github.com/Igmat>."
+}

@@ -1,0 +1,658 @@
+{
+	"name": "@types/wrap-ansi",
+	"versions": {
+		"3.0.0": {
+			"name": "@types/wrap-ansi",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for wrap-ansi",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Klaus Reimer",
+					"url": "https://github.com/kayahr",
+					"githubUsername": "kayahr"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "1bf5d2540b53d30f98a13a4663b153a0c218d18d63b1ada33d60e9d85c568ef8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/wrap-ansi@3.0.0",
+			"dist": {
+				"shasum": "18b97a972f94f60a679fd5c796d96421b9abb9fd",
+				"size": 1717,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/wrap-ansi_3.0.0_1521846032652_0.17946947125274693"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521846032922,
+			"_cnpm_publish_time": 1521846032922
+		},
+		"2.0.15": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.15",
+			"description": "TypeScript definitions for wrap-ansi",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Klaus Reimer",
+					"url": "https://github.com/kayahr",
+					"githubUsername": "kayahr"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "0aed85368c90900a502365bc2d7f7ac8acfe44d8c1c9301af97beaef66cba113",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/wrap-ansi@2.0.15",
+			"dist": {
+				"shasum": "87affc11a46864cb6853b642e89363633d544aa7",
+				"size": 1714,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.15.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/wrap-ansi_2.0.15_1521845698664_0.3620036798758852"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521845698751,
+			"_cnpm_publish_time": 1521845698751
+		},
+		"2.0.14": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.14",
+			"description": "TypeScript definitions for wrap-ansi v2.0.0",
+			"license": "MIT",
+			"author": "Klaus Reimer <https://github.com/kayahr>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "adac7dc53ac4eb52730666dde44502f6cddb161dc792efffb790b62a63326414",
+			"_id": "@types/wrap-ansi@2.0.14",
+			"dist": {
+				"shasum": "5afbdd8374de9ff8ad752cb03ab9f225f7c2ee24",
+				"size": 1229,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.14.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/wrap-ansi-2.0.14.tgz_1474309295678_0.8402534106280655"
+			},
+			"directories": {},
+			"publish_time": 1474309299024,
+			"_cnpm_publish_time": 1474309299024,
+			"_hasShrinkwrap": false
+		},
+		"2.0.13": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.13",
+			"description": "TypeScript definitions for wrap-ansi v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Klaus Reimer",
+				"email": "https://github.com/kayahr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/wrap-ansi@2.0.13",
+			"_shasum": "ad4d8f29f2e69673190463200a8651d40c90a82f",
+			"_from": "output\\wrap-ansi",
+			"_resolved": "file:output\\wrap-ansi",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ad4d8f29f2e69673190463200a8651d40c90a82f",
+				"size": 1204,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.13.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/wrap-ansi-2.0.13.tgz_1468513491966_0.9816889592912048"
+			},
+			"directories": {},
+			"publish_time": 1468513494385,
+			"_cnpm_publish_time": 1468513494385,
+			"_hasShrinkwrap": false
+		},
+		"2.0.12-alpha": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.12-alpha",
+			"description": "TypeScript definitions for wrap-ansi v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Klaus Reimer",
+				"email": "https://github.com/kayahr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/wrap-ansi@2.0.12-alpha",
+			"_shasum": "dcb9c81a819796c4502a3f004c94f29f42066f66",
+			"_from": "output\\wrap-ansi",
+			"_resolved": "file:output\\wrap-ansi",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dcb9c81a819796c4502a3f004c94f29f42066f66",
+				"size": 1213,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.12-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/wrap-ansi-2.0.12-alpha.tgz_1468014564048_0.2731196009553969"
+			},
+			"directories": {},
+			"publish_time": 1468014565463,
+			"_cnpm_publish_time": 1468014565463,
+			"_hasShrinkwrap": false
+		},
+		"2.0.11-alpha": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.11-alpha",
+			"description": "TypeScript definitions for wrap-ansi v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Klaus Reimer",
+				"email": "https://github.com/kayahr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/wrap-ansi@2.0.11-alpha",
+			"_shasum": "8c5e7d7e0c4577dfab7b20584c7495d34240815c",
+			"_from": "output\\wrap-ansi",
+			"_resolved": "file:output\\wrap-ansi",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8c5e7d7e0c4577dfab7b20584c7495d34240815c",
+				"size": 1213,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.11-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/wrap-ansi-2.0.11-alpha.tgz_1467596020258_0.5424928669817746"
+			},
+			"directories": {},
+			"publish_time": 1467596020739,
+			"_cnpm_publish_time": 1467596020739,
+			"_hasShrinkwrap": false
+		},
+		"2.0.10-alpha": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.10-alpha",
+			"description": "TypeScript definitions for wrap-ansi v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Klaus Reimer",
+				"email": "https://github.com/kayahr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/wrap-ansi@2.0.10-alpha",
+			"_shasum": "0d8bf8690469f3a412a318464c785c578f9aa6fe",
+			"_from": "output\\wrap-ansi",
+			"_resolved": "file:output\\wrap-ansi",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0d8bf8690469f3a412a318464c785c578f9aa6fe",
+				"size": 1214,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.10-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/wrap-ansi-2.0.10-alpha.tgz_1467431003466_0.9646666969638318"
+			},
+			"directories": {},
+			"publish_time": 1467431006971,
+			"_cnpm_publish_time": 1467431006971,
+			"_hasShrinkwrap": false
+		},
+		"2.0.9-alpha": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.9-alpha",
+			"description": "TypeScript definitions for wrap-ansi v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Klaus Reimer",
+				"email": "https://github.com/kayahr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/wrap-ansi@2.0.9-alpha",
+			"_shasum": "a8e28a54034c4c307669b7053ead21bd62b7393e",
+			"_from": "output\\wrap-ansi",
+			"_resolved": "file:output\\wrap-ansi",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a8e28a54034c4c307669b7053ead21bd62b7393e",
+				"size": 1212,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.9-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/wrap-ansi-2.0.9-alpha.tgz_1467418829352_0.8380387504585087"
+			},
+			"directories": {},
+			"publish_time": 1467418829886,
+			"_cnpm_publish_time": 1467418829886,
+			"_hasShrinkwrap": false
+		},
+		"2.0.8-alpha": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.8-alpha",
+			"description": "TypeScript definitions for wrap-ansi v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Klaus Reimer",
+				"email": "https://github.com/kayahr"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/wrap-ansi@2.0.8-alpha",
+			"_shasum": "37599ad4c71709019e650ef5563a0240421e7aa0",
+			"_from": "output\\wrap-ansi",
+			"_resolved": "file:output\\wrap-ansi",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "37599ad4c71709019e650ef5563a0240421e7aa0",
+				"size": 1176,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.8-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/wrap-ansi-2.0.8-alpha.tgz_1464156691959_0.024940428091213107"
+			},
+			"directories": {},
+			"publish_time": 1464156692403,
+			"_cnpm_publish_time": 1464156692403,
+			"_hasShrinkwrap": false
+		},
+		"2.0.7-alpha": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.7-alpha",
+			"description": "TypeScript definitions for wrap-ansi v2.0.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Klaus Reimer",
+				"email": "https://github.com/kayahr"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/wrap-ansi@2.0.7-alpha",
+			"_shasum": "39b5f82c78d40ca37cec45c6faa6d8223ebb611a",
+			"_from": "output\\wrap-ansi",
+			"_resolved": "file:output\\wrap-ansi",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "39b5f82c78d40ca37cec45c6faa6d8223ebb611a",
+				"size": 1176,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.7-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/wrap-ansi-2.0.7-alpha.tgz_1463777796502_0.6058829489629716"
+			},
+			"directories": {},
+			"publish_time": 1463777798702,
+			"_cnpm_publish_time": 1463777798702,
+			"_hasShrinkwrap": false
+		},
+		"2.0.2-alpha": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.2-alpha",
+			"description": "Type definitions for wrap-ansi v2.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Klaus Reimer",
+				"email": "https://github.com/kayahr"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/wrap-ansi@2.0.2-alpha",
+			"_shasum": "5e1a8bd458d8609db7f92ca8274cbcfbaab2e7dd",
+			"_from": "output\\wrap-ansi",
+			"_resolved": "file:output\\wrap-ansi",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5e1a8bd458d8609db7f92ca8274cbcfbaab2e7dd",
+				"size": 1184,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.2-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/wrap-ansi-2.0.2-alpha.tgz_1463697913975_0.34692013124004006"
+			},
+			"directories": {},
+			"publish_time": 1463697918710,
+			"_cnpm_publish_time": 1463697918710,
+			"_hasShrinkwrap": false
+		},
+		"2.0.1-alpha": {
+			"name": "@types/wrap-ansi",
+			"version": "2.0.1-alpha",
+			"description": "Type definitions for wrap-ansi v2.0.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Klaus Reimer",
+				"email": "https://github.com/kayahr"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/wrap-ansi@2.0.1-alpha",
+			"_shasum": "fd0639cc27fa461fa61b0ab2093d0c18da89bece",
+			"_from": "output\\wrap-ansi",
+			"_resolved": "file:output\\wrap-ansi",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fd0639cc27fa461fa61b0ab2093d0c18da89bece",
+				"size": 1174,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.1-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/wrap-ansi-2.0.1-alpha.tgz_1463512625633_0.9240699412766844"
+			},
+			"directories": {},
+			"publish_time": 1463512629382,
+			"_cnpm_publish_time": 1463512629382,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.0",
+		"ts2.0": "3.0.0",
+		"ts2.1": "3.0.0",
+		"ts2.2": "3.0.0",
+		"ts2.3": "3.0.0",
+		"ts2.4": "3.0.0",
+		"ts2.5": "3.0.0",
+		"ts2.6": "3.0.0",
+		"ts2.7": "3.0.0",
+		"ts2.8": "3.0.0",
+		"ts2.9": "3.0.0",
+		"ts3.0": "3.0.0",
+		"ts3.1": "3.0.0",
+		"ts3.2": "3.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:34:36.000Z",
+		"created": "2016-05-17T19:17:09.382Z",
+		"3.0.0": "2018-03-23T23:00:32.922Z",
+		"2.0.15": "2018-03-23T22:54:58.751Z",
+		"2.0.14": "2016-09-19T18:21:39.024Z",
+		"2.0.13": "2016-07-14T16:24:54.385Z",
+		"2.0.12-alpha": "2016-07-08T21:49:25.463Z",
+		"2.0.11-alpha": "2016-07-04T01:33:40.739Z",
+		"2.0.10-alpha": "2016-07-02T03:43:26.971Z",
+		"2.0.9-alpha": "2016-07-02T00:20:29.886Z",
+		"2.0.8-alpha": "2016-05-25T06:11:32.403Z",
+		"2.0.7-alpha": "2016-05-20T20:56:38.702Z",
+		"2.0.2-alpha": "2016-05-19T22:45:18.710Z",
+		"2.0.1-alpha": "2016-05-17T19:17:09.382Z"
+	},
+	"_distfiles": {
+		"wrap-ansi-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-3.0.0.tgz",
+			"sha": "18b97a972f94f60a679fd5c796d96421b9abb9fd",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.15.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.15.tgz",
+			"sha": "87affc11a46864cb6853b642e89363633d544aa7",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.14.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.14.tgz",
+			"sha": "5afbdd8374de9ff8ad752cb03ab9f225f7c2ee24",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.13.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.13.tgz",
+			"sha": "ad4d8f29f2e69673190463200a8651d40c90a82f",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.12-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.12-alpha.tgz",
+			"sha": "dcb9c81a819796c4502a3f004c94f29f42066f66",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.11-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.11-alpha.tgz",
+			"sha": "8c5e7d7e0c4577dfab7b20584c7495d34240815c",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.10-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.10-alpha.tgz",
+			"sha": "0d8bf8690469f3a412a318464c785c578f9aa6fe",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.9-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.9-alpha.tgz",
+			"sha": "a8e28a54034c4c307669b7053ead21bd62b7393e",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.8-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.8-alpha.tgz",
+			"sha": "37599ad4c71709019e650ef5563a0240421e7aa0",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.7-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.7-alpha.tgz",
+			"sha": "39b5f82c78d40ca37cec45c6faa6d8223ebb611a",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.2-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.2-alpha.tgz",
+			"sha": "5e1a8bd458d8609db7f92ca8274cbcfbaab2e7dd",
+			"registry": "cnpmjs"
+		},
+		"wrap-ansi-2.0.1-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/wrap-ansi/download/@types/wrap-ansi-2.0.1-alpha.tgz",
+			"sha": "fd0639cc27fa461fa61b0ab2093d0c18da89bece",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833490099
+		}
+	},
+	"_rev": "2-4ebebecfe51b1bc2",
+	"readme": "# Installation\r\n> `npm install --save @types/wrap-ansi`\r\n\r\n# Summary\r\nThis package contains type definitions for wrap-ansi (https://www.npmjs.com/package/wrap-ansi).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/wrap-ansi\r\n\r\nAdditional Details\r\n * Last updated: Fri, 23 Mar 2018 22:51:43 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Klaus Reimer <https://github.com/kayahr>."
+}

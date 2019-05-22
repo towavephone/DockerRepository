@@ -1,0 +1,88 @@
+{
+	"name": "@types/istanbul-reports",
+	"versions": {
+		"1.1.0": {
+			"name": "@types/istanbul-reports",
+			"version": "1.1.0",
+			"description": "TypeScript definitions for istanbul-reports",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jason Cheatham",
+					"url": "https://github.com/jason0x43",
+					"githubUsername": "jason0x43"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/istanbul-lib-report": "*",
+				"@types/istanbul-lib-coverage": "*"
+			},
+			"typesPublisherContentHash": "d9d2c95741344b1fc51f5ff45d6cc90355bca45e1242a9f394a97459dfbf7981",
+			"typeScriptVersion": "2.4",
+			"_id": "@types/istanbul-reports@1.1.0",
+			"dist": {
+				"shasum": "3cb3f3ee82160d735d5c067318a110c4a0a02ac9",
+				"size": 1893,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/istanbul-reports/download/@types/istanbul-reports-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/istanbul-reports-1.1.0.tgz_1504188372294_0.9090217791963369"
+			},
+			"directories": {},
+			"publish_time": 1504188372369,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504188372369
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.0",
+		"ts2.4": "1.1.0",
+		"ts2.5": "1.1.0",
+		"ts2.6": "1.1.0",
+		"ts2.7": "1.1.0",
+		"ts2.8": "1.1.0",
+		"ts2.9": "1.1.0",
+		"ts3.0": "1.1.0",
+		"ts3.1": "1.1.0",
+		"ts3.2": "1.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:14:11.000Z",
+		"created": "2017-08-31T14:06:12.369Z",
+		"1.1.0": "2017-08-31T14:06:12.369Z"
+	},
+	"_distfiles": {
+		"istanbul-reports-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/istanbul-reports/download/@types/istanbul-reports-1.1.0.tgz",
+			"sha": "3cb3f3ee82160d735d5c067318a110c4a0a02ac9",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"994-eEw63UMjyqTEMQrHAFSBKRKFD+M\"",
+			"fetched": 1541833457648
+		}
+	},
+	"_rev": "2-af2ab4a01d390752",
+	"readme": "# Installation\r\n> `npm install --save @types/istanbul-reports`\r\n\r\n# Summary\r\nThis package contains type definitions for istanbul-reports (https://github.com/istanbuljs/istanbuljs).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/istanbul-reports\r\n\r\nAdditional Details\r\n * Last updated: Thu, 31 Aug 2017 14:05:16 GMT\r\n * Dependencies: istanbul-lib-report, istanbul-lib-coverage\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Jason Cheatham <https://github.com/jason0x43>."
+}

@@ -1,0 +1,495 @@
+{
+	"name": "@types/d3-color",
+	"versions": {
+		"1.2.1": {
+			"name": "@types/d3-color",
+			"version": "1.2.1",
+			"description": "TypeScript definitions for D3JS d3-color module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "denisname",
+					"url": "https://github.com/denisname",
+					"githubUsername": "denisname"
+				},
+				{
+					"name": "Hugues Stefanski",
+					"url": "https://github.com/ledragon",
+					"githubUsername": "ledragon"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "84283d1848326ac135e09f58c30ab5121def04123ed865c522ac9a7992258a6b",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-color@1.2.1",
+			"dist": {
+				"shasum": "26141c3c554e320edd40726b793570a3ae57397e",
+				"size": 3986,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-1.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-color_1.2.1_1526955758910_0.8156331258756868"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526955759068,
+			"_cnpm_publish_time": 1526955759068
+		},
+		"1.2.0": {
+			"name": "@types/d3-color",
+			"version": "1.2.0",
+			"description": "TypeScript definitions for D3JS d3-color module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "denisname",
+					"url": "https://github.com/denisname",
+					"githubUsername": "denisname"
+				},
+				{
+					"name": "Hugues Stefanski",
+					"url": "https://github.com/ledragon",
+					"githubUsername": "ledragon"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "61c2ab69fb0f6ed419fe83027d70641bf636dc4562ffd647707fb66c6a916fa0",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-color@1.2.0",
+			"dist": {
+				"shasum": "0a497631e6f7160f52b2a131baebf97430ca02bf",
+				"size": 2614,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-color_1.2.0_1526689172246_0.017649917160998507"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526689172327,
+			"_cnpm_publish_time": 1526689172327
+		},
+		"1.0.6": {
+			"name": "@types/d3-color",
+			"version": "1.0.6",
+			"description": "TypeScript definitions for D3JS d3-color module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek",
+					"githubUsername": "tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache",
+					"githubUsername": "gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov",
+					"githubUsername": "borisyankov"
+				},
+				{
+					"name": "denisname",
+					"url": "https://github.com/denisname",
+					"githubUsername": "denisname"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "1a56525a2c83ee83018c48ad0bec8a84209936fd96e3d70c790ceb85a2fb3be0",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-color@1.0.6",
+			"dist": {
+				"shasum": "6e955f739c3f92bf94e9e3a8cfa2806734244b60",
+				"size": 2335,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-1.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-color_1.0.6_1524611846745_0.20552851566891395"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1524611846840,
+			"_cnpm_publish_time": 1524611846840
+		},
+		"1.0.5": {
+			"name": "@types/d3-color",
+			"version": "1.0.5",
+			"description": "TypeScript definitions for D3JS d3-color module",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Tom Wanzek",
+					"url": "https://github.com/tomwanzek"
+				},
+				{
+					"name": "Alex Ford",
+					"url": "https://github.com/gustavderdrache"
+				},
+				{
+					"name": "Boris Yankov",
+					"url": "https://github.com/borisyankov"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "4a538de1215d9d012b2b5f1e29b4a814987dcc4e6f2b7502e271f34b8ebe39f9",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/d3-color@1.0.5",
+			"dist": {
+				"shasum": "cad755f0fc6de7b70fa6e5e08afa81ef4c2248de",
+				"size": 2282,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-1.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/d3-color-1.0.5.tgz_1495209018601_0.603937566280365"
+			},
+			"directories": {},
+			"publish_time": 1495209018682,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1495209018682
+		},
+		"1.0.4": {
+			"name": "@types/d3-color",
+			"version": "1.0.4",
+			"description": "TypeScript definitions for D3JS d3-color module v1.0.1",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b660f7f23867a177216a681cdc3fd7de099c1ecac16829f95378c7199aa0108e",
+			"_id": "@types/d3-color@1.0.4",
+			"dist": {
+				"shasum": "f0e1b64162fea2f932007fb966c26cc8aff3a47d",
+				"size": 1731,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-color-1.0.4.tgz_1473706839063_0.6274381058756262"
+			},
+			"directories": {},
+			"publish_time": 1473706839299,
+			"_cnpm_publish_time": 1473706839299,
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "@types/d3-color",
+			"version": "0.0.3",
+			"description": "TypeScript definitions for D3JS d3-color module 1.0.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-color@0.0.3",
+			"dist": {
+				"shasum": "b591782c159a80d64b3e44b80396aa9d64950000",
+				"size": 1716,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-0.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-color-0.0.3.tgz_1472150303639_0.9096123103518039"
+			},
+			"directories": {},
+			"publish_time": 1472150305423,
+			"_cnpm_publish_time": 1472150305423,
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "@types/d3-color",
+			"version": "0.0.2",
+			"description": "TypeScript definitions for D3JS d3-color module 1.0.0",
+			"license": "MIT",
+			"author": "Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-color@0.0.2",
+			"dist": {
+				"shasum": "fc38e78f2d556026fdc871c874aa92561b87096d",
+				"size": 1717,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-0.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-color-0.0.2.tgz_1471888616285_0.7086988110095263"
+			},
+			"directories": {},
+			"publish_time": 1471888616525,
+			"_cnpm_publish_time": 1471888616525,
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "@types/d3-color",
+			"version": "0.0.1",
+			"description": "TypeScript definitions for D3JS d3-color module 1.0.0",
+			"license": "MIT",
+			"author": "Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, Tom Wanzek <https://github.com/tomwanzek>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/d3-color@0.0.1",
+			"dist": {
+				"shasum": "75efc99e74377f6e330fa2156ded18f12d47dd76",
+				"size": 1638,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-0.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/d3-color-0.0.1.tgz_1470688519408_0.5441522195469588"
+			},
+			"directories": {},
+			"publish_time": 1470688519653,
+			"_cnpm_publish_time": 1470688519653,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.2.1",
+		"ts2.0": "1.2.1",
+		"ts2.1": "1.2.1",
+		"ts2.2": "1.2.1",
+		"ts2.3": "1.2.1",
+		"ts2.4": "1.2.1",
+		"ts2.5": "1.2.1",
+		"ts2.6": "1.2.1",
+		"ts2.7": "1.2.1",
+		"ts2.8": "1.2.1",
+		"ts2.9": "1.2.1",
+		"ts3.0": "1.2.1",
+		"ts3.1": "1.2.1",
+		"ts3.2": "1.2.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:08:11.000Z",
+		"created": "2016-08-08T20:35:19.653Z",
+		"1.2.1": "2018-05-22T02:22:39.068Z",
+		"1.2.0": "2018-05-19T00:19:32.327Z",
+		"1.0.6": "2018-04-24T23:17:26.840Z",
+		"1.0.5": "2017-05-19T15:50:18.682Z",
+		"1.0.4": "2016-09-12T19:00:39.299Z",
+		"0.0.3": "2016-08-25T18:38:25.423Z",
+		"0.0.2": "2016-08-22T17:56:56.525Z",
+		"0.0.1": "2016-08-08T20:35:19.653Z"
+	},
+	"_distfiles": {
+		"d3-color-1.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-1.2.1.tgz",
+			"sha": "26141c3c554e320edd40726b793570a3ae57397e",
+			"registry": "cnpmjs"
+		},
+		"d3-color-1.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-1.2.0.tgz",
+			"sha": "0a497631e6f7160f52b2a131baebf97430ca02bf",
+			"registry": "cnpmjs"
+		},
+		"d3-color-1.0.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-1.0.6.tgz",
+			"sha": "6e955f739c3f92bf94e9e3a8cfa2806734244b60",
+			"registry": "cnpmjs"
+		},
+		"d3-color-1.0.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-1.0.5.tgz",
+			"sha": "cad755f0fc6de7b70fa6e5e08afa81ef4c2248de",
+			"registry": "cnpmjs"
+		},
+		"d3-color-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-1.0.4.tgz",
+			"sha": "f0e1b64162fea2f932007fb966c26cc8aff3a47d",
+			"registry": "cnpmjs"
+		},
+		"d3-color-0.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-0.0.3.tgz",
+			"sha": "b591782c159a80d64b3e44b80396aa9d64950000",
+			"registry": "cnpmjs"
+		},
+		"d3-color-0.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-0.0.2.tgz",
+			"sha": "fc38e78f2d556026fdc871c874aa92561b87096d",
+			"registry": "cnpmjs"
+		},
+		"d3-color-0.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/d3-color/download/@types/d3-color-0.0.1.tgz",
+			"sha": "75efc99e74377f6e330fa2156ded18f12d47dd76",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833453703
+		}
+	},
+	"_rev": "1-d7dde1fe1ac46540",
+	"readme": "# Installation\r\n> `npm install --save @types/d3-color`\r\n\r\n# Summary\r\nThis package contains type definitions for D3JS d3-color module (https://github.com/d3/d3-color/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped.git/tree/master/types/d3-color\r\n\r\nAdditional Details\r\n * Last updated: Tue, 22 May 2018 02:21:36 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Tom Wanzek <https://github.com/tomwanzek>, Alex Ford <https://github.com/gustavderdrache>, Boris Yankov <https://github.com/borisyankov>, denisname <https://github.com/denisname>, Hugues Stefanski <https://github.com/ledragon>."
+}

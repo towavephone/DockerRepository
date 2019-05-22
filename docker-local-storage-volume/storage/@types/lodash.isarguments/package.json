@@ -1,0 +1,326 @@
+{
+	"name": "@types/lodash.isarguments",
+	"versions": {
+		"3.1.3": {
+			"name": "@types/lodash.isarguments",
+			"version": "3.1.3",
+			"description": "TypeScript definitions for lodash.isArguments",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "6c2c3bedb09ce0439dcd2081f21d697cc54fe01c30ac521d55e83519e835f7d9",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.isarguments@3.1.3",
+			"dist": {
+				"shasum": "42bff4a9af92ede4cc1441872c92e01a0a9b85c3",
+				"size": 1597,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.isarguments/download/@types/lodash.isarguments-3.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.isarguments-3.1.3.tgz_1502228946773_0.1393091450445354"
+			},
+			"directories": {},
+			"publish_time": 1502228946842,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228946842
+		},
+		"3.1.2": {
+			"name": "@types/lodash.isarguments",
+			"version": "3.1.2",
+			"description": "TypeScript definitions for lodash.isArguments",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f220aaffb38c315fef325fd7a82a8f2b6d30b0a663d8ba24dea5b1acdbc761d3",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.isarguments@3.1.2",
+			"dist": {
+				"shasum": "2153758b6f4751644c43460abf4ad2b0db2d9450",
+				"size": 875,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.isarguments/download/@types/lodash.isarguments-3.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.isarguments-3.1.2.tgz_1490212639267_0.8773447263520211"
+			},
+			"directories": {},
+			"publish_time": 1490212641102,
+			"_cnpm_publish_time": 1490212641102,
+			"_hasShrinkwrap": false
+		},
+		"3.1.1": {
+			"name": "@types/lodash.isarguments",
+			"version": "3.1.1",
+			"description": "TypeScript definitions for lodash.isArguments",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "a4c39d417951a782c17deda83a8ca5a13c3a84b2dfd71945794e1a7217f21114",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.isarguments@3.1.1",
+			"dist": {
+				"shasum": "a9d39099c6b8b0e3d6811a954fd6f715660215bf",
+				"size": 1055,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.isarguments/download/@types/lodash.isarguments-3.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.isarguments-3.1.1.tgz_1485553637915_0.919361901236698"
+			},
+			"directories": {},
+			"publish_time": 1485553639918,
+			"_cnpm_publish_time": 1485553639918,
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "@types/lodash.isarguments",
+			"version": "3.1.0",
+			"description": "TypeScript definitions for lodash.isArguments",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2590e1ed0b4e82c97b5f2f5adea7dcbf97a83d1045e426baf30c12d50a639ce9",
+			"_id": "@types/lodash.isarguments@3.1.0",
+			"dist": {
+				"shasum": "0ad986db269401f41818a0d2ae9a6a4d5829c7ba",
+				"size": 1029,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.isarguments/download/@types/lodash.isarguments-3.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.isarguments-3.1.0.tgz_1480973460888_0.2504450334236026"
+			},
+			"directories": {},
+			"publish_time": 1480973462644,
+			"_cnpm_publish_time": 1480973462644,
+			"_hasShrinkwrap": false
+		},
+		"3.1.4": {
+			"name": "@types/lodash.isarguments",
+			"version": "3.1.4",
+			"description": "TypeScript definitions for lodash.isArguments",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "329411fbc75f4c93d7f3920cc567e1f39086e74ba259a1b440bd44d889c69e28",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.isarguments@3.1.4",
+			"dist": {
+				"shasum": "776bb3d8aa08f1ec919065bb46547b4b0fa81ef3",
+				"size": 1602,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.isarguments/download/@types/lodash.isarguments-3.1.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.isarguments_3.1.4_1532393092564_0.9462172110999487"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532393092660,
+			"_cnpm_publish_time": 1532393092660
+		}
+	},
+	"dist-tags": {
+		"latest": "3.1.4",
+		"ts2.0": "3.1.0",
+		"ts2.1": "3.1.1",
+		"ts2.2": "3.1.3",
+		"ts2.3": "3.1.3",
+		"ts2.4": "3.1.3",
+		"ts2.5": "3.1.3",
+		"ts2.6": "3.1.4",
+		"ts2.7": "3.1.4",
+		"ts2.8": "3.1.4",
+		"ts2.9": "3.1.4",
+		"ts3.0": "3.1.4",
+		"ts3.1": "3.1.4",
+		"ts3.2": "3.1.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:16:16.000Z",
+		"created": "2016-12-05T21:31:02.644Z",
+		"3.1.4": "2018-07-24T00:44:52.660Z",
+		"3.1.3": "2017-08-08T21:49:06.842Z",
+		"3.1.2": "2017-03-22T19:57:21.102Z",
+		"3.1.1": "2017-01-27T21:47:19.918Z",
+		"3.1.0": "2016-12-05T21:31:02.644Z"
+	},
+	"_distfiles": {
+		"lodash.isarguments-3.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.isarguments/download/@types/lodash.isarguments-3.1.3.tgz",
+			"sha": "42bff4a9af92ede4cc1441872c92e01a0a9b85c3",
+			"registry": "cnpmjs"
+		},
+		"lodash.isarguments-3.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.isarguments/download/@types/lodash.isarguments-3.1.2.tgz",
+			"sha": "2153758b6f4751644c43460abf4ad2b0db2d9450",
+			"registry": "cnpmjs"
+		},
+		"lodash.isarguments-3.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.isarguments/download/@types/lodash.isarguments-3.1.1.tgz",
+			"sha": "a9d39099c6b8b0e3d6811a954fd6f715660215bf",
+			"registry": "cnpmjs"
+		},
+		"lodash.isarguments-3.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.isarguments/download/@types/lodash.isarguments-3.1.0.tgz",
+			"sha": "0ad986db269401f41818a0d2ae9a6a4d5829c7ba",
+			"registry": "cnpmjs"
+		},
+		"lodash.isarguments-3.1.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.isarguments/download/@types/lodash.isarguments-3.1.4.tgz",
+			"sha": "776bb3d8aa08f1ec919065bb46547b4b0fa81ef3",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1e70-mYNsDfijWcEK/8uJjCzp2hlq95k\"",
+			"fetched": 1541833484558
+		}
+	},
+	"_rev": "2-33bf28d5007c5c9f",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.isarguments`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.isArguments (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.isarguments\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:12 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

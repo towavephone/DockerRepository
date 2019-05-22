@@ -1,0 +1,148 @@
+{
+	"name": "react-pdd-dui",
+	"versions": {
+		"0.0.1-security": {
+			"name": "react-pdd-dui",
+			"version": "0.0.1-security",
+			"description": "This package name is not currently in use, but was formerly occupied by another package. To avoid malicious use, npm is hanging on to the package name, but loosely, and we'll probably give it to you if you want it.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/security-holder.git"
+			},
+			"keywords": [],
+			"author": "",
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/npm/security-holder/issues"
+			},
+			"homepage": "https://github.com/npm/security-holder#readme",
+			"gitHead": "9ef10011153183d323ed420df5bb17eaf08ab730",
+			"_id": "react-pdd-dui@0.0.1-security",
+			"_shasum": "4d58923f8db7421084342f5161d4815daff29ca0",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "kmanion",
+				"email": "kiera@npmjs.com"
+			},
+			"dist": {
+				"shasum": "4d58923f8db7421084342f5161d4815daff29ca0",
+				"size": 579,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-pdd-dui/download/react-pdd-dui-0.0.1-security.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "npm",
+					"email": "npm@npmjs.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-pdd-dui-0.0.1-security.tgz_1486678598578_0.07017601071856916"
+			},
+			"directories": {},
+			"publish_time": 1486678600464,
+			"_cnpm_publish_time": 1486678600464,
+			"_hasShrinkwrap": false
+		},
+		"1.0.38": {
+			"name": "react-pdd-dui",
+			"version": "1.0.38",
+			"description": "前端组件库",
+			"main": "src/index.jsx",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"组件库",
+				"dui"
+			],
+			"author": {
+				"name": "邃宇"
+			},
+			"license": "ISC",
+			"dependencies": {
+				"react-pdd-base": "^1.0.12",
+				"react-pdd-calendar": "^1.0.21",
+				"react-pdd-calendar-expand": "^1.0.5",
+				"react-pdd-confirm": "^1.0.6",
+				"react-pdd-form": "^1.0.15",
+				"react-pdd-modal": "^1.0.8",
+				"react-pdd-msg": "^1.0.7",
+				"react-pdd-pagination": "^1.0.10",
+				"react-pdd-select": "^1.0.30",
+				"react-pdd-tab": "^1.0.6",
+				"react-pdd-table": "^1.0.11",
+				"react-pdd-tips": "^1.0.15"
+			},
+			"devDependencies": {
+				"babel-core": "^6.8.0",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-react": "^6.5.0",
+				"css-loader": "^0.23.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-react": "^6.1.2",
+				"html-webpack-plugin": "^2.19.0",
+				"jsx-loader": "^0.13.2",
+				"node-sass": "^3.8.0",
+				"react": "^0.14.3",
+				"react-dom": "^0.14.3",
+				"sass-loader": "^4.0.0",
+				"style-loader": "^0.13.1",
+				"webpack": "^1.13.1",
+				"webpack-dev-server": "^1.14.1"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"repository": {
+				"type": "git"
+			},
+			"_id": "react-pdd-dui@1.0.38",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "9.2.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-swgOgU44hy8BFZIF3b+9nkq6v5Cw3fuw5b1+SSl07HcZVFCGNRYUd7DUiDzqjTUYPtK7voVe7HFSea3dnqllWA==",
+				"shasum": "aa32284f9274bbd7a659bf81b17bd197d7de26f6",
+				"tarball": "http://npmjs.towavephone.com/react-pdd-dui/-/react-pdd-dui-1.0.38.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.38"
+	},
+	"time": {
+		"modified": "2018-05-31T05:20:51.837Z",
+		"created": "2017-02-09T22:16:40.464Z",
+		"0.0.1-security": "2017-02-09T22:16:40.464Z",
+		"1.0.38": "2018-05-31T05:20:51.837Z"
+	},
+	"_distfiles": {
+		"react-pdd-dui-0.0.1-security.tgz": {
+			"url": "https://registry.npm.taobao.org/react-pdd-dui/download/react-pdd-dui-0.0.1-security.tgz",
+			"sha": "4d58923f8db7421084342f5161d4815daff29ca0",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {
+		"react-pdd-dui-1.0.38.tgz": {
+			"shasum": "aa32284f9274bbd7a659bf81b17bd197d7de26f6"
+		}
+	},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"9e4-xWU5iw9haPGey/ufQlpHcvuG4J4\"",
+			"fetched": 1527744051832
+		}
+	},
+	"_rev": "6-bb90a49094615b6f",
+	"readme": "ERROR: No README data found!"
+}

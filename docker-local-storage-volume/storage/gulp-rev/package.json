@@ -1,0 +1,2543 @@
+{
+	"name": "gulp-rev",
+	"versions": {
+		"8.1.1": {
+			"name": "gulp-rev",
+			"version": "8.1.1",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/sindresorhus/gulp-rev.git"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=4"
+			},
+			"scripts": {
+				"test": "xo && ava"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"modify-filename": "^1.1.0",
+				"plugin-error": "^0.1.2",
+				"rev-hash": "^2.0.0",
+				"rev-path": "^2.0.0",
+				"sort-keys": "^2.0.0",
+				"through2": "^2.0.0",
+				"vinyl": "^2.1.0",
+				"vinyl-file": "^3.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"p-event": "^1.0.0",
+				"xo": "*"
+			},
+			"gitHead": "bb3a3fd51adc304011404e6e4daa183a1baba4c7",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev#readme",
+			"_id": "gulp-rev@8.1.1",
+			"_shasum": "b1106bfaa5653106a11d1612eb0cffde540cb196",
+			"_from": ".",
+			"_npmVersion": "2.15.11",
+			"_nodeVersion": "4.8.4",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "b1106bfaa5653106a11d1612eb0cffde540cb196",
+				"size": 4974,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-8.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-rev-8.1.1.tgz_1514067982365_0.9479527038056403"
+			},
+			"directories": {},
+			"publish_time": 1514067983529,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514067983529
+		},
+		"8.1.0": {
+			"name": "gulp-rev",
+			"version": "8.1.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/sindresorhus/gulp-rev.git"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=4"
+			},
+			"scripts": {
+				"test": "xo && ava"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"modify-filename": "^1.1.0",
+				"rev-hash": "^2.0.0",
+				"rev-path": "^2.0.0",
+				"sort-keys": "^2.0.0",
+				"through2": "^2.0.0",
+				"vinyl-file": "^3.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"p-event": "^1.0.0",
+				"xo": "*"
+			},
+			"gitHead": "fe0c551ca0da6dd790a615ea60bfdb3f507fc1e4",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev#readme",
+			"_id": "gulp-rev@8.1.0",
+			"_shasum": "9123f9a3f935008c66a8c768e71f8b87fb0e0cd7",
+			"_from": ".",
+			"_npmVersion": "2.15.11",
+			"_nodeVersion": "4.8.4",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "9123f9a3f935008c66a8c768e71f8b87fb0e0cd7",
+				"size": 5017,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-8.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-rev-8.1.0.tgz_1509797426251_0.9971865799743682"
+			},
+			"directories": {},
+			"publish_time": 1509797426436,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1509797426436
+		},
+		"8.0.0": {
+			"name": "gulp-rev",
+			"version": "8.0.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/sindresorhus/gulp-rev.git"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=4"
+			},
+			"scripts": {
+				"test": "xo && ava"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"modify-filename": "^1.1.0",
+				"rev-hash": "^2.0.0",
+				"rev-path": "^1.0.0",
+				"sort-keys": "^2.0.0",
+				"through2": "^2.0.0",
+				"vinyl-file": "^3.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"p-event": "^1.0.0",
+				"xo": "*"
+			},
+			"gitHead": "898dffcd9f9d5088895182de543b08b3e83040b3",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev#readme",
+			"_id": "gulp-rev@8.0.0",
+			"_shasum": "02f162fef9ac28e3e03c8f30db0e78b34833abd2",
+			"_from": ".",
+			"_npmVersion": "2.15.11",
+			"_nodeVersion": "4.8.3",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "02f162fef9ac28e3e03c8f30db0e78b34833abd2",
+				"size": 4814,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-8.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-rev-8.0.0.tgz_1500814291305_0.1729142831172794"
+			},
+			"directories": {},
+			"publish_time": 1500814292339,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500814292339
+		},
+		"7.1.2": {
+			"name": "gulp-rev",
+			"version": "7.1.2",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/sindresorhus/gulp-rev.git"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "xo && mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"modify-filename": "^1.1.0",
+				"object-assign": "^4.0.1",
+				"rev-hash": "^1.0.0",
+				"rev-path": "^1.0.0",
+				"sort-keys": "^1.0.0",
+				"through2": "^2.0.0",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"xo": "*"
+			},
+			"xo": {
+				"envs": [
+					"node",
+					"mocha"
+				]
+			},
+			"gitHead": "e895123b92f4a39fcf6a3f37dbdd78bc6f93c0c5",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev#readme",
+			"_id": "gulp-rev@7.1.2",
+			"_shasum": "5e17cc229f6b45c74256f88ad3f2d3e9a3305829",
+			"_from": ".",
+			"_npmVersion": "2.15.5",
+			"_nodeVersion": "4.4.5",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "5e17cc229f6b45c74256f88ad3f2d3e9a3305829",
+				"size": 4854,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-7.1.2.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-7.1.2.tgz_1471045668864_0.0013231236953288317"
+			},
+			"directories": {},
+			"publish_time": 1471045670678,
+			"_cnpm_publish_time": 1471045670678,
+			"_hasShrinkwrap": false
+		},
+		"7.1.1": {
+			"name": "gulp-rev",
+			"version": "7.1.1",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/sindresorhus/gulp-rev.git"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "xo && mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"modify-filename": "^1.1.0",
+				"object-assign": "^4.0.1",
+				"rev-hash": "^1.0.0",
+				"rev-path": "^1.0.0",
+				"sort-keys": "^1.0.0",
+				"through2": "^2.0.0",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"xo": "*"
+			},
+			"xo": {
+				"envs": [
+					"node",
+					"mocha"
+				]
+			},
+			"gitHead": "c8d8e4f7ebdba3099b4a3a7d5a1081f30eb185a4",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev#readme",
+			"_id": "gulp-rev@7.1.1",
+			"_shasum": "d3ab0026706f2984d0eb894e9cbae3bc1cef83f2",
+			"_from": ".",
+			"_npmVersion": "2.15.5",
+			"_nodeVersion": "4.4.5",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "d3ab0026706f2984d0eb894e9cbae3bc1cef83f2",
+				"size": 4886,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-7.1.1.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-7.1.1.tgz_1471044282411_0.9083609750960022"
+			},
+			"directories": {},
+			"publish_time": 1471044284095,
+			"_cnpm_publish_time": 1471044284095,
+			"_hasShrinkwrap": false
+		},
+		"7.1.0": {
+			"name": "gulp-rev",
+			"version": "7.1.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/sindresorhus/gulp-rev.git"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "xo && mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"modify-filename": "^1.1.0",
+				"object-assign": "^4.0.1",
+				"rev-hash": "^1.0.0",
+				"rev-path": "^1.0.0",
+				"sort-keys": "^1.0.0",
+				"through2": "^2.0.0",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"xo": "*"
+			},
+			"xo": {
+				"envs": [
+					"node",
+					"mocha"
+				]
+			},
+			"gitHead": "203cf4ffb084dc0d8ca983062046a7a5eb683163",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev#readme",
+			"_id": "gulp-rev@7.1.0",
+			"_shasum": "0cf6256d854780181979c6881465940cd2e5f220",
+			"_from": ".",
+			"_npmVersion": "2.15.0",
+			"_nodeVersion": "4.4.2",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "0cf6256d854780181979c6881465940cd2e5f220",
+				"size": 4695,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-7.1.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-7.1.0.tgz_1465994071650_0.01747227180749178"
+			},
+			"directories": {},
+			"publish_time": 1465994074986,
+			"_cnpm_publish_time": 1465994074986,
+			"_hasShrinkwrap": false
+		},
+		"7.0.0": {
+			"name": "gulp-rev",
+			"version": "7.0.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/sindresorhus/gulp-rev.git"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "xo && mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"modify-filename": "^1.1.0",
+				"object-assign": "^4.0.1",
+				"rev-hash": "^1.0.0",
+				"rev-path": "^1.0.0",
+				"sort-keys": "^1.0.0",
+				"through2": "^2.0.0",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"xo": "*"
+			},
+			"xo": {
+				"envs": [
+					"node",
+					"mocha"
+				]
+			},
+			"gitHead": "0e00bafd7eca38774388095a3853559e6f6b9178",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev#readme",
+			"_id": "gulp-rev@7.0.0",
+			"_shasum": "8bbc8b54d5a1d7f6859307a36d3019cd80d60cdf",
+			"_from": ".",
+			"_npmVersion": "2.14.12",
+			"_nodeVersion": "4.2.4",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "8bbc8b54d5a1d7f6859307a36d3019cd80d60cdf",
+				"size": 4275,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-7.0.0.tgz"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-6-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-rev-7.0.0.tgz_1455098105639_0.34824139648117125"
+			},
+			"directories": {},
+			"publish_time": 1455098106980,
+			"_cnpm_publish_time": 1455098106980,
+			"_hasShrinkwrap": false
+		},
+		"6.0.1": {
+			"name": "gulp-rev",
+			"version": "6.0.1",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/sindresorhus/gulp-rev.git"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "xo && mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"modify-filename": "^1.1.0",
+				"object-assign": "^4.0.1",
+				"rev-hash": "^1.0.0",
+				"rev-path": "^1.0.0",
+				"sort-keys": "^1.0.0",
+				"through2": "^2.0.0",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"xo": "*"
+			},
+			"xo": {
+				"envs": [
+					"node",
+					"mocha"
+				]
+			},
+			"gitHead": "efe4e8306766eaa5def495f98996d3bf01da9990",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev#readme",
+			"_id": "gulp-rev@6.0.1",
+			"_shasum": "d886a1dc2131d2202bf36a238f8f48065782a0bd",
+			"_from": ".",
+			"_npmVersion": "2.11.3",
+			"_nodeVersion": "0.12.7",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "d886a1dc2131d2202bf36a238f8f48065782a0bd",
+				"size": 4276,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-6.0.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1440582828548,
+			"_cnpm_publish_time": 1440582828548,
+			"_hasShrinkwrap": false
+		},
+		"6.0.0": {
+			"name": "gulp-rev",
+			"version": "6.0.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/sindresorhus/gulp-rev.git"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "xo && mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"object-assign": "^4.0.1",
+				"rev-hash": "^1.0.0",
+				"rev-path": "^1.0.0",
+				"sort-keys": "^1.0.0",
+				"through2": "^2.0.0",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"xo": "*"
+			},
+			"xo": {
+				"envs": [
+					"node",
+					"mocha"
+				]
+			},
+			"gitHead": "dd394fd67262620c11dd41a3f4d912be7d2ccdf2",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev#readme",
+			"_id": "gulp-rev@6.0.0",
+			"_shasum": "ea78e17a66ba18bf88065f8613552de7afdb1be5",
+			"_from": ".",
+			"_npmVersion": "2.13.3",
+			"_nodeVersion": "3.0.0",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "ea78e17a66ba18bf88065f8613552de7afdb1be5",
+				"size": 4226,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-6.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1440149325791,
+			"_cnpm_publish_time": 1440149325791,
+			"_hasShrinkwrap": false
+		},
+		"5.1.0": {
+			"name": "gulp-rev",
+			"version": "5.1.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"object-assign": "^2.0.0",
+				"rev-hash": "^1.0.0",
+				"rev-path": "^1.0.0",
+				"sort-keys": "^1.0.0",
+				"through2": "^0.6.1",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"gitHead": "0e6fb08f46d71c4f9e12c702fb265f4fca90e10c",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@5.1.0",
+			"_shasum": "a2c37cdae321a7b7bbae20d753b60d0e5e87cd48",
+			"_from": ".",
+			"_npmVersion": "2.11.2",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "a2c37cdae321a7b7bbae20d753b60d0e5e87cd48",
+				"size": 4155,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-5.1.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1436185957977,
+			"_cnpm_publish_time": 1436185957977,
+			"_hasShrinkwrap": false
+		},
+		"5.0.1": {
+			"name": "gulp-rev",
+			"version": "5.0.1",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"object-assign": "^2.0.0",
+				"rev-hash": "^1.0.0",
+				"rev-path": "^1.0.0",
+				"through2": "^0.6.1",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"gitHead": "daa23d0a05c297221482fac73c13eeb273825b18",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@5.0.1",
+			"_shasum": "6b93151c6d88e518b1e0654f6a8515110029d600",
+			"_from": ".",
+			"_npmVersion": "2.10.1",
+			"_nodeVersion": "0.12.4",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "6b93151c6d88e518b1e0654f6a8515110029d600",
+				"size": 4123,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-5.0.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1434815596599,
+			"_cnpm_publish_time": 1434815596599,
+			"_hasShrinkwrap": false
+		},
+		"5.0.0": {
+			"name": "gulp-rev",
+			"version": "5.0.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"object-assign": "^2.0.0",
+				"rev-hash": "^1.0.0",
+				"rev-path": "^1.0.0",
+				"through2": "^0.6.1",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"gitHead": "18a686f9fe69278690d116a41d74702f3cf06c01",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@5.0.0",
+			"_shasum": "abe9bde66d2cc4c9845913f82b236718dccaf275",
+			"_from": ".",
+			"_npmVersion": "2.10.1",
+			"_nodeVersion": "0.12.4",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "abe9bde66d2cc4c9845913f82b236718dccaf275",
+				"size": 4127,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-5.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1434473356653,
+			"_cnpm_publish_time": 1434473356653,
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "gulp-rev",
+			"version": "4.0.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revving",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"object-assign": "^2.0.0",
+				"rev-hash": "^1.0.0",
+				"rev-path": "^1.0.0",
+				"through2": "^0.6.1",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"gitHead": "8055682de1a7f80a7c9939f2e42f39d017f0a7d0",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@4.0.0",
+			"_shasum": "663d9184e772247b2f25c4a4e571388742e55ee9",
+			"_from": ".",
+			"_npmVersion": "2.9.1",
+			"_nodeVersion": "0.12.3",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "663d9184e772247b2f25c4a4e571388742e55ee9",
+				"size": 4107,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-4.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1432328901150,
+			"_cnpm_publish_time": 1432328901150,
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "gulp-rev",
+			"version": "3.0.1",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"object-assign": "^2.0.0",
+				"through2": "^0.6.1",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"gitHead": "2f9d798c4d8f4c91bec215df68bfcc3850caa34f",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@3.0.1",
+			"_shasum": "a36aea991a249fc898cca0885b66cd1cf3c775bd",
+			"_from": ".",
+			"_npmVersion": "2.4.1",
+			"_nodeVersion": "1.1.0",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "a36aea991a249fc898cca0885b66cd1cf3c775bd",
+				"size": 4182,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-3.0.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1423633558974,
+			"_cnpm_publish_time": 1423633558974,
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "gulp-rev",
+			"version": "3.0.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"object-assign": "^2.0.0",
+				"through2": "^0.6.1",
+				"vinyl-file": "^1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"gitHead": "b73361fc84aa54a096d0a24c3fc23598ade27e29",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@3.0.0",
+			"_shasum": "02b45067e99a21b75ddadfd1102a27772b45f2c3",
+			"_from": ".",
+			"_npmVersion": "1.4.28",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "02b45067e99a21b75ddadfd1102a27772b45f2c3",
+				"size": 3348,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-3.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1421588752222,
+			"_cnpm_publish_time": 1421588752222,
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "gulp-rev",
+			"version": "2.0.1",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"object-assign": "^1.0.0",
+				"through2": "^0.6.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"gitHead": "615ffcd56a6546500a7cd55313d84e8e2038ab28",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@2.0.1",
+			"_shasum": "0e50ad1bcffdafe2b9bf469e6c40201e8068e4a6",
+			"_from": ".",
+			"_npmVersion": "2.1.2",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "0e50ad1bcffdafe2b9bf469e6c40201e8068e4a6",
+				"size": 2704,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-2.0.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1413712913069,
+			"_cnpm_publish_time": 1413712913069,
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "gulp-rev",
+			"version": "2.0.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"object-assign": "^1.0.0",
+				"through2": "^0.6.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"gitHead": "c85d1be7bb3dca0a6c89d5ecec07ca593cf98fd5",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@2.0.0",
+			"_shasum": "0a8219eef499b05951b7f676e72a86533c32e3ad",
+			"_from": ".",
+			"_npmVersion": "2.1.2",
+			"_nodeVersion": "0.10.32",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "0a8219eef499b05951b7f676e72a86533c32e3ad",
+				"size": 2710,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-2.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1413465008264,
+			"_cnpm_publish_time": 1413465008264,
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "gulp-rev",
+			"version": "1.1.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"object-assign": "^1.0.0",
+				"through2": "^0.6.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"gitHead": "e6b95f0ded31f9ec852c65dc5d463d9940e89460",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@1.1.0",
+			"_shasum": "491f3596abf0bd8dc9cd09c411757c1debd40924",
+			"_from": ".",
+			"_npmVersion": "1.4.23",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "491f3596abf0bd8dc9cd09c411757c1debd40924",
+				"size": 2724,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-1.1.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1408575360375,
+			"_cnpm_publish_time": 1408575360375,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "gulp-rev",
+			"version": "1.0.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "^3.0.0",
+				"through2": "~0.5.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"gitHead": "99a5eff0f82279d97f452776a889d7e690098824",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@1.0.0",
+			"_shasum": "db9b6263b5faed561a456d05cbe21d0deff8f144",
+			"_from": ".",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "db9b6263b5faed561a456d05cbe21d0deff8f144",
+				"size": 2400,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-1.0.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1406329649223,
+			"_cnpm_publish_time": 1406329649223,
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "gulp-rev",
+			"version": "0.4.2",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "~2.2.9",
+				"through2": "~0.5.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@0.4.2",
+			"_shasum": "51143a21711d78ec4a780a7f4b7bd11632529e71",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "51143a21711d78ec4a780a7f4b7bd11632529e71",
+				"size": 2170,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.4.2.tgz"
+			},
+			"directories": {},
+			"publish_time": 1404855786371,
+			"_cnpm_publish_time": 1404855786371,
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "gulp-rev",
+			"version": "0.4.1",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "~2.2.9",
+				"through2": "~0.5.1"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@0.4.1",
+			"_shasum": "cebd48bffbcb7da4e6a3174a513a4250cfe675d5",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "cebd48bffbcb7da4e6a3174a513a4250cfe675d5",
+				"size": 2078,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.4.1.tgz"
+			},
+			"directories": {},
+			"publish_time": 1402039231080,
+			"_cnpm_publish_time": 1402039231080,
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "gulp-rev",
+			"version": "0.4.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "~2.2.9",
+				"through2": "~0.4.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@0.4.0",
+			"_shasum": "0d7478f07d5d23fb835ed434cadf39f3f712e3b3",
+			"_from": ".",
+			"_npmVersion": "1.4.9",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "0d7478f07d5d23fb835ed434cadf39f3f712e3b3",
+				"size": 2108,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.4.0.tgz"
+			},
+			"directories": {},
+			"publish_time": 1400529791211,
+			"_cnpm_publish_time": 1400529791211,
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "gulp-rev",
+			"version": "0.3.2",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "~2.2.9",
+				"through2": "~0.4.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@0.3.2",
+			"dist": {
+				"shasum": "142ec6896bca76629e4260947665938a9b51abc6",
+				"size": 1900,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.3.2.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.6",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1396388486879,
+			"_cnpm_publish_time": 1396388486879,
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "gulp-rev",
+			"version": "0.3.1",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "~2.2.9",
+				"through2": "~0.4.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@0.3.1",
+			"dist": {
+				"shasum": "6b07f041b5c789bc1e97898b2f12e74a361fbd49",
+				"size": 1728,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.3.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.4",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1395655575492,
+			"_cnpm_publish_time": 1395655575492,
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "gulp-rev",
+			"version": "0.3.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "~2.2.9",
+				"through2": "~0.4.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@0.3.0",
+			"dist": {
+				"shasum": "ac22bbbcbf644a0cab8bafa72308343b3b343b01",
+				"size": 1721,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.3.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.4.4",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1394316002597,
+			"_cnpm_publish_time": 1394316002597,
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "gulp-rev",
+			"version": "0.2.1",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"gulp-util": "~2.2.9",
+				"through2": "~0.4.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"readmeFilename": "readme.md",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@0.2.1",
+			"dist": {
+				"shasum": "517a4e411079a7bd71ef42457bb2bcd5e12423be",
+				"size": 1239,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.2.1.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.23",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1390146774544,
+			"_cnpm_publish_time": 1390146774544,
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "gulp-rev",
+			"version": "0.2.0",
+			"description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"map-stream": "~0.1.0"
+			},
+			"devDependencies": {
+				"gulp-util": "~2.2.9",
+				"mocha": "*"
+			},
+			"readmeFilename": "readme.md",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@0.2.0",
+			"dist": {
+				"shasum": "df105581ae6f6da65f27b3dfd1d0b952d2ba795b",
+				"size": 1154,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.2.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.23",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1389299083863,
+			"_cnpm_publish_time": 1389299083863,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "gulp-rev",
+			"version": "0.1.0",
+			"description": "Static asset revisioning by prepending content hash to filenames: unicorn.css => 098f6bcd.unicorn.css",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/sindresorhus/gulp-rev"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "http://sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"scripts": {
+				"test": "mocha"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"gulpplugin",
+				"rev",
+				"revision",
+				"hash",
+				"optimize",
+				"version",
+				"versioning",
+				"cache",
+				"expire",
+				"static",
+				"asset",
+				"assets"
+			],
+			"dependencies": {
+				"event-stream": "~3.0.20"
+			},
+			"devDependencies": {
+				"gulp-util": "~2.1.3",
+				"mocha": "*"
+			},
+			"readmeFilename": "readme.md",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/gulp-rev/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/gulp-rev",
+			"_id": "gulp-rev@0.1.0",
+			"dist": {
+				"shasum": "8cb7d1019ff48f0f7ce325b342856fe1388c785c",
+				"size": 1133,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.1.0.tgz"
+			},
+			"_from": ".",
+			"_npmVersion": "1.3.17",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "bobthecow",
+					"email": "npm@0x7f.us"
+				},
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1387141049850,
+			"_cnpm_publish_time": 1387141049850,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "8.1.1"
+	},
+	"time": {
+		"modified": "2017-12-25T05:23:22.000Z",
+		"created": "2013-12-15T20:57:29.850Z",
+		"8.1.1": "2017-12-23T22:26:23.529Z",
+		"8.1.0": "2017-11-04T12:10:26.436Z",
+		"8.0.0": "2017-07-23T12:51:32.339Z",
+		"7.1.2": "2016-08-12T23:47:50.678Z",
+		"7.1.1": "2016-08-12T23:24:44.095Z",
+		"7.1.0": "2016-06-15T12:34:34.986Z",
+		"7.0.0": "2016-02-10T09:55:06.980Z",
+		"6.0.1": "2015-08-26T09:53:48.548Z",
+		"6.0.0": "2015-08-21T09:28:45.791Z",
+		"5.1.0": "2015-07-06T12:32:37.977Z",
+		"5.0.1": "2015-06-20T15:53:16.599Z",
+		"5.0.0": "2015-06-16T16:49:16.653Z",
+		"4.0.0": "2015-05-22T21:08:21.150Z",
+		"3.0.1": "2015-02-11T05:45:58.974Z",
+		"3.0.0": "2015-01-18T13:45:52.222Z",
+		"2.0.1": "2014-10-19T10:01:53.069Z",
+		"2.0.0": "2014-10-16T13:10:08.264Z",
+		"1.1.0": "2014-08-20T22:56:00.375Z",
+		"1.0.0": "2014-07-25T23:07:29.223Z",
+		"0.4.2": "2014-07-08T21:43:06.371Z",
+		"0.4.1": "2014-06-06T07:20:31.080Z",
+		"0.4.0": "2014-05-19T20:03:11.211Z",
+		"0.3.2": "2014-04-01T21:41:26.879Z",
+		"0.3.1": "2014-03-24T10:06:15.492Z",
+		"0.3.0": "2014-03-08T22:00:02.597Z",
+		"0.2.1": "2014-01-19T15:52:54.544Z",
+		"0.2.0": "2014-01-09T20:24:43.863Z",
+		"0.1.0": "2013-12-15T20:57:29.850Z"
+	},
+	"_distfiles": {
+		"gulp-rev-8.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-8.1.1.tgz",
+			"sha": "b1106bfaa5653106a11d1612eb0cffde540cb196",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-8.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-8.1.0.tgz",
+			"sha": "9123f9a3f935008c66a8c768e71f8b87fb0e0cd7",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-8.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-8.0.0.tgz",
+			"sha": "02f162fef9ac28e3e03c8f30db0e78b34833abd2",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-7.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-7.1.2.tgz",
+			"sha": "5e17cc229f6b45c74256f88ad3f2d3e9a3305829",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-7.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-7.1.1.tgz",
+			"sha": "d3ab0026706f2984d0eb894e9cbae3bc1cef83f2",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-7.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-7.1.0.tgz",
+			"sha": "0cf6256d854780181979c6881465940cd2e5f220",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-7.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-7.0.0.tgz",
+			"sha": "8bbc8b54d5a1d7f6859307a36d3019cd80d60cdf",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-6.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-6.0.1.tgz",
+			"sha": "d886a1dc2131d2202bf36a238f8f48065782a0bd",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-6.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-6.0.0.tgz",
+			"sha": "ea78e17a66ba18bf88065f8613552de7afdb1be5",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-5.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-5.1.0.tgz",
+			"sha": "a2c37cdae321a7b7bbae20d753b60d0e5e87cd48",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-5.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-5.0.1.tgz",
+			"sha": "6b93151c6d88e518b1e0654f6a8515110029d600",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-5.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-5.0.0.tgz",
+			"sha": "abe9bde66d2cc4c9845913f82b236718dccaf275",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-4.0.0.tgz",
+			"sha": "663d9184e772247b2f25c4a4e571388742e55ee9",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-3.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-3.0.1.tgz",
+			"sha": "a36aea991a249fc898cca0885b66cd1cf3c775bd",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-3.0.0.tgz",
+			"sha": "02b45067e99a21b75ddadfd1102a27772b45f2c3",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-2.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-2.0.1.tgz",
+			"sha": "0e50ad1bcffdafe2b9bf469e6c40201e8068e4a6",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-2.0.0.tgz",
+			"sha": "0a8219eef499b05951b7f676e72a86533c32e3ad",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-1.1.0.tgz",
+			"sha": "491f3596abf0bd8dc9cd09c411757c1debd40924",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-1.0.0.tgz",
+			"sha": "db9b6263b5faed561a456d05cbe21d0deff8f144",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-0.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.4.2.tgz",
+			"sha": "51143a21711d78ec4a780a7f4b7bd11632529e71",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-0.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.4.1.tgz",
+			"sha": "cebd48bffbcb7da4e6a3174a513a4250cfe675d5",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-0.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.4.0.tgz",
+			"sha": "0d7478f07d5d23fb835ed434cadf39f3f712e3b3",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-0.3.2.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.3.2.tgz",
+			"sha": "142ec6896bca76629e4260947665938a9b51abc6",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-0.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.3.1.tgz",
+			"sha": "6b07f041b5c789bc1e97898b2f12e74a361fbd49",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-0.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.3.0.tgz",
+			"sha": "ac22bbbcbf644a0cab8bafa72308343b3b343b01",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-0.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.2.1.tgz",
+			"sha": "517a4e411079a7bd71ef42457bb2bcd5e12423be",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-0.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.2.0.tgz",
+			"sha": "df105581ae6f6da65f27b3dfd1d0b952d2ba795b",
+			"registry": "cnpmjs"
+		},
+		"gulp-rev-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/gulp-rev/download/gulp-rev-0.1.0.tgz",
+			"sha": "8cb7d1019ff48f0f7ce325b342856fe1388c785c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"cf30-3z6SM7Cp81GbdB5zGNZyqr/Abuw\"",
+			"fetched": 1527747698194
+		}
+	},
+	"_rev": "13-be7ba7cd2777be62",
+	"readme": "# gulp-rev [![Build Status](https://travis-ci.org/sindresorhus/gulp-rev.svg?branch=master)](https://travis-ci.org/sindresorhus/gulp-rev) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) [![Gitter](https://badges.gitter.im/join_chat.svg)](https://gitter.im/sindresorhus/gulp-rev)\n\n> Static asset revisioning by appending content hash to filenames\n> `unicorn.css` → `unicorn-d41d8cd98f.css`\n\n**This project is feature complete.**\n\nMake sure to set the files to [never expire](http://developer.yahoo.com/performance/rules.html#expires) for this to have an effect.\n\n---\n\n<p align=\"center\"><b>???? Want to strengthen your core JavaScript skills and master ES6?</b><br>I would personally recommend this awesome <a href=\"https://ES6.io/friend/AWESOME\">ES6 course</a> by Wes Bos.<br>Also check out his <a href=\"https://LearnNode.com/friend/AWESOME\">Node.js</a>, <a href=\"https://ReactForBeginners.com/friend/AWESOME\">React</a>, <a href=\"https://SublimeTextBook.com/friend/AWESOME\">Sublime</a> courses.</p>\n\n---\n\n\n## Install\n\n```\n$ npm install --save-dev gulp-rev\n```\n\n\n## Usage\n\n```js\nconst gulp = require('gulp');\nconst rev = require('gulp-rev');\n\ngulp.task('default', () =>\n\tgulp.src('src/*.css')\n\t\t.pipe(rev())\n\t\t.pipe(gulp.dest('dist'))\n);\n```\n\n\n## API\n\n### rev()\n\n### rev.manifest([path], [options])\n\n#### path\n\nType: `string`<br>\nDefault: `rev-manifest.json`\n\nManifest file path.\n\n#### options\n\n##### base\n\nType: `string`<br>\nDefault: `process.cwd()`\n\nOverride the `base` of the manifest file.\n\n##### cwd\n\nType: `string`<br>\nDefault: `process.cwd()`\n\nOverride the current working directory of the manifest file.\n\n##### merge\n\nType: `boolean`<br>\nDefault: `false`\n\nMerge existing manifest file.\n\n##### transformer\n\nType: `object`<br>\nDefault: `JSON`\n\nAn object with `parse` and `stringify` methods. This can be used to provide a\ncustom transformer instead of the default `JSON` for the manifest file.\n\n\n### Original path\n\nOriginal file paths are stored at `file.revOrigPath`. This could come in handy for things like rewriting references to the assets.\n\n\n### Asset hash\n\nThe hash of each rev'd file is stored at `file.revHash`. You can use this for customizing the file renaming, or for building different manifest formats.\n\n\n### Asset manifest\n\n```js\nconst gulp = require('gulp');\nconst rev = require('gulp-rev');\n\ngulp.task('default', () =>\n\t// by default, gulp would pick `assets/css` as the base,\n\t// so we need to set it explicitly:\n\tgulp.src(['assets/css/*.css', 'assets/js/*.js'], {base: 'assets'})\n\t\t.pipe(gulp.dest('build/assets'))  // copy original assets to build dir\n\t\t.pipe(rev())\n\t\t.pipe(gulp.dest('build/assets'))  // write rev'd assets to build dir\n\t\t.pipe(rev.manifest())\n\t\t.pipe(gulp.dest('build/assets'))  // write manifest to build dir\n);\n```\n\nAn asset manifest, mapping the original paths to the revisioned paths, will be written to `build/assets/rev-manifest.json`:\n\n```json\n{\n\t\"css/unicorn.css\": \"css/unicorn-d41d8cd98f.css\",\n\t\"js/unicorn.js\": \"js/unicorn-273c2c123f.js\"\n}\n```\n\nBy default, `rev-manifest.json` will be replaced as a whole. To merge with an existing manifest, pass `merge: true` and the output destination (as `base`) to `rev.manifest()`:\n\n```js\nconst gulp = require('gulp');\nconst rev = require('gulp-rev');\n\ngulp.task('default', () =>\n\t// by default, gulp would pick `assets/css` as the base,\n\t// so we need to set it explicitly:\n\tgulp.src(['assets/css/*.css', 'assets/js/*.js'], {base: 'assets'})\n\t\t.pipe(gulp.dest('build/assets'))\n\t\t.pipe(rev())\n\t\t.pipe(gulp.dest('build/assets'))\n\t\t.pipe(rev.manifest({\n\t\t\tbase: 'build/assets',\n\t\t\tmerge: true // merge with the existing manifest if one exists\n\t\t}))\n\t\t.pipe(gulp.dest('build/assets'))\n);\n```\n\nYou can optionally call `rev.manifest('manifest.json')` to give it a different path or filename.\n\n\n## Sourcemaps and `gulp-concat`\n\nBecause of the way `gulp-concat` handles file paths, you may need to set `cwd` and `path` manually on your `gulp-concat` instance to get everything to work correctly:\n\n```js\nconst gulp = require('gulp');\nconst rev = require('gulp-rev');\nconst sourcemaps = require('gulp-sourcemaps');\nconst concat = require('gulp-concat');\n\ngulp.task('default', () =>\n\tgulp.src('src/*.js')\n\t\t.pipe(sourcemaps.init())\n\t\t.pipe(concat({path: 'bundle.js', cwd: ''}))\n\t\t.pipe(rev())\n\t\t.pipe(sourcemaps.write('.'))\n\t\t.pipe(gulp.dest('dist'))\n)\n```\n\n\n## Different hash for unchanged files\n\nSince the order of streams are not guaranteed, some plugins such as `gulp-concat` can cause the final file's content and hash to change. To avoid generating a new hash for unchanged source files, you can:\n\n- Sort the streams with [gulp-sort](https://github.com/pgilad/gulp-sort)\n- Filter unchanged files with [gulp-unchanged](https://github.com/sindresorhus/gulp-changed)\n- Read more about [incremental builds](https://github.com/gulpjs/gulp#incremental-builds)\n\n\n## Streaming\n\nThis plugin does not support streaming. If you have files from a streaming source, such as Browserify, you should use [`gulp-buffer`](https://github.com/jeromew/gulp-buffer) before `gulp-rev` in your pipeline:\n\n```js\nconst gulp = require('gulp');\nconst browserify = require('browserify');\nconst source = require('vinyl-source-stream');\nconst buffer = require('gulp-buffer');\nconst rev = require('gulp-rev');\n\ngulp.task('default', () =>\n\tbrowserify('src/index.js')\n\t\t.bundle({debug: true})\n\t\t.pipe(source('index.min.js'))\n\t\t.pipe(buffer())\n\t\t.pipe(rev())\n\t\t.pipe(gulp.dest('dist'))\n);\n```\n\n\n## Integration\n\nFor more info on how to integrate `gulp-rev` into your app, have a look at the [integration guide](integration.md).\n\n\n## Use gulp-rev in combination with one or more of\n\nIt may be useful - and necessary - to use `gulp-rev` with other packages to complete the task.\n\n- [gulp-rev-replace](https://github.com/jamesknelson/gulp-rev-replace) - Rewrite occurences of filenames which have been renamed\n- [gulp-rev-css-url](https://github.com/galkinrost/gulp-rev-css-url) - Override URLs in CSS files with the revved ones\n- [gulp-rev-outdated](https://github.com/shonny-ua/gulp-rev-outdated) - Old static asset revision files filter\n- [gulp-rev-collector](https://github.com/shonny-ua/gulp-rev-collector) - Static asset revision data collector\n- [rev-del](https://github.com/callumacrae/rev-del) - Delete old unused assets\n- [gulp-rev-delete-original](https://github.com/nib-health-funds/gulp-rev-delete-original) - Delete original files after rev\n- [gulp-rev-loader](https://github.com/adjavaherian/gulp-rev-loader) - Use rev-manifest with webpack\n- [gulp-rev-format](https://github.com/atamas101/gulp-rev-format) - Provide hash formatting options for static assets (prefix, suffix, last-extension)\n\n\n## Maintainers\n\n- [Sindre Sorhus](https://sindresorhus.com)\n- [Justin Hileman](http://justinhileman.info)\n- [Ben Bieler](https://github.com/benbieler)\n- [Gabin Aureche](https://gabinaureche.com)\n\n\n## License\n\nMIT © [Sindre Sorhus](https://sindresorhus.com)"
+}

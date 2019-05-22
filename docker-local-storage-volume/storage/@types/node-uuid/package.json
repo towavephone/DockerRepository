@@ -1,0 +1,684 @@
+{
+	"name": "@types/node-uuid",
+	"versions": {
+		"0.0.28": {
+			"name": "@types/node-uuid",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for node-uuid.js",
+			"license": "MIT",
+			"author": "Jeff May <https://github.com/jeffmay>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "614330d84ed6f15d2bb57d21c90f9e6f17898ad95cd1f2804e31344fa003f5f4",
+			"_id": "@types/node-uuid@0.0.28",
+			"dist": {
+				"shasum": "41655b5ce63b2f3374c4e826b4dd21e729058e3d",
+				"size": 1442,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-0.0.28.tgz_1474307780324_0.4460831724572927"
+			},
+			"directories": {},
+			"publish_time": 1474307780566,
+			"_cnpm_publish_time": 1474307780566,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/node-uuid",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for node-uuid.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/node-uuid@0.0.27",
+			"_shasum": "e93c25e33d4c807ee3507fe9b0cbdb5d40d5e9af",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e93c25e33d4c807ee3507fe9b0cbdb5d40d5e9af",
+				"size": 1425,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-0.0.27.tgz_1468510405888_0.9493842001538724"
+			},
+			"directories": {},
+			"publish_time": 1468510408244,
+			"_cnpm_publish_time": 1468510408244,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/node-uuid",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for node-uuid.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.28-alpha"
+			},
+			"_id": "@types/node-uuid@0.0.26-alpha",
+			"_shasum": "5965950c8c8a71aeefc68942101f0fd2d6f5fda2",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5965950c8c8a71aeefc68942101f0fd2d6f5fda2",
+				"size": 1431,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-0.0.26-alpha.tgz_1468332113912_0.9644485956523567"
+			},
+			"directories": {},
+			"publish_time": 1468332115633,
+			"_cnpm_publish_time": 1468332115633,
+			"_hasShrinkwrap": false
+		},
+		"6.0.26-alpha": {
+			"name": "@types/node-uuid",
+			"version": "6.0.26-alpha",
+			"description": "TypeScript definitions for node-uuid.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/node-uuid@6.0.26-alpha",
+			"_shasum": "16a8f4eb2bf263be7efec43036d815491760c15a",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "16a8f4eb2bf263be7efec43036d815491760c15a",
+				"size": 1431,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-6.0.26-alpha.tgz_1468011558418_0.49150259513407946"
+			},
+			"directories": {},
+			"publish_time": 1468011559801,
+			"_cnpm_publish_time": 1468011559801,
+			"_hasShrinkwrap": false
+		},
+		"6.0.25-alpha": {
+			"name": "@types/node-uuid",
+			"version": "6.0.25-alpha",
+			"description": "TypeScript definitions for node-uuid.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/node-uuid@6.0.25-alpha",
+			"_shasum": "54758c9e41dcc35faf0545f37e6e8d50cbca8f93",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "54758c9e41dcc35faf0545f37e6e8d50cbca8f93",
+				"size": 1432,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-6.0.25-alpha.tgz_1467593738323_0.47985224705189466"
+			},
+			"directories": {},
+			"publish_time": 1467593738918,
+			"_cnpm_publish_time": 1467593738918,
+			"_hasShrinkwrap": false
+		},
+		"6.0.24-alpha": {
+			"name": "@types/node-uuid",
+			"version": "6.0.24-alpha",
+			"description": "TypeScript definitions for node-uuid.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.25-alpha"
+			},
+			"_id": "@types/node-uuid@6.0.24-alpha",
+			"_shasum": "0533ef004b924b5ff34014d08c6839ef4cbacaa5",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0533ef004b924b5ff34014d08c6839ef4cbacaa5",
+				"size": 1433,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-6.0.24-alpha.tgz_1467428788689_0.3150870972312987"
+			},
+			"directories": {},
+			"publish_time": 1467428789231,
+			"_cnpm_publish_time": 1467428789231,
+			"_hasShrinkwrap": false
+		},
+		"6.0.23-alpha": {
+			"name": "@types/node-uuid",
+			"version": "6.0.23-alpha",
+			"description": "TypeScript definitions for node-uuid.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/node-uuid@6.0.23-alpha",
+			"_shasum": "783185b830c6dddf17d0cf5ba4fceb6d6f293f59",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "783185b830c6dddf17d0cf5ba4fceb6d6f293f59",
+				"size": 1431,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-6.0.23-alpha.tgz_1467416163962_0.4995605053845793"
+			},
+			"directories": {},
+			"publish_time": 1467416167359,
+			"_cnpm_publish_time": 1467416167359,
+			"_hasShrinkwrap": false
+		},
+		"6.0.22-alpha": {
+			"name": "@types/node-uuid",
+			"version": "6.0.22-alpha",
+			"description": "TypeScript definitions for node-uuid.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/node-uuid@6.0.22-alpha",
+			"_shasum": "609708b1b8122cdcd3d06c59a7e8bd5699dff6f6",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "609708b1b8122cdcd3d06c59a7e8bd5699dff6f6",
+				"size": 1422,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-6.0.22-alpha.tgz_1467403874000_0.5817716859746724"
+			},
+			"directories": {},
+			"publish_time": 1467403876246,
+			"_cnpm_publish_time": 1467403876246,
+			"_hasShrinkwrap": false
+		},
+		"6.0.21-alpha": {
+			"name": "@types/node-uuid",
+			"version": "6.0.21-alpha",
+			"description": "TypeScript definitions for node-uuid.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/node-uuid@6.0.21-alpha",
+			"_shasum": "413175e0224e1c3a0d1f97ff986eadb478ef0cda",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "413175e0224e1c3a0d1f97ff986eadb478ef0cda",
+				"size": 1398,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-6.0.21-alpha.tgz_1464154483582_0.7414362034760416"
+			},
+			"directories": {},
+			"publish_time": 1464154486055,
+			"_cnpm_publish_time": 1464154486055,
+			"_hasShrinkwrap": false
+		},
+		"6.0.20-alpha": {
+			"name": "@types/node-uuid",
+			"version": "6.0.20-alpha",
+			"description": "TypeScript definitions for node-uuid.js",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/node-uuid@6.0.20-alpha",
+			"_shasum": "7cc6bdb217b77f686ddb37f822908105f0403024",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7cc6bdb217b77f686ddb37f822908105f0403024",
+				"size": 1400,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-6.0.20-alpha.tgz_1463775480048_0.24577378877438605"
+			},
+			"directories": {},
+			"publish_time": 1463775482103,
+			"_cnpm_publish_time": 1463775482103,
+			"_hasShrinkwrap": false
+		},
+		"6.0.15-alpha": {
+			"name": "@types/node-uuid",
+			"version": "6.0.15-alpha",
+			"description": "Type definitions for node-uuid.js from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/node-uuid@6.0.15-alpha",
+			"_shasum": "5d7519d263be92848e5422c34b8ef9c172a39088",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5d7519d263be92848e5422c34b8ef9c172a39088",
+				"size": 1405,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-6.0.15-alpha.tgz_1463694701584_0.10126879741437733"
+			},
+			"directories": {},
+			"publish_time": 1463694706578,
+			"_cnpm_publish_time": 1463694706578,
+			"_hasShrinkwrap": false
+		},
+		"6.0.14-alpha": {
+			"name": "@types/node-uuid",
+			"version": "6.0.14-alpha",
+			"description": "Type definitions for node-uuid.js from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jeff May",
+				"email": "https://github.com/jeffmay"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/node-uuid@6.0.14-alpha",
+			"_shasum": "41c5870eab319713d64a300a1dfb0ef43c9538d0",
+			"_from": "output\\node-uuid",
+			"_resolved": "file:output\\node-uuid",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "41c5870eab319713d64a300a1dfb0ef43c9538d0",
+				"size": 1400,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/node-uuid-6.0.14-alpha.tgz_1463509703962_0.8116718644741923"
+			},
+			"directories": {},
+			"publish_time": 1463509704563,
+			"_cnpm_publish_time": 1463509704563,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.28",
+		"ts2.0": "0.0.28",
+		"ts2.1": "0.0.28",
+		"ts2.2": "0.0.28",
+		"ts2.3": "0.0.28",
+		"ts2.4": "0.0.28",
+		"ts2.5": "0.0.28",
+		"ts2.6": "0.0.28",
+		"ts2.7": "0.0.28",
+		"ts2.8": "0.0.28",
+		"ts2.9": "0.0.28",
+		"ts3.0": "0.0.28",
+		"ts3.1": "0.0.28",
+		"ts3.2": "0.0.28"
+	},
+	"time": {
+		"modified": "2018-10-10T20:22:53.000Z",
+		"created": "2016-05-17T18:28:24.563Z",
+		"0.0.28": "2016-09-19T17:56:20.566Z",
+		"0.0.27": "2016-07-14T15:33:28.244Z",
+		"0.0.26-alpha": "2016-07-12T14:01:55.633Z",
+		"6.0.26-alpha": "2016-07-08T20:59:19.801Z",
+		"6.0.25-alpha": "2016-07-04T00:55:38.918Z",
+		"6.0.24-alpha": "2016-07-02T03:06:29.231Z",
+		"6.0.23-alpha": "2016-07-01T23:36:07.359Z",
+		"6.0.22-alpha": "2016-07-01T20:11:16.246Z",
+		"6.0.21-alpha": "2016-05-25T05:34:46.055Z",
+		"6.0.20-alpha": "2016-05-20T20:18:02.103Z",
+		"6.0.15-alpha": "2016-05-19T21:51:46.578Z",
+		"6.0.14-alpha": "2016-05-17T18:28:24.563Z"
+	},
+	"_distfiles": {
+		"node-uuid-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-0.0.28.tgz",
+			"sha": "41655b5ce63b2f3374c4e826b4dd21e729058e3d",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-0.0.27.tgz",
+			"sha": "e93c25e33d4c807ee3507fe9b0cbdb5d40d5e9af",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-0.0.26-alpha.tgz",
+			"sha": "5965950c8c8a71aeefc68942101f0fd2d6f5fda2",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-6.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.26-alpha.tgz",
+			"sha": "16a8f4eb2bf263be7efec43036d815491760c15a",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-6.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.25-alpha.tgz",
+			"sha": "54758c9e41dcc35faf0545f37e6e8d50cbca8f93",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-6.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.24-alpha.tgz",
+			"sha": "0533ef004b924b5ff34014d08c6839ef4cbacaa5",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-6.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.23-alpha.tgz",
+			"sha": "783185b830c6dddf17d0cf5ba4fceb6d6f293f59",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-6.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.22-alpha.tgz",
+			"sha": "609708b1b8122cdcd3d06c59a7e8bd5699dff6f6",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-6.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.21-alpha.tgz",
+			"sha": "413175e0224e1c3a0d1f97ff986eadb478ef0cda",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-6.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.20-alpha.tgz",
+			"sha": "7cc6bdb217b77f686ddb37f822908105f0403024",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-6.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.15-alpha.tgz",
+			"sha": "5d7519d263be92848e5422c34b8ef9c172a39088",
+			"registry": "cnpmjs"
+		},
+		"node-uuid-6.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/node-uuid/download/@types/node-uuid-6.0.14-alpha.tgz",
+			"sha": "41c5870eab319713d64a300a1dfb0ef43c9538d0",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833485856
+		}
+	},
+	"_rev": "2-cbc7ab9e176f6e42",
+	"readme": "# Installation\r\n> `npm install --save @types/node-uuid`\r\n\r\n# Summary\r\nThis package contains type definitions for node-uuid.js (https://github.com/broofa/node-uuid).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/node-uuid\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 17:28:59 GMT\r\n * File structure: UMD\r\n * Library Dependencies: node\r\n * Module Dependencies: none\r\n * Global values: uuid\r\n\r\n# Credits\r\nThese definitions were written by Jeff May <https://github.com/jeffmay>."
+}

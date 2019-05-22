@@ -1,0 +1,90 @@
+{
+	"name": "@types/hosted-git-info",
+	"versions": {
+		"2.7.0": {
+			"name": "@types/hosted-git-info",
+			"version": "2.7.0",
+			"description": "TypeScript definitions for hosted-git-info",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jason",
+					"url": "https://github.com/OiyouYeahYou",
+					"githubUsername": "OiyouYeahYou"
+				}
+			],
+			"main": "",
+			"types": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "03f504c78b3df7bcaa044992ec2d45963ab990702852674090fee5919c4d8ac0",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/hosted-git-info@2.7.0",
+			"dist": {
+				"shasum": "5199b4df62d53f51d60520d61513eaa4b2dd3d3d",
+				"size": 2015,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hosted-git-info/download/@types/hosted-git-info-2.7.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/hosted-git-info_2.7.0_1541113884430_0.6444016064597766"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1541113884586,
+			"_cnpm_publish_time": 1541113884586
+		}
+	},
+	"dist-tags": {
+		"latest": "2.7.0",
+		"ts2.0": "2.7.0",
+		"ts2.1": "2.7.0",
+		"ts2.2": "2.7.0",
+		"ts2.3": "2.7.0",
+		"ts2.4": "2.7.0",
+		"ts2.5": "2.7.0",
+		"ts2.6": "2.7.0",
+		"ts2.7": "2.7.0",
+		"ts2.8": "2.7.0",
+		"ts2.9": "2.7.0",
+		"ts3.0": "2.7.0",
+		"ts3.1": "2.7.0",
+		"ts3.2": "2.7.0"
+	},
+	"time": {
+		"modified": "2018-11-01T23:11:35.000Z",
+		"created": "2018-11-01T23:11:24.586Z",
+		"2.7.0": "2018-11-01T23:11:24.586Z"
+	},
+	"_distfiles": {
+		"hosted-git-info-2.7.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hosted-git-info/download/@types/hosted-git-info-2.7.0.tgz",
+			"sha": "5199b4df62d53f51d60520d61513eaa4b2dd3d3d",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"950-t7cdswYEmh0GYyE0eJrmN8DVb7s\"",
+			"fetched": 1541833456458
+		}
+	},
+	"_rev": "1-bf0edc2bc36bd05a",
+	"readme": "# Installation\r\n> `npm install --save @types/hosted-git-info`\r\n\r\n# Summary\r\nThis package contains type definitions for hosted-git-info (https://github.com/npm/hosted-git-info).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/hosted-git-info\r\n\r\nAdditional Details\r\n * Last updated: Thu, 01 Nov 2018 23:10:57 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Jason <https://github.com/OiyouYeahYou>."
+}

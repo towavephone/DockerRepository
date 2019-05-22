@@ -1,0 +1,141 @@
+{
+	"name": "@types/filenamify",
+	"versions": {
+		"2.0.1": {
+			"name": "@types/filenamify",
+			"version": "2.0.1",
+			"description": "TypeScript definitions for filenamify",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Junyoung Choi",
+					"url": "https://github.com/rokt33r"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "223dc3d47a4061850fc3e02960e939e9d9469e87444fa99015d04ca947c34745",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/filenamify@2.0.1",
+			"dist": {
+				"shasum": "2a75ad266f4fb82e113ef7fdc52e0355c27c2b3d",
+				"size": 1538,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/filenamify/download/@types/filenamify-2.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/filenamify-2.0.1.tgz_1503352327619_0.3455855972133577"
+			},
+			"directories": {},
+			"publish_time": 1503352327681,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352327681
+		},
+		"2.0.0": {
+			"name": "@types/filenamify",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for filenamify",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Junyoung Choi",
+					"url": "https://github.com/rokt33r"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "295c874ec0a0546cd425ded0109b7c9dc95a5ce5ad696d7ab3f043a815717764",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/filenamify@2.0.0",
+			"dist": {
+				"shasum": "8e85a3bdd37d69e69c8541e6a2d138c559b2004a",
+				"size": 1533,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/filenamify/download/@types/filenamify-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/filenamify-2.0.0.tgz_1500558804391_0.4987773420289159"
+			},
+			"directories": {},
+			"publish_time": 1500558805330,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500558805330
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.1",
+		"ts2.0": "2.0.1",
+		"ts2.1": "2.0.1",
+		"ts2.2": "2.0.1",
+		"ts2.3": "2.0.1",
+		"ts2.4": "2.0.1",
+		"ts2.5": "2.0.1",
+		"ts2.6": "2.0.1",
+		"ts2.7": "2.0.1",
+		"ts2.8": "2.0.1",
+		"ts2.9": "2.0.1",
+		"ts3.0": "2.0.1",
+		"ts3.1": "2.0.1",
+		"ts3.2": "2.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:11:21.000Z",
+		"created": "2017-07-20T13:53:25.330Z",
+		"2.0.1": "2017-08-21T21:52:07.681Z",
+		"2.0.0": "2017-07-20T13:53:25.330Z"
+	},
+	"_distfiles": {
+		"filenamify-2.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/filenamify/download/@types/filenamify-2.0.1.tgz",
+			"sha": "2a75ad266f4fb82e113ef7fdc52e0355c27c2b3d",
+			"registry": "cnpmjs"
+		},
+		"filenamify-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/filenamify/download/@types/filenamify-2.0.0.tgz",
+			"sha": "8e85a3bdd37d69e69c8541e6a2d138c559b2004a",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"d57-OpD5LlY5XLppPiwFY2x9jnI4jjU\"",
+			"fetched": 1541833455609
+		}
+	},
+	"_rev": "2-27e1d0c6f599df28",
+	"readme": "# Installation\r\n> `npm install --save @types/filenamify`\r\n\r\n# Summary\r\nThis package contains type definitions for filenamify (https://github.com/sindresorhus/filenamify).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/filenamify\r\n\r\nAdditional Details\r\n * Last updated: Mon, 21 Aug 2017 21:49:18 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Junyoung Choi <https://github.com/rokt33r>."
+}

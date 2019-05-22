@@ -1,0 +1,692 @@
+{
+	"name": "@types/watch",
+	"versions": {
+		"1.0.0": {
+			"name": "@types/watch",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for watch",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Carlos Ballesteros Velasco",
+					"url": "https://github.com/soywiz"
+				},
+				{
+					"name": "Gyusun Yeom",
+					"url": "https://github.com/Perlmint"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "14656cc2049c3e2c755ee6bf913d7f5af60e9b986535a0e27f53af0c5a22badf",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/watch@1.0.0",
+			"dist": {
+				"shasum": "99269e99c149c9c2da5dd5aef8bee5fc44585648",
+				"size": 1931,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/watch-1.0.0.tgz_1493946775905_0.16201961250044405"
+			},
+			"directories": {},
+			"publish_time": 1493946777841,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493946777841
+		},
+		"0.0.28": {
+			"name": "@types/watch",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for watch",
+			"license": "MIT",
+			"author": "Carlos Ballesteros Velasco <https://github.com/soywiz>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "0a57a09bc9851afdbe4302bf1e1e52dbfd082967cabe3c142ae9f75c6b473e8d",
+			"_id": "@types/watch@0.0.28",
+			"dist": {
+				"shasum": "9befa2be2875af70710976b1a6a710bd13e4cc85",
+				"size": 1321,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.28.tgz_1474309206290_0.8842141928616911"
+			},
+			"directories": {},
+			"publish_time": 1474309209367,
+			"_cnpm_publish_time": 1474309209367,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/watch",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for watch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/watch@0.0.27",
+			"_shasum": "d35aef96468a46de289ceec08282844e0fe2f404",
+			"_from": "output\\watch",
+			"_resolved": "file:output\\watch",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d35aef96468a46de289ceec08282844e0fe2f404",
+				"size": 1306,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.27.tgz_1468513333535_0.9975845068693161"
+			},
+			"directories": {},
+			"publish_time": 1468513335966,
+			"_cnpm_publish_time": 1468513335966,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/watch",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for watch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/watch@0.0.26-alpha",
+			"_shasum": "bff7973234157db8ae4069c881972fef42bc6d2d",
+			"_from": "output\\watch",
+			"_resolved": "file:output\\watch",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bff7973234157db8ae4069c881972fef42bc6d2d",
+				"size": 1315,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.26-alpha.tgz_1468014155381_0.5528099699877203"
+			},
+			"directories": {},
+			"publish_time": 1468014157927,
+			"_cnpm_publish_time": 1468014157927,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/watch",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for watch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/watch@0.0.25-alpha",
+			"_shasum": "872c471875ccc1267f2c4b4ead2de44d6df9ce38",
+			"_from": "output\\watch",
+			"_resolved": "file:output\\watch",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "872c471875ccc1267f2c4b4ead2de44d6df9ce38",
+				"size": 1315,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.25-alpha.tgz_1467595744615_0.354599125450477"
+			},
+			"directories": {},
+			"publish_time": 1467595747884,
+			"_cnpm_publish_time": 1467595747884,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/watch",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for watch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.25-alpha"
+			},
+			"_id": "@types/watch@0.0.24-alpha",
+			"_shasum": "9ceafb117335c2964eec8059ea6e72f515573fcb",
+			"_from": "output\\watch",
+			"_resolved": "file:output\\watch",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9ceafb117335c2964eec8059ea6e72f515573fcb",
+				"size": 1314,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.24-alpha.tgz_1467430761061_0.11207852000370622"
+			},
+			"directories": {},
+			"publish_time": 1467430761583,
+			"_cnpm_publish_time": 1467430761583,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/watch",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for watch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/watch@0.0.23-alpha",
+			"_shasum": "ef5c329dc0d05498278b9eed686b9ea90daec5aa",
+			"_from": "output\\watch",
+			"_resolved": "file:output\\watch",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ef5c329dc0d05498278b9eed686b9ea90daec5aa",
+				"size": 1314,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.23-alpha.tgz_1467418457486_0.16866040253080428"
+			},
+			"directories": {},
+			"publish_time": 1467418459683,
+			"_cnpm_publish_time": 1467418459683,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/watch",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for watch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/watch@0.0.22-alpha",
+			"_shasum": "281d9534f1fa3cf5ea6e2bc1a66e1d1cbd6de61f",
+			"_from": "output\\watch",
+			"_resolved": "file:output\\watch",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "281d9534f1fa3cf5ea6e2bc1a66e1d1cbd6de61f",
+				"size": 1303,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.22-alpha.tgz_1467406400599_0.25540698575787246"
+			},
+			"directories": {},
+			"publish_time": 1467406402987,
+			"_cnpm_publish_time": 1467406402987,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/watch",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for watch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/watch@0.0.21-alpha",
+			"_shasum": "985fa509f9a9b18902bfc04c16eb381dd23eb09b",
+			"_from": "output\\watch",
+			"_resolved": "file:output\\watch",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "985fa509f9a9b18902bfc04c16eb381dd23eb09b",
+				"size": 1282,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.21-alpha.tgz_1464156570917_0.36178995901718736"
+			},
+			"directories": {},
+			"publish_time": 1464156571367,
+			"_cnpm_publish_time": 1464156571367,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/watch",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for watch",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/watch@0.0.20-alpha",
+			"_shasum": "0215ac8576aaad72032badc13ec76a324f6c1391",
+			"_from": "output\\watch",
+			"_resolved": "file:output\\watch",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0215ac8576aaad72032badc13ec76a324f6c1391",
+				"size": 1281,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.20-alpha.tgz_1463777669980_0.981893114047125"
+			},
+			"directories": {},
+			"publish_time": 1463777672294,
+			"_cnpm_publish_time": 1463777672294,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/watch",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for watch from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"fs\"": "*",
+				"equire(\"events\"": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/watch@0.0.15-alpha",
+			"_shasum": "9b291427a28ec9a50633207b68dd409a77c8020f",
+			"_from": "output\\watch",
+			"_resolved": "file:output\\watch",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9b291427a28ec9a50633207b68dd409a77c8020f",
+				"size": 1310,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.15-alpha.tgz_1463697724987_0.013225248316302896"
+			},
+			"directories": {},
+			"publish_time": 1463697729907,
+			"_cnpm_publish_time": 1463697729907,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/watch",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for watch from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Carlos Ballesteros Velasco",
+				"email": "https://github.com/soywiz"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire(\"fs\"": "*",
+				"equire(\"events\"": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/watch@0.0.14-alpha",
+			"_shasum": "7c71650053a5ee3820cec2324721a1c0a0c058d2",
+			"_from": "output\\watch",
+			"_resolved": "file:output\\watch",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7c71650053a5ee3820cec2324721a1c0a0c058d2",
+				"size": 1305,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/watch-0.0.14-alpha.tgz_1463512444579_0.23556136200204492"
+			},
+			"directories": {},
+			"publish_time": 1463512448854,
+			"_cnpm_publish_time": 1463512448854,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0",
+		"ts2.0": "1.0.0",
+		"ts2.1": "1.0.0",
+		"ts2.2": "1.0.0",
+		"ts2.3": "1.0.0",
+		"ts2.4": "1.0.0",
+		"ts2.5": "1.0.0",
+		"ts2.6": "1.0.0",
+		"ts2.7": "1.0.0",
+		"ts2.8": "1.0.0",
+		"ts2.9": "1.0.0",
+		"ts3.0": "1.0.0",
+		"ts3.1": "1.0.0",
+		"ts3.2": "1.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:33:56.000Z",
+		"created": "2016-05-17T19:14:08.854Z",
+		"1.0.0": "2017-05-05T01:12:57.841Z",
+		"0.0.28": "2016-09-19T18:20:09.367Z",
+		"0.0.27": "2016-07-14T16:22:15.966Z",
+		"0.0.26-alpha": "2016-07-08T21:42:37.927Z",
+		"0.0.25-alpha": "2016-07-04T01:29:07.884Z",
+		"0.0.24-alpha": "2016-07-02T03:39:21.583Z",
+		"0.0.23-alpha": "2016-07-02T00:14:19.683Z",
+		"0.0.22-alpha": "2016-07-01T20:53:22.987Z",
+		"0.0.21-alpha": "2016-05-25T06:09:31.367Z",
+		"0.0.20-alpha": "2016-05-20T20:54:32.294Z",
+		"0.0.15-alpha": "2016-05-19T22:42:09.907Z",
+		"0.0.14-alpha": "2016-05-17T19:14:08.854Z"
+	},
+	"_distfiles": {
+		"watch-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-1.0.0.tgz",
+			"sha": "99269e99c149c9c2da5dd5aef8bee5fc44585648",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.28.tgz",
+			"sha": "9befa2be2875af70710976b1a6a710bd13e4cc85",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.27.tgz",
+			"sha": "d35aef96468a46de289ceec08282844e0fe2f404",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.26-alpha.tgz",
+			"sha": "bff7973234157db8ae4069c881972fef42bc6d2d",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.25-alpha.tgz",
+			"sha": "872c471875ccc1267f2c4b4ead2de44d6df9ce38",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.24-alpha.tgz",
+			"sha": "9ceafb117335c2964eec8059ea6e72f515573fcb",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.23-alpha.tgz",
+			"sha": "ef5c329dc0d05498278b9eed686b9ea90daec5aa",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.22-alpha.tgz",
+			"sha": "281d9534f1fa3cf5ea6e2bc1a66e1d1cbd6de61f",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.21-alpha.tgz",
+			"sha": "985fa509f9a9b18902bfc04c16eb381dd23eb09b",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.20-alpha.tgz",
+			"sha": "0215ac8576aaad72032badc13ec76a324f6c1391",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.15-alpha.tgz",
+			"sha": "9b291427a28ec9a50633207b68dd409a77c8020f",
+			"registry": "cnpmjs"
+		},
+		"watch-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/watch/download/@types/watch-0.0.14-alpha.tgz",
+			"sha": "7c71650053a5ee3820cec2324721a1c0a0c058d2",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3b82-E+8GsF4y1J19AgJKyBLaRsOYBP0\"",
+			"fetched": 1541833490024
+		}
+	},
+	"_rev": "2-af61431974eb6b9f",
+	"readme": "# Installation\r\n> `npm install --save @types/watch`\r\n\r\n# Summary\r\nThis package contains type definitions for watch (https://github.com/mikeal/watch).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/watch\r\n\r\nAdditional Details\r\n * Last updated: Fri, 05 May 2017 01:11:57 GMT\r\n * Dependencies: fs, events, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Carlos Ballesteros Velasco <https://github.com/soywiz>, Gyusun Yeom <https://github.com/Perlmint>."
+}

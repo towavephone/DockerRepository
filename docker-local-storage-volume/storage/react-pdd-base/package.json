@@ -1,0 +1,116 @@
+{
+	"name": "react-pdd-base",
+	"versions": {
+		"0.0.1-security": {
+			"name": "react-pdd-base",
+			"version": "0.0.1-security",
+			"description": "This package name is not currently in use, but was formerly occupied by another package. To avoid malicious use, npm is hanging on to the package name, but loosely, and we'll probably give it to you if you want it.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/npm/security-holder.git"
+			},
+			"keywords": [],
+			"author": "",
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/npm/security-holder/issues"
+			},
+			"homepage": "https://github.com/npm/security-holder#readme",
+			"gitHead": "9ef10011153183d323ed420df5bb17eaf08ab730",
+			"_id": "react-pdd-base@0.0.1-security",
+			"_shasum": "b13f595979d083e152f7bde8e0c56810d71cac63",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "5.10.1",
+			"_npmUser": {
+				"name": "kmanion",
+				"email": "kiera@npmjs.com"
+			},
+			"dist": {
+				"shasum": "b13f595979d083e152f7bde8e0c56810d71cac63",
+				"size": 582,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/react-pdd-base/download/react-pdd-base-0.0.1-security.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "npm",
+					"email": "npm@npmjs.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/react-pdd-base-0.0.1-security.tgz_1486678220882_0.9481292350683361"
+			},
+			"directories": {},
+			"publish_time": 1486678222740,
+			"_cnpm_publish_time": 1486678222740,
+			"_hasShrinkwrap": false
+		},
+		"1.0.12": {
+			"name": "react-pdd-base",
+			"version": "1.0.12",
+			"description": "基础样式",
+			"main": "src/index.scss",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [
+				"基础样式"
+			],
+			"author": {
+				"name": "邃宇"
+			},
+			"license": "ISC",
+			"directories": {
+				"test": "test"
+			},
+			"repository": {
+				"type": "git"
+			},
+			"_id": "react-pdd-base@1.0.12",
+			"_npmVersion": "5.5.1",
+			"_nodeVersion": "9.2.0",
+			"_npmUser": {},
+			"dist": {
+				"integrity": "sha512-xIuH67UmSy+s18q1Q48ekFIPUYPPcGnSaSjTk/TKtzj/O7e2mFqX9TsbqI4Ie9P82Ql471hEfyIWtSTd1MDBbA==",
+				"shasum": "e1ca0da6cf0e3ba1a0f7d697475a4182d59727cf",
+				"tarball": "http://npmjs.towavephone.com/react-pdd-base/-/react-pdd-base-1.0.12.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.12"
+	},
+	"time": {
+		"modified": "2018-05-31T05:18:14.733Z",
+		"created": "2017-02-09T22:10:22.740Z",
+		"0.0.1-security": "2017-02-09T22:10:22.740Z",
+		"1.0.12": "2018-05-31T05:18:14.733Z"
+	},
+	"_distfiles": {
+		"react-pdd-base-0.0.1-security.tgz": {
+			"url": "https://registry.npm.taobao.org/react-pdd-base/download/react-pdd-base-0.0.1-security.tgz",
+			"sha": "b13f595979d083e152f7bde8e0c56810d71cac63",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {
+		"react-pdd-base-1.0.12.tgz": {
+			"shasum": "e1ca0da6cf0e3ba1a0f7d697475a4182d59727cf",
+			"version": "1.0.12"
+		}
+	},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"9ea-9R4TJ4OCPniaZJWaFg8S2WTfzZ8\"",
+			"fetched": 1527747717684
+		}
+	},
+	"_rev": "21-eb53fcb564490b1e",
+	"readme": "ERROR: No README data found!"
+}

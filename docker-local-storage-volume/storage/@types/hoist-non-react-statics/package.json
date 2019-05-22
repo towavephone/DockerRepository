@@ -1,0 +1,138 @@
+{
+	"name": "@types/hoist-non-react-statics",
+	"versions": {
+		"3.0.1": {
+			"name": "@types/hoist-non-react-statics",
+			"version": "3.0.1",
+			"description": "TypeScript definitions for hoist-non-react-statics",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "JounQin",
+					"url": "https://github.com/JounQin",
+					"githubUsername": "JounQin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "6178f226c44e51550f9d101aa14838771dc27fe597199c9c1052a91d64656f1f",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/hoist-non-react-statics@3.0.1",
+			"dist": {
+				"shasum": "dde7c53101912dae8f45a1807f9857a59ddf3919",
+				"size": 1855,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hoist-non-react-statics/download/@types/hoist-non-react-statics-3.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/hoist-non-react-statics_3.0.1_1533173788383_0.4767758970664686"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1533173788467,
+			"_cnpm_publish_time": 1533173788467
+		},
+		"3.0.0": {
+			"name": "@types/hoist-non-react-statics",
+			"version": "3.0.0",
+			"description": "TypeScript definitions for hoist-non-react-statics",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "JounQin",
+					"url": "https://github.com/JounQin",
+					"githubUsername": "JounQin"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/react": "*"
+			},
+			"typesPublisherContentHash": "9fcc563f123747ac7e7e08c736548ad3b42926bcdbed398b346091e459ec832f",
+			"typeScriptVersion": "2.8",
+			"_id": "@types/hoist-non-react-statics@3.0.0",
+			"dist": {
+				"shasum": "1c6a0869d9769f189f4932d1a64ec7c7a2c8fdbc",
+				"size": 1699,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hoist-non-react-statics/download/@types/hoist-non-react-statics-3.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/hoist-non-react-statics_3.0.0_1532992763947_0.15533477100439663"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532992764029,
+			"_cnpm_publish_time": 1532992764029
+		}
+	},
+	"dist-tags": {
+		"latest": "3.0.1",
+		"ts2.8": "3.0.1",
+		"ts2.9": "3.0.1",
+		"ts3.0": "3.0.1",
+		"ts3.1": "3.0.1",
+		"ts3.2": "3.0.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:38.000Z",
+		"created": "2018-07-30T23:19:24.029Z",
+		"3.0.1": "2018-08-02T01:36:28.467Z",
+		"3.0.0": "2018-07-30T23:19:24.029Z"
+	},
+	"_distfiles": {
+		"hoist-non-react-statics-3.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hoist-non-react-statics/download/@types/hoist-non-react-statics-3.0.1.tgz",
+			"sha": "dde7c53101912dae8f45a1807f9857a59ddf3919",
+			"registry": "cnpmjs"
+		},
+		"hoist-non-react-statics-3.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hoist-non-react-statics/download/@types/hoist-non-react-statics-3.0.0.tgz",
+			"sha": "1c6a0869d9769f189f4932d1a64ec7c7a2c8fdbc",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"dee-SlSkCNhMX8vpc8ay9rDK4MIZgnA\"",
+			"fetched": 1541835897151
+		}
+	},
+	"_rev": "1-485aaec3d673025c",
+	"readme": "# Installation\r\n> `npm install --save @types/hoist-non-react-statics`\r\n\r\n# Summary\r\nThis package contains type definitions for hoist-non-react-statics (https://github.com/mridgway/hoist-non-react-statics#readme).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/hoist-non-react-statics\r\n\r\nAdditional Details\r\n * Last updated: Thu, 02 Aug 2018 01:35:11 GMT\r\n * Dependencies: react\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by JounQin <https://github.com/JounQin>."
+}

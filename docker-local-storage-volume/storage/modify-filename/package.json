@@ -1,0 +1,167 @@
+{
+	"name": "modify-filename",
+	"versions": {
+		"1.1.0": {
+			"name": "modify-filename",
+			"version": "1.1.0",
+			"description": "Modify the filename in a path",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/modify-filename"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "node test.js"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"modify",
+				"change",
+				"replace",
+				"filename",
+				"file",
+				"name",
+				"path"
+			],
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"gitHead": "d672c2faf0dd26991cd679953347b063c3e3dd7a",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/modify-filename/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/modify-filename",
+			"_id": "modify-filename@1.1.0",
+			"_shasum": "9a2dec83806fbb2d975f22beec859ca26b393aa1",
+			"_from": ".",
+			"_npmVersion": "2.11.2",
+			"_nodeVersion": "0.12.5",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "9a2dec83806fbb2d975f22beec859ca26b393aa1",
+				"size": 1571,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/modify-filename/download/modify-filename-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1435364674906,
+			"_cnpm_publish_time": 1435364674906,
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "modify-filename",
+			"version": "1.0.0",
+			"description": "Modify the filename in a path",
+			"license": "MIT",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/sindresorhus/modify-filename"
+			},
+			"author": {
+				"name": "Sindre Sorhus",
+				"email": "sindresorhus@gmail.com",
+				"url": "sindresorhus.com"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"scripts": {
+				"test": "node test.js"
+			},
+			"files": [
+				"index.js"
+			],
+			"keywords": [
+				"modify",
+				"change",
+				"replace",
+				"filename",
+				"file",
+				"name",
+				"path"
+			],
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"gitHead": "5005b2abce3c9482287863bb4fb6b832de877ba3",
+			"bugs": {
+				"url": "https://github.com/sindresorhus/modify-filename/issues"
+			},
+			"homepage": "https://github.com/sindresorhus/modify-filename",
+			"_id": "modify-filename@1.0.0",
+			"_shasum": "a4a8a84c1a8dbea3cae98f17f596b4eba2c9017e",
+			"_from": ".",
+			"_npmVersion": "2.9.1",
+			"_nodeVersion": "0.12.3",
+			"_npmUser": {
+				"name": "sindresorhus",
+				"email": "sindresorhus@gmail.com"
+			},
+			"dist": {
+				"shasum": "a4a8a84c1a8dbea3cae98f17f596b4eba2c9017e",
+				"size": 1504,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/modify-filename/download/modify-filename-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "sindresorhus",
+					"email": "sindresorhus@gmail.com"
+				}
+			],
+			"directories": {},
+			"publish_time": 1432327258838,
+			"_cnpm_publish_time": 1432327258838,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.1.0"
+	},
+	"time": {
+		"modified": "2017-03-27T12:13:10.000Z",
+		"created": "2015-05-22T20:40:58.838Z",
+		"1.1.0": "2015-06-27T00:24:34.906Z",
+		"1.0.0": "2015-05-22T20:40:58.838Z"
+	},
+	"_distfiles": {
+		"modify-filename-1.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/modify-filename/download/modify-filename-1.1.0.tgz",
+			"sha": "9a2dec83806fbb2d975f22beec859ca26b393aa1",
+			"registry": "cnpmjs"
+		},
+		"modify-filename-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/modify-filename/download/modify-filename-1.0.0.tgz",
+			"sha": "a4a8a84c1a8dbea3cae98f17f596b4eba2c9017e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"fb9-3WmitcdpwisF6chekO5NCaxeDlo\"",
+			"fetched": 1527747708504
+		}
+	},
+	"_rev": "12-221a627284372eba",
+	"readme": "# modify-filename [![Build Status](https://travis-ci.org/sindresorhus/modify-filename.svg?branch=master)](https://travis-ci.org/sindresorhus/modify-filename)\n\n> Modify the filename in a path\n\n\n## Install\n\n```\n$ npm install --save modify-filename\n```\n\n\n## Usage\n\n```js\nvar modifyFilename = require('modify-filename');\n\nmodifyFilename('src/unicorn.png', function (filename, extension) {\n\treturn filename + '-rainbow' + extension;\n});\n//=> 'src/unicorn-rainbow.png'\n\nmodifyFilename(['src/unicorn.png', 'src/pony.png'], function (filename, extension) {\n\treturn filename + '-rainbow' + extension;\n});\n//=> ['src/unicorn-rainbow.png', 'src/pony-rainbow.png']\n```\n\n\n## License\n\nMIT © [Sindre Sorhus](http://sindresorhus.com)"
+}

@@ -1,0 +1,570 @@
+{
+	"name": "@types/lodash-es",
+	"versions": {
+		"4.17.0": {
+			"name": "@types/lodash-es",
+			"version": "4.17.0",
+			"description": "TypeScript definitions for lodash-es",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stephen Lautier",
+					"url": "https://github.com/stephenlautier",
+					"githubUsername": "stephenlautier"
+				},
+				{
+					"name": "e-cloud",
+					"url": "https://github.com/e-cloud",
+					"githubUsername": "e-cloud"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "e19a01bce761605f783ae003ce243f19844072553c50a3b753c9b6cfcfa57f29",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash-es@4.17.0",
+			"dist": {
+				"shasum": "ed9044d62ee36a93e0650b112701986b1c74c766",
+				"size": 19239,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.17.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash-es-4.17.0.tgz_1508893581769_0.6338067189790308"
+			},
+			"directories": {},
+			"publish_time": 1508893581884,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508893581884
+		},
+		"4.14.7": {
+			"name": "@types/lodash-es",
+			"version": "4.14.7",
+			"description": "TypeScript definitions for lodash-es",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stephen Lautier",
+					"url": "https://github.com/stephenlautier",
+					"githubUsername": "stephenlautier"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "5817f944ae1380e5d52587ec8211ae24963d789c22502d004c44607fa55810c6",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash-es@4.14.7",
+			"dist": {
+				"shasum": "5eac6eff541ff352e5c818be326588230616c8f1",
+				"size": 10917,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash-es-4.14.7.tgz_1506373236366_0.02242353279143572"
+			},
+			"directories": {},
+			"publish_time": 1506373239404,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506373239404
+		},
+		"4.14.6": {
+			"name": "@types/lodash-es",
+			"version": "4.14.6",
+			"description": "TypeScript definitions for lodash-es",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stephen Lautier",
+					"url": "https://github.com/stephenlautier"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "92b4398efb5518697eb8c4caa6923c097c4206291ef40250aef4338d404d0c00",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash-es@4.14.6",
+			"dist": {
+				"shasum": "c11d48d77f46b0aa9fae2a152b8259c23891efd1",
+				"size": 10530,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash-es-4.14.6.tgz_1502228830924_0.1869310939218849"
+			},
+			"directories": {},
+			"publish_time": 1502228831001,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228831001
+		},
+		"4.14.5": {
+			"name": "@types/lodash-es",
+			"version": "4.14.5",
+			"description": "TypeScript definitions for Lo-Dash-es",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stephen Lautier",
+					"url": "https://github.com/stephenlautier"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d3b1ae5117269d4772369e1e8f42953c2076c7f78958b6845316180e2d6c2386",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash-es@4.14.5",
+			"dist": {
+				"shasum": "57c11845eaf6a7d2a9095e9533fed4980f3d5784",
+				"size": 15643,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash-es-4.14.5.tgz_1490212461632_0.9667429362889379"
+			},
+			"directories": {},
+			"publish_time": 1490212463702,
+			"_cnpm_publish_time": 1490212463702,
+			"_hasShrinkwrap": false
+		},
+		"4.14.4": {
+			"name": "@types/lodash-es",
+			"version": "4.14.4",
+			"description": "TypeScript definitions for Lo-Dash-es",
+			"license": "MIT",
+			"author": "Stephen Lautier <https://github.com/stephenlautier>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "9ae26a61aa5837be40c880329c3186cb1feefb53a5314652191b3013aca99eac",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash-es@4.14.4",
+			"dist": {
+				"shasum": "b874a1c39dd59b28089ac05f13ab8df73a21b23b",
+				"size": 18676,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash-es-4.14.4.tgz_1486507516957_0.37094651139341295"
+			},
+			"directories": {},
+			"publish_time": 1486507518869,
+			"_cnpm_publish_time": 1486507518869,
+			"_hasShrinkwrap": false
+		},
+		"4.14.3": {
+			"name": "@types/lodash-es",
+			"version": "4.14.3",
+			"description": "TypeScript definitions for Lo-Dash-es",
+			"license": "MIT",
+			"author": "Stephen Lautier <https://github.com/stephenlautier>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "53170faad55af641f430a52bc71190a8a09d3464ca8e5ded340861a5fc34c153",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash-es@4.14.3",
+			"dist": {
+				"shasum": "3ceb7808e5215368a90fb1f6d33174e3dad3ee0a",
+				"size": 16459,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash-es-4.14.3.tgz_1485553463164_0.9785986731294543"
+			},
+			"directories": {},
+			"publish_time": 1485553465081,
+			"_cnpm_publish_time": 1485553465081,
+			"_hasShrinkwrap": false
+		},
+		"4.14.2": {
+			"name": "@types/lodash-es",
+			"version": "4.14.2",
+			"description": "TypeScript definitions for Lo-Dash-es",
+			"license": "MIT",
+			"author": "Stephen Lautier <https://github.com/stephenlautier>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "72661e6164ebce89671f1b3b325f11bf807ffbd034a1180d784146f72749ef93",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/lodash-es@4.14.2",
+			"dist": {
+				"shasum": "ae1d00d52d549867e1ecb1c0502559b156ce967c",
+				"size": 16345,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash-es-4.14.2.tgz_1483735311315_0.30408362252637744"
+			},
+			"directories": {},
+			"publish_time": 1483735311534,
+			"_cnpm_publish_time": 1483735311534,
+			"_hasShrinkwrap": false
+		},
+		"4.14.1": {
+			"name": "@types/lodash-es",
+			"version": "4.14.1",
+			"description": "TypeScript definitions for Lo-Dash-es",
+			"license": "MIT",
+			"author": "Stephen Lautier <https://github.com/stephenlautier>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "db83ea35b626257c56a23c902001f38f804cee016837ad53c317292c0e55b37a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/lodash-es@4.14.1",
+			"dist": {
+				"shasum": "575cacbf6ccb3e5d0a1b75684af656400125a9ca",
+				"size": 16318,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash-es-4.14.1.tgz_1483053106829_0.4220920638181269"
+			},
+			"directories": {},
+			"publish_time": 1483053107049,
+			"_cnpm_publish_time": 1483053107049,
+			"_hasShrinkwrap": false
+		},
+		"4.14.0": {
+			"name": "@types/lodash-es",
+			"version": "4.14.0",
+			"description": "TypeScript definitions for Lo-Dash-es",
+			"license": "MIT",
+			"author": "Stephen Lautier <https://github.com/stephenlautier>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"lodash": ">=4.14.0"
+			},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "58690e8e459f993979134ed4b1b7b85056db4ba2ac2635342495f07d66b93fba",
+			"_id": "@types/lodash-es@4.14.0",
+			"dist": {
+				"shasum": "024998cc49a58d7b2973706ba67142f9ccea6b8f",
+				"size": 17469,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash-es-4.14.0.tgz_1480350639623_0.544774895068258"
+			},
+			"directories": {},
+			"publish_time": 1480350639841,
+			"_cnpm_publish_time": 1480350639841,
+			"_hasShrinkwrap": false
+		},
+		"4.17.1": {
+			"name": "@types/lodash-es",
+			"version": "4.17.1",
+			"description": "TypeScript definitions for lodash-es",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Stephen Lautier",
+					"url": "https://github.com/stephenlautier",
+					"githubUsername": "stephenlautier"
+				},
+				{
+					"name": "e-cloud",
+					"url": "https://github.com/e-cloud",
+					"githubUsername": "e-cloud"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "d2c69650bd2d7cda257e9db5f3059dc02975f3c53d8466a931a78a8086597648",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash-es@4.17.1",
+			"dist": {
+				"shasum": "56745e5411558362aeca31def918f88f725dd29d",
+				"size": 19146,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.17.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash-es_4.17.1_1532392633243_0.6158393545303791"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532392633494,
+			"_cnpm_publish_time": 1532392633494
+		}
+	},
+	"dist-tags": {
+		"latest": "4.17.1",
+		"ts2.0": "4.14.2",
+		"ts2.1": "4.14.4",
+		"ts2.2": "4.17.0",
+		"ts2.3": "4.17.0",
+		"ts2.4": "4.17.0",
+		"ts2.5": "4.17.0",
+		"ts2.6": "4.17.1",
+		"ts2.7": "4.17.1",
+		"ts2.8": "4.17.1",
+		"ts2.9": "4.17.1",
+		"ts3.0": "4.17.1",
+		"ts3.1": "4.17.1",
+		"ts3.2": "4.17.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:15:51.000Z",
+		"created": "2016-11-28T16:30:39.841Z",
+		"4.17.1": "2018-07-24T00:37:13.494Z",
+		"4.17.0": "2017-10-25T01:06:21.884Z",
+		"4.14.7": "2017-09-25T21:00:39.404Z",
+		"4.14.6": "2017-08-08T21:47:11.001Z",
+		"4.14.5": "2017-03-22T19:54:23.702Z",
+		"4.14.4": "2017-02-07T22:45:18.869Z",
+		"4.14.3": "2017-01-27T21:44:25.081Z",
+		"4.14.2": "2017-01-06T20:41:51.534Z",
+		"4.14.1": "2016-12-29T23:11:47.049Z",
+		"4.14.0": "2016-11-28T16:30:39.841Z"
+	},
+	"_distfiles": {
+		"lodash-es-4.17.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.17.0.tgz",
+			"sha": "ed9044d62ee36a93e0650b112701986b1c74c766",
+			"registry": "cnpmjs"
+		},
+		"lodash-es-4.14.7.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.7.tgz",
+			"sha": "5eac6eff541ff352e5c818be326588230616c8f1",
+			"registry": "cnpmjs"
+		},
+		"lodash-es-4.14.6.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.6.tgz",
+			"sha": "c11d48d77f46b0aa9fae2a152b8259c23891efd1",
+			"registry": "cnpmjs"
+		},
+		"lodash-es-4.14.5.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.5.tgz",
+			"sha": "57c11845eaf6a7d2a9095e9533fed4980f3d5784",
+			"registry": "cnpmjs"
+		},
+		"lodash-es-4.14.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.4.tgz",
+			"sha": "b874a1c39dd59b28089ac05f13ab8df73a21b23b",
+			"registry": "cnpmjs"
+		},
+		"lodash-es-4.14.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.3.tgz",
+			"sha": "3ceb7808e5215368a90fb1f6d33174e3dad3ee0a",
+			"registry": "cnpmjs"
+		},
+		"lodash-es-4.14.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.2.tgz",
+			"sha": "ae1d00d52d549867e1ecb1c0502559b156ce967c",
+			"registry": "cnpmjs"
+		},
+		"lodash-es-4.14.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.1.tgz",
+			"sha": "575cacbf6ccb3e5d0a1b75684af656400125a9ca",
+			"registry": "cnpmjs"
+		},
+		"lodash-es-4.14.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.14.0.tgz",
+			"sha": "024998cc49a58d7b2973706ba67142f9ccea6b8f",
+			"registry": "cnpmjs"
+		},
+		"lodash-es-4.17.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash-es/download/@types/lodash-es-4.17.1.tgz",
+			"sha": "56745e5411558362aeca31def918f88f725dd29d",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833484368
+		}
+	},
+	"_rev": "2-0338b829a080dd61",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash-es`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash-es (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash-es\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Stephen Lautier <https://github.com/stephenlautier>, e-cloud <https://github.com/e-cloud>."
+}

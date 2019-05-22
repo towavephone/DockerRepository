@@ -1,0 +1,326 @@
+{
+	"name": "@types/lodash.get",
+	"versions": {
+		"4.4.3": {
+			"name": "@types/lodash.get",
+			"version": "4.4.3",
+			"description": "TypeScript definitions for lodash.get",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c62cb4080ff2d03d6880b7e9b14d9601a4bf588f1e9fc34f02a2a90f29475de7",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.get@4.4.3",
+			"dist": {
+				"shasum": "ac823d175a9593c10555b5097b72281effd544b5",
+				"size": 1590,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.get/download/@types/lodash.get-4.4.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.get-4.4.3.tgz_1502228915593_0.6065143248997629"
+			},
+			"directories": {},
+			"publish_time": 1502228916025,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228916025
+		},
+		"4.4.2": {
+			"name": "@types/lodash.get",
+			"version": "4.4.2",
+			"description": "TypeScript definitions for lodash.get",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "f1a966e12a242f9e6dc909c6c4e0ee913198ad42b5c3df7d5f452c645b1e47a0",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.get@4.4.2",
+			"dist": {
+				"shasum": "24d03d099d9df65656b724c38c616147ff7e2b13",
+				"size": 864,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.get/download/@types/lodash.get-4.4.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.get-4.4.2.tgz_1490212590941_0.7556107060518116"
+			},
+			"directories": {},
+			"publish_time": 1490212591159,
+			"_cnpm_publish_time": 1490212591159,
+			"_hasShrinkwrap": false
+		},
+		"4.4.1": {
+			"name": "@types/lodash.get",
+			"version": "4.4.1",
+			"description": "TypeScript definitions for lodash.get",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "063db658ec30ecdc9230dadc66c38e4605f9483fa4da8a11b0b57079204a5f15",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.get@4.4.1",
+			"dist": {
+				"shasum": "06ff6f7b4060a4c4d00078637c6624f549c80884",
+				"size": 1031,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.get/download/@types/lodash.get-4.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.get-4.4.1.tgz_1485553599777_0.28367477166466415"
+			},
+			"directories": {},
+			"publish_time": 1485553599997,
+			"_cnpm_publish_time": 1485553599997,
+			"_hasShrinkwrap": false
+		},
+		"4.4.0": {
+			"name": "@types/lodash.get",
+			"version": "4.4.0",
+			"description": "TypeScript definitions for lodash.get",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3053a049a5d06317f4db2b1dd4df30ce239c98a2da6e635e882f48f7bedaf816",
+			"_id": "@types/lodash.get@4.4.0",
+			"dist": {
+				"shasum": "d55a95db396b53845b92a4a088e0905e29dbefb7",
+				"size": 1010,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.get/download/@types/lodash.get-4.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.get-4.4.0.tgz_1480973439704_0.31987864803522825"
+			},
+			"directories": {},
+			"publish_time": 1480973441496,
+			"_cnpm_publish_time": 1480973441496,
+			"_hasShrinkwrap": false
+		},
+		"4.4.4": {
+			"name": "@types/lodash.get",
+			"version": "4.4.4",
+			"description": "TypeScript definitions for lodash.get",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "a9c49d1a756fc95ecf6de51512d358d691e0bdf82c59e7036b8996f56b1832a4",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.get@4.4.4",
+			"dist": {
+				"shasum": "34b67841594e4ddc8853341d65e971a38cb4e2f0",
+				"size": 1587,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.get/download/@types/lodash.get-4.4.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.get_4.4.4_1532393009111_0.9073143965904173"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532393009159,
+			"_cnpm_publish_time": 1532393009159
+		}
+	},
+	"dist-tags": {
+		"latest": "4.4.4",
+		"ts2.0": "4.4.0",
+		"ts2.1": "4.4.1",
+		"ts2.2": "4.4.3",
+		"ts2.3": "4.4.3",
+		"ts2.4": "4.4.3",
+		"ts2.5": "4.4.3",
+		"ts2.6": "4.4.4",
+		"ts2.7": "4.4.4",
+		"ts2.8": "4.4.4",
+		"ts2.9": "4.4.4",
+		"ts3.0": "4.4.4",
+		"ts3.1": "4.4.4",
+		"ts3.2": "4.4.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:16:16.000Z",
+		"created": "2016-12-05T21:30:41.496Z",
+		"4.4.4": "2018-07-24T00:43:29.159Z",
+		"4.4.3": "2017-08-08T21:48:36.025Z",
+		"4.4.2": "2017-03-22T19:56:31.159Z",
+		"4.4.1": "2017-01-27T21:46:39.997Z",
+		"4.4.0": "2016-12-05T21:30:41.496Z"
+	},
+	"_distfiles": {
+		"lodash.get-4.4.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.get/download/@types/lodash.get-4.4.3.tgz",
+			"sha": "ac823d175a9593c10555b5097b72281effd544b5",
+			"registry": "cnpmjs"
+		},
+		"lodash.get-4.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.get/download/@types/lodash.get-4.4.2.tgz",
+			"sha": "24d03d099d9df65656b724c38c616147ff7e2b13",
+			"registry": "cnpmjs"
+		},
+		"lodash.get-4.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.get/download/@types/lodash.get-4.4.1.tgz",
+			"sha": "06ff6f7b4060a4c4d00078637c6624f549c80884",
+			"registry": "cnpmjs"
+		},
+		"lodash.get-4.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.get/download/@types/lodash.get-4.4.0.tgz",
+			"sha": "d55a95db396b53845b92a4a088e0905e29dbefb7",
+			"registry": "cnpmjs"
+		},
+		"lodash.get-4.4.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.get/download/@types/lodash.get-4.4.4.tgz",
+			"sha": "34b67841594e4ddc8853341d65e971a38cb4e2f0",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1d53-Yxy8gEmv+7ObFRs+/WyR/L4yUVM\"",
+			"fetched": 1541833484570
+		}
+	},
+	"_rev": "2-8903167490887b3e",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.get`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.get (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.get\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

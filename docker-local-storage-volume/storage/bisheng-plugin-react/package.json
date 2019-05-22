@@ -1,0 +1,1956 @@
+{
+	"name": "bisheng-plugin-react",
+	"versions": {
+		"0.6.3": {
+			"name": "bisheng-plugin-react",
+			"version": "0.6.3",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"devDependencies": {
+				"babel-plugin-transform-class-properties": "^6.24.1",
+				"babel-plugin-transform-object-rest-spread": "^6.26.0",
+				"babel-preset-env": "^1.6.0",
+				"babel-preset-react": "^6.5.0"
+			},
+			"peerDependencies": {
+				"babel-plugin-transform-class-properties": "^6.24.1",
+				"babel-plugin-transform-object-rest-spread": "^6.26.0",
+				"babel-preset-env": "^1.6.0",
+				"babel-preset-react": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.6.3",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.6.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "374ebc716fcb7bfa55d151323da08ed96264401d",
+				"size": 13728,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.6.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bisheng-plugin-react-0.6.3.tgz_1508739484308_0.5751578998751938"
+			},
+			"directories": {},
+			"publish_time": 1508739484386,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508739484386
+		},
+		"0.6.2": {
+			"name": "bisheng-plugin-react",
+			"version": "0.6.2",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"devDependencies": {
+				"babel-plugin-transform-class-properties": "^6.24.1",
+				"babel-plugin-transform-object-rest-spread": "^6.26.0",
+				"babel-preset-env": "^1.6.0",
+				"babel-preset-react": "^6.5.0"
+			},
+			"peerDependencies": {
+				"babel-plugin-transform-class-properties": "^6.24.1",
+				"babel-plugin-transform-object-rest-spread": "^6.26.0",
+				"babel-preset-env": "^1.6.0",
+				"babel-preset-react": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.6.2",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.6.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "318937b8562df8087bcd5a05ae3e694226a4c435",
+				"size": 13729,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.6.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bisheng-plugin-react-0.6.2.tgz_1508739002744_0.4538488653488457"
+			},
+			"directories": {},
+			"publish_time": 1508739002851,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508739002851
+		},
+		"0.6.1": {
+			"name": "bisheng-plugin-react",
+			"version": "0.6.1",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"devDependencies": {
+				"babel-preset-env": "^1.6.0",
+				"babel-preset-react": "^6.5.0"
+			},
+			"peerDependencies": {
+				"babel-preset-env": "^1.6.0",
+				"babel-preset-react": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.6.1",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.6.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "a16e00e80f54a00c141db9449e455433de253f1d",
+				"size": 13641,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bisheng-plugin-react-0.6.1.tgz_1508728840297_0.1861621947027743"
+			},
+			"directories": {},
+			"publish_time": 1508728840404,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508728840404
+		},
+		"0.6.0": {
+			"name": "bisheng-plugin-react",
+			"version": "0.6.0",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-env": "^1.6.0",
+				"react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.6.0",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.6.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "5aea5cf48852b1e1da421e406b45df292b74c0e3",
+				"size": 13626,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bisheng-plugin-react-0.6.0.tgz_1508727816895_0.1335117439739406"
+			},
+			"directories": {},
+			"publish_time": 1508727816986,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508727816986
+		},
+		"0.5.8": {
+			"name": "bisheng-plugin-react",
+			"version": "0.5.8",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.5.8",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.6.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "9c48b58e1e8663a79b0347939201a768247f41ea",
+				"size": 13550,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.8.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bisheng-plugin-react-0.5.8.tgz_1508205242429_0.04997764388099313"
+			},
+			"directories": {},
+			"publish_time": 1508205242500,
+			"_cnpm_publish_time": 1508205242500,
+			"_hasShrinkwrap": false
+		},
+		"0.5.7": {
+			"name": "bisheng-plugin-react",
+			"version": "0.5.7",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.5.7",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.6.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "e34ffb1ce14b66b09e25c5401fdb234b2187cd43",
+				"size": 13525,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.7.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bisheng-plugin-react-0.5.7.tgz_1507625503203_0.16109859966672957"
+			},
+			"directories": {},
+			"publish_time": 1507625503319,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1507625503319
+		},
+		"0.5.6": {
+			"name": "bisheng-plugin-react",
+			"version": "0.5.6",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.5.6",
+			"_npmVersion": "5.3.0",
+			"_nodeVersion": "8.6.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "b3d6b9317b2bd1f45e4500387504a05d820d7172",
+				"size": 13501,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bisheng-plugin-react-0.5.6.tgz_1506764964613_0.4795827269554138"
+			},
+			"directories": {},
+			"publish_time": 1506764964706,
+			"_cnpm_publish_time": 1506764964706,
+			"_hasShrinkwrap": false
+		},
+		"0.5.5": {
+			"name": "bisheng-plugin-react",
+			"version": "0.5.5",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.5.5",
+			"scripts": {},
+			"_shasum": "b8975546d10bbab4827d233680256e6a3208f8f4",
+			"_from": ".",
+			"_npmVersion": "4.1.2",
+			"_nodeVersion": "7.6.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "b8975546d10bbab4827d233680256e6a3208f8f4",
+				"size": 13505,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.5.5.tgz_1488782905496_0.5981756756082177"
+			},
+			"directories": {},
+			"publish_time": 1488782905746,
+			"_cnpm_publish_time": 1488782905746,
+			"_hasShrinkwrap": false
+		},
+		"0.5.4": {
+			"name": "bisheng-plugin-react",
+			"version": "0.5.4",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.5.4",
+			"scripts": {},
+			"_shasum": "59660739f9aff9ac1c503c6deb197af7f9f1820c",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "59660739f9aff9ac1c503c6deb197af7f9f1820c",
+				"size": 13299,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.5.4.tgz_1487299305051_0.08844191301614046"
+			},
+			"directories": {},
+			"publish_time": 1487299305289,
+			"_cnpm_publish_time": 1487299305289,
+			"_hasShrinkwrap": false
+		},
+		"0.5.3": {
+			"name": "bisheng-plugin-react",
+			"version": "0.5.3",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.5.3",
+			"scripts": {},
+			"_shasum": "c125ba1f2e16b53b1da6fe697c74515eaa128a93",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "c125ba1f2e16b53b1da6fe697c74515eaa128a93",
+				"size": 13265,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.5.3.tgz_1487237304442_0.31601676624268293"
+			},
+			"directories": {},
+			"publish_time": 1487237306459,
+			"_cnpm_publish_time": 1487237306459,
+			"_hasShrinkwrap": false
+		},
+		"0.5.2": {
+			"name": "bisheng-plugin-react",
+			"version": "0.5.2",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.5.2",
+			"scripts": {},
+			"_shasum": "8edf8f424df1f22064a371ba46a1aec6191a1e32",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.9.5",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "8edf8f424df1f22064a371ba46a1aec6191a1e32",
+				"size": 13253,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.5.2.tgz_1487236489351_0.7030320856720209"
+			},
+			"directories": {},
+			"publish_time": 1487236491027,
+			"_cnpm_publish_time": 1487236491027,
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "bisheng-plugin-react",
+			"version": "0.5.1",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"_id": "bisheng-plugin-react@0.5.1",
+			"scripts": {},
+			"_shasum": "5ab180a9b223faeb1f258460da1ceaeb390268c3",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "5ab180a9b223faeb1f258460da1ceaeb390268c3",
+				"size": 13197,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.5.1.tgz_1486622042843_0.720332067925483"
+			},
+			"directories": {},
+			"publish_time": 1486622044807,
+			"_cnpm_publish_time": 1486622044807,
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "bisheng-plugin-react",
+			"version": "0.5.0",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0",
+				"mocha": "^2.5.3"
+			},
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"gitHead": "14df17ae3630888bd4d7875fa56adf1b51e5411c",
+			"_id": "bisheng-plugin-react@0.5.0",
+			"_shasum": "d1d98f8e769ac49dc0dbb245b0a468cd7da8d480",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "d1d98f8e769ac49dc0dbb245b0a468cd7da8d480",
+				"size": 14299,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.5.0.tgz_1486370990127_0.7167049970012158"
+			},
+			"directories": {},
+			"publish_time": 1486370990364,
+			"_cnpm_publish_time": 1486370990364,
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "bisheng-plugin-react",
+			"version": "0.4.2",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0",
+				"mocha": "^2.5.3"
+			},
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"gitHead": "172dd024352c1e4267b2755327b52c1876c97c11",
+			"_id": "bisheng-plugin-react@0.4.2",
+			"_shasum": "b0c7b2bfbac1be72136d11c417235a633554185f",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "b0c7b2bfbac1be72136d11c417235a633554185f",
+				"size": 14261,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.4.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.4.2.tgz_1484808555613_0.0763225017581135"
+			},
+			"directories": {},
+			"publish_time": 1484808555836,
+			"_cnpm_publish_time": 1484808555836,
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "bisheng-plugin-react",
+			"version": "0.4.1",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "6.5.x",
+				"babel-preset-stage-0": "6.5.x",
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0",
+				"mocha": "^2.5.3"
+			},
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "6.5.x",
+				"babel-preset-stage-0": "6.5.x",
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"gitHead": "0b0a9e59cd2ccd52a7b81a6b5f6bf676fb8873bd",
+			"_id": "bisheng-plugin-react@0.4.1",
+			"_shasum": "74424ab91f6e2c43e3cd527759e9af452bd83b1a",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "74424ab91f6e2c43e3cd527759e9af452bd83b1a",
+				"size": 14268,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.4.1.tgz_1484808347962_0.24901388119906187"
+			},
+			"directories": {},
+			"publish_time": 1484808349870,
+			"_cnpm_publish_time": 1484808349870,
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "bisheng-plugin-react",
+			"version": "0.4.0",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "6.5.x",
+				"babel-preset-stage-0": "6.5.x",
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0",
+				"mocha": "^2.5.3"
+			},
+			"dependencies": {
+				"babel-core": "^6.21.0",
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1"
+			},
+			"peerDependencies": {
+				"babel-preset-es2015-ie": "^6.6.2",
+				"babel-preset-react": "6.5.x",
+				"babel-preset-stage-0": "6.5.x",
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"gitHead": "fe0e9239fa658e0492be0bef1db9834a251688b4",
+			"_id": "bisheng-plugin-react@0.4.0",
+			"_shasum": "285a951fb34585ed7fd7a6307b58b7ed7cad4feb",
+			"_from": ".",
+			"_npmVersion": "3.10.10",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "285a951fb34585ed7fd7a6307b58b7ed7cad4feb",
+				"size": 14232,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.4.0.tgz_1484799124621_0.8932738723233342"
+			},
+			"directories": {},
+			"publish_time": 1484799124903,
+			"_cnpm_publish_time": 1484799124903,
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "bisheng-plugin-react",
+			"version": "0.3.1",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0",
+				"mocha": "^2.5.3"
+			},
+			"dependencies": {
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1",
+				"babylon": "~6.8.4",
+				"loader-utils": "~0.2.15"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"gitHead": "0706276070150ee6a8eda2a708dd39777f772ad1",
+			"_id": "bisheng-plugin-react@0.3.1",
+			"_shasum": "1a6c9cab7e152190043de16a0945a49e6bb78855",
+			"_from": ".",
+			"_npmVersion": "3.10.7",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "1a6c9cab7e152190043de16a0945a49e6bb78855",
+				"size": 14690,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.3.1.tgz_1480401231859_0.9738208900671452"
+			},
+			"directories": {},
+			"publish_time": 1480401233777,
+			"_cnpm_publish_time": 1480401233777,
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "bisheng-plugin-react",
+			"version": "0.3.0",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0",
+				"mocha": "^2.5.3"
+			},
+			"dependencies": {
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1",
+				"babylon": "~6.8.4",
+				"loader-utils": "~0.2.15"
+			},
+			"peerDependencies": {
+				"react": "^15.0.0"
+			},
+			"gitHead": "899be00c9a31963d500c618a9bd04af829cc4149",
+			"_id": "bisheng-plugin-react@0.3.0",
+			"_shasum": "d52f4dad5994b3ddc2372d80ce0678a95643df5d",
+			"_from": ".",
+			"_npmVersion": "3.10.7",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "d52f4dad5994b3ddc2372d80ce0678a95643df5d",
+				"size": 14677,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.3.0.tgz_1478078274120_0.4790682152379304"
+			},
+			"directories": {},
+			"publish_time": 1478078276155,
+			"_cnpm_publish_time": 1478078276155,
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "bisheng-plugin-react",
+			"version": "0.2.2",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0",
+				"mocha": "^2.5.3"
+			},
+			"dependencies": {
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1",
+				"babylon": "~6.8.4",
+				"loader-utils": "~0.2.15"
+			},
+			"peerDependencies": {
+				"react": "^15.0.0"
+			},
+			"gitHead": "8deaa8d8ecee3c13c1b459d9e05fd3df78bc3670",
+			"_id": "bisheng-plugin-react@0.2.2",
+			"_shasum": "b7b44e75a3dab72d03c94ba2f6cace86f5b3e5d0",
+			"_from": ".",
+			"_npmVersion": "3.10.7",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "b7b44e75a3dab72d03c94ba2f6cace86f5b3e5d0",
+				"size": 14557,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.2.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.2.2.tgz_1477293074798_0.22756066685542464"
+			},
+			"directories": {},
+			"publish_time": 1477293076161,
+			"_cnpm_publish_time": 1477293076161,
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "bisheng-plugin-react",
+			"version": "0.2.1",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0",
+				"mocha": "^2.5.3"
+			},
+			"dependencies": {
+				"babel-generator": "~6.11.0",
+				"babel-traverse": "~6.10.4",
+				"babel-types": "~6.11.1",
+				"babylon": "~6.8.4",
+				"loader-utils": "~0.2.15",
+				"react": "~15.2.1"
+			},
+			"gitHead": "8e4d08862dd4d2cc8f839c87c137ea4f00110252",
+			"_id": "bisheng-plugin-react@0.2.1",
+			"_shasum": "59b7b29d2f5856ba18eb0755cc610af740ce06a4",
+			"_from": ".",
+			"_npmVersion": "3.10.7",
+			"_nodeVersion": "6.4.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "59b7b29d2f5856ba18eb0755cc610af740ce06a4",
+				"size": 14541,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.2.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.2.1.tgz_1477281202927_0.7852909760549664"
+			},
+			"directories": {},
+			"publish_time": 1477281204893,
+			"_cnpm_publish_time": 1477281204893,
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "bisheng-plugin-react",
+			"version": "0.2.0",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0",
+				"mocha": "^2.5.3"
+			},
+			"dependencies": {
+				"babel-generator": "^6.11.0",
+				"babel-traverse": "^6.10.4",
+				"babel-types": "^6.11.1",
+				"babylon": "^6.8.4",
+				"loader-utils": "^0.2.15",
+				"react": "~15.2.1"
+			},
+			"gitHead": "5ae7e21fc24f28fbb386deac77aa0d17684dcc03",
+			"_id": "bisheng-plugin-react@0.2.0",
+			"_shasum": "ab5835375a729e4b0092fb0f50b07342558fb7bd",
+			"_from": ".",
+			"_npmVersion": "3.8.9",
+			"_nodeVersion": "6.2.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "ab5835375a729e4b0092fb0f50b07342558fb7bd",
+				"size": 14466,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.2.0.tgz_1469150950230_0.6846512567717582"
+			},
+			"directories": {},
+			"publish_time": 1469150951881,
+			"_cnpm_publish_time": 1469150951881,
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "bisheng-plugin-react",
+			"version": "0.1.3",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0"
+			},
+			"dependencies": {
+				"esprima-fb": "^15001.1001.0-dev-harmony-fb",
+				"recast": "^0.11.5"
+			},
+			"gitHead": "727d02a9e23660867d824f74b35ba8a773778e4f",
+			"_id": "bisheng-plugin-react@0.1.3",
+			"_shasum": "633dcb8d2372e762eb5cb7e555cf077fb4b3e9c9",
+			"_from": ".",
+			"_npmVersion": "3.8.9",
+			"_nodeVersion": "6.2.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "633dcb8d2372e762eb5cb7e555cf077fb4b3e9c9",
+				"size": 14054,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.1.3.tgz_1464932772578_0.607671262929216"
+			},
+			"directories": {},
+			"publish_time": 1464932775030,
+			"_cnpm_publish_time": 1464932775030,
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "bisheng-plugin-react",
+			"version": "0.1.2",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0"
+			},
+			"dependencies": {
+				"esprima-fb": "^15001.1001.0-dev-harmony-fb",
+				"recast": "^0.11.5"
+			},
+			"gitHead": "763f090f75bc87a8dfba7863cb404635ddc3f0b9",
+			"_id": "bisheng-plugin-react@0.1.2",
+			"_shasum": "7eb6e50dcf0955e3f521ea260fc717a3e2496916",
+			"_from": ".",
+			"_npmVersion": "3.8.9",
+			"_nodeVersion": "6.2.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "7eb6e50dcf0955e3f521ea260fc717a3e2496916",
+				"size": 14054,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.1.2.tgz_1464932492476_0.392986411228776"
+			},
+			"directories": {},
+			"publish_time": 1464932493844,
+			"_cnpm_publish_time": 1464932493844,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "bisheng-plugin-react",
+			"version": "0.1.0",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0"
+			},
+			"dependencies": {
+				"esprima-fb": "^15001.1001.0-dev-harmony-fb",
+				"recast": "^0.11.5"
+			},
+			"gitHead": "9e7e8f630958186e3e858cd100c53ab7e292b055",
+			"_id": "bisheng-plugin-react@0.1.0",
+			"_shasum": "19d7282d835b1e451dacfe36f981364aa4125be7",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "19d7282d835b1e451dacfe36f981364aa4125be7",
+				"size": 3148,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.1.0.tgz_1464073227166_0.1210145284421742"
+			},
+			"directories": {},
+			"publish_time": 1464073227615,
+			"_cnpm_publish_time": 1464073227615,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0-beta.1": {
+			"name": "bisheng-plugin-react",
+			"version": "0.1.0-beta.1",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0"
+			},
+			"dependencies": {
+				"esprima-fb": "^15001.1001.0-dev-harmony-fb",
+				"recast": "^0.11.5"
+			},
+			"gitHead": "a5e26b2eee6636d411fde02271c14199a9eb5b4e",
+			"_id": "bisheng-plugin-react@0.1.0-beta.1",
+			"_shasum": "93a65a1bddd71650fa3bb344ea0b94353834ce50",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "93a65a1bddd71650fa3bb344ea0b94353834ce50",
+				"size": 2412,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.1.0-beta.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.1.0-beta.1.tgz_1464070669768_0.2563183659221977"
+			},
+			"directories": {},
+			"publish_time": 1464070672035,
+			"_cnpm_publish_time": 1464070672035,
+			"_hasShrinkwrap": false
+		},
+		"0.1.0-beta.0": {
+			"name": "bisheng-plugin-react",
+			"version": "0.1.0-beta.0",
+			"description": "To convert JSX which is written in Markdown to React.Element.",
+			"scripts": {
+				"lint": "eslint ./lib ./test",
+				"eslint-fix": "eslint --fix ./lib ./test",
+				"test": "npm run lint && mocha"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/benjycui/bisheng-plugin-react.git"
+			},
+			"keywords": [
+				"bisheng",
+				"plugin",
+				"markdown",
+				"react"
+			],
+			"author": {
+				"name": "Benjy Cui"
+			},
+			"license": "MIT",
+			"bugs": {
+				"url": "https://github.com/benjycui/bisheng-plugin-react/issues"
+			},
+			"homepage": "https://github.com/benjycui/bisheng-plugin-react#readme",
+			"devDependencies": {
+				"eslint": "^2.10.2",
+				"eslint-config-egg": "^2.0.0"
+			},
+			"dependencies": {
+				"esprima-fb": "^15001.1001.0-dev-harmony-fb",
+				"recast": "^0.11.5"
+			},
+			"gitHead": "c1f0bcf60acd43953bb8d004d1405dab1eb84657",
+			"_id": "bisheng-plugin-react@0.1.0-beta.0",
+			"_shasum": "e0464718bfd10d5055f1e0bafe55d0eba62d94b0",
+			"_from": ".",
+			"_npmVersion": "3.8.3",
+			"_nodeVersion": "5.10.0",
+			"_npmUser": {
+				"name": "benjycui",
+				"email": "benjytrys@gmail.com"
+			},
+			"dist": {
+				"shasum": "e0464718bfd10d5055f1e0bafe55d0eba62d94b0",
+				"size": 2238,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.1.0-beta.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "benjycui",
+					"email": "benjytrys@gmail.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bisheng-plugin-react-0.1.0-beta.0.tgz_1464062827713_0.8290212836582214"
+			},
+			"directories": {},
+			"publish_time": 1464062828174,
+			"_cnpm_publish_time": 1464062828174,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.6.3"
+	},
+	"time": {
+		"modified": "2017-10-23T06:23:54.000Z",
+		"created": "2016-05-24T04:07:08.174Z",
+		"0.6.3": "2017-10-23T06:18:04.386Z",
+		"0.6.2": "2017-10-23T06:10:02.851Z",
+		"0.6.1": "2017-10-23T03:20:40.404Z",
+		"0.6.0": "2017-10-23T03:03:36.986Z",
+		"0.5.8": "2017-10-17T01:54:02.500Z",
+		"0.5.7": "2017-10-10T08:51:43.319Z",
+		"0.5.6": "2017-09-30T09:49:24.706Z",
+		"0.5.5": "2017-03-06T06:48:25.746Z",
+		"0.5.4": "2017-02-17T02:41:45.289Z",
+		"0.5.3": "2017-02-16T09:28:26.459Z",
+		"0.5.2": "2017-02-16T09:14:51.027Z",
+		"0.5.1": "2017-02-09T06:34:04.807Z",
+		"0.5.0": "2017-02-06T08:49:50.364Z",
+		"0.4.2": "2017-01-19T06:49:15.836Z",
+		"0.4.1": "2017-01-19T06:45:49.870Z",
+		"0.4.0": "2017-01-19T04:12:04.903Z",
+		"0.3.1": "2016-11-29T06:33:53.777Z",
+		"0.3.0": "2016-11-02T09:17:56.155Z",
+		"0.2.2": "2016-10-24T07:11:16.161Z",
+		"0.2.1": "2016-10-24T03:53:24.893Z",
+		"0.2.0": "2016-07-22T01:29:11.881Z",
+		"0.1.3": "2016-06-03T05:46:15.030Z",
+		"0.1.2": "2016-06-03T05:41:33.844Z",
+		"0.1.0": "2016-05-24T07:00:27.615Z",
+		"0.1.0-beta.1": "2016-05-24T06:17:52.035Z",
+		"0.1.0-beta.0": "2016-05-24T04:07:08.174Z"
+	},
+	"_distfiles": {
+		"bisheng-plugin-react-0.6.3.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.6.3.tgz",
+			"sha": "374ebc716fcb7bfa55d151323da08ed96264401d",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.6.2.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.6.2.tgz",
+			"sha": "318937b8562df8087bcd5a05ae3e694226a4c435",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.6.1.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.6.1.tgz",
+			"sha": "a16e00e80f54a00c141db9449e455433de253f1d",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.6.0.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.6.0.tgz",
+			"sha": "5aea5cf48852b1e1da421e406b45df292b74c0e3",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.5.8.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.8.tgz",
+			"sha": "9c48b58e1e8663a79b0347939201a768247f41ea",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.5.7.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.7.tgz",
+			"sha": "e34ffb1ce14b66b09e25c5401fdb234b2187cd43",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.5.6.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.6.tgz",
+			"sha": "b3d6b9317b2bd1f45e4500387504a05d820d7172",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.5.5.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.5.tgz",
+			"sha": "b8975546d10bbab4827d233680256e6a3208f8f4",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.5.4.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.4.tgz",
+			"sha": "59660739f9aff9ac1c503c6deb197af7f9f1820c",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.5.3.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.3.tgz",
+			"sha": "c125ba1f2e16b53b1da6fe697c74515eaa128a93",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.2.tgz",
+			"sha": "8edf8f424df1f22064a371ba46a1aec6191a1e32",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.1.tgz",
+			"sha": "5ab180a9b223faeb1f258460da1ceaeb390268c3",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.5.0.tgz",
+			"sha": "d1d98f8e769ac49dc0dbb245b0a468cd7da8d480",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.4.2.tgz",
+			"sha": "b0c7b2bfbac1be72136d11c417235a633554185f",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.4.1.tgz",
+			"sha": "74424ab91f6e2c43e3cd527759e9af452bd83b1a",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.4.0.tgz",
+			"sha": "285a951fb34585ed7fd7a6307b58b7ed7cad4feb",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.3.1.tgz",
+			"sha": "1a6c9cab7e152190043de16a0945a49e6bb78855",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.3.0.tgz",
+			"sha": "d52f4dad5994b3ddc2372d80ce0678a95643df5d",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.2.2.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.2.2.tgz",
+			"sha": "b7b44e75a3dab72d03c94ba2f6cace86f5b3e5d0",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.2.1.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.2.1.tgz",
+			"sha": "59b7b29d2f5856ba18eb0755cc610af740ce06a4",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.2.0.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.2.0.tgz",
+			"sha": "ab5835375a729e4b0092fb0f50b07342558fb7bd",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.1.3.tgz",
+			"sha": "633dcb8d2372e762eb5cb7e555cf077fb4b3e9c9",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.1.2.tgz",
+			"sha": "7eb6e50dcf0955e3f521ea260fc717a3e2496916",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.1.0.tgz",
+			"sha": "19d7282d835b1e451dacfe36f981364aa4125be7",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.1.0-beta.1.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.1.0-beta.1.tgz",
+			"sha": "93a65a1bddd71650fa3bb344ea0b94353834ce50",
+			"registry": "cnpmjs"
+		},
+		"bisheng-plugin-react-0.1.0-beta.0.tgz": {
+			"url": "https://registry.npm.taobao.org/bisheng-plugin-react/download/bisheng-plugin-react-0.1.0-beta.0.tgz",
+			"sha": "e0464718bfd10d5055f1e0bafe55d0eba62d94b0",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"ab3b-BO+2zKgBkyuoieu9l1if5j4hIkI\"",
+			"fetched": 1528451130588
+		}
+	},
+	"_rev": "1-7a5a052dce9c609c",
+	"readme": "# bisheng-plugin-react\n\n[![](https://img.shields.io/travis/benjycui/bisheng.svg?style=flat-square)](https://travis-ci.org/benjycui/bisheng)\n[![npm package](https://img.shields.io/npm/v/bisheng-plugin-react.svg?style=flat-square)](https://www.npmjs.org/package/bisheng-plugin-react)\n[![NPM downloads](http://img.shields.io/npm/dm/bisheng-plugin-react.svg?style=flat-square)](https://npmjs.org/package/bisheng-plugin-react)\n[![Dependency Status](https://david-dm.org/benjycui/bisheng-plugin-react.svg?style=flat-square)](https://david-dm.org/benjycui/bisheng-plugin-react)\n\nTo convert JSX which is written in Markdown to React.Element.\n\n## Usage\n\nInstall:\n\n```bash\nnpm i --save bisheng-plugin-react\n```\n\nAdd 'bisheng-plugin-react to `bisehng.config.js`'s plugins.\n\n```js\nmodule.exports = {\n  plugins: ['bisheng-plugin-react?lang=jsx'],\n};\n```\n\nIn Markdown:\n\n<pre>\n...\n\nThis is a button:\n\n```jsx\nimport { Button } from 'antd';\nReactDOM.render(&lt;Button&gt;Click!&lt;/Button&gt;, mountNode);\n```\n...\n</pre>\n\nThe above example will be rendered as:\n\n![screenshot](https://raw.githubusercontent.com/benjycui/bisheng/master/packages/bisheng-plugin-react/screenshot.png)\n\n## API\n\n### lang: String\n\n> default: 'react-component'\n\n### babelConfig: Object\n\n> default:\n> {\n>   presets: [\n>     'react',\n>     ['env', {\n>       targets: {\n>         browsers: ['last 2 versions', 'Firefox ESR', '> 1%', 'ie >= 8', 'iOS >= 8', 'Android >= 4'],\n>       },\n>     }],\n>   ],\n>   plugins: [\n>     'transform-class-properties',\n>     'transform-object-rest-spread',\n>   ],\n> }\n\n### noreact: Boolean\n\n> default: false\n\nWhether to import `React` and `ReactDOM` automatically.\n\n## License\n\nMIT"
+}

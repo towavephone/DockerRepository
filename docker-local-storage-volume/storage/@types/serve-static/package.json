@@ -1,0 +1,1027 @@
+{
+	"name": "@types/serve-static",
+	"versions": {
+		"1.13.2": {
+			"name": "@types/serve-static",
+			"version": "1.13.2",
+			"description": "TypeScript definitions for serve-static",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Uros Smolnik",
+					"url": "https://github.com/urossmolnik",
+					"githubUsername": "urossmolnik"
+				},
+				{
+					"name": "Linus Unnebäck",
+					"url": "https://github.com/LinusU",
+					"githubUsername": "LinusU"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express-serve-static-core": "*",
+				"@types/mime": "*"
+			},
+			"typesPublisherContentHash": "3c454d8447dd409850aab805f4a9ddde32dc4c7606505c4e149b1f938f52728d",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/serve-static@1.13.2",
+			"dist": {
+				"shasum": "f5ac4d7a6420a99a6a45af4719f4dcd8cd907a48",
+				"size": 3051,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.13.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/serve-static_1.13.2_1525105282795_0.7865769265469493"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525105282860,
+			"_cnpm_publish_time": 1525105282860
+		},
+		"1.13.1": {
+			"name": "@types/serve-static",
+			"version": "1.13.1",
+			"description": "TypeScript definitions for serve-static",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Uros Smolnik",
+					"url": "https://github.com/urossmolnik",
+					"githubUsername": "urossmolnik"
+				},
+				{
+					"name": "Linus Unnebäck",
+					"url": "https://github.com/LinusU",
+					"githubUsername": "LinusU"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express-serve-static-core": "*",
+				"@types/mime": "*"
+			},
+			"typesPublisherContentHash": "cf21e4794995b00edf49695fcbb6ae17789bfd3889db5ef759e191ea838916ed",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/serve-static@1.13.1",
+			"dist": {
+				"shasum": "1d2801fa635d274cd97d4ec07e26b21b44127492",
+				"size": 3009,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.13.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/serve-static-1.13.1.tgz_1510240686767_0.3011777715291828"
+			},
+			"directories": {},
+			"publish_time": 1510240686824,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510240686824
+		},
+		"1.13.0": {
+			"name": "@types/serve-static",
+			"version": "1.13.0",
+			"description": "TypeScript definitions for serve-static",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Uros Smolnik",
+					"url": "https://github.com/urossmolnik",
+					"githubUsername": "urossmolnik"
+				},
+				{
+					"name": "Linus Unnebäck",
+					"url": "https://github.com/LinusU",
+					"githubUsername": "LinusU"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express-serve-static-core": "*",
+				"@types/mime": "*"
+			},
+			"typesPublisherContentHash": "ae0dc7ea3953f2124d01c6a9e6bf70ae53e9b95b4b77eb05a69c59f8912bb3be",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/serve-static@1.13.0",
+			"dist": {
+				"shasum": "2ef359d8d5982bc011a7a8fa36016e629e8b7635",
+				"size": 2999,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.13.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/serve-static-1.13.0.tgz_1508957465271_0.056656995322555304"
+			},
+			"directories": {},
+			"publish_time": 1508957465568,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508957465568
+		},
+		"1.7.32": {
+			"name": "@types/serve-static",
+			"version": "1.7.32",
+			"description": "TypeScript definitions for serve-static",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Uros Smolnik",
+					"url": "https://github.com/urossmolnik"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express-serve-static-core": "*",
+				"@types/mime": "*"
+			},
+			"typesPublisherContentHash": "c0dac04127ff734150c992cc697e39e0374266604258bd6663a3c651531a9066",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/serve-static@1.7.32",
+			"dist": {
+				"shasum": "0f6732e4dab0813771dd8fc8fe14940f34728b4c",
+				"size": 2804,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/serve-static-1.7.32.tgz_1503353052180_0.10676383110694587"
+			},
+			"directories": {},
+			"publish_time": 1503353052302,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503353052302
+		},
+		"1.7.31": {
+			"name": "@types/serve-static",
+			"version": "1.7.31",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"license": "MIT",
+			"author": "Uros Smolnik <https://github.com/urossmolnik/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express-serve-static-core": "*",
+				"@types/mime": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "6dbb5dca075bde179287659bb4382b64701adb508c89809310a1ce6a2b87ad83",
+			"_id": "@types/serve-static@1.7.31",
+			"dist": {
+				"shasum": "15456de8d98d6b4cff31be6c6af7492ae63f521a",
+				"size": 2341,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.31.tgz_1474308726626_0.34410145902074873"
+			},
+			"directories": {},
+			"publish_time": 1474308729989,
+			"_cnpm_publish_time": 1474308729989,
+			"_hasShrinkwrap": false
+		},
+		"1.7.30": {
+			"name": "@types/serve-static",
+			"version": "1.7.30",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"license": "MIT",
+			"author": "Uros Smolnik <https://github.com/urossmolnik/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express-serve-static-core": "4.0.*",
+				"@types/mime": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/serve-static@1.7.30",
+			"dist": {
+				"shasum": "de0153a44cf90e91d3c796da7a40b79c6e247bff",
+				"size": 2341,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.30.tgz_1472151553021_0.4135680755134672"
+			},
+			"directories": {},
+			"publish_time": 1472151554520,
+			"_cnpm_publish_time": 1472151554520,
+			"_hasShrinkwrap": false
+		},
+		"1.7.29": {
+			"name": "@types/serve-static",
+			"version": "1.7.29",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"license": "MIT",
+			"author": "Uros Smolnik <https://github.com/urossmolnik/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express-serve-static-core": "4.0.*",
+				"@types/mime": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/serve-static@1.7.29",
+			"dist": {
+				"shasum": "92fe990749344c8b45a9b46ca980f149b41fc497",
+				"size": 2342,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.29.tgz_1471621319073_0.5145616962108761"
+			},
+			"directories": {},
+			"publish_time": 1471621320990,
+			"_cnpm_publish_time": 1471621320990,
+			"_hasShrinkwrap": false
+		},
+		"1.7.28": {
+			"name": "@types/serve-static",
+			"version": "1.7.28",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"license": "MIT",
+			"author": "Uros Smolnik <https://github.com/urossmolnik/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express-serve-static-core": "4.0.*",
+				"@types/mime": "0.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/serve-static@1.7.28",
+			"dist": {
+				"shasum": "20ab7299c74a6a13ed4566b336f8ecc820741998",
+				"size": 10240,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.28.tgz_1470154237927_0.2991018558386713"
+			},
+			"directories": {},
+			"publish_time": 1470154239973,
+			"_cnpm_publish_time": 1470154239973,
+			"_hasShrinkwrap": false
+		},
+		"1.7.27": {
+			"name": "@types/serve-static",
+			"version": "1.7.27",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Uros Smolnik",
+				"email": "https://github.com/urossmolnik/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express-serve-static-core": "4.0.*",
+				"@types/mime": "0.0.*"
+			},
+			"_id": "@types/serve-static@1.7.27",
+			"_shasum": "b1c297ed33268d02c27e79015f1efb4007cd4eea",
+			"_from": "output\\serve-static",
+			"_resolved": "file:output\\serve-static",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b1c297ed33268d02c27e79015f1efb4007cd4eea",
+				"size": 2237,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.27.tgz_1468512125845_0.8891745649743825"
+			},
+			"directories": {},
+			"publish_time": 1468512127959,
+			"_cnpm_publish_time": 1468512127959,
+			"_hasShrinkwrap": false
+		},
+		"1.7.26-alpha": {
+			"name": "@types/serve-static",
+			"version": "1.7.26-alpha",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Uros Smolnik",
+				"email": "https://github.com/urossmolnik/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express-serve-static-core": "4.0.27-alpha",
+				"@types/mime": "0.0.27-alpha"
+			},
+			"_id": "@types/serve-static@1.7.26-alpha",
+			"_shasum": "78574a2dfb36b70ada5c62e4783ecec62ffb3e6f",
+			"_from": "output\\serve-static",
+			"_resolved": "file:output\\serve-static",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "78574a2dfb36b70ada5c62e4783ecec62ffb3e6f",
+				"size": 2239,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.26-alpha.tgz_1468013144094_0.7655938395764679"
+			},
+			"directories": {},
+			"publish_time": 1468013146444,
+			"_cnpm_publish_time": 1468013146444,
+			"_hasShrinkwrap": false
+		},
+		"1.7.25-alpha": {
+			"name": "@types/serve-static",
+			"version": "1.7.25-alpha",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Uros Smolnik",
+				"email": "https://github.com/urossmolnik/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express-serve-static-core": "4.0.26-alpha",
+				"@types/mime": "0.0.26-alpha"
+			},
+			"_id": "@types/serve-static@1.7.25-alpha",
+			"_shasum": "a5c560dc71cd8a67347ae8710a5cc740c2963713",
+			"_from": "output\\serve-static",
+			"_resolved": "file:output\\serve-static",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a5c560dc71cd8a67347ae8710a5cc740c2963713",
+				"size": 2240,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.25-alpha.tgz_1467595210121_0.07257580501027405"
+			},
+			"directories": {},
+			"publish_time": 1467595210639,
+			"_cnpm_publish_time": 1467595210639,
+			"_hasShrinkwrap": false
+		},
+		"1.7.24-alpha": {
+			"name": "@types/serve-static",
+			"version": "1.7.24-alpha",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Uros Smolnik",
+				"email": "https://github.com/urossmolnik/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express-serve-static-core": "4.0.25-alpha",
+				"@types/mime": "0.0.25-alpha"
+			},
+			"_id": "@types/serve-static@1.7.24-alpha",
+			"_shasum": "07db9315ffceaa3cda6d5a0a120a264ae84926c6",
+			"_from": "output\\serve-static",
+			"_resolved": "file:output\\serve-static",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "07db9315ffceaa3cda6d5a0a120a264ae84926c6",
+				"size": 2242,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.24-alpha.tgz_1467430003095_0.5076400749385357"
+			},
+			"directories": {},
+			"publish_time": 1467430003667,
+			"_cnpm_publish_time": 1467430003667,
+			"_hasShrinkwrap": false
+		},
+		"1.7.23-alpha": {
+			"name": "@types/serve-static",
+			"version": "1.7.23-alpha",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Uros Smolnik",
+				"email": "https://github.com/urossmolnik/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express-serve-static-core": "4.0.24-alpha",
+				"@types/mime": "0.0.24-alpha"
+			},
+			"_id": "@types/serve-static@1.7.23-alpha",
+			"_shasum": "eb9a62e5759d8ec7a1f97ab145ffd07a2f238c79",
+			"_from": "output\\serve-static",
+			"_resolved": "file:output\\serve-static",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "eb9a62e5759d8ec7a1f97ab145ffd07a2f238c79",
+				"size": 2238,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.23-alpha.tgz_1467417286473_0.12536202976480126"
+			},
+			"directories": {},
+			"publish_time": 1467417290042,
+			"_cnpm_publish_time": 1467417290042,
+			"_hasShrinkwrap": false
+		},
+		"1.7.22-alpha": {
+			"name": "@types/serve-static",
+			"version": "1.7.22-alpha",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Uros Smolnik",
+				"email": "https://github.com/urossmolnik/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express-serve-static-core": "4.0.*",
+				"@types/mime": "0.0.*"
+			},
+			"_id": "@types/serve-static@1.7.22-alpha",
+			"_shasum": "3ce697c38988ca0e92305fd4bc8d2ea2d5f734ec",
+			"_from": "output\\serve-static",
+			"_resolved": "file:output\\serve-static",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3ce697c38988ca0e92305fd4bc8d2ea2d5f734ec",
+				"size": 2232,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.22-alpha.tgz_1467405387266_0.12126819044351578"
+			},
+			"directories": {},
+			"publish_time": 1467405389448,
+			"_cnpm_publish_time": 1467405389448,
+			"_hasShrinkwrap": false
+		},
+		"1.7.21-alpha": {
+			"name": "@types/serve-static",
+			"version": "1.7.21-alpha",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Uros Smolnik",
+				"email": "https://github.com/urossmolnik/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express-serve-static-core": "*",
+				"@types/mime": "*"
+			},
+			"_id": "@types/serve-static@1.7.21-alpha",
+			"_shasum": "140f9074b80320fb1b506d296b4e7b70d7bd01c9",
+			"_from": "output\\serve-static",
+			"_resolved": "file:output\\serve-static",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "140f9074b80320fb1b506d296b4e7b70d7bd01c9",
+				"size": 2202,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.21-alpha.tgz_1464155738491_0.6189186845440418"
+			},
+			"directories": {},
+			"publish_time": 1464155738970,
+			"_cnpm_publish_time": 1464155738970,
+			"_hasShrinkwrap": false
+		},
+		"1.7.20-alpha": {
+			"name": "@types/serve-static",
+			"version": "1.7.20-alpha",
+			"description": "TypeScript definitions for serve-static 1.7.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Uros Smolnik",
+				"email": "https://github.com/urossmolnik/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express-serve-static-core": "*",
+				"@types/mime": "*"
+			},
+			"_id": "@types/serve-static@1.7.20-alpha",
+			"_shasum": "d099ed7c73101db27b0cd02c246f889388fe38e3",
+			"_from": "output\\serve-static",
+			"_resolved": "file:output\\serve-static",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d099ed7c73101db27b0cd02c246f889388fe38e3",
+				"size": 2202,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.20-alpha.tgz_1463776805511_0.45362257794477046"
+			},
+			"directories": {},
+			"publish_time": 1463776807774,
+			"_cnpm_publish_time": 1463776807774,
+			"_hasShrinkwrap": false
+		},
+		"1.7.15-alpha": {
+			"name": "@types/serve-static",
+			"version": "1.7.15-alpha",
+			"description": "Type definitions for serve-static 1.7.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Uros Smolnik",
+				"email": "https://github.com/urossmolnik/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"express-serve-static-core": "*",
+				"mime": "*",
+				"@types/express-serve-static-core": "*"
+			},
+			"_id": "@types/serve-static@1.7.15-alpha",
+			"_shasum": "ac0886a1eab650d95baa4a655d913cdbeffd7cfb",
+			"_from": "output\\serve-static",
+			"_resolved": "file:output\\serve-static",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ac0886a1eab650d95baa4a655d913cdbeffd7cfb",
+				"size": 2205,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.15-alpha.tgz_1463696501909_0.3715952578932047"
+			},
+			"directories": {},
+			"publish_time": 1463696506414,
+			"_cnpm_publish_time": 1463696506414,
+			"_hasShrinkwrap": false
+		},
+		"1.7.14-alpha": {
+			"name": "@types/serve-static",
+			"version": "1.7.14-alpha",
+			"description": "Type definitions for serve-static 1.7.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Uros Smolnik",
+				"email": "https://github.com/urossmolnik/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"express-serve-static-core": "*",
+				"mime": "*",
+				"@types/express-serve-static-core": "*"
+			},
+			"_id": "@types/serve-static@1.7.14-alpha",
+			"_shasum": "750004cda49886c519c04b6baef789f378fd75d4",
+			"_from": "output\\serve-static",
+			"_resolved": "file:output\\serve-static",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "750004cda49886c519c04b6baef789f378fd75d4",
+				"size": 2198,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/serve-static-1.7.14-alpha.tgz_1463511291884_0.7046071905642748"
+			},
+			"directories": {},
+			"publish_time": 1463511292462,
+			"_cnpm_publish_time": 1463511292462,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.13.2",
+		"ts2.0": "1.13.0",
+		"ts2.1": "1.13.0",
+		"ts2.2": "1.13.2",
+		"ts2.3": "1.13.2",
+		"ts2.4": "1.13.2",
+		"ts2.5": "1.13.2",
+		"ts2.6": "1.13.2",
+		"ts2.7": "1.13.2",
+		"ts2.8": "1.13.2",
+		"ts2.9": "1.13.2",
+		"ts3.0": "1.13.2",
+		"ts3.1": "1.13.2",
+		"ts3.2": "1.13.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:28:21.000Z",
+		"created": "2016-05-17T18:54:52.462Z",
+		"1.13.2": "2018-04-30T16:21:22.860Z",
+		"1.13.1": "2017-11-09T15:18:06.824Z",
+		"1.13.0": "2017-10-25T18:51:05.568Z",
+		"1.7.32": "2017-08-21T22:04:12.302Z",
+		"1.7.31": "2016-09-19T18:12:09.989Z",
+		"1.7.30": "2016-08-25T18:59:14.520Z",
+		"1.7.29": "2016-08-19T15:42:00.990Z",
+		"1.7.28": "2016-08-02T16:10:39.973Z",
+		"1.7.27": "2016-07-14T16:02:07.959Z",
+		"1.7.26-alpha": "2016-07-08T21:25:46.444Z",
+		"1.7.25-alpha": "2016-07-04T01:20:10.639Z",
+		"1.7.24-alpha": "2016-07-02T03:26:43.667Z",
+		"1.7.23-alpha": "2016-07-01T23:54:50.042Z",
+		"1.7.22-alpha": "2016-07-01T20:36:29.448Z",
+		"1.7.21-alpha": "2016-05-25T05:55:38.970Z",
+		"1.7.20-alpha": "2016-05-20T20:40:07.774Z",
+		"1.7.15-alpha": "2016-05-19T22:21:46.414Z",
+		"1.7.14-alpha": "2016-05-17T18:54:52.462Z"
+	},
+	"_distfiles": {
+		"serve-static-1.13.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.13.2.tgz",
+			"sha": "f5ac4d7a6420a99a6a45af4719f4dcd8cd907a48",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.13.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.13.1.tgz",
+			"sha": "1d2801fa635d274cd97d4ec07e26b21b44127492",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.13.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.13.0.tgz",
+			"sha": "2ef359d8d5982bc011a7a8fa36016e629e8b7635",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.32.tgz",
+			"sha": "0f6732e4dab0813771dd8fc8fe14940f34728b4c",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.31.tgz",
+			"sha": "15456de8d98d6b4cff31be6c6af7492ae63f521a",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.30.tgz",
+			"sha": "de0153a44cf90e91d3c796da7a40b79c6e247bff",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.29.tgz",
+			"sha": "92fe990749344c8b45a9b46ca980f149b41fc497",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.28.tgz",
+			"sha": "20ab7299c74a6a13ed4566b336f8ecc820741998",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.27.tgz",
+			"sha": "b1c297ed33268d02c27e79015f1efb4007cd4eea",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.26-alpha.tgz",
+			"sha": "78574a2dfb36b70ada5c62e4783ecec62ffb3e6f",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.25-alpha.tgz",
+			"sha": "a5c560dc71cd8a67347ae8710a5cc740c2963713",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.24-alpha.tgz",
+			"sha": "07db9315ffceaa3cda6d5a0a120a264ae84926c6",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.23-alpha.tgz",
+			"sha": "eb9a62e5759d8ec7a1f97ab145ffd07a2f238c79",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.22-alpha.tgz",
+			"sha": "3ce697c38988ca0e92305fd4bc8d2ea2d5f734ec",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.21-alpha.tgz",
+			"sha": "140f9074b80320fb1b506d296b4e7b70d7bd01c9",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.20-alpha.tgz",
+			"sha": "d099ed7c73101db27b0cd02c246f889388fe38e3",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.15-alpha.tgz",
+			"sha": "ac0886a1eab650d95baa4a655d913cdbeffd7cfb",
+			"registry": "cnpmjs"
+		},
+		"serve-static-1.7.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/serve-static/download/@types/serve-static-1.7.14-alpha.tgz",
+			"sha": "750004cda49886c519c04b6baef789f378fd75d4",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"5b46-pNYkQ0u1dnYap6PWu5+dgUmOYxo\"",
+			"fetched": 1541833488508
+		}
+	},
+	"_rev": "4-d194d2279e30afaf",
+	"readme": "# Installation\r\n> `npm install --save @types/serve-static`\r\n\r\n# Summary\r\nThis package contains type definitions for serve-static (https://github.com/expressjs/serve-static).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/serve-static\r\n\r\nAdditional Details\r\n * Last updated: Mon, 30 Apr 2018 16:18:31 GMT\r\n * Dependencies: express-serve-static-core, mime\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Uros Smolnik <https://github.com/urossmolnik>, Linus Unnebäck <https://github.com/LinusU>."
+}

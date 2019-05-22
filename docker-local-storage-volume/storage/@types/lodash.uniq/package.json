@@ -1,0 +1,326 @@
+{
+	"name": "@types/lodash.uniq",
+	"versions": {
+		"4.5.3": {
+			"name": "@types/lodash.uniq",
+			"version": "4.5.3",
+			"description": "TypeScript definitions for lodash.uniq",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "65868b03e834148e415b52d4d4f83b6fc2da8d54b00118edde534337b49ce358",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.uniq@4.5.3",
+			"dist": {
+				"shasum": "37e4586ebb9467306db9b32ee85495fd8942165b",
+				"size": 1587,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.uniq/download/@types/lodash.uniq-4.5.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.uniq-4.5.3.tgz_1502229140034_0.8994413169566542"
+			},
+			"directories": {},
+			"publish_time": 1502229140198,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502229140198
+		},
+		"4.5.2": {
+			"name": "@types/lodash.uniq",
+			"version": "4.5.2",
+			"description": "TypeScript definitions for lodash.uniq",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "12bfa6a0580303dbee8db046cdc8053f98c9d1168e21ffa03d355ab1023dbd1f",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.uniq@4.5.2",
+			"dist": {
+				"shasum": "9ea9636b16b1fd1f52c83de99c1413a0687ddad1",
+				"size": 867,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.uniq/download/@types/lodash.uniq-4.5.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.uniq-4.5.2.tgz_1490212962982_0.23841509385965765"
+			},
+			"directories": {},
+			"publish_time": 1490212963203,
+			"_cnpm_publish_time": 1490212963203,
+			"_hasShrinkwrap": false
+		},
+		"4.5.1": {
+			"name": "@types/lodash.uniq",
+			"version": "4.5.1",
+			"description": "TypeScript definitions for lodash.uniq",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "999bf1be42136a0caaf926a491974a8f952a1be55b91e7348a8676bb1e0632d1",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.uniq@4.5.1",
+			"dist": {
+				"shasum": "ceeb9224d755e9102f4356257752837335332ca9",
+				"size": 1037,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.uniq/download/@types/lodash.uniq-4.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.uniq-4.5.1.tgz_1485553894635_0.372166276210919"
+			},
+			"directories": {},
+			"publish_time": 1485553894854,
+			"_cnpm_publish_time": 1485553894854,
+			"_hasShrinkwrap": false
+		},
+		"4.5.0": {
+			"name": "@types/lodash.uniq",
+			"version": "4.5.0",
+			"description": "TypeScript definitions for lodash.uniq",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "48c5b24ea52ec9276e954203d6bdbb999955a3b03f3e13249acf112322f8fa72",
+			"_id": "@types/lodash.uniq@4.5.0",
+			"dist": {
+				"shasum": "fbf5c0c7493fb18e75ebe9f38fc2ce3f6974a460",
+				"size": 1013,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.uniq/download/@types/lodash.uniq-4.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.uniq-4.5.0.tgz_1480973730806_0.5448859001044184"
+			},
+			"directories": {},
+			"publish_time": 1480973731019,
+			"_cnpm_publish_time": 1480973731019,
+			"_hasShrinkwrap": false
+		},
+		"4.5.4": {
+			"name": "@types/lodash.uniq",
+			"version": "4.5.4",
+			"description": "TypeScript definitions for lodash.uniq",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "72ec0504a85ec5b566460f66ec5fd151d8882d4fe2973f6af30a7888d81f51cc",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.uniq@4.5.4",
+			"dist": {
+				"shasum": "8dd571e4a68adddcd1bac810538e68f440e87403",
+				"size": 1588,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.uniq/download/@types/lodash.uniq-4.5.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.uniq_4.5.4_1532393819131_0.35786921072925715"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532393819180,
+			"_cnpm_publish_time": 1532393819180
+		}
+	},
+	"dist-tags": {
+		"latest": "4.5.4",
+		"ts2.0": "4.5.0",
+		"ts2.1": "4.5.1",
+		"ts2.2": "4.5.3",
+		"ts2.3": "4.5.3",
+		"ts2.4": "4.5.3",
+		"ts2.5": "4.5.3",
+		"ts2.6": "4.5.4",
+		"ts2.7": "4.5.4",
+		"ts2.8": "4.5.4",
+		"ts2.9": "4.5.4",
+		"ts3.0": "4.5.4",
+		"ts3.1": "4.5.4",
+		"ts3.2": "4.5.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:17:26.000Z",
+		"created": "2016-12-05T21:35:31.019Z",
+		"4.5.4": "2018-07-24T00:56:59.180Z",
+		"4.5.3": "2017-08-08T21:52:20.198Z",
+		"4.5.2": "2017-03-22T20:02:43.203Z",
+		"4.5.1": "2017-01-27T21:51:34.854Z",
+		"4.5.0": "2016-12-05T21:35:31.019Z"
+	},
+	"_distfiles": {
+		"lodash.uniq-4.5.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.uniq/download/@types/lodash.uniq-4.5.3.tgz",
+			"sha": "37e4586ebb9467306db9b32ee85495fd8942165b",
+			"registry": "cnpmjs"
+		},
+		"lodash.uniq-4.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.uniq/download/@types/lodash.uniq-4.5.2.tgz",
+			"sha": "9ea9636b16b1fd1f52c83de99c1413a0687ddad1",
+			"registry": "cnpmjs"
+		},
+		"lodash.uniq-4.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.uniq/download/@types/lodash.uniq-4.5.1.tgz",
+			"sha": "ceeb9224d755e9102f4356257752837335332ca9",
+			"registry": "cnpmjs"
+		},
+		"lodash.uniq-4.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.uniq/download/@types/lodash.uniq-4.5.0.tgz",
+			"sha": "fbf5c0c7493fb18e75ebe9f38fc2ce3f6974a460",
+			"registry": "cnpmjs"
+		},
+		"lodash.uniq-4.5.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.uniq/download/@types/lodash.uniq-4.5.4.tgz",
+			"sha": "8dd571e4a68adddcd1bac810538e68f440e87403",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1d76-lPbzZkIDK8RcLrTc4/cGtUOJT1Q\"",
+			"fetched": 1541833485062
+		}
+	},
+	"_rev": "2-8eeb586656a452a8",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.uniq`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.uniq (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.uniq\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:12 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

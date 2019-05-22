@@ -1,0 +1,850 @@
+{
+	"name": "@types/tmp",
+	"versions": {
+		"0.0.33": {
+			"name": "@types/tmp",
+			"version": "0.0.33",
+			"description": "TypeScript definitions for tmp",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Jared Klopper",
+					"url": "https://github.com/optical"
+				},
+				{
+					"name": "Gyusun Yeom",
+					"url": "https://github.com/Perlmint"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "e0545163e50c7115b10d075edb68f9f3cf6721d829743fe4c205f747a24a77f2",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/tmp@0.0.33",
+			"dist": {
+				"shasum": "1073c4bc824754ae3d10cfab88ab0237ba964e4d",
+				"size": 1796,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.33.tgz_1493917562540_0.7236738037317991"
+			},
+			"directories": {},
+			"publish_time": 1493917562777,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1493917562777
+		},
+		"0.0.32": {
+			"name": "@types/tmp",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for tmp",
+			"license": "MIT",
+			"author": "Jared Klopper <https://github.com/optical>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "8dee398f279b4d3aa3d8d05535a4ce35f6de1acdf0106499b11fecb67610a7cc",
+			"_id": "@types/tmp@0.0.32",
+			"dist": {
+				"shasum": "0d3cb31022f8427ea58c008af32b80da126ca4e3",
+				"size": 1267,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.32.tgz_1480358770094_0.5917448832187802"
+			},
+			"directories": {},
+			"publish_time": 1480358771955,
+			"_cnpm_publish_time": 1480358771955,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/tmp",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for Unknown",
+			"license": "MIT",
+			"author": "Jared Klopper <https://github.com/optical>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "29bf8085554b12877ce0dc7be0d11806dd7408fc8e482e0b5d7a73d07943ed88",
+			"_id": "@types/tmp@0.0.31",
+			"dist": {
+				"shasum": "ef8e3a732a54e67a721b36f36456706c12ff420b",
+				"size": 1277,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.31.tgz_1474308934571_0.8249485166743398"
+			},
+			"directories": {},
+			"publish_time": 1474308937898,
+			"_cnpm_publish_time": 1474308937898,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/tmp",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for Unknown",
+			"license": "MIT",
+			"author": "Jared Klopper <https://github.com/optical>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/tmp@0.0.30",
+			"dist": {
+				"shasum": "b2a76a7c8029bbdf026ccf83de0ce73d6882d77a",
+				"size": 1272,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.30.tgz_1472151830479_0.2366187022998929"
+			},
+			"directories": {},
+			"publish_time": 1472151830701,
+			"_cnpm_publish_time": 1472151830701,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/tmp",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for Unknown",
+			"license": "MIT",
+			"author": "Jared Klopper <https://github.com/optical>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/tmp@0.0.29",
+			"dist": {
+				"shasum": "3f188a758327375766babca50fee224aff09a13f",
+				"size": 1272,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.29.tgz_1471621518431_0.6783679272048175"
+			},
+			"directories": {},
+			"publish_time": 1471621520403,
+			"_cnpm_publish_time": 1471621520403,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/tmp",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for Unknown",
+			"license": "MIT",
+			"author": "Jared Klopper <https://github.com/optical>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/tmp@0.0.28",
+			"dist": {
+				"shasum": "94d829cb6f035afed5129fd92c4f2783d5c12bf5",
+				"size": 7680,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.28.tgz_1470154445850_0.7833763204980642"
+			},
+			"directories": {},
+			"publish_time": 1470154446861,
+			"_cnpm_publish_time": 1470154446861,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/tmp",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for tmp v0.0.28",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jared Klopper",
+				"email": "https://github.com/optical"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/tmp@0.0.27",
+			"_shasum": "5e3684798955eddacd40527a08545d8b979b3f0e",
+			"_from": "output\\tmp",
+			"_resolved": "file:output\\tmp",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5e3684798955eddacd40527a08545d8b979b3f0e",
+				"size": 1252,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.27.tgz_1468512833555_0.5034884049091488"
+			},
+			"directories": {},
+			"publish_time": 1468512835893,
+			"_cnpm_publish_time": 1468512835893,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/tmp",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for tmp v0.0.28",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jared Klopper",
+				"email": "https://github.com/optical"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/tmp@0.0.26-alpha",
+			"_shasum": "dab4f3c1263f1b3686cb72252a01cdc033ae07fb",
+			"_from": "output\\tmp",
+			"_resolved": "file:output\\tmp",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dab4f3c1263f1b3686cb72252a01cdc033ae07fb",
+				"size": 1257,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.26-alpha.tgz_1468013935956_0.5470598542597145"
+			},
+			"directories": {},
+			"publish_time": 1468013938374,
+			"_cnpm_publish_time": 1468013938374,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/tmp",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for tmp v0.0.28",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jared Klopper",
+				"email": "https://github.com/optical"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/tmp@0.0.25-alpha",
+			"_shasum": "a91b9bd2cd5fbc2abf4da3cc264d208b7fec79f6",
+			"_from": "output\\tmp",
+			"_resolved": "file:output\\tmp",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a91b9bd2cd5fbc2abf4da3cc264d208b7fec79f6",
+				"size": 1254,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.25-alpha.tgz_1467595803046_0.33751923171803355"
+			},
+			"directories": {},
+			"publish_time": 1467595803551,
+			"_cnpm_publish_time": 1467595803551,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/tmp",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for tmp v0.0.28",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jared Klopper",
+				"email": "https://github.com/optical"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/tmp@0.0.24-alpha",
+			"_shasum": "4b67cf58bd66bcd0524e7401ae7834f544e4b0cd",
+			"_from": "output\\tmp",
+			"_resolved": "file:output\\tmp",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4b67cf58bd66bcd0524e7401ae7834f544e4b0cd",
+				"size": 1254,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.24-alpha.tgz_1467430624943_0.9054822188336402"
+			},
+			"directories": {},
+			"publish_time": 1467430625551,
+			"_cnpm_publish_time": 1467430625551,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/tmp",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for tmp v0.0.28",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jared Klopper",
+				"email": "https://github.com/optical"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/tmp@0.0.23-alpha",
+			"_shasum": "b5e0f6841d546e29fc78e423a20efb41eb416000",
+			"_from": "output\\tmp",
+			"_resolved": "file:output\\tmp",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b5e0f6841d546e29fc78e423a20efb41eb416000",
+				"size": 1258,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.23-alpha.tgz_1467418533000_0.5516542606055737"
+			},
+			"directories": {},
+			"publish_time": 1467418536407,
+			"_cnpm_publish_time": 1467418536407,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/tmp",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for tmp v0.0.28",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jared Klopper",
+				"email": "https://github.com/optical"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/tmp@0.0.22-alpha",
+			"_shasum": "29e3f533d346921ee468be75ad1a184c358ae054",
+			"_from": "output\\tmp",
+			"_resolved": "file:output\\tmp",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "29e3f533d346921ee468be75ad1a184c358ae054",
+				"size": 1249,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.22-alpha.tgz_1467406147667_0.1025660834275186"
+			},
+			"directories": {},
+			"publish_time": 1467406151082,
+			"_cnpm_publish_time": 1467406151082,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/tmp",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for tmp v0.0.28",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jared Klopper",
+				"email": "https://github.com/optical"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/tmp@0.0.21-alpha",
+			"_shasum": "3d9ab3a9d171b9f3d94d7312ef9d5eb33c59b62e",
+			"_from": "output\\tmp",
+			"_resolved": "file:output\\tmp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3d9ab3a9d171b9f3d94d7312ef9d5eb33c59b62e",
+				"size": 1228,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.21-alpha.tgz_1464156256467_0.2667866335250437"
+			},
+			"directories": {},
+			"publish_time": 1464156256971,
+			"_cnpm_publish_time": 1464156256971,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/tmp",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for tmp v0.0.28",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jared Klopper",
+				"email": "https://github.com/optical"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/tmp@0.0.20-alpha",
+			"_shasum": "6ff1ecad530610c1c18b648aac556eede75fef6c",
+			"_from": "output\\tmp",
+			"_resolved": "file:output\\tmp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6ff1ecad530610c1c18b648aac556eede75fef6c",
+				"size": 1227,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.20-alpha.tgz_1463777348974_0.5577988647855818"
+			},
+			"directories": {},
+			"publish_time": 1463777351286,
+			"_cnpm_publish_time": 1463777351286,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/tmp",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for tmp v0.0.28 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jared Klopper",
+				"email": "https://github.com/optical"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/tmp@0.0.15-alpha",
+			"_shasum": "2cfc92bd8ffe04168d6c398fb6bb3857c14d7c03",
+			"_from": "output\\tmp",
+			"_resolved": "file:output\\tmp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2cfc92bd8ffe04168d6c398fb6bb3857c14d7c03",
+				"size": 1234,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.15-alpha.tgz_1463697263419_0.6613476064521819"
+			},
+			"directories": {},
+			"publish_time": 1463697268131,
+			"_cnpm_publish_time": 1463697268131,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/tmp",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for tmp v0.0.28 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Jared Klopper",
+				"email": "https://github.com/optical"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/tmp@0.0.14-alpha",
+			"_shasum": "08953d2c467a9411bac119bbbe647088a0d476d0",
+			"_from": "output\\tmp",
+			"_resolved": "file:output\\tmp",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "08953d2c467a9411bac119bbbe647088a0d476d0",
+				"size": 1228,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/tmp-0.0.14-alpha.tgz_1463511992787_0.25217508315108716"
+			},
+			"directories": {},
+			"publish_time": 1463511995423,
+			"_cnpm_publish_time": 1463511995423,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.33",
+		"ts2.0": "0.0.33",
+		"ts2.1": "0.0.33",
+		"ts2.2": "0.0.33",
+		"ts2.3": "0.0.33",
+		"ts2.4": "0.0.33",
+		"ts2.5": "0.0.33",
+		"ts2.6": "0.0.33",
+		"ts2.7": "0.0.33",
+		"ts2.8": "0.0.33",
+		"ts2.9": "0.0.33",
+		"ts3.0": "0.0.33",
+		"ts3.1": "0.0.33",
+		"ts3.2": "0.0.33"
+	},
+	"time": {
+		"modified": "2018-10-10T20:29:26.000Z",
+		"created": "2016-05-17T19:06:35.423Z",
+		"0.0.33": "2017-05-04T17:06:02.777Z",
+		"0.0.32": "2016-11-28T18:46:11.955Z",
+		"0.0.31": "2016-09-19T18:15:37.898Z",
+		"0.0.30": "2016-08-25T19:03:50.701Z",
+		"0.0.29": "2016-08-19T15:45:20.403Z",
+		"0.0.28": "2016-08-02T16:14:06.861Z",
+		"0.0.27": "2016-07-14T16:13:55.893Z",
+		"0.0.26-alpha": "2016-07-08T21:38:58.374Z",
+		"0.0.25-alpha": "2016-07-04T01:30:03.551Z",
+		"0.0.24-alpha": "2016-07-02T03:37:05.551Z",
+		"0.0.23-alpha": "2016-07-02T00:15:36.407Z",
+		"0.0.22-alpha": "2016-07-01T20:49:11.082Z",
+		"0.0.21-alpha": "2016-05-25T06:04:16.971Z",
+		"0.0.20-alpha": "2016-05-20T20:49:11.286Z",
+		"0.0.15-alpha": "2016-05-19T22:34:28.131Z",
+		"0.0.14-alpha": "2016-05-17T19:06:35.423Z"
+	},
+	"_distfiles": {
+		"tmp-0.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.33.tgz",
+			"sha": "1073c4bc824754ae3d10cfab88ab0237ba964e4d",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.32.tgz",
+			"sha": "0d3cb31022f8427ea58c008af32b80da126ca4e3",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.31.tgz",
+			"sha": "ef8e3a732a54e67a721b36f36456706c12ff420b",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.30.tgz",
+			"sha": "b2a76a7c8029bbdf026ccf83de0ce73d6882d77a",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.29.tgz",
+			"sha": "3f188a758327375766babca50fee224aff09a13f",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.28.tgz",
+			"sha": "94d829cb6f035afed5129fd92c4f2783d5c12bf5",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.27.tgz",
+			"sha": "5e3684798955eddacd40527a08545d8b979b3f0e",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.26-alpha.tgz",
+			"sha": "dab4f3c1263f1b3686cb72252a01cdc033ae07fb",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.25-alpha.tgz",
+			"sha": "a91b9bd2cd5fbc2abf4da3cc264d208b7fec79f6",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.24-alpha.tgz",
+			"sha": "4b67cf58bd66bcd0524e7401ae7834f544e4b0cd",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.23-alpha.tgz",
+			"sha": "b5e0f6841d546e29fc78e423a20efb41eb416000",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.22-alpha.tgz",
+			"sha": "29e3f533d346921ee468be75ad1a184c358ae054",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.21-alpha.tgz",
+			"sha": "3d9ab3a9d171b9f3d94d7312ef9d5eb33c59b62e",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.20-alpha.tgz",
+			"sha": "6ff1ecad530610c1c18b648aac556eede75fef6c",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.15-alpha.tgz",
+			"sha": "2cfc92bd8ffe04168d6c398fb6bb3857c14d7c03",
+			"registry": "cnpmjs"
+		},
+		"tmp-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/tmp/download/@types/tmp-0.0.14-alpha.tgz",
+			"sha": "08953d2c467a9411bac119bbbe647088a0d476d0",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"4851-+D/a7OsCLBxyJDFUbjP0h/s6hz0\"",
+			"fetched": 1541833489461
+		}
+	},
+	"_rev": "2-a125c6379031a0d0",
+	"readme": "# Installation\r\n> `npm install --save @types/tmp`\r\n\r\n# Summary\r\nThis package contains type definitions for tmp (https://www.npmjs.com/package/tmp).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/tmp\r\n\r\nAdditional Details\r\n * Last updated: Thu, 04 May 2017 17:04:38 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Jared Klopper <https://github.com/optical>, Gyusun Yeom <https://github.com/Perlmint>."
+}

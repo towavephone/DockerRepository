@@ -1,0 +1,719 @@
+{
+	"name": "@types/htmlparser2",
+	"versions": {
+		"3.7.31": {
+			"name": "@types/htmlparser2",
+			"version": "3.7.31",
+			"description": "TypeScript definitions for htmlparser2",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "James Roland Cabresos",
+					"url": "https://github.com/staticfunction",
+					"githubUsername": "staticfunction"
+				},
+				{
+					"name": "Linus Unnebäck",
+					"url": "https://github.com/LinusU",
+					"githubUsername": "LinusU"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "f44661bd5607d1c6f3af9fe968f8d10213a5a52e45b51802ec13bc4c982cdb23",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/htmlparser2@3.7.31",
+			"dist": {
+				"shasum": "ae89353691ce37fa2463c3b8b4698f20ef67a59b",
+				"size": 2448,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-3.7.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/htmlparser2-3.7.31.tgz_1504822207969_0.3882379869464785"
+			},
+			"directories": {},
+			"publish_time": 1504822208063,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1504822208063
+		},
+		"3.7.30": {
+			"name": "@types/htmlparser2",
+			"version": "3.7.30",
+			"description": "TypeScript definitions for htmlparser2",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "James Roland Cabresos",
+					"url": "https://github.com/staticfunction"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e71b5b1b057d7eccfc061e57fc4f9f1e121ee3b7235320c4198a0f5cbf2938ed",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/htmlparser2@3.7.30",
+			"dist": {
+				"shasum": "f476a2fd7b1b11df5b0d140e3e7f404528352793",
+				"size": 2304,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-3.7.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/htmlparser2-3.7.30.tgz_1503352529207_0.029307613149285316"
+			},
+			"directories": {},
+			"publish_time": 1503352529275,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352529275
+		},
+		"3.7.29": {
+			"name": "@types/htmlparser2",
+			"version": "3.7.29",
+			"description": "TypeScript definitions for htmlparser2 v3.7.x",
+			"license": "MIT",
+			"author": "James Roland Cabresos <https://github.com/staticfunction/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "28eb62ab3d0108d0cc4857db560d6ed029a748198e6017a5f9f0179c79baded1",
+			"_id": "@types/htmlparser2@3.7.29",
+			"dist": {
+				"shasum": "d2ae2c9874ec8829e03f00baa4635b4229ce8cf1",
+				"size": 1828,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-3.7.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-3.7.29.tgz_1474306768371_0.5135818338021636"
+			},
+			"directories": {},
+			"publish_time": 1474306771423,
+			"_cnpm_publish_time": 1474306771423,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/htmlparser2",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for htmlparser2 v3.7.x",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "James Roland Cabresos",
+				"email": "https://github.com/staticfunction/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/htmlparser2@0.0.28",
+			"_shasum": "a47f897be2241964c87eca51799631419bc97ff0",
+			"_from": "output\\htmlparser2",
+			"_resolved": "file:output\\htmlparser2",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a47f897be2241964c87eca51799631419bc97ff0",
+				"size": 1816,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-0.0.28.tgz_1468507944609_0.8697211903054267"
+			},
+			"directories": {},
+			"publish_time": 1468507947110,
+			"_cnpm_publish_time": 1468507947110,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/htmlparser2",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for htmlparser2 v3.7.x",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "James Roland Cabresos",
+				"email": "https://github.com/staticfunction/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/htmlparser2@0.0.27-alpha",
+			"_shasum": "354d1be97aa78030604235330acd4f83b177e697",
+			"_from": "output\\htmlparser2",
+			"_resolved": "file:output\\htmlparser2",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "354d1be97aa78030604235330acd4f83b177e697",
+				"size": 1817,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-0.0.27-alpha.tgz_1468009231189_0.7979918590281159"
+			},
+			"directories": {},
+			"publish_time": 1468009232526,
+			"_cnpm_publish_time": 1468009232526,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/htmlparser2",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for htmlparser2 v3.7.x",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "James Roland Cabresos",
+				"email": "https://github.com/staticfunction/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/htmlparser2@0.0.26-alpha",
+			"_shasum": "23f792ff742106ad621ab306d6f0213a20bc0425",
+			"_from": "output\\htmlparser2",
+			"_resolved": "file:output\\htmlparser2",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "23f792ff742106ad621ab306d6f0213a20bc0425",
+				"size": 1815,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-0.0.26-alpha.tgz_1467591870649_0.1523571303114295"
+			},
+			"directories": {},
+			"publish_time": 1467591874191,
+			"_cnpm_publish_time": 1467591874191,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/htmlparser2",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for htmlparser2 v3.7.x",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "James Roland Cabresos",
+				"email": "https://github.com/staticfunction/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/htmlparser2@0.0.25-alpha",
+			"_shasum": "c285085c86cb998e9aabd704b16dc22203cea42d",
+			"_from": "output\\htmlparser2",
+			"_resolved": "file:output\\htmlparser2",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c285085c86cb998e9aabd704b16dc22203cea42d",
+				"size": 1821,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-0.0.25-alpha.tgz_1467426981762_0.26232414972037077"
+			},
+			"directories": {},
+			"publish_time": 1467426985188,
+			"_cnpm_publish_time": 1467426985188,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/htmlparser2",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for htmlparser2 v3.7.x",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "James Roland Cabresos",
+				"email": "https://github.com/staticfunction/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/htmlparser2@0.0.24-alpha",
+			"_shasum": "0ce2ecb7a6707bcf37213c418646f4da96f75879",
+			"_from": "output\\htmlparser2",
+			"_resolved": "file:output\\htmlparser2",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0ce2ecb7a6707bcf37213c418646f4da96f75879",
+				"size": 1819,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-0.0.24-alpha.tgz_1467413741780_0.45332433888688684"
+			},
+			"directories": {},
+			"publish_time": 1467413742383,
+			"_cnpm_publish_time": 1467413742383,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/htmlparser2",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for htmlparser2 v3.7.x",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "James Roland Cabresos",
+				"email": "https://github.com/staticfunction/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/htmlparser2@0.0.23-alpha",
+			"_shasum": "361f5a60fff38c482952140407b03b21daaba319",
+			"_from": "output\\htmlparser2",
+			"_resolved": "file:output\\htmlparser2",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "361f5a60fff38c482952140407b03b21daaba319",
+				"size": 1807,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-0.0.23-alpha.tgz_1467401611175_0.5528301591984928"
+			},
+			"directories": {},
+			"publish_time": 1467401613655,
+			"_cnpm_publish_time": 1467401613655,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/htmlparser2",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for htmlparser2 v3.7.x",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "James Roland Cabresos",
+				"email": "https://github.com/staticfunction/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/htmlparser2@0.0.22-alpha",
+			"_shasum": "a62d5c52c3cf3c1214295fbf050c454f7ba84d6b",
+			"_from": "output\\htmlparser2",
+			"_resolved": "file:output\\htmlparser2",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a62d5c52c3cf3c1214295fbf050c454f7ba84d6b",
+				"size": 1788,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-0.0.22-alpha.tgz_1464152734092_0.735695862909779"
+			},
+			"directories": {},
+			"publish_time": 1464152734563,
+			"_cnpm_publish_time": 1464152734563,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/htmlparser2",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for htmlparser2 v3.7.x",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "James Roland Cabresos",
+				"email": "https://github.com/staticfunction/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/htmlparser2@0.0.21-alpha",
+			"_shasum": "b3e4bbd9c4a78e7b825a9267bce5e8a4fd1e76cd",
+			"_from": "output\\htmlparser2",
+			"_resolved": "file:output\\htmlparser2",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b3e4bbd9c4a78e7b825a9267bce5e8a4fd1e76cd",
+				"size": 1783,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-0.0.21-alpha.tgz_1463773630268_0.38371816161088645"
+			},
+			"directories": {},
+			"publish_time": 1463773630690,
+			"_cnpm_publish_time": 1463773630690,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/htmlparser2",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for htmlparser2 v3.7.x from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "James Roland Cabresos",
+				"email": "https://github.com/staticfunction/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/htmlparser2@0.0.16-alpha",
+			"_shasum": "66102124b226f08e8d060edf150eac05bb44b460",
+			"_from": "output\\htmlparser2",
+			"_resolved": "file:output\\htmlparser2",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "66102124b226f08e8d060edf150eac05bb44b460",
+				"size": 1793,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-0.0.16-alpha.tgz_1463692196894_0.9670891643036157"
+			},
+			"directories": {},
+			"publish_time": 1463692197588,
+			"_cnpm_publish_time": 1463692197588,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/htmlparser2",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for htmlparser2 v3.7.x from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "James Roland Cabresos",
+				"email": "https://github.com/staticfunction/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/htmlparser2@0.0.15-alpha",
+			"_shasum": "9fbc7721080ba11707bb77d6b1927a4ef14e718c",
+			"_from": "output\\htmlparser2",
+			"_resolved": "file:output\\htmlparser2",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9fbc7721080ba11707bb77d6b1927a4ef14e718c",
+				"size": 1784,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/htmlparser2-0.0.15-alpha.tgz_1463461821922_0.6198650165461004"
+			},
+			"directories": {},
+			"publish_time": 1463461825627,
+			"_cnpm_publish_time": 1463461825627,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "3.7.31",
+		"ts2.0": "3.7.31",
+		"ts2.1": "3.7.31",
+		"ts2.2": "3.7.31",
+		"ts2.3": "3.7.31",
+		"ts2.4": "3.7.31",
+		"ts2.5": "3.7.31",
+		"ts2.6": "3.7.31",
+		"ts2.7": "3.7.31",
+		"ts2.8": "3.7.31",
+		"ts2.9": "3.7.31",
+		"ts3.0": "3.7.31",
+		"ts3.1": "3.7.31",
+		"ts3.2": "3.7.31"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:41.000Z",
+		"created": "2016-05-17T05:10:25.627Z",
+		"3.7.31": "2017-09-07T22:10:08.063Z",
+		"3.7.30": "2017-08-21T21:55:29.275Z",
+		"3.7.29": "2016-09-19T17:39:31.423Z",
+		"0.0.28": "2016-07-14T14:52:27.110Z",
+		"0.0.27-alpha": "2016-07-08T20:20:32.526Z",
+		"0.0.26-alpha": "2016-07-04T00:24:34.191Z",
+		"0.0.25-alpha": "2016-07-02T02:36:25.188Z",
+		"0.0.24-alpha": "2016-07-01T22:55:42.383Z",
+		"0.0.23-alpha": "2016-07-01T19:33:33.655Z",
+		"0.0.22-alpha": "2016-05-25T05:05:34.563Z",
+		"0.0.21-alpha": "2016-05-20T19:47:10.690Z",
+		"0.0.16-alpha": "2016-05-19T21:09:57.588Z",
+		"0.0.15-alpha": "2016-05-17T05:10:25.627Z"
+	},
+	"_distfiles": {
+		"htmlparser2-3.7.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-3.7.31.tgz",
+			"sha": "ae89353691ce37fa2463c3b8b4698f20ef67a59b",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-3.7.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-3.7.30.tgz",
+			"sha": "f476a2fd7b1b11df5b0d140e3e7f404528352793",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-3.7.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-3.7.29.tgz",
+			"sha": "d2ae2c9874ec8829e03f00baa4635b4229ce8cf1",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.28.tgz",
+			"sha": "a47f897be2241964c87eca51799631419bc97ff0",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.27-alpha.tgz",
+			"sha": "354d1be97aa78030604235330acd4f83b177e697",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.26-alpha.tgz",
+			"sha": "23f792ff742106ad621ab306d6f0213a20bc0425",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.25-alpha.tgz",
+			"sha": "c285085c86cb998e9aabd704b16dc22203cea42d",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.24-alpha.tgz",
+			"sha": "0ce2ecb7a6707bcf37213c418646f4da96f75879",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.23-alpha.tgz",
+			"sha": "361f5a60fff38c482952140407b03b21daaba319",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.22-alpha.tgz",
+			"sha": "a62d5c52c3cf3c1214295fbf050c454f7ba84d6b",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.21-alpha.tgz",
+			"sha": "b3e4bbd9c4a78e7b825a9267bce5e8a4fd1e76cd",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.16-alpha.tgz",
+			"sha": "66102124b226f08e8d060edf150eac05bb44b460",
+			"registry": "cnpmjs"
+		},
+		"htmlparser2-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/htmlparser2/download/@types/htmlparser2-0.0.15-alpha.tgz",
+			"sha": "9fbc7721080ba11707bb77d6b1927a4ef14e718c",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"4194-xiL4vPCib6qvo8i0+WpjCh/SoOQ\"",
+			"fetched": 1541833456656
+		}
+	},
+	"_rev": "2-a6c65b23eea07b2a",
+	"readme": "# Installation\r\n> `npm install --save @types/htmlparser2`\r\n\r\n# Summary\r\nThis package contains type definitions for htmlparser2 (https://github.com/fb55/htmlparser2/).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/htmlparser2\r\n\r\nAdditional Details\r\n * Last updated: Thu, 07 Sep 2017 22:03:13 GMT\r\n * Dependencies: stream, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by James Roland Cabresos <https://github.com/staticfunction>, Linus Unnebäck <https://github.com/LinusU>."
+}

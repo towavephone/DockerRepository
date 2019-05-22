@@ -1,0 +1,1018 @@
+{
+	"name": "@types/qs",
+	"versions": {
+		"6.5.1": {
+			"name": "@types/qs",
+			"version": "6.5.1",
+			"description": "TypeScript definitions for qs",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Roman Korneev",
+					"url": "https://github.com/RWander",
+					"githubUsername": "RWander"
+				},
+				{
+					"name": "Leon Yu",
+					"url": "https://github.com/leonyu",
+					"githubUsername": "leonyu"
+				},
+				{
+					"name": "Belinda Teh",
+					"url": "https://github.com/tehbelinda",
+					"githubUsername": "tehbelinda"
+				},
+				{
+					"name": "Melvin Lee",
+					"url": "https://github.com/zyml",
+					"githubUsername": "zyml"
+				},
+				{
+					"name": "Arturs Vonda",
+					"url": "https://github.com/artursvonda",
+					"githubUsername": "artursvonda"
+				},
+				{
+					"name": "Carlos Bonetti",
+					"url": "https://github.com/CarlosBonetti",
+					"githubUsername": "CarlosBonetti"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "95a1ffa7727211a2cb92c8a426f7c630833d679c2566dc382b1af9c0126c7318",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/qs@6.5.1",
+			"dist": {
+				"shasum": "a38f69c62528d56ba7bd1f91335a8004988d72f7",
+				"size": 2046,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-6.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/qs-6.5.1.tgz_1508948541515_0.9812304803635925"
+			},
+			"directories": {},
+			"publish_time": 1508948541588,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508948541588
+		},
+		"6.5.0": {
+			"name": "@types/qs",
+			"version": "6.5.0",
+			"description": "TypeScript definitions for qs",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Roman Korneev",
+					"url": "https://github.com/RWander"
+				},
+				{
+					"name": "Leon Yu",
+					"url": "https://github.com/leonyu"
+				},
+				{
+					"name": "Belinda Teh",
+					"url": "https://github.com/tehbelinda"
+				},
+				{
+					"name": "Melvin Lee",
+					"url": "https://github.com/zyml"
+				},
+				{
+					"name": "Arturs Vonda",
+					"url": "https://github.com/artursvonda"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3b36c396217f35b49132c8abebc0a481a5103f79bf764a7401976e31c13dc77e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/qs@6.5.0",
+			"dist": {
+				"shasum": "14514e8ee24a4d0672c0c0da5e01a4f11da60d71",
+				"size": 1978,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-6.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/qs-6.5.0.tgz_1499265099734_0.744535295991227"
+			},
+			"directories": {},
+			"publish_time": 1499265099821,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1499265099821
+		},
+		"6.4.0": {
+			"name": "@types/qs",
+			"version": "6.4.0",
+			"description": "TypeScript definitions for qs",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Roman Korneev",
+					"url": "https://github.com/RWander"
+				},
+				{
+					"name": "Leon Yu",
+					"url": "https://github.com/leonyu"
+				},
+				{
+					"name": "Belinda Teh",
+					"url": "https://github.com/tehbelinda"
+				},
+				{
+					"name": "Melvin Lee",
+					"url": "https://github.com/zyml"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "7d8fe9da45754879a02e884d6d8e6d5ee8f4a45039a04eaff2076b0cf945fa88",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/qs@6.4.0",
+			"dist": {
+				"shasum": "beff9f6a794302e6e07370cc1670049f322d9a32",
+				"size": 1926,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-6.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/qs-6.4.0.tgz_1498859186668_0.19269120157696307"
+			},
+			"directories": {},
+			"publish_time": 1498859186774,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1498859186774
+		},
+		"6.2.31": {
+			"name": "@types/qs",
+			"version": "6.2.31",
+			"description": "TypeScript definitions for qs",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Roman Korneev",
+					"url": "https://github.com/RWander"
+				},
+				{
+					"name": "Leon Yu",
+					"url": "https://github.com/leonyu"
+				},
+				{
+					"name": "Belinda Teh",
+					"url": "https://github.com/tehbelinda"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2c1b15c8980e966cb10231b9636ba421bb3e5bb9a7c0beb7d7bfd83ef0c4afdb",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/qs@6.2.31",
+			"dist": {
+				"shasum": "7d929bd877f9cd3ece6415c602b7cf9b077133f1",
+				"size": 1155,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-6.2.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/qs-6.2.31.tgz_1490142844192_0.45917141158133745"
+			},
+			"directories": {},
+			"publish_time": 1490142844439,
+			"_cnpm_publish_time": 1490142844439,
+			"_hasShrinkwrap": false
+		},
+		"6.2.30": {
+			"name": "@types/qs",
+			"version": "6.2.30",
+			"description": "TypeScript definitions for qs 6.2.0",
+			"license": "MIT",
+			"author": "Roman Korneev <https://github.com/RWander>, Leon Yu <https://github.com/leonyu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "c147281b90dbbf0ece118d3dd3fca9b1f09be8841470e0e6e7d85c12afdd3f99",
+			"_id": "@types/qs@6.2.30",
+			"dist": {
+				"shasum": "139e247511ee3b9be539cdd553c8fdb33c1f624e",
+				"size": 1293,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-6.2.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/qs-6.2.30.tgz_1474308278249_0.40291365422308445"
+			},
+			"directories": {},
+			"publish_time": 1474308281513,
+			"_cnpm_publish_time": 1474308281513,
+			"_hasShrinkwrap": false
+		},
+		"6.2.29": {
+			"name": "@types/qs",
+			"version": "6.2.29",
+			"description": "TypeScript definitions for qs 6.2.0",
+			"license": "MIT",
+			"author": "Roman Korneev <https://github.com/RWander>, Leon Yu <https://github.com/leonyu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/qs@6.2.29",
+			"dist": {
+				"shasum": "6a96daaa88f338fef83ebfa63bbe2080abbb5024",
+				"size": 1286,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-6.2.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/qs-6.2.29.tgz_1472151246113_0.9667742482852191"
+			},
+			"directories": {},
+			"publish_time": 1472151247856,
+			"_cnpm_publish_time": 1472151247856,
+			"_hasShrinkwrap": false
+		},
+		"6.2.28": {
+			"name": "@types/qs",
+			"version": "6.2.28",
+			"description": "TypeScript definitions for qs 6.2.0",
+			"license": "MIT",
+			"author": "Roman Korneev <https://github.com/RWander>, Leon Yu <https://github.com/leonyu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/qs@6.2.28",
+			"dist": {
+				"shasum": "fa456179672948b489040a9f8cfece2c2a726b0b",
+				"size": 1284,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-6.2.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/qs-6.2.28.tgz_1471621074131_0.7587569085881114"
+			},
+			"directories": {},
+			"publish_time": 1471621075861,
+			"_cnpm_publish_time": 1471621075861,
+			"_hasShrinkwrap": false
+		},
+		"6.2.27": {
+			"name": "@types/qs",
+			"version": "6.2.27",
+			"description": "TypeScript definitions for qs 6.2.0",
+			"license": "MIT",
+			"author": "Roman Korneev <https://github.com/RWander>, Leon Yu <https://github.com/leonyu>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/qs@6.2.27",
+			"dist": {
+				"shasum": "657d7d24bcab16a65013daf93637f11530068d6f",
+				"size": 7168,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-6.2.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/qs-6.2.27.tgz_1470153915856_0.4501737637910992"
+			},
+			"directories": {},
+			"publish_time": 1470153916889,
+			"_cnpm_publish_time": 1470153916889,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26": {
+			"name": "@types/qs",
+			"version": "0.0.26",
+			"description": "TypeScript definitions for qs",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Roman Korneev",
+				"email": "https://github.com/RWander"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/qs@0.0.26",
+			"_shasum": "ccdd11a2708f960921e4bc4c278b4130c0801cd5",
+			"_from": "output\\qs",
+			"_resolved": "file:output\\qs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ccdd11a2708f960921e4bc4c278b4130c0801cd5",
+				"size": 1170,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.26.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/qs-0.0.26.tgz_1468511285770_0.5999755023512989"
+			},
+			"directories": {},
+			"publish_time": 1468511287848,
+			"_cnpm_publish_time": 1468511287848,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/qs",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for qs",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Roman Korneev",
+				"email": "https://github.com/RWander"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/qs@0.0.25-alpha",
+			"_shasum": "dcfb110268eab8271692504cd115802d64fff816",
+			"_from": "output\\qs",
+			"_resolved": "file:output\\qs",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "dcfb110268eab8271692504cd115802d64fff816",
+				"size": 1178,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/qs-0.0.25-alpha.tgz_1468012390094_0.05250539514236152"
+			},
+			"directories": {},
+			"publish_time": 1468012391495,
+			"_cnpm_publish_time": 1468012391495,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/qs",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for qs",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Roman Korneev",
+				"email": "https://github.com/RWander"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/qs@0.0.24-alpha",
+			"_shasum": "240c77803c13c90ee612f648d455d5f0cfa8422e",
+			"_from": "output\\qs",
+			"_resolved": "file:output\\qs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "240c77803c13c90ee612f648d455d5f0cfa8422e",
+				"size": 1178,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/qs-0.0.24-alpha.tgz_1467594747459_0.32902303943410516"
+			},
+			"directories": {},
+			"publish_time": 1467594748038,
+			"_cnpm_publish_time": 1467594748038,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/qs",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for qs",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Roman Korneev",
+				"email": "https://github.com/RWander"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/qs@0.0.23-alpha",
+			"_shasum": "799a3146baaf80b2ecff4df865c5fac976ccf483",
+			"_from": "output\\qs",
+			"_resolved": "file:output\\qs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "799a3146baaf80b2ecff4df865c5fac976ccf483",
+				"size": 1183,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/qs-0.0.23-alpha.tgz_1467429334088_0.9419318749569356"
+			},
+			"directories": {},
+			"publish_time": 1467429337259,
+			"_cnpm_publish_time": 1467429337259,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/qs",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for qs",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Roman Korneev",
+				"email": "https://github.com/RWander"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/qs@0.0.22-alpha",
+			"_shasum": "b5eceeae66b562dbc7220743cfd2136cf01df4d1",
+			"_from": "output\\qs",
+			"_resolved": "file:output\\qs",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b5eceeae66b562dbc7220743cfd2136cf01df4d1",
+				"size": 1179,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/qs-0.0.22-alpha.tgz_1467416805301_0.15239203325472772"
+			},
+			"directories": {},
+			"publish_time": 1467416805826,
+			"_cnpm_publish_time": 1467416805826,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/qs",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for qs",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Roman Korneev",
+				"email": "https://github.com/RWander"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/qs@0.0.21-alpha",
+			"_shasum": "f1b3eaf470272cbb997b14d4e16e4d942c444e55",
+			"_from": "output\\qs",
+			"_resolved": "file:output\\qs",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f1b3eaf470272cbb997b14d4e16e4d942c444e55",
+				"size": 1171,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/qs-0.0.21-alpha.tgz_1467404709235_0.5510075448546559"
+			},
+			"directories": {},
+			"publish_time": 1467404711349,
+			"_cnpm_publish_time": 1467404711349,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/qs",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for qs",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Roman Korneev",
+				"email": "https://github.com/RWander"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/qs@0.0.20-alpha",
+			"_shasum": "8b1234ce533191a38721628aa3f76c6cc576f2d6",
+			"_from": "output\\qs",
+			"_resolved": "file:output\\qs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8b1234ce533191a38721628aa3f76c6cc576f2d6",
+				"size": 1149,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/qs-0.0.20-alpha.tgz_1464155094419_0.9490445414558053"
+			},
+			"directories": {},
+			"publish_time": 1464155094902,
+			"_cnpm_publish_time": 1464155094902,
+			"_hasShrinkwrap": false
+		},
+		"0.0.19-alpha": {
+			"name": "@types/qs",
+			"version": "0.0.19-alpha",
+			"description": "TypeScript definitions for qs",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Roman Korneev",
+				"email": "https://github.com/RWander"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/qs@0.0.19-alpha",
+			"_shasum": "54a15195ae1a689c07ee681b90f392ddcebccffe",
+			"_from": "output\\qs",
+			"_resolved": "file:output\\qs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "54a15195ae1a689c07ee681b90f392ddcebccffe",
+				"size": 1147,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.19-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/qs-0.0.19-alpha.tgz_1463776130502_0.8722766658756882"
+			},
+			"directories": {},
+			"publish_time": 1463776132846,
+			"_cnpm_publish_time": 1463776132846,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/qs",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for qs from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Roman Korneev",
+				"email": "https://github.com/RWander"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/qs@0.0.14-alpha",
+			"_shasum": "925e193d56b1cbe4483b096c4aea16aa19293c2c",
+			"_from": "output\\qs",
+			"_resolved": "file:output\\qs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "925e193d56b1cbe4483b096c4aea16aa19293c2c",
+				"size": 1158,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/qs-0.0.14-alpha.tgz_1463695552659_0.2905996909830719"
+			},
+			"directories": {},
+			"publish_time": 1463695557274,
+			"_cnpm_publish_time": 1463695557274,
+			"_hasShrinkwrap": false
+		},
+		"0.0.13-alpha": {
+			"name": "@types/qs",
+			"version": "0.0.13-alpha",
+			"description": "Type definitions for qs from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Roman Korneev",
+				"email": "https://github.com/RWander"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/qs@0.0.13-alpha",
+			"_shasum": "fcce54e59b5f71ebdc4f7ac73b13087ba3bca42f",
+			"_from": "output\\qs",
+			"_resolved": "file:output\\qs",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fcce54e59b5f71ebdc4f7ac73b13087ba3bca42f",
+				"size": 1148,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/qs-0.0.13-alpha.tgz_1463510492532_0.9493680358864367"
+			},
+			"directories": {},
+			"publish_time": 1463510496530,
+			"_cnpm_publish_time": 1463510496530,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "6.5.1",
+		"ts2.0": "6.5.1",
+		"ts2.1": "6.5.1",
+		"ts2.2": "6.5.1",
+		"ts2.3": "6.5.1",
+		"ts2.4": "6.5.1",
+		"ts2.5": "6.5.1",
+		"ts2.6": "6.5.1",
+		"ts2.7": "6.5.1",
+		"ts2.8": "6.5.1",
+		"ts2.9": "6.5.1",
+		"ts3.0": "6.5.1",
+		"ts3.1": "6.5.1",
+		"ts3.2": "6.5.1"
+	},
+	"time": {
+		"modified": "2018-10-10T20:25:48.000Z",
+		"created": "2016-05-17T18:41:36.530Z",
+		"6.5.1": "2017-10-25T16:22:21.588Z",
+		"6.5.0": "2017-07-05T14:31:39.821Z",
+		"6.4.0": "2017-06-30T21:46:26.774Z",
+		"6.2.31": "2017-03-22T00:34:04.439Z",
+		"6.2.30": "2016-09-19T18:04:41.513Z",
+		"6.2.29": "2016-08-25T18:54:07.856Z",
+		"6.2.28": "2016-08-19T15:37:55.861Z",
+		"6.2.27": "2016-08-02T16:05:16.889Z",
+		"0.0.26": "2016-07-14T15:48:07.848Z",
+		"0.0.25-alpha": "2016-07-08T21:13:11.495Z",
+		"0.0.24-alpha": "2016-07-04T01:12:28.038Z",
+		"0.0.23-alpha": "2016-07-02T03:15:37.259Z",
+		"0.0.22-alpha": "2016-07-01T23:46:45.826Z",
+		"0.0.21-alpha": "2016-07-01T20:25:11.349Z",
+		"0.0.20-alpha": "2016-05-25T05:44:54.902Z",
+		"0.0.19-alpha": "2016-05-20T20:28:52.846Z",
+		"0.0.14-alpha": "2016-05-19T22:05:57.274Z",
+		"0.0.13-alpha": "2016-05-17T18:41:36.530Z"
+	},
+	"_distfiles": {
+		"qs-6.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-6.5.1.tgz",
+			"sha": "a38f69c62528d56ba7bd1f91335a8004988d72f7",
+			"registry": "cnpmjs"
+		},
+		"qs-6.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-6.5.0.tgz",
+			"sha": "14514e8ee24a4d0672c0c0da5e01a4f11da60d71",
+			"registry": "cnpmjs"
+		},
+		"qs-6.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-6.4.0.tgz",
+			"sha": "beff9f6a794302e6e07370cc1670049f322d9a32",
+			"registry": "cnpmjs"
+		},
+		"qs-6.2.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-6.2.31.tgz",
+			"sha": "7d929bd877f9cd3ece6415c602b7cf9b077133f1",
+			"registry": "cnpmjs"
+		},
+		"qs-6.2.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-6.2.30.tgz",
+			"sha": "139e247511ee3b9be539cdd553c8fdb33c1f624e",
+			"registry": "cnpmjs"
+		},
+		"qs-6.2.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-6.2.29.tgz",
+			"sha": "6a96daaa88f338fef83ebfa63bbe2080abbb5024",
+			"registry": "cnpmjs"
+		},
+		"qs-6.2.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-6.2.28.tgz",
+			"sha": "fa456179672948b489040a9f8cfece2c2a726b0b",
+			"registry": "cnpmjs"
+		},
+		"qs-6.2.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-6.2.27.tgz",
+			"sha": "657d7d24bcab16a65013daf93637f11530068d6f",
+			"registry": "cnpmjs"
+		},
+		"qs-0.0.26.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.26.tgz",
+			"sha": "ccdd11a2708f960921e4bc4c278b4130c0801cd5",
+			"registry": "cnpmjs"
+		},
+		"qs-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.25-alpha.tgz",
+			"sha": "dcfb110268eab8271692504cd115802d64fff816",
+			"registry": "cnpmjs"
+		},
+		"qs-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.24-alpha.tgz",
+			"sha": "240c77803c13c90ee612f648d455d5f0cfa8422e",
+			"registry": "cnpmjs"
+		},
+		"qs-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.23-alpha.tgz",
+			"sha": "799a3146baaf80b2ecff4df865c5fac976ccf483",
+			"registry": "cnpmjs"
+		},
+		"qs-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.22-alpha.tgz",
+			"sha": "b5eceeae66b562dbc7220743cfd2136cf01df4d1",
+			"registry": "cnpmjs"
+		},
+		"qs-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.21-alpha.tgz",
+			"sha": "f1b3eaf470272cbb997b14d4e16e4d942c444e55",
+			"registry": "cnpmjs"
+		},
+		"qs-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.20-alpha.tgz",
+			"sha": "8b1234ce533191a38721628aa3f76c6cc576f2d6",
+			"registry": "cnpmjs"
+		},
+		"qs-0.0.19-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.19-alpha.tgz",
+			"sha": "54a15195ae1a689c07ee681b90f392ddcebccffe",
+			"registry": "cnpmjs"
+		},
+		"qs-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.14-alpha.tgz",
+			"sha": "925e193d56b1cbe4483b096c4aea16aa19293c2c",
+			"registry": "cnpmjs"
+		},
+		"qs-0.0.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/qs/download/@types/qs-0.0.13-alpha.tgz",
+			"sha": "fcce54e59b5f71ebdc4f7ac73b13087ba3bca42f",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"54ab-WclztwEAkqnqxAjprHD0K7WIQkI\"",
+			"fetched": 1541833487312
+		}
+	},
+	"_rev": "2-6637c0fd4363fe79",
+	"readme": "# Installation\r\n> `npm install --save @types/qs`\r\n\r\n# Summary\r\nThis package contains type definitions for qs (https://github.com/ljharb/qs).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/qs\r\n\r\nAdditional Details\r\n * Last updated: Wed, 25 Oct 2017 16:18:55 GMT\r\n * Dependencies: none\r\n * Global values: qs\r\n\r\n# Credits\r\nThese definitions were written by Roman Korneev <https://github.com/RWander>, Leon Yu <https://github.com/leonyu>, Belinda Teh <https://github.com/tehbelinda>, Melvin Lee <https://github.com/zyml>, Arturs Vonda <https://github.com/artursvonda>, Carlos Bonetti <https://github.com/CarlosBonetti>."
+}

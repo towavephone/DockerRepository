@@ -1,0 +1,749 @@
+{
+	"name": "@types/glob-stream",
+	"versions": {
+		"6.1.0": {
+			"name": "@types/glob-stream",
+			"version": "6.1.0",
+			"description": "TypeScript definitions for glob-stream",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "mrmlnc",
+					"url": "https://github.com/mrmlnc",
+					"githubUsername": "mrmlnc"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "d888c0282cd1d7508084d08c8349730835c134896e0bdab1c31ffe71ea446acf",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/glob-stream@6.1.0",
+			"dist": {
+				"shasum": "7ede8a33e59140534f8d8adfb8ac9edfb31897bc",
+				"size": 2070,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-6.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/glob-stream-6.1.0.tgz_1512318457736_0.5602941061370075"
+			},
+			"directories": {},
+			"publish_time": 1512318457848,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1512318457848
+		},
+		"3.1.31": {
+			"name": "@types/glob-stream",
+			"version": "3.1.31",
+			"description": "TypeScript definitions for glob-stream",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*",
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "e0a05740009cd6c109234768b5f10854c57cf3c2298e30211e60bc1b55b6d265",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/glob-stream@3.1.31",
+			"dist": {
+				"shasum": "015842260c01dab3b56578d8b37de2e57483d4ad",
+				"size": 1652,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/glob-stream-3.1.31.tgz_1503352355431_0.3991171824745834"
+			},
+			"directories": {},
+			"publish_time": 1503352355499,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352355499
+		},
+		"3.1.30": {
+			"name": "@types/glob-stream",
+			"version": "3.1.30",
+			"description": "TypeScript definitions for glob-stream v3.1.12",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/glob": "*",
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "454bf2e343ca4b7e2f8a267ce08ad36e7aeeab59fedfcbd4e931a238c1be7d7b",
+			"_id": "@types/glob-stream@3.1.30",
+			"dist": {
+				"shasum": "b853990b40a4cfe6a80ec0d2fadf68d8060f78b1",
+				"size": 1187,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.30.tgz_1474306568135_0.03274045046418905"
+			},
+			"directories": {},
+			"publish_time": 1474306571242,
+			"_cnpm_publish_time": 1474306571242,
+			"_hasShrinkwrap": false
+		},
+		"3.1.29": {
+			"name": "@types/glob-stream",
+			"version": "3.1.29",
+			"description": "TypeScript definitions for glob-stream v3.1.12",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/glob": "5.0.*",
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/glob-stream@3.1.29",
+			"_shasum": "169e5bb4625f3f8d58bdb17044931e10234ff67b",
+			"_from": "output\\glob-stream",
+			"_resolved": "file:output\\glob-stream",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "169e5bb4625f3f8d58bdb17044931e10234ff67b",
+				"size": 1164,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.29.tgz_1468507325010_0.010541880270466208"
+			},
+			"directories": {},
+			"publish_time": 1468507327484,
+			"_cnpm_publish_time": 1468507327484,
+			"_hasShrinkwrap": false
+		},
+		"3.1.28-alpha": {
+			"name": "@types/glob-stream",
+			"version": "3.1.28-alpha",
+			"description": "TypeScript definitions for glob-stream v3.1.12",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/glob": "5.0.28-alpha",
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/glob-stream@3.1.28-alpha",
+			"_shasum": "65c78c88b4f2c0b602e750db00ae9843dbc287f8",
+			"_from": "output\\glob-stream",
+			"_resolved": "file:output\\glob-stream",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "65c78c88b4f2c0b602e750db00ae9843dbc287f8",
+				"size": 1173,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.28-alpha.tgz_1468008744133_0.18000925541855395"
+			},
+			"directories": {},
+			"publish_time": 1468008746674,
+			"_cnpm_publish_time": 1468008746674,
+			"_hasShrinkwrap": false
+		},
+		"3.1.26-alpha": {
+			"name": "@types/glob-stream",
+			"version": "3.1.26-alpha",
+			"description": "TypeScript definitions for glob-stream v3.1.12",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/glob-stream@3.1.26-alpha",
+			"_shasum": "d45a4f91cde001594ff62fb54d280acafa84db55",
+			"_from": "output\\glob-stream",
+			"_resolved": "file:output\\glob-stream",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d45a4f91cde001594ff62fb54d280acafa84db55",
+				"size": 1152,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.26-alpha.tgz_1467591396717_0.9209513431414962"
+			},
+			"directories": {},
+			"publish_time": 1467591397258,
+			"_cnpm_publish_time": 1467591397258,
+			"_hasShrinkwrap": false
+		},
+		"3.1.25-alpha": {
+			"name": "@types/glob-stream",
+			"version": "3.1.25-alpha",
+			"description": "TypeScript definitions for glob-stream v3.1.12",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/glob-stream@3.1.25-alpha",
+			"_shasum": "0c4f612e0e6a89ca5c442fae092cedb17ab93be6",
+			"_from": "output\\glob-stream",
+			"_resolved": "file:output\\glob-stream",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0c4f612e0e6a89ca5c442fae092cedb17ab93be6",
+				"size": 1157,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.25-alpha.tgz_1467426525020_0.09134536143392324"
+			},
+			"directories": {},
+			"publish_time": 1467426525547,
+			"_cnpm_publish_time": 1467426525547,
+			"_hasShrinkwrap": false
+		},
+		"3.1.24-alpha": {
+			"name": "@types/glob-stream",
+			"version": "3.1.24-alpha",
+			"description": "TypeScript definitions for glob-stream v3.1.12",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha"
+			},
+			"_id": "@types/glob-stream@3.1.24-alpha",
+			"_shasum": "0a5842271a8dc81a7fb368dbb40bdd396fa8140f",
+			"_from": "output\\glob-stream",
+			"_resolved": "file:output\\glob-stream",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0a5842271a8dc81a7fb368dbb40bdd396fa8140f",
+				"size": 1156,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.24-alpha.tgz_1467413582685_0.13477622182108462"
+			},
+			"directories": {},
+			"publish_time": 1467413584777,
+			"_cnpm_publish_time": 1467413584777,
+			"_hasShrinkwrap": false
+		},
+		"3.1.23-alpha": {
+			"name": "@types/glob-stream",
+			"version": "3.1.23-alpha",
+			"description": "TypeScript definitions for glob-stream v3.1.12",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/glob-stream@3.1.23-alpha",
+			"_shasum": "0ed7a461d3c8bc29a29f78e9136ac5842cbfb08e",
+			"_from": "output\\glob-stream",
+			"_resolved": "file:output\\glob-stream",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0ed7a461d3c8bc29a29f78e9136ac5842cbfb08e",
+				"size": 1147,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.23-alpha.tgz_1467401065625_0.3265564062166959"
+			},
+			"directories": {},
+			"publish_time": 1467401068160,
+			"_cnpm_publish_time": 1467401068160,
+			"_hasShrinkwrap": false
+		},
+		"3.1.22-alpha": {
+			"name": "@types/glob-stream",
+			"version": "3.1.22-alpha",
+			"description": "TypeScript definitions for glob-stream v3.1.12",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/glob-stream@3.1.22-alpha",
+			"_shasum": "4c23bea46af42ae09dc0b549db146805e3a2f32d",
+			"_from": "output\\glob-stream",
+			"_resolved": "file:output\\glob-stream",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "4c23bea46af42ae09dc0b549db146805e3a2f32d",
+				"size": 1122,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.22-alpha.tgz_1464152325579_0.20089527824893594"
+			},
+			"directories": {},
+			"publish_time": 1464152326063,
+			"_cnpm_publish_time": 1464152326063,
+			"_hasShrinkwrap": false
+		},
+		"3.1.21-alpha": {
+			"name": "@types/glob-stream",
+			"version": "3.1.21-alpha",
+			"description": "TypeScript definitions for glob-stream v3.1.12",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/glob-stream@3.1.21-alpha",
+			"_shasum": "fcadc6fdca71905d1db38c2ff68cf346d126a70f",
+			"_from": "output\\glob-stream",
+			"_resolved": "file:output\\glob-stream",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fcadc6fdca71905d1db38c2ff68cf346d126a70f",
+				"size": 1122,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.21-alpha.tgz_1463773235769_0.19031533715315163"
+			},
+			"directories": {},
+			"publish_time": 1463773236206,
+			"_cnpm_publish_time": 1463773236206,
+			"_hasShrinkwrap": false
+		},
+		"3.1.16-alpha": {
+			"name": "@types/glob-stream",
+			"version": "3.1.16-alpha",
+			"description": "Type definitions for glob-stream v3.1.12 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('../glob'": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/glob-stream@3.1.16-alpha",
+			"_shasum": "209d5672b1e024660a01a87fea764ae188024c19",
+			"_from": "output\\glob-stream",
+			"_resolved": "file:output\\glob-stream",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "209d5672b1e024660a01a87fea764ae188024c19",
+				"size": 1137,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.16-alpha.tgz_1463691579221_0.299617430428043"
+			},
+			"directories": {},
+			"publish_time": 1463691583711,
+			"_cnpm_publish_time": 1463691583711,
+			"_hasShrinkwrap": false
+		},
+		"3.1.15-alpha": {
+			"name": "@types/glob-stream",
+			"version": "3.1.15-alpha",
+			"description": "Type definitions for glob-stream v3.1.12 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('../glob'": "*"
+			},
+			"_id": "@types/glob-stream@3.1.15-alpha",
+			"_shasum": "c422215d6ae122f9f1baa77cc3387a3e75d36eeb",
+			"_from": "output\\glob-stream",
+			"_resolved": "file:output\\glob-stream",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c422215d6ae122f9f1baa77cc3387a3e75d36eeb",
+				"size": 1108,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/glob-stream-3.1.15-alpha.tgz_1463461315446_0.9551373145077378"
+			},
+			"directories": {},
+			"publish_time": 1463461319038,
+			"_cnpm_publish_time": 1463461319038,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "6.1.0",
+		"ts2.0": "6.1.0",
+		"ts2.1": "6.1.0",
+		"ts2.2": "6.1.0",
+		"ts2.3": "6.1.0",
+		"ts2.4": "6.1.0",
+		"ts2.5": "6.1.0",
+		"ts2.6": "6.1.0",
+		"ts2.7": "6.1.0",
+		"ts2.8": "6.1.0",
+		"ts2.9": "6.1.0",
+		"ts3.0": "6.1.0",
+		"ts3.1": "6.1.0",
+		"ts3.2": "6.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:12:41.000Z",
+		"created": "2016-05-17T05:01:59.038Z",
+		"6.1.0": "2017-12-03T16:27:37.848Z",
+		"3.1.31": "2017-08-21T21:52:35.499Z",
+		"3.1.30": "2016-09-19T17:36:11.242Z",
+		"3.1.29": "2016-07-14T14:42:07.484Z",
+		"3.1.28-alpha": "2016-07-08T20:12:26.674Z",
+		"3.1.26-alpha": "2016-07-04T00:16:37.258Z",
+		"3.1.25-alpha": "2016-07-02T02:28:45.547Z",
+		"3.1.24-alpha": "2016-07-01T22:53:04.777Z",
+		"3.1.23-alpha": "2016-07-01T19:24:28.160Z",
+		"3.1.22-alpha": "2016-05-25T04:58:46.063Z",
+		"3.1.21-alpha": "2016-05-20T19:40:36.206Z",
+		"3.1.16-alpha": "2016-05-19T20:59:43.711Z",
+		"3.1.15-alpha": "2016-05-17T05:01:59.038Z"
+	},
+	"_distfiles": {
+		"glob-stream-6.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-6.1.0.tgz",
+			"sha": "7ede8a33e59140534f8d8adfb8ac9edfb31897bc",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.31.tgz",
+			"sha": "015842260c01dab3b56578d8b37de2e57483d4ad",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.30.tgz",
+			"sha": "b853990b40a4cfe6a80ec0d2fadf68d8060f78b1",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.29.tgz",
+			"sha": "169e5bb4625f3f8d58bdb17044931e10234ff67b",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.28-alpha.tgz",
+			"sha": "65c78c88b4f2c0b602e750db00ae9843dbc287f8",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.26-alpha.tgz",
+			"sha": "d45a4f91cde001594ff62fb54d280acafa84db55",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.25-alpha.tgz",
+			"sha": "0c4f612e0e6a89ca5c442fae092cedb17ab93be6",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.24-alpha.tgz",
+			"sha": "0a5842271a8dc81a7fb368dbb40bdd396fa8140f",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.23-alpha.tgz",
+			"sha": "0ed7a461d3c8bc29a29f78e9136ac5842cbfb08e",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.22-alpha.tgz",
+			"sha": "4c23bea46af42ae09dc0b549db146805e3a2f32d",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.21-alpha.tgz",
+			"sha": "fcadc6fdca71905d1db38c2ff68cf346d126a70f",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.16-alpha.tgz",
+			"sha": "209d5672b1e024660a01a87fea764ae188024c19",
+			"registry": "cnpmjs"
+		},
+		"glob-stream-3.1.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/glob-stream/download/@types/glob-stream-3.1.15-alpha.tgz",
+			"sha": "c422215d6ae122f9f1baa77cc3387a3e75d36eeb",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"4277-zg/9unYXlzSf++KmZ8zEM2PZ7JM\"",
+			"fetched": 1541833455970
+		}
+	},
+	"_rev": "2-ea9dea8f0fff109b",
+	"readme": "# Installation\r\n> `npm install --save @types/glob-stream`\r\n\r\n# Summary\r\nThis package contains type definitions for glob-stream (https://github.com/wearefractal/glob-stream).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/glob-stream\r\n\r\nAdditional Details\r\n * Last updated: Sun, 03 Dec 2017 16:26:41 GMT\r\n * Dependencies: glob, node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Bart van der Schoor <https://github.com/Bartvds>, mrmlnc <https://github.com/mrmlnc>."
+}

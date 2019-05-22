@@ -1,0 +1,707 @@
+{
+	"name": "@types/deep-extend",
+	"versions": {
+		"0.4.31": {
+			"name": "@types/deep-extend",
+			"version": "0.4.31",
+			"description": "TypeScript definitions for deep-extend",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "rhysd",
+					"url": "https://github.com/rhysd",
+					"githubUsername": "rhysd"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "743718a9dc617aae3d35f6302e32f4ba52a670541d688a8faef6bfea39184727",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/deep-extend@0.4.31",
+			"dist": {
+				"shasum": "3fa9d027df52b0819c3c8662aa403ca813a7e56d",
+				"size": 1579,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/deep-extend-0.4.31.tgz_1514517390608_0.2688390836119652"
+			},
+			"directories": {},
+			"publish_time": 1514517390690,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514517390690
+		},
+		"0.4.30": {
+			"name": "@types/deep-extend",
+			"version": "0.4.30",
+			"description": "TypeScript definitions for open 0.4.1",
+			"license": "MIT",
+			"author": "rhysd <https://github.com/rhysd>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "61e6bf1b1a6fe858fa890f80ddfa03ae28f7ce00acbaa27fc9b699fc4f5fffd0",
+			"_id": "@types/deep-extend@0.4.30",
+			"dist": {
+				"shasum": "6faed486687ebc8480d130d9c9528885694af0e0",
+				"size": 1110,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.30.tgz_1477663257465_0.6337464367970824"
+			},
+			"directories": {},
+			"publish_time": 1477663257728,
+			"_cnpm_publish_time": 1477663257728,
+			"_hasShrinkwrap": false
+		},
+		"0.4.29": {
+			"name": "@types/deep-extend",
+			"version": "0.4.29",
+			"description": "TypeScript definitions for open 0.4.1",
+			"license": "MIT",
+			"author": "rhysd <https://github.com/rhysd>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "0d302ee44378386b28ef1390a37cab19790c93bde63db14a63bcec6f43431f0a",
+			"_id": "@types/deep-extend@0.4.29",
+			"dist": {
+				"shasum": "6cbfdc27db3849405848b70eca717e7e051778e3",
+				"size": 1089,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.29.tgz_1474306016719_0.0009341414552181959"
+			},
+			"directories": {},
+			"publish_time": 1474306016946,
+			"_cnpm_publish_time": 1474306016946,
+			"_hasShrinkwrap": false
+		},
+		"0.4.28": {
+			"name": "@types/deep-extend",
+			"version": "0.4.28",
+			"description": "TypeScript definitions for open 0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rhysd",
+				"email": "https://github.com/rhysd"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-extend@0.4.28",
+			"_shasum": "1aca946604e06b0a725a6f3a42cae1d630105e06",
+			"_from": "output\\deep-extend",
+			"_resolved": "file:output\\deep-extend",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1aca946604e06b0a725a6f3a42cae1d630105e06",
+				"size": 1073,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.28.tgz_1468510653535_0.07703944621607661"
+			},
+			"directories": {},
+			"publish_time": 1468510655714,
+			"_cnpm_publish_time": 1468510655714,
+			"_hasShrinkwrap": false
+		},
+		"0.4.27-alpha": {
+			"name": "@types/deep-extend",
+			"version": "0.4.27-alpha",
+			"description": "TypeScript definitions for open 0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rhysd",
+				"email": "https://github.com/rhysd"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-extend@0.4.27-alpha",
+			"_shasum": "9feb22b85e1f828fcacf8b78ea3a9882243d0744",
+			"_from": "output\\deep-extend",
+			"_resolved": "file:output\\deep-extend",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9feb22b85e1f828fcacf8b78ea3a9882243d0744",
+				"size": 1074,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.27-alpha.tgz_1468007666276_0.17979427706450224"
+			},
+			"directories": {},
+			"publish_time": 1468007668688,
+			"_cnpm_publish_time": 1468007668688,
+			"_hasShrinkwrap": false
+		},
+		"0.4.26-alpha": {
+			"name": "@types/deep-extend",
+			"version": "0.4.26-alpha",
+			"description": "TypeScript definitions for open 0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rhysd",
+				"email": "https://github.com/rhysd"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-extend@0.4.26-alpha",
+			"_shasum": "d6f862d707c2c9ae287c3df8ddc15d870f26648b",
+			"_from": "output\\deep-extend",
+			"_resolved": "file:output\\deep-extend",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d6f862d707c2c9ae287c3df8ddc15d870f26648b",
+				"size": 1075,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.26-alpha.tgz_1467590626406_0.754051003837958"
+			},
+			"directories": {},
+			"publish_time": 1467590629671,
+			"_cnpm_publish_time": 1467590629671,
+			"_hasShrinkwrap": false
+		},
+		"0.4.25-alpha": {
+			"name": "@types/deep-extend",
+			"version": "0.4.25-alpha",
+			"description": "TypeScript definitions for open 0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rhysd",
+				"email": "https://github.com/rhysd"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-extend@0.4.25-alpha",
+			"_shasum": "1b399718f37df9d2ed5b2ed9fadd73ee8cacb3b9",
+			"_from": "output\\deep-extend",
+			"_resolved": "file:output\\deep-extend",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1b399718f37df9d2ed5b2ed9fadd73ee8cacb3b9",
+				"size": 1075,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.25-alpha.tgz_1467425550491_0.9015668665524572"
+			},
+			"directories": {},
+			"publish_time": 1467425553926,
+			"_cnpm_publish_time": 1467425553926,
+			"_hasShrinkwrap": false
+		},
+		"0.4.24-alpha": {
+			"name": "@types/deep-extend",
+			"version": "0.4.24-alpha",
+			"description": "TypeScript definitions for open 0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rhysd",
+				"email": "https://github.com/rhysd"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-extend@0.4.24-alpha",
+			"_shasum": "885a1a68a35591892f8890b82356c1945ecff068",
+			"_from": "output\\deep-extend",
+			"_resolved": "file:output\\deep-extend",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "885a1a68a35591892f8890b82356c1945ecff068",
+				"size": 1078,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.24-alpha.tgz_1467412549767_0.06373819592408836"
+			},
+			"directories": {},
+			"publish_time": 1467412553047,
+			"_cnpm_publish_time": 1467412553047,
+			"_hasShrinkwrap": false
+		},
+		"0.4.23-alpha": {
+			"name": "@types/deep-extend",
+			"version": "0.4.23-alpha",
+			"description": "TypeScript definitions for open 0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rhysd",
+				"email": "https://github.com/rhysd"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-extend@0.4.23-alpha",
+			"_shasum": "d9fc60e846663fffd8c4930e28ae29f90c7d51db",
+			"_from": "output\\deep-extend",
+			"_resolved": "file:output\\deep-extend",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d9fc60e846663fffd8c4930e28ae29f90c7d51db",
+				"size": 1073,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.23-alpha.tgz_1467400587100_0.22390022431500256"
+			},
+			"directories": {},
+			"publish_time": 1467400591007,
+			"_cnpm_publish_time": 1467400591007,
+			"_hasShrinkwrap": false
+		},
+		"0.4.22-alpha": {
+			"name": "@types/deep-extend",
+			"version": "0.4.22-alpha",
+			"description": "TypeScript definitions for open 0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rhysd",
+				"email": "https://github.com/rhysd"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-extend@0.4.22-alpha",
+			"_shasum": "039679fad43ea3c5734481c2e47a8821b2e2ab15",
+			"_from": "output\\deep-extend",
+			"_resolved": "file:output\\deep-extend",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "039679fad43ea3c5734481c2e47a8821b2e2ab15",
+				"size": 1043,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.22-alpha.tgz_1464151485387_0.546282903291285"
+			},
+			"directories": {},
+			"publish_time": 1464151485914,
+			"_cnpm_publish_time": 1464151485914,
+			"_hasShrinkwrap": false
+		},
+		"0.4.21-alpha": {
+			"name": "@types/deep-extend",
+			"version": "0.4.21-alpha",
+			"description": "TypeScript definitions for open 0.4.1",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rhysd",
+				"email": "https://github.com/rhysd"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-extend@0.4.21-alpha",
+			"_shasum": "8768ee733d184f0be2482390cc0b69959b6273a1",
+			"_from": "output\\deep-extend",
+			"_resolved": "file:output\\deep-extend",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8768ee733d184f0be2482390cc0b69959b6273a1",
+				"size": 1042,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.21-alpha.tgz_1463772370906_0.6636085214558989"
+			},
+			"directories": {},
+			"publish_time": 1463772372934,
+			"_cnpm_publish_time": 1463772372934,
+			"_hasShrinkwrap": false
+		},
+		"0.4.16-alpha": {
+			"name": "@types/deep-extend",
+			"version": "0.4.16-alpha",
+			"description": "Type definitions for open 0.4.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rhysd",
+				"email": "https://github.com/rhysd"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-extend@0.4.16-alpha",
+			"_shasum": "346a261b54629bd41f1d4fd3c48b9244b79fcd13",
+			"_from": "output\\deep-extend",
+			"_resolved": "file:output\\deep-extend",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "346a261b54629bd41f1d4fd3c48b9244b79fcd13",
+				"size": 1049,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.16-alpha.tgz_1463690345115_0.7432084833271801"
+			},
+			"directories": {},
+			"publish_time": 1463690347541,
+			"_cnpm_publish_time": 1463690347541,
+			"_hasShrinkwrap": false
+		},
+		"0.4.15-alpha": {
+			"name": "@types/deep-extend",
+			"version": "0.4.15-alpha",
+			"description": "Type definitions for open 0.4.1 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "rhysd",
+				"email": "https://github.com/rhysd"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/deep-extend@0.4.15-alpha",
+			"_shasum": "67115d58eb1381ce2db2eab8b53049430ab9dbf7",
+			"_from": "output\\deep-extend",
+			"_resolved": "file:output\\deep-extend",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "67115d58eb1381ce2db2eab8b53049430ab9dbf7",
+				"size": 1044,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/deep-extend-0.4.15-alpha.tgz_1463460306238_0.6987098644021899"
+			},
+			"directories": {},
+			"publish_time": 1463460309826,
+			"_cnpm_publish_time": 1463460309826,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.4.31",
+		"ts2.0": "0.4.31",
+		"ts2.1": "0.4.31",
+		"ts2.2": "0.4.31",
+		"ts2.3": "0.4.31",
+		"ts2.4": "0.4.31",
+		"ts2.5": "0.4.31",
+		"ts2.6": "0.4.31",
+		"ts2.7": "0.4.31",
+		"ts2.8": "0.4.31",
+		"ts2.9": "0.4.31",
+		"ts3.0": "0.4.31",
+		"ts3.1": "0.4.31",
+		"ts3.2": "0.4.31"
+	},
+	"time": {
+		"modified": "2018-10-10T20:09:36.000Z",
+		"created": "2016-05-17T04:45:09.826Z",
+		"0.4.31": "2017-12-29T03:16:30.690Z",
+		"0.4.30": "2016-10-28T14:00:57.728Z",
+		"0.4.29": "2016-09-19T17:26:56.946Z",
+		"0.4.28": "2016-07-14T15:37:35.714Z",
+		"0.4.27-alpha": "2016-07-08T19:54:28.688Z",
+		"0.4.26-alpha": "2016-07-04T00:03:49.671Z",
+		"0.4.25-alpha": "2016-07-02T02:12:33.926Z",
+		"0.4.24-alpha": "2016-07-01T22:35:53.047Z",
+		"0.4.23-alpha": "2016-07-01T19:16:31.007Z",
+		"0.4.22-alpha": "2016-05-25T04:44:45.914Z",
+		"0.4.21-alpha": "2016-05-20T19:26:12.934Z",
+		"0.4.16-alpha": "2016-05-19T20:39:07.541Z",
+		"0.4.15-alpha": "2016-05-17T04:45:09.826Z"
+	},
+	"_distfiles": {
+		"deep-extend-0.4.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.31.tgz",
+			"sha": "3fa9d027df52b0819c3c8662aa403ca813a7e56d",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.30.tgz",
+			"sha": "6faed486687ebc8480d130d9c9528885694af0e0",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.29.tgz",
+			"sha": "6cbfdc27db3849405848b70eca717e7e051778e3",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.28.tgz",
+			"sha": "1aca946604e06b0a725a6f3a42cae1d630105e06",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.27-alpha.tgz",
+			"sha": "9feb22b85e1f828fcacf8b78ea3a9882243d0744",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.26-alpha.tgz",
+			"sha": "d6f862d707c2c9ae287c3df8ddc15d870f26648b",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.25-alpha.tgz",
+			"sha": "1b399718f37df9d2ed5b2ed9fadd73ee8cacb3b9",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.24-alpha.tgz",
+			"sha": "885a1a68a35591892f8890b82356c1945ecff068",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.23-alpha.tgz",
+			"sha": "d9fc60e846663fffd8c4930e28ae29f90c7d51db",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.22-alpha.tgz",
+			"sha": "039679fad43ea3c5734481c2e47a8821b2e2ab15",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.21-alpha.tgz",
+			"sha": "8768ee733d184f0be2482390cc0b69959b6273a1",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.16-alpha.tgz",
+			"sha": "346a261b54629bd41f1d4fd3c48b9244b79fcd13",
+			"registry": "cnpmjs"
+		},
+		"deep-extend-0.4.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/deep-extend/download/@types/deep-extend-0.4.15-alpha.tgz",
+			"sha": "67115d58eb1381ce2db2eab8b53049430ab9dbf7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833454163
+		}
+	},
+	"_rev": "2-86cb36e9b9b7e56a",
+	"readme": "# Installation\r\n> `npm install --save @types/deep-extend`\r\n\r\n# Summary\r\nThis package contains type definitions for deep-extend (https://github.com/unclechu/node-deep-extend).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/deep-extend\r\n\r\nAdditional Details\r\n * Last updated: Fri, 29 Dec 2017 03:12:35 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by rhysd <https://github.com/rhysd>."
+}

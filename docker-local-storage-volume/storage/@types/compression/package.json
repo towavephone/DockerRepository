@@ -1,0 +1,942 @@
+{
+	"name": "@types/compression",
+	"versions": {
+		"0.0.36": {
+			"name": "@types/compression",
+			"version": "0.0.36",
+			"description": "TypeScript definitions for compression",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Santi Albo",
+					"url": "https://github.com/santialbo",
+					"githubUsername": "santialbo"
+				},
+				{
+					"name": "Rob van der Burgt",
+					"url": "https://github.com/rburgt",
+					"githubUsername": "rburgt"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express": "*"
+			},
+			"typesPublisherContentHash": "82b6ce8afc249271e034184055dd1ae18cfb6996033799ae10111c30063600fa",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/compression@0.0.36",
+			"dist": {
+				"shasum": "7646602ffbfc43ea48a8bf0b2f1d5e5f9d75c0d0",
+				"size": 1905,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/compression_0.0.36_1521155911334_0.7893203159788342"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521155911399,
+			"_cnpm_publish_time": 1521155911399
+		},
+		"0.0.35": {
+			"name": "@types/compression",
+			"version": "0.0.35",
+			"description": "TypeScript definitions for compression",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Santi Albo",
+					"url": "https://github.com/santialbo",
+					"githubUsername": "santialbo"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express": "*"
+			},
+			"typesPublisherContentHash": "4cf27628d4bc66a0713f11d3201be042efba6a52f32b0fadd4731cf1d5fe1b3b",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/compression@0.0.35",
+			"dist": {
+				"shasum": "7673a9c4b075e5194ada8c5938291015652a21e1",
+				"size": 1757,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/compression-0.0.35.tgz_1510179423851_0.6239105826243758"
+			},
+			"directories": {},
+			"publish_time": 1510179423912,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510179423912
+		},
+		"0.0.34": {
+			"name": "@types/compression",
+			"version": "0.0.34",
+			"description": "TypeScript definitions for compression",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Santi Albo",
+					"url": "https://github.com/santialbo"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express": "*"
+			},
+			"typesPublisherContentHash": "2042a70059410d62e74aa8482068030f8e17f57cc7f6b9dc4aee26e85017272c",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/compression@0.0.34",
+			"dist": {
+				"shasum": "c7eb6bdd2b919099c9da62f2158934894af887f1",
+				"size": 1736,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/compression-0.0.34.tgz_1503352215993_0.5127974175848067"
+			},
+			"directories": {},
+			"publish_time": 1503352216167,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352216167
+		},
+		"0.0.33": {
+			"name": "@types/compression",
+			"version": "0.0.33",
+			"description": "TypeScript definitions for compression",
+			"license": "MIT",
+			"author": "Santi Albo <https://github.com/santialbo/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "b298f2ce171c21721943d88bd8e2dbfbec54772788db42b0e1d36225c1cb6e10",
+			"_id": "@types/compression@0.0.33",
+			"dist": {
+				"shasum": "95dc733a2339aa846381d7f1377792d2553dc27d",
+				"size": 1249,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.33.tgz_1474302829752_0.20432363613508642"
+			},
+			"directories": {},
+			"publish_time": 1474302831677,
+			"_cnpm_publish_time": 1474302831677,
+			"_hasShrinkwrap": false
+		},
+		"0.0.32": {
+			"name": "@types/compression",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for compression",
+			"license": "MIT",
+			"author": "Santi Albo <https://github.com/santialbo/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express": "4.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/compression@0.0.32",
+			"dist": {
+				"shasum": "bc5294d0c8dd87caed6aeee702ddeeaf78db861f",
+				"size": 1241,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.32.tgz_1472150236417_0.25451331096701324"
+			},
+			"directories": {},
+			"publish_time": 1472150237030,
+			"_cnpm_publish_time": 1472150237030,
+			"_hasShrinkwrap": false
+		},
+		"0.0.31": {
+			"name": "@types/compression",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for compression",
+			"license": "MIT",
+			"author": "Santi Albo <https://github.com/santialbo/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express": "4.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/compression@0.0.31",
+			"dist": {
+				"shasum": "f567ab4be5cc87549d56c06b6f9a0ff0f1f7d802",
+				"size": 1241,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.31.tgz_1471620157954_0.12443285272456706"
+			},
+			"directories": {},
+			"publish_time": 1471620159406,
+			"_cnpm_publish_time": 1471620159406,
+			"_hasShrinkwrap": false
+		},
+		"0.0.30": {
+			"name": "@types/compression",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for compression",
+			"license": "MIT",
+			"author": "Santi Albo <https://github.com/santialbo/>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/express": "4.0.*"
+			},
+			"typings": "index.d.ts",
+			"_id": "@types/compression@0.0.30",
+			"dist": {
+				"shasum": "1ee7d0f1a31bf5038fd5c4347be48844de2402b0",
+				"size": 7680,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.30.tgz_1470152977892_0.24470752850174904"
+			},
+			"directories": {},
+			"publish_time": 1470152978926,
+			"_cnpm_publish_time": 1470152978926,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/compression",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for compression",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Santi Albo",
+				"email": "https://github.com/santialbo/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express": "4.0.*"
+			},
+			"_id": "@types/compression@0.0.29",
+			"_shasum": "73bef1327cc5e1d429e702c640573ceb454f0a4f",
+			"_from": "output\\compression",
+			"_resolved": "file:output\\compression",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "73bef1327cc5e1d429e702c640573ceb454f0a4f",
+				"size": 1062,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.29.tgz_1468505902332_0.69566465402022"
+			},
+			"directories": {},
+			"publish_time": 1468505904351,
+			"_cnpm_publish_time": 1468505904351,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28-alpha": {
+			"name": "@types/compression",
+			"version": "0.0.28-alpha",
+			"description": "TypeScript definitions for compression",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Santi Albo",
+				"email": "https://github.com/santialbo/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express": "4.0.28-alpha"
+			},
+			"_id": "@types/compression@0.0.28-alpha",
+			"_shasum": "7fe75d78f8e934be588e6933e69d8877e58c5e89",
+			"_from": "output\\compression",
+			"_resolved": "file:output\\compression",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7fe75d78f8e934be588e6933e69d8877e58c5e89",
+				"size": 1060,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.28-alpha.tgz_1468007267053_0.8575827029999346"
+			},
+			"directories": {},
+			"publish_time": 1468007268552,
+			"_cnpm_publish_time": 1468007268552,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/compression",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for compression",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Santi Albo",
+				"email": "https://github.com/santialbo/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express": "4.0.27-alpha"
+			},
+			"_id": "@types/compression@0.0.27-alpha",
+			"_shasum": "e5b04fce6676409d020bd3e44b1a936e0eb2ec58",
+			"_from": "output\\compression",
+			"_resolved": "file:output\\compression",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e5b04fce6676409d020bd3e44b1a936e0eb2ec58",
+				"size": 1060,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.27-alpha.tgz_1467590079087_0.9456235896795988"
+			},
+			"directories": {},
+			"publish_time": 1467590079567,
+			"_cnpm_publish_time": 1467590079567,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/compression",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for compression",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Santi Albo",
+				"email": "https://github.com/santialbo/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express": "4.0.25-alpha"
+			},
+			"_id": "@types/compression@0.0.26-alpha",
+			"_shasum": "8bd607a93d4ba0d00954a6a3e8d1151f9f0a6f18",
+			"_from": "output\\compression",
+			"_resolved": "file:output\\compression",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8bd607a93d4ba0d00954a6a3e8d1151f9f0a6f18",
+				"size": 1064,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.26-alpha.tgz_1467425224196_0.03417169488966465"
+			},
+			"directories": {},
+			"publish_time": 1467425224798,
+			"_cnpm_publish_time": 1467425224798,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/compression",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for compression",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Santi Albo",
+				"email": "https://github.com/santialbo/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express": "4.0.24-alpha"
+			},
+			"_id": "@types/compression@0.0.25-alpha",
+			"_shasum": "9a1b26598e5f6f4df2833f2a13c70f469b33da32",
+			"_from": "output\\compression",
+			"_resolved": "file:output\\compression",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9a1b26598e5f6f4df2833f2a13c70f469b33da32",
+				"size": 1065,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.25-alpha.tgz_1467412125203_0.38636197964660823"
+			},
+			"directories": {},
+			"publish_time": 1467412125718,
+			"_cnpm_publish_time": 1467412125718,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/compression",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for compression",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Santi Albo",
+				"email": "https://github.com/santialbo/"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express": "4.0.*"
+			},
+			"_id": "@types/compression@0.0.24-alpha",
+			"_shasum": "5a0aff311a3999457deae2eb6dc97017ac714ec4",
+			"_from": "output\\compression",
+			"_resolved": "file:output\\compression",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5a0aff311a3999457deae2eb6dc97017ac714ec4",
+				"size": 1057,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.24-alpha.tgz_1467399912680_0.7404025432188064"
+			},
+			"directories": {},
+			"publish_time": 1467399915001,
+			"_cnpm_publish_time": 1467399915001,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/compression",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for compression",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Santi Albo",
+				"email": "https://github.com/santialbo/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express": "*"
+			},
+			"_id": "@types/compression@0.0.23-alpha",
+			"_shasum": "d0ab57b06669adc6e6cc982da4e8736b46215a90",
+			"_from": "output\\compression",
+			"_resolved": "file:output\\compression",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d0ab57b06669adc6e6cc982da4e8736b46215a90",
+				"size": 1032,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.23-alpha.tgz_1464151152522_0.8716509134974331"
+			},
+			"directories": {},
+			"publish_time": 1464151155299,
+			"_cnpm_publish_time": 1464151155299,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/compression",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for compression",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Santi Albo",
+				"email": "https://github.com/santialbo/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/express": "*"
+			},
+			"_id": "@types/compression@0.0.22-alpha",
+			"_shasum": "133794b3b6ffce170d16d8e37a561d53379a3b58",
+			"_from": "output\\compression",
+			"_resolved": "file:output\\compression",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "133794b3b6ffce170d16d8e37a561d53379a3b58",
+				"size": 1029,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.22-alpha.tgz_1463772063280_0.5215249939355999"
+			},
+			"directories": {},
+			"publish_time": 1463772065474,
+			"_cnpm_publish_time": 1463772065474,
+			"_hasShrinkwrap": false
+		},
+		"0.0.17-alpha": {
+			"name": "@types/compression",
+			"version": "0.0.17-alpha",
+			"description": "Type definitions for compression from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Santi Albo",
+				"email": "https://github.com/santialbo/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('express'": "*"
+			},
+			"_id": "@types/compression@0.0.17-alpha",
+			"_shasum": "3ea91256f329faee31ce053d425fc41b0f5a826a",
+			"_from": "output\\compression",
+			"_resolved": "file:output\\compression",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3ea91256f329faee31ce053d425fc41b0f5a826a",
+				"size": 1039,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.17-alpha.tgz_1463689878772_0.31222749850712717"
+			},
+			"directories": {},
+			"publish_time": 1463689879498,
+			"_cnpm_publish_time": 1463689879498,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/compression",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for compression from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Santi Albo",
+				"email": "https://github.com/santialbo/"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('express'": "*"
+			},
+			"_id": "@types/compression@0.0.16-alpha",
+			"_shasum": "fac49608defc79bafa9737d6d17f6b9479b7345d",
+			"_from": "output\\compression",
+			"_resolved": "file:output\\compression",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "fac49608defc79bafa9737d6d17f6b9479b7345d",
+				"size": 1030,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/compression-0.0.16-alpha.tgz_1463459957901_0.35704363510012627"
+			},
+			"directories": {},
+			"publish_time": 1463459961514,
+			"_cnpm_publish_time": 1463459961514,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.36",
+		"ts2.0": "0.0.34",
+		"ts2.1": "0.0.34",
+		"ts2.2": "0.0.36",
+		"ts2.3": "0.0.36",
+		"ts2.4": "0.0.36",
+		"ts2.5": "0.0.36",
+		"ts2.6": "0.0.36",
+		"ts2.7": "0.0.36",
+		"ts2.8": "0.0.36",
+		"ts2.9": "0.0.36",
+		"ts3.0": "0.0.36",
+		"ts3.1": "0.0.36",
+		"ts3.2": "0.0.36"
+	},
+	"time": {
+		"modified": "2018-10-10T19:57:51.000Z",
+		"created": "2016-05-17T04:39:21.514Z",
+		"0.0.36": "2018-03-15T23:18:31.399Z",
+		"0.0.35": "2017-11-08T22:17:03.912Z",
+		"0.0.34": "2017-08-21T21:50:16.167Z",
+		"0.0.33": "2016-09-19T16:33:51.677Z",
+		"0.0.32": "2016-08-25T18:37:17.030Z",
+		"0.0.31": "2016-08-19T15:22:39.406Z",
+		"0.0.30": "2016-08-02T15:49:38.926Z",
+		"0.0.29": "2016-07-14T14:18:24.351Z",
+		"0.0.28-alpha": "2016-07-08T19:47:48.552Z",
+		"0.0.27-alpha": "2016-07-03T23:54:39.567Z",
+		"0.0.26-alpha": "2016-07-02T02:07:04.798Z",
+		"0.0.25-alpha": "2016-07-01T22:28:45.718Z",
+		"0.0.24-alpha": "2016-07-01T19:05:15.001Z",
+		"0.0.23-alpha": "2016-05-25T04:39:15.299Z",
+		"0.0.22-alpha": "2016-05-20T19:21:05.474Z",
+		"0.0.17-alpha": "2016-05-19T20:31:19.498Z",
+		"0.0.16-alpha": "2016-05-17T04:39:21.514Z"
+	},
+	"_distfiles": {
+		"compression-0.0.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.36.tgz",
+			"sha": "7646602ffbfc43ea48a8bf0b2f1d5e5f9d75c0d0",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.35.tgz",
+			"sha": "7673a9c4b075e5194ada8c5938291015652a21e1",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.34.tgz",
+			"sha": "c7eb6bdd2b919099c9da62f2158934894af887f1",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.33.tgz",
+			"sha": "95dc733a2339aa846381d7f1377792d2553dc27d",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.32.tgz",
+			"sha": "bc5294d0c8dd87caed6aeee702ddeeaf78db861f",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.31.tgz",
+			"sha": "f567ab4be5cc87549d56c06b6f9a0ff0f1f7d802",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.30.tgz",
+			"sha": "1ee7d0f1a31bf5038fd5c4347be48844de2402b0",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.29.tgz",
+			"sha": "73bef1327cc5e1d429e702c640573ceb454f0a4f",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.28-alpha.tgz",
+			"sha": "7fe75d78f8e934be588e6933e69d8877e58c5e89",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.27-alpha.tgz",
+			"sha": "e5b04fce6676409d020bd3e44b1a936e0eb2ec58",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.26-alpha.tgz",
+			"sha": "8bd607a93d4ba0d00954a6a3e8d1151f9f0a6f18",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.25-alpha.tgz",
+			"sha": "9a1b26598e5f6f4df2833f2a13c70f469b33da32",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.24-alpha.tgz",
+			"sha": "5a0aff311a3999457deae2eb6dc97017ac714ec4",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.23-alpha.tgz",
+			"sha": "d0ab57b06669adc6e6cc982da4e8736b46215a90",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.22-alpha.tgz",
+			"sha": "133794b3b6ffce170d16d8e37a561d53379a3b58",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.17-alpha.tgz",
+			"sha": "3ea91256f329faee31ce053d425fc41b0f5a826a",
+			"registry": "cnpmjs"
+		},
+		"compression-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/compression/download/@types/compression-0.0.16-alpha.tgz",
+			"sha": "fac49608defc79bafa9737d6d17f6b9479b7345d",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"51e3-98s0E44dYJxedSWoFGuRiLDUUqw\"",
+			"fetched": 1541833275976
+		}
+	},
+	"_rev": "2-aa1380582e80d49e",
+	"readme": "# Installation\r\n> `npm install --save @types/compression`\r\n\r\n# Summary\r\nThis package contains type definitions for compression (https://github.com/expressjs/compression).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/compression\r\n\r\nAdditional Details\r\n * Last updated: Thu, 15 Mar 2018 23:17:55 GMT\r\n * Dependencies: express\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Santi Albo <https://github.com/santialbo>, Rob van der Burgt <https://github.com/rburgt>."
+}

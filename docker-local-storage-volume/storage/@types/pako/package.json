@@ -1,0 +1,792 @@
+{
+	"name": "@types/pako",
+	"versions": {
+		"1.0.0": {
+			"name": "@types/pako",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for pako",
+			"license": "MIT",
+			"author": "Denis Cappellin <https://github.com/cappellin>, Caleb Eggensperger <https://github.com/calebegg>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fa1b977b9577e0becd324f017c282294c755a510b2be84d0daa3b27bebd8eec8",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/pako@1.0.0",
+			"dist": {
+				"shasum": "eaae8364d1b7f752e263bc3fd68dfec98e6136c5",
+				"size": 1594,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pako-1.0.0.tgz_1487018376341_0.1744216454681009"
+			},
+			"directories": {},
+			"publish_time": 1487018376561,
+			"_cnpm_publish_time": 1487018376561,
+			"_hasShrinkwrap": false
+		},
+		"0.2.31": {
+			"name": "@types/pako",
+			"version": "0.2.31",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"license": "MIT",
+			"author": "Denis Cappellin <http://github.com/cappellin>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "28a8d0e1d3eea7e8d9c2273905865e99e075f3c789ecc9cafbbaead75d977d16",
+			"_id": "@types/pako@0.2.31",
+			"dist": {
+				"shasum": "dbeff0274ae7b782046fe2b7d45f7285ae3d37bc",
+				"size": 1490,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.31.tgz_1474307904251_0.8753132978454232"
+			},
+			"directories": {},
+			"publish_time": 1474307904484,
+			"_cnpm_publish_time": 1474307904484,
+			"_hasShrinkwrap": false
+		},
+		"0.2.30": {
+			"name": "@types/pako",
+			"version": "0.2.30",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"license": "MIT",
+			"author": "Denis Cappellin <http://github.com/cappellin>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/pako@0.2.30",
+			"dist": {
+				"shasum": "1d19ad7ebd7654dd8294c16a86a8e650a590841b",
+				"size": 1475,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.30.tgz_1472151134115_0.5763782116118819"
+			},
+			"directories": {},
+			"publish_time": 1472151136125,
+			"_cnpm_publish_time": 1472151136125,
+			"_hasShrinkwrap": false
+		},
+		"0.2.29": {
+			"name": "@types/pako",
+			"version": "0.2.29",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"license": "MIT",
+			"author": "Denis Cappellin <http://github.com/cappellin>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/pako@0.2.29",
+			"dist": {
+				"shasum": "e7944f60f04d0ea0f6e817445b8bcf3713c5a2fc",
+				"size": 1475,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.29.tgz_1471620958791_0.27391034201718867"
+			},
+			"directories": {},
+			"publish_time": 1471620960792,
+			"_cnpm_publish_time": 1471620960792,
+			"_hasShrinkwrap": false
+		},
+		"0.2.28": {
+			"name": "@types/pako",
+			"version": "0.2.28",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"license": "MIT",
+			"author": "Denis Cappellin <http://github.com/cappellin>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/pako@0.2.28",
+			"dist": {
+				"shasum": "27522c908f4a899f195b06cfa2e752d3c8cabf67",
+				"size": 8704,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.28.tgz_1470153774143_0.7080694697797298"
+			},
+			"directories": {},
+			"publish_time": 1470153775101,
+			"_cnpm_publish_time": 1470153775101,
+			"_hasShrinkwrap": false
+		},
+		"0.2.27": {
+			"name": "@types/pako",
+			"version": "0.2.27",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Cappellin",
+				"email": "http://github.com/cappellin"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pako@0.2.27",
+			"_shasum": "3f63ce1ec3a3930b94672272ec61f2f7f2ddaa38",
+			"_from": "output\\pako",
+			"_resolved": "file:output\\pako",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3f63ce1ec3a3930b94672272ec61f2f7f2ddaa38",
+				"size": 1469,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.27.tgz_1468510746686_0.14882130990736187"
+			},
+			"directories": {},
+			"publish_time": 1468510748860,
+			"_cnpm_publish_time": 1468510748860,
+			"_hasShrinkwrap": false
+		},
+		"0.2.26-alpha": {
+			"name": "@types/pako",
+			"version": "0.2.26-alpha",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Cappellin",
+				"email": "http://github.com/cappellin"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pako@0.2.26-alpha",
+			"_shasum": "36fe87228a45137313137cfc1bef29264fb9c13a",
+			"_from": "output\\pako",
+			"_resolved": "file:output\\pako",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "36fe87228a45137313137cfc1bef29264fb9c13a",
+				"size": 1476,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.26-alpha.tgz_1468011985465_0.28955940273590386"
+			},
+			"directories": {},
+			"publish_time": 1468011986828,
+			"_cnpm_publish_time": 1468011986828,
+			"_hasShrinkwrap": false
+		},
+		"0.2.25-alpha": {
+			"name": "@types/pako",
+			"version": "0.2.25-alpha",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Cappellin",
+				"email": "http://github.com/cappellin"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pako@0.2.25-alpha",
+			"_shasum": "c0b516553a90abe86c3c73da521a3794f0a464b4",
+			"_from": "output\\pako",
+			"_resolved": "file:output\\pako",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c0b516553a90abe86c3c73da521a3794f0a464b4",
+				"size": 1477,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.25-alpha.tgz_1467594040508_0.4423541338182986"
+			},
+			"directories": {},
+			"publish_time": 1467594044095,
+			"_cnpm_publish_time": 1467594044095,
+			"_hasShrinkwrap": false
+		},
+		"0.2.24-alpha": {
+			"name": "@types/pako",
+			"version": "0.2.24-alpha",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Cappellin",
+				"email": "http://github.com/cappellin"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pako@0.2.24-alpha",
+			"_shasum": "95f53377272219d5295b2870ee8ac08b99b61fe8",
+			"_from": "output\\pako",
+			"_resolved": "file:output\\pako",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "95f53377272219d5295b2870ee8ac08b99b61fe8",
+				"size": 1476,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.24-alpha.tgz_1467428995032_0.009592029266059399"
+			},
+			"directories": {},
+			"publish_time": 1467428995574,
+			"_cnpm_publish_time": 1467428995574,
+			"_hasShrinkwrap": false
+		},
+		"0.2.23-alpha": {
+			"name": "@types/pako",
+			"version": "0.2.23-alpha",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Cappellin",
+				"email": "http://github.com/cappellin"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pako@0.2.23-alpha",
+			"_shasum": "f79d711604e6755b12572f7b75ac6c63e905e784",
+			"_from": "output\\pako",
+			"_resolved": "file:output\\pako",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f79d711604e6755b12572f7b75ac6c63e905e784",
+				"size": 1476,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.23-alpha.tgz_1467416373253_0.8109471877105534"
+			},
+			"directories": {},
+			"publish_time": 1467416375837,
+			"_cnpm_publish_time": 1467416375837,
+			"_hasShrinkwrap": false
+		},
+		"0.2.22-alpha": {
+			"name": "@types/pako",
+			"version": "0.2.22-alpha",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Cappellin",
+				"email": "http://github.com/cappellin"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pako@0.2.22-alpha",
+			"_shasum": "47903348a4746b8a2967d8a434bbef1ace844203",
+			"_from": "output\\pako",
+			"_resolved": "file:output\\pako",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "47903348a4746b8a2967d8a434bbef1ace844203",
+				"size": 1478,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.22-alpha.tgz_1467404441507_0.6706405263394117"
+			},
+			"directories": {},
+			"publish_time": 1467404443557,
+			"_cnpm_publish_time": 1467404443557,
+			"_hasShrinkwrap": false
+		},
+		"0.2.21-alpha": {
+			"name": "@types/pako",
+			"version": "0.2.21-alpha",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Cappellin",
+				"email": "http://github.com/cappellin"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pako@0.2.21-alpha",
+			"_shasum": "3f946ff74063c8a0af657752dfb5c23a90d51664",
+			"_from": "output\\pako",
+			"_resolved": "file:output\\pako",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3f946ff74063c8a0af657752dfb5c23a90d51664",
+				"size": 1445,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.21-alpha.tgz_1464154705206_0.0027163575869053602"
+			},
+			"directories": {},
+			"publish_time": 1464154705650,
+			"_cnpm_publish_time": 1464154705650,
+			"_hasShrinkwrap": false
+		},
+		"0.2.20-alpha": {
+			"name": "@types/pako",
+			"version": "0.2.20-alpha",
+			"description": "TypeScript definitions for pako 0.2.8",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Cappellin",
+				"email": "http://github.com/cappellin"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pako@0.2.20-alpha",
+			"_shasum": "9bbbdd789993b06fca9e0ae98f468f1645eaca8d",
+			"_from": "output\\pako",
+			"_resolved": "file:output\\pako",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9bbbdd789993b06fca9e0ae98f468f1645eaca8d",
+				"size": 1443,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.20-alpha.tgz_1463775736775_0.8335518264211714"
+			},
+			"directories": {},
+			"publish_time": 1463775737795,
+			"_cnpm_publish_time": 1463775737795,
+			"_hasShrinkwrap": false
+		},
+		"0.2.15-alpha": {
+			"name": "@types/pako",
+			"version": "0.2.15-alpha",
+			"description": "Type definitions for pako 0.2.8 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Cappellin",
+				"email": "http://github.com/cappellin"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pako@0.2.15-alpha",
+			"_shasum": "c6a3e90461404a45782a697001de83ff75df3202",
+			"_from": "output\\pako",
+			"_resolved": "file:output\\pako",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c6a3e90461404a45782a697001de83ff75df3202",
+				"size": 1459,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.15-alpha.tgz_1463695014011_0.003014132147654891"
+			},
+			"directories": {},
+			"publish_time": 1463695014610,
+			"_cnpm_publish_time": 1463695014610,
+			"_hasShrinkwrap": false
+		},
+		"0.2.14-alpha": {
+			"name": "@types/pako",
+			"version": "0.2.14-alpha",
+			"description": "Type definitions for pako 0.2.8 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Denis Cappellin",
+				"email": "http://github.com/cappellin"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/pako@0.2.14-alpha",
+			"_shasum": "1721ab92481138e712068ddce057dc6270e62699",
+			"_from": "output\\pako",
+			"_resolved": "file:output\\pako",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1721ab92481138e712068ddce057dc6270e62699",
+				"size": 1453,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/pako-0.2.14-alpha.tgz_1463509991383_0.5240054226014763"
+			},
+			"directories": {},
+			"publish_time": 1463509991974,
+			"_cnpm_publish_time": 1463509991974,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.0",
+		"ts2.0": "1.0.0",
+		"ts2.1": "1.0.0",
+		"ts2.2": "1.0.0",
+		"ts2.3": "1.0.0",
+		"ts2.4": "1.0.0",
+		"ts2.5": "1.0.0",
+		"ts2.6": "1.0.0",
+		"ts2.7": "1.0.0",
+		"ts2.8": "1.0.0",
+		"ts2.9": "1.0.0",
+		"ts3.0": "1.0.0",
+		"ts3.1": "1.0.0",
+		"ts3.2": "1.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:24:01.000Z",
+		"created": "2016-05-17T18:33:11.974Z",
+		"1.0.0": "2017-02-13T20:39:36.561Z",
+		"0.2.31": "2016-09-19T17:58:24.484Z",
+		"0.2.30": "2016-08-25T18:52:16.125Z",
+		"0.2.29": "2016-08-19T15:36:00.792Z",
+		"0.2.28": "2016-08-02T16:02:55.101Z",
+		"0.2.27": "2016-07-14T15:39:08.860Z",
+		"0.2.26-alpha": "2016-07-08T21:06:26.828Z",
+		"0.2.25-alpha": "2016-07-04T01:00:44.095Z",
+		"0.2.24-alpha": "2016-07-02T03:09:55.574Z",
+		"0.2.23-alpha": "2016-07-01T23:39:35.837Z",
+		"0.2.22-alpha": "2016-07-01T20:20:43.557Z",
+		"0.2.21-alpha": "2016-05-25T05:38:25.650Z",
+		"0.2.20-alpha": "2016-05-20T20:22:17.795Z",
+		"0.2.15-alpha": "2016-05-19T21:56:54.610Z",
+		"0.2.14-alpha": "2016-05-17T18:33:11.974Z"
+	},
+	"_distfiles": {
+		"pako-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-1.0.0.tgz",
+			"sha": "eaae8364d1b7f752e263bc3fd68dfec98e6136c5",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.31.tgz",
+			"sha": "dbeff0274ae7b782046fe2b7d45f7285ae3d37bc",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.30.tgz",
+			"sha": "1d19ad7ebd7654dd8294c16a86a8e650a590841b",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.29.tgz",
+			"sha": "e7944f60f04d0ea0f6e817445b8bcf3713c5a2fc",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.28.tgz",
+			"sha": "27522c908f4a899f195b06cfa2e752d3c8cabf67",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.27.tgz",
+			"sha": "3f63ce1ec3a3930b94672272ec61f2f7f2ddaa38",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.26-alpha.tgz",
+			"sha": "36fe87228a45137313137cfc1bef29264fb9c13a",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.25-alpha.tgz",
+			"sha": "c0b516553a90abe86c3c73da521a3794f0a464b4",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.24-alpha.tgz",
+			"sha": "95f53377272219d5295b2870ee8ac08b99b61fe8",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.23-alpha.tgz",
+			"sha": "f79d711604e6755b12572f7b75ac6c63e905e784",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.22-alpha.tgz",
+			"sha": "47903348a4746b8a2967d8a434bbef1ace844203",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.21-alpha.tgz",
+			"sha": "3f946ff74063c8a0af657752dfb5c23a90d51664",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.20-alpha.tgz",
+			"sha": "9bbbdd789993b06fca9e0ae98f468f1645eaca8d",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.15-alpha.tgz",
+			"sha": "c6a3e90461404a45782a697001de83ff75df3202",
+			"registry": "cnpmjs"
+		},
+		"pako-0.2.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/pako/download/@types/pako-0.2.14-alpha.tgz",
+			"sha": "1721ab92481138e712068ddce057dc6270e62699",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833486545
+		}
+	},
+	"_rev": "2-54f54ee0f0042b90",
+	"readme": "# Installation\r\n> `npm install --save @types/pako`\r\n\r\n# Summary\r\nThis package contains type definitions for pako (https://github.com/nodeca/pako).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/pako\r\n\r\nAdditional Details\r\n * Last updated: Mon, 13 Feb 2017 20:38:57 GMT\r\n * Dependencies: none\r\n * Global values: pako\r\n\r\n# Credits\r\nThese definitions were written by Denis Cappellin <https://github.com/cappellin>, Caleb Eggensperger <https://github.com/calebegg>."
+}

@@ -1,0 +1,810 @@
+{
+	"name": "@types/webpack-dev-middleware",
+	"versions": {
+		"2.0.1": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "2.0.1",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "reduckted",
+					"url": "https://github.com/reduckted",
+					"githubUsername": "reduckted"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/webpack": "*",
+				"@types/loglevel": "*",
+				"@types/connect": "*",
+				"@types/memory-fs": "*"
+			},
+			"typesPublisherContentHash": "2a7e5396334d35dee921ad5e2cbac9a5bd07ea6d32807e331f87ae5e03de0b52",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/webpack-dev-middleware@2.0.1",
+			"dist": {
+				"shasum": "516d953602d9e8ac72ca1196969969d580d4b0a6",
+				"size": 2007,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-2.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware_2.0.1_1520648761468_0.8504856471512394"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520648761532,
+			"_cnpm_publish_time": 1520648761532
+		},
+		"1.12.4": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "1.12.4",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "reduckted",
+					"url": "https://github.com/reduckted",
+					"githubUsername": "reduckted"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*",
+				"@types/memory-fs": "*"
+			},
+			"typesPublisherContentHash": "bb5a50a15138722276c74067fec9e82eea1525b7317860b9428dd912ef78f4da",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/webpack-dev-middleware@1.12.4",
+			"dist": {
+				"shasum": "f6ae2d57016919d0139a8ddf4ccb8e9b14a3569c",
+				"size": 2033,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.12.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware_1.12.4_1520648508776_0.378824902129105"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1520648508841,
+			"_cnpm_publish_time": 1520648508841
+		},
+		"1.12.3": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "1.12.3",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "reduckted",
+					"url": "https://github.com/reduckted",
+					"githubUsername": "reduckted"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*",
+				"@types/memory-fs": "*"
+			},
+			"typesPublisherContentHash": "e632ce98179d7b7aa1431a4092d6cc0ac2ef52712fd187bf86229ee75ff8cbcb",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/webpack-dev-middleware@1.12.3",
+			"dist": {
+				"shasum": "43f733699edefdc6bf2ff1043c8940271b7c57d5",
+				"size": 2036,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.12.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware-1.12.3.tgz_1515189750145_0.032428325386717916"
+			},
+			"directories": {},
+			"publish_time": 1515189750208,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515189750208
+		},
+		"2.0.0": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "reduckted",
+					"url": "https://github.com/reduckted",
+					"githubUsername": "reduckted"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/webpack": "*",
+				"@types/loglevel": "*",
+				"@types/connect": "*",
+				"@types/memory-fs": "*"
+			},
+			"typesPublisherContentHash": "789dbcf134d3d46d6ea2adcc87aef251e25590a9e6fa4a8aaafea2ec7a798d31",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/webpack-dev-middleware@2.0.0",
+			"dist": {
+				"shasum": "7bc872446c5f77923e1e8a974ad18e186aad065e",
+				"size": 2011,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware-2.0.0.tgz_1515173156339_0.810866970801726"
+			},
+			"directories": {},
+			"publish_time": 1515173156403,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515173156403
+		},
+		"1.12.2": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "1.12.2",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "reduckted",
+					"url": "https://github.com/reduckted",
+					"githubUsername": "reduckted"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*",
+				"@types/memory-fs": "*"
+			},
+			"typesPublisherContentHash": "4c43019d27f2e2ce05a65bac3efb41caa515ed293700760a6c53ca87e37b1864",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/webpack-dev-middleware@1.12.2",
+			"dist": {
+				"shasum": "495f06945b0d0ca0bbf49242dca9e1a8701b1744",
+				"size": 2032,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.12.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware-1.12.2.tgz_1515167133322_0.05324680032208562"
+			},
+			"directories": {},
+			"publish_time": 1515167133429,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1515167133429
+		},
+		"1.12.1": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "1.12.1",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "reduckted",
+					"url": "https://github.com/reduckted",
+					"githubUsername": "reduckted"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/loglevel": "*",
+				"@types/webpack": "*",
+				"@types/memory-fs": "*"
+			},
+			"typesPublisherContentHash": "005e9e179511aec1062dddce1775a75b4998c1061dfc92c910efa5b822f92b12",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/webpack-dev-middleware@1.12.1",
+			"dist": {
+				"shasum": "b11450f0e7243b0e71d8a8613a065cd415bc41da",
+				"size": 2003,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.12.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware-1.12.1.tgz_1514517396281_0.9837011797353625"
+			},
+			"directories": {},
+			"publish_time": 1514517396380,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1514517396380
+		},
+		"1.12.0": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "1.12.0",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "reduckted",
+					"url": "https://github.com/reduckted",
+					"githubUsername": "reduckted"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*",
+				"@types/memory-fs": "*"
+			},
+			"typesPublisherContentHash": "02bd8a547fe3fe239d97739517df559ce09450da2a3fed027a59b7139ac8f97f",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/webpack-dev-middleware@1.12.0",
+			"dist": {
+				"shasum": "1cb24d61eec1dc469b0aad2fcc5ee7972e271c6d",
+				"size": 2031,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.12.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware-1.12.0.tgz_1513194209019_0.6822417916264385"
+			},
+			"directories": {},
+			"publish_time": 1513194209074,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1513194209074
+		},
+		"1.9.4": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "1.9.4",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"typesPublisherContentHash": "ac397c6c0e82cc7b55aa20edb872dbea92b48b2447de3c449e0cb5b4efbf3475",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/webpack-dev-middleware@1.9.4",
+			"dist": {
+				"shasum": "1834526e871b588afc4a5a935c41e2f0a5075e1c",
+				"size": 1914,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.9.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware-1.9.4.tgz_1510241014846_0.263958886731416"
+			},
+			"directories": {},
+			"publish_time": 1510241015718,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510241015718
+		},
+		"1.9.3": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "1.9.3",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"typesPublisherContentHash": "bde6719973622ba676c4de7ba7c8c66b77689ee117058f39732c26e8004a7016",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/webpack-dev-middleware@1.9.3",
+			"dist": {
+				"shasum": "2120f79a4fbb0dc49ddba97e4b0b778f947c7c5b",
+				"size": 1892,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.9.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware-1.9.3.tgz_1503353184687_0.2529585605952889"
+			},
+			"directories": {},
+			"publish_time": 1503353184740,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503353184740
+		},
+		"1.9.2": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "1.9.2",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "d43fc38728f1059911f986c2c36825706c64872737406f94e3faced8ffe5dd88",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/webpack-dev-middleware@1.9.2",
+			"dist": {
+				"shasum": "c1d7c4a24f634da51ad76b6a211669449b80daf9",
+				"size": 1903,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.9.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware-1.9.2.tgz_1500041998707_0.9951763649005443"
+			},
+			"directories": {},
+			"publish_time": 1500041999028,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500041999028
+		},
+		"1.9.1": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "1.9.1",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"author": "Benjamin Lim <https://github.com/bumbleblym>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "ef051d22c4241d985c7e269b4940957a897a42db681630dcd1199b9dc45388d0",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/webpack-dev-middleware@1.9.1",
+			"dist": {
+				"shasum": "81e4ba42fb1e2bcd33c3ae2081b02da4604ab7ae",
+				"size": 1414,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.9.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/webpack-dev-middleware-1.9.1.tgz_1484689235364_0.37119773402810097"
+			},
+			"directories": {},
+			"publish_time": 1484689235582,
+			"_cnpm_publish_time": 1484689235582,
+			"_hasShrinkwrap": false
+		},
+		"1.9.0": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "1.9.0",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"author": "Benjamin Lim <https://github.com/bumbleblym>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/connect": "*",
+				"@types/webpack": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "993ab7d55fe9c5f87e937aa693480f7d6d4a161cf7add35c83ade991a7a94563",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/webpack-dev-middleware@1.9.0",
+			"dist": {
+				"shasum": "0f91ec29994c6f2d79194bd1bc7290cd43bc10f9",
+				"size": 1391,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.9.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/webpack-dev-middleware-1.9.0.tgz_1484342560903_0.38348188111558557"
+			},
+			"directories": {},
+			"publish_time": 1484342561120,
+			"_cnpm_publish_time": 1484342561120,
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "@types/webpack-dev-middleware",
+			"version": "2.0.2",
+			"description": "TypeScript definitions for webpack-dev-middleware",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Benjamin Lim",
+					"url": "https://github.com/bumbleblym",
+					"githubUsername": "bumbleblym"
+				},
+				{
+					"name": "reduckted",
+					"url": "https://github.com/reduckted",
+					"githubUsername": "reduckted"
+				},
+				{
+					"name": "Chris Abrams",
+					"url": "https://github.com/chrisabrams",
+					"githubUsername": "chrisabrams"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/webpack": "*",
+				"@types/loglevel": "*",
+				"@types/connect": "*",
+				"@types/memory-fs": "*"
+			},
+			"typesPublisherContentHash": "967975b34e15135f0db95ea7df01b7d7ebd441e12a7a1b37283dfb5159d5944e",
+			"typeScriptVersion": "2.3",
+			"_id": "@types/webpack-dev-middleware@2.0.2",
+			"dist": {
+				"shasum": "33934f15de582f1a6c21ea21c42f69282e328c76",
+				"size": 2071,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-2.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/webpack-dev-middleware_2.0.2_1531168520928_0.8338395260295659"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1531168521006,
+			"_cnpm_publish_time": 1531168521006
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.2",
+		"ts2.0": "1.9.3",
+		"ts2.1": "1.9.3",
+		"ts2.2": "2.0.0",
+		"ts2.3": "2.0.2",
+		"ts2.4": "2.0.2",
+		"ts2.5": "2.0.2",
+		"ts2.6": "2.0.2",
+		"ts2.7": "2.0.2",
+		"ts2.8": "2.0.2",
+		"ts2.9": "2.0.2",
+		"ts3.0": "2.0.2",
+		"ts3.1": "2.0.2",
+		"ts3.2": "2.0.2"
+	},
+	"time": {
+		"modified": "2018-10-10T20:34:21.000Z",
+		"created": "2017-01-13T21:22:41.120Z",
+		"2.0.2": "2018-07-09T20:35:21.006Z",
+		"2.0.1": "2018-03-10T02:26:01.532Z",
+		"1.12.4": "2018-03-10T02:21:48.841Z",
+		"1.12.3": "2018-01-05T22:02:30.208Z",
+		"2.0.0": "2018-01-05T17:25:56.403Z",
+		"1.12.2": "2018-01-05T15:45:33.429Z",
+		"1.12.1": "2017-12-29T03:16:36.380Z",
+		"1.12.0": "2017-12-13T19:43:29.074Z",
+		"1.9.4": "2017-11-09T15:23:35.718Z",
+		"1.9.3": "2017-08-21T22:06:24.740Z",
+		"1.9.2": "2017-07-14T14:19:59.028Z",
+		"1.9.1": "2017-01-17T21:40:35.582Z",
+		"1.9.0": "2017-01-13T21:22:41.120Z"
+	},
+	"_distfiles": {
+		"webpack-dev-middleware-2.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-2.0.1.tgz",
+			"sha": "516d953602d9e8ac72ca1196969969d580d4b0a6",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-1.12.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.12.4.tgz",
+			"sha": "f6ae2d57016919d0139a8ddf4ccb8e9b14a3569c",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-1.12.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.12.3.tgz",
+			"sha": "43f733699edefdc6bf2ff1043c8940271b7c57d5",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-2.0.0.tgz",
+			"sha": "7bc872446c5f77923e1e8a974ad18e186aad065e",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-1.12.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.12.2.tgz",
+			"sha": "495f06945b0d0ca0bbf49242dca9e1a8701b1744",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-1.12.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.12.1.tgz",
+			"sha": "b11450f0e7243b0e71d8a8613a065cd415bc41da",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-1.12.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.12.0.tgz",
+			"sha": "1cb24d61eec1dc469b0aad2fcc5ee7972e271c6d",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-1.9.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.9.4.tgz",
+			"sha": "1834526e871b588afc4a5a935c41e2f0a5075e1c",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-1.9.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.9.3.tgz",
+			"sha": "2120f79a4fbb0dc49ddba97e4b0b778f947c7c5b",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-1.9.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.9.2.tgz",
+			"sha": "c1d7c4a24f634da51ad76b6a211669449b80daf9",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-1.9.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.9.1.tgz",
+			"sha": "81e4ba42fb1e2bcd33c3ae2081b02da4604ab7ae",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-1.9.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-1.9.0.tgz",
+			"sha": "0f91ec29994c6f2d79194bd1bc7290cd43bc10f9",
+			"registry": "cnpmjs"
+		},
+		"webpack-dev-middleware-2.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/webpack-dev-middleware/download/@types/webpack-dev-middleware-2.0.2.tgz",
+			"sha": "33934f15de582f1a6c21ea21c42f69282e328c76",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"47fb-Pf0Z0nYqgQrKIT0LkeduL2Ai7Hs\"",
+			"fetched": 1541833279802
+		}
+	},
+	"_rev": "2-a24dfcb13edb9651",
+	"readme": "# Installation\r\n> `npm install --save @types/webpack-dev-middleware`\r\n\r\n# Summary\r\nThis package contains type definitions for webpack-dev-middleware (https://github.com/webpack/webpack-dev-middleware).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/webpack-dev-middleware\r\n\r\nAdditional Details\r\n * Last updated: Mon, 09 Jul 2018 20:32:27 GMT\r\n * Dependencies: webpack, loglevel, connect, memory-fs\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Benjamin Lim <https://github.com/bumbleblym>, reduckted <https://github.com/reduckted>, Chris Abrams <https://github.com/chrisabrams>."
+}

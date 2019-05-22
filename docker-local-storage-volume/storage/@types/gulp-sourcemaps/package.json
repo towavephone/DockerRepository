@@ -1,0 +1,790 @@
+{
+	"name": "@types/gulp-sourcemaps",
+	"versions": {
+		"0.0.32": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.32",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "48c3e1c1e9dd3e7af155a8c08390fb23a70720af96379094585d8f6e9fdadac4",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gulp-sourcemaps@0.0.32",
+			"dist": {
+				"shasum": "e79ee617e0cb15729874be4533fe59c07793a175",
+				"size": 1663,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-sourcemaps-0.0.32.tgz_1510217053102_0.5323300650343299"
+			},
+			"directories": {},
+			"publish_time": 1510217053171,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510217053171
+		},
+		"0.0.31": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.31",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "35313eba0efda6945c730f612e1564796068666d0602c7e131b223310df7083f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gulp-sourcemaps@0.0.31",
+			"dist": {
+				"shasum": "08347f899f4862f63f7586c997aacd41af21c72a",
+				"size": 1673,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/gulp-sourcemaps-0.0.31.tgz_1497991686324_0.19044173788279295"
+			},
+			"directories": {},
+			"publish_time": 1497991686440,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1497991686440
+		},
+		"0.0.30": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.30",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Asana",
+					"url": "https://asana.com"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "cd0e4bba54d05cddd9de8e894b9ed5f4365dd9eab4a86cee0453bbd5c335d428",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/gulp-sourcemaps@0.0.30",
+			"dist": {
+				"shasum": "f867d3d44b5f3faeb8955af7260176ed92ac51a6",
+				"size": 964,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.30.tgz_1489675121532_0.4211688239593059"
+			},
+			"directories": {},
+			"publish_time": 1489675121750,
+			"_cnpm_publish_time": 1489675121750,
+			"_hasShrinkwrap": false
+		},
+		"0.0.29": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.29",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"license": "MIT",
+			"author": "Asana <https://asana.com>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "8d48fac4923b7a38b54870ce42adac21192fad5d4c24d3b02a5eab42abb4ca47",
+			"_id": "@types/gulp-sourcemaps@0.0.29",
+			"dist": {
+				"shasum": "11d2345fdd9421512c0da8381e9a9f747e9bf184",
+				"size": 1164,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.29.tgz_1474306629006_0.7262564317788929"
+			},
+			"directories": {},
+			"publish_time": 1474306629231,
+			"_cnpm_publish_time": 1474306629231,
+			"_hasShrinkwrap": false
+		},
+		"0.0.28": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/gulp-sourcemaps@0.0.28",
+			"_shasum": "00881f57fc56278a15e9302403db0d9a6eeaf529",
+			"_from": "output\\gulp-sourcemaps",
+			"_resolved": "file:output\\gulp-sourcemaps",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "00881f57fc56278a15e9302403db0d9a6eeaf529",
+				"size": 1141,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.28.tgz_1468507752755_0.37188481562770903"
+			},
+			"directories": {},
+			"publish_time": 1468507755439,
+			"_cnpm_publish_time": 1468507755439,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27-alpha": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.27-alpha",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/gulp-sourcemaps@0.0.27-alpha",
+			"_shasum": "7d44b47c555bc634f257aecfcaf67257ba37ce31",
+			"_from": "output\\gulp-sourcemaps",
+			"_resolved": "file:output\\gulp-sourcemaps",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7d44b47c555bc634f257aecfcaf67257ba37ce31",
+				"size": 1145,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.27-alpha.tgz_1468009526390_0.18079409562051296"
+			},
+			"directories": {},
+			"publish_time": 1468009528727,
+			"_cnpm_publish_time": 1468009528727,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/gulp-sourcemaps@0.0.26-alpha",
+			"_shasum": "856d5edbc17a77069dd0265339eeef4a0d267837",
+			"_from": "output\\gulp-sourcemaps",
+			"_resolved": "file:output\\gulp-sourcemaps",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "856d5edbc17a77069dd0265339eeef4a0d267837",
+				"size": 1147,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.26-alpha.tgz_1467591723593_0.39667155616916716"
+			},
+			"directories": {},
+			"publish_time": 1467591724099,
+			"_cnpm_publish_time": 1467591724099,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/gulp-sourcemaps@0.0.25-alpha",
+			"_shasum": "b945ac4a8a4b6bb7c545c71f49fa8cef5f319fc9",
+			"_from": "output\\gulp-sourcemaps",
+			"_resolved": "file:output\\gulp-sourcemaps",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b945ac4a8a4b6bb7c545c71f49fa8cef5f319fc9",
+				"size": 1149,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.25-alpha.tgz_1467426694514_0.35677146911621094"
+			},
+			"directories": {},
+			"publish_time": 1467426698015,
+			"_cnpm_publish_time": 1467426698015,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha"
+			},
+			"_id": "@types/gulp-sourcemaps@0.0.24-alpha",
+			"_shasum": "65be9bdaadc9591e1559e208e336d01afc7869ae",
+			"_from": "output\\gulp-sourcemaps",
+			"_resolved": "file:output\\gulp-sourcemaps",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "65be9bdaadc9591e1559e208e336d01afc7869ae",
+				"size": 1148,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.24-alpha.tgz_1467413771038_0.7574627452995628"
+			},
+			"directories": {},
+			"publish_time": 1467413771555,
+			"_cnpm_publish_time": 1467413771555,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/gulp-sourcemaps@0.0.23-alpha",
+			"_shasum": "f9f0c87b91ccc2872c9f76b58161769a98abd8d1",
+			"_from": "output\\gulp-sourcemaps",
+			"_resolved": "file:output\\gulp-sourcemaps",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f9f0c87b91ccc2872c9f76b58161769a98abd8d1",
+				"size": 1137,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.23-alpha.tgz_1467401567470_0.24403192684985697"
+			},
+			"directories": {},
+			"publish_time": 1467401568047,
+			"_cnpm_publish_time": 1467401568047,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/gulp-sourcemaps@0.0.22-alpha",
+			"_shasum": "282f3e5900c2468bd76d858aea634bb854fba571",
+			"_from": "output\\gulp-sourcemaps",
+			"_resolved": "file:output\\gulp-sourcemaps",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "282f3e5900c2468bd76d858aea634bb854fba571",
+				"size": 1114,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.22-alpha.tgz_1464152577403_0.5500664107967168"
+			},
+			"directories": {},
+			"publish_time": 1464152579807,
+			"_cnpm_publish_time": 1464152579807,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for gulp-sourcemaps",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/gulp-sourcemaps@0.0.21-alpha",
+			"_shasum": "bb4d8dba52c5645e23b09abd2bf5174d3ee7e9c4",
+			"_from": "output\\gulp-sourcemaps",
+			"_resolved": "file:output\\gulp-sourcemaps",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "bb4d8dba52c5645e23b09abd2bf5174d3ee7e9c4",
+				"size": 1113,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.21-alpha.tgz_1463773495011_0.9483505666721612"
+			},
+			"directories": {},
+			"publish_time": 1463773495407,
+			"_cnpm_publish_time": 1463773495407,
+			"_hasShrinkwrap": false
+		},
+		"0.0.16-alpha": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.16-alpha",
+			"description": "Type definitions for gulp-sourcemaps from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/gulp-sourcemaps@0.0.16-alpha",
+			"_shasum": "f7a3254af70d4cfab9255593b18b1d77c50ad3d2",
+			"_from": "output\\gulp-sourcemaps",
+			"_resolved": "file:output\\gulp-sourcemaps",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "f7a3254af70d4cfab9255593b18b1d77c50ad3d2",
+				"size": 1123,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.16-alpha.tgz_1463692005404_0.848669667262584"
+			},
+			"directories": {},
+			"publish_time": 1463692007838,
+			"_cnpm_publish_time": 1463692007838,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/gulp-sourcemaps",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for gulp-sourcemaps from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Asana",
+				"email": "https://asana.com"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/gulp-sourcemaps@0.0.15-alpha",
+			"_shasum": "74a4f03dafba926aa96413641a8058150851ded4",
+			"_from": "output\\gulp-sourcemaps",
+			"_resolved": "file:output\\gulp-sourcemaps",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "74a4f03dafba926aa96413641a8058150851ded4",
+				"size": 1099,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/gulp-sourcemaps-0.0.15-alpha.tgz_1463461648401_0.8775807418860495"
+			},
+			"directories": {},
+			"publish_time": 1463461648990,
+			"_cnpm_publish_time": 1463461648990,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.32",
+		"ts2.0": "0.0.32",
+		"ts2.1": "0.0.32",
+		"ts2.2": "0.0.32",
+		"ts2.3": "0.0.32",
+		"ts2.4": "0.0.32",
+		"ts2.5": "0.0.32",
+		"ts2.6": "0.0.32",
+		"ts2.7": "0.0.32",
+		"ts2.8": "0.0.32",
+		"ts2.9": "0.0.32",
+		"ts3.0": "0.0.32",
+		"ts3.1": "0.0.32",
+		"ts3.2": "0.0.32"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:23.000Z",
+		"created": "2016-05-17T05:07:28.990Z",
+		"0.0.32": "2017-11-09T08:44:13.171Z",
+		"0.0.31": "2017-06-20T20:48:06.440Z",
+		"0.0.30": "2017-03-16T14:38:41.750Z",
+		"0.0.29": "2016-09-19T17:37:09.231Z",
+		"0.0.28": "2016-07-14T14:49:15.439Z",
+		"0.0.27-alpha": "2016-07-08T20:25:28.727Z",
+		"0.0.26-alpha": "2016-07-04T00:22:04.099Z",
+		"0.0.25-alpha": "2016-07-02T02:31:38.015Z",
+		"0.0.24-alpha": "2016-07-01T22:56:11.555Z",
+		"0.0.23-alpha": "2016-07-01T19:32:48.047Z",
+		"0.0.22-alpha": "2016-05-25T05:02:59.807Z",
+		"0.0.21-alpha": "2016-05-20T19:44:55.407Z",
+		"0.0.16-alpha": "2016-05-19T21:06:47.838Z",
+		"0.0.15-alpha": "2016-05-17T05:07:28.990Z"
+	},
+	"_distfiles": {
+		"gulp-sourcemaps-0.0.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.32.tgz",
+			"sha": "e79ee617e0cb15729874be4533fe59c07793a175",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.31.tgz",
+			"sha": "08347f899f4862f63f7586c997aacd41af21c72a",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.30.tgz",
+			"sha": "f867d3d44b5f3faeb8955af7260176ed92ac51a6",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.29.tgz",
+			"sha": "11d2345fdd9421512c0da8381e9a9f747e9bf184",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.28.tgz",
+			"sha": "00881f57fc56278a15e9302403db0d9a6eeaf529",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.27-alpha.tgz",
+			"sha": "7d44b47c555bc634f257aecfcaf67257ba37ce31",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.26-alpha.tgz",
+			"sha": "856d5edbc17a77069dd0265339eeef4a0d267837",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.25-alpha.tgz",
+			"sha": "b945ac4a8a4b6bb7c545c71f49fa8cef5f319fc9",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.24-alpha.tgz",
+			"sha": "65be9bdaadc9591e1559e208e336d01afc7869ae",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.23-alpha.tgz",
+			"sha": "f9f0c87b91ccc2872c9f76b58161769a98abd8d1",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.22-alpha.tgz",
+			"sha": "282f3e5900c2468bd76d858aea634bb854fba571",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.21-alpha.tgz",
+			"sha": "bb4d8dba52c5645e23b09abd2bf5174d3ee7e9c4",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.16-alpha.tgz",
+			"sha": "f7a3254af70d4cfab9255593b18b1d77c50ad3d2",
+			"registry": "cnpmjs"
+		},
+		"gulp-sourcemaps-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/gulp-sourcemaps/download/@types/gulp-sourcemaps-0.0.15-alpha.tgz",
+			"sha": "74a4f03dafba926aa96413641a8058150851ded4",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833456111
+		}
+	},
+	"_rev": "2-ce267d800dad89a1",
+	"readme": "# Installation\r\n> `npm install --save @types/gulp-sourcemaps`\r\n\r\n# Summary\r\nThis package contains type definitions for gulp-sourcemaps (https://github.com/floridoo/gulp-sourcemaps).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/gulp-sourcemaps\r\n\r\nAdditional Details\r\n * Last updated: Thu, 09 Nov 2017 08:43:07 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Asana <https://asana.com>."
+}

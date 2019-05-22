@@ -1,0 +1,852 @@
+{
+	"name": "@types/marked",
+	"versions": {
+		"0.3.0": {
+			"name": "@types/marked",
+			"version": "0.3.0",
+			"description": "TypeScript definitions for Marked",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Orr",
+					"url": "https://github.com/worr"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "b58f4a21ad6c48f5209fef438e9e87ed65121a5d5d47cce6840489bc4cd7b25e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/marked@0.3.0",
+			"dist": {
+				"shasum": "583c223dd33385a1dda01aaf77b0cd0411c4b524",
+				"size": 3201,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/marked-0.3.0.tgz_1502122894195_0.14510584250092506"
+			},
+			"directories": {},
+			"publish_time": 1502122894463,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502122894463
+		},
+		"0.0.28": {
+			"name": "@types/marked",
+			"version": "0.0.28",
+			"description": "TypeScript definitions for Marked",
+			"license": "MIT",
+			"author": "William Orr <https://github.com/worr>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "ebaaa997ad2ab752bb16fbb1a02c4a34e440cb93410eb5ec82db83a1076fba80",
+			"_id": "@types/marked@0.0.28",
+			"dist": {
+				"shasum": "44ba754e9fa51432583e8eb30a7c4dd249b52faa",
+				"size": 2012,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.28.tgz_1474307543811_0.04045275645330548"
+			},
+			"directories": {},
+			"publish_time": 1474307546848,
+			"_cnpm_publish_time": 1474307546848,
+			"_hasShrinkwrap": false
+		},
+		"0.0.27": {
+			"name": "@types/marked",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for Marked",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Orr",
+				"email": "https://github.com/worr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/marked@0.0.27",
+			"_shasum": "c71445465f2280ee79edc83e2c3bdcd8edf53554",
+			"_from": "output\\marked",
+			"_resolved": "file:output\\marked",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c71445465f2280ee79edc83e2c3bdcd8edf53554",
+				"size": 1988,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.27.tgz_1468509673180_0.46645596832968295"
+			},
+			"directories": {},
+			"publish_time": 1468509673795,
+			"_cnpm_publish_time": 1468509673795,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26-alpha": {
+			"name": "@types/marked",
+			"version": "0.0.26-alpha",
+			"description": "TypeScript definitions for Marked",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Orr",
+				"email": "https://github.com/worr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/marked@0.0.26-alpha",
+			"_shasum": "ab1b05c8cc6d7270c14391c215adc43d720be3d7",
+			"_from": "output\\marked",
+			"_resolved": "file:output\\marked",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ab1b05c8cc6d7270c14391c215adc43d720be3d7",
+				"size": 1996,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.26-alpha.tgz_1468011027542_0.03430835320614278"
+			},
+			"directories": {},
+			"publish_time": 1468011029870,
+			"_cnpm_publish_time": 1468011029870,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/marked",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for Marked",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Orr",
+				"email": "https://github.com/worr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/marked@0.0.25-alpha",
+			"_shasum": "934f760c3d1126075c2efc2c827f5cdc0814e33e",
+			"_from": "output\\marked",
+			"_resolved": "file:output\\marked",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "934f760c3d1126075c2efc2c827f5cdc0814e33e",
+				"size": 1994,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.25-alpha.tgz_1467593517599_0.6871788094285876"
+			},
+			"directories": {},
+			"publish_time": 1467593518143,
+			"_cnpm_publish_time": 1467593518143,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/marked",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for Marked",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Orr",
+				"email": "https://github.com/worr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/marked@0.0.24-alpha",
+			"_shasum": "a674445fdbe0a620ccb33542f79fc82c737f6208",
+			"_from": "output\\marked",
+			"_resolved": "file:output\\marked",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a674445fdbe0a620ccb33542f79fc82c737f6208",
+				"size": 1995,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.24-alpha.tgz_1467428380683_0.6327144301030785"
+			},
+			"directories": {},
+			"publish_time": 1467428381183,
+			"_cnpm_publish_time": 1467428381183,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/marked",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for Marked",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Orr",
+				"email": "https://github.com/worr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/marked@0.0.23-alpha",
+			"_shasum": "2893b5e00a8dde748d2b5dabddaef735201c4aa1",
+			"_from": "output\\marked",
+			"_resolved": "file:output\\marked",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2893b5e00a8dde748d2b5dabddaef735201c4aa1",
+				"size": 1998,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.23-alpha.tgz_1467415449945_0.05214336118660867"
+			},
+			"directories": {},
+			"publish_time": 1467415453331,
+			"_cnpm_publish_time": 1467415453331,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/marked",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for Marked",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Orr",
+				"email": "https://github.com/worr"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/marked@0.0.22-alpha",
+			"_shasum": "a9dd33ed18bb63c399ce8e346e1fe6cd09018540",
+			"_from": "output\\marked",
+			"_resolved": "file:output\\marked",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a9dd33ed18bb63c399ce8e346e1fe6cd09018540",
+				"size": 1984,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.22-alpha.tgz_1467403548017_0.16256078495644033"
+			},
+			"directories": {},
+			"publish_time": 1467403548539,
+			"_cnpm_publish_time": 1467403548539,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/marked",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for Marked",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Orr",
+				"email": "https://github.com/worr"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/marked@0.0.21-alpha",
+			"_shasum": "3c4141921b4afb93593719615c26d4a38467c4cc",
+			"_from": "output\\marked",
+			"_resolved": "file:output\\marked",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3c4141921b4afb93593719615c26d4a38467c4cc",
+				"size": 1963,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.21-alpha.tgz_1464153978885_0.4723890330642462"
+			},
+			"directories": {},
+			"publish_time": 1464153979363,
+			"_cnpm_publish_time": 1464153979363,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/marked",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for Marked",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Orr",
+				"email": "https://github.com/worr"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/marked@0.0.20-alpha",
+			"_shasum": "b9d1ab667887b67aa27dcfd1cc3fb2255ee37115",
+			"_from": "output\\marked",
+			"_resolved": "file:output\\marked",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b9d1ab667887b67aa27dcfd1cc3fb2255ee37115",
+				"size": 1963,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.20-alpha.tgz_1463774899550_0.16773590818047523"
+			},
+			"directories": {},
+			"publish_time": 1463774901794,
+			"_cnpm_publish_time": 1463774901794,
+			"_hasShrinkwrap": false
+		},
+		"0.0.15-alpha": {
+			"name": "@types/marked",
+			"version": "0.0.15-alpha",
+			"description": "Type definitions for Marked from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Orr",
+				"email": "https://github.com/worr"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/marked@0.0.15-alpha",
+			"_shasum": "72251cb061a4e61aba46e93fc3313117af4fdb44",
+			"_from": "output\\marked",
+			"_resolved": "file:output\\marked",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "72251cb061a4e61aba46e93fc3313117af4fdb44",
+				"size": 1973,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.15-alpha.tgz_1463694021613_0.6182793541811407"
+			},
+			"directories": {},
+			"publish_time": 1463694022238,
+			"_cnpm_publish_time": 1463694022238,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/marked",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for Marked from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "William Orr",
+				"email": "https://github.com/worr"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/marked@0.0.14-alpha",
+			"_shasum": "1f806ad0167f7dbed1f3135b90a565713894baa0",
+			"_from": "output\\marked",
+			"_resolved": "file:output\\marked",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1f806ad0167f7dbed1f3135b90a565713894baa0",
+				"size": 1965,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/marked-0.0.14-alpha.tgz_1463509070185_0.15169266914017498"
+			},
+			"directories": {},
+			"publish_time": 1463509072818,
+			"_cnpm_publish_time": 1463509072818,
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "@types/marked",
+			"version": "0.4.2",
+			"description": "TypeScript definitions for Marked",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Orr",
+					"url": "https://github.com/worr",
+					"githubUsername": "worr"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "CrossR",
+					"url": "https://github.com/CrossR",
+					"githubUsername": "CrossR"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "ed13c80e569504b7b62c4401d0a78a104d4e0ff167209b83cbc8a8e6a2e5f83a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/marked@0.4.2",
+			"dist": {
+				"shasum": "64a89e53ea37f61cc0f3ee1732c555c2dbf6452f",
+				"size": 3295,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.4.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/marked_0.4.2_1538589640177_0.6353141334952352"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1538589640371,
+			"_cnpm_publish_time": 1538589640371
+		},
+		"0.4.1": {
+			"name": "@types/marked",
+			"version": "0.4.1",
+			"description": "TypeScript definitions for Marked",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Orr",
+					"url": "https://github.com/worr",
+					"githubUsername": "worr"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "CrossR",
+					"url": "https://github.com/CrossR",
+					"githubUsername": "CrossR"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "0a92a2ad3c2b4983628e8c76ceaa8b89e3314f1e660ad83470ccf0c7ce800b6e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/marked@0.4.1",
+			"dist": {
+				"shasum": "6595701c4d0dfde9d04894d3be04b8a97a49e0d7",
+				"size": 3290,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.4.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/marked_0.4.1_1535045131113_0.7497728588504453"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1535045131229,
+			"_cnpm_publish_time": 1535045131229
+		},
+		"0.4.0": {
+			"name": "@types/marked",
+			"version": "0.4.0",
+			"description": "TypeScript definitions for Marked",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "William Orr",
+					"url": "https://github.com/worr",
+					"githubUsername": "worr"
+				},
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender",
+					"githubUsername": "BendingBender"
+				},
+				{
+					"name": "CrossR",
+					"url": "https://github.com/CrossR",
+					"githubUsername": "CrossR"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "ace56ecb6bf44801fdd12aaa965023cdb6c950cf6f33cb0580980ad4fcd8fb5f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/marked@0.4.0",
+			"dist": {
+				"shasum": "057a6165703e7419217f8ffc6887747f980b6315",
+				"size": 3293,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/marked/download/@types/marked-0.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/marked_0.4.0_1529098081354_0.509491039437636"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1529098081411,
+			"_cnpm_publish_time": 1529098081411
+		}
+	},
+	"dist-tags": {
+		"latest": "0.4.2",
+		"ts2.0": "0.4.2",
+		"ts2.1": "0.4.2",
+		"ts2.2": "0.4.2",
+		"ts2.3": "0.4.2",
+		"ts2.4": "0.4.2",
+		"ts2.5": "0.4.2",
+		"ts2.6": "0.4.2",
+		"ts2.7": "0.4.2",
+		"ts2.8": "0.4.2",
+		"ts2.9": "0.4.2",
+		"ts3.0": "0.4.2",
+		"ts3.1": "0.4.2",
+		"ts3.2": "0.4.2"
+	},
+	"time": {
+		"modified": "2018-10-03T18:00:53.000Z",
+		"created": "2016-05-17T18:17:52.818Z",
+		"0.4.2": "2018-10-03T18:00:40.371Z",
+		"0.4.1": "2018-08-23T17:25:31.229Z",
+		"0.4.0": "2018-06-15T21:28:01.411Z",
+		"0.3.0": "2017-08-07T16:21:34.463Z",
+		"0.0.28": "2016-09-19T17:52:26.848Z",
+		"0.0.27": "2016-07-14T15:21:13.795Z",
+		"0.0.26-alpha": "2016-07-08T20:50:29.870Z",
+		"0.0.25-alpha": "2016-07-04T00:51:58.143Z",
+		"0.0.24-alpha": "2016-07-02T02:59:41.183Z",
+		"0.0.23-alpha": "2016-07-01T23:24:13.331Z",
+		"0.0.22-alpha": "2016-07-01T20:05:48.539Z",
+		"0.0.21-alpha": "2016-05-25T05:26:19.363Z",
+		"0.0.20-alpha": "2016-05-20T20:08:21.794Z",
+		"0.0.15-alpha": "2016-05-19T21:40:22.238Z",
+		"0.0.14-alpha": "2016-05-17T18:17:52.818Z"
+	},
+	"_distfiles": {
+		"marked-0.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.3.0.tgz",
+			"sha": "583c223dd33385a1dda01aaf77b0cd0411c4b524",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.28.tgz",
+			"sha": "44ba754e9fa51432583e8eb30a7c4dd249b52faa",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.27.tgz",
+			"sha": "c71445465f2280ee79edc83e2c3bdcd8edf53554",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.26-alpha.tgz",
+			"sha": "ab1b05c8cc6d7270c14391c215adc43d720be3d7",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.25-alpha.tgz",
+			"sha": "934f760c3d1126075c2efc2c827f5cdc0814e33e",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.24-alpha.tgz",
+			"sha": "a674445fdbe0a620ccb33542f79fc82c737f6208",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.23-alpha.tgz",
+			"sha": "2893b5e00a8dde748d2b5dabddaef735201c4aa1",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.22-alpha.tgz",
+			"sha": "a9dd33ed18bb63c399ce8e346e1fe6cd09018540",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.21-alpha.tgz",
+			"sha": "3c4141921b4afb93593719615c26d4a38467c4cc",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.20-alpha.tgz",
+			"sha": "b9d1ab667887b67aa27dcfd1cc3fb2255ee37115",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.15-alpha.tgz",
+			"sha": "72251cb061a4e61aba46e93fc3313117af4fdb44",
+			"registry": "cnpmjs"
+		},
+		"marked-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.0.14-alpha.tgz",
+			"sha": "1f806ad0167f7dbed1f3135b90a565713894baa0",
+			"registry": "cnpmjs"
+		},
+		"marked-0.4.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.4.2.tgz",
+			"sha": "64a89e53ea37f61cc0f3ee1732c555c2dbf6452f",
+			"registry": "cnpmjs"
+		},
+		"marked-0.4.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.4.1.tgz",
+			"sha": "6595701c4d0dfde9d04894d3be04b8a97a49e0d7",
+			"registry": "cnpmjs"
+		},
+		"marked-0.4.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/marked/download/@types/marked-0.4.0.tgz",
+			"sha": "057a6165703e7419217f8ffc6887747f980b6315",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833485189
+		}
+	},
+	"_rev": "2-2db5c690886539ca",
+	"readme": "# Installation\r\n> `npm install --save @types/marked`\r\n\r\n# Summary\r\nThis package contains type definitions for Marked (https://github.com/markedjs/marked).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/marked\r\n\r\nAdditional Details\r\n * Last updated: Wed, 03 Oct 2018 17:56:18 GMT\r\n * Dependencies: none\r\n * Global values: marked\r\n\r\n# Credits\r\nThese definitions were written by William Orr <https://github.com/worr>, BendingBender <https://github.com/BendingBender>, CrossR <https://github.com/CrossR>."
+}

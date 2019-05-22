@@ -1,0 +1,798 @@
+{
+	"name": "@types/bl",
+	"versions": {
+		"0.8.32": {
+			"name": "@types/bl",
+			"version": "0.8.32",
+			"description": "TypeScript definitions for BufferList",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "f419aed8d823d0fc8d9e86a70ea4a702a452fc529e070099377ee30ec8821f50",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/bl@0.8.32",
+			"dist": {
+				"shasum": "997d4332556c12eccae3bae93c0e6c0b53c562d4",
+				"size": 1828,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bl_0.8.32_1523733812543_0.476537627328401"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1523733812639,
+			"_cnpm_publish_time": 1523733812639
+		},
+		"0.8.31": {
+			"name": "@types/bl",
+			"version": "0.8.31",
+			"description": "TypeScript definitions for BufferList",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "6e93a7b2d771278d3d6226874f22af5bfcfd6f0c204fbf94b0832bb500bb13ca",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/bl@0.8.31",
+			"dist": {
+				"shasum": "caa006702e13c36cda00345fa698b8d55c03113b",
+				"size": 1803,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bl-0.8.31.tgz_1503352095025_0.741147133288905"
+			},
+			"directories": {},
+			"publish_time": 1503352095229,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1503352095229
+		},
+		"0.8.30": {
+			"name": "@types/bl",
+			"version": "0.8.30",
+			"description": "TypeScript definitions for BufferList v0.8.0",
+			"license": "MIT",
+			"author": "Bart van der Schoor <https://github.com/Bartvds>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "84bdc90beb2239382d6a969696606d56924a1598311570bfdf9ef58e0dcf2d0e",
+			"_id": "@types/bl@0.8.30",
+			"dist": {
+				"shasum": "49e831f15ecaada4ecddd53e53c37d1d411c48fe",
+				"size": 1318,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.30.tgz_1474302131294_0.16600466216914356"
+			},
+			"directories": {},
+			"publish_time": 1474302133088,
+			"_cnpm_publish_time": 1474302133088,
+			"_hasShrinkwrap": false
+		},
+		"0.8.29": {
+			"name": "@types/bl",
+			"version": "0.8.29",
+			"description": "TypeScript definitions for BufferList v0.8.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/bl@0.8.29",
+			"_shasum": "26d35ba9ef1fab36234031ec9ad58fe29e3ceab3",
+			"_from": "output\\bl",
+			"_resolved": "file:output\\bl",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "26d35ba9ef1fab36234031ec9ad58fe29e3ceab3",
+				"size": 1304,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.29.tgz_1468505556116_0.7147058660630137"
+			},
+			"directories": {},
+			"publish_time": 1468505559355,
+			"_cnpm_publish_time": 1468505559355,
+			"_hasShrinkwrap": false
+		},
+		"0.8.28-alpha": {
+			"name": "@types/bl",
+			"version": "0.8.28-alpha",
+			"description": "TypeScript definitions for BufferList v0.8.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.27-alpha"
+			},
+			"_id": "@types/bl@0.8.28-alpha",
+			"_shasum": "170215d828e07691b0af8f67d60f946a1ea22f37",
+			"_from": "output\\bl",
+			"_resolved": "file:output\\bl",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "170215d828e07691b0af8f67d60f946a1ea22f37",
+				"size": 1310,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.28-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.28-alpha.tgz_1468006664970_0.3929039582144469"
+			},
+			"directories": {},
+			"publish_time": 1468006667549,
+			"_cnpm_publish_time": 1468006667549,
+			"_hasShrinkwrap": false
+		},
+		"0.8.27-alpha": {
+			"name": "@types/bl",
+			"version": "0.8.27-alpha",
+			"description": "TypeScript definitions for BufferList v0.8.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.26-alpha"
+			},
+			"_id": "@types/bl@0.8.27-alpha",
+			"_shasum": "1d6d2e68f036cd0752f65080372ffd6b257509a4",
+			"_from": "output\\bl",
+			"_resolved": "file:output\\bl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "1d6d2e68f036cd0752f65080372ffd6b257509a4",
+				"size": 1311,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.27-alpha.tgz_1467589827452_0.9020258970558643"
+			},
+			"directories": {},
+			"publish_time": 1467589830999,
+			"_cnpm_publish_time": 1467589830999,
+			"_hasShrinkwrap": false
+		},
+		"0.8.26-alpha": {
+			"name": "@types/bl",
+			"version": "0.8.26-alpha",
+			"description": "TypeScript definitions for BufferList v0.8.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.24-alpha"
+			},
+			"_id": "@types/bl@0.8.26-alpha",
+			"_shasum": "5e1ffdc441b8c6a576fa222f5f91160a527dc36a",
+			"_from": "output\\bl",
+			"_resolved": "file:output\\bl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5e1ffdc441b8c6a576fa222f5f91160a527dc36a",
+				"size": 1310,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.26-alpha.tgz_1467424866124_0.8098243181593716"
+			},
+			"directories": {},
+			"publish_time": 1467424866651,
+			"_cnpm_publish_time": 1467424866651,
+			"_hasShrinkwrap": false
+		},
+		"0.8.25-alpha": {
+			"name": "@types/bl",
+			"version": "0.8.25-alpha",
+			"description": "TypeScript definitions for BufferList v0.8.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.23-alpha"
+			},
+			"_id": "@types/bl@0.8.25-alpha",
+			"_shasum": "e5150ee8f1abc1a05b0c4b08eaf388fe8316b3e3",
+			"_from": "output\\bl",
+			"_resolved": "file:output\\bl",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e5150ee8f1abc1a05b0c4b08eaf388fe8316b3e3",
+				"size": 1309,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.25-alpha.tgz_1467411482544_0.4433567328378558"
+			},
+			"directories": {},
+			"publish_time": 1467411484885,
+			"_cnpm_publish_time": 1467411484885,
+			"_hasShrinkwrap": false
+		},
+		"0.8.24-alpha": {
+			"name": "@types/bl",
+			"version": "0.8.24-alpha",
+			"description": "TypeScript definitions for BufferList v0.8.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "4.0.*"
+			},
+			"_id": "@types/bl@0.8.24-alpha",
+			"_shasum": "6fd3a549f14ce2fee99c8c649642869106018130",
+			"_from": "output\\bl",
+			"_resolved": "file:output\\bl",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6fd3a549f14ce2fee99c8c649642869106018130",
+				"size": 1304,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.24-alpha.tgz_1467399463454_0.14774987730197608"
+			},
+			"directories": {},
+			"publish_time": 1467399466114,
+			"_cnpm_publish_time": 1467399466114,
+			"_hasShrinkwrap": false
+		},
+		"0.8.23-alpha": {
+			"name": "@types/bl",
+			"version": "0.8.23-alpha",
+			"description": "TypeScript definitions for BufferList v0.8.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/bl@0.8.23-alpha",
+			"_shasum": "3834ff425cd4ae9a2a2638a3319e5e8843fbf83f",
+			"_from": "output\\bl",
+			"_resolved": "file:output\\bl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3834ff425cd4ae9a2a2638a3319e5e8843fbf83f",
+				"size": 1278,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.23-alpha.tgz_1464150770372_0.7262929663993418"
+			},
+			"directories": {},
+			"publish_time": 1464150770842,
+			"_cnpm_publish_time": 1464150770842,
+			"_hasShrinkwrap": false
+		},
+		"0.8.22-alpha": {
+			"name": "@types/bl",
+			"version": "0.8.22-alpha",
+			"description": "TypeScript definitions for BufferList v0.8.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"_id": "@types/bl@0.8.22-alpha",
+			"_shasum": "0140671b6b915b69a73dccf9a67d2600e424b53a",
+			"_from": "output\\bl",
+			"_resolved": "file:output\\bl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0140671b6b915b69a73dccf9a67d2600e424b53a",
+				"size": 1278,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.22-alpha.tgz_1463771655810_0.2766324649564922"
+			},
+			"directories": {},
+			"publish_time": 1463771657991,
+			"_cnpm_publish_time": 1463771657991,
+			"_hasShrinkwrap": false
+		},
+		"0.8.17-alpha": {
+			"name": "@types/bl",
+			"version": "0.8.17-alpha",
+			"description": "Type definitions for BufferList v0.8.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('stream'": "*",
+				"@types/node": "*"
+			},
+			"_id": "@types/bl@0.8.17-alpha",
+			"_shasum": "51e262393d93e085ca2628838c10dc5ba8ef7dab",
+			"_from": "output\\bl",
+			"_resolved": "file:output\\bl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "51e262393d93e085ca2628838c10dc5ba8ef7dab",
+				"size": 1297,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.17-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.17-alpha.tgz_1463689313419_0.2000152561813593"
+			},
+			"directories": {},
+			"publish_time": 1463689315942,
+			"_cnpm_publish_time": 1463689315942,
+			"_hasShrinkwrap": false
+		},
+		"0.8.16-alpha": {
+			"name": "@types/bl",
+			"version": "0.8.16-alpha",
+			"description": "Type definitions for BufferList v0.8.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Bart van der Schoor",
+				"email": "https://github.com/Bartvds"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {
+				"equire('stream'": "*"
+			},
+			"_id": "@types/bl@0.8.16-alpha",
+			"_shasum": "ff730cf2916269f79b4b3921dd5e819eb2e20952",
+			"_from": "output\\bl",
+			"_resolved": "file:output\\bl",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "ff730cf2916269f79b4b3921dd5e819eb2e20952",
+				"size": 1275,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/bl-0.8.16-alpha.tgz_1463459522195_0.09452465432696044"
+			},
+			"directories": {},
+			"publish_time": 1463459525899,
+			"_cnpm_publish_time": 1463459525899,
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "@types/bl",
+			"version": "2.1.0",
+			"description": "TypeScript definitions for BufferList",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Bart van der Schoor",
+					"url": "https://github.com/Bartvds",
+					"githubUsername": "Bartvds"
+				},
+				{
+					"name": "Francis Gulotta",
+					"url": "https://github.com/reconbot",
+					"githubUsername": "reconbot"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "9f6a7c39b7c2c8b392c8ee9415ea415573a72ff90886089c34441ee63ee51445",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/bl@2.1.0",
+			"dist": {
+				"shasum": "45c881c97feae1223d63bbc5b83166153fcb2a15",
+				"size": 1914,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/bl/download/@types/bl-2.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/bl_2.1.0_1539147244275_0.48522148706167156"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539147244414,
+			"_cnpm_publish_time": 1539147244414
+		}
+	},
+	"dist-tags": {
+		"latest": "2.1.0",
+		"ts2.0": "2.1.0",
+		"ts2.1": "2.1.0",
+		"ts2.2": "2.1.0",
+		"ts2.3": "2.1.0",
+		"ts2.4": "2.1.0",
+		"ts2.5": "2.1.0",
+		"ts2.6": "2.1.0",
+		"ts2.7": "2.1.0",
+		"ts2.8": "2.1.0",
+		"ts2.9": "2.1.0",
+		"ts3.0": "2.1.0",
+		"ts3.1": "2.1.0",
+		"ts3.2": "2.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T04:54:20.000Z",
+		"created": "2016-05-17T04:32:05.899Z",
+		"2.1.0": "2018-10-10T04:54:04.414Z",
+		"0.8.32": "2018-04-14T19:23:32.639Z",
+		"0.8.31": "2017-08-21T21:48:15.229Z",
+		"0.8.30": "2016-09-19T16:22:13.088Z",
+		"0.8.29": "2016-07-14T14:12:39.355Z",
+		"0.8.28-alpha": "2016-07-08T19:37:47.549Z",
+		"0.8.27-alpha": "2016-07-03T23:50:30.999Z",
+		"0.8.26-alpha": "2016-07-02T02:01:06.651Z",
+		"0.8.25-alpha": "2016-07-01T22:18:04.885Z",
+		"0.8.24-alpha": "2016-07-01T18:57:46.114Z",
+		"0.8.23-alpha": "2016-05-25T04:32:50.842Z",
+		"0.8.22-alpha": "2016-05-20T19:14:17.991Z",
+		"0.8.17-alpha": "2016-05-19T20:21:55.942Z",
+		"0.8.16-alpha": "2016-05-17T04:32:05.899Z"
+	},
+	"_distfiles": {
+		"bl-0.8.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.32.tgz",
+			"sha": "997d4332556c12eccae3bae93c0e6c0b53c562d4",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.31.tgz",
+			"sha": "caa006702e13c36cda00345fa698b8d55c03113b",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.30.tgz",
+			"sha": "49e831f15ecaada4ecddd53e53c37d1d411c48fe",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.29.tgz",
+			"sha": "26d35ba9ef1fab36234031ec9ad58fe29e3ceab3",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.28-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.28-alpha.tgz",
+			"sha": "170215d828e07691b0af8f67d60f946a1ea22f37",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.27-alpha.tgz",
+			"sha": "1d6d2e68f036cd0752f65080372ffd6b257509a4",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.26-alpha.tgz",
+			"sha": "5e1ffdc441b8c6a576fa222f5f91160a527dc36a",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.25-alpha.tgz",
+			"sha": "e5150ee8f1abc1a05b0c4b08eaf388fe8316b3e3",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.24-alpha.tgz",
+			"sha": "6fd3a549f14ce2fee99c8c649642869106018130",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.23-alpha.tgz",
+			"sha": "3834ff425cd4ae9a2a2638a3319e5e8843fbf83f",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.22-alpha.tgz",
+			"sha": "0140671b6b915b69a73dccf9a67d2600e424b53a",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.17-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.17-alpha.tgz",
+			"sha": "51e262393d93e085ca2628838c10dc5ba8ef7dab",
+			"registry": "cnpmjs"
+		},
+		"bl-0.8.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-0.8.16-alpha.tgz",
+			"sha": "ff730cf2916269f79b4b3921dd5e819eb2e20952",
+			"registry": "cnpmjs"
+		},
+		"bl-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/bl/download/@types/bl-2.1.0.tgz",
+			"sha": "45c881c97feae1223d63bbc5b83166153fcb2a15",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833452673
+		}
+	},
+	"_rev": "2-3aef520f555a8c13",
+	"readme": "# Installation\r\n> `npm install --save @types/bl`\r\n\r\n# Summary\r\nThis package contains type definitions for BufferList (https://github.com/rvagg/bl).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/bl\r\n\r\nAdditional Details\r\n * Last updated: Wed, 10 Oct 2018 04:53:23 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Bart van der Schoor <https://github.com/Bartvds>, Francis Gulotta <https://github.com/reconbot>."
+}

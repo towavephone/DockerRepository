@@ -1,0 +1,326 @@
+{
+	"name": "@types/lodash.foreach",
+	"versions": {
+		"4.5.3": {
+			"name": "@types/lodash.foreach",
+			"version": "4.5.3",
+			"description": "TypeScript definitions for lodash.forEach",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "3b84e886ec88ed92ada53b95151a5c243f416cb554b5fe4140f027ec576e938e",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.foreach@4.5.3",
+			"dist": {
+				"shasum": "87c01a0c5d9d17eec936ca3c28897af79440cdfc",
+				"size": 1592,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.foreach/download/@types/lodash.foreach-4.5.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.foreach-4.5.3.tgz_1502228908023_0.2912587118335068"
+			},
+			"directories": {},
+			"publish_time": 1502228908232,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1502228908232
+		},
+		"4.5.2": {
+			"name": "@types/lodash.foreach",
+			"version": "4.5.2",
+			"description": "TypeScript definitions for lodash.forEach",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "11b95423f9656d6c7c4517ef29c8f426daa9a70b361699ed00d37f4cef5a45ae",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/lodash.foreach@4.5.2",
+			"dist": {
+				"shasum": "132a6f50698775eb02a7343ac830d3db56e99141",
+				"size": 871,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.foreach/download/@types/lodash.foreach-4.5.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.foreach-4.5.2.tgz_1490212569056_0.2938106607180089"
+			},
+			"directories": {},
+			"publish_time": 1490212570935,
+			"_cnpm_publish_time": 1490212570935,
+			"_hasShrinkwrap": false
+		},
+		"4.5.1": {
+			"name": "@types/lodash.foreach",
+			"version": "4.5.1",
+			"description": "TypeScript definitions for lodash.forEach",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "76e9cea01cf72677a9940eb73a1d06f5da0f9fd5dc22ffc021acd7df9f97d86c",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/lodash.foreach@4.5.1",
+			"dist": {
+				"shasum": "217b901fffa5f7423d87c75c718303e0c1f6a3db",
+				"size": 1049,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.foreach/download/@types/lodash.foreach-4.5.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/lodash.foreach-4.5.1.tgz_1485553576400_0.014928543707355857"
+			},
+			"directories": {},
+			"publish_time": 1485553578241,
+			"_cnpm_publish_time": 1485553578241,
+			"_hasShrinkwrap": false
+		},
+		"4.5.0": {
+			"name": "@types/lodash.foreach",
+			"version": "4.5.0",
+			"description": "TypeScript definitions for lodash.forEach",
+			"license": "MIT",
+			"author": "Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "1e34b9f3aa5c0ad601f4ebd435a1d3fa220e3ca94c452aa3f5eca70a95b9aae1",
+			"_id": "@types/lodash.foreach@4.5.0",
+			"dist": {
+				"shasum": "a53a43fdfe6a5bff6380c5c29749ecf208efc603",
+				"size": 1020,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.foreach/download/@types/lodash.foreach-4.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/lodash.foreach-4.5.0.tgz_1480973434918_0.041148447431623936"
+			},
+			"directories": {},
+			"publish_time": 1480973435221,
+			"_cnpm_publish_time": 1480973435221,
+			"_hasShrinkwrap": false
+		},
+		"4.5.4": {
+			"name": "@types/lodash.foreach",
+			"version": "4.5.4",
+			"description": "TypeScript definitions for lodash.forEach",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Brian Zengel",
+					"url": "https://github.com/bczengel",
+					"githubUsername": "bczengel"
+				},
+				{
+					"name": "Ilya Mochalov",
+					"url": "https://github.com/chrootsu",
+					"githubUsername": "chrootsu"
+				},
+				{
+					"name": "Stepan Mikhaylyuk",
+					"url": "https://github.com/stepancar",
+					"githubUsername": "stepancar"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/lodash": "*"
+			},
+			"typesPublisherContentHash": "8d9f8b70ece89b66df0f52f1434c969bc654d69e3f3d6fa72ac76a8718ca0012",
+			"typeScriptVersion": "2.6",
+			"_id": "@types/lodash.foreach@4.5.4",
+			"dist": {
+				"shasum": "ffc21ff46f5d987acce1df68989ce523a0b973de",
+				"size": 1591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/lodash.foreach/download/@types/lodash.foreach-4.5.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/lodash.foreach_4.5.4_1532392969404_0.9859967395236715"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1532392969482,
+			"_cnpm_publish_time": 1532392969482
+		}
+	},
+	"dist-tags": {
+		"latest": "4.5.4",
+		"ts2.0": "4.5.0",
+		"ts2.1": "4.5.1",
+		"ts2.2": "4.5.3",
+		"ts2.3": "4.5.3",
+		"ts2.4": "4.5.3",
+		"ts2.5": "4.5.3",
+		"ts2.6": "4.5.4",
+		"ts2.7": "4.5.4",
+		"ts2.8": "4.5.4",
+		"ts2.9": "4.5.4",
+		"ts3.0": "4.5.4",
+		"ts3.1": "4.5.4",
+		"ts3.2": "4.5.4"
+	},
+	"time": {
+		"modified": "2018-10-10T20:16:11.000Z",
+		"created": "2016-12-05T21:30:35.221Z",
+		"4.5.4": "2018-07-24T00:42:49.482Z",
+		"4.5.3": "2017-08-08T21:48:28.232Z",
+		"4.5.2": "2017-03-22T19:56:10.935Z",
+		"4.5.1": "2017-01-27T21:46:18.241Z",
+		"4.5.0": "2016-12-05T21:30:35.221Z"
+	},
+	"_distfiles": {
+		"lodash.foreach-4.5.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.foreach/download/@types/lodash.foreach-4.5.3.tgz",
+			"sha": "87c01a0c5d9d17eec936ca3c28897af79440cdfc",
+			"registry": "cnpmjs"
+		},
+		"lodash.foreach-4.5.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.foreach/download/@types/lodash.foreach-4.5.2.tgz",
+			"sha": "132a6f50698775eb02a7343ac830d3db56e99141",
+			"registry": "cnpmjs"
+		},
+		"lodash.foreach-4.5.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.foreach/download/@types/lodash.foreach-4.5.1.tgz",
+			"sha": "217b901fffa5f7423d87c75c718303e0c1f6a3db",
+			"registry": "cnpmjs"
+		},
+		"lodash.foreach-4.5.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.foreach/download/@types/lodash.foreach-4.5.0.tgz",
+			"sha": "a53a43fdfe6a5bff6380c5c29749ecf208efc603",
+			"registry": "cnpmjs"
+		},
+		"lodash.foreach-4.5.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/lodash.foreach/download/@types/lodash.foreach-4.5.4.tgz",
+			"sha": "ffc21ff46f5d987acce1df68989ce523a0b973de",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"1de5-VIplSfue4uLgTCujwbHX6hrJMa8\"",
+			"fetched": 1541833484553
+		}
+	},
+	"_rev": "2-42089cb70cb20db1",
+	"readme": "# Installation\r\n> `npm install --save @types/lodash.foreach`\r\n\r\n# Summary\r\nThis package contains type definitions for lodash.forEach (http://lodash.com/).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash.foreach\r\n\r\nAdditional Details\r\n * Last updated: Mon, 23 Jul 2018 23:44:11 GMT\r\n * Dependencies: lodash\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Brian Zengel <https://github.com/bczengel>, Ilya Mochalov <https://github.com/chrootsu>, Stepan Mikhaylyuk <https://github.com/stepancar>."
+}

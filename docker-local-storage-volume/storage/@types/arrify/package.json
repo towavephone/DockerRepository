@@ -1,0 +1,300 @@
+{
+	"name": "@types/arrify",
+	"versions": {
+		"1.0.4": {
+			"name": "@types/arrify",
+			"version": "1.0.4",
+			"description": "TypeScript definitions for arrify",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "AnJun Wang",
+					"url": "https://github.com/wanganjun",
+					"githubUsername": "wanganjun"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "1d0e489b3f05b39e0ad03e452c5728a82525bbfe0abfe854f2d8540586bf0540",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/arrify@1.0.4",
+			"dist": {
+				"shasum": "0b7bc8d80e29db296e8e0c59e009274a03dcf783",
+				"size": 1893,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/arrify/download/@types/arrify-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/arrify_1.0.4_1525899302137_0.29934973306933"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1525899302296,
+			"_cnpm_publish_time": 1525899302296
+		},
+		"1.0.3": {
+			"name": "@types/arrify",
+			"version": "1.0.3",
+			"description": "TypeScript definitions for arrify",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "AnJun Wang",
+					"url": "https://github.com/wanganjun",
+					"githubUsername": "wanganjun"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "350edaf421e3d948ffc1d46d5461620e67b191ae716b3946032faac95237d82f",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/arrify@1.0.3",
+			"dist": {
+				"shasum": "40604e7d64ce13af9d42006f08129e2a673aac40",
+				"size": 1569,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/arrify/download/@types/arrify-1.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/arrify_1.0.3_1522780160850_0.38277648686586807"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522780160957,
+			"_cnpm_publish_time": 1522780160957
+		},
+		"1.0.2": {
+			"name": "@types/arrify",
+			"version": "1.0.2",
+			"description": "TypeScript definitions for arrify",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "AnJun Wang",
+					"url": "https://github.com/wanganjun",
+					"githubUsername": "wanganjun"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "a6f6db38dde807d4e02e63070252eea572cc9585e4dff8de192d8ac335f4e572",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/arrify@1.0.2",
+			"dist": {
+				"shasum": "4a6856b9bfd4713c781df95349c6b15db60d4de1",
+				"size": 1549,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/arrify/download/@types/arrify-1.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/arrify-1.0.2.tgz_1508890807655_0.02153119002468884"
+			},
+			"directories": {},
+			"publish_time": 1508890807746,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1508890807746
+		},
+		"1.0.1": {
+			"name": "@types/arrify",
+			"version": "1.0.1",
+			"description": "TypeScript definitions for arrify",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "AnJun Wang",
+					"url": "https://github.com/wanganjun"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "71d8bafaa77ade527f2f2fe6c44d59cb48252ae121ca8e253b1a3c8ee810d011",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/arrify@1.0.1",
+			"dist": {
+				"shasum": "51b8b14a043e8a91be0ede6217b7e602e3ecc04c",
+				"size": 1556,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/arrify/download/@types/arrify-1.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/arrify-1.0.1.tgz_1501192285059_0.514359297696501"
+			},
+			"directories": {},
+			"publish_time": 1501192285127,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1501192285127
+		},
+		"1.0.0": {
+			"name": "@types/arrify",
+			"version": "1.0.0",
+			"description": "TypeScript definitions for arrify",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "AnJun Wang",
+					"url": "https://github.com/wanganjun"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "955b598b4613ae9f6a469d137f7fdf9cf7518b11acd0f29d7115e7c82ea7c793",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/arrify@1.0.0",
+			"dist": {
+				"shasum": "c8add9ad9ae0f05ddd3a11b065e6661a03a40574",
+				"size": 1563,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/arrify/download/@types/arrify-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/arrify-1.0.0.tgz_1500041661477_0.4341056786943227"
+			},
+			"directories": {},
+			"publish_time": 1500041661556,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500041661556
+		}
+	},
+	"dist-tags": {
+		"latest": "1.0.4",
+		"ts2.0": "1.0.4",
+		"ts2.1": "1.0.4",
+		"ts2.2": "1.0.4",
+		"ts2.3": "1.0.4",
+		"ts2.4": "1.0.4",
+		"ts2.5": "1.0.4",
+		"ts2.6": "1.0.4",
+		"ts2.7": "1.0.4",
+		"ts2.8": "1.0.4",
+		"ts2.9": "1.0.4",
+		"ts3.0": "1.0.4",
+		"ts3.1": "1.0.4",
+		"ts3.2": "1.0.4"
+	},
+	"time": {
+		"modified": "2018-10-10T19:53:51.000Z",
+		"created": "2017-07-14T14:14:21.556Z",
+		"1.0.4": "2018-05-09T20:55:02.296Z",
+		"1.0.3": "2018-04-03T18:29:20.957Z",
+		"1.0.2": "2017-10-25T00:20:07.746Z",
+		"1.0.1": "2017-07-27T21:51:25.127Z",
+		"1.0.0": "2017-07-14T14:14:21.556Z"
+	},
+	"_distfiles": {
+		"arrify-1.0.4.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/arrify/download/@types/arrify-1.0.4.tgz",
+			"sha": "0b7bc8d80e29db296e8e0c59e009274a03dcf783",
+			"registry": "cnpmjs"
+		},
+		"arrify-1.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/arrify/download/@types/arrify-1.0.3.tgz",
+			"sha": "40604e7d64ce13af9d42006f08129e2a673aac40",
+			"registry": "cnpmjs"
+		},
+		"arrify-1.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/arrify/download/@types/arrify-1.0.2.tgz",
+			"sha": "4a6856b9bfd4713c781df95349c6b15db60d4de1",
+			"registry": "cnpmjs"
+		},
+		"arrify-1.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/arrify/download/@types/arrify-1.0.1.tgz",
+			"sha": "51b8b14a043e8a91be0ede6217b7e602e3ecc04c",
+			"registry": "cnpmjs"
+		},
+		"arrify-1.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/arrify/download/@types/arrify-1.0.0.tgz",
+			"sha": "c8add9ad9ae0f05ddd3a11b065e6661a03a40574",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833444881
+		}
+	},
+	"_rev": "2-d85b00be9fa0d14e",
+	"readme": "# Installation\r\n> `npm install --save @types/arrify`\r\n\r\n# Summary\r\nThis package contains type definitions for arrify (https://github.com/sindresorhus/arrify).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped.git/tree/master/types/arrify\r\n\r\nAdditional Details\r\n * Last updated: Wed, 09 May 2018 20:54:46 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by AnJun Wang <https://github.com/wanganjun>."
+}

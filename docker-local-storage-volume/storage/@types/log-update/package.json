@@ -1,0 +1,91 @@
+{
+	"name": "@types/log-update",
+	"versions": {
+		"2.0.0": {
+			"name": "@types/log-update",
+			"version": "2.0.0",
+			"description": "TypeScript definitions for log-update",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "BendingBender",
+					"url": "https://github.com/BendingBender"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "19986b4121622fffbdb72c9c828fe9c7067683deb0a1976fd0463c8d76561c73",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/log-update@2.0.0",
+			"dist": {
+				"shasum": "ba8996a25251e8f5aee355194c352f13741c96d7",
+				"size": 1596,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/log-update/download/@types/log-update-2.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/log-update-2.0.0.tgz_1500750284658_0.1688791555352509"
+			},
+			"directories": {},
+			"publish_time": 1500750284718,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500750284718
+		}
+	},
+	"dist-tags": {
+		"latest": "2.0.0",
+		"ts2.0": "2.0.0",
+		"ts2.1": "2.0.0",
+		"ts2.2": "2.0.0",
+		"ts2.3": "2.0.0",
+		"ts2.4": "2.0.0",
+		"ts2.5": "2.0.0",
+		"ts2.6": "2.0.0",
+		"ts2.7": "2.0.0",
+		"ts2.8": "2.0.0",
+		"ts2.9": "2.0.0",
+		"ts3.0": "2.0.0",
+		"ts3.1": "2.0.0",
+		"ts3.2": "2.0.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:17:41.000Z",
+		"created": "2017-07-22T19:04:44.718Z",
+		"2.0.0": "2017-07-22T19:04:44.718Z"
+	},
+	"_distfiles": {
+		"log-update-2.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/log-update/download/@types/log-update-2.0.0.tgz",
+			"sha": "ba8996a25251e8f5aee355194c352f13741c96d7",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"93c-icKCix6JAv660y9ktsJtuzfkjso\"",
+			"fetched": 1541833485123
+		}
+	},
+	"_rev": "2-42d470a8bc2d95f4",
+	"readme": "# Installation\r\n> `npm install --save @types/log-update`\r\n\r\n# Summary\r\nThis package contains type definitions for log-update (https://github.com/sindresorhus/log-update#readme).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/log-update\r\n\r\nAdditional Details\r\n * Last updated: Sat, 22 Jul 2017 19:03:51 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by BendingBender <https://github.com/BendingBender>."
+}

@@ -1,0 +1,88 @@
+{
+	"name": "@types/yargs-parser",
+	"versions": {
+		"11.0.0": {
+			"name": "@types/yargs-parser",
+			"version": "11.0.0",
+			"description": "TypeScript definitions for yargs-parser",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Miles Johnson",
+					"url": "https://github.com/milesj",
+					"githubUsername": "milesj"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/yargs": "*"
+			},
+			"typesPublisherContentHash": "c72cccda4d802b284757e2db84e0da3b0425327f9e34650473a9524e86067e44",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/yargs-parser@11.0.0",
+			"dist": {
+				"shasum": "514933c83ec38b8e06b8c9e5ffff637f20474f2e",
+				"size": 1944,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/yargs-parser/download/@types/yargs-parser-11.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/yargs-parser_11.0.0_1539298564306_0.04041523982175366"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1539298564439,
+			"_cnpm_publish_time": 1539298564439
+		}
+	},
+	"dist-tags": {
+		"latest": "11.0.0",
+		"ts2.2": "11.0.0",
+		"ts2.3": "11.0.0",
+		"ts2.4": "11.0.0",
+		"ts2.5": "11.0.0",
+		"ts2.6": "11.0.0",
+		"ts2.7": "11.0.0",
+		"ts2.8": "11.0.0",
+		"ts2.9": "11.0.0",
+		"ts3.0": "11.0.0",
+		"ts3.1": "11.0.0",
+		"ts3.2": "11.0.0"
+	},
+	"time": {
+		"modified": "2018-10-11T22:56:16.000Z",
+		"created": "2018-10-11T22:56:04.439Z",
+		"11.0.0": "2018-10-11T22:56:04.439Z"
+	},
+	"_distfiles": {
+		"yargs-parser-11.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/yargs-parser/download/@types/yargs-parser-11.0.0.tgz",
+			"sha": "514933c83ec38b8e06b8c9e5ffff637f20474f2e",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833490221
+		}
+	},
+	"_rev": "1-896e9e3d828d8bc2",
+	"readme": "# Installation\r\n> `npm install --save @types/yargs-parser`\r\n\r\n# Summary\r\nThis package contains type definitions for yargs-parser (https://github.com/yargs/yargs-parser#readme).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/yargs-parser\r\n\r\nAdditional Details\r\n * Last updated: Thu, 11 Oct 2018 22:54:50 GMT\r\n * Dependencies: yargs\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Miles Johnson <https://github.com/milesj>."
+}

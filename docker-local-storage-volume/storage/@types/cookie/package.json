@@ -1,0 +1,713 @@
+{
+	"name": "@types/cookie",
+	"versions": {
+		"0.3.1": {
+			"name": "@types/cookie",
+			"version": "0.3.1",
+			"description": "TypeScript definitions for cookie",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pine Mizune",
+					"url": "https://github.com/pine613"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "bd6301948833aa217a9067b1bdb20cf0be669cf55ae6bba229f32c8910f2427a",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cookie@0.3.1",
+			"dist": {
+				"shasum": "720a756ea8e760a258708b52441bd341f1ef4296",
+				"size": 2859,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.3.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cookie-0.3.1.tgz_1500919287406_0.30654363124631345"
+			},
+			"directories": {},
+			"publish_time": 1500919287478,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500919287478
+		},
+		"0.3.0": {
+			"name": "@types/cookie",
+			"version": "0.3.0",
+			"description": "TypeScript definitions for cookie",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Pine Mizune",
+					"url": "https://github.com/pine613"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "fcf12eb1968c9b006cfd7c256cc5d379e85403474f458e7bd9c399f35a3795cb",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/cookie@0.3.0",
+			"dist": {
+				"shasum": "c840871e6b23f814b2eb0ae6963d44ee59cf6627",
+				"size": 2183,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.3.0.tgz_1489191268145_0.5428711497224867"
+			},
+			"directories": {},
+			"publish_time": 1489191269882,
+			"_cnpm_publish_time": 1489191269882,
+			"_hasShrinkwrap": false
+		},
+		"0.1.29": {
+			"name": "@types/cookie",
+			"version": "0.1.29",
+			"description": "TypeScript definitions for cookie v0.1.2",
+			"license": "MIT",
+			"author": "Pine Mizune <https://github.com/pine613>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "fa7b91d8941128057d556f5c34a6099164cddeab2daf688e976c5177f67b9d73",
+			"_id": "@types/cookie@0.1.29",
+			"dist": {
+				"shasum": "9324680545c0c7b1dc6c258cb46f32b78475b3ac",
+				"size": 1148,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.29.tgz_1474303356457_0.10005333879962564"
+			},
+			"directories": {},
+			"publish_time": 1474303358453,
+			"_cnpm_publish_time": 1474303358453,
+			"_hasShrinkwrap": false
+		},
+		"0.1.28": {
+			"name": "@types/cookie",
+			"version": "0.1.28",
+			"description": "TypeScript definitions for cookie v0.1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cookie@0.1.28",
+			"_shasum": "6b55c0ac60cb9aad4a15c767a4c95e40a2b9a0ab",
+			"_from": "output\\cookie",
+			"_resolved": "file:output\\cookie",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6b55c0ac60cb9aad4a15c767a4c95e40a2b9a0ab",
+				"size": 1128,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.28.tgz_1468506000797_0.9701574468053877"
+			},
+			"directories": {},
+			"publish_time": 1468506002867,
+			"_cnpm_publish_time": 1468506002867,
+			"_hasShrinkwrap": false
+		},
+		"0.1.27-alpha": {
+			"name": "@types/cookie",
+			"version": "0.1.27-alpha",
+			"description": "TypeScript definitions for cookie v0.1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cookie@0.1.27-alpha",
+			"_shasum": "d09825067782920080344f0044c6e2c090585edc",
+			"_from": "output\\cookie",
+			"_resolved": "file:output\\cookie",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "d09825067782920080344f0044c6e2c090585edc",
+				"size": 1132,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.27-alpha.tgz_1468007282457_0.9443053980357945"
+			},
+			"directories": {},
+			"publish_time": 1468007285342,
+			"_cnpm_publish_time": 1468007285342,
+			"_hasShrinkwrap": false
+		},
+		"0.1.26-alpha": {
+			"name": "@types/cookie",
+			"version": "0.1.26-alpha",
+			"description": "TypeScript definitions for cookie v0.1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cookie@0.1.26-alpha",
+			"_shasum": "b645019e8768c41c5e3954862aa7e73e753b28a4",
+			"_from": "output\\cookie",
+			"_resolved": "file:output\\cookie",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b645019e8768c41c5e3954862aa7e73e753b28a4",
+				"size": 1132,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.26-alpha.tgz_1467590322247_0.08079870697110891"
+			},
+			"directories": {},
+			"publish_time": 1467590322727,
+			"_cnpm_publish_time": 1467590322727,
+			"_hasShrinkwrap": false
+		},
+		"0.1.25-alpha": {
+			"name": "@types/cookie",
+			"version": "0.1.25-alpha",
+			"description": "TypeScript definitions for cookie v0.1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cookie@0.1.25-alpha",
+			"_shasum": "b56cde1dc7e91042e56fcc7c93c7b23b4e1b2646",
+			"_from": "output\\cookie",
+			"_resolved": "file:output\\cookie",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b56cde1dc7e91042e56fcc7c93c7b23b4e1b2646",
+				"size": 1135,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.25-alpha.tgz_1467425180680_0.6589675873983651"
+			},
+			"directories": {},
+			"publish_time": 1467425184135,
+			"_cnpm_publish_time": 1467425184135,
+			"_hasShrinkwrap": false
+		},
+		"0.1.24-alpha": {
+			"name": "@types/cookie",
+			"version": "0.1.24-alpha",
+			"description": "TypeScript definitions for cookie v0.1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cookie@0.1.24-alpha",
+			"_shasum": "9884d9f96598dc605a237f156527b129d8f3d3cd",
+			"_from": "output\\cookie",
+			"_resolved": "file:output\\cookie",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9884d9f96598dc605a237f156527b129d8f3d3cd",
+				"size": 1132,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.24-alpha.tgz_1467412211166_0.3212401424534619"
+			},
+			"directories": {},
+			"publish_time": 1467412213332,
+			"_cnpm_publish_time": 1467412213332,
+			"_hasShrinkwrap": false
+		},
+		"0.1.23-alpha": {
+			"name": "@types/cookie",
+			"version": "0.1.23-alpha",
+			"description": "TypeScript definitions for cookie v0.1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cookie@0.1.23-alpha",
+			"_shasum": "a92a97a1231110a2fe1b2b04ec4ce5df34ff9e84",
+			"_from": "output\\cookie",
+			"_resolved": "file:output\\cookie",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "a92a97a1231110a2fe1b2b04ec4ce5df34ff9e84",
+				"size": 1127,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.23-alpha.tgz_1467399836076_0.21236261283047497"
+			},
+			"directories": {},
+			"publish_time": 1467399838204,
+			"_cnpm_publish_time": 1467399838204,
+			"_hasShrinkwrap": false
+		},
+		"0.1.22-alpha": {
+			"name": "@types/cookie",
+			"version": "0.1.22-alpha",
+			"description": "TypeScript definitions for cookie v0.1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cookie@0.1.22-alpha",
+			"_shasum": "5e5e19f291f681944052f7c325c8cab333f5ea90",
+			"_from": "output\\cookie",
+			"_resolved": "file:output\\cookie",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "5e5e19f291f681944052f7c325c8cab333f5ea90",
+				"size": 1106,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.22-alpha.tgz_1464151223934_0.7177680302411318"
+			},
+			"directories": {},
+			"publish_time": 1464151224463,
+			"_cnpm_publish_time": 1464151224463,
+			"_hasShrinkwrap": false
+		},
+		"0.1.21-alpha": {
+			"name": "@types/cookie",
+			"version": "0.1.21-alpha",
+			"description": "TypeScript definitions for cookie v0.1.2",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cookie@0.1.21-alpha",
+			"_shasum": "b3390051e1cf3ade9194708631da431231bec7bd",
+			"_from": "output\\cookie",
+			"_resolved": "file:output\\cookie",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b3390051e1cf3ade9194708631da431231bec7bd",
+				"size": 1100,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.21-alpha.tgz_1463772147614_0.764079240616411"
+			},
+			"directories": {},
+			"publish_time": 1463772148006,
+			"_cnpm_publish_time": 1463772148006,
+			"_hasShrinkwrap": false
+		},
+		"0.1.16-alpha": {
+			"name": "@types/cookie",
+			"version": "0.1.16-alpha",
+			"description": "Type definitions for cookie v0.1.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cookie@0.1.16-alpha",
+			"_shasum": "6fbc2636d868c3d82e678a75fc4105445ad66588",
+			"_from": "output\\cookie",
+			"_resolved": "file:output\\cookie",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "6fbc2636d868c3d82e678a75fc4105445ad66588",
+				"size": 1106,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.16-alpha.tgz_1463689991862_0.0736383618786931"
+			},
+			"directories": {},
+			"publish_time": 1463689995047,
+			"_cnpm_publish_time": 1463689995047,
+			"_hasShrinkwrap": false
+		},
+		"0.1.15-alpha": {
+			"name": "@types/cookie",
+			"version": "0.1.15-alpha",
+			"description": "Type definitions for cookie v0.1.2 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Pine Mizune",
+				"email": "https://github.com/pine613"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/cookie@0.1.15-alpha",
+			"_shasum": "cf3d0fea05c572d9c47a0c99805caf8cc9b51969",
+			"_from": "output\\cookie",
+			"_resolved": "file:output\\cookie",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "cf3d0fea05c572d9c47a0c99805caf8cc9b51969",
+				"size": 1098,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/cookie-0.1.15-alpha.tgz_1463460051094_0.29789508669637144"
+			},
+			"directories": {},
+			"publish_time": 1463460051618,
+			"_cnpm_publish_time": 1463460051618,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.3.1",
+		"ts2.0": "0.3.1",
+		"ts2.1": "0.3.1",
+		"ts2.2": "0.3.1",
+		"ts2.3": "0.3.1",
+		"ts2.4": "0.3.1",
+		"ts2.5": "0.3.1",
+		"ts2.6": "0.3.1",
+		"ts2.7": "0.3.1",
+		"ts2.8": "0.3.1",
+		"ts2.9": "0.3.1",
+		"ts3.0": "0.3.1",
+		"ts3.1": "0.3.1",
+		"ts3.2": "0.3.1"
+	},
+	"time": {
+		"modified": "2018-10-10T19:58:08.000Z",
+		"created": "2016-05-17T04:40:51.618Z",
+		"0.3.1": "2017-07-24T18:01:27.478Z",
+		"0.3.0": "2017-03-11T00:14:29.882Z",
+		"0.1.29": "2016-09-19T16:42:38.453Z",
+		"0.1.28": "2016-07-14T14:20:02.867Z",
+		"0.1.27-alpha": "2016-07-08T19:48:05.342Z",
+		"0.1.26-alpha": "2016-07-03T23:58:42.727Z",
+		"0.1.25-alpha": "2016-07-02T02:06:24.135Z",
+		"0.1.24-alpha": "2016-07-01T22:30:13.332Z",
+		"0.1.23-alpha": "2016-07-01T19:03:58.204Z",
+		"0.1.22-alpha": "2016-05-25T04:40:24.463Z",
+		"0.1.21-alpha": "2016-05-20T19:22:28.006Z",
+		"0.1.16-alpha": "2016-05-19T20:33:15.047Z",
+		"0.1.15-alpha": "2016-05-17T04:40:51.618Z"
+	},
+	"_distfiles": {
+		"cookie-0.3.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.3.1.tgz",
+			"sha": "720a756ea8e760a258708b52441bd341f1ef4296",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.3.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.3.0.tgz",
+			"sha": "c840871e6b23f814b2eb0ae6963d44ee59cf6627",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.29.tgz",
+			"sha": "9324680545c0c7b1dc6c258cb46f32b78475b3ac",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.28.tgz",
+			"sha": "6b55c0ac60cb9aad4a15c767a4c95e40a2b9a0ab",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.27-alpha.tgz",
+			"sha": "d09825067782920080344f0044c6e2c090585edc",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.26-alpha.tgz",
+			"sha": "b645019e8768c41c5e3954862aa7e73e753b28a4",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.25-alpha.tgz",
+			"sha": "b56cde1dc7e91042e56fcc7c93c7b23b4e1b2646",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.24-alpha.tgz",
+			"sha": "9884d9f96598dc605a237f156527b129d8f3d3cd",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.23-alpha.tgz",
+			"sha": "a92a97a1231110a2fe1b2b04ec4ce5df34ff9e84",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.22-alpha.tgz",
+			"sha": "5e5e19f291f681944052f7c325c8cab333f5ea90",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.21-alpha.tgz",
+			"sha": "b3390051e1cf3ade9194708631da431231bec7bd",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.16-alpha.tgz",
+			"sha": "6fbc2636d868c3d82e678a75fc4105445ad66588",
+			"registry": "cnpmjs"
+		},
+		"cookie-0.1.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cookie/download/@types/cookie-0.1.15-alpha.tgz",
+			"sha": "cf3d0fea05c572d9c47a0c99805caf8cc9b51969",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"3deb-usbjYZ4uKKySou29eTIIS61nlrE\"",
+			"fetched": 1541833453486
+		}
+	},
+	"_rev": "2-df1c65650986608c",
+	"readme": "# Installation\r\n> `npm install --save @types/cookie`\r\n\r\n# Summary\r\nThis package contains type definitions for cookie (https://github.com/jshttp/cookie).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cookie\r\n\r\nAdditional Details\r\n * Last updated: Mon, 24 Jul 2017 18:01:07 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Pine Mizune <https://github.com/pine613>."
+}

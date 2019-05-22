@@ -1,0 +1,88 @@
+{
+	"name": "@types/intl-relativeformat",
+	"versions": {
+		"2.1.0": {
+			"name": "@types/intl-relativeformat",
+			"version": "2.1.0",
+			"description": "TypeScript definitions for intl-relativeformat",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Mohsen Azimi",
+					"url": "https://github.com/mohsen1",
+					"githubUsername": "mohsen1"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "7b5daaf856c05bbb558b2090bc75479e0565747b2e982d453201a02e8ce47a77",
+			"typeScriptVersion": "2.1",
+			"_id": "@types/intl-relativeformat@2.1.0",
+			"dist": {
+				"shasum": "3a2b0043380388f39c666665ec517e11412f1358",
+				"size": 2861,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/intl-relativeformat/download/@types/intl-relativeformat-2.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/intl-relativeformat_2.1.0_1535070859582_0.22673008518080406"
+			},
+			"publish_time": 1535070859643,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1535070859643
+		}
+	},
+	"dist-tags": {
+		"latest": "2.1.0",
+		"ts2.1": "2.1.0",
+		"ts2.2": "2.1.0",
+		"ts2.3": "2.1.0",
+		"ts2.4": "2.1.0",
+		"ts2.5": "2.1.0",
+		"ts2.6": "2.1.0",
+		"ts2.7": "2.1.0",
+		"ts2.8": "2.1.0",
+		"ts2.9": "2.1.0",
+		"ts3.0": "2.1.0",
+		"ts3.1": "2.1.0",
+		"ts3.2": "2.1.0"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:56.000Z",
+		"created": "2018-08-24T00:34:19.643Z",
+		"2.1.0": "2018-08-24T00:34:19.643Z"
+	},
+	"_distfiles": {
+		"intl-relativeformat-2.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/intl-relativeformat/download/@types/intl-relativeformat-2.1.0.tgz",
+			"sha": "3a2b0043380388f39c666665ec517e11412f1358",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"etag": "\"96b-mj9eNhtpZnNI7jnF85F3otB7sFg\"",
+			"fetched": 1541835897179
+		}
+	},
+	"_rev": "1-300dae898be9432d",
+	"readme": "# Installation\r\n> `npm install --save @types/intl-relativeformat`\r\n\r\n# Summary\r\nThis package contains type definitions for intl-relativeformat (https://github.com/yahoo/intl-relativeformat).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/intl-relativeformat\r\n\r\nAdditional Details\r\n * Last updated: Fri, 24 Aug 2018 00:34:14 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Mohsen Azimi <https://github.com/mohsen1>."
+}

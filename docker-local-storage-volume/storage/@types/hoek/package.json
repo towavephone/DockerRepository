@@ -1,0 +1,241 @@
+{
+	"name": "@types/hoek",
+	"versions": {
+		"4.1.3": {
+			"name": "@types/hoek",
+			"version": "4.1.3",
+			"description": "TypeScript definitions for hoek",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Prashant Tiwari",
+					"url": "https://github.com/prashaantt"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c577dec6cd3afea07bccb2c35445665e6d3013a2cd1b16d77ca61aaefcde83c1",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/hoek@4.1.3",
+			"dist": {
+				"shasum": "d1982d48fb0d2a0e5d7e9d91838264d8e428d337",
+				"size": 3064,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hoek/download/@types/hoek-4.1.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hoek-4.1.3.tgz_1492451778834_0.7613162407651544"
+			},
+			"directories": {},
+			"publish_time": 1492451779051,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1492451779051
+		},
+		"4.1.2": {
+			"name": "@types/hoek",
+			"version": "4.1.2",
+			"description": "TypeScript definitions for hoek",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Prashant Tiwari",
+					"url": "https://github.com/prashaantt"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "70757eccf643c9f4964b64c32ef58a73a546e2c8391dfeb237f25cd3755f2d03",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/hoek@4.1.2",
+			"dist": {
+				"shasum": "0e05380e21876b5715096280dae56ed32c9a4fd7",
+				"size": 2391,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hoek/download/@types/hoek-4.1.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hoek-4.1.2.tgz_1490983600059_0.7743150212336332"
+			},
+			"directories": {},
+			"publish_time": 1490983600369,
+			"_cnpm_publish_time": 1490983600369,
+			"_hasShrinkwrap": false
+		},
+		"4.1.1": {
+			"name": "@types/hoek",
+			"version": "4.1.1",
+			"description": "TypeScript definitions for hoek",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Prashant Tiwari",
+					"url": "https://github.com/prashaantt"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "38ffd5c9e9b580ecd91532e655a0b77dc003f5dcb0e6dafd82304228df8ace42",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/hoek@4.1.1",
+			"dist": {
+				"shasum": "b7843fe63e2c1c38de1d1149f52dda08af3a2280",
+				"size": 2609,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hoek/download/@types/hoek-4.1.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/hoek-4.1.1.tgz_1487863422389_0.08703314233571291"
+			},
+			"directories": {},
+			"publish_time": 1487863422621,
+			"_cnpm_publish_time": 1487863422621,
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "@types/hoek",
+			"version": "4.1.0",
+			"description": "TypeScript definitions for hoek",
+			"license": "MIT",
+			"author": "Prashant Tiwari <https://github.com/prashaantt>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "0be4b84ddf1961e7978f2780893903836af74d556435fe1dbe03f89520476d56",
+			"_id": "@types/hoek@4.1.0",
+			"dist": {
+				"shasum": "0f5111f8c8cf202fd5073ac703ecc869bb482bf3",
+				"size": 2591,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/hoek/download/@types/hoek-4.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/hoek-4.1.0.tgz_1480532942710_0.8822441068477929"
+			},
+			"directories": {},
+			"publish_time": 1480532944817,
+			"_cnpm_publish_time": 1480532944817,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "4.1.3",
+		"ts2.0": "4.1.3",
+		"ts2.1": "4.1.3",
+		"ts2.2": "4.1.3",
+		"ts2.3": "4.1.3",
+		"ts2.4": "4.1.3",
+		"ts2.5": "4.1.3",
+		"ts2.6": "4.1.3",
+		"ts2.7": "4.1.3",
+		"ts2.8": "4.1.3",
+		"ts2.9": "4.1.3",
+		"ts3.0": "4.1.3",
+		"ts3.1": "4.1.3",
+		"ts3.2": "4.1.3"
+	},
+	"time": {
+		"modified": "2018-10-10T20:13:36.000Z",
+		"created": "2016-11-30T19:09:04.817Z",
+		"4.1.3": "2017-04-17T17:56:19.051Z",
+		"4.1.2": "2017-03-31T18:06:40.369Z",
+		"4.1.1": "2017-02-23T15:23:42.621Z",
+		"4.1.0": "2016-11-30T19:09:04.817Z"
+	},
+	"_distfiles": {
+		"hoek-4.1.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hoek/download/@types/hoek-4.1.3.tgz",
+			"sha": "d1982d48fb0d2a0e5d7e9d91838264d8e428d337",
+			"registry": "cnpmjs"
+		},
+		"hoek-4.1.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hoek/download/@types/hoek-4.1.2.tgz",
+			"sha": "0e05380e21876b5715096280dae56ed32c9a4fd7",
+			"registry": "cnpmjs"
+		},
+		"hoek-4.1.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hoek/download/@types/hoek-4.1.1.tgz",
+			"sha": "b7843fe63e2c1c38de1d1149f52dda08af3a2280",
+			"registry": "cnpmjs"
+		},
+		"hoek-4.1.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/hoek/download/@types/hoek-4.1.0.tgz",
+			"sha": "0f5111f8c8cf202fd5073ac703ecc869bb482bf3",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833456494
+		}
+	},
+	"_rev": "2-5f46955b2e444d7e",
+	"readme": "# Installation\r\n> `npm install --save @types/hoek`\r\n\r\n# Summary\r\nThis package contains type definitions for hoek (https://github.com/hapijs/hoek).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/hoek\r\n\r\nAdditional Details\r\n * Last updated: Mon, 17 Apr 2017 17:55:17 GMT\r\n * Dependencies: none\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by Prashant Tiwari <https://github.com/prashaantt>."
+}

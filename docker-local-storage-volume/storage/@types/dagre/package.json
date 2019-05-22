@@ -1,0 +1,1221 @@
+{
+	"name": "@types/dagre",
+	"versions": {
+		"0.7.40": {
+			"name": "@types/dagre",
+			"version": "0.7.40",
+			"description": "TypeScript definitions for dagre",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qinfeng Chen",
+					"url": "https://github.com/qinfchen",
+					"githubUsername": "qinfchen"
+				},
+				{
+					"name": "Lisa Vallfors",
+					"url": "https://github.com/Frankrike",
+					"githubUsername": "Frankrike"
+				},
+				{
+					"name": "Pete Vilter",
+					"url": "https://github.com/vilterp",
+					"githubUsername": "vilterp"
+				},
+				{
+					"name": "David Newell",
+					"url": "https://github.com/rustedgrail",
+					"githubUsername": "rustedgrail"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "93168b91b1b46a4197a0a37c52cf02f3c5a3f9964cef7f7c3a407672aa374a14",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/dagre@0.7.40",
+			"dist": {
+				"shasum": "7112c8bb912d131482825dc9cc2a522073efbe05",
+				"size": 2535,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.40.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/dagre_0.7.40_1522780628930_0.9528529516967925"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1522780629084,
+			"_cnpm_publish_time": 1522780629084
+		},
+		"0.7.39": {
+			"name": "@types/dagre",
+			"version": "0.7.39",
+			"description": "TypeScript definitions for dagre",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qinfeng Chen",
+					"url": "https://github.com/qinfchen",
+					"githubUsername": "qinfchen"
+				},
+				{
+					"name": "Lisa Vallfors",
+					"url": "https://github.com/Frankrike",
+					"githubUsername": "Frankrike"
+				},
+				{
+					"name": "Pete Vilter",
+					"url": "https://github.com/vilterp",
+					"githubUsername": "vilterp"
+				},
+				{
+					"name": "David Newell",
+					"url": "https://github.com/rustedgrail",
+					"githubUsername": "rustedgrail"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "2b5c6b81f1586b23bbe4210811612925bb9ae5d9128541052bbaad1a54385da1",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/dagre@0.7.39",
+			"dist": {
+				"shasum": "2bffeb091937d95183a505b81b8b5c098949a338",
+				"size": 2539,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.39.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/dagre-0.7.39.tgz_1511370597009_0.5261387794744223"
+			},
+			"directories": {},
+			"publish_time": 1511370598561,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1511370598561
+		},
+		"0.7.38": {
+			"name": "@types/dagre",
+			"version": "0.7.38",
+			"description": "TypeScript definitions for dagre",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qinfeng Chen",
+					"url": "https://github.com/qinfchen",
+					"githubUsername": "qinfchen"
+				},
+				{
+					"name": "Lisa Vallfors",
+					"url": "https://github.com/Frankrike",
+					"githubUsername": "Frankrike"
+				},
+				{
+					"name": "Pete Vilter",
+					"url": "https://github.com/vilterp",
+					"githubUsername": "vilterp"
+				},
+				{
+					"name": "David Newell",
+					"url": "https://github.com/rustedgrail",
+					"githubUsername": "rustedgrail"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "061fb0ba692792e9aa5127175106938040ded2a450afc92e4f211f7b2cf63aee",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/dagre@0.7.38",
+			"dist": {
+				"shasum": "ac8716c36fa72d7f7089b04fdd22124700c2c4ad",
+				"size": 2528,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.38.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/dagre-0.7.38.tgz_1510788576356_0.856607731198892"
+			},
+			"directories": {},
+			"publish_time": 1510788576427,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1510788576427
+		},
+		"0.7.37": {
+			"name": "@types/dagre",
+			"version": "0.7.37",
+			"description": "TypeScript definitions for dagre",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qinfeng Chen",
+					"url": "https://github.com/qinfchen",
+					"githubUsername": "qinfchen"
+				},
+				{
+					"name": "Lisa Vallfors",
+					"url": "https://github.com/Frankrike",
+					"githubUsername": "Frankrike"
+				},
+				{
+					"name": "Pete Vilter",
+					"url": "https://github.com/vilterp",
+					"githubUsername": "vilterp"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d288dd2d4c8d92e061d51e1336a97b299b94532809a9f4a4b2f8f45cf3083972",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/dagre@0.7.37",
+			"dist": {
+				"shasum": "f622340768f04ff3ae5612e81081ab2d4fbb9314",
+				"size": 1979,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.37.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/dagre-0.7.37.tgz_1506466889223_0.3301178617402911"
+			},
+			"directories": {},
+			"publish_time": 1506466889295,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1506466889295
+		},
+		"0.7.36": {
+			"name": "@types/dagre",
+			"version": "0.7.36",
+			"description": "TypeScript definitions for dagre",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qinfeng Chen",
+					"url": "https://github.com/qinfchen"
+				},
+				{
+					"name": "Lisa Vallfors",
+					"url": "https://github.com/Frankrike"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "d8f7526a63b7597eb78c595de3a005aff7f36696af12eecfb540fda69096bb35",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/dagre@0.7.36",
+			"dist": {
+				"shasum": "a1ebaf108ed5861801a0946922a3587a16f5e220",
+				"size": 1904,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.36.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/dagre-0.7.36.tgz_1503677134083_0.12657638755626976"
+			},
+			"directories": {},
+			"publish_time": 1503677134903,
+			"_cnpm_publish_time": 1503677134903,
+			"_hasShrinkwrap": false
+		},
+		"0.7.35": {
+			"name": "@types/dagre",
+			"version": "0.7.35",
+			"description": "TypeScript definitions for dagre",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qinfeng Chen",
+					"url": "https://github.com/qinfchen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "c3b5b886c300f2a763d51a534e9b99c6e7b53ca443fdbb252eee78504482c534",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/dagre@0.7.35",
+			"dist": {
+				"shasum": "d14e54a8c3b179db477d460deaf4bbf0501983e0",
+				"size": 1833,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.35.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/dagre-0.7.35.tgz_1500925784690_0.445739139104262"
+			},
+			"directories": {},
+			"publish_time": 1500925784830,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1500925784830
+		},
+		"0.7.34": {
+			"name": "@types/dagre",
+			"version": "0.7.34",
+			"description": "TypeScript definitions for dagre",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "Qinfeng Chen",
+					"url": "https://github.com/qinfchen"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "61308707748a5484a34df64ff4802ba4a6d2d53711bbdea4ddc69ad2bcd2908e",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/dagre@0.7.34",
+			"dist": {
+				"shasum": "69becfabbd59d277cae8237bdc7fb887571bc500",
+				"size": 1650,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.34.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.34.tgz_1492451730869_0.6657504294998944"
+			},
+			"directories": {},
+			"publish_time": 1492451732664,
+			"_cnpm_publish_time": 1492451732664,
+			"_hasShrinkwrap": false
+		},
+		"0.7.33": {
+			"name": "@types/dagre",
+			"version": "0.7.33",
+			"description": "TypeScript definitions for dagre",
+			"license": "MIT",
+			"author": "Qinfeng Chen <https://github.com/qinfchen>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"peerDependencies": {},
+			"typesPublisherContentHash": "2b801262ca42850a9e12e576c470baea8d249ae4137064df7ca9e408dc537674",
+			"typeScriptVersion": "2.0",
+			"_id": "@types/dagre@0.7.33",
+			"dist": {
+				"shasum": "e399809462f47c0f66d9832429518550e1da37a8",
+				"size": 1149,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.33.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.33.tgz_1484837228365_0.6899144810158759"
+			},
+			"directories": {},
+			"publish_time": 1484837228592,
+			"_cnpm_publish_time": 1484837228592,
+			"_hasShrinkwrap": false
+		},
+		"0.7.32": {
+			"name": "@types/dagre",
+			"version": "0.7.32",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"license": "MIT",
+			"author": "Qinfeng Chen <https://github.com/qinfchen>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "a9a48c932244cd6475f7161f56e12d867aefac1596f3ebc338f186f0e6545301",
+			"_id": "@types/dagre@0.7.32",
+			"dist": {
+				"shasum": "cd0ca08dc8226070992048223083720e9b45afbb",
+				"size": 1207,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.32.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.32.tgz_1474303407561_0.3493417063727975"
+			},
+			"directories": {},
+			"publish_time": 1474303409454,
+			"_cnpm_publish_time": 1474303409454,
+			"_hasShrinkwrap": false
+		},
+		"0.7.31": {
+			"name": "@types/dagre",
+			"version": "0.7.31",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"license": "MIT",
+			"author": "Qinfeng Chen <https://github.com/qinfchen>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/dagre@0.7.31",
+			"dist": {
+				"shasum": "feb13da5f6cf469561c3cfbc5287147d3bf29eb0",
+				"size": 1199,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.31.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.31.tgz_1472150377598_0.18608745955862105"
+			},
+			"directories": {},
+			"publish_time": 1472150378211,
+			"_cnpm_publish_time": 1472150378211,
+			"_hasShrinkwrap": false
+		},
+		"0.7.30": {
+			"name": "@types/dagre",
+			"version": "0.7.30",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"license": "MIT",
+			"author": "Qinfeng Chen <https://github.com/qinfchen>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/dagre@0.7.30",
+			"dist": {
+				"shasum": "e2b27d395df1aaaea46bb0ba718885065aecf6f4",
+				"size": 1199,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.30.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.30.tgz_1471620207305_0.6105248648673296"
+			},
+			"directories": {},
+			"publish_time": 1471620209074,
+			"_cnpm_publish_time": 1471620209074,
+			"_hasShrinkwrap": false
+		},
+		"0.7.29": {
+			"name": "@types/dagre",
+			"version": "0.7.29",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"license": "MIT",
+			"author": "Qinfeng Chen <https://github.com/qinfchen>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"_id": "@types/dagre@0.7.29",
+			"dist": {
+				"shasum": "b5a42b79fd17d5b7da656e1e47de5625098a13e2",
+				"size": 6656,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.29.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.29.tgz_1470153033853_0.5799671004060656"
+			},
+			"directories": {},
+			"publish_time": 1470153034831,
+			"_cnpm_publish_time": 1470153034831,
+			"_hasShrinkwrap": false
+		},
+		"0.7.28": {
+			"name": "@types/dagre",
+			"version": "0.7.28",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qinfeng Chen",
+				"email": "https://github.com/qinfchen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/dagre@0.7.28",
+			"_shasum": "b9a48abd1064941f03550b8c2be765933dbd6b49",
+			"_from": "output\\dagre",
+			"_resolved": "file:output\\dagre",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "b9a48abd1064941f03550b8c2be765933dbd6b49",
+				"size": 1187,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.28.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.28.tgz_1468506200693_0.9950280105695128"
+			},
+			"directories": {},
+			"publish_time": 1468506204036,
+			"_cnpm_publish_time": 1468506204036,
+			"_hasShrinkwrap": false
+		},
+		"0.7.27-alpha": {
+			"name": "@types/dagre",
+			"version": "0.7.27-alpha",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qinfeng Chen",
+				"email": "https://github.com/qinfchen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/dagre@0.7.27-alpha",
+			"_shasum": "0e72e999973f6f9048326d317bd254a5c4ceb248",
+			"_from": "output\\dagre",
+			"_resolved": "file:output\\dagre",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "0e72e999973f6f9048326d317bd254a5c4ceb248",
+				"size": 1190,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.27-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.27-alpha.tgz_1468007654167_0.5363827159162611"
+			},
+			"directories": {},
+			"publish_time": 1468007655621,
+			"_cnpm_publish_time": 1468007655621,
+			"_hasShrinkwrap": false
+		},
+		"0.7.26-alpha": {
+			"name": "@types/dagre",
+			"version": "0.7.26-alpha",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qinfeng Chen",
+				"email": "https://github.com/qinfchen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/dagre@0.7.26-alpha",
+			"_shasum": "002aa07a0fe1d5ae96b7a09a97c6b3019692394c",
+			"_from": "output\\dagre",
+			"_resolved": "file:output\\dagre",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "002aa07a0fe1d5ae96b7a09a97c6b3019692394c",
+				"size": 1190,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.26-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.26-alpha.tgz_1467590496619_0.3025651581119746"
+			},
+			"directories": {},
+			"publish_time": 1467590497107,
+			"_cnpm_publish_time": 1467590497107,
+			"_hasShrinkwrap": false
+		},
+		"0.7.25-alpha": {
+			"name": "@types/dagre",
+			"version": "0.7.25-alpha",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qinfeng Chen",
+				"email": "https://github.com/qinfchen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/dagre@0.7.25-alpha",
+			"_shasum": "7c4cc4d6ab7ce041a2918b8837170dd8f0b1584e",
+			"_from": "output\\dagre",
+			"_resolved": "file:output\\dagre",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "7c4cc4d6ab7ce041a2918b8837170dd8f0b1584e",
+				"size": 1195,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.25-alpha.tgz_1467425853721_0.06618394516408443"
+			},
+			"directories": {},
+			"publish_time": 1467425857291,
+			"_cnpm_publish_time": 1467425857291,
+			"_hasShrinkwrap": false
+		},
+		"0.7.24-alpha": {
+			"name": "@types/dagre",
+			"version": "0.7.24-alpha",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qinfeng Chen",
+				"email": "https://github.com/qinfchen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/dagre@0.7.24-alpha",
+			"_shasum": "22174c5395748d7462be797770706dee45b0db95",
+			"_from": "output\\dagre",
+			"_resolved": "file:output\\dagre",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "22174c5395748d7462be797770706dee45b0db95",
+				"size": 1189,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.24-alpha.tgz_1467412250231_0.37326747877523303"
+			},
+			"directories": {},
+			"publish_time": 1467412253935,
+			"_cnpm_publish_time": 1467412253935,
+			"_hasShrinkwrap": false
+		},
+		"0.7.23-alpha": {
+			"name": "@types/dagre",
+			"version": "0.7.23-alpha",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qinfeng Chen",
+				"email": "https://github.com/qinfchen"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/dagre@0.7.23-alpha",
+			"_shasum": "2c4d30ce7f6e02c0716e6c5ae5ebd8e58074a027",
+			"_from": "output\\dagre",
+			"_resolved": "file:output\\dagre",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "2c4d30ce7f6e02c0716e6c5ae5ebd8e58074a027",
+				"size": 1184,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.23-alpha.tgz_1467400238764_0.07317497674375772"
+			},
+			"directories": {},
+			"publish_time": 1467400240786,
+			"_cnpm_publish_time": 1467400240786,
+			"_hasShrinkwrap": false
+		},
+		"0.7.22-alpha": {
+			"name": "@types/dagre",
+			"version": "0.7.22-alpha",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qinfeng Chen",
+				"email": "https://github.com/qinfchen"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/dagre@0.7.22-alpha",
+			"_shasum": "8ac69599c52bb53b1c0572e4f35c19f84076fc5e",
+			"_from": "output\\dagre",
+			"_resolved": "file:output\\dagre",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "8ac69599c52bb53b1c0572e4f35c19f84076fc5e",
+				"size": 1158,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.22-alpha.tgz_1464151416584_0.24848033813759685"
+			},
+			"directories": {},
+			"publish_time": 1464151419167,
+			"_cnpm_publish_time": 1464151419167,
+			"_hasShrinkwrap": false
+		},
+		"0.7.21-alpha": {
+			"name": "@types/dagre",
+			"version": "0.7.21-alpha",
+			"description": "TypeScript definitions for dagre 0.7.0",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qinfeng Chen",
+				"email": "https://github.com/qinfchen"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/dagre@0.7.21-alpha",
+			"_shasum": "48110c2fa3c6c7fe12e1a7968d4999600d2071d4",
+			"_from": "output\\dagre",
+			"_resolved": "file:output\\dagre",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "48110c2fa3c6c7fe12e1a7968d4999600d2071d4",
+				"size": 1154,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.21-alpha.tgz_1463772319702_0.667860506568104"
+			},
+			"directories": {},
+			"publish_time": 1463772321895,
+			"_cnpm_publish_time": 1463772321895,
+			"_hasShrinkwrap": false
+		},
+		"0.7.16-alpha": {
+			"name": "@types/dagre",
+			"version": "0.7.16-alpha",
+			"description": "Type definitions for dagre 0.7.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qinfeng Chen",
+				"email": "https://github.com/qinfchen"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/dagre@0.7.16-alpha",
+			"_shasum": "810fb66da0cdb4043a7adb6306bb282b93f8c2bd",
+			"_from": "output\\dagre",
+			"_resolved": "file:output\\dagre",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "810fb66da0cdb4043a7adb6306bb282b93f8c2bd",
+				"size": 1161,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.16-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.16-alpha.tgz_1463690255031_0.10919890133664012"
+			},
+			"directories": {},
+			"publish_time": 1463690258917,
+			"_cnpm_publish_time": 1463690258917,
+			"_hasShrinkwrap": false
+		},
+		"0.7.15-alpha": {
+			"name": "@types/dagre",
+			"version": "0.7.15-alpha",
+			"description": "Type definitions for dagre 0.7.0 from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Qinfeng Chen",
+				"email": "https://github.com/qinfchen"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/dagre@0.7.15-alpha",
+			"_shasum": "9973d430418692abcab68ba0a28dc2604ebb2be4",
+			"_from": "output\\dagre",
+			"_resolved": "file:output\\dagre",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "9973d430418692abcab68ba0a28dc2604ebb2be4",
+				"size": 1151,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.15-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/dagre-0.7.15-alpha.tgz_1463460253832_0.24133076472207904"
+			},
+			"directories": {},
+			"publish_time": 1463460254462,
+			"_cnpm_publish_time": 1463460254462,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.7.40",
+		"ts2.0": "0.7.36",
+		"ts2.1": "0.7.36",
+		"ts2.2": "0.7.40",
+		"ts2.3": "0.7.40",
+		"ts2.4": "0.7.40",
+		"ts2.5": "0.7.40",
+		"ts2.6": "0.7.40",
+		"ts2.7": "0.7.40",
+		"ts2.8": "0.7.40",
+		"ts2.9": "0.7.40",
+		"ts3.0": "0.7.40",
+		"ts3.1": "0.7.40",
+		"ts3.2": "0.7.40"
+	},
+	"time": {
+		"modified": "2018-10-10T20:09:13.000Z",
+		"created": "2016-05-17T04:44:14.462Z",
+		"0.7.40": "2018-04-03T18:37:09.084Z",
+		"0.7.39": "2017-11-22T17:09:58.561Z",
+		"0.7.38": "2017-11-15T23:29:36.427Z",
+		"0.7.37": "2017-09-26T23:01:29.295Z",
+		"0.7.36": "2017-08-25T16:05:34.903Z",
+		"0.7.35": "2017-07-24T19:49:44.830Z",
+		"0.7.34": "2017-04-17T17:55:32.664Z",
+		"0.7.33": "2017-01-19T14:47:08.592Z",
+		"0.7.32": "2016-09-19T16:43:29.454Z",
+		"0.7.31": "2016-08-25T18:39:38.211Z",
+		"0.7.30": "2016-08-19T15:23:29.074Z",
+		"0.7.29": "2016-08-02T15:50:34.831Z",
+		"0.7.28": "2016-07-14T14:23:24.036Z",
+		"0.7.27-alpha": "2016-07-08T19:54:15.621Z",
+		"0.7.26-alpha": "2016-07-04T00:01:37.107Z",
+		"0.7.25-alpha": "2016-07-02T02:17:37.291Z",
+		"0.7.24-alpha": "2016-07-01T22:30:53.935Z",
+		"0.7.23-alpha": "2016-07-01T19:10:40.786Z",
+		"0.7.22-alpha": "2016-05-25T04:43:39.167Z",
+		"0.7.21-alpha": "2016-05-20T19:25:21.895Z",
+		"0.7.16-alpha": "2016-05-19T20:37:38.917Z",
+		"0.7.15-alpha": "2016-05-17T04:44:14.462Z"
+	},
+	"_distfiles": {
+		"dagre-0.7.40.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.40.tgz",
+			"sha": "7112c8bb912d131482825dc9cc2a522073efbe05",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.39.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.39.tgz",
+			"sha": "2bffeb091937d95183a505b81b8b5c098949a338",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.38.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.38.tgz",
+			"sha": "ac8716c36fa72d7f7089b04fdd22124700c2c4ad",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.37.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.37.tgz",
+			"sha": "f622340768f04ff3ae5612e81081ab2d4fbb9314",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.36.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.36.tgz",
+			"sha": "a1ebaf108ed5861801a0946922a3587a16f5e220",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.35.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.35.tgz",
+			"sha": "d14e54a8c3b179db477d460deaf4bbf0501983e0",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.34.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.34.tgz",
+			"sha": "69becfabbd59d277cae8237bdc7fb887571bc500",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.33.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.33.tgz",
+			"sha": "e399809462f47c0f66d9832429518550e1da37a8",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.32.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.32.tgz",
+			"sha": "cd0ca08dc8226070992048223083720e9b45afbb",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.31.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.31.tgz",
+			"sha": "feb13da5f6cf469561c3cfbc5287147d3bf29eb0",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.30.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.30.tgz",
+			"sha": "e2b27d395df1aaaea46bb0ba718885065aecf6f4",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.29.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.29.tgz",
+			"sha": "b5a42b79fd17d5b7da656e1e47de5625098a13e2",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.28.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.28.tgz",
+			"sha": "b9a48abd1064941f03550b8c2be765933dbd6b49",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.27-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.27-alpha.tgz",
+			"sha": "0e72e999973f6f9048326d317bd254a5c4ceb248",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.26-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.26-alpha.tgz",
+			"sha": "002aa07a0fe1d5ae96b7a09a97c6b3019692394c",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.25-alpha.tgz",
+			"sha": "7c4cc4d6ab7ce041a2918b8837170dd8f0b1584e",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.24-alpha.tgz",
+			"sha": "22174c5395748d7462be797770706dee45b0db95",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.23-alpha.tgz",
+			"sha": "2c4d30ce7f6e02c0716e6c5ae5ebd8e58074a027",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.22-alpha.tgz",
+			"sha": "8ac69599c52bb53b1c0572e4f35c19f84076fc5e",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.21-alpha.tgz",
+			"sha": "48110c2fa3c6c7fe12e1a7968d4999600d2071d4",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.16-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.16-alpha.tgz",
+			"sha": "810fb66da0cdb4043a7adb6306bb282b93f8c2bd",
+			"registry": "cnpmjs"
+		},
+		"dagre-0.7.15-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/dagre/download/@types/dagre-0.7.15-alpha.tgz",
+			"sha": "9973d430418692abcab68ba0a28dc2604ebb2be4",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833454177
+		}
+	},
+	"_rev": "1-f516db988b213bfe",
+	"readme": "# Installation\r\n> `npm install --save @types/dagre`\r\n\r\n# Summary\r\nThis package contains type definitions for dagre (https://github.com/cpettitt/dagre).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/dagre\r\n\r\nAdditional Details\r\n * Last updated: Tue, 03 Apr 2018 18:36:17 GMT\r\n * Dependencies: none\r\n * Global values: dagre\r\n\r\n# Credits\r\nThese definitions were written by Qinfeng Chen <https://github.com/qinfchen>, Lisa Vallfors <https://github.com/Frankrike>, Pete Vilter <https://github.com/vilterp>, David Newell <https://github.com/rustedgrail>."
+}

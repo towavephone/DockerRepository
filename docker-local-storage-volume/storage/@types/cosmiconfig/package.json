@@ -1,0 +1,399 @@
+{
+	"name": "@types/cosmiconfig",
+	"versions": {
+		"5.0.1": {
+			"name": "@types/cosmiconfig",
+			"version": "5.0.1",
+			"description": "TypeScript definitions for cosmiconfig",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "ozum",
+					"url": "https://github.com/ozum",
+					"githubUsername": "ozum"
+				},
+				{
+					"name": "szeck87",
+					"url": "https://github.com/szeck87",
+					"githubUsername": "szeck87"
+				},
+				{
+					"name": "saadq",
+					"url": "https://github.com/saadq",
+					"githubUsername": "saadq"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "4a8d8174bc7fff48be2a28b8ea1fb7bdcf6b2ebe6afccb3bdee078f70e6d4341",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/cosmiconfig@5.0.1",
+			"dist": {
+				"shasum": "3d9741a411e8a25ff42e193bf4062460b3f2f3e8",
+				"size": 1976,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-5.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cosmiconfig_5.0.1_1526335267143_0.08363415896749538"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526335267251,
+			"_cnpm_publish_time": 1526335267251
+		},
+		"4.0.1": {
+			"name": "@types/cosmiconfig",
+			"version": "4.0.1",
+			"description": "TypeScript definitions for cosmiconfig",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "ozum",
+					"url": "https://github.com/ozum",
+					"githubUsername": "ozum"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "b3312e9122ad6f32eefb52b2fbb1c0a1ee33c15cd6d6be0022eed0a2301ed997",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/cosmiconfig@4.0.1",
+			"dist": {
+				"shasum": "0e435beb6a24cc8b381fc44ede9f1d390bb804df",
+				"size": 1921,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-4.0.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cosmiconfig_4.0.1_1526072826011_0.8239244667589622"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526072826136,
+			"_cnpm_publish_time": 1526072826136
+		},
+		"5.0.0": {
+			"name": "@types/cosmiconfig",
+			"version": "5.0.0",
+			"description": "TypeScript definitions for cosmiconfig",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "ozum",
+					"url": "https://github.com/ozum",
+					"githubUsername": "ozum"
+				},
+				{
+					"name": "szeck87",
+					"url": "https://github.com/szeck87",
+					"githubUsername": "szeck87"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "2ba3c17e4596955de40c28f32c197b37d36f9766842c9e8deddc0ed57b3811f8",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/cosmiconfig@5.0.0",
+			"dist": {
+				"shasum": "771610696c3a4fd18d9bc6dba19ba68a9fbb9aa3",
+				"size": 1949,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-5.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cosmiconfig_5.0.0_1526072819176_0.33685080652889"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1526072819275,
+			"_cnpm_publish_time": 1526072819275
+		},
+		"4.0.0": {
+			"name": "@types/cosmiconfig",
+			"version": "4.0.0",
+			"description": "TypeScript definitions for cosmiconfig",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "ozum",
+					"url": "https://github.com/ozum",
+					"githubUsername": "ozum"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typesPublisherContentHash": "e7389114b49354b4f5597a57d4eb1209f2e149b91a0a759aa24663e2d3eab446",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/cosmiconfig@4.0.0",
+			"dist": {
+				"shasum": "0bfa24fc423932fb1530bf605c50e192d259104e",
+				"size": 1917,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-4.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cosmiconfig_4.0.0_1521845508560_0.32362948046127427"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1521845508615,
+			"_cnpm_publish_time": 1521845508615
+		},
+		"5.0.3": {
+			"name": "@types/cosmiconfig",
+			"version": "5.0.3",
+			"description": "TypeScript definitions for cosmiconfig",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "ozum",
+					"url": "https://github.com/ozum",
+					"githubUsername": "ozum"
+				},
+				{
+					"name": "szeck87",
+					"url": "https://github.com/szeck87",
+					"githubUsername": "szeck87"
+				},
+				{
+					"name": "saadq",
+					"url": "https://github.com/saadq",
+					"githubUsername": "saadq"
+				},
+				{
+					"name": "jinwoo",
+					"url": "https://github.com/jinwoo",
+					"githubUsername": "jinwoo"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "3b4ca34e94861509f9b1e514e7e0d44bdeedecbdc16bf54384d02822fb5de145",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/cosmiconfig@5.0.3",
+			"dist": {
+				"shasum": "880644bb155d4038d3b752159684b777b0a159dd",
+				"size": 2024,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-5.0.3.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cosmiconfig_5.0.3_1529362071163_0.28727580931191965"
+			},
+			"_hasShrinkwrap": false,
+			"publish_time": 1529362071215,
+			"_cnpm_publish_time": 1529362071215
+		},
+		"5.0.2": {
+			"name": "@types/cosmiconfig",
+			"version": "5.0.2",
+			"description": "TypeScript definitions for cosmiconfig",
+			"license": "MIT",
+			"contributors": [
+				{
+					"name": "ozum",
+					"url": "https://github.com/ozum",
+					"githubUsername": "ozum"
+				},
+				{
+					"name": "szeck87",
+					"url": "https://github.com/szeck87",
+					"githubUsername": "szeck87"
+				},
+				{
+					"name": "saadq",
+					"url": "https://github.com/saadq",
+					"githubUsername": "saadq"
+				}
+			],
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {
+				"@types/node": "*"
+			},
+			"typesPublisherContentHash": "14d5bac2f1aa0254fb48874225696f02d461cca8af36ef29b8918cbb98578a39",
+			"typeScriptVersion": "2.2",
+			"_id": "@types/cosmiconfig@5.0.2",
+			"dist": {
+				"shasum": "84f8374b75c656d150e3f804b537aeca1b5eed80",
+				"size": 1975,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-5.0.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/cosmiconfig_5.0.2_1528774685457_0.0989740763089828"
+			},
+			"publish_time": 1528774686570,
+			"_hasShrinkwrap": false,
+			"_cnpm_publish_time": 1528774686570
+		}
+	},
+	"dist-tags": {
+		"latest": "5.0.3",
+		"ts2.2": "5.0.3",
+		"ts2.3": "5.0.3",
+		"ts2.4": "5.0.3",
+		"ts2.5": "5.0.3",
+		"ts2.6": "5.0.3",
+		"ts2.7": "5.0.3",
+		"ts2.8": "5.0.3",
+		"ts2.9": "5.0.3",
+		"ts3.0": "5.0.3",
+		"ts3.1": "5.0.3",
+		"ts3.2": "5.0.3"
+	},
+	"time": {
+		"modified": "2018-10-10T20:05:26.000Z",
+		"created": "2018-03-23T22:51:48.615Z",
+		"5.0.3": "2018-06-18T22:47:51.215Z",
+		"5.0.2": "2018-06-12T03:38:06.570Z",
+		"5.0.1": "2018-05-14T22:01:07.251Z",
+		"4.0.1": "2018-05-11T21:07:06.136Z",
+		"5.0.0": "2018-05-11T21:06:59.275Z",
+		"4.0.0": "2018-03-23T22:51:48.615Z"
+	},
+	"_distfiles": {
+		"cosmiconfig-5.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-5.0.1.tgz",
+			"sha": "3d9741a411e8a25ff42e193bf4062460b3f2f3e8",
+			"registry": "cnpmjs"
+		},
+		"cosmiconfig-4.0.1.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-4.0.1.tgz",
+			"sha": "0e435beb6a24cc8b381fc44ede9f1d390bb804df",
+			"registry": "cnpmjs"
+		},
+		"cosmiconfig-5.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-5.0.0.tgz",
+			"sha": "771610696c3a4fd18d9bc6dba19ba68a9fbb9aa3",
+			"registry": "cnpmjs"
+		},
+		"cosmiconfig-4.0.0.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-4.0.0.tgz",
+			"sha": "0bfa24fc423932fb1530bf605c50e192d259104e",
+			"registry": "cnpmjs"
+		},
+		"cosmiconfig-5.0.3.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-5.0.3.tgz",
+			"sha": "880644bb155d4038d3b752159684b777b0a159dd",
+			"registry": "cnpmjs"
+		},
+		"cosmiconfig-5.0.2.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/cosmiconfig/download/@types/cosmiconfig-5.0.2.tgz",
+			"sha": "84f8374b75c656d150e3f804b537aeca1b5eed80",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833453521
+		}
+	},
+	"_rev": "2-e14103e39cfa7ac4",
+	"readme": "# Installation\r\n> `npm install --save @types/cosmiconfig`\r\n\r\n# Summary\r\nThis package contains type definitions for cosmiconfig (https://github.com/davidtheclark/cosmiconfig).\r\n\r\n# Details\r\nFiles were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cosmiconfig\r\n\r\nAdditional Details\r\n * Last updated: Mon, 18 Jun 2018 22:47:04 GMT\r\n * Dependencies: node\r\n * Global values: none\r\n\r\n# Credits\r\nThese definitions were written by ozum <https://github.com/ozum>, szeck87 <https://github.com/szeck87>, saadq <https://github.com/saadq>, jinwoo <https://github.com/jinwoo>."
+}

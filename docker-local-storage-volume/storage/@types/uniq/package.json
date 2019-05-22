@@ -1,0 +1,606 @@
+{
+	"name": "@types/uniq",
+	"versions": {
+		"0.0.27": {
+			"name": "@types/uniq",
+			"version": "0.0.27",
+			"description": "TypeScript definitions for uniq",
+			"license": "MIT",
+			"author": "Hans Windhoff <https://github.com/hansrwindhoff>",
+			"main": "",
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"typings": "index.d.ts",
+			"typesPublisherContentHash": "c55d96713bc1b72e38aeca8fcaa0a93082b6be2d7b1251d7f31c227db2b2035e",
+			"_id": "@types/uniq@0.0.27",
+			"dist": {
+				"shasum": "b1060a7256f13d8dc82c9591e5732a6245912ea2",
+				"size": 1004,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.27.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.27.tgz_1474309025068_0.7636866881512105"
+			},
+			"directories": {},
+			"publish_time": 1474309025317,
+			"_cnpm_publish_time": 1474309025317,
+			"_hasShrinkwrap": false
+		},
+		"0.0.26": {
+			"name": "@types/uniq",
+			"version": "0.0.26",
+			"description": "TypeScript definitions for uniq",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uniq@0.0.26",
+			"_shasum": "942afeb887a72eb36ffeabffeb2c60a1245039f1",
+			"_from": "output\\uniq",
+			"_resolved": "file:output\\uniq",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ts-npm-types@microsoft.com"
+			},
+			"dist": {
+				"shasum": "942afeb887a72eb36ffeabffeb2c60a1245039f1",
+				"size": 987,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.26.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.26.tgz_1468513072171_0.19947542226873338"
+			},
+			"directories": {},
+			"publish_time": 1468513074816,
+			"_cnpm_publish_time": 1468513074816,
+			"_hasShrinkwrap": false
+		},
+		"0.0.25-alpha": {
+			"name": "@types/uniq",
+			"version": "0.0.25-alpha",
+			"description": "TypeScript definitions for uniq",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uniq@0.0.25-alpha",
+			"_shasum": "3e3b784e23439bc9a68d321a516ac9d23d646ad3",
+			"_from": "output\\uniq",
+			"_resolved": "file:output\\uniq",
+			"_npmVersion": "3.10.3",
+			"_nodeVersion": "6.3.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3e3b784e23439bc9a68d321a516ac9d23d646ad3",
+				"size": 991,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.25-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.25-alpha.tgz_1468013966703_0.9956036310177296"
+			},
+			"directories": {},
+			"publish_time": 1468013968949,
+			"_cnpm_publish_time": 1468013968949,
+			"_hasShrinkwrap": false
+		},
+		"0.0.24-alpha": {
+			"name": "@types/uniq",
+			"version": "0.0.24-alpha",
+			"description": "TypeScript definitions for uniq",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uniq@0.0.24-alpha",
+			"_shasum": "3d1a5eb7d3a5d9e2229bde1b22bf3022b28c60d9",
+			"_from": "output\\uniq",
+			"_resolved": "file:output\\uniq",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "3d1a5eb7d3a5d9e2229bde1b22bf3022b28c60d9",
+				"size": 990,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.24-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.24-alpha.tgz_1467595662722_0.1876901329960674"
+			},
+			"directories": {},
+			"publish_time": 1467595663250,
+			"_cnpm_publish_time": 1467595663250,
+			"_hasShrinkwrap": false
+		},
+		"0.0.23-alpha": {
+			"name": "@types/uniq",
+			"version": "0.0.23-alpha",
+			"description": "TypeScript definitions for uniq",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uniq@0.0.23-alpha",
+			"_shasum": "71b7624d08a48df253306cd2fba60f2bd2162fda",
+			"_from": "output\\uniq",
+			"_resolved": "file:output\\uniq",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "71b7624d08a48df253306cd2fba60f2bd2162fda",
+				"size": 996,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.23-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.23-alpha.tgz_1467430518315_0.8885113839060068"
+			},
+			"directories": {},
+			"publish_time": 1467430521686,
+			"_cnpm_publish_time": 1467430521686,
+			"_hasShrinkwrap": false
+		},
+		"0.0.22-alpha": {
+			"name": "@types/uniq",
+			"version": "0.0.22-alpha",
+			"description": "TypeScript definitions for uniq",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uniq@0.0.22-alpha",
+			"_shasum": "396511210c40d01d4b87e0e30ebfd18421b877f3",
+			"_from": "output\\uniq",
+			"_resolved": "file:output\\uniq",
+			"_npmVersion": "3.7.2",
+			"_nodeVersion": "6.2.1",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "396511210c40d01d4b87e0e30ebfd18421b877f3",
+				"size": 993,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.22-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.22-alpha.tgz_1467418511652_0.23433728306554258"
+			},
+			"directories": {},
+			"publish_time": 1467418513699,
+			"_cnpm_publish_time": 1467418513699,
+			"_hasShrinkwrap": false
+		},
+		"0.0.21-alpha": {
+			"name": "@types/uniq",
+			"version": "0.0.21-alpha",
+			"description": "TypeScript definitions for uniq",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"repository": {
+				"type": "git",
+				"url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uniq@0.0.21-alpha",
+			"_shasum": "c4ab2513d38fb5eb1cd9e9cbfd8a29f3f9206adc",
+			"_from": "output\\uniq",
+			"_resolved": "file:output\\uniq",
+			"_npmVersion": "3.9.5",
+			"_nodeVersion": "6.2.2",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "c4ab2513d38fb5eb1cd9e9cbfd8a29f3f9206adc",
+				"size": 987,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.21-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.21-alpha.tgz_1467406004436_0.02048592991195619"
+			},
+			"directories": {},
+			"publish_time": 1467406005039,
+			"_cnpm_publish_time": 1467406005039,
+			"_hasShrinkwrap": false
+		},
+		"0.0.20-alpha": {
+			"name": "@types/uniq",
+			"version": "0.0.20-alpha",
+			"description": "TypeScript definitions for uniq",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uniq@0.0.20-alpha",
+			"_shasum": "23cddb63a71afc3ca69a83b45d5264b344a4ebea",
+			"_from": "output\\uniq",
+			"_resolved": "file:output\\uniq",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "23cddb63a71afc3ca69a83b45d5264b344a4ebea",
+				"size": 960,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.20-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.20-alpha.tgz_1464156402571_0.6967615790199488"
+			},
+			"directories": {},
+			"publish_time": 1464156403015,
+			"_cnpm_publish_time": 1464156403015,
+			"_hasShrinkwrap": false
+		},
+		"0.0.19-alpha": {
+			"name": "@types/uniq",
+			"version": "0.0.19-alpha",
+			"description": "TypeScript definitions for uniq",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uniq@0.0.19-alpha",
+			"_shasum": "db3a4bce7b11c87e57c30a4529d4fb0b16c24683",
+			"_from": "output\\uniq",
+			"_resolved": "file:output\\uniq",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "db3a4bce7b11c87e57c30a4529d4fb0b16c24683",
+				"size": 959,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.19-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.19-alpha.tgz_1463777495638_0.6233364089857787"
+			},
+			"directories": {},
+			"publish_time": 1463777496074,
+			"_cnpm_publish_time": 1463777496074,
+			"_hasShrinkwrap": false
+		},
+		"0.0.14-alpha": {
+			"name": "@types/uniq",
+			"version": "0.0.14-alpha",
+			"description": "Type definitions for uniq from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uniq@0.0.14-alpha",
+			"_shasum": "565e6a0d354df27c41358081abec1c5f0a49ab3e",
+			"_from": "output\\uniq",
+			"_resolved": "file:output\\uniq",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "565e6a0d354df27c41358081abec1c5f0a49ab3e",
+				"size": 964,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.14-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.14-alpha.tgz_1463697473611_0.4260681609157473"
+			},
+			"directories": {},
+			"publish_time": 1463697478274,
+			"_cnpm_publish_time": 1463697478274,
+			"_hasShrinkwrap": false
+		},
+		"0.0.13-alpha": {
+			"name": "@types/uniq",
+			"version": "0.0.13-alpha",
+			"description": "Type definitions for uniq from https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+			"main": "",
+			"scripts": {},
+			"author": {
+				"name": "Hans Windhoff",
+				"email": "https://github.com/hansrwindhoff"
+			},
+			"license": "MIT",
+			"typings": "index.d.ts",
+			"dependencies": {},
+			"_id": "@types/uniq@0.0.13-alpha",
+			"_shasum": "e73e8d1f48de405d6e56149b88008b3b9be2fb03",
+			"_from": "output\\uniq",
+			"_resolved": "file:output\\uniq",
+			"_npmVersion": "3.8.2",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "types",
+				"email": "ryan.cavanaugh@microsoft.com"
+			},
+			"dist": {
+				"shasum": "e73e8d1f48de405d6e56149b88008b3b9be2fb03",
+				"size": 959,
+				"noattachment": false,
+				"tarball": "http://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.13-alpha.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "types",
+					"email": "ts-npm-types@microsoft.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/uniq-0.0.13-alpha.tgz_1463512173959_0.6333970946725458"
+			},
+			"directories": {},
+			"publish_time": 1463512174484,
+			"_cnpm_publish_time": 1463512174484,
+			"_hasShrinkwrap": false
+		}
+	},
+	"dist-tags": {
+		"latest": "0.0.27",
+		"ts2.0": "0.0.27",
+		"ts2.1": "0.0.27",
+		"ts2.2": "0.0.27",
+		"ts2.3": "0.0.27",
+		"ts2.4": "0.0.27",
+		"ts2.5": "0.0.27",
+		"ts2.6": "0.0.27",
+		"ts2.7": "0.0.27",
+		"ts2.8": "0.0.27",
+		"ts2.9": "0.0.27",
+		"ts3.0": "0.0.27",
+		"ts3.1": "0.0.27",
+		"ts3.2": "0.0.27"
+	},
+	"time": {
+		"modified": "2018-10-10T20:30:33.000Z",
+		"created": "2016-05-17T19:09:34.484Z",
+		"0.0.27": "2016-09-19T18:17:05.317Z",
+		"0.0.26": "2016-07-14T16:17:54.816Z",
+		"0.0.25-alpha": "2016-07-08T21:39:28.949Z",
+		"0.0.24-alpha": "2016-07-04T01:27:43.250Z",
+		"0.0.23-alpha": "2016-07-02T03:35:21.686Z",
+		"0.0.22-alpha": "2016-07-02T00:15:13.699Z",
+		"0.0.21-alpha": "2016-07-01T20:46:45.039Z",
+		"0.0.20-alpha": "2016-05-25T06:06:43.015Z",
+		"0.0.19-alpha": "2016-05-20T20:51:36.074Z",
+		"0.0.14-alpha": "2016-05-19T22:37:58.274Z",
+		"0.0.13-alpha": "2016-05-17T19:09:34.484Z"
+	},
+	"_distfiles": {
+		"uniq-0.0.27.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.27.tgz",
+			"sha": "b1060a7256f13d8dc82c9591e5732a6245912ea2",
+			"registry": "cnpmjs"
+		},
+		"uniq-0.0.26.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.26.tgz",
+			"sha": "942afeb887a72eb36ffeabffeb2c60a1245039f1",
+			"registry": "cnpmjs"
+		},
+		"uniq-0.0.25-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.25-alpha.tgz",
+			"sha": "3e3b784e23439bc9a68d321a516ac9d23d646ad3",
+			"registry": "cnpmjs"
+		},
+		"uniq-0.0.24-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.24-alpha.tgz",
+			"sha": "3d1a5eb7d3a5d9e2229bde1b22bf3022b28c60d9",
+			"registry": "cnpmjs"
+		},
+		"uniq-0.0.23-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.23-alpha.tgz",
+			"sha": "71b7624d08a48df253306cd2fba60f2bd2162fda",
+			"registry": "cnpmjs"
+		},
+		"uniq-0.0.22-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.22-alpha.tgz",
+			"sha": "396511210c40d01d4b87e0e30ebfd18421b877f3",
+			"registry": "cnpmjs"
+		},
+		"uniq-0.0.21-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.21-alpha.tgz",
+			"sha": "c4ab2513d38fb5eb1cd9e9cbfd8a29f3f9206adc",
+			"registry": "cnpmjs"
+		},
+		"uniq-0.0.20-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.20-alpha.tgz",
+			"sha": "23cddb63a71afc3ca69a83b45d5264b344a4ebea",
+			"registry": "cnpmjs"
+		},
+		"uniq-0.0.19-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.19-alpha.tgz",
+			"sha": "db3a4bce7b11c87e57c30a4529d4fb0b16c24683",
+			"registry": "cnpmjs"
+		},
+		"uniq-0.0.14-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.14-alpha.tgz",
+			"sha": "565e6a0d354df27c41358081abec1c5f0a49ab3e",
+			"registry": "cnpmjs"
+		},
+		"uniq-0.0.13-alpha.tgz": {
+			"url": "https://registry.npm.taobao.org/@types/uniq/download/@types/uniq-0.0.13-alpha.tgz",
+			"sha": "e73e8d1f48de405d6e56149b88008b3b9be2fb03",
+			"registry": "cnpmjs"
+		}
+	},
+	"_attachments": {},
+	"_uplinks": {
+		"cnpmjs": {
+			"fetched": 1541833489676
+		}
+	},
+	"_rev": "2-7efa6bd7dc5e1c9c",
+	"readme": "# Installation\r\n> `npm install --save @types/uniq`\r\n\r\n# Summary\r\nThis package contains type definitions for uniq (https://www.npmjs.com/package/uniq).\r\n\r\n# Details\r\nFiles were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/types-2.0/uniq\r\n\r\nAdditional Details\r\n * Last updated: Mon, 19 Sep 2016 17:28:59 GMT\r\n * File structure: Mixed\r\n * Library Dependencies: none\r\n * Module Dependencies: none\r\n * Global values: uniq\r\n\r\n# Credits\r\nThese definitions were written by Hans Windhoff <https://github.com/hansrwindhoff>."
+}
